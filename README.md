@@ -19,9 +19,9 @@ Hébergé sur [Hostinger](https://www.hostinger.com/) avec auto-deploy depuis ce
 
 ## TODO avant mise en production
 
-- [ ] Remplacer l'URL LinkedIn placeholder dans `index.html` (`https://linkedin.com/in/thibaut-pouyet`)
-- [ ] Remplacer l'URL Instagram placeholder dans `index.html` (`https://instagram.com/thibautpouyet`)
-- [ ] Remplacer l'URL X placeholder dans `index.html` (`https://x.com/thibautpouyet`)
+- [x] Remplacer l'URL LinkedIn placeholder dans `index.html`
+- [x] Remplacer l'URL Instagram placeholder dans `index.html`
+- [x] Remplacer l'URL X placeholder dans `index.html`
 - [ ] Vérifier que `./design-system.html` est bien accessible en relatif depuis la racine
 
 ## Licence
