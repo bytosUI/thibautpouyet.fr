@@ -1,25 +1,18 @@
 {
-  "updatedAt": "2026-04-21T21:37:27.427Z",
+  "updatedAt": "2026-04-21T21:48:25.905Z",
   "twitch": {
     "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 12687,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
       {
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 19,
+        "viewers": 51,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "micode",
       "nowtechteam",
@@ -29,15 +22,24 @@
   },
   "youtube": {
     "latest": {
-      "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
-      "channel": "Mcfly et Carlito",
-      "channelHandle": "LeFatShow",
-      "videoId": "j6V70tSzCxg",
-      "thumbnail": "https://i.ytimg.com/vi/j6V70tSzCxg/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=j6V70tSzCxg",
-      "publishedAt": "2026-04-21T15:13:36+00:00"
+      "title": "Pourquoi Altman vend la peur qu'il crée ?",
+      "channel": "Silicon Carne 🌶️",
+      "channelHandle": "siliconcarnepod",
+      "videoId": "iXx73Tw_-vY",
+      "thumbnail": "https://i.ytimg.com/vi/iXx73Tw_-vY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=iXx73Tw_-vY",
+      "publishedAt": "2026-04-21T16:02:15+00:00"
     },
     "recent": [
+      {
+        "title": "Pourquoi Altman vend la peur qu'il crée ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "iXx73Tw_-vY",
+        "thumbnail": "https://i.ytimg.com/vi/iXx73Tw_-vY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iXx73Tw_-vY",
+        "publishedAt": "2026-04-21T16:02:15+00:00"
+      },
       {
         "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
         "channel": "Mcfly et Carlito",
@@ -64,15 +66,6 @@
         "thumbnail": "https://i.ytimg.com/vi/rtwvlnb_6gg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rtwvlnb_6gg",
         "publishedAt": "2026-04-21T13:31:03+00:00"
-      },
-      {
-        "title": "SON OEIL A ÉTÉ ASPIRÉ ALORS QU’IL ALLAIT SE FAIRE OPÉRER DES SINUS !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "qW60gAypdlQ",
-        "thumbnail": "https://i.ytimg.com/vi/qW60gAypdlQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qW60gAypdlQ",
-        "publishedAt": "2026-04-21T12:31:10+00:00"
       }
     ]
   },
@@ -114,15 +107,15 @@
     "recent": [
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Refresh hero copy, availability badge & avatar logo",
-        "time": "hier",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/5eb2512ac0c5f376b5f93b9f4aa9b6a4ad5f05be"
+        "message": "Add /bento personal hub with auto-refreshed data",
+        "time": "il y a 3 min",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add OG meta, theme-color & apple-touch-icon",
-        "time": "il y a 2 j",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/77854f09f2af5358ab5e7c955098d3159ec6f8f7"
+        "message": "Refresh hero copy, availability badge & avatar logo",
+        "time": "hier",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/5eb2512ac0c5f376b5f93b9f4aa9b6a4ad5f05be"
       }
     ]
   },
