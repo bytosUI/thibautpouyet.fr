@@ -1,0 +1,48 @@
+name: Hub · refresh data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/build-hub.mjs'
+      - 'scripts/config.json'
+      - '.github/workflows/hub-data.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hub-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build hub data
+        env:
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build-hub.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "bytosUI-bot"
+          git config user.email "bot@thibautpouyet.fr"
+          if git diff --quiet bento/data.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git add bento/data.json
+          git commit -m "chore(hub): refresh data [skip ci]"
+          git push

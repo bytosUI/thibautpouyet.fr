@@ -1,0 +1,161 @@
+{
+  "updatedAt": "2026-04-21T21:37:27.427Z",
+  "twitch": {
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 12687,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 19,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
+    "offline": [
+      "bastiui",
+      "micode",
+      "nowtechteam",
+      "origatwitch",
+      "firsteam"
+    ]
+  },
+  "youtube": {
+    "latest": {
+      "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
+      "channel": "Mcfly et Carlito",
+      "channelHandle": "LeFatShow",
+      "videoId": "j6V70tSzCxg",
+      "thumbnail": "https://i.ytimg.com/vi/j6V70tSzCxg/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=j6V70tSzCxg",
+      "publishedAt": "2026-04-21T15:13:36+00:00"
+    },
+    "recent": [
+      {
+        "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "j6V70tSzCxg",
+        "thumbnail": "https://i.ytimg.com/vi/j6V70tSzCxg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=j6V70tSzCxg",
+        "publishedAt": "2026-04-21T15:13:36+00:00"
+      },
+      {
+        "title": "LEUR MÈRE DÉCIDE DE MOURIR... ELLES L'ACCOMPAGNENT JUSQU'AU BOUT ! ELLES RACONTENT POUR LA 1ÈRE FOIS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "nDFqzrHWgOg",
+        "thumbnail": "https://i.ytimg.com/vi/nDFqzrHWgOg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nDFqzrHWgOg",
+        "publishedAt": "2026-04-21T15:12:48+00:00"
+      },
+      {
+        "title": "OEIL ASPIRÉ : “JE ME REGARDE DANS LE MIROIR ÇA ME DÉGOUTE”",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "rtwvlnb_6gg",
+        "thumbnail": "https://i.ytimg.com/vi/rtwvlnb_6gg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rtwvlnb_6gg",
+        "publishedAt": "2026-04-21T13:31:03+00:00"
+      },
+      {
+        "title": "SON OEIL A ÉTÉ ASPIRÉ ALORS QU’IL ALLAIT SE FAIRE OPÉRER DES SINUS !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "qW60gAypdlQ",
+        "thumbnail": "https://i.ytimg.com/vi/qW60gAypdlQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qW60gAypdlQ",
+        "publishedAt": "2026-04-21T12:31:10+00:00"
+      }
+    ]
+  },
+  "films": {
+    "top5": [
+      {
+        "title": "Interstellar",
+        "year": 2014,
+        "poster": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "url": "https://www.themoviedb.org/movie/157336"
+      },
+      {
+        "title": "Drive",
+        "year": 2011,
+        "poster": "https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
+        "url": "https://www.themoviedb.org/movie/64690"
+      },
+      {
+        "title": "Pulp Fiction",
+        "year": 1994,
+        "poster": "https://image.tmdb.org/t/p/w342/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "url": "https://www.themoviedb.org/movie/680"
+      },
+      {
+        "title": "Retour vers le futur",
+        "year": 1985,
+        "poster": "https://image.tmdb.org/t/p/w342/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+        "url": "https://www.themoviedb.org/movie/105"
+      },
+      {
+        "title": "Her",
+        "year": 2013,
+        "poster": "https://image.tmdb.org/t/p/w342/nkWXW5blXGmOEoDejRgy83sSb6T.jpg",
+        "url": "https://www.themoviedb.org/movie/152601"
+      }
+    ]
+  },
+  "github": {
+    "recent": [
+      {
+        "repo": "bytosUI/thibautpouyet.fr",
+        "message": "Refresh hero copy, availability badge & avatar logo",
+        "time": "hier",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/5eb2512ac0c5f376b5f93b9f4aa9b6a4ad5f05be"
+      },
+      {
+        "repo": "bytosUI/thibautpouyet.fr",
+        "message": "Add OG meta, theme-color & apple-touch-icon",
+        "time": "il y a 2 j",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/77854f09f2af5358ab5e7c955098d3159ec6f8f7"
+      }
+    ]
+  },
+  "veille": {
+    "items": [
+      {
+        "source": "01net · Apps",
+        "title": "Windows 11 : Rufus profite d’une importante mise à jour qui lui offre de nouveaux pouvoirs",
+        "url": "https://www.01net.com/actualites/windows-11-rufus-profite-dune-importante-mise-a-jour-qui-lui-offre-de-nouveaux-pouvoirs.html",
+        "date": "il y a 5 h",
+        "publishedAt": "2026-04-21T15:58:23.000Z"
+      },
+      {
+        "source": "01net · Culture",
+        "title": "Apple TV est désormais disponible sur Amazon Prime Video",
+        "url": "https://www.01net.com/actualites/apple-tv-desormais-accessible-prime-video.html",
+        "date": "il y a 10 h",
+        "publishedAt": "2026-04-21T11:28:47.000Z"
+      },
+      {
+        "source": "01net · Apps",
+        "title": "Google Photos : cette nouvelle fonction pour vos selfies va diviser les puristes",
+        "url": "https://www.01net.com/actualites/google-photos-nouvelle-fonction-pour-selfies-diviser-puristes.html",
+        "date": "il y a 10 h",
+        "publishedAt": "2026-04-21T10:57:05.000Z"
+      },
+      {
+        "source": "01net · Apps",
+        "title": "WhatsApp Plus : on connaît le prix et les fonctionnalités de l’abonnement payant",
+        "url": "https://www.01net.com/actualites/whatsapp-plus-on-connait-prix-fonctionnalites-abonnement-payant.html",
+        "date": "il y a 12 h",
+        "publishedAt": "2026-04-21T09:25:29.000Z"
+      }
+    ]
+  }
+}

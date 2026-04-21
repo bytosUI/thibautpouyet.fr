@@ -208,6 +208,24 @@
       box-shadow: 0 0 0 3px color-mix(in srgb, #00C96B 25%, transparent);
       animation: pulse 2s ease-in-out infinite;
     }
+
+    /* Lien Hub perso */
+    .hub-link {
+      display: inline-flex; align-items: center; gap: .375rem;
+      padding: .3rem .625rem;
+      border-radius: 9999px;
+      font-size: .7rem; font-weight: 500;
+      color: var(--color-neutral-500);
+      background: transparent;
+      border: 1px solid var(--color-neutral-200);
+      text-decoration: none;
+      transition: color .2s, border-color .2s, transform .2s;
+    }
+    .hub-link:hover {
+      color: var(--color-primary);
+      border-color: color-mix(in srgb, var(--color-primary) 28%, var(--color-neutral-200));
+      transform: translateX(2px);
+    }
     @keyframes pulse {
       0%, 100% { box-shadow: 0 0 0 3px color-mix(in srgb, #00C96B 25%, transparent); }
       50%      { box-shadow: 0 0 0 6px color-mix(in srgb, #00C96B 10%, transparent); }
@@ -287,11 +305,15 @@
         </p>
       </div>
 
-      <div>
+      <div class="flex items-center gap-2 flex-wrap">
         <span class="badge-dispo">
           <span class="badge-dot-live"></span>
           Disponible
         </span>
+        <a href="./bento/" class="hub-link">
+          <iconify-icon icon="heroicons:squares-plus" width="12"></iconify-icon>
+          Hub perso
+        </a>
       </div>
     </section>
 

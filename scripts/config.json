@@ -1,0 +1,45 @@
+{
+  "twitch": {
+    "users": [
+      "domingo",
+      "bastiui",
+      "micode",
+      "nowtechteam",
+      "origatwitch",
+      "firsteam",
+      "thetangerineclub"
+    ]
+  },
+  "youtube": {
+    "channels": [
+      { "handle": "SneakyRamy",       "id": "UCUkcknjfu4gwMbGWLdcyZrA" },
+      { "handle": "racheletemilien",  "id": "UCzxe_ob_s2oCdvchCJ6wcBg" },
+      { "handle": "LeFatShow",        "id": "UCDPK_MTu3uTUFJXRVcTJcEw" },
+      { "handle": "Squeezie",         "id": "UCWeg2Pkate69NFdBeuRFTAw" },
+      { "handle": "DaronsduBiz",      "id": "UCqcw2PmHblqd-Qqxe5G0C9Q" },
+      { "handle": "17heures17",       "id": "UC-vOQ5dUB0x84DnOb0Ww8Sg" },
+      { "handle": "siliconcarnepod",  "id": "UCt11zYNefnunOkgCrsO9UYg" },
+      { "handle": "legendmedia",      "id": "UCIh7PDUAP226Pa_NtjN9Jqw" },
+      { "handle": "Paulygones",       "id": "UCflHaa_47QnIfFlKrGG6TIg" }
+    ]
+  },
+  "films": {
+    "top5": [
+      { "title": "Interstellar",         "year": 2014, "tmdbId": 157336, "posterPath": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg" },
+      { "title": "Drive",                "year": 2011, "tmdbId": 64690,  "posterPath": "/602vevIURmpDfzbnv5Ubi6wIkQm.jpg" },
+      { "title": "Pulp Fiction",         "year": 1994, "tmdbId": 680,    "posterPath": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg" },
+      { "title": "Retour vers le futur", "year": 1985, "tmdbId": 105,    "posterPath": "/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg" },
+      { "title": "Her",                  "year": 2013, "tmdbId": 152601, "posterPath": "/nkWXW5blXGmOEoDejRgy83sSb6T.jpg" }
+    ]
+  },
+  "github": {
+    "username": "bytosUI"
+  },
+  "veille": {
+    "feeds": [
+      { "source": "01net · Culture",  "url": "https://www.01net.com/actualites/culture-medias/feed/" },
+      { "source": "01net · Apps",     "url": "https://www.01net.com/actualites/applis-logiciels/feed/" },
+      { "source": "01net · Jeux",     "url": "https://www.01net.com/actualites/jeux-video/feed/" }
+    ]
+  }
+}
