@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-04-21T21:49:27.496Z",
+  "updatedAt": "2026-04-21T23:53:47.398Z",
   "twitch": {
     "live": [
       {
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 51,
+        "viewers": 110,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -22,50 +22,41 @@
   },
   "youtube": {
     "latest": {
-      "title": "Pourquoi Altman vend la peur qu'il crée ?",
-      "channel": "Silicon Carne 🌶️",
-      "channelHandle": "siliconcarnepod",
-      "videoId": "iXx73Tw_-vY",
-      "thumbnail": "https://i.ytimg.com/vi/iXx73Tw_-vY/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=iXx73Tw_-vY",
-      "publishedAt": "2026-04-21T16:02:15+00:00"
+      "title": "Une livraison de 20T pour ca ? #19",
+      "channel": "17h17",
+      "channelHandle": "17heures17",
+      "videoId": "GT8bKeaYso8",
+      "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
+      "publishedAt": "2026-04-19T15:17:00+00:00"
     },
     "recent": [
       {
-        "title": "Pourquoi Altman vend la peur qu'il crée ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "iXx73Tw_-vY",
-        "thumbnail": "https://i.ytimg.com/vi/iXx73Tw_-vY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iXx73Tw_-vY",
-        "publishedAt": "2026-04-21T16:02:15+00:00"
+        "title": "Une livraison de 20T pour ca ? #19",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "GT8bKeaYso8",
+        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
+        "publishedAt": "2026-04-19T15:17:00+00:00"
       },
       {
-        "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "j6V70tSzCxg",
-        "thumbnail": "https://i.ytimg.com/vi/j6V70tSzCxg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j6V70tSzCxg",
-        "publishedAt": "2026-04-21T15:13:36+00:00"
+        "title": "Je construis un abri à partir d’une ruine #18",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "428W6Ulb0zA",
+        "thumbnail": "https://i.ytimg.com/vi/428W6Ulb0zA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=428W6Ulb0zA",
+        "publishedAt": "2026-04-05T15:17:00+00:00"
       },
       {
-        "title": "LEUR MÈRE DÉCIDE DE MOURIR... ELLES L'ACCOMPAGNENT JUSQU'AU BOUT ! ELLES RACONTENT POUR LA 1ÈRE FOIS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "nDFqzrHWgOg",
-        "thumbnail": "https://i.ytimg.com/vi/nDFqzrHWgOg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nDFqzrHWgOg",
-        "publishedAt": "2026-04-21T15:12:48+00:00"
-      },
-      {
-        "title": "OEIL ASPIRÉ : “JE ME REGARDE DANS LE MIROIR ÇA ME DÉGOUTE”",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "rtwvlnb_6gg",
-        "thumbnail": "https://i.ytimg.com/vi/rtwvlnb_6gg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rtwvlnb_6gg",
-        "publishedAt": "2026-04-21T13:31:03+00:00"
+        "title": "Le potentiel de cet endroit était bien caché. #17",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "xslg04zmXNw",
+        "thumbnail": "https://i.ytimg.com/vi/xslg04zmXNw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xslg04zmXNw",
+        "publishedAt": "2026-03-22T16:17:00+00:00"
       }
     ]
   },
@@ -108,13 +99,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "il y a 4 min",
+        "time": "il y a 2 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Refresh hero copy, availability badge & avatar logo",
-        "time": "hier",
+        "time": "il y a 2 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/5eb2512ac0c5f376b5f93b9f4aa9b6a4ad5f05be"
       }
     ]
@@ -125,28 +116,28 @@
         "source": "01net · Apps",
         "title": "Windows 11 : Rufus profite d’une importante mise à jour qui lui offre de nouveaux pouvoirs",
         "url": "https://www.01net.com/actualites/windows-11-rufus-profite-dune-importante-mise-a-jour-qui-lui-offre-de-nouveaux-pouvoirs.html",
-        "date": "il y a 5 h",
+        "date": "il y a 7 h",
         "publishedAt": "2026-04-21T15:58:23.000Z"
       },
       {
         "source": "01net · Culture",
         "title": "Apple TV est désormais disponible sur Amazon Prime Video",
         "url": "https://www.01net.com/actualites/apple-tv-desormais-accessible-prime-video.html",
-        "date": "il y a 10 h",
+        "date": "il y a 12 h",
         "publishedAt": "2026-04-21T11:28:47.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Google Photos : cette nouvelle fonction pour vos selfies va diviser les puristes",
         "url": "https://www.01net.com/actualites/google-photos-nouvelle-fonction-pour-selfies-diviser-puristes.html",
-        "date": "il y a 10 h",
+        "date": "il y a 12 h",
         "publishedAt": "2026-04-21T10:57:05.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "WhatsApp Plus : on connaît le prix et les fonctionnalités de l’abonnement payant",
         "url": "https://www.01net.com/actualites/whatsapp-plus-on-connait-prix-fonctionnalites-abonnement-payant.html",
-        "date": "il y a 12 h",
+        "date": "il y a 14 h",
         "publishedAt": "2026-04-21T09:25:29.000Z"
       }
     ]
