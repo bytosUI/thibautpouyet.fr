@@ -1,25 +1,10 @@
 {
-  "updatedAt": "2026-04-22T15:53:13.296Z",
+  "updatedAt": "2026-04-22T19:56:16.277Z",
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Tides of Tomorrow",
-        "viewers": 6004,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 2432,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
+      "bastiui",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -29,15 +14,33 @@
   },
   "youtube": {
     "latest": {
-      "title": "ELLE DIT AU REVOIR À SON CHAT ET À SON JARDIN POUR LA DERNIÈRE FOIS",
-      "channel": "LEGEND",
-      "channelHandle": "legendmedia",
-      "videoId": "uarvx9jxK0I",
-      "thumbnail": "https://i.ytimg.com/vi/uarvx9jxK0I/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=uarvx9jxK0I",
-      "publishedAt": "2026-04-22T15:29:11+00:00"
+      "title": "Pourquoi les clients disparaissent en silence ?",
+      "channel": "Silicon Carne 🌶️",
+      "channelHandle": "siliconcarnepod",
+      "videoId": "QM7oSVS4KCU",
+      "thumbnail": "https://i.ytimg.com/vi/QM7oSVS4KCU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=QM7oSVS4KCU",
+      "publishedAt": "2026-04-22T17:01:48+00:00"
     },
     "recent": [
+      {
+        "title": "Pourquoi les clients disparaissent en silence ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "QM7oSVS4KCU",
+        "thumbnail": "https://i.ytimg.com/vi/QM7oSVS4KCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QM7oSVS4KCU",
+        "publishedAt": "2026-04-22T17:01:48+00:00"
+      },
+      {
+        "title": "LEUR MAMAN A DÉCIDÉ DE MOURIR, COMMENT ÇA SE PASSE ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Q6jtw7XPu0k",
+        "thumbnail": "https://i.ytimg.com/vi/Q6jtw7XPu0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q6jtw7XPu0k",
+        "publishedAt": "2026-04-22T16:57:26+00:00"
+      },
       {
         "title": "ELLE DIT AU REVOIR À SON CHAT ET À SON JARDIN POUR LA DERNIÈRE FOIS",
         "channel": "LEGEND",
@@ -55,24 +58,6 @@
         "thumbnail": "https://i.ytimg.com/vi/m4tYCQrjWeI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=m4tYCQrjWeI",
         "publishedAt": "2026-04-22T14:42:24+00:00"
-      },
-      {
-        "title": "AIDER LEUR MÈRE À MOURIR… MÊME SI C’EST INTERDIT ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "zKKLJJUHt7w",
-        "thumbnail": "https://i.ytimg.com/vi/zKKLJJUHt7w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zKKLJJUHt7w",
-        "publishedAt": "2026-04-22T12:31:31+00:00"
-      },
-      {
-        "title": "ELLES ONT DÛ ÉCRIRE UNE LETTRE DE MOTIVATION POUR PERMETTRE LA MORT DE LEUR MÈRE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "2G8qLQwYLcE",
-        "thumbnail": "https://i.ytimg.com/vi/2G8qLQwYLcE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2G8qLQwYLcE",
-        "publishedAt": "2026-04-22T12:00:05+00:00"
       }
     ]
   },
@@ -115,7 +100,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "il y a 18 h",
+        "time": "il y a 22 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       },
       {
@@ -130,31 +115,31 @@
     "items": [
       {
         "source": "01net · Apps",
+        "title": "Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau",
+        "url": "https://www.01net.com/actualites/google-maps-street-view-ia-decors-cinema-maps-imagery-grounding.html",
+        "date": "il y a 3 h",
+        "publishedAt": "2026-04-22T15:58:01.000Z"
+      },
+      {
+        "source": "01net · Apps",
         "title": "L’AirDrop de Nothing revient en catimini après son retrait brutal",
         "url": "https://www.01net.com/actualites/lairdrop-de-nothing-revient-en-catimini-apres-son-retrait-brutal.html",
-        "date": "il y a 1 h",
+        "date": "il y a 5 h",
         "publishedAt": "2026-04-22T14:48:10.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Opera embarque YouTube et Twitch dans sa barre latérale et fait monter le son",
         "url": "https://www.01net.com/actualites/opera-embarque-youtube-et-twitch-dans-sa-barre-laterale-et-fait-monter-le-son.html",
-        "date": "il y a 5 h",
+        "date": "il y a 9 h",
         "publishedAt": "2026-04-22T10:16:56.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Google Wallet ajoute enfin les « Mises à jour en direct » : voici à quoi ça ressemble",
         "url": "https://www.01net.com/actualites/google-wallet-ajoute-mises-a-jour-en-direct-voici-quoi-ca-ressemble.html",
-        "date": "il y a 9 h",
+        "date": "il y a 13 h",
         "publishedAt": "2026-04-22T06:20:33.000Z"
-      },
-      {
-        "source": "01net · Apps",
-        "title": "Windows 11 : Rufus profite d’une importante mise à jour qui lui offre de nouveaux pouvoirs",
-        "url": "https://www.01net.com/actualites/windows-11-rufus-profite-dune-importante-mise-a-jour-qui-lui-offre-de-nouveaux-pouvoirs.html",
-        "date": "il y a 23 h",
-        "publishedAt": "2026-04-21T15:58:23.000Z"
       }
     ]
   }
