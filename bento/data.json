@@ -1,71 +1,78 @@
 {
-  "updatedAt": "2026-04-22T10:49:47.684Z",
+  "updatedAt": "2026-04-22T15:53:13.296Z",
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Magin: The Rat Project Stories",
-        "viewers": 130,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Tides of Tomorrow",
+        "viewers": 6004,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 2432,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
-      "domingo",
-      "bastiui",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "latest": {
-      "title": "ELLE RACONTE LE MOMENT OÙ LEUR MÈRE A TOURNÉ LA MOLETTE POUR METTRE FIN À SA VIE",
+      "title": "ELLE DIT AU REVOIR À SON CHAT ET À SON JARDIN POUR LA DERNIÈRE FOIS",
       "channel": "LEGEND",
       "channelHandle": "legendmedia",
-      "videoId": "hy3oUSCudHM",
-      "thumbnail": "https://i.ytimg.com/vi/hy3oUSCudHM/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=hy3oUSCudHM",
-      "publishedAt": "2026-04-22T09:07:08+00:00"
+      "videoId": "uarvx9jxK0I",
+      "thumbnail": "https://i.ytimg.com/vi/uarvx9jxK0I/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=uarvx9jxK0I",
+      "publishedAt": "2026-04-22T15:29:11+00:00"
     },
     "recent": [
       {
-        "title": "ELLE RACONTE LE MOMENT OÙ LEUR MÈRE A TOURNÉ LA MOLETTE POUR METTRE FIN À SA VIE",
+        "title": "ELLE DIT AU REVOIR À SON CHAT ET À SON JARDIN POUR LA DERNIÈRE FOIS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "hy3oUSCudHM",
-        "thumbnail": "https://i.ytimg.com/vi/hy3oUSCudHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hy3oUSCudHM",
-        "publishedAt": "2026-04-22T09:07:08+00:00"
+        "videoId": "uarvx9jxK0I",
+        "thumbnail": "https://i.ytimg.com/vi/uarvx9jxK0I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uarvx9jxK0I",
+        "publishedAt": "2026-04-22T15:29:11+00:00"
       },
       {
-        "title": "LEUR MÈRE DÉCIDE DE MOURIR... ELLES L'ACCOMPAGNENT JUSQU'AU BOUT ! ELLES RACONTENT POUR LA 1ÈRE FOIS",
+        "title": "Le jeu vidéo, c'est de l'art ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "m4tYCQrjWeI",
+        "thumbnail": "https://i.ytimg.com/vi/m4tYCQrjWeI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m4tYCQrjWeI",
+        "publishedAt": "2026-04-22T14:42:24+00:00"
+      },
+      {
+        "title": "AIDER LEUR MÈRE À MOURIR… MÊME SI C’EST INTERDIT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "nDFqzrHWgOg",
-        "thumbnail": "https://i.ytimg.com/vi/nDFqzrHWgOg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nDFqzrHWgOg",
-        "publishedAt": "2026-04-22T09:00:06+00:00"
+        "videoId": "zKKLJJUHt7w",
+        "thumbnail": "https://i.ytimg.com/vi/zKKLJJUHt7w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zKKLJJUHt7w",
+        "publishedAt": "2026-04-22T12:31:31+00:00"
       },
       {
-        "title": "La Chine a-t-elle déjà gagné la bataille technologique ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "f6vO5AR3478",
-        "thumbnail": "https://i.ytimg.com/vi/f6vO5AR3478/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f6vO5AR3478",
-        "publishedAt": "2026-04-22T06:30:30+00:00"
-      },
-      {
-        "title": "Pourquoi Altman vend la peur qu'il crée ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "iXx73Tw_-vY",
-        "thumbnail": "https://i.ytimg.com/vi/iXx73Tw_-vY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iXx73Tw_-vY",
-        "publishedAt": "2026-04-21T16:02:15+00:00"
+        "title": "ELLES ONT DÛ ÉCRIRE UNE LETTRE DE MOTIVATION POUR PERMETTRE LA MORT DE LEUR MÈRE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "2G8qLQwYLcE",
+        "thumbnail": "https://i.ytimg.com/vi/2G8qLQwYLcE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2G8qLQwYLcE",
+        "publishedAt": "2026-04-22T12:00:05+00:00"
       }
     ]
   },
@@ -108,7 +115,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "il y a 13 h",
+        "time": "il y a 18 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       },
       {
@@ -123,31 +130,31 @@
     "items": [
       {
         "source": "01net · Apps",
+        "title": "L’AirDrop de Nothing revient en catimini après son retrait brutal",
+        "url": "https://www.01net.com/actualites/lairdrop-de-nothing-revient-en-catimini-apres-son-retrait-brutal.html",
+        "date": "il y a 1 h",
+        "publishedAt": "2026-04-22T14:48:10.000Z"
+      },
+      {
+        "source": "01net · Apps",
         "title": "Opera embarque YouTube et Twitch dans sa barre latérale et fait monter le son",
         "url": "https://www.01net.com/actualites/opera-embarque-youtube-et-twitch-dans-sa-barre-laterale-et-fait-monter-le-son.html",
-        "date": "il y a 32 min",
+        "date": "il y a 5 h",
         "publishedAt": "2026-04-22T10:16:56.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Google Wallet ajoute enfin les « Mises à jour en direct » : voici à quoi ça ressemble",
         "url": "https://www.01net.com/actualites/google-wallet-ajoute-mises-a-jour-en-direct-voici-quoi-ca-ressemble.html",
-        "date": "il y a 4 h",
+        "date": "il y a 9 h",
         "publishedAt": "2026-04-22T06:20:33.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Windows 11 : Rufus profite d’une importante mise à jour qui lui offre de nouveaux pouvoirs",
         "url": "https://www.01net.com/actualites/windows-11-rufus-profite-dune-importante-mise-a-jour-qui-lui-offre-de-nouveaux-pouvoirs.html",
-        "date": "il y a 18 h",
-        "publishedAt": "2026-04-21T15:58:23.000Z"
-      },
-      {
-        "source": "01net · Culture",
-        "title": "Apple TV est désormais disponible sur Amazon Prime Video",
-        "url": "https://www.01net.com/actualites/apple-tv-desormais-accessible-prime-video.html",
         "date": "il y a 23 h",
-        "publishedAt": "2026-04-21T11:28:47.000Z"
+        "publishedAt": "2026-04-21T15:58:23.000Z"
       }
     ]
   }
