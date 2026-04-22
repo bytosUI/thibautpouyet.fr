@@ -1,20 +1,73 @@
 {
-  "updatedAt": "2026-04-22T06:24:02.431Z",
+  "updatedAt": "2026-04-22T10:49:47.684Z",
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Magin: The Rat Project Stories",
+        "viewers": 130,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "latest": null,
-    "recent": []
+    "latest": {
+      "title": "ELLE RACONTE LE MOMENT OÙ LEUR MÈRE A TOURNÉ LA MOLETTE POUR METTRE FIN À SA VIE",
+      "channel": "LEGEND",
+      "channelHandle": "legendmedia",
+      "videoId": "hy3oUSCudHM",
+      "thumbnail": "https://i.ytimg.com/vi/hy3oUSCudHM/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=hy3oUSCudHM",
+      "publishedAt": "2026-04-22T09:07:08+00:00"
+    },
+    "recent": [
+      {
+        "title": "ELLE RACONTE LE MOMENT OÙ LEUR MÈRE A TOURNÉ LA MOLETTE POUR METTRE FIN À SA VIE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "hy3oUSCudHM",
+        "thumbnail": "https://i.ytimg.com/vi/hy3oUSCudHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hy3oUSCudHM",
+        "publishedAt": "2026-04-22T09:07:08+00:00"
+      },
+      {
+        "title": "LEUR MÈRE DÉCIDE DE MOURIR... ELLES L'ACCOMPAGNENT JUSQU'AU BOUT ! ELLES RACONTENT POUR LA 1ÈRE FOIS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "nDFqzrHWgOg",
+        "thumbnail": "https://i.ytimg.com/vi/nDFqzrHWgOg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nDFqzrHWgOg",
+        "publishedAt": "2026-04-22T09:00:06+00:00"
+      },
+      {
+        "title": "La Chine a-t-elle déjà gagné la bataille technologique ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "f6vO5AR3478",
+        "thumbnail": "https://i.ytimg.com/vi/f6vO5AR3478/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f6vO5AR3478",
+        "publishedAt": "2026-04-22T06:30:30+00:00"
+      },
+      {
+        "title": "Pourquoi Altman vend la peur qu'il crée ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "iXx73Tw_-vY",
+        "thumbnail": "https://i.ytimg.com/vi/iXx73Tw_-vY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iXx73Tw_-vY",
+        "publishedAt": "2026-04-21T16:02:15+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -55,7 +108,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "il y a 8 h",
+        "time": "il y a 13 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       },
       {
@@ -70,31 +123,31 @@
     "items": [
       {
         "source": "01net · Apps",
+        "title": "Opera embarque YouTube et Twitch dans sa barre latérale et fait monter le son",
+        "url": "https://www.01net.com/actualites/opera-embarque-youtube-et-twitch-dans-sa-barre-laterale-et-fait-monter-le-son.html",
+        "date": "il y a 32 min",
+        "publishedAt": "2026-04-22T10:16:56.000Z"
+      },
+      {
+        "source": "01net · Apps",
         "title": "Google Wallet ajoute enfin les « Mises à jour en direct » : voici à quoi ça ressemble",
         "url": "https://www.01net.com/actualites/google-wallet-ajoute-mises-a-jour-en-direct-voici-quoi-ca-ressemble.html",
-        "date": "il y a 3 min",
+        "date": "il y a 4 h",
         "publishedAt": "2026-04-22T06:20:33.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Windows 11 : Rufus profite d’une importante mise à jour qui lui offre de nouveaux pouvoirs",
         "url": "https://www.01net.com/actualites/windows-11-rufus-profite-dune-importante-mise-a-jour-qui-lui-offre-de-nouveaux-pouvoirs.html",
-        "date": "il y a 14 h",
+        "date": "il y a 18 h",
         "publishedAt": "2026-04-21T15:58:23.000Z"
       },
       {
         "source": "01net · Culture",
         "title": "Apple TV est désormais disponible sur Amazon Prime Video",
         "url": "https://www.01net.com/actualites/apple-tv-desormais-accessible-prime-video.html",
-        "date": "il y a 18 h",
+        "date": "il y a 23 h",
         "publishedAt": "2026-04-21T11:28:47.000Z"
-      },
-      {
-        "source": "01net · Apps",
-        "title": "Google Photos : cette nouvelle fonction pour vos selfies va diviser les puristes",
-        "url": "https://www.01net.com/actualites/google-photos-nouvelle-fonction-pour-selfies-diviser-puristes.html",
-        "date": "il y a 19 h",
-        "publishedAt": "2026-04-21T10:57:05.000Z"
       }
     ]
   }
