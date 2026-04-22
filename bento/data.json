@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T19:56:16.277Z",
+  "updatedAt": "2026-04-22T22:34:22.597Z",
   "twitch": {
     "live": [],
     "offline": [
@@ -100,7 +100,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "il y a 22 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       },
       {
@@ -117,28 +117,28 @@
         "source": "01net · Apps",
         "title": "Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau",
         "url": "https://www.01net.com/actualites/google-maps-street-view-ia-decors-cinema-maps-imagery-grounding.html",
-        "date": "il y a 3 h",
+        "date": "il y a 6 h",
         "publishedAt": "2026-04-22T15:58:01.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "L’AirDrop de Nothing revient en catimini après son retrait brutal",
         "url": "https://www.01net.com/actualites/lairdrop-de-nothing-revient-en-catimini-apres-son-retrait-brutal.html",
-        "date": "il y a 5 h",
+        "date": "il y a 7 h",
         "publishedAt": "2026-04-22T14:48:10.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Opera embarque YouTube et Twitch dans sa barre latérale et fait monter le son",
         "url": "https://www.01net.com/actualites/opera-embarque-youtube-et-twitch-dans-sa-barre-laterale-et-fait-monter-le-son.html",
-        "date": "il y a 9 h",
+        "date": "il y a 12 h",
         "publishedAt": "2026-04-22T10:16:56.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Google Wallet ajoute enfin les « Mises à jour en direct » : voici à quoi ça ressemble",
         "url": "https://www.01net.com/actualites/google-wallet-ajoute-mises-a-jour-en-direct-voici-quoi-ca-ressemble.html",
-        "date": "il y a 13 h",
+        "date": "il y a 16 h",
         "publishedAt": "2026-04-22T06:20:33.000Z"
       }
     ]
