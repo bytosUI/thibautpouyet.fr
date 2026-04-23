@@ -1,5 +1,41 @@
 {
-  "updatedAt": "2026-04-23T20:55:53.233Z",
+  "updatedAt": "2026-04-23T21:07:20.535Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 14,
+      "feelsLike": 10,
+      "code": 0,
+      "wind": 12,
+      "humidity": 45
+    },
+    "forecast": [
+      {
+        "date": "2026-04-23",
+        "code": 0,
+        "tmax": 22,
+        "tmin": 5
+      },
+      {
+        "date": "2026-04-24",
+        "code": 1,
+        "tmax": 23,
+        "tmin": 5
+      },
+      {
+        "date": "2026-04-25",
+        "code": 3,
+        "tmax": 22,
+        "tmin": 5
+      },
+      {
+        "date": "2026-04-26",
+        "code": 3,
+        "tmax": 22,
+        "tmin": 6
+      }
+    ]
+  },
   "twitch": {
     "live": [],
     "offline": [
@@ -135,15 +171,15 @@
     "recent": [
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Refresh bento: À l'affiche (TMDB), Hacker News, compact YouTube list",
+        "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
         "time": "à l'instant",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/0ca4a3b476526c6ee661665878dc8b808cb8f2f4"
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "hier",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
+        "message": "Refresh bento: À l'affiche (TMDB), Hacker News, compact YouTube list",
+        "time": "il y a 12 min",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/0ca4a3b476526c6ee661665878dc8b808cb8f2f4"
       }
     ]
   },
@@ -154,29 +190,9 @@
         "titleOriginal": "GPT-5.5",
         "url": "https://openai.com/index/introducing-gpt-5-5/",
         "source": "openai.com",
-        "score": 751,
-        "comments": 373,
+        "score": 770,
+        "comments": 395,
         "hnUrl": "https://news.ycombinator.com/item?id=47879092",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Une fille de 10 ans trouve un axolotl mexicain rare sous un pont gallois",
-        "titleOriginal": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-        "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
-        "source": "bbc.com",
-        "score": 96,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=47880189",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Une mise à jour sur les récents rapports de qualité de Claude Code",
-        "titleOriginal": "An update on recent Claude Code quality reports",
-        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-        "source": "anthropic.com",
-        "score": 390,
-        "comments": 275,
-        "hnUrl": "https://news.ycombinator.com/item?id=47878905",
         "date": "il y a 3 h"
       },
       {
@@ -184,10 +200,30 @@
         "titleOriginal": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
         "url": "https://socket.dev/blog/bitwarden-cli-compromised",
         "source": "socket.dev",
-        "score": 493,
-        "comments": 230,
+        "score": 502,
+        "comments": 234,
         "hnUrl": "https://news.ycombinator.com/item?id=47876043",
         "date": "il y a 6 h"
+      },
+      {
+        "title": "Une mise à jour sur les récents rapports de qualité de Claude Code",
+        "titleOriginal": "An update on recent Claude Code quality reports",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "source": "anthropic.com",
+        "score": 404,
+        "comments": 287,
+        "hnUrl": "https://news.ycombinator.com/item?id=47878905",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Microsoft propose des rachats jusqu'à 7 % des employés américains",
+        "titleOriginal": "Microsoft offers buyouts up to 7% of US employees",
+        "url": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
+        "source": "techcrunch.com",
+        "score": 15,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=47881805",
+        "date": "il y a 12 min"
       }
     ]
   }
