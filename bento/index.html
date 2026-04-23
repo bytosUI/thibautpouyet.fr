@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hub — Thibaut Pouyet</title>
-  <meta name="description" content="Mon hub digital — live Twitch, dernières vidéos YouTube, films, veille et plus." />
+  <meta name="description" content="Mon hub digital — live Twitch, dernières vidéos YouTube, films, Hacker News et plus." />
   <meta name="theme-color" content="#F9FAFB" />
   <meta name="robots" content="noindex" />
 
@@ -28,6 +28,7 @@
 
       --color-twitch:         #9146FF;
       --color-youtube:        #FF0000;
+      --color-hackernews:     #FF6600;
       --color-live:           #FF3B30;
 
       --color-neutral-50:  #F9FAFB;
@@ -213,30 +214,54 @@
 
     /* YouTube cell */
     .cell-youtube .dot { background: color-mix(in srgb, var(--color-youtube) 12%, #fff); color: var(--color-youtube); }
-    .yt-video {
+    .yt-list {
+      display: flex;
+      flex-direction: column;
+      gap: .4rem;
+    }
+    .yt-row {
+      display: flex;
+      gap: .5rem;
+      align-items: center;
+      padding: .3rem .45rem;
+      border-radius: var(--radius-md);
+      background: var(--color-neutral-50);
+      border: 1px solid var(--color-neutral-100);
       text-decoration: none;
       color: inherit;
-      display: flex; flex-direction: column;
-      gap: .625rem;
-      flex: 1;
+      transition: background .2s, border-color .2s;
+      min-width: 0;
     }
-    .yt-thumb {
-      width: 100%;
+    .yt-row:hover {
+      background: #fff;
+      border-color: color-mix(in srgb, var(--color-youtube) 28%, var(--color-neutral-200));
+    }
+    .yt-row-thumb {
+      width: 70px;
       aspect-ratio: 16/9;
-      border-radius: var(--radius-lg);
+      border-radius: 4px;
       object-fit: cover;
-      background: var(--color-neutral-100);
-    }
-    .yt-meta { display: flex; gap: .625rem; align-items: flex-start; }
-    .yt-channel-avatar {
-      width: 28px; height: 28px;
-      border-radius: 9999px;
-      flex-shrink: 0;
       background: var(--color-neutral-200);
-      object-fit: cover;
+      flex-shrink: 0;
     }
-    .yt-title { font-size: .875rem; font-weight: 600; line-height: 1.3; color: var(--color-neutral-900); }
-    .yt-channel { font-size: .75rem; color: var(--color-neutral-500); margin-top: 2px; }
+    .yt-row-body { min-width: 0; flex: 1; }
+    .yt-row-title {
+      font-size: .75rem;
+      font-weight: 500;
+      line-height: 1.25;
+      color: var(--color-neutral-900);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .yt-row-meta {
+      font-size: .65rem;
+      color: var(--color-neutral-500);
+      margin-top: 2px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
 
     /* Films cell */
     .cell-films .dot { background: color-mix(in srgb, var(--color-tertiary) 14%, #fff); color: var(--color-tertiary); }
@@ -291,10 +316,10 @@
     .gh-msg { color: var(--color-neutral-500); font-size: .75rem; margin-top: 1px; }
     .gh-time { font-size: .7rem; color: var(--color-neutral-400); font-variant-numeric: tabular-nums; flex-shrink: 0; }
 
-    /* Veille cell */
-    .cell-veille .dot { background: color-mix(in srgb, var(--color-primary) 12%, #fff); color: var(--color-primary); }
-    .veille-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: .625rem; }
-    .veille-item {
+    /* Hacker News cell */
+    .cell-hn .dot { background: color-mix(in srgb, var(--color-hackernews) 14%, #fff); color: var(--color-hackernews); }
+    .hn-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: .625rem; }
+    .hn-item {
       padding: .75rem .875rem;
       border-radius: var(--radius-lg);
       background: var(--color-neutral-50);
@@ -304,13 +329,14 @@
       transition: background .2s, border-color .2s;
       display: flex; flex-direction: column; gap: 4px;
     }
-    .veille-item:hover {
+    .hn-item:hover {
       background: #fff;
-      border-color: color-mix(in srgb, var(--color-primary) 24%, var(--color-neutral-200));
+      border-color: color-mix(in srgb, var(--color-hackernews) 24%, var(--color-neutral-200));
     }
-    .veille-source { font-size: .65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: var(--color-primary); }
-    .veille-title { font-size: .8125rem; font-weight: 500; line-height: 1.35; color: var(--color-neutral-900); }
-    .veille-date { font-size: .7rem; color: var(--color-neutral-400); }
+    .hn-source { font-size: .65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .06em; color: var(--color-hackernews); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .hn-title { font-size: .8125rem; font-weight: 500; line-height: 1.35; color: var(--color-neutral-900); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .hn-meta { font-size: .7rem; color: var(--color-neutral-500); display: flex; gap: .5rem; align-items: center; margin-top: auto; font-variant-numeric: tabular-nums; }
+    .hn-meta .dot-sep { color: var(--color-neutral-300); }
 
     /* Skeleton */
     .skeleton {
@@ -340,7 +366,7 @@
     @media (max-width: 900px) {
       .bento { grid-template-columns: repeat(2, 1fr); }
       .cell-2x2, .cell-2x1, .cell-4x1 { grid-column: span 2; grid-row: auto; }
-      .veille-list { grid-template-columns: 1fr; }
+      .hn-list { grid-template-columns: 1fr; }
     }
     @media (max-width: 480px) {
       .bento { grid-template-columns: 1fr; padding: 8px 16px 32px; }
@@ -364,6 +390,22 @@
 
   <main class="bento">
 
+    <!-- YouTube — Dernières vidéos par chaîne (2x2) -->
+    <section class="cell cell-2x2 cell-youtube" data-slot="youtube">
+      <div class="cell-head">
+        <span class="dot"><iconify-icon icon="mdi:youtube" width="18"></iconify-icon></span>
+        <span class="label">Dernières vidéos</span>
+      </div>
+      <div data-content class="flex-1">
+        <div class="yt-list">
+          <div class="skeleton" style="height: 50px;"></div>
+          <div class="skeleton" style="height: 50px;"></div>
+          <div class="skeleton" style="height: 50px;"></div>
+          <div class="skeleton" style="height: 50px;"></div>
+        </div>
+      </div>
+    </section>
+
     <!-- Twitch Live (2x2) -->
     <section class="cell cell-2x2 cell-twitch" data-slot="twitch">
       <div class="cell-head">
@@ -376,23 +418,11 @@
       </div>
     </section>
 
-    <!-- YouTube — Dernière vidéo (2x2) -->
-    <section class="cell cell-2x2 cell-youtube" data-slot="youtube">
-      <div class="cell-head">
-        <span class="dot"><iconify-icon icon="mdi:youtube" width="18"></iconify-icon></span>
-        <span class="label">Dernière vidéo</span>
-      </div>
-      <div data-content class="flex-1">
-        <div class="skeleton" style="aspect-ratio: 16/9; margin-bottom: 10px;"></div>
-        <div class="skeleton" style="height: 16px; width: 70%;"></div>
-      </div>
-    </section>
-
     <!-- Films Top 5 (4x1) -->
     <section class="cell cell-4x1 cell-films" data-slot="films">
       <div class="cell-head">
         <span class="dot"><iconify-icon icon="heroicons:film-solid" width="16"></iconify-icon></span>
-        <span class="label">Top 5 films</span>
+        <span class="label">À l'affiche</span>
       </div>
       <div data-content>
         <div class="poster-strip">
@@ -418,14 +448,14 @@
       </div>
     </section>
 
-    <!-- Veille RSS (2x2) -->
-    <section class="cell cell-2x2 cell-veille" data-slot="veille">
+    <!-- Hacker News (2x2) -->
+    <section class="cell cell-2x2 cell-hn" data-slot="hackernews">
       <div class="cell-head">
-        <span class="dot"><iconify-icon icon="heroicons:rss" width="16"></iconify-icon></span>
-        <span class="label">Veille</span>
+        <span class="dot"><iconify-icon icon="simple-icons:ycombinator" width="16"></iconify-icon></span>
+        <span class="label">Hacker News</span>
       </div>
       <div data-content class="flex-1">
-        <div class="veille-list">
+        <div class="hn-list">
           <div class="skeleton" style="height: 70px;"></div>
           <div class="skeleton" style="height: 70px;"></div>
           <div class="skeleton" style="height: 70px;"></div>

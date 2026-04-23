@@ -52,22 +52,23 @@ function renderTwitch(data) {
 
 function renderYoutube(data) {
   const container = slot('youtube');
-  const v = data?.latest;
-  if (!v) {
+  const videos = (data?.videos ?? []).slice(0, 6);
+  if (videos.length === 0) {
     container.innerHTML = `<div class="empty-state"><span>Pas de vidéo récente</span></div>`;
     return;
   }
   container.innerHTML = `
-    <a class="yt-video" href="${esc(v.url)}" target="_blank" rel="noopener">
-      <img class="yt-thumb" src="${esc(v.thumbnail)}" alt="${esc(v.title)}" loading="lazy" onerror="this.style.display='none'">
-      <div class="yt-meta">
-        ${v.channelAvatar ? `<img class="yt-channel-avatar" src="${esc(v.channelAvatar)}" alt="">` : `<span class="yt-channel-avatar"></span>`}
-        <div style="min-width:0; flex:1">
-          <div class="yt-title">${esc(v.title)}</div>
-          <div class="yt-channel">${esc(v.channel)} · ${fmtRelative(v.publishedAt)}</div>
-        </div>
-      </div>
-    </a>
+    <div class="yt-list">
+      ${videos.map((v) => `
+        <a class="yt-row" href="${esc(v.url)}" target="_blank" rel="noopener" title="${esc(v.title)}">
+          <img class="yt-row-thumb" src="${esc(v.thumbnail)}" alt="" loading="lazy" onerror="this.style.opacity=.1">
+          <div class="yt-row-body">
+            <div class="yt-row-title">${esc(v.title)}</div>
+            <div class="yt-row-meta">${esc(v.channel)} · ${fmtRelative(v.publishedAt)}</div>
+          </div>
+        </a>
+      `).join('')}
+    </div>
   `;
 }
 
@@ -113,20 +114,26 @@ function renderGithub(data) {
   `;
 }
 
-function renderVeille(data) {
-  const container = slot('veille');
+function renderHackerNews(data) {
+  const container = slot('hackernews');
   const items = data?.items ?? [];
   if (items.length === 0) {
     container.innerHTML = `<div class="empty-state"><span>Rien à lire pour l'instant</span></div>`;
     return;
   }
   container.innerHTML = `
-    <div class="veille-list">
+    <div class="hn-list">
       ${items.slice(0, 4).map((a) => `
-        <a class="veille-item" href="${esc(a.url)}" target="_blank" rel="noopener">
-          <span class="veille-source">${esc(a.source)}</span>
-          <span class="veille-title">${esc(a.title)}</span>
-          <span class="veille-date">${esc(a.date)}</span>
+        <a class="hn-item" href="${esc(a.url)}" target="_blank" rel="noopener" title="${esc(a.titleOriginal || a.title)}">
+          <span class="hn-source">${esc(a.source)}</span>
+          <span class="hn-title">${esc(a.title)}</span>
+          <span class="hn-meta">
+            <span>▲ ${a.score}</span>
+            <span class="dot-sep">·</span>
+            <span>${a.comments} comm.</span>
+            <span class="dot-sep">·</span>
+            <span>${esc(a.date)}</span>
+          </span>
         </a>
       `).join('')}
     </div>
@@ -148,7 +155,7 @@ async function init() {
     renderYoutube(data.youtube);
     renderFilms(data.films);
     renderGithub(data.github);
-    renderVeille(data.veille);
+    renderHackerNews(data.hackernews);
     renderUpdatedAt(data.updatedAt);
   } catch (err) {
     console.error('Failed to load hub data', err);

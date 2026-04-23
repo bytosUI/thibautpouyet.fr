@@ -108,7 +108,7 @@ async function fetchTwitch(users, clientId, clientSecret) {
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function fetchYouTube(channels) {
-  const all = [];
+  const videos = [];
   for (const ch of channels) {
     let res = await safeFetch(
       `https://www.youtube.com/feeds/videos.xml?channel_id=${ch.id}`,
@@ -127,39 +127,45 @@ async function fetchYouTube(channels) {
     if (!res) continue;
     const xml = await res.text();
     const channelName = decodeEntities(extractOne(xml, 'title') || ch.handle);
-    const entries = extractAll(xml, 'entry').slice(0, 3);
-    for (const entry of entries) {
-      const videoId = extractOne(entry, 'yt:videoId');
-      const title = decodeEntities(extractOne(entry, 'title') || '');
-      const published = extractOne(entry, 'published');
-      if (!videoId || !title) continue;
-      all.push({
-        title,
-        channel: channelName,
-        channelHandle: ch.handle,
-        videoId,
-        thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
-        url: `https://www.youtube.com/watch?v=${videoId}`,
-        publishedAt: published,
-      });
-    }
+    const entry = extractAll(xml, 'entry')[0];
+    if (!entry) continue;
+    const videoId = extractOne(entry, 'yt:videoId');
+    const title = decodeEntities(extractOne(entry, 'title') || '');
+    const published = extractOne(entry, 'published');
+    if (!videoId || !title) continue;
+    videos.push({
+      title,
+      channel: channelName,
+      channelHandle: ch.handle,
+      videoId,
+      thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
+      url: `https://www.youtube.com/watch?v=${videoId}`,
+      publishedAt: published,
+    });
     await sleep(250);
   }
-  all.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-  return {
-    latest: all[0] || null,
-    recent: all.slice(0, 4),
-  };
+  videos.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+  return { videos };
 }
 
-// ── Films (static config + TMDB CDN) ────────────────────────────
-function buildFilms(top5) {
+// ── Films (TMDB "now playing" — à l'affiche en France) ─────────
+async function fetchFilms(cfg, apiKey) {
+  if (!apiKey) {
+    console.warn('[films] skipped — missing TMDB_API_KEY');
+    return { top5: [] };
+  }
+  const url = `https://api.themoviedb.org/3/movie/now_playing?api_key=${apiKey}`
+    + `&language=${encodeURIComponent(cfg.language)}&region=${encodeURIComponent(cfg.region)}&page=1`;
+  const res = await safeFetch(url, {}, 'tmdb-now-playing');
+  if (!res) return { top5: [] };
+  const data = await res.json();
+  const results = (data.results || []).filter((m) => m.poster_path).slice(0, cfg.limit);
   return {
-    top5: top5.map((f) => ({
-      title: f.title,
-      year: f.year,
-      poster: `https://image.tmdb.org/t/p/w342${f.posterPath}`,
-      url: `https://www.themoviedb.org/movie/${f.tmdbId}`,
+    top5: results.map((m) => ({
+      title: m.title,
+      year: m.release_date ? m.release_date.slice(0, 4) : null,
+      poster: `https://image.tmdb.org/t/p/w342${m.poster_path}`,
+      url: `https://www.themoviedb.org/movie/${m.id}`,
     })),
   };
 }
@@ -200,43 +206,64 @@ async function fetchGithub(username) {
   return { recent: commits.slice(0, 5).map(({ publishedAt, ...rest }) => rest) };
 }
 
-// ── Veille (RSS) ────────────────────────────────────────────────
-async function fetchVeille(feeds) {
-  const all = [];
-  for (const feed of feeds) {
-    // Some feeds (e.g. 01net) return the RSS in the body of a 301; accept 2xx/3xx with body.
-    let res;
-    try {
-      res = await fetch(feed.url, {
-        headers: { 'user-agent': 'bytosUI-hub/1.0', 'accept': '*/*' },
-        redirect: 'manual',
-      });
-    } catch (err) {
-      console.warn(`[warn] rss-${feed.source}: ${err.message}`);
-      continue;
-    }
-    const xml = await res.text();
-    if (!xml.includes('<item') && !xml.includes('<entry')) {
-      console.warn(`[warn] rss-${feed.source}: no items found (HTTP ${res.status})`);
-      continue;
-    }
-    const items = extractAll(xml, 'item').slice(0, 4);
-    for (const it of items) {
-      const title = decodeEntities(extractOne(it, 'title') || '');
-      const link = decodeEntities(extractOne(it, 'link') || '');
-      const pubDate = extractOne(it, 'pubDate');
-      if (!title || !link) continue;
-      all.push({
-        source: feed.source,
-        title,
-        url: link,
-        date: fmtRelativeFR(pubDate),
-        publishedAt: pubDate ? new Date(pubDate).toISOString() : null,
-      });
-    }
+// ── Translation (MyMemory, no key) ──────────────────────────────
+async function translateEnToFr(text) {
+  if (!text) return text;
+  const res = await safeFetch(
+    `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|fr`,
+    {},
+    'translate-mymemory',
+  );
+  if (!res) return text;
+  try {
+    const data = await res.json();
+    const translated = data?.responseData?.translatedText;
+    if (!translated) return text;
+    // MyMemory sometimes returns error strings as translatedText
+    if (/QUERY LENGTH LIMIT|MYMEMORY WARNING|INVALID/i.test(translated)) return text;
+    return decodeEntities(translated);
+  } catch {
+    return text;
   }
-  all.sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0));
-  return { items: all.slice(0, 4) };
+}
+
+// ── Hacker News (official Firebase API) ─────────────────────────
+async function fetchHackerNews(limit) {
+  const topRes = await safeFetch(
+    'https://hacker-news.firebaseio.com/v0/topstories.json',
+    {},
+    'hn-top',
+  );
+  if (!topRes) return { items: [] };
+  const ids = (await topRes.json()).slice(0, limit);
+  const items = [];
+  for (const id of ids) {
+    const itemRes = await safeFetch(
+      `https://hacker-news.firebaseio.com/v0/item/${id}.json`,
+      {},
+      `hn-item-${id}`,
+    );
+    if (!itemRes) continue;
+    const it = await itemRes.json();
+    if (!it || !it.title) continue;
+    const storyUrl = it.url || `https://news.ycombinator.com/item?id=${it.id}`;
+    let source = 'news.ycombinator.com';
+    try { source = new URL(storyUrl).hostname.replace(/^www\./, ''); } catch {}
+    const isoDate = it.time ? new Date(it.time * 1000).toISOString() : null;
+    const titleFr = await translateEnToFr(it.title);
+    items.push({
+      title: titleFr,
+      titleOriginal: it.title,
+      url: storyUrl,
+      source,
+      score: it.score || 0,
+      comments: it.descendants || 0,
+      hnUrl: `https://news.ycombinator.com/item?id=${it.id}`,
+      date: fmtRelativeFR(isoDate),
+    });
+    await sleep(150);
+  }
+  return { items };
 }
 
 // ── Utilities ───────────────────────────────────────────────────
@@ -257,16 +284,15 @@ async function main() {
   const outPath = resolve(ROOT, 'bento/data.json');
   const config = JSON.parse(await readFile(configPath, 'utf8'));
 
-  const { TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET } = process.env;
+  const { TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, TMDB_API_KEY } = process.env;
 
-  const [twitch, youtube, github, veille] = await Promise.all([
+  const [twitch, youtube, films, github, hackernews] = await Promise.all([
     fetchTwitch(config.twitch.users, TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET),
     fetchYouTube(config.youtube.channels),
+    fetchFilms(config.films, TMDB_API_KEY),
     fetchGithub(config.github.username),
-    fetchVeille(config.veille.feeds),
+    fetchHackerNews(config.hackernews.limit),
   ]);
-
-  const films = buildFilms(config.films.top5);
 
   const data = {
     updatedAt: new Date().toISOString(),
@@ -274,15 +300,16 @@ async function main() {
     youtube,
     films,
     github,
-    veille,
+    hackernews,
   };
 
   await writeFile(outPath, JSON.stringify(data, null, 2) + '\n', 'utf8');
   console.log(`[ok] wrote ${outPath}`);
   console.log(`     twitch live: ${twitch.live.length}/${config.twitch.users.length}`);
-  console.log(`     youtube latest: ${youtube.latest?.title ?? 'none'}`);
+  console.log(`     youtube videos: ${youtube.videos.length}/${config.youtube.channels.length} channels`);
+  console.log(`     films: ${films.top5.length}`);
   console.log(`     github commits: ${github.recent.length}`);
-  console.log(`     veille items: ${veille.items.length}`);
+  console.log(`     hackernews items: ${hackernews.items.length}`);
 }
 
 main().catch((err) => {
