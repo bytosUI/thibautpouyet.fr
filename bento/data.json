@@ -1,71 +1,71 @@
 {
-  "updatedAt": "2026-04-23T06:20:17.943Z",
+  "updatedAt": "2026-04-23T10:57:00.613Z",
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 372,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Causal Loop",
+        "viewers": 170,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
       "domingo",
       "bastiui",
       "micode",
-      "origatwitch",
+      "nowtechteam",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "latest": {
-      "title": "Le jeu vidéo, c'est de l'art ?",
-      "channel": "Mcfly et Carlito",
-      "channelHandle": "LeFatShow",
-      "videoId": "m4tYCQrjWeI",
-      "thumbnail": "https://i.ytimg.com/vi/m4tYCQrjWeI/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=m4tYCQrjWeI",
-      "publishedAt": "2026-04-22T14:42:24+00:00"
+      "title": "PENDANT 3 ANS ELLES ONT FAIT LE DEUIL DE LEUR MÈRE AVANT SA MORT",
+      "channel": "LEGEND",
+      "channelHandle": "legendmedia",
+      "videoId": "PuCNefeEf1Q",
+      "thumbnail": "https://i.ytimg.com/vi/PuCNefeEf1Q/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=PuCNefeEf1Q",
+      "publishedAt": "2026-04-23T10:00:47+00:00"
     },
     "recent": [
       {
-        "title": "Le jeu vidéo, c'est de l'art ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "m4tYCQrjWeI",
-        "thumbnail": "https://i.ytimg.com/vi/m4tYCQrjWeI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m4tYCQrjWeI",
-        "publishedAt": "2026-04-22T14:42:24+00:00"
+        "title": "PENDANT 3 ANS ELLES ONT FAIT LE DEUIL DE LEUR MÈRE AVANT SA MORT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "PuCNefeEf1Q",
+        "thumbnail": "https://i.ytimg.com/vi/PuCNefeEf1Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PuCNefeEf1Q",
+        "publishedAt": "2026-04-23T10:00:47+00:00"
       },
       {
-        "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "j6V70tSzCxg",
-        "thumbnail": "https://i.ytimg.com/vi/j6V70tSzCxg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j6V70tSzCxg",
-        "publishedAt": "2026-04-21T15:13:36+00:00"
+        "title": "ELLES PENSAIENT QUE LEUR MÈRE TRAVERSAIT SEULEMENT UNE DÉPRESSION",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "hjA9-_3NN1c",
+        "thumbnail": "https://i.ytimg.com/vi/hjA9-_3NN1c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hjA9-_3NN1c",
+        "publishedAt": "2026-04-23T09:01:03+00:00"
       },
       {
-        "title": "50 % des jobs vont disparaître",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "hydFOglk-EM",
-        "thumbnail": "https://i.ytimg.com/vi/hydFOglk-EM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hydFOglk-EM",
-        "publishedAt": "2026-04-21T11:47:11+00:00"
+        "title": "COMMENT ACCEPTER LE DÉPART D’UNE MÈRE QUI SEMBLE ENCORE SI VIVANTE ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "9d-b3EzIsYc",
+        "thumbnail": "https://i.ytimg.com/vi/9d-b3EzIsYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9d-b3EzIsYc",
+        "publishedAt": "2026-04-23T08:00:08+00:00"
       },
       {
-        "title": "Claude Code a changé le game",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "WPD_jehrOig",
-        "thumbnail": "https://i.ytimg.com/vi/WPD_jehrOig/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WPD_jehrOig",
-        "publishedAt": "2026-04-20T11:56:50+00:00"
+        "title": "Pourquoi les clients disparaissent en silence ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "QM7oSVS4KCU",
+        "thumbnail": "https://i.ytimg.com/vi/QM7oSVS4KCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QM7oSVS4KCU",
+        "publishedAt": "2026-04-22T17:01:48+00:00"
       }
     ]
   },
@@ -122,32 +122,32 @@
   "veille": {
     "items": [
       {
-        "source": "01net · Apps",
-        "title": "60 % plus rapide, 20 millions de cellules : Google Sheets change de dimension",
-        "url": "https://www.01net.com/actualites/60-plus-rapide-20-millions-cellules-google-sheets-change-dimension.html",
-        "date": "il y a 14 min",
-        "publishedAt": "2026-04-23T06:05:28.000Z"
+        "source": "01net · Culture",
+        "title": "France TV bascule vers le « streaming first » en signant un partenariat avec YouTube",
+        "url": "https://www.01net.com/actualites/france-tv-bascule-vers-streaming-first-signant-partenariat-avec-youtube.html",
+        "date": "à l'instant",
+        "publishedAt": "2026-04-23T10:56:06.000Z"
       },
       {
         "source": "01net · Apps",
-        "title": "Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau",
-        "url": "https://www.01net.com/actualites/google-maps-street-view-ia-decors-cinema-maps-imagery-grounding.html",
-        "date": "il y a 14 h",
-        "publishedAt": "2026-04-22T15:58:01.000Z"
+        "title": "WhatsApp : ne touchez plus à cette option de personnalisation, elle va bientôt être supprimée",
+        "url": "https://www.01net.com/actualites/whatsapp-touchez-plus-cette-option-personnalisation-bientot-etre-supprimee.html",
+        "date": "il y a 2 h",
+        "publishedAt": "2026-04-23T08:45:07.000Z"
       },
       {
         "source": "01net · Apps",
-        "title": "L’AirDrop de Nothing revient en catimini après son retrait brutal",
-        "url": "https://www.01net.com/actualites/lairdrop-de-nothing-revient-en-catimini-apres-son-retrait-brutal.html",
-        "date": "il y a 15 h",
-        "publishedAt": "2026-04-22T14:48:10.000Z"
+        "title": "Votre iPhone est-il vraiment sécurisé ? Voici comment le vérifier",
+        "url": "https://www.01net.com/actualites/votre-iphone-est-il-vraiment-securise-voici-comment-le-verifier.html",
+        "date": "il y a 2 h",
+        "publishedAt": "2026-04-23T08:34:28.000Z"
       },
       {
         "source": "01net · Apps",
-        "title": "Opera embarque YouTube et Twitch dans sa barre latérale et fait monter le son",
-        "url": "https://www.01net.com/actualites/opera-embarque-youtube-et-twitch-dans-sa-barre-laterale-et-fait-monter-le-son.html",
-        "date": "il y a 20 h",
-        "publishedAt": "2026-04-22T10:16:56.000Z"
+        "title": "Windows 11 : vous pouvez désormais lancer un speedtest depuis la barre des tâches",
+        "url": "https://www.01net.com/actualites/windows-11-vous-pouvez-desormais-lancer-un-speedtest-depuis-la-barre-des-taches.html",
+        "date": "il y a 4 h",
+        "publishedAt": "2026-04-23T06:42:14.000Z"
       }
     ]
   }
