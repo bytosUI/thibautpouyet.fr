@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-04-23T21:07:20.535Z",
+  "updatedAt": "2026-04-23T23:10:25.086Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 10,
+      "temp": 12,
+      "feelsLike": 8,
       "code": 0,
       "wind": 12,
-      "humidity": 45
+      "humidity": 44
     },
     "forecast": [
-      {
-        "date": "2026-04-23",
-        "code": 0,
-        "tmax": 22,
-        "tmin": 5
-      },
       {
         "date": "2026-04-24",
         "code": 1,
@@ -31,21 +25,35 @@
       {
         "date": "2026-04-26",
         "code": 3,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 6
+      },
+      {
+        "date": "2026-04-27",
+        "code": 1,
+        "tmax": 22,
+        "tmin": 4
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 82,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -172,13 +180,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "à l'instant",
+        "time": "il y a 2 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Refresh bento: À l'affiche (TMDB), Hacker News, compact YouTube list",
-        "time": "il y a 12 min",
+        "time": "il y a 2 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/0ca4a3b476526c6ee661665878dc8b808cb8f2f4"
       }
     ]
@@ -190,40 +198,40 @@
         "titleOriginal": "GPT-5.5",
         "url": "https://openai.com/index/introducing-gpt-5-5/",
         "source": "openai.com",
-        "score": 770,
-        "comments": 395,
+        "score": 947,
+        "comments": 589,
         "hnUrl": "https://news.ycombinator.com/item?id=47879092",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Bitwarden CLI compromis dans la campagne en cours de la chaîne d'approvisionnement Checkmarx",
         "titleOriginal": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
         "url": "https://socket.dev/blog/bitwarden-cli-compromised",
         "source": "socket.dev",
-        "score": 502,
-        "comments": 234,
+        "score": 582,
+        "comments": 273,
         "hnUrl": "https://news.ycombinator.com/item?id=47876043",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Show HN : Tolaria – application macOS open-source pour gérer les bases de connaissances Markdown",
+        "titleOriginal": "Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases",
+        "url": "https://github.com/refactoringhq/tolaria",
+        "source": "github.com",
+        "score": 29,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=47882697",
+        "date": "il y a 1 h"
       },
       {
         "title": "Une mise à jour sur les récents rapports de qualité de Claude Code",
         "titleOriginal": "An update on recent Claude Code quality reports",
         "url": "https://www.anthropic.com/engineering/april-23-postmortem",
         "source": "anthropic.com",
-        "score": 404,
-        "comments": 287,
+        "score": 497,
+        "comments": 369,
         "hnUrl": "https://news.ycombinator.com/item?id=47878905",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Microsoft propose des rachats jusqu'à 7 % des employés américains",
-        "titleOriginal": "Microsoft offers buyouts up to 7% of US employees",
-        "url": "https://techcrunch.com/2026/04/23/microsoft-offers-buyout-for-up-to-7-of-u-s-employees/",
-        "source": "techcrunch.com",
-        "score": 15,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=47881805",
-        "date": "il y a 12 min"
+        "date": "il y a 5 h"
       }
     ]
   }
