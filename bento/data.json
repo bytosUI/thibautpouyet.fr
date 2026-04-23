@@ -1,71 +1,63 @@
 {
-  "updatedAt": "2026-04-23T10:57:00.613Z",
+  "updatedAt": "2026-04-23T16:54:43.066Z",
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Causal Loop",
-        "viewers": 170,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "latest": {
-      "title": "PENDANT 3 ANS ELLES ONT FAIT LE DEUIL DE LEUR MÈRE AVANT SA MORT",
+      "title": "BANQUIER POUR VIP : TOUS LES SECRETS SUR L’ARGENT DES STARS ET SES MEILLEURES ANECDOTES",
       "channel": "LEGEND",
       "channelHandle": "legendmedia",
-      "videoId": "PuCNefeEf1Q",
-      "thumbnail": "https://i.ytimg.com/vi/PuCNefeEf1Q/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=PuCNefeEf1Q",
-      "publishedAt": "2026-04-23T10:00:47+00:00"
+      "videoId": "O4wXU3pY3Wc",
+      "thumbnail": "https://i.ytimg.com/vi/O4wXU3pY3Wc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=O4wXU3pY3Wc",
+      "publishedAt": "2026-04-23T15:28:50+00:00"
     },
     "recent": [
       {
-        "title": "PENDANT 3 ANS ELLES ONT FAIT LE DEUIL DE LEUR MÈRE AVANT SA MORT",
+        "title": "BANQUIER POUR VIP : TOUS LES SECRETS SUR L’ARGENT DES STARS ET SES MEILLEURES ANECDOTES",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "PuCNefeEf1Q",
-        "thumbnail": "https://i.ytimg.com/vi/PuCNefeEf1Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PuCNefeEf1Q",
-        "publishedAt": "2026-04-23T10:00:47+00:00"
+        "videoId": "O4wXU3pY3Wc",
+        "thumbnail": "https://i.ytimg.com/vi/O4wXU3pY3Wc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O4wXU3pY3Wc",
+        "publishedAt": "2026-04-23T15:28:50+00:00"
       },
       {
-        "title": "ELLES PENSAIENT QUE LEUR MÈRE TRAVERSAIT SEULEMENT UNE DÉPRESSION",
+        "title": "Carlito est MORT ?!!??",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "3mgs9kvcrWw",
+        "thumbnail": "https://i.ytimg.com/vi/3mgs9kvcrWw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3mgs9kvcrWw",
+        "publishedAt": "2026-04-23T15:26:21+00:00"
+      },
+      {
+        "title": "PARLER DE SUIC*DE À LEUR MÈRE LES TERRIFIAIT, MAIS ELLES ONT OSÉ",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "hjA9-_3NN1c",
-        "thumbnail": "https://i.ytimg.com/vi/hjA9-_3NN1c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hjA9-_3NN1c",
-        "publishedAt": "2026-04-23T09:01:03+00:00"
+        "videoId": "rMvH-J2JmXQ",
+        "thumbnail": "https://i.ytimg.com/vi/rMvH-J2JmXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rMvH-J2JmXQ",
+        "publishedAt": "2026-04-23T15:01:27+00:00"
       },
       {
-        "title": "COMMENT ACCEPTER LE DÉPART D’UNE MÈRE QUI SEMBLE ENCORE SI VIVANTE ?",
+        "title": "COMMENT ONT-ELLES ÉVOQUÉ L’IDÉE DU SU*CIDE DE LEUR PROPRE MÈRE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "9d-b3EzIsYc",
-        "thumbnail": "https://i.ytimg.com/vi/9d-b3EzIsYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9d-b3EzIsYc",
-        "publishedAt": "2026-04-23T08:00:08+00:00"
-      },
-      {
-        "title": "Pourquoi les clients disparaissent en silence ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "QM7oSVS4KCU",
-        "thumbnail": "https://i.ytimg.com/vi/QM7oSVS4KCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QM7oSVS4KCU",
-        "publishedAt": "2026-04-22T17:01:48+00:00"
+        "videoId": "uUuIaXj6kCs",
+        "thumbnail": "https://i.ytimg.com/vi/uUuIaXj6kCs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uUuIaXj6kCs",
+        "publishedAt": "2026-04-23T14:01:35+00:00"
       }
     ]
   },
@@ -125,28 +117,28 @@
         "source": "01net · Culture",
         "title": "France TV bascule vers le « streaming first » en signant un partenariat avec YouTube",
         "url": "https://www.01net.com/actualites/france-tv-bascule-vers-streaming-first-signant-partenariat-avec-youtube.html",
-        "date": "à l'instant",
+        "date": "il y a 5 h",
         "publishedAt": "2026-04-23T10:56:06.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "WhatsApp : ne touchez plus à cette option de personnalisation, elle va bientôt être supprimée",
         "url": "https://www.01net.com/actualites/whatsapp-touchez-plus-cette-option-personnalisation-bientot-etre-supprimee.html",
-        "date": "il y a 2 h",
+        "date": "il y a 8 h",
         "publishedAt": "2026-04-23T08:45:07.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Votre iPhone est-il vraiment sécurisé ? Voici comment le vérifier",
         "url": "https://www.01net.com/actualites/votre-iphone-est-il-vraiment-securise-voici-comment-le-verifier.html",
-        "date": "il y a 2 h",
+        "date": "il y a 8 h",
         "publishedAt": "2026-04-23T08:34:28.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Windows 11 : vous pouvez désormais lancer un speedtest depuis la barre des tâches",
         "url": "https://www.01net.com/actualites/windows-11-vous-pouvez-desormais-lancer-un-speedtest-depuis-la-barre-des-taches.html",
-        "date": "il y a 4 h",
+        "date": "il y a 10 h",
         "publishedAt": "2026-04-23T06:42:14.000Z"
       }
     ]
