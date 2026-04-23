@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T16:54:43.066Z",
+  "updatedAt": "2026-04-23T20:14:51.905Z",
   "twitch": {
     "live": [],
     "offline": [
@@ -14,15 +14,24 @@
   },
   "youtube": {
     "latest": {
-      "title": "BANQUIER POUR VIP : TOUS LES SECRETS SUR L’ARGENT DES STARS ET SES MEILLEURES ANECDOTES",
-      "channel": "LEGEND",
-      "channelHandle": "legendmedia",
-      "videoId": "O4wXU3pY3Wc",
-      "thumbnail": "https://i.ytimg.com/vi/O4wXU3pY3Wc/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=O4wXU3pY3Wc",
-      "publishedAt": "2026-04-23T15:28:50+00:00"
+      "title": "Que cache vraiment Merge Labs d'Altman ?",
+      "channel": "Silicon Carne 🌶️",
+      "channelHandle": "siliconcarnepod",
+      "videoId": "-FP2LeLdUl0",
+      "thumbnail": "https://i.ytimg.com/vi/-FP2LeLdUl0/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=-FP2LeLdUl0",
+      "publishedAt": "2026-04-23T17:01:34+00:00"
     },
     "recent": [
+      {
+        "title": "Que cache vraiment Merge Labs d'Altman ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "-FP2LeLdUl0",
+        "thumbnail": "https://i.ytimg.com/vi/-FP2LeLdUl0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-FP2LeLdUl0",
+        "publishedAt": "2026-04-23T17:01:34+00:00"
+      },
       {
         "title": "BANQUIER POUR VIP : TOUS LES SECRETS SUR L’ARGENT DES STARS ET SES MEILLEURES ANECDOTES",
         "channel": "LEGEND",
@@ -49,15 +58,6 @@
         "thumbnail": "https://i.ytimg.com/vi/rMvH-J2JmXQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rMvH-J2JmXQ",
         "publishedAt": "2026-04-23T15:01:27+00:00"
-      },
-      {
-        "title": "COMMENT ONT-ELLES ÉVOQUÉ L’IDÉE DU SU*CIDE DE LEUR PROPRE MÈRE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "uUuIaXj6kCs",
-        "thumbnail": "https://i.ytimg.com/vi/uUuIaXj6kCs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uUuIaXj6kCs",
-        "publishedAt": "2026-04-23T14:01:35+00:00"
       }
     ]
   },
@@ -117,28 +117,28 @@
         "source": "01net · Culture",
         "title": "France TV bascule vers le « streaming first » en signant un partenariat avec YouTube",
         "url": "https://www.01net.com/actualites/france-tv-bascule-vers-streaming-first-signant-partenariat-avec-youtube.html",
-        "date": "il y a 5 h",
+        "date": "il y a 9 h",
         "publishedAt": "2026-04-23T10:56:06.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "WhatsApp : ne touchez plus à cette option de personnalisation, elle va bientôt être supprimée",
         "url": "https://www.01net.com/actualites/whatsapp-touchez-plus-cette-option-personnalisation-bientot-etre-supprimee.html",
-        "date": "il y a 8 h",
+        "date": "il y a 11 h",
         "publishedAt": "2026-04-23T08:45:07.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Votre iPhone est-il vraiment sécurisé ? Voici comment le vérifier",
         "url": "https://www.01net.com/actualites/votre-iphone-est-il-vraiment-securise-voici-comment-le-verifier.html",
-        "date": "il y a 8 h",
+        "date": "il y a 11 h",
         "publishedAt": "2026-04-23T08:34:28.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Windows 11 : vous pouvez désormais lancer un speedtest depuis la barre des tâches",
         "url": "https://www.01net.com/actualites/windows-11-vous-pouvez-desormais-lancer-un-speedtest-depuis-la-barre-des-taches.html",
-        "date": "il y a 10 h",
+        "date": "il y a 13 h",
         "publishedAt": "2026-04-23T06:42:14.000Z"
       }
     ]
