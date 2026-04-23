@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T20:14:51.905Z",
+  "updatedAt": "2026-04-23T20:55:53.233Z",
   "twitch": {
     "live": [],
     "offline": [
@@ -13,16 +13,7 @@
     ]
   },
   "youtube": {
-    "latest": {
-      "title": "Que cache vraiment Merge Labs d'Altman ?",
-      "channel": "Silicon Carne 🌶️",
-      "channelHandle": "siliconcarnepod",
-      "videoId": "-FP2LeLdUl0",
-      "thumbnail": "https://i.ytimg.com/vi/-FP2LeLdUl0/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=-FP2LeLdUl0",
-      "publishedAt": "2026-04-23T17:01:34+00:00"
-    },
-    "recent": [
+    "videos": [
       {
         "title": "Que cache vraiment Merge Labs d'Altman ?",
         "channel": "Silicon Carne 🌶️",
@@ -51,47 +42,92 @@
         "publishedAt": "2026-04-23T15:26:21+00:00"
       },
       {
-        "title": "PARLER DE SUIC*DE À LEUR MÈRE LES TERRIFIAIT, MAIS ELLES ONT OSÉ",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "rMvH-J2JmXQ",
-        "thumbnail": "https://i.ytimg.com/vi/rMvH-J2JmXQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rMvH-J2JmXQ",
-        "publishedAt": "2026-04-23T15:01:27+00:00"
+        "title": "50 % des jobs vont disparaître",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "hydFOglk-EM",
+        "thumbnail": "https://i.ytimg.com/vi/hydFOglk-EM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hydFOglk-EM",
+        "publishedAt": "2026-04-21T11:47:11+00:00"
+      },
+      {
+        "title": "Une livraison de 20T pour ca ? #19",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "GT8bKeaYso8",
+        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
+        "publishedAt": "2026-04-19T15:17:00+00:00"
+      },
+      {
+        "title": "POUR NOUS C'EST LA PLUS BELLE TOITURE DE FRANCE ! (J'exagère mais c'est vraiment magnifique) - EP26",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "UaB4JgV6qUE",
+        "thumbnail": "https://i.ytimg.com/vi/UaB4JgV6qUE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UaB4JgV6qUE",
+        "publishedAt": "2026-04-19T10:00:11+00:00"
+      },
+      {
+        "title": "Oli passe le test des taches d'encre devant 3 psys",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Ap4-MX-Gg24",
+        "thumbnail": "https://i.ytimg.com/vi/Ap4-MX-Gg24/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ap4-MX-Gg24",
+        "publishedAt": "2026-04-13T07:19:46+00:00"
+      },
+      {
+        "title": "Pourquoi Busan est si différente des autres villes coréennes 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "_Y7IClN4-eE",
+        "thumbnail": "https://i.ytimg.com/vi/_Y7IClN4-eE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_Y7IClN4-eE",
+        "publishedAt": "2026-04-12T19:15:04+00:00"
+      },
+      {
+        "title": "Je fais mon sous-sol de rêve - RÉNOVATION",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "wtZq_ecxKrs",
+        "thumbnail": "https://i.ytimg.com/vi/wtZq_ecxKrs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wtZq_ecxKrs",
+        "publishedAt": "2026-03-07T14:30:56+00:00"
       }
     ]
   },
   "films": {
     "top5": [
       {
-        "title": "Interstellar",
-        "year": 2014,
-        "poster": "https://image.tmdb.org/t/p/w342/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-        "url": "https://www.themoviedb.org/movie/157336"
+        "title": "Super Mario Galaxy, le film",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+        "url": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "title": "Drive",
-        "year": 2011,
-        "poster": "https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg",
-        "url": "https://www.themoviedb.org/movie/64690"
+        "title": "Le Réveil de la Momie",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+        "url": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "title": "Pulp Fiction",
-        "year": 1994,
-        "poster": "https://image.tmdb.org/t/p/w342/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
-        "url": "https://www.themoviedb.org/movie/680"
+        "title": "Le Sifflet",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
+        "url": "https://www.themoviedb.org/movie/1193501"
       },
       {
-        "title": "Retour vers le futur",
-        "year": 1985,
-        "poster": "https://image.tmdb.org/t/p/w342/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
-        "url": "https://www.themoviedb.org/movie/105"
+        "title": "Michael",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+        "url": "https://www.themoviedb.org/movie/936075"
       },
       {
-        "title": "Her",
-        "year": 2013,
-        "poster": "https://image.tmdb.org/t/p/w342/nkWXW5blXGmOEoDejRgy83sSb6T.jpg",
-        "url": "https://www.themoviedb.org/movie/152601"
+        "title": "Reminders of Him",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
+        "url": "https://www.themoviedb.org/movie/1367642"
       }
     ]
   },
@@ -99,47 +135,59 @@
     "recent": [
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add /bento personal hub with auto-refreshed data",
-        "time": "hier",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
+        "message": "Refresh bento: À l'affiche (TMDB), Hacker News, compact YouTube list",
+        "time": "à l'instant",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/0ca4a3b476526c6ee661665878dc8b808cb8f2f4"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Refresh hero copy, availability badge & avatar logo",
-        "time": "il y a 3 j",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/5eb2512ac0c5f376b5f93b9f4aa9b6a4ad5f05be"
+        "message": "Add /bento personal hub with auto-refreshed data",
+        "time": "hier",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/fffa0517b8a1554347f023f7ea94ad5ca9735115"
       }
     ]
   },
-  "veille": {
+  "hackernews": {
     "items": [
       {
-        "source": "01net · Culture",
-        "title": "France TV bascule vers le « streaming first » en signant un partenariat avec YouTube",
-        "url": "https://www.01net.com/actualites/france-tv-bascule-vers-streaming-first-signant-partenariat-avec-youtube.html",
-        "date": "il y a 9 h",
-        "publishedAt": "2026-04-23T10:56:06.000Z"
+        "title": "GPT-5.5",
+        "titleOriginal": "GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "source": "openai.com",
+        "score": 751,
+        "comments": 373,
+        "hnUrl": "https://news.ycombinator.com/item?id=47879092",
+        "date": "il y a 2 h"
       },
       {
-        "source": "01net · Apps",
-        "title": "WhatsApp : ne touchez plus à cette option de personnalisation, elle va bientôt être supprimée",
-        "url": "https://www.01net.com/actualites/whatsapp-touchez-plus-cette-option-personnalisation-bientot-etre-supprimee.html",
-        "date": "il y a 11 h",
-        "publishedAt": "2026-04-23T08:45:07.000Z"
+        "title": "Une fille de 10 ans trouve un axolotl mexicain rare sous un pont gallois",
+        "titleOriginal": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
+        "url": "https://www.bbc.com/news/articles/c9d4zgnqpqeo",
+        "source": "bbc.com",
+        "score": 96,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=47880189",
+        "date": "il y a 1 h"
       },
       {
-        "source": "01net · Apps",
-        "title": "Votre iPhone est-il vraiment sécurisé ? Voici comment le vérifier",
-        "url": "https://www.01net.com/actualites/votre-iphone-est-il-vraiment-securise-voici-comment-le-verifier.html",
-        "date": "il y a 11 h",
-        "publishedAt": "2026-04-23T08:34:28.000Z"
+        "title": "Une mise à jour sur les récents rapports de qualité de Claude Code",
+        "titleOriginal": "An update on recent Claude Code quality reports",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "source": "anthropic.com",
+        "score": 390,
+        "comments": 275,
+        "hnUrl": "https://news.ycombinator.com/item?id=47878905",
+        "date": "il y a 3 h"
       },
       {
-        "source": "01net · Apps",
-        "title": "Windows 11 : vous pouvez désormais lancer un speedtest depuis la barre des tâches",
-        "url": "https://www.01net.com/actualites/windows-11-vous-pouvez-desormais-lancer-un-speedtest-depuis-la-barre-des-taches.html",
-        "date": "il y a 13 h",
-        "publishedAt": "2026-04-23T06:42:14.000Z"
+        "title": "Bitwarden CLI compromis dans la campagne en cours de la chaîne d'approvisionnement Checkmarx",
+        "titleOriginal": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+        "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+        "source": "socket.dev",
+        "score": 493,
+        "comments": 230,
+        "hnUrl": "https://news.ycombinator.com/item?id=47876043",
+        "date": "il y a 6 h"
       }
     ]
   }
