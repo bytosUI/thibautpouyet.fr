@@ -1,12 +1,20 @@
 {
-  "updatedAt": "2026-04-22T22:34:22.597Z",
+  "updatedAt": "2026-04-23T06:20:17.943Z",
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 372,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -14,42 +22,15 @@
   },
   "youtube": {
     "latest": {
-      "title": "Pourquoi les clients disparaissent en silence ?",
-      "channel": "Silicon Carne 🌶️",
-      "channelHandle": "siliconcarnepod",
-      "videoId": "QM7oSVS4KCU",
-      "thumbnail": "https://i.ytimg.com/vi/QM7oSVS4KCU/hqdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=QM7oSVS4KCU",
-      "publishedAt": "2026-04-22T17:01:48+00:00"
+      "title": "Le jeu vidéo, c'est de l'art ?",
+      "channel": "Mcfly et Carlito",
+      "channelHandle": "LeFatShow",
+      "videoId": "m4tYCQrjWeI",
+      "thumbnail": "https://i.ytimg.com/vi/m4tYCQrjWeI/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=m4tYCQrjWeI",
+      "publishedAt": "2026-04-22T14:42:24+00:00"
     },
     "recent": [
-      {
-        "title": "Pourquoi les clients disparaissent en silence ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "QM7oSVS4KCU",
-        "thumbnail": "https://i.ytimg.com/vi/QM7oSVS4KCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QM7oSVS4KCU",
-        "publishedAt": "2026-04-22T17:01:48+00:00"
-      },
-      {
-        "title": "LEUR MAMAN A DÉCIDÉ DE MOURIR, COMMENT ÇA SE PASSE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Q6jtw7XPu0k",
-        "thumbnail": "https://i.ytimg.com/vi/Q6jtw7XPu0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q6jtw7XPu0k",
-        "publishedAt": "2026-04-22T16:57:26+00:00"
-      },
-      {
-        "title": "ELLE DIT AU REVOIR À SON CHAT ET À SON JARDIN POUR LA DERNIÈRE FOIS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "uarvx9jxK0I",
-        "thumbnail": "https://i.ytimg.com/vi/uarvx9jxK0I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uarvx9jxK0I",
-        "publishedAt": "2026-04-22T15:29:11+00:00"
-      },
       {
         "title": "Le jeu vidéo, c'est de l'art ?",
         "channel": "Mcfly et Carlito",
@@ -58,6 +39,33 @@
         "thumbnail": "https://i.ytimg.com/vi/m4tYCQrjWeI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=m4tYCQrjWeI",
         "publishedAt": "2026-04-22T14:42:24+00:00"
+      },
+      {
+        "title": "On élit les meilleures chasses d’eau et @Djilsi refuse de faire la vidéo si on change pas de place",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "j6V70tSzCxg",
+        "thumbnail": "https://i.ytimg.com/vi/j6V70tSzCxg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=j6V70tSzCxg",
+        "publishedAt": "2026-04-21T15:13:36+00:00"
+      },
+      {
+        "title": "50 % des jobs vont disparaître",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "hydFOglk-EM",
+        "thumbnail": "https://i.ytimg.com/vi/hydFOglk-EM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hydFOglk-EM",
+        "publishedAt": "2026-04-21T11:47:11+00:00"
+      },
+      {
+        "title": "Claude Code a changé le game",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "WPD_jehrOig",
+        "thumbnail": "https://i.ytimg.com/vi/WPD_jehrOig/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WPD_jehrOig",
+        "publishedAt": "2026-04-20T11:56:50+00:00"
       }
     ]
   },
@@ -106,7 +114,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Refresh hero copy, availability badge & avatar logo",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/5eb2512ac0c5f376b5f93b9f4aa9b6a4ad5f05be"
       }
     ]
@@ -115,31 +123,31 @@
     "items": [
       {
         "source": "01net · Apps",
+        "title": "60 % plus rapide, 20 millions de cellules : Google Sheets change de dimension",
+        "url": "https://www.01net.com/actualites/60-plus-rapide-20-millions-cellules-google-sheets-change-dimension.html",
+        "date": "il y a 14 min",
+        "publishedAt": "2026-04-23T06:05:28.000Z"
+      },
+      {
+        "source": "01net · Apps",
         "title": "Google Street View devient un outil de création de décors : les studios de cinéma vont pouvoir visualiser leurs scènes depuis un bureau",
         "url": "https://www.01net.com/actualites/google-maps-street-view-ia-decors-cinema-maps-imagery-grounding.html",
-        "date": "il y a 6 h",
+        "date": "il y a 14 h",
         "publishedAt": "2026-04-22T15:58:01.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "L’AirDrop de Nothing revient en catimini après son retrait brutal",
         "url": "https://www.01net.com/actualites/lairdrop-de-nothing-revient-en-catimini-apres-son-retrait-brutal.html",
-        "date": "il y a 7 h",
+        "date": "il y a 15 h",
         "publishedAt": "2026-04-22T14:48:10.000Z"
       },
       {
         "source": "01net · Apps",
         "title": "Opera embarque YouTube et Twitch dans sa barre latérale et fait monter le son",
         "url": "https://www.01net.com/actualites/opera-embarque-youtube-et-twitch-dans-sa-barre-laterale-et-fait-monter-le-son.html",
-        "date": "il y a 12 h",
+        "date": "il y a 20 h",
         "publishedAt": "2026-04-22T10:16:56.000Z"
-      },
-      {
-        "source": "01net · Apps",
-        "title": "Google Wallet ajoute enfin les « Mises à jour en direct » : voici à quoi ça ressemble",
-        "url": "https://www.01net.com/actualites/google-wallet-ajoute-mises-a-jour-en-direct-voici-quoi-ca-ressemble.html",
-        "date": "il y a 16 h",
-        "publishedAt": "2026-04-22T06:20:33.000Z"
       }
     ]
   }
