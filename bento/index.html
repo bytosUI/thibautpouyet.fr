@@ -263,6 +263,88 @@
       text-overflow: ellipsis;
     }
 
+    /* Weather cell */
+    .cell-weather .dot { background: color-mix(in srgb, var(--color-primary) 12%, #fff); color: var(--color-primary); }
+    .weather-row {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+    }
+    .weather-now {
+      display: flex;
+      align-items: center;
+      gap: .875rem;
+      flex: 1;
+      min-width: 0;
+    }
+    .weather-now-icon {
+      color: var(--color-primary);
+      display: inline-flex;
+      flex-shrink: 0;
+    }
+    .weather-now-main { min-width: 0; }
+    .weather-now-city {
+      font-size: .65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: var(--color-neutral-500);
+    }
+    .weather-now-temp {
+      font-size: 2rem;
+      font-weight: 600;
+      line-height: 1.1;
+      color: var(--color-neutral-900);
+      font-variant-numeric: tabular-nums;
+      margin-top: 2px;
+    }
+    .weather-now-desc {
+      font-size: .75rem;
+      color: var(--color-neutral-600);
+      margin-top: 2px;
+    }
+    .weather-meta {
+      display: flex;
+      gap: 1rem;
+      font-size: .75rem;
+      color: var(--color-neutral-500);
+      font-variant-numeric: tabular-nums;
+    }
+    .weather-meta span { display: inline-flex; align-items: center; gap: .3rem; }
+    .weather-forecast {
+      display: flex;
+      gap: .5rem;
+    }
+    .weather-day {
+      text-align: center;
+      min-width: 60px;
+      padding: .5rem .4rem;
+      border-radius: var(--radius-md);
+      background: var(--color-neutral-50);
+      border: 1px solid var(--color-neutral-100);
+    }
+    .weather-day-label {
+      font-size: .6rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      color: var(--color-neutral-500);
+      letter-spacing: .05em;
+    }
+    .weather-day-icon {
+      color: var(--color-primary);
+      margin: 4px 0;
+      display: flex;
+      justify-content: center;
+    }
+    .weather-day-temp {
+      font-size: .7rem;
+      color: var(--color-neutral-600);
+      font-variant-numeric: tabular-nums;
+    }
+    .weather-day-temp .max { font-weight: 600; color: var(--color-neutral-900); }
+    .weather-day-temp .sep { color: var(--color-neutral-300); margin: 0 2px; }
+
     /* Films cell */
     .cell-films .dot { background: color-mix(in srgb, var(--color-tertiary) 14%, #fff); color: var(--color-tertiary); }
     .poster-strip {
@@ -389,6 +471,17 @@
   </header>
 
   <main class="bento">
+
+    <!-- Weather (4x1) -->
+    <section class="cell cell-4x1 cell-weather" data-slot="weather">
+      <div class="cell-head">
+        <span class="dot"><iconify-icon icon="mdi:weather-partly-cloudy" width="16"></iconify-icon></span>
+        <span class="label">Météo</span>
+      </div>
+      <div data-content>
+        <div class="skeleton" style="height: 80px;"></div>
+      </div>
+    </section>
 
     <!-- YouTube — Dernières vidéos par chaîne (2x2) -->
     <section class="cell cell-2x2 cell-youtube" data-slot="youtube">

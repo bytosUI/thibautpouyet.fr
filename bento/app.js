@@ -21,6 +21,84 @@ const fmtRelative = (iso) => {
 
 const slot = (name) => $(`[data-slot="${name}"] [data-content]`);
 
+const WMO_ICON = (code) => {
+  if (code === 0 || code === 1) return 'mdi:weather-sunny';
+  if (code === 2) return 'mdi:weather-partly-cloudy';
+  if (code === 3) return 'mdi:weather-cloudy';
+  if (code === 45 || code === 48) return 'mdi:weather-fog';
+  if (code >= 51 && code <= 57) return 'mdi:weather-partly-rainy';
+  if (code >= 61 && code <= 65) return 'mdi:weather-rainy';
+  if (code === 66 || code === 67) return 'mdi:weather-snowy-rainy';
+  if (code >= 71 && code <= 77) return 'mdi:weather-snowy';
+  if (code >= 80 && code <= 82) return 'mdi:weather-pouring';
+  if (code === 85 || code === 86) return 'mdi:weather-snowy-heavy';
+  if (code >= 95) return 'mdi:weather-lightning';
+  return 'mdi:weather-partly-cloudy';
+};
+
+const WMO_LABEL = (code) => {
+  if (code === 0) return 'Ciel dégagé';
+  if (code === 1) return 'Ciel clair';
+  if (code === 2) return 'Partiellement nuageux';
+  if (code === 3) return 'Nuageux';
+  if (code === 45 || code === 48) return 'Brouillard';
+  if (code >= 51 && code <= 57) return 'Bruine';
+  if (code >= 61 && code <= 65) return 'Pluie';
+  if (code === 66 || code === 67) return 'Pluie verglaçante';
+  if (code >= 71 && code <= 77) return 'Neige';
+  if (code >= 80 && code <= 82) return 'Averses';
+  if (code === 85 || code === 86) return 'Averses de neige';
+  if (code >= 95) return 'Orage';
+  return '';
+};
+
+const WEEKDAY_FR = (iso) => {
+  const d = new Date(iso);
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  const target = new Date(d); target.setHours(0, 0, 0, 0);
+  const diff = Math.round((target - today) / 86400000);
+  if (diff === 0) return 'Auj.';
+  if (diff === 1) return 'Demain';
+  return ['Dim', 'Lun', 'Mar', 'Mer', 'Jeu', 'Ven', 'Sam'][d.getDay()];
+};
+
+function renderWeather(data) {
+  const container = slot('weather');
+  if (!data || !data.current) {
+    container.innerHTML = `<div class="empty-state"><span>Météo indisponible</span></div>`;
+    return;
+  }
+  const c = data.current;
+  const forecast = (data.forecast || []).slice(1, 4);
+  container.innerHTML = `
+    <div class="weather-row">
+      <div class="weather-now">
+        <span class="weather-now-icon">
+          <iconify-icon icon="${WMO_ICON(c.code)}" width="48"></iconify-icon>
+        </span>
+        <div class="weather-now-main">
+          <div class="weather-now-city">${esc(data.city)}</div>
+          <div class="weather-now-temp">${c.temp}°</div>
+          <div class="weather-now-desc">${esc(WMO_LABEL(c.code))} · ressenti ${c.feelsLike}°</div>
+        </div>
+      </div>
+      <div class="weather-meta">
+        <span><iconify-icon icon="mdi:weather-windy" width="14"></iconify-icon> ${c.wind} km/h</span>
+        <span><iconify-icon icon="mdi:water-percent" width="14"></iconify-icon> ${c.humidity}%</span>
+      </div>
+      <div class="weather-forecast">
+        ${forecast.map((d) => `
+          <div class="weather-day">
+            <div class="weather-day-label">${WEEKDAY_FR(d.date)}</div>
+            <div class="weather-day-icon"><iconify-icon icon="${WMO_ICON(d.code)}" width="22"></iconify-icon></div>
+            <div class="weather-day-temp"><span class="max">${d.tmax}°</span><span class="sep">/</span>${d.tmin}°</div>
+          </div>
+        `).join('')}
+      </div>
+    </div>
+  `;
+}
+
 function renderTwitch(data) {
   const container = slot('twitch');
   if (!data || !data.live || data.live.length === 0) {
@@ -151,6 +229,7 @@ async function init() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
+    renderWeather(data.weather);
     renderTwitch(data.twitch);
     renderYoutube(data.youtube);
     renderFilms(data.films);

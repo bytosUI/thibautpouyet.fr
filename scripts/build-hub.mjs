@@ -206,6 +206,39 @@ async function fetchGithub(username) {
   return { recent: commits.slice(0, 5).map(({ publishedAt, ...rest }) => rest) };
 }
 
+// ── Météo (Open-Meteo, no key) ──────────────────────────────────
+async function fetchWeather(cfg) {
+  const url = `https://api.open-meteo.com/v1/forecast`
+    + `?latitude=${cfg.latitude}&longitude=${cfg.longitude}`
+    + `&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m`
+    + `&daily=temperature_2m_max,temperature_2m_min,weather_code`
+    + `&timezone=${encodeURIComponent(cfg.timezone)}&forecast_days=4`;
+  const res = await safeFetch(url, {}, 'open-meteo');
+  if (!res) return null;
+  const d = await res.json();
+  const c = d.current, daily = d.daily;
+  const forecast = [];
+  for (let i = 0; i < (daily?.time?.length || 0); i++) {
+    forecast.push({
+      date: daily.time[i],
+      code: daily.weather_code[i],
+      tmax: Math.round(daily.temperature_2m_max[i]),
+      tmin: Math.round(daily.temperature_2m_min[i]),
+    });
+  }
+  return {
+    city: cfg.city,
+    current: {
+      temp: Math.round(c.temperature_2m),
+      feelsLike: Math.round(c.apparent_temperature),
+      code: c.weather_code,
+      wind: Math.round(c.wind_speed_10m),
+      humidity: c.relative_humidity_2m,
+    },
+    forecast,
+  };
+}
+
 // ── Translation (MyMemory, no key) ──────────────────────────────
 async function translateEnToFr(text) {
   if (!text) return text;
@@ -286,16 +319,18 @@ async function main() {
 
   const { TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, TMDB_API_KEY } = process.env;
 
-  const [twitch, youtube, films, github, hackernews] = await Promise.all([
+  const [twitch, youtube, films, github, hackernews, weather] = await Promise.all([
     fetchTwitch(config.twitch.users, TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET),
     fetchYouTube(config.youtube.channels),
     fetchFilms(config.films, TMDB_API_KEY),
     fetchGithub(config.github.username),
     fetchHackerNews(config.hackernews.limit),
+    fetchWeather(config.weather),
   ]);
 
   const data = {
     updatedAt: new Date().toISOString(),
+    weather,
     twitch,
     youtube,
     films,
@@ -310,6 +345,7 @@ async function main() {
   console.log(`     films: ${films.top5.length}`);
   console.log(`     github commits: ${github.recent.length}`);
   console.log(`     hackernews items: ${hackernews.items.length}`);
+  console.log(`     weather: ${weather ? `${weather.current.temp}° @ ${weather.city}` : 'unavailable'}`);
 }
 
 main().catch((err) => {
