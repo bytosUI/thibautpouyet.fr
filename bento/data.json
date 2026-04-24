@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T14:59:30.110Z",
+  "updatedAt": "2026-04-24T17:57:19.638Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 18,
+      "temp": 21,
+      "feelsLike": 17,
       "code": 0,
-      "wind": 13,
-      "humidity": 17
+      "wind": 9,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-04-26",
         "code": 3,
-        "tmax": 21,
+        "tmax": 22,
         "tmin": 6
       },
       {
         "date": "2026-04-27",
         "code": 3,
         "tmax": 21,
-        "tmin": 3
+        "tmin": 4
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL AURAIT PU FINIR SA VIE DANS LE LUXE...MAIS UNE ERREUR L'A RUINÉ",
+        "title": "COMMENT MIKE TYSON EST-IL PASSÉ D’UNE FORTUNE DE 430 MILLIONS D’EUROS À UNE DETTE DE 23 MILLIONS ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "IR45wWLiehk",
-        "thumbnail": "https://i.ytimg.com/vi/IR45wWLiehk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IR45wWLiehk",
-        "publishedAt": "2026-04-24T14:00:27+00:00"
+        "videoId": "G6YHEjorcQM",
+        "thumbnail": "https://i.ytimg.com/vi/G6YHEjorcQM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G6YHEjorcQM",
+        "publishedAt": "2026-04-24T16:00:33+00:00"
       },
       {
         "title": "Que cache vraiment Merge Labs d'Altman ?",
@@ -173,13 +173,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 6 h",
+        "time": "il y a 9 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "il y a 17 h",
+        "time": "il y a 20 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       }
     ]
@@ -191,40 +191,40 @@
         "titleOriginal": "Sabotaging projects by overthinking, scope creep, and structural diffing",
         "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
         "source": "kevinlynagh.com",
-        "score": 35,
-        "comments": 5,
+        "score": 207,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=47890799",
-        "date": "il y a 30 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Différents modèles linguistiques apprennent des représentations numériques similaires",
-        "titleOriginal": "Different Language Models Learn Similar Number Representations",
-        "url": "https://arxiv.org/abs/2604.20817",
-        "source": "arxiv.org",
-        "score": 9,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47890873",
-        "date": "il y a 25 min"
-      },
-      {
-        "title": "Spinel : compilateur natif Ruby AOT",
-        "titleOriginal": "Spinel: Ruby AOT Native Compiler",
-        "url": "https://github.com/matz/spinel",
+        "title": "SDL prend désormais en charge DOS",
+        "titleOriginal": "SDL Now Supports DOS",
+        "url": "https://github.com/libsdl-org/SDL/pull/15377",
         "source": "github.com",
-        "score": 187,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=47887334",
-        "date": "il y a 6 h"
+        "score": 68,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=47892291",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "J'ai annulé Claude : problèmes de jetons, baisse de la qualité et mauvaise prise en charge",
+        "titleOriginal": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
+        "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+        "source": "nickyreinert.de",
+        "score": 316,
+        "comments": 163,
+        "hnUrl": "https://news.ycombinator.com/item?id=47892019",
+        "date": "il y a 1 h"
       },
       {
         "title": "DeepSeek v4",
         "titleOriginal": "DeepSeek v4",
         "url": "https://api-docs.deepseek.com/",
         "source": "api-docs.deepseek.com",
-        "score": 1407,
-        "comments": 997,
+        "score": 1591,
+        "comments": 1243,
         "hnUrl": "https://news.ycombinator.com/item?id=47884971",
-        "date": "il y a 11 h"
+        "date": "il y a 14 h"
       }
     ]
   }
