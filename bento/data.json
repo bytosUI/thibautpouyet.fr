@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-24T17:57:19.638Z",
+  "updatedAt": "2026-04-24T20:08:02.189Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 17,
+      "temp": 15,
+      "feelsLike": 12,
       "code": 0,
       "wind": 9,
-      "humidity": 23
+      "humidity": 38
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-04-26",
         "code": 3,
         "tmax": 22,
-        "tmin": 6
+        "tmin": 7
       },
       {
         "date": "2026-04-27",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 600,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -173,13 +181,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 9 h",
+        "time": "il y a 12 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "il y a 20 h",
+        "time": "il y a 23 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       }
     ]
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "OpenAI publie GPT-5.5 et GPT-5.5 Pro dans l'API",
+        "titleOriginal": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
+        "url": "https://developers.openai.com/api/docs/changelog",
+        "source": "developers.openai.com",
+        "score": 101,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=47894000",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Aéroport calme SFO (2025)",
+        "titleOriginal": "SFO Quiet Airport (2025)",
+        "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+        "source": "viewfromthewing.com",
+        "score": 55,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=47894081",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Sabotage des projets par la réflexion excessive, le glissement de la portée et les différences structurelles",
         "titleOriginal": "Sabotaging projects by overthinking, scope creep, and structural diffing",
         "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
         "source": "kevinlynagh.com",
-        "score": 207,
-        "comments": 54,
+        "score": 279,
+        "comments": 67,
         "hnUrl": "https://news.ycombinator.com/item?id=47890799",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "SDL prend désormais en charge DOS",
         "titleOriginal": "SDL Now Supports DOS",
         "url": "https://github.com/libsdl-org/SDL/pull/15377",
         "source": "github.com",
-        "score": 68,
-        "comments": 28,
+        "score": 155,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=47892291",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "J'ai annulé Claude : problèmes de jetons, baisse de la qualité et mauvaise prise en charge",
-        "titleOriginal": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
-        "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-        "source": "nickyreinert.de",
-        "score": 316,
-        "comments": 163,
-        "hnUrl": "https://news.ycombinator.com/item?id=47892019",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "DeepSeek v4",
-        "titleOriginal": "DeepSeek v4",
-        "url": "https://api-docs.deepseek.com/",
-        "source": "api-docs.deepseek.com",
-        "score": 1591,
-        "comments": 1243,
-        "hnUrl": "https://news.ycombinator.com/item?id=47884971",
-        "date": "il y a 14 h"
+        "date": "il y a 3 h"
       }
     ]
   }
