@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-04-24T06:28:30.773Z",
+  "updatedAt": "2026-04-24T08:03:58.730Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 6,
-      "feelsLike": 4,
-      "code": 0,
-      "wind": 4,
-      "humidity": 72
+      "temp": 12,
+      "feelsLike": 9,
+      "code": 1,
+      "wind": 7,
+      "humidity": 56
     },
     "forecast": [
       {
         "date": "2026-04-24",
-        "code": 1,
+        "code": 2,
         "tmax": 22,
         "tmin": 5
       },
@@ -42,14 +42,29 @@
         "user": "nowtechteam",
         "displayName": "NowtechTeam",
         "game": "Just Chatting",
-        "viewers": 403,
+        "viewers": 511,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
         "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 292,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 114,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
       "micode",
       "origatwitch",
       "firsteam",
@@ -66,6 +81,78 @@
         "thumbnail": "https://i.ytimg.com/vi/-FP2LeLdUl0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-FP2LeLdUl0",
         "publishedAt": "2026-04-23T17:01:34+00:00"
+      },
+      {
+        "title": "BANQUIER POUR VIP : TOUS LES SECRETS SUR L’ARGENT DES STARS ET SES MEILLEURES ANECDOTES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "O4wXU3pY3Wc",
+        "thumbnail": "https://i.ytimg.com/vi/O4wXU3pY3Wc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O4wXU3pY3Wc",
+        "publishedAt": "2026-04-23T15:28:50+00:00"
+      },
+      {
+        "title": "Carlito est MORT ?!!??",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "3mgs9kvcrWw",
+        "thumbnail": "https://i.ytimg.com/vi/3mgs9kvcrWw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3mgs9kvcrWw",
+        "publishedAt": "2026-04-23T15:26:21+00:00"
+      },
+      {
+        "title": "50 % des jobs vont disparaître",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "hydFOglk-EM",
+        "thumbnail": "https://i.ytimg.com/vi/hydFOglk-EM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hydFOglk-EM",
+        "publishedAt": "2026-04-21T11:47:11+00:00"
+      },
+      {
+        "title": "Une livraison de 20T pour ca ? #19",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "GT8bKeaYso8",
+        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
+        "publishedAt": "2026-04-19T15:17:00+00:00"
+      },
+      {
+        "title": "POUR NOUS C'EST LA PLUS BELLE TOITURE DE FRANCE ! (J'exagère mais c'est vraiment magnifique) - EP26",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "UaB4JgV6qUE",
+        "thumbnail": "https://i.ytimg.com/vi/UaB4JgV6qUE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UaB4JgV6qUE",
+        "publishedAt": "2026-04-19T10:00:11+00:00"
+      },
+      {
+        "title": "Oli passe le test des taches d'encre devant 3 psys",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Ap4-MX-Gg24",
+        "thumbnail": "https://i.ytimg.com/vi/Ap4-MX-Gg24/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ap4-MX-Gg24",
+        "publishedAt": "2026-04-13T07:19:46+00:00"
+      },
+      {
+        "title": "Pourquoi Busan est si différente des autres villes coréennes 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "_Y7IClN4-eE",
+        "thumbnail": "https://i.ytimg.com/vi/_Y7IClN4-eE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_Y7IClN4-eE",
+        "publishedAt": "2026-04-12T19:15:04+00:00"
+      },
+      {
+        "title": "Je fais mon sous-sol de rêve - RÉNOVATION",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "wtZq_ecxKrs",
+        "thumbnail": "https://i.ytimg.com/vi/wtZq_ecxKrs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wtZq_ecxKrs",
+        "publishedAt": "2026-03-07T14:30:56+00:00"
       }
     ]
   },
@@ -107,15 +194,15 @@
     "recent": [
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "il y a 9 h",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
+        "message": "Add Hardisk to Twitch streamers list",
+        "time": "à l'instant",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Refresh bento: À l'affiche (TMDB), Hacker News, compact YouTube list",
-        "time": "il y a 9 h",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/0ca4a3b476526c6ee661665878dc8b808cb8f2f4"
+        "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
+        "time": "il y a 10 h",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       }
     ]
   },
@@ -126,40 +213,40 @@
         "titleOriginal": "DeepSeek v4",
         "url": "https://api-docs.deepseek.com/",
         "source": "api-docs.deepseek.com",
-        "score": 530,
-        "comments": 233,
+        "score": 753,
+        "comments": 422,
         "hnUrl": "https://news.ycombinator.com/item?id=47884971",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "La composition ne devrait pas être aussi difficile",
+        "titleOriginal": "Composition Shouldn't be this Hard",
+        "url": "https://www.cambra.dev/blog/announcement/",
+        "source": "cambra.dev",
+        "score": 16,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=47886773",
+        "date": "il y a 41 min"
       },
       {
         "title": "Pourquoi j'écris (1946)",
         "titleOriginal": "Why I Write (1946)",
         "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/",
         "source": "orwellfoundation.com",
-        "score": 115,
-        "comments": 25,
+        "score": 145,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=47884768",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "GPT-5.5",
-        "titleOriginal": "GPT-5.5",
-        "url": "https://openai.com/index/introducing-gpt-5-5/",
-        "source": "openai.com",
-        "score": 1261,
-        "comments": 844,
-        "hnUrl": "https://news.ycombinator.com/item?id=47879092",
-        "date": "il y a 12 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Une mise à jour sur les récents rapports de qualité de Claude Code",
         "titleOriginal": "An update on recent Claude Code quality reports",
         "url": "https://www.anthropic.com/engineering/april-23-postmortem",
         "source": "anthropic.com",
-        "score": 652,
-        "comments": 498,
+        "score": 708,
+        "comments": 524,
         "hnUrl": "https://news.ycombinator.com/item?id=47878905",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
       }
     ]
   }
