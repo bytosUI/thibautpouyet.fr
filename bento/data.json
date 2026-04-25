@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-04-25T05:30:56.155Z",
+  "updatedAt": "2026-04-25T08:38:14.919Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 5,
-      "feelsLike": 3,
+      "temp": 14,
+      "feelsLike": 11,
       "code": 0,
-      "wind": 3,
-      "humidity": 81
+      "wind": 7,
+      "humidity": 50
     },
     "forecast": [
       {
         "date": "2026-04-25",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 4
       },
       {
@@ -26,7 +26,7 @@
         "date": "2026-04-27",
         "code": 3,
         "tmax": 22,
-        "tmin": 5
+        "tmin": 6
       },
       {
         "date": "2026-04-28",
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT MIKE TYSON EST-IL PASSÉ D’UNE FORTUNE DE 430 MILLIONS D’EUROS À UNE DETTE DE 23 MILLIONS ?",
+        "title": "COMMENT IL S’EST CONSTRUIT POUR RÉUSSIR DANS L’IMMOBILIER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "G6YHEjorcQM",
-        "thumbnail": "https://i.ytimg.com/vi/G6YHEjorcQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G6YHEjorcQM",
-        "publishedAt": "2026-04-24T16:00:33+00:00"
+        "videoId": "JCQEvIOcgTk",
+        "thumbnail": "https://i.ytimg.com/vi/JCQEvIOcgTk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JCQEvIOcgTk",
+        "publishedAt": "2026-04-25T08:00:13+00:00"
       },
       {
-        "title": "Que cache vraiment Merge Labs d'Altman ?",
+        "title": "Libertarianisme, Impérialisme ou Techno-fascisme : quel est le vrai visage de Palantir ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "-FP2LeLdUl0",
-        "thumbnail": "https://i.ytimg.com/vi/-FP2LeLdUl0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-FP2LeLdUl0",
-        "publishedAt": "2026-04-23T17:01:34+00:00"
+        "videoId": "bWWiEvvwc1g",
+        "thumbnail": "https://i.ytimg.com/vi/bWWiEvvwc1g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bWWiEvvwc1g",
+        "publishedAt": "2026-04-25T06:30:14+00:00"
       },
       {
         "title": "Carlito est MORT ?!!??",
@@ -173,7 +173,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 21 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
@@ -187,43 +187,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les nouveaux adaptateurs USB 10 GbE sont plus froids, plus petits, moins chers",
+        "titleOriginal": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+        "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
+        "source": "jeffgeerling.com",
+        "score": 104,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=47899053",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Google prévoit d'investir jusqu'à 40 milliards de $ dans Anthropic",
         "titleOriginal": "Google plans to invest up to $40B in Anthropic",
         "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
         "source": "bloomberg.com",
-        "score": 460,
-        "comments": 476,
+        "score": 564,
+        "comments": 544,
         "hnUrl": "https://news.ycombinator.com/item?id=47892074",
-        "date": "il y a 13 h"
+        "date": "il y a 16 h"
       },
       {
-        "title": "Turbo Vision 2.0 – un port moderne",
-        "titleOriginal": "Turbo Vision 2.0 – a modern port",
-        "url": "https://github.com/magiblot/tvision",
-        "source": "github.com",
-        "score": 20,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47898597",
-        "date": "il y a 1 h"
+        "title": "Un corps 3D à partir de huit questions – Pas de photo, pas de GPU",
+        "titleOriginal": "A 3D Body from Eight Questions – No Photo, No GPU",
+        "url": "https://clad.you/blog/posts/questionnaire-mlp/",
+        "source": "clad.you",
+        "score": 45,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=47862541",
+        "date": "il y a 2 j"
       },
       {
         "title": "Paraloid B-72",
         "titleOriginal": "Paraloid B-72",
         "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
         "source": "en.wikipedia.org",
-        "score": 111,
-        "comments": 21,
+        "score": 171,
+        "comments": 26,
         "hnUrl": "https://news.ycombinator.com/item?id=47858939",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Les baleines à bosse forment des super-groupes",
-        "titleOriginal": "Humpback whales are forming super-groups",
-        "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
-        "source": "bbc.com",
-        "score": 62,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=47858294",
         "date": "il y a 3 j"
       }
     ]
