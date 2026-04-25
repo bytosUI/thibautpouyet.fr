@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T11:25:50.371Z",
+  "updatedAt": "2026-04-25T14:11:40.723Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
+      "temp": 22,
       "feelsLike": 19,
-      "code": 0,
-      "wind": 8,
-      "humidity": 29
+      "code": 3,
+      "wind": 9,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-04-26",
         "code": 3,
         "tmax": 22,
-        "tmin": 6
+        "tmin": 5
       },
       {
         "date": "2026-04-27",
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT MIKE TYSON A DÉTRUIT UNE FORTUNE DE 400 M $",
+        "title": "RIHANNA EST DEVENUE MILLIARDAIRE GRÂCE AU BUSINESS PAS LA MUSIQUE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "sSvQw6xzOwA",
-        "thumbnail": "https://i.ytimg.com/vi/sSvQw6xzOwA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sSvQw6xzOwA",
-        "publishedAt": "2026-04-25T11:01:22+00:00"
+        "videoId": "klLjmE34mgo",
+        "thumbnail": "https://i.ytimg.com/vi/klLjmE34mgo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=klLjmE34mgo",
+        "publishedAt": "2026-04-25T13:01:30+00:00"
       },
       {
-        "title": "Ne JAMAIS faire confiance à Maxime 💀",
+        "title": "Une abonnée découvre une mauvaise surprise dans le container…",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
-        "videoId": "AMGqUTfSjs4",
-        "thumbnail": "https://i.ytimg.com/vi/AMGqUTfSjs4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AMGqUTfSjs4",
-        "publishedAt": "2026-04-25T09:19:04+00:00"
+        "videoId": "R4ai3I7ZOtw",
+        "thumbnail": "https://i.ytimg.com/vi/R4ai3I7ZOtw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R4ai3I7ZOtw",
+        "publishedAt": "2026-04-25T11:26:52+00:00"
       },
       {
         "title": "Libertarianisme, Impérialisme ou Techno-fascisme : quel est le vrai visage de Palantir ?",
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "« La Grande Vague » de 1 bit Hokusai",
+        "titleOriginal": "1-Bit Hokusai's \"The Great Wave\"",
+        "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+        "source": "hypertalking.com",
+        "score": 108,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=47863570",
+        "date": "il y a 3 j"
+      },
+      {
         "title": "Les nouveaux adaptateurs USB 10 GbE sont plus froids, plus petits, moins chers",
         "titleOriginal": "New 10 GbE USB adapters are cooler, smaller, cheaper",
         "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
         "source": "jeffgeerling.com",
-        "score": 227,
-        "comments": 96,
+        "score": 331,
+        "comments": 178,
         "hnUrl": "https://news.ycombinator.com/item?id=47899053",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Google prévoit d'investir jusqu'à 40 milliards de $ dans Anthropic",
         "titleOriginal": "Google plans to invest up to $40B in Anthropic",
         "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
         "source": "bloomberg.com",
-        "score": 612,
-        "comments": 591,
+        "score": 668,
+        "comments": 665,
         "hnUrl": "https://news.ycombinator.com/item?id=47892074",
-        "date": "il y a 19 h"
+        "date": "il y a 22 h"
       },
       {
-        "title": "Comment mettre en œuvre un compteur FPS",
-        "titleOriginal": "How to Implement an FPS Counter",
-        "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
-        "source": "vplesko.com",
-        "score": 37,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47857563",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Show HN : Un wiki LLM de style Karpathy que vos agents maintiennent (Markdown et Git)",
-        "titleOriginal": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-        "url": "https://github.com/nex-crm/wuphf",
+        "title": "Fichiers de sources musicales de Martin Galway des jeux Commodore 64 des années 1980",
+        "titleOriginal": "Martin Galway's music source files from 1980's Commodore 64 games",
+        "url": "https://github.com/MartinGalway/C64_music",
         "source": "github.com",
-        "score": 85,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=47899844",
-        "date": "il y a 2 h"
+        "score": 36,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47900398",
+        "date": "il y a 3 h"
       }
     ]
   }
