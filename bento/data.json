@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T18:07:53.713Z",
+  "updatedAt": "2026-04-25T20:07:14.084Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 16,
+      "temp": 15,
+      "feelsLike": 12,
       "code": 2,
-      "wind": 9,
-      "humidity": 25
+      "wind": 10,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -187,22 +187,12 @@
   "hackernews": {
     "items": [
       {
-        "title": "Niri 26.04 vient de sortir (compositeur Wayland à défilement inclinable)",
-        "titleOriginal": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
-        "url": "https://github.com/niri-wm/niri/releases/tag/v26.04",
-        "source": "github.com",
-        "score": 92,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=47902416",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "« The Great Wave » de 1 bit Hokusai (2023)",
         "titleOriginal": "1-Bit Hokusai's \"The Great Wave\" (2023)",
         "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
         "source": "hypertalking.com",
-        "score": 330,
-        "comments": 63,
+        "score": 427,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=47863570",
         "date": "il y a 3 j"
       },
@@ -211,20 +201,30 @@
         "titleOriginal": "The Free Universal Construction Kit",
         "url": "https://fffff.at/free-universal-construction-kit/",
         "source": "fffff.at",
-        "score": 39,
-        "comments": 7,
+        "score": 115,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=47860198",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "Hokusai et Tesselations",
+        "titleOriginal": "Hokusai and Tesselations",
+        "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+        "source": "dl.ndl.go.jp",
+        "score": 52,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=47902993",
+        "date": "il y a 2 h"
       },
       {
         "title": "Les nouveaux adaptateurs USB 10 GbE sont plus froids, plus petits, moins chers",
         "titleOriginal": "New 10 GbE USB adapters are cooler, smaller, cheaper",
         "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
         "source": "jeffgeerling.com",
-        "score": 434,
-        "comments": 255,
+        "score": 473,
+        "comments": 277,
         "hnUrl": "https://news.ycombinator.com/item?id=47899053",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
       }
     ]
   }
