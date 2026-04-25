@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T08:38:14.919Z",
+  "updatedAt": "2026-04-25T11:25:50.371Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 11,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 0,
-      "wind": 7,
-      "humidity": 50
+      "wind": 8,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-04-27",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 6
       },
       {
         "date": "2026-04-28",
-        "code": 80,
-        "tmax": 20,
-        "tmin": 10
+        "code": 3,
+        "tmax": 24,
+        "tmin": 9
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT IL S’EST CONSTRUIT POUR RÉUSSIR DANS L’IMMOBILIER",
+        "title": "COMMENT MIKE TYSON A DÉTRUIT UNE FORTUNE DE 400 M $",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "JCQEvIOcgTk",
-        "thumbnail": "https://i.ytimg.com/vi/JCQEvIOcgTk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JCQEvIOcgTk",
-        "publishedAt": "2026-04-25T08:00:13+00:00"
+        "videoId": "sSvQw6xzOwA",
+        "thumbnail": "https://i.ytimg.com/vi/sSvQw6xzOwA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sSvQw6xzOwA",
+        "publishedAt": "2026-04-25T11:01:22+00:00"
+      },
+      {
+        "title": "Ne JAMAIS faire confiance à Maxime 💀",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "AMGqUTfSjs4",
+        "thumbnail": "https://i.ytimg.com/vi/AMGqUTfSjs4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AMGqUTfSjs4",
+        "publishedAt": "2026-04-25T09:19:04+00:00"
       },
       {
         "title": "Libertarianisme, Impérialisme ou Techno-fascisme : quel est le vrai visage de Palantir ?",
@@ -104,15 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/UaB4JgV6qUE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UaB4JgV6qUE",
         "publishedAt": "2026-04-19T10:00:11+00:00"
-      },
-      {
-        "title": "Oli passe le test des taches d'encre devant 3 psys",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Ap4-MX-Gg24",
-        "thumbnail": "https://i.ytimg.com/vi/Ap4-MX-Gg24/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ap4-MX-Gg24",
-        "publishedAt": "2026-04-13T07:19:46+00:00"
       },
       {
         "title": "Pourquoi Busan est si différente des autres villes coréennes 🇰🇷",
@@ -191,40 +191,40 @@
         "titleOriginal": "New 10 GbE USB adapters are cooler, smaller, cheaper",
         "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
         "source": "jeffgeerling.com",
-        "score": 104,
-        "comments": 29,
+        "score": 227,
+        "comments": 96,
         "hnUrl": "https://news.ycombinator.com/item?id=47899053",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Google prévoit d'investir jusqu'à 40 milliards de $ dans Anthropic",
         "titleOriginal": "Google plans to invest up to $40B in Anthropic",
         "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
         "source": "bloomberg.com",
-        "score": 564,
-        "comments": 544,
+        "score": 612,
+        "comments": 591,
         "hnUrl": "https://news.ycombinator.com/item?id=47892074",
-        "date": "il y a 16 h"
+        "date": "il y a 19 h"
       },
       {
-        "title": "Un corps 3D à partir de huit questions – Pas de photo, pas de GPU",
-        "titleOriginal": "A 3D Body from Eight Questions – No Photo, No GPU",
-        "url": "https://clad.you/blog/posts/questionnaire-mlp/",
-        "source": "clad.you",
-        "score": 45,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=47862541",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Paraloid B-72",
-        "titleOriginal": "Paraloid B-72",
-        "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
-        "source": "en.wikipedia.org",
-        "score": 171,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=47858939",
+        "title": "Comment mettre en œuvre un compteur FPS",
+        "titleOriginal": "How to Implement an FPS Counter",
+        "url": "https://vplesko.com/posts/how_to_implement_an_fps_counter.html",
+        "source": "vplesko.com",
+        "score": 37,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47857563",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "Show HN : Un wiki LLM de style Karpathy que vos agents maintiennent (Markdown et Git)",
+        "titleOriginal": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+        "url": "https://github.com/nex-crm/wuphf",
+        "source": "github.com",
+        "score": 85,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=47899844",
+        "date": "il y a 2 h"
       }
     ]
   }
