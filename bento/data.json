@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-04-24T22:29:33.613Z",
+  "updatedAt": "2026-04-25T05:30:56.155Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 8,
+      "temp": 5,
+      "feelsLike": 3,
       "code": 0,
-      "wind": 7,
-      "humidity": 51
+      "wind": 3,
+      "humidity": 81
     },
     "forecast": [
       {
         "date": "2026-04-25",
         "code": 3,
-        "tmax": 22,
-        "tmin": 5
+        "tmax": 23,
+        "tmin": 4
       },
       {
         "date": "2026-04-26",
         "code": 3,
         "tmax": 22,
-        "tmin": 7
+        "tmin": 6
       },
       {
         "date": "2026-04-27",
@@ -30,23 +30,14 @@
       },
       {
         "date": "2026-04-28",
-        "code": 3,
-        "tmax": 21,
-        "tmin": 8
+        "code": 80,
+        "tmax": 20,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 557,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -151,16 +143,16 @@
         "url": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "title": "Le Réveil de la Momie",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-        "url": "https://www.themoviedb.org/movie/1304313"
-      },
-      {
         "title": "Michael",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
         "url": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "title": "Le Réveil de la Momie",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+        "url": "https://www.themoviedb.org/movie/1304313"
       },
       {
         "title": "Le Sifflet",
@@ -181,7 +173,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 14 h",
+        "time": "il y a 21 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
@@ -196,43 +188,43 @@
     "items": [
       {
         "title": "Google prévoit d'investir jusqu'à 40 milliards de $ dans Anthropic",
-        "titleOriginal": "Google Plans to Invest Up to $40B in Anthropic",
+        "titleOriginal": "Google plans to invest up to $40B in Anthropic",
         "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
         "source": "bloomberg.com",
-        "score": 117,
-        "comments": 211,
+        "score": 460,
+        "comments": 476,
         "hnUrl": "https://news.ycombinator.com/item?id=47892074",
-        "date": "il y a 6 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "Mon interface audio a SSH activé par défaut",
-        "titleOriginal": "My audio interface has SSH enabled by default",
-        "url": "https://hhh.hn/rodecaster-duo-fw/",
-        "source": "hhh.hn",
-        "score": 100,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=47894747",
-        "date": "il y a 2 h"
+        "title": "Turbo Vision 2.0 – un port moderne",
+        "titleOriginal": "Turbo Vision 2.0 – a modern port",
+        "url": "https://github.com/magiblot/tvision",
+        "source": "github.com",
+        "score": 20,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47898597",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Fragment d'Iliade trouvé dans la momie de l'époque romaine",
-        "titleOriginal": "Iliad fragment found in Roman-era mummy",
-        "url": "https://www.thehistoryblog.com/archives/75877",
-        "source": "thehistoryblog.com",
-        "score": 54,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47864056",
-        "date": "il y a 2 j"
+        "title": "Paraloid B-72",
+        "titleOriginal": "Paraloid B-72",
+        "url": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+        "source": "en.wikipedia.org",
+        "score": 111,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=47858939",
+        "date": "il y a 3 j"
       },
       {
-        "title": "Le Dîner Américain Classique",
-        "titleOriginal": "The Classic American Diner",
-        "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-        "source": "blogs.loc.gov",
-        "score": 109,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=47894435",
-        "date": "il y a 3 h"
+        "title": "Les baleines à bosse forment des super-groupes",
+        "titleOriginal": "Humpback whales are forming super-groups",
+        "url": "https://www.bbc.com/future/article/20260416-the-humpback-super-groups-swarming-the-seas",
+        "source": "bbc.com",
+        "score": 62,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=47858294",
+        "date": "il y a 3 j"
       }
     ]
   }
