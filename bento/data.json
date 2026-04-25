@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T14:11:40.723Z",
+  "updatedAt": "2026-04-25T16:08:35.511Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 9,
-      "humidity": 23
+      "feelsLike": 18,
+      "code": 0,
+      "wind": 11,
+      "humidity": 22
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-04-27",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 6
       },
       {
         "date": "2026-04-28",
-        "code": 3,
-        "tmax": 24,
+        "code": 80,
+        "tmax": 22,
         "tmin": 9
       }
     ]
@@ -106,7 +106,7 @@
         "publishedAt": "2026-04-19T15:17:00+00:00"
       },
       {
-        "title": "POUR NOUS C'EST LA PLUS BELLE TOITURE DE FRANCE ! (J'exagère mais c'est vraiment magnifique) - EP26",
+        "title": "RÉNOVATION D’UNE TOITURE DE 1870 (avec 25 Velux)  - EP26",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
         "videoId": "UaB4JgV6qUE",
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "« La Grande Vague » de 1 bit Hokusai",
-        "titleOriginal": "1-Bit Hokusai's \"The Great Wave\"",
+        "title": "« The Great Wave » de 1 bit Hokusai (2023)",
+        "titleOriginal": "1-Bit Hokusai's \"The Great Wave\" (2023)",
         "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
         "source": "hypertalking.com",
-        "score": 108,
-        "comments": 12,
+        "score": 226,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=47863570",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "Prime de biosécurité GPT 5.5",
+        "titleOriginal": "GPT 5.5 biosafety bounty",
+        "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+        "source": "openai.com",
+        "score": 32,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=47901734",
+        "date": "il y a 1 h"
       },
       {
         "title": "Les nouveaux adaptateurs USB 10 GbE sont plus froids, plus petits, moins chers",
         "titleOriginal": "New 10 GbE USB adapters are cooler, smaller, cheaper",
         "url": "https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/",
         "source": "jeffgeerling.com",
-        "score": 331,
-        "comments": 178,
+        "score": 393,
+        "comments": 224,
         "hnUrl": "https://news.ycombinator.com/item?id=47899053",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Google prévoit d'investir jusqu'à 40 milliards de $ dans Anthropic",
-        "titleOriginal": "Google plans to invest up to $40B in Anthropic",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-        "source": "bloomberg.com",
-        "score": 668,
-        "comments": 665,
-        "hnUrl": "https://news.ycombinator.com/item?id=47892074",
-        "date": "il y a 22 h"
-      },
-      {
-        "title": "Fichiers de sources musicales de Martin Galway des jeux Commodore 64 des années 1980",
-        "titleOriginal": "Martin Galway's music source files from 1980's Commodore 64 games",
-        "url": "https://github.com/MartinGalway/C64_music",
-        "source": "github.com",
-        "score": 36,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=47900398",
-        "date": "il y a 3 h"
+        "title": "Ce qui manque dans l'histoire « authentique »",
+        "titleOriginal": "What's Missing in the 'Agentic' Story",
+        "url": "https://www.mnot.net/blog/2026/04/24/agents_as_collective_bargains",
+        "source": "mnot.net",
+        "score": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47902339",
+        "date": "il y a 17 min"
       }
     ]
   }
