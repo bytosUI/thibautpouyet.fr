@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-25T22:04:12.315Z",
+  "updatedAt": "2026-04-26T00:07:23.290Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 9,
+      "temp": 10,
+      "feelsLike": 7,
       "code": 3,
-      "wind": 5,
-      "humidity": 49
+      "wind": 6,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -187,22 +187,22 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pouvez-vous empêcher les haricots de vous rendre gazeux ?",
-        "titleOriginal": "Can you stop beans from making you gassy?",
-        "url": "https://www.seriouseats.com/how-to-reduce-bean-gas-tested-11883862",
-        "source": "seriouseats.com",
-        "score": 52,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=47904224",
-        "date": "il y a 1 h"
+        "title": "Aide-mémoire",
+        "titleOriginal": "USB Cheat Sheet",
+        "url": "https://fabiensanglard.net/usbcheat/index.html",
+        "source": "fabiensanglard.net",
+        "score": 87,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=47904876",
+        "date": "il y a 2 h"
       },
       {
         "title": "Le Kit de Construction Universel Gratuit",
         "titleOriginal": "The Free Universal Construction Kit",
         "url": "https://fffff.at/free-universal-construction-kit/",
         "source": "fffff.at",
-        "score": 195,
-        "comments": 39,
+        "score": 244,
+        "comments": 45,
         "hnUrl": "https://news.ycombinator.com/item?id=47860198",
         "date": "il y a 3 j"
       },
@@ -211,20 +211,20 @@
         "titleOriginal": "1-Bit Hokusai's \"The Great Wave\" (2023)",
         "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
         "source": "hypertalking.com",
-        "score": 477,
-        "comments": 83,
+        "score": 509,
+        "comments": 86,
         "hnUrl": "https://news.ycombinator.com/item?id=47863570",
         "date": "il y a 3 j"
       },
       {
-        "title": "Utiliser des outils d'aide au codage pour relancer des projets que vous n'alliez jamais terminer",
-        "titleOriginal": "Using coding assistance tools to revive projects you never were going to finish",
-        "url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
-        "source": "blog.matthewbrunelle.com",
-        "score": 98,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=47902525",
-        "date": "il y a 5 h"
+        "title": "Trump licencie les 24 membres de la National Science Foundation des États-Unis",
+        "titleOriginal": "Trump fires all 24 members of the U.S. National Science Foundation",
+        "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
+        "source": "science.org",
+        "score": 234,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=47905283",
+        "date": "il y a 1 h"
       }
     ]
   }
