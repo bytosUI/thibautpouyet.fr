@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-26T00:07:23.290Z",
+  "updatedAt": "2026-04-26T07:07:53.800Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 7,
-      "code": 3,
+      "temp": 9,
+      "feelsLike": 6,
+      "code": 0,
       "wind": 6,
-      "humidity": 52
+      "humidity": 63
     },
     "forecast": [
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-04-29",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 12
       }
     ]
@@ -52,15 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "Qui travaille vraiment pour qui avec Codex ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "NrrMPO7TYdY",
-        "thumbnail": "https://i.ytimg.com/vi/NrrMPO7TYdY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NrrMPO7TYdY",
-        "publishedAt": "2026-04-25T17:01:54+00:00"
-      },
-      {
         "title": "RIHANNA EST DEVENUE MILLIARDAIRE GRÂCE AU BUSINESS PAS LA MUSIQUE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -77,6 +68,15 @@
         "thumbnail": "https://i.ytimg.com/vi/R4ai3I7ZOtw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R4ai3I7ZOtw",
         "publishedAt": "2026-04-25T11:26:52+00:00"
+      },
+      {
+        "title": "Libertarianisme, Impérialisme ou Techno-fascisme : quel est le vrai visage de Palantir ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "bWWiEvvwc1g",
+        "thumbnail": "https://i.ytimg.com/vi/bWWiEvvwc1g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bWWiEvvwc1g",
+        "publishedAt": "2026-04-25T06:30:14+00:00"
       },
       {
         "title": "Carlito est MORT ?!!??",
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Aide-mémoire",
-        "titleOriginal": "USB Cheat Sheet",
-        "url": "https://fabiensanglard.net/usbcheat/index.html",
-        "source": "fabiensanglard.net",
-        "score": 87,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=47904876",
-        "date": "il y a 2 h"
+        "title": "Un amateur armé de ChatGPT résout un problème d'Erdős",
+        "titleOriginal": "Amateur armed with ChatGPT solves an Erdős problem",
+        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+        "source": "scientificamerican.com",
+        "score": 291,
+        "comments": 182,
+        "hnUrl": "https://news.ycombinator.com/item?id=47903126",
+        "date": "il y a 13 h"
       },
       {
-        "title": "Le Kit de Construction Universel Gratuit",
-        "titleOriginal": "The Free Universal Construction Kit",
-        "url": "https://fffff.at/free-universal-construction-kit/",
-        "source": "fffff.at",
-        "score": 244,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=47860198",
-        "date": "il y a 3 j"
+        "title": "Pourquoi y a-t-il eu si peu de progrès sur la maladie d'Alzheimer ?",
+        "titleOriginal": "Why has there been so little progress on Alzheimer's disease?",
+        "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
+        "source": "freakonomics.com",
+        "score": 193,
+        "comments": 96,
+        "hnUrl": "https://news.ycombinator.com/item?id=47905984",
+        "date": "il y a 6 h"
       },
       {
-        "title": "« The Great Wave » de 1 bit Hokusai (2023)",
-        "titleOriginal": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-        "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-        "source": "hypertalking.com",
-        "score": 509,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=47863570",
-        "date": "il y a 3 j"
+        "title": "L'Occident a oublié comment faire des choses. Maintenant, on oublie comment coder",
+        "titleOriginal": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+        "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+        "source": "techtrenches.dev",
+        "score": 15,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47907879",
+        "date": "il y a 43 min"
       },
       {
-        "title": "Trump licencie les 24 membres de la National Science Foundation des États-Unis",
-        "titleOriginal": "Trump fires all 24 members of the U.S. National Science Foundation",
-        "url": "https://www.science.org/content/article/trump-fires-nsf-s-oversight-board",
-        "source": "science.org",
-        "score": 234,
-        "comments": 75,
-        "hnUrl": "https://news.ycombinator.com/item?id=47905283",
-        "date": "il y a 1 h"
+        "title": "Dites à HN : Une application s'installe silencieusement sur mon iPhone tous les jours",
+        "titleOriginal": "Tell HN: An app is silently installing itself on my iPhone every day",
+        "url": "https://news.ycombinator.com/item?id=47906253",
+        "source": "news.ycombinator.com",
+        "score": 191,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=47906253",
+        "date": "il y a 6 h"
       }
     ]
   }
