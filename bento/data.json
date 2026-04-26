@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-04-26T21:56:01.575Z",
+  "updatedAt": "2026-04-26T23:59:42.221Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 10,
+      "temp": 11,
+      "feelsLike": 9,
       "code": 3,
-      "wind": 7,
-      "humidity": 61
+      "wind": 4,
+      "humidity": 63
     },
     "forecast": [
       {
-        "date": "2026-04-26",
-        "code": 3,
-        "tmax": 22,
-        "tmin": 5
-      },
-      {
         "date": "2026-04-27",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 6
       },
       {
         "date": "2026-04-28",
         "code": 3,
         "tmax": 24,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-04-29",
         "code": 3,
         "tmax": 23,
         "tmin": 11
+      },
+      {
+        "date": "2026-04-30",
+        "code": 0,
+        "tmax": 21,
+        "tmin": 8
       }
     ]
   },
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Fast16 : Cyber-arme qui précède Stuxnet de cinq ans",
-        "titleOriginal": "Fast16: Cyberweapon that predates Stuxnet by five years",
-        "url": "https://hackingpassion.com/fast16-pre-stuxnet-cyber-sabotage/",
-        "source": "hackingpassion.com",
-        "score": 61,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=47913855",
-        "date": "il y a 1 h"
+        "title": "J'ai acheté Friendster pour 30 000 $ – Voici ce que je fais avec",
+        "titleOriginal": "I bought Friendster for $30k – Here's what I'm doing with it",
+        "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+        "source": "ca98am79.medium.com",
+        "score": 247,
+        "comments": 124,
+        "hnUrl": "https://news.ycombinator.com/item?id=47914165",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Sawe brise la barre des deux heures pour « déplacer les poteaux de but pour la course au marathon »",
-        "titleOriginal": "Sawe smashes two-hour mark to 'move goalposts for marathon running'",
+        "title": "Fast16 : sabotage logiciel de haute précision 5 ans avant Stuxnet",
+        "titleOriginal": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+        "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+        "source": "sentinelone.com",
+        "score": 112,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=47913855",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Sawe devient le premier athlète à courir un marathon de moins de deux heures dans une course compétitive",
+        "titleOriginal": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
         "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
         "source": "bbc.com",
-        "score": 83,
-        "comments": 56,
+        "score": 192,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=47914350",
-        "date": "il y a 59 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Les papillons sont en déclin à travers l'Amérique du Nord, un regard sur le monarque occidental",
-        "titleOriginal": "Butterflies are in decline across North America, a look at the Western Monarch",
-        "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
-        "source": "smithsonianmag.com",
-        "score": 32,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=47914677",
-        "date": "il y a 32 min"
-      },
-      {
-        "title": "Magie : The Gathering m'a fait passer de N2 à la maîtrise du japonais",
-        "titleOriginal": "Magic: The Gathering took me from N2 to Japanese fluency",
-        "url": "https://www.tokyodev.com/articles/how-magic-the-gathering-took-me-from-n2-to-japanese-fluency",
-        "source": "tokyodev.com",
-        "score": 48,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=47883839",
-        "date": "il y a 2 j"
+        "title": "Deux athlètes participent au marathon Sub-2-HR à Adizero Adios Pro Evo 3",
+        "titleOriginal": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
+        "url": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
+        "source": "news.adidas.com",
+        "score": 42,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=47914438",
+        "date": "il y a 2 h"
       }
     ]
   }
