@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-26T15:05:07.124Z",
+  "updatedAt": "2026-04-26T17:28:01.657Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 19,
-      "code": 1,
-      "wind": 10,
-      "humidity": 22
+      "temp": 21,
+      "feelsLike": 17,
+      "code": 0,
+      "wind": 11,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -19,35 +19,27 @@
       {
         "date": "2026-04-27",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 6
       },
       {
         "date": "2026-04-28",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 8
       },
       {
         "date": "2026-04-29",
         "code": 3,
         "tmax": 22,
-        "tmin": 12
+        "tmin": 11
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Kings League",
-        "viewers": 21281,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Tutoriel sur les PCB en argile",
+        "titleOriginal": "Clay PCB Tutorial",
+        "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+        "source": "feministhackerspaces.cargo.site",
+        "score": 74,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=47911350",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Asahi Linux Progress Linux 7.0",
         "titleOriginal": "Asahi Linux Progress Linux 7.0",
         "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
         "source": "asahilinux.org",
-        "score": 269,
-        "comments": 90,
+        "score": 408,
+        "comments": 172,
         "hnUrl": "https://news.ycombinator.com/item?id=47909226",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Statecharts : machines à états hiérarchiques",
         "titleOriginal": "Statecharts: hierarchical state machines",
         "url": "https://statecharts.dev/",
         "source": "statecharts.dev",
-        "score": 155,
-        "comments": 41,
+        "score": 203,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=47908833",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Pourquoi SWE-bench Verified ne mesure plus les capacités de codage frontalier",
         "titleOriginal": "Why SWE-bench Verified no longer measures frontier coding capabilities",
         "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
         "source": "openai.com",
-        "score": 11,
-        "comments": 4,
+        "score": 96,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=47910388",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Un amateur armé de ChatGPT résout un problème d'Erdős",
-        "titleOriginal": "Amateur armed with ChatGPT solves an Erdős problem",
-        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-        "source": "scientificamerican.com",
-        "score": 533,
-        "comments": 362,
-        "hnUrl": "https://news.ycombinator.com/item?id=47903126",
-        "date": "il y a 21 h"
+        "date": "il y a 3 h"
       }
     ]
   }
