@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-26T12:07:11.002Z",
+  "updatedAt": "2026-04-26T15:05:07.124Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
+      "temp": 22,
       "feelsLike": 19,
       "code": 1,
       "wind": 10,
-      "humidity": 26
+      "humidity": 22
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-04-28",
         "code": 3,
         "tmax": 22,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-04-29",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Kings League",
+        "viewers": 21281,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA PHRASE QU’IL FAUT SE RÉPÉTER TOUS LES JOURS POUR TRANSFORMER VOTRE JOURNÉE",
+        "title": "LE DESTIN EXISTE ! MAIS POURQUOI FAUT-IL LE PROVOQUER ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "OJ1LDmpllPE",
-        "thumbnail": "https://i.ytimg.com/vi/OJ1LDmpllPE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OJ1LDmpllPE",
-        "publishedAt": "2026-04-26T11:00:37+00:00"
+        "videoId": "rcj8mD_rugs",
+        "thumbnail": "https://i.ytimg.com/vi/rcj8mD_rugs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rcj8mD_rugs",
+        "publishedAt": "2026-04-26T12:01:21+00:00"
       },
       {
         "title": "Une abonnée découvre une mauvaise surprise dans le container…",
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Asahi Linux Progress Linux 7.0",
+        "titleOriginal": "Asahi Linux Progress Linux 7.0",
+        "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+        "source": "asahilinux.org",
+        "score": 269,
+        "comments": 90,
+        "hnUrl": "https://news.ycombinator.com/item?id=47909226",
+        "date": "il y a 4 h"
+      },
+      {
         "title": "Statecharts : machines à états hiérarchiques",
         "titleOriginal": "Statecharts: hierarchical state machines",
         "url": "https://statecharts.dev/",
         "source": "statecharts.dev",
-        "score": 53,
-        "comments": 9,
+        "score": 155,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=47908833",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Pourquoi SWE-bench Verified ne mesure plus les capacités de codage frontalier",
+        "titleOriginal": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+        "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+        "source": "openai.com",
+        "score": 11,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47910388",
+        "date": "il y a 1 h"
       },
       {
         "title": "Un amateur armé de ChatGPT résout un problème d'Erdős",
         "titleOriginal": "Amateur armed with ChatGPT solves an Erdős problem",
         "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
         "source": "scientificamerican.com",
-        "score": 440,
-        "comments": 280,
+        "score": 533,
+        "comments": 362,
         "hnUrl": "https://news.ycombinator.com/item?id=47903126",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "L'Occident a oublié comment faire des choses, maintenant il oublie comment coder",
-        "titleOriginal": "The West forgot how to make things, now it’s forgetting how to code",
-        "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-        "source": "techtrenches.dev",
-        "score": 527,
-        "comments": 310,
-        "hnUrl": "https://news.ycombinator.com/item?id=47907879",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Show HN : Transformer un Splat gaussien en jeu vidéo",
-        "titleOriginal": "Show HN: Turning a Gaussian Splat into a videogame",
-        "url": "https://blog.playcanvas.com/turning-a-gaussian-splat-into-a-videogame/",
-        "source": "blog.playcanvas.com",
-        "score": 44,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=47876071",
-        "date": "il y a 2 j"
+        "date": "il y a 21 h"
       }
     ]
   }
