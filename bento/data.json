@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-26T07:07:53.800Z",
+  "updatedAt": "2026-04-26T10:11:08.608Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 6,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 0,
-      "wind": 6,
-      "humidity": 63
+      "wind": 9,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-04-28",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 9
       },
       {
         "date": "2026-04-29",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 12
       }
     ]
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "RIHANNA EST DEVENUE MILLIARDAIRE GRÂCE AU BUSINESS PAS LA MUSIQUE",
+        "title": "PHILOSOPHIE : L'AMOUR, LES ENFANTS, LA VIE... ÉNORME MENSONGE ? CETTE VIDÉO VA CHANGER VOTRE JOURNÉE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "klLjmE34mgo",
-        "thumbnail": "https://i.ytimg.com/vi/klLjmE34mgo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=klLjmE34mgo",
-        "publishedAt": "2026-04-25T13:01:30+00:00"
+        "videoId": "meHN5hpA8MI",
+        "thumbnail": "https://i.ytimg.com/vi/meHN5hpA8MI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=meHN5hpA8MI",
+        "publishedAt": "2026-04-26T09:00:06+00:00"
       },
       {
         "title": "Une abonnée découvre une mauvaise surprise dans le container…",
@@ -173,7 +173,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "hier",
+        "time": "il y a 2 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un amateur armé de ChatGPT résout un problème d'Erdős",
-        "titleOriginal": "Amateur armed with ChatGPT solves an Erdős problem",
-        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-        "source": "scientificamerican.com",
-        "score": 291,
-        "comments": 182,
-        "hnUrl": "https://news.ycombinator.com/item?id=47903126",
-        "date": "il y a 13 h"
+        "title": "L'Occident a oublié comment faire des choses. Maintenant, on oublie comment coder",
+        "titleOriginal": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
+        "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
+        "source": "techtrenches.dev",
+        "score": 375,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=47907879",
+        "date": "il y a 3 h"
       },
       {
         "title": "Pourquoi y a-t-il eu si peu de progrès sur la maladie d'Alzheimer ?",
         "titleOriginal": "Why has there been so little progress on Alzheimer's disease?",
         "url": "https://freakonomics.com/podcast/why-has-there-been-so-little-progress-on-alzheimers-disease/",
         "source": "freakonomics.com",
-        "score": 193,
-        "comments": 96,
+        "score": 233,
+        "comments": 132,
         "hnUrl": "https://news.ycombinator.com/item?id=47905984",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "L'Occident a oublié comment faire des choses. Maintenant, on oublie comment coder",
-        "titleOriginal": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
-        "url": "https://techtrenches.dev/p/the-west-forgot-how-to-make-things",
-        "source": "techtrenches.dev",
-        "score": 15,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47907879",
-        "date": "il y a 43 min"
+        "title": "Un amateur armé de ChatGPT résout un problème d'Erdős",
+        "titleOriginal": "Amateur armed with ChatGPT solves an Erdős problem",
+        "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+        "source": "scientificamerican.com",
+        "score": 382,
+        "comments": 243,
+        "hnUrl": "https://news.ycombinator.com/item?id=47903126",
+        "date": "il y a 16 h"
       },
       {
-        "title": "Dites à HN : Une application s'installe silencieusement sur mon iPhone tous les jours",
-        "titleOriginal": "Tell HN: An app is silently installing itself on my iPhone every day",
-        "url": "https://news.ycombinator.com/item?id=47906253",
-        "source": "news.ycombinator.com",
-        "score": 191,
-        "comments": 88,
-        "hnUrl": "https://news.ycombinator.com/item?id=47906253",
-        "date": "il y a 6 h"
+        "title": "Astuce : les requêtes Web ne doivent pas être mesurées en Hz [Hertz]",
+        "titleOriginal": "Tip: Web requests should not be measured in Hz [Hertz]",
+        "url": "https://mastodon.catgirl.cloud/@sophie/116467789133733136",
+        "source": "mastodon.catgirl.cloud",
+        "score": 19,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=47908105",
+        "date": "il y a 2 h"
       }
     ]
   }
