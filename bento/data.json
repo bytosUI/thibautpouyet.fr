@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-26T17:28:01.657Z",
+  "updatedAt": "2026-04-26T19:54:28.855Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 17,
-      "code": 0,
-      "wind": 11,
-      "humidity": 23
+      "temp": 16,
+      "feelsLike": 14,
+      "code": 2,
+      "wind": 7,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -19,13 +19,13 @@
       {
         "date": "2026-04-27",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 6
       },
       {
         "date": "2026-04-28",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 8
       },
       {
@@ -70,7 +70,7 @@
         "publishedAt": "2026-04-25T11:26:52+00:00"
       },
       {
-        "title": "Libertarianisme, Impérialisme ou Techno-fascisme : quel est le vrai visage de Palantir ?",
+        "title": "Europe vs Palantir : la vraie bataille commence maintenant !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "bWWiEvvwc1g",
@@ -187,43 +187,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Tutoriel sur les PCB en argile",
-        "titleOriginal": "Clay PCB Tutorial",
-        "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
-        "source": "feministhackerspaces.cargo.site",
-        "score": 74,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=47911350",
-        "date": "il y a 1 h"
+        "title": "GoDaddy a donné un domaine à un étranger sans aucune documentation",
+        "titleOriginal": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
+        "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+        "source": "anchor.host",
+        "score": 265,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=47911780",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Dillo Browser Version 3.3.0",
+        "titleOriginal": "Dillo Browser Release 3.3.0",
+        "url": "https://dillo-browser.org/release/3.3.0/",
+        "source": "dillo-browser.org",
+        "score": 75,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=47911977",
+        "date": "il y a 2 h"
       },
       {
         "title": "Asahi Linux Progress Linux 7.0",
         "titleOriginal": "Asahi Linux Progress Linux 7.0",
         "url": "https://asahilinux.org/2026/04/progress-report-7-0/",
         "source": "asahilinux.org",
-        "score": 408,
-        "comments": 172,
+        "score": 528,
+        "comments": 229,
         "hnUrl": "https://news.ycombinator.com/item?id=47909226",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Statecharts : machines à états hiérarchiques",
-        "titleOriginal": "Statecharts: hierarchical state machines",
-        "url": "https://statecharts.dev/",
-        "source": "statecharts.dev",
-        "score": 203,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=47908833",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Pourquoi SWE-bench Verified ne mesure plus les capacités de codage frontalier",
-        "titleOriginal": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-        "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-        "source": "openai.com",
-        "score": 96,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=47910388",
+        "title": "Un agent IA a supprimé notre base de données de production. Les aveux de l'agent sont ci-dessous",
+        "titleOriginal": "An AI agent deleted our production database. The agent's confession is below",
+        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+        "source": "twitter.com",
+        "score": 135,
+        "comments": 171,
+        "hnUrl": "https://news.ycombinator.com/item?id=47911524",
         "date": "il y a 3 h"
       }
     ]
