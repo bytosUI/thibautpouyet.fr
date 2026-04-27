@@ -1,25 +1,19 @@
 {
-  "updatedAt": "2026-04-27T19:59:50.063Z",
+  "updatedAt": "2026-04-27T22:36:19.697Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
+      "temp": 13,
+      "feelsLike": 11,
       "code": 3,
-      "wind": 4,
-      "humidity": 61
+      "wind": 7,
+      "humidity": 52
     },
     "forecast": [
       {
-        "date": "2026-04-27",
-        "code": 3,
-        "tmax": 22,
-        "tmin": 7
-      },
-      {
         "date": "2026-04-28",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 9
       },
       {
@@ -31,8 +25,14 @@
       {
         "date": "2026-04-30",
         "code": 0,
-        "tmax": 22,
-        "tmin": 8
+        "tmax": 21,
+        "tmin": 7
+      },
+      {
+        "date": "2026-05-01",
+        "code": 0,
+        "tmax": 24,
+        "tmin": 6
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Grand Theft Auto V",
-        "viewers": 11404,
+        "viewers": 7460,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -187,7 +187,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "il y a 3 j",
+        "time": "il y a 4 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       }
     ]
@@ -195,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La Chine bloque l'acquisition par Meta de la startup d'IA Manus",
-        "titleOriginal": "China blocks Meta's acquisition of AI startup Manus",
-        "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-        "source": "cnbc.com",
-        "score": 85,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=47920315",
-        "date": "il y a 8 h"
+        "title": "Le site Web de NPM est en panne",
+        "titleOriginal": "NPM Website Is Down",
+        "url": "https://status.npmjs.org",
+        "source": "status.npmjs.org",
+        "score": 78,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=47927526",
+        "date": "il y a 1 h"
       },
       {
         "title": "Microsoft et OpenAI mettent fin à leur accord exclusif et de partage des revenus",
         "titleOriginal": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
         "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
         "source": "bloomberg.com",
-        "score": 551,
-        "comments": 484,
+        "score": 677,
+        "comments": 614,
         "hnUrl": "https://news.ycombinator.com/item?id=47921248",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "PCB KiCad open source pour cartes Arduino communes, ESP32, RP2040",
-        "titleOriginal": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
-        "url": "https://github.com/Hanqaqa/Easyduino",
-        "source": "github.com",
-        "score": 88,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=47924813",
+        "title": "Mon bleu est-il votre bleu ?",
+        "titleOriginal": "Is my blue your blue?",
+        "url": "https://ismy.blue/",
+        "source": "ismy.blue",
+        "score": 173,
+        "comments": 105,
+        "hnUrl": "https://news.ycombinator.com/item?id=47926861",
         "date": "il y a 2 h"
       },
       {
-        "title": "« Pourquoi ne pas simplement utiliser Lean ? »",
-        "titleOriginal": "“Why not just use Lean?”",
-        "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-        "source": "lawrencecpaulson.github.io",
-        "score": 202,
-        "comments": 117,
-        "hnUrl": "https://news.ycombinator.com/item?id=47922079",
-        "date": "il y a 5 h"
+        "title": "Trois hommes font face à 44 chefs d'accusation dans le cadre de l'arrestation de SMS Blaster à Toronto",
+        "titleOriginal": "Three men are facing 44 charges in Toronto SMS Blaster arrests",
+        "url": "https://www.tps.ca/media-centre/stories/unprecedented-sms-blaster-arrests/",
+        "source": "tps.ca",
+        "score": 47,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=47927070",
+        "date": "il y a 1 h"
       }
     ]
   }
