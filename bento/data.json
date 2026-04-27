@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T15:27:31.545Z",
+  "updatedAt": "2026-04-27T19:59:50.063Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 19,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 3,
-      "wind": 11,
-      "humidity": 33
+      "wind": 4,
+      "humidity": 61
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-04-28",
         "code": 3,
         "tmax": 23,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-04-29",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 11
       },
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Grand Theft Auto V",
+        "viewers": 11404,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "L'AMOUR DÉSINTÉRESSÉ N'EXISTE PAS",
+        "title": "CELUI QUI MENT DIT : \"LES ENFANTS C'EST QUE DU BONHEUR\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "sO9avCxvPSQ",
-        "thumbnail": "https://i.ytimg.com/vi/sO9avCxvPSQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sO9avCxvPSQ",
-        "publishedAt": "2026-04-27T15:01:35+00:00"
+        "videoId": "ZYahgX8gg1Y",
+        "thumbnail": "https://i.ytimg.com/vi/ZYahgX8gg1Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZYahgX8gg1Y",
+        "publishedAt": "2026-04-27T17:00:43+00:00"
       },
       {
         "title": "Le mythe de l’expatriation à Maurice",
@@ -187,43 +195,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "\"Pourquoi ne pas simplement utiliser Lean ?\"",
-        "titleOriginal": "\"Why not just use Lean?\"",
-        "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
-        "source": "lawrencecpaulson.github.io",
-        "score": 50,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47922079",
-        "date": "il y a 1 h"
+        "title": "La Chine bloque l'acquisition par Meta de la startup d'IA Manus",
+        "titleOriginal": "China blocks Meta's acquisition of AI startup Manus",
+        "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
+        "source": "cnbc.com",
+        "score": 85,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=47920315",
+        "date": "il y a 8 h"
       },
       {
-        "title": "Pgbackrest n'est plus maintenu",
-        "titleOriginal": "Pgbackrest is no longer being maintained",
-        "url": "https://github.com/pgbackrest/pgbackrest",
-        "source": "github.com",
-        "score": 280,
-        "comments": 134,
-        "hnUrl": "https://news.ycombinator.com/item?id=47919997",
-        "date": "il y a 4 h"
+        "title": "Microsoft et OpenAI mettent fin à leur accord exclusif et de partage des revenus",
+        "titleOriginal": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+        "source": "bloomberg.com",
+        "score": 551,
+        "comments": 484,
+        "hnUrl": "https://news.ycombinator.com/item?id=47921248",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Show HN : L'agent OSS que j'ai construit a dépassé le TerminalBench sur Gemini-3-flash-preview",
-        "titleOriginal": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-        "url": "https://github.com/dirac-run/dirac",
+        "title": "PCB KiCad open source pour cartes Arduino communes, ESP32, RP2040",
+        "titleOriginal": "Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards",
+        "url": "https://github.com/Hanqaqa/Easyduino",
         "source": "github.com",
-        "score": 134,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=47920787",
+        "score": 88,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47924813",
         "date": "il y a 2 h"
       },
       {
-        "title": "4 To d'échantillons vocaux viennent d'être volés à 40 000 entrepreneurs en IA chez Mercor",
-        "titleOriginal": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-        "url": "https://app.oravys.com/blog/mercor-breach-2026",
-        "source": "app.oravys.com",
-        "score": 152,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=47919630",
+        "title": "« Pourquoi ne pas simplement utiliser Lean ? »",
+        "titleOriginal": "“Why not just use Lean?”",
+        "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+        "source": "lawrencecpaulson.github.io",
+        "score": 202,
+        "comments": 117,
+        "hnUrl": "https://news.ycombinator.com/item?id=47922079",
         "date": "il y a 5 h"
       }
     ]
