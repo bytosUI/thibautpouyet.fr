@@ -1,46 +1,54 @@
 {
-  "updatedAt": "2026-04-26T23:59:42.221Z",
+  "updatedAt": "2026-04-27T09:10:44.377Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 9,
+      "temp": 16,
+      "feelsLike": 14,
       "code": 3,
-      "wind": 4,
-      "humidity": 63
+      "wind": 7,
+      "humidity": 51
     },
     "forecast": [
       {
         "date": "2026-04-27",
         "code": 3,
         "tmax": 22,
-        "tmin": 6
+        "tmin": 7
       },
       {
         "date": "2026-04-28",
         "code": 3,
         "tmax": 24,
-        "tmin": 9
+        "tmin": 7
       },
       {
         "date": "2026-04-29",
         "code": 3,
         "tmax": 23,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-04-30",
         "code": 0,
-        "tmax": 21,
-        "tmin": 8
+        "tmax": 22,
+        "tmin": 9
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 447,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,13 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE DESTIN EXISTE ! MAIS POURQUOI FAUT-IL LE PROVOQUER ?",
+        "title": "3000 ANS PLUS TARD ILS AVAIENT DÉJÀ LA RÉPONSE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "rcj8mD_rugs",
-        "thumbnail": "https://i.ytimg.com/vi/rcj8mD_rugs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rcj8mD_rugs",
-        "publishedAt": "2026-04-26T12:01:21+00:00"
+        "videoId": "A3kN5CKs6A8",
+        "thumbnail": "https://i.ytimg.com/vi/A3kN5CKs6A8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A3kN5CKs6A8",
+        "publishedAt": "2026-04-27T08:30:10+00:00"
+      },
+      {
+        "title": "S’expatrier à l’île Maurice : le plan d’action",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "SBOfCPQNVAQ",
+        "thumbnail": "https://i.ytimg.com/vi/SBOfCPQNVAQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SBOfCPQNVAQ",
+        "publishedAt": "2026-04-27T06:16:45+00:00"
       },
       {
         "title": "Une abonnée découvre une mauvaise surprise dans le container…",
@@ -86,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/3mgs9kvcrWw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3mgs9kvcrWw",
         "publishedAt": "2026-04-23T15:26:21+00:00"
-      },
-      {
-        "title": "50 % des jobs vont disparaître",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "hydFOglk-EM",
-        "thumbnail": "https://i.ytimg.com/vi/hydFOglk-EM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hydFOglk-EM",
-        "publishedAt": "2026-04-21T11:47:11+00:00"
       },
       {
         "title": "Une livraison de 20T pour ca ? #19",
@@ -173,7 +181,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "C'est OK d'abandonner votre projet parallèle",
+        "titleOriginal": "It's OK to abandon your side-project",
+        "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
+        "source": "robbowen.digital",
+        "score": 45,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=47918961",
+        "date": "il y a 59 min"
+      },
+      {
+        "title": "Flipdiscs",
+        "titleOriginal": "Flipdiscs",
+        "url": "https://flipdisc.io",
+        "source": "flipdisc.io",
+        "score": 233,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=47875795",
+        "date": "il y a 3 j"
+      },
+      {
         "title": "J'ai acheté Friendster pour 30 000 $ – Voici ce que je fais avec",
         "titleOriginal": "I bought Friendster for $30k – Here's what I'm doing with it",
         "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
         "source": "ca98am79.medium.com",
-        "score": 247,
-        "comments": 124,
+        "score": 780,
+        "comments": 400,
         "hnUrl": "https://news.ycombinator.com/item?id=47914165",
-        "date": "il y a 3 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Fast16 : sabotage logiciel de haute précision 5 ans avant Stuxnet",
-        "titleOriginal": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-        "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-        "source": "sentinelone.com",
-        "score": 112,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=47913855",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Sawe devient le premier athlète à courir un marathon de moins de deux heures dans une course compétitive",
-        "titleOriginal": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-        "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
-        "source": "bbc.com",
-        "score": 192,
-        "comments": 129,
-        "hnUrl": "https://news.ycombinator.com/item?id=47914350",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Deux athlètes participent au marathon Sub-2-HR à Adizero Adios Pro Evo 3",
-        "titleOriginal": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
-        "url": "https://news.adidas.com/running/two-adidas-athletes-sabastian-sawe-and-yomif-kejelcha-break-the-sub-2-hour-marathon-barrier-in-the-r/s/d4be4eac-a3b8-47d5-835f-9cbd685638ca",
-        "source": "news.adidas.com",
-        "score": 42,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=47914438",
-        "date": "il y a 2 h"
+        "title": "L'IA devrait élever votre pensée, pas la remplacer",
+        "titleOriginal": "AI should elevate your thinking, not replace it",
+        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+        "source": "koshyjohn.com",
+        "score": 479,
+        "comments": 344,
+        "hnUrl": "https://news.ycombinator.com/item?id=47913650",
+        "date": "il y a 13 h"
       }
     ]
   }
