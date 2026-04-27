@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-27T09:10:44.377Z",
+  "updatedAt": "2026-04-27T15:27:31.545Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 22,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 7,
-      "humidity": 51
+      "wind": 11,
+      "humidity": 33
     },
     "forecast": [
       {
@@ -19,36 +19,28 @@
       {
         "date": "2026-04-28",
         "code": 3,
-        "tmax": 24,
-        "tmin": 7
+        "tmax": 23,
+        "tmin": 8
       },
       {
         "date": "2026-04-29",
         "code": 3,
         "tmax": 23,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-04-30",
         "code": 0,
         "tmax": 22,
-        "tmin": 9
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 447,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "3000 ANS PLUS TARD ILS AVAIENT DÉJÀ LA RÉPONSE",
+        "title": "L'AMOUR DÉSINTÉRESSÉ N'EXISTE PAS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "A3kN5CKs6A8",
-        "thumbnail": "https://i.ytimg.com/vi/A3kN5CKs6A8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A3kN5CKs6A8",
-        "publishedAt": "2026-04-27T08:30:10+00:00"
+        "videoId": "sO9avCxvPSQ",
+        "thumbnail": "https://i.ytimg.com/vi/sO9avCxvPSQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sO9avCxvPSQ",
+        "publishedAt": "2026-04-27T15:01:35+00:00"
       },
       {
-        "title": "S’expatrier à l’île Maurice : le plan d’action",
+        "title": "Le mythe de l’expatriation à Maurice",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "SBOfCPQNVAQ",
-        "thumbnail": "https://i.ytimg.com/vi/SBOfCPQNVAQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SBOfCPQNVAQ",
-        "publishedAt": "2026-04-27T06:16:45+00:00"
+        "videoId": "0VlnpeqUzGY",
+        "thumbnail": "https://i.ytimg.com/vi/0VlnpeqUzGY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0VlnpeqUzGY",
+        "publishedAt": "2026-04-27T12:44:12+00:00"
       },
       {
         "title": "Une abonnée découvre une mauvaise surprise dans le container…",
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "C'est OK d'abandonner votre projet parallèle",
-        "titleOriginal": "It's OK to abandon your side-project",
-        "url": "https://robbowen.digital/wrote-about/abandoned-side-projects/",
-        "source": "robbowen.digital",
-        "score": 45,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=47918961",
-        "date": "il y a 59 min"
+        "title": "\"Pourquoi ne pas simplement utiliser Lean ?\"",
+        "titleOriginal": "\"Why not just use Lean?\"",
+        "url": "https://lawrencecpaulson.github.io//2026/04/23/Why_not_Lean.html",
+        "source": "lawrencecpaulson.github.io",
+        "score": 50,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47922079",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Flipdiscs",
-        "titleOriginal": "Flipdiscs",
-        "url": "https://flipdisc.io",
-        "source": "flipdisc.io",
-        "score": 233,
+        "title": "Pgbackrest n'est plus maintenu",
+        "titleOriginal": "Pgbackrest is no longer being maintained",
+        "url": "https://github.com/pgbackrest/pgbackrest",
+        "source": "github.com",
+        "score": 280,
+        "comments": 134,
+        "hnUrl": "https://news.ycombinator.com/item?id=47919997",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Show HN : L'agent OSS que j'ai construit a dépassé le TerminalBench sur Gemini-3-flash-preview",
+        "titleOriginal": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+        "url": "https://github.com/dirac-run/dirac",
+        "source": "github.com",
+        "score": 134,
         "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=47875795",
-        "date": "il y a 3 j"
+        "hnUrl": "https://news.ycombinator.com/item?id=47920787",
+        "date": "il y a 2 h"
       },
       {
-        "title": "J'ai acheté Friendster pour 30 000 $ – Voici ce que je fais avec",
-        "titleOriginal": "I bought Friendster for $30k – Here's what I'm doing with it",
-        "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
-        "source": "ca98am79.medium.com",
-        "score": 780,
-        "comments": 400,
-        "hnUrl": "https://news.ycombinator.com/item?id=47914165",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "L'IA devrait élever votre pensée, pas la remplacer",
-        "titleOriginal": "AI should elevate your thinking, not replace it",
-        "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
-        "source": "koshyjohn.com",
-        "score": 479,
-        "comments": 344,
-        "hnUrl": "https://news.ycombinator.com/item?id=47913650",
-        "date": "il y a 13 h"
+        "title": "4 To d'échantillons vocaux viennent d'être volés à 40 000 entrepreneurs en IA chez Mercor",
+        "titleOriginal": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+        "url": "https://app.oravys.com/blog/mercor-breach-2026",
+        "source": "app.oravys.com",
+        "score": 152,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=47919630",
+        "date": "il y a 5 h"
       }
     ]
   }
