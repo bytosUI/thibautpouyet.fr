@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-28T07:43:29.262Z",
+  "updatedAt": "2026-04-28T16:13:21.698Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 11,
-      "code": 3,
-      "wind": 8,
-      "humidity": 60
+      "temp": 23,
+      "feelsLike": 20,
+      "code": 1,
+      "wind": 9,
+      "humidity": 24
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-04-29",
         "code": 3,
-        "tmax": 22,
-        "tmin": 11
+        "tmax": 23,
+        "tmin": 12
       },
       {
         "date": "2026-04-30",
         "code": 0,
         "tmax": 22,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-05-01",
         "code": 2,
-        "tmax": 25,
-        "tmin": 6
+        "tmax": 26,
+        "tmin": 7
       }
     ]
   },
@@ -52,22 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "CELUI QUI MENT DIT : \"LES ENFANTS C'EST QUE DU BONHEUR\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ZYahgX8gg1Y",
-        "thumbnail": "https://i.ytimg.com/vi/ZYahgX8gg1Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZYahgX8gg1Y",
-        "publishedAt": "2026-04-27T17:00:43+00:00"
+        "title": "La plus belle carte que j'ai jamais drop",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ZvaV1_qaB2Y",
+        "thumbnail": "https://i.ytimg.com/vi/ZvaV1_qaB2Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZvaV1_qaB2Y",
+        "publishedAt": "2026-04-28T15:10:37+00:00"
       },
       {
-        "title": "Le mythe de l’expatriation à Maurice",
+        "title": "PRISON POUR FEMMES EN ALGÉRIE : L’ENFER ENTRE DÉTENUES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "_McGjSARuSM",
+        "thumbnail": "https://i.ytimg.com/vi/_McGjSARuSM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_McGjSARuSM",
+        "publishedAt": "2026-04-28T15:01:05+00:00"
+      },
+      {
+        "title": "La vérité sur Maurice",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "0VlnpeqUzGY",
-        "thumbnail": "https://i.ytimg.com/vi/0VlnpeqUzGY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0VlnpeqUzGY",
-        "publishedAt": "2026-04-27T12:44:12+00:00"
+        "videoId": "OPCZnuZ9Y-U",
+        "thumbnail": "https://i.ytimg.com/vi/OPCZnuZ9Y-U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OPCZnuZ9Y-U",
+        "publishedAt": "2026-04-28T14:06:28+00:00"
       },
       {
         "title": "Une abonnée découvre une mauvaise surprise dans le container…",
@@ -86,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/bWWiEvvwc1g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bWWiEvvwc1g",
         "publishedAt": "2026-04-25T06:30:14+00:00"
-      },
-      {
-        "title": "Carlito est MORT ?!!??",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "3mgs9kvcrWw",
-        "thumbnail": "https://i.ytimg.com/vi/3mgs9kvcrWw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3mgs9kvcrWw",
-        "publishedAt": "2026-04-23T15:26:21+00:00"
       },
       {
         "title": "Une livraison de 20T pour ca ? #19",
@@ -149,6 +149,12 @@
         "url": "https://www.themoviedb.org/movie/936075"
       },
       {
+        "title": "They Will Kill You",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+        "url": "https://www.themoviedb.org/movie/1292695"
+      },
+      {
         "title": "Le Réveil de la Momie",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
@@ -159,12 +165,6 @@
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
         "url": "https://www.themoviedb.org/movie/1193501"
-      },
-      {
-        "title": "Reminders of Him",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/od9yzZ6cc3ZGSvJI2mTxcsyI48M.jpg",
-        "url": "https://www.themoviedb.org/movie/1367642"
       }
     ]
   },
@@ -173,7 +173,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 3 j",
+        "time": "il y a 4 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GTFOBins",
-        "titleOriginal": "GTFOBins",
-        "url": "https://gtfobins.org/",
-        "source": "gtfobins.org",
-        "score": 69,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=47931035",
-        "date": "il y a 1 h"
+        "title": "Localsend : une alternative multiplateforme open-source à AirDrop",
+        "titleOriginal": "Localsend: An open-source cross-platform alternative to AirDrop",
+        "url": "https://github.com/localsend/localsend",
+        "source": "github.com",
+        "score": 415,
+        "comments": 152,
+        "hnUrl": "https://news.ycombinator.com/item?id=47933208",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Talkie : un modèle de langue 13B vintage de 1930",
-        "titleOriginal": "Talkie: a 13B vintage language model from 1930",
-        "url": "https://talkie-lm.com/introducing-talkie",
-        "source": "talkie-lm.com",
-        "score": 306,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=47927903",
-        "date": "il y a 9 h"
+        "title": "Anthropic rejoint le Blender Development Fund en tant que mécène",
+        "titleOriginal": "Anthropic Joins the Blender Development Fund as Corporate Patron",
+        "url": "https://www.blender.org/press/anthropic-joins-the-blender-development-fund-as-corporate-patron/",
+        "source": "blender.org",
+        "score": 13,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=47936370",
+        "date": "il y a 5 min"
       },
       {
-        "title": "Microsoft et OpenAI mettent fin à leur accord exclusif et de partage des revenus",
-        "titleOriginal": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-        "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-        "source": "bloomberg.com",
-        "score": 852,
-        "comments": 729,
-        "hnUrl": "https://news.ycombinator.com/item?id=47921248",
-        "date": "il y a 18 h"
+        "title": "Microsoft VibeVoice : IA Open Source Frontier Voice",
+        "titleOriginal": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
+        "url": "https://github.com/microsoft/VibeVoice",
+        "source": "github.com",
+        "score": 179,
+        "comments": 117,
+        "hnUrl": "https://news.ycombinator.com/item?id=47933236",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Mon bleu est-il votre bleu ?",
-        "titleOriginal": "Is my blue your blue?",
-        "url": "https://ismy.blue/",
-        "source": "ismy.blue",
-        "score": 488,
-        "comments": 328,
-        "hnUrl": "https://news.ycombinator.com/item?id=47926861",
-        "date": "il y a 11 h"
+        "title": "Show HN : Tableau de bord Soleil et Lune en direct avec des images de la NASA",
+        "titleOriginal": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
+        "url": "https://www.lumara-space.app/",
+        "source": "lumara-space.app",
+        "score": 66,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=47934261",
+        "date": "il y a 2 h"
       }
     ]
   }
