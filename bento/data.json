@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-04-28T20:49:58.157Z",
+  "updatedAt": "2026-04-29T00:08:23.290Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 14,
+      "temp": 15,
+      "feelsLike": 12,
       "code": 2,
-      "wind": 13,
-      "humidity": 48
+      "wind": 14,
+      "humidity": 47
     },
     "forecast": [
-      {
-        "date": "2026-04-28",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 10
-      },
       {
         "date": "2026-04-29",
         "code": 3,
@@ -25,14 +19,20 @@
       {
         "date": "2026-04-30",
         "code": 0,
-        "tmax": 21,
+        "tmax": 22,
         "tmin": 9
       },
       {
         "date": "2026-05-01",
-        "code": 2,
+        "code": 0,
+        "tmax": 25,
+        "tmin": 5
+      },
+      {
+        "date": "2026-05-02",
+        "code": 3,
         "tmax": 26,
-        "tmin": 7
+        "tmin": 9
       }
     ]
   },
@@ -70,15 +70,6 @@
         "publishedAt": "2026-04-28T17:00:49+00:00"
       },
       {
-        "title": "UN GYNÉCO PARLE DE FEMMES FONTAINES, RÈGLES, STÉRILITÉ… SES ANECDOTES LES PLUS CHOQUANTES (PARTIE 2)",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "QXK1KEtvzao",
-        "thumbnail": "https://i.ytimg.com/vi/QXK1KEtvzao/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QXK1KEtvzao",
-        "publishedAt": "2026-04-28T16:49:58+00:00"
-      },
-      {
         "title": "La plus belle carte que j'ai jamais drop",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -106,15 +97,6 @@
         "publishedAt": "2026-04-25T11:26:52+00:00"
       },
       {
-        "title": "Une livraison de 20T pour ca ? #19",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "GT8bKeaYso8",
-        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
-        "publishedAt": "2026-04-19T15:17:00+00:00"
-      },
-      {
         "title": "RÉNOVATION D’UNE TOITURE DE 1870 (avec 25 Velux)  - EP26",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -122,15 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/UaB4JgV6qUE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UaB4JgV6qUE",
         "publishedAt": "2026-04-19T10:00:11+00:00"
-      },
-      {
-        "title": "Je fais mon sous-sol de rêve - RÉNOVATION",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "wtZq_ecxKrs",
-        "thumbnail": "https://i.ytimg.com/vi/wtZq_ecxKrs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wtZq_ecxKrs",
-        "publishedAt": "2026-03-07T14:30:56+00:00"
       }
     ]
   },
@@ -179,7 +152,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "il y a 4 j",
+        "time": "il y a 5 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       }
     ]
@@ -191,9 +164,29 @@
         "titleOriginal": "Ghostty is leaving GitHub",
         "url": "https://mitchellh.com/writing/ghostty-leaving-github",
         "source": "mitchellh.com",
-        "score": 678,
-        "comments": 165,
+        "score": 1456,
+        "comments": 450,
         "hnUrl": "https://news.ycombinator.com/item?id=47939579",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Avant GitHub",
+        "titleOriginal": "Before GitHub",
+        "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
+        "source": "lucumr.pocoo.org",
+        "score": 205,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=47940921",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Divulgation des carottes : Forgejo",
+        "titleOriginal": "Carrot Disclosure: Forgejo",
+        "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+        "source": "dustri.org",
+        "score": 60,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=47941590",
         "date": "il y a 1 h"
       },
       {
@@ -201,30 +194,10 @@
         "titleOriginal": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
         "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
         "source": "stratechery.com",
-        "score": 77,
-        "comments": 22,
+        "score": 160,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=47939320",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Une application MCP DOOM JOUABLE",
-        "titleOriginal": "A playable DOOM MCP app",
-        "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
-        "source": "chrisnager.com",
-        "score": 57,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=47939079",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Warp est maintenant open source",
-        "titleOriginal": "Warp is now Open-Source",
-        "url": "https://github.com/warpdotdev/warp",
-        "source": "github.com",
-        "score": 101,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=47937349",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   }
