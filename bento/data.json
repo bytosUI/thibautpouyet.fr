@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-29T08:37:58.578Z",
+  "updatedAt": "2026-04-29T16:04:38.044Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 12,
-      "code": 3,
-      "wind": 17,
-      "humidity": 39
+      "temp": 22,
+      "feelsLike": 17,
+      "code": 0,
+      "wind": 26,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -25,31 +25,38 @@
       {
         "date": "2026-05-01",
         "code": 3,
-        "tmax": 25,
-        "tmin": 7
+        "tmax": 26,
+        "tmin": 8
       },
       {
         "date": "2026-05-02",
         "code": 3,
         "tmax": 25,
-        "tmin": 12
+        "tmin": 13
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 155,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 3606,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 322,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
-      "domingo",
-      "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -59,6 +66,24 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Carlito a perdu ses dents",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "eVX2TIe0XKg",
+        "thumbnail": "https://i.ytimg.com/vi/eVX2TIe0XKg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eVX2TIe0XKg",
+        "publishedAt": "2026-04-29T15:37:55+00:00"
+      },
+      {
+        "title": "LES DEMANDES LES PLUS CHOQUANTES QUE REÇOIT CE GYNÉCO",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "SLyLWeTo7Rg",
+        "thumbnail": "https://i.ytimg.com/vi/SLyLWeTo7Rg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SLyLWeTo7Rg",
+        "publishedAt": "2026-04-29T15:00:49+00:00"
+      },
       {
         "title": "Musk vs Altman: La Guerre Secrète qui Menace OpenAI !",
         "channel": "Silicon Carne 🌶️",
@@ -76,24 +101,6 @@
         "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=d86srme8IJw",
         "publishedAt": "2026-04-28T18:05:29+00:00"
-      },
-      {
-        "title": "UN GYNÉCO PARLE DE FEMMES FONTAINES, RÈGLES, STÉRILITÉ… SES ANECDOTES LES PLUS CHOQUANTES (PARTIE 2)",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "QXK1KEtvzao",
-        "thumbnail": "https://i.ytimg.com/vi/QXK1KEtvzao/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QXK1KEtvzao",
-        "publishedAt": "2026-04-28T16:49:58+00:00"
-      },
-      {
-        "title": "La plus belle carte que j'ai jamais drop",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ZvaV1_qaB2Y",
-        "thumbnail": "https://i.ytimg.com/vi/ZvaV1_qaB2Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZvaV1_qaB2Y",
-        "publishedAt": "2026-04-28T15:10:37+00:00"
       },
       {
         "title": "La vérité sur Maurice",
@@ -195,44 +202,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Ghostty quitte GitHub",
-        "titleOriginal": "Ghostty is leaving GitHub",
-        "url": "https://mitchellh.com/writing/ghostty-leaving-github",
-        "source": "mitchellh.com",
-        "score": 2467,
-        "comments": 720,
-        "hnUrl": "https://news.ycombinator.com/item?id=47939579",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Les insectes que la rouille n'attrape pas",
-        "titleOriginal": "Bugs Rust won't catch",
-        "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
-        "source": "corrode.dev",
-        "score": 246,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=47943499",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "HardenedBSD est maintenant officiellement sur Radicle",
-        "titleOriginal": "HardenedBSD Is Now Officially on Radicle",
-        "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
-        "source": "hardenedbsd.org",
-        "score": 47,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=47944864",
+        "title": "Zed est de 1,0",
+        "titleOriginal": "Zed is 1.0",
+        "url": "https://zed.dev/blog/zed-1-0",
+        "source": "zed.dev",
+        "score": 416,
+        "comments": 142,
+        "hnUrl": "https://news.ycombinator.com/item?id=47949027",
         "date": "il y a 1 h"
       },
       {
-        "title": "Comment ChatGPT diffuse des publicités",
-        "titleOriginal": "How ChatGPT serves ads",
-        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-        "source": "buchodi.com",
-        "score": 307,
-        "comments": 208,
-        "hnUrl": "https://news.ycombinator.com/item?id=47942437",
-        "date": "il y a 8 h"
+        "title": "Pourquoi les entreprises d'IA veulent que vous en ayez peur",
+        "titleOriginal": "Why AI companies want you to be afraid of them",
+        "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+        "source": "bbc.com",
+        "score": 63,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=47949750",
+        "date": "il y a 38 min"
+      },
+      {
+        "title": "Tangled – Nous avons besoin d'une fédération de forges",
+        "titleOriginal": "Tangled – We need a federation of forges",
+        "url": "https://blog.tangled.org/federation/",
+        "source": "blog.tangled.org",
+        "score": 231,
+        "comments": 132,
+        "hnUrl": "https://news.ycombinator.com/item?id=47948603",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Lancement en douceur d'une plate-forme de code open source pour le gouvernement",
+        "titleOriginal": "Soft launch of open-source code platform for government",
+        "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
+        "source": "nldigitalgovernment.nl",
+        "score": 390,
+        "comments": 107,
+        "hnUrl": "https://news.ycombinator.com/item?id=47945918",
+        "date": "il y a 6 h"
       }
     ]
   }
