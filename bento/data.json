@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-29T16:04:38.044Z",
+  "updatedAt": "2026-04-29T20:41:55.306Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 17,
+      "temp": 16,
+      "feelsLike": 11,
       "code": 0,
-      "wind": 26,
-      "humidity": 26
+      "wind": 18,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-04-30",
         "code": 0,
-        "tmax": 21,
+        "tmax": 22,
         "tmin": 9
       },
       {
@@ -37,25 +37,10 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 3606,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 322,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -85,7 +70,7 @@
         "publishedAt": "2026-04-29T15:00:49+00:00"
       },
       {
-        "title": "Musk vs Altman: La Guerre Secrète qui Menace OpenAI !",
+        "title": "Musk vs Altman: La Guerre Secrète qui Menace OpenAl !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "4sqRHnh_Rc8",
@@ -202,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Zed est de 1,0",
-        "titleOriginal": "Zed is 1.0",
-        "url": "https://zed.dev/blog/zed-1-0",
-        "source": "zed.dev",
-        "score": 416,
-        "comments": 142,
-        "hnUrl": "https://news.ycombinator.com/item?id=47949027",
+        "title": "HERMES.md : Le bogue anthropique entraîne des frais supplémentaires de 200 $ , refuse le remboursement",
+        "titleOriginal": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
+        "url": "https://github.com/anthropics/claude-code/issues/53262",
+        "source": "github.com",
+        "score": 560,
+        "comments": 209,
+        "hnUrl": "https://news.ycombinator.com/item?id=47952722",
         "date": "il y a 1 h"
       },
       {
-        "title": "Pourquoi les entreprises d'IA veulent que vous en ayez peur",
-        "titleOriginal": "Why AI companies want you to be afraid of them",
-        "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
-        "source": "bbc.com",
-        "score": 63,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=47949750",
-        "date": "il y a 38 min"
+        "title": "Zed 1.0",
+        "titleOriginal": "Zed 1.0",
+        "url": "https://zed.dev/blog/zed-1-0",
+        "source": "zed.dev",
+        "score": 1204,
+        "comments": 387,
+        "hnUrl": "https://news.ycombinator.com/item?id=47949027",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Tangled – Nous avons besoin d'une fédération de forges",
-        "titleOriginal": "Tangled – We need a federation of forges",
-        "url": "https://blog.tangled.org/federation/",
-        "source": "blog.tangled.org",
-        "score": 231,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=47948603",
+        "title": "Échec de la copie – CVE-2026-31431",
+        "titleOriginal": "Copy Fail – CVE-2026-31431",
+        "url": "https://copy.fail/",
+        "source": "copy.fail",
+        "score": 239,
+        "comments": 118,
+        "hnUrl": "https://news.ycombinator.com/item?id=47952181",
         "date": "il y a 2 h"
       },
       {
-        "title": "Lancement en douceur d'une plate-forme de code open source pour le gouvernement",
-        "titleOriginal": "Soft launch of open-source code platform for government",
-        "url": "https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/",
-        "source": "nldigitalgovernment.nl",
-        "score": 390,
-        "comments": 107,
-        "hnUrl": "https://news.ycombinator.com/item?id=47945918",
-        "date": "il y a 6 h"
+        "title": "Les fleurs de cerisier de Kyoto fleurissent maintenant plus tôt qu'à n'importe quel moment en 1 200 ans",
+        "titleOriginal": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
+        "url": "https://jivx.com/kyoto-bloom",
+        "source": "jivx.com",
+        "score": 68,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=47953275",
+        "date": "il y a 1 h"
       }
     ]
   }
