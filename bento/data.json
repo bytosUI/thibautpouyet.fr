@@ -1,47 +1,55 @@
 {
-  "updatedAt": "2026-04-29T00:08:23.290Z",
+  "updatedAt": "2026-04-29T08:37:58.578Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
+      "temp": 16,
       "feelsLike": 12,
-      "code": 2,
-      "wind": 14,
-      "humidity": 47
+      "code": 3,
+      "wind": 17,
+      "humidity": 39
     },
     "forecast": [
       {
         "date": "2026-04-29",
         "code": 3,
         "tmax": 23,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-04-30",
         "code": 0,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 9
       },
       {
         "date": "2026-05-01",
-        "code": 0,
+        "code": 3,
         "tmax": 25,
-        "tmin": 5
+        "tmin": 7
       },
       {
         "date": "2026-05-02",
         "code": 3,
-        "tmax": 26,
-        "tmin": 9
+        "tmax": 25,
+        "tmin": 12
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 155,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Musk vs Altman: La Guerre Secrète qui Menace OpenAI !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "4sqRHnh_Rc8",
+        "thumbnail": "https://i.ytimg.com/vi/4sqRHnh_Rc8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4sqRHnh_Rc8",
+        "publishedAt": "2026-04-29T06:53:12+00:00"
+      },
+      {
         "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -61,13 +78,13 @@
         "publishedAt": "2026-04-28T18:05:29+00:00"
       },
       {
-        "title": "Pourquoi Adobe a intégré son concurrent en 24h ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "IN-R3pomtEc",
-        "thumbnail": "https://i.ytimg.com/vi/IN-R3pomtEc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IN-R3pomtEc",
-        "publishedAt": "2026-04-28T17:00:49+00:00"
+        "title": "UN GYNÉCO PARLE DE FEMMES FONTAINES, RÈGLES, STÉRILITÉ… SES ANECDOTES LES PLUS CHOQUANTES (PARTIE 2)",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "QXK1KEtvzao",
+        "thumbnail": "https://i.ytimg.com/vi/QXK1KEtvzao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QXK1KEtvzao",
+        "publishedAt": "2026-04-28T16:49:58+00:00"
       },
       {
         "title": "La plus belle carte que j'ai jamais drop",
@@ -97,6 +114,15 @@
         "publishedAt": "2026-04-25T11:26:52+00:00"
       },
       {
+        "title": "Une livraison de 20T pour ca ? #19",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "GT8bKeaYso8",
+        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
+        "publishedAt": "2026-04-19T15:17:00+00:00"
+      },
+      {
         "title": "RÉNOVATION D’UNE TOITURE DE 1870 (avec 25 Velux)  - EP26",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -104,6 +130,15 @@
         "thumbnail": "https://i.ytimg.com/vi/UaB4JgV6qUE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UaB4JgV6qUE",
         "publishedAt": "2026-04-19T10:00:11+00:00"
+      },
+      {
+        "title": "Je fais mon sous-sol de rêve - RÉNOVATION",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "wtZq_ecxKrs",
+        "thumbnail": "https://i.ytimg.com/vi/wtZq_ecxKrs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wtZq_ecxKrs",
+        "publishedAt": "2026-03-07T14:30:56+00:00"
       }
     ]
   },
@@ -134,10 +169,10 @@
         "url": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "title": "Le Sifflet",
+        "title": "Le Diable s'habille en Prada 2",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
-        "url": "https://www.themoviedb.org/movie/1193501"
+        "poster": "https://image.tmdb.org/t/p/w342/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+        "url": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   },
@@ -146,7 +181,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 4 j",
+        "time": "il y a 5 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
       },
       {
@@ -164,40 +199,40 @@
         "titleOriginal": "Ghostty is leaving GitHub",
         "url": "https://mitchellh.com/writing/ghostty-leaving-github",
         "source": "mitchellh.com",
-        "score": 1456,
-        "comments": 450,
+        "score": 2467,
+        "comments": 720,
         "hnUrl": "https://news.ycombinator.com/item?id=47939579",
-        "date": "il y a 4 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Avant GitHub",
-        "titleOriginal": "Before GitHub",
-        "url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-        "source": "lucumr.pocoo.org",
-        "score": 205,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=47940921",
-        "date": "il y a 2 h"
+        "title": "Les insectes que la rouille n'attrape pas",
+        "titleOriginal": "Bugs Rust won't catch",
+        "url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+        "source": "corrode.dev",
+        "score": 246,
+        "comments": 90,
+        "hnUrl": "https://news.ycombinator.com/item?id=47943499",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Divulgation des carottes : Forgejo",
-        "titleOriginal": "Carrot Disclosure: Forgejo",
-        "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
-        "source": "dustri.org",
-        "score": 60,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=47941590",
+        "title": "HardenedBSD est maintenant officiellement sur Radicle",
+        "titleOriginal": "HardenedBSD Is Now Officially on Radicle",
+        "url": "https://hardenedbsd.org/article/shawn-webb/2026-04-26/hardenedbsd-officially-radicle",
+        "source": "hardenedbsd.org",
+        "score": 47,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=47944864",
         "date": "il y a 1 h"
       },
       {
-        "title": "Modèles OpenAI à venir sur Amazon Bedrock : entretien avec les PDG d'OpenAI et d'AWS",
-        "titleOriginal": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-        "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-        "source": "stratechery.com",
-        "score": 160,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=47939320",
-        "date": "il y a 4 h"
+        "title": "Comment ChatGPT diffuse des publicités",
+        "titleOriginal": "How ChatGPT serves ads",
+        "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+        "source": "buchodi.com",
+        "score": 307,
+        "comments": 208,
+        "hnUrl": "https://news.ycombinator.com/item?id=47942437",
+        "date": "il y a 8 h"
       }
     ]
   }
