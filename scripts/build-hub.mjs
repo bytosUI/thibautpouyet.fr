@@ -359,17 +359,22 @@ function parseNbaGame(ev) {
   };
 }
 
+const nbaScoreboardCache = new Map();
 async function fetchNbaScoreboard(dateYmd) {
-  const qs = new URLSearchParams();
-  if (dateYmd) qs.set('dates', dateYmd);
-  const res = await safeFetch(`${NBA_BASE}/scoreboard?${qs}`, {}, `nba-scoreboard-${dateYmd || 'today'}`);
-  if (!res) return null;
-  const data = await res.json();
-  return { games: (data.events || []).map(parseNbaGame).filter(Boolean) };
+  if (nbaScoreboardCache.has(dateYmd)) return nbaScoreboardCache.get(dateYmd);
+  const promise = (async () => {
+    const qs = new URLSearchParams();
+    if (dateYmd) qs.set('dates', dateYmd);
+    const res = await safeFetch(`${NBA_BASE}/scoreboard?${qs}`, {}, `nba-scoreboard-${dateYmd || 'today'}`);
+    if (!res) return null;
+    const data = await res.json();
+    return { games: (data.events || []).map(parseNbaGame).filter(Boolean) };
+  })();
+  nbaScoreboardCache.set(dateYmd, promise);
+  return promise;
 }
 
 async function fetchNbaResults() {
-  // Walk back from yesterday to find the most recent matchday (max 6 days).
   const now = new Date();
   for (let i = 1; i <= 6; i++) {
     const d = shiftDays(now, -i);
@@ -409,42 +414,35 @@ async function fetchNbaStandings() {
   return { conferences };
 }
 
-function roundOrder(headline) {
-  if (!headline) return 9;
+function parseRound(headline) {
+  if (!headline) return { order: 9, label: '' };
   const h = headline.toLowerCase();
-  if (h.includes('finals') && !h.includes('conference')) return 4;
-  if (h.includes('conference finals') || h.includes('conf finals')) return 3;
-  if (h.includes('semifinals') || h.includes('2nd round')) return 2;
-  if (h.includes('1st round') || h.includes('first round')) return 1;
-  return 9;
-}
-
-function roundLabelFR(headline) {
-  if (!headline) return '';
-  const h = headline.toLowerCase();
-  let stage = '';
-  if (h.includes('finals') && !h.includes('conference')) stage = 'Finales NBA';
-  else if (h.includes('conference finals')) stage = 'Finales de conférence';
-  else if (h.includes('semifinals') || h.includes('2nd round')) stage = 'Demi-finales';
-  else if (h.includes('1st round') || h.includes('first round')) stage = '1er tour';
-  if (h.startsWith('east')) return stage ? `Est · ${stage}` : 'Est';
-  if (h.startsWith('west')) return stage ? `Ouest · ${stage}` : 'Ouest';
-  return stage;
+  let order = 9, stage = '';
+  if (h.includes('conference finals') || h.includes('conf finals')) { order = 3; stage = 'Finales de conférence'; }
+  else if (h.includes('finals')) { order = 4; stage = 'Finales NBA'; }
+  else if (h.includes('semifinals') || h.includes('2nd round')) { order = 2; stage = 'Demi-finales'; }
+  else if (h.includes('1st round') || h.includes('first round')) { order = 1; stage = '1er tour'; }
+  let conf = '';
+  if (h.startsWith('east')) conf = 'Est';
+  else if (h.startsWith('west')) conf = 'Ouest';
+  const label = conf && stage ? `${conf} · ${stage}` : (conf || stage);
+  return { order, label };
 }
 
 async function fetchNbaPlayoffs() {
-  // Walk back ~30 days, collect unique playoff series (deduped by team-pair).
-  // Each event already carries series.summary + wins, no manual aggregation.
   const now = new Date();
   const seriesMap = new Map();
+  let staleDays = 0;
   for (let i = 0; i <= 30; i++) {
     const d = ymdInTZ(shiftDays(now, -i));
     const sb = await fetchNbaScoreboard(d);
+    const before = seriesMap.size;
     for (const g of (sb?.games || [])) {
       if (!g.isPlayoff || !g.series) continue;
       if (!g.home.abbr || !g.away.abbr) continue;
       const key = [g.home.abbr, g.away.abbr].sort().join('-');
-      if (seriesMap.has(key)) continue; // first hit going backwards from today = freshest state
+      if (seriesMap.has(key)) continue; // freshest state wins (we iterate newest → oldest)
+      const round = parseRound(g.series.round);
       seriesMap.set(key, {
         teamHome: { abbr: g.home.abbr, name: g.home.name, logo: g.home.logo },
         teamAway: { abbr: g.away.abbr, name: g.away.name, logo: g.away.logo },
@@ -453,15 +451,19 @@ async function fetchNbaPlayoffs() {
         summary: g.series.summary,
         completed: g.series.completed,
         round: g.series.round,
-        roundLabel: roundLabelFR(g.series.round),
-        roundOrder: roundOrder(g.series.round),
+        roundLabel: round.label,
+        roundOrder: round.order,
         lastDate: g.date,
       });
     }
+    if (seriesMap.size > before) staleDays = 0;
+    else staleDays += 1;
+    if (seriesMap.size >= 15) break; // playoffs cap: 8 + 4 + 2 + 1
+    if (seriesMap.size > 0 && staleDays >= 3) break; // grace window for off-days
     await sleep(60);
   }
   const series = [...seriesMap.values()].sort((a, b) => {
-    if (a.roundOrder !== b.roundOrder) return b.roundOrder - a.roundOrder; // later rounds first
+    if (a.roundOrder !== b.roundOrder) return b.roundOrder - a.roundOrder;
     return new Date(b.lastDate) - new Date(a.lastDate);
   });
   return { series };

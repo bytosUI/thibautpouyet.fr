@@ -225,6 +225,10 @@ const NBA_DATE_FMT = (ymd) => {
   return new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'short' }).format(date);
 };
 
+const nbaTeamLogo = (t) => t.logo
+  ? `<img class="nba-team-logo" src="${esc(t.logo)}" alt="" loading="lazy" onerror="this.style.opacity=.1">`
+  : `<span class="nba-team-logo"></span>`;
+
 function renderNbaResults(data) {
   const container = slot('nba-results');
   const dateEl = $('[data-nba-results-date]');
@@ -237,9 +241,6 @@ function renderNbaResults(data) {
     </div>`;
     return;
   }
-  const teamLogo = (t) => t.logo
-    ? `<img class="nba-team-logo" src="${esc(t.logo)}" alt="" loading="lazy" onerror="this.style.opacity=.1">`
-    : `<span class="nba-team-logo"></span>`;
   const teamName = (t, isLoser) => `<span class="nba-team-name${isLoser ? ' loser' : ''}">${esc(t.abbr || t.name)}</span>`;
 
   container.innerHTML = `
@@ -259,11 +260,11 @@ function renderNbaResults(data) {
           <div class="nba-game">
             <div class="nba-game-side away">
               ${teamName(g.away, awayLost)}
-              ${teamLogo(g.away)}
+              ${nbaTeamLogo(g.away)}
             </div>
             <div class="nba-game-score">${scoreHtml}</div>
             <div class="nba-game-side home">
-              ${teamLogo(g.home)}
+              ${nbaTeamLogo(g.home)}
               ${teamName(g.home, homeLost)}
             </div>
             <div class="nba-game-status">${status}</div>
@@ -320,10 +321,6 @@ function renderNbaPlayoffs(data) {
     if (!grouped.has(key)) grouped.set(key, []);
     grouped.get(key).push(s);
   }
-  const teamLogo = (t) => t.logo
-    ? `<img class="nba-team-logo" src="${esc(t.logo)}" alt="" loading="lazy" onerror="this.style.opacity=.1">`
-    : `<span class="nba-team-logo"></span>`;
-
   const seriesHtml = (s) => {
     const aOut = s.completed && s.winsAway < s.winsHome;
     const hOut = s.completed && s.winsHome < s.winsAway;
@@ -333,7 +330,7 @@ function renderNbaPlayoffs(data) {
       <div class="nba-series" title="${esc(s.summary || '')}">
         <div class="nba-series-side left">
           <span class="nba-series-name${aOut ? ' eliminated' : ''}">${esc(s.teamAway.abbr)}</span>
-          ${teamLogo(s.teamAway)}
+          ${nbaTeamLogo(s.teamAway)}
         </div>
         <div class="nba-series-score">
           <span class="${aOut ? 'eliminated' : aWon ? 'winner' : ''}">${s.winsAway}</span>
@@ -341,7 +338,7 @@ function renderNbaPlayoffs(data) {
           <span class="${hOut ? 'eliminated' : hWon ? 'winner' : ''}">${s.winsHome}</span>
         </div>
         <div class="nba-series-side right">
-          ${teamLogo(s.teamHome)}
+          ${nbaTeamLogo(s.teamHome)}
           <span class="nba-series-name${hOut ? ' eliminated' : ''}">${esc(s.teamHome.abbr)}</span>
         </div>
       </div>

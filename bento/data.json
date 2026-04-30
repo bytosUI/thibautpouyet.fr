@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-30T20:52:49.149Z",
+  "updatedAt": "2026-04-30T21:12:30.151Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
+      "temp": 14,
       "feelsLike": 10,
       "code": 0,
       "wind": 11,
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Ten Dates",
-        "viewers": 5624,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -143,45 +135,14 @@
     ]
   },
   "films": {
-    "top5": [
-      {
-        "title": "Super Mario Galaxy, le film",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
-        "url": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "title": "Michael",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-        "url": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "title": "They Will Kill You",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-        "url": "https://www.themoviedb.org/movie/1292695"
-      },
-      {
-        "title": "Le Diable s'habille en Prada 2",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
-        "url": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "title": "Le Réveil de la Momie",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-        "url": "https://www.themoviedb.org/movie/1304313"
-      }
-    ]
+    "top5": []
   },
   "github": {
     "recent": [
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "à l'instant",
+        "time": "il y a 20 min",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       },
       {
@@ -199,18 +160,18 @@
         "titleOriginal": "Rivian allows you to disable all internet connectivity",
         "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
         "source": "rivian.com",
-        "score": 57,
-        "comments": 11,
+        "score": 114,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=47967786",
-        "date": "il y a 25 min"
+        "date": "il y a 45 min"
       },
       {
         "title": "Comment Mark Klein a parlé à l'eff de la chambre 641A [extrait de livre]",
         "titleOriginal": "How Mark Klein told the EFF about Room 641A [book excerpt]",
         "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "thereader.mitpress.mit.edu",
-        "score": 312,
-        "comments": 87,
+        "score": 328,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=47965060",
         "date": "il y a 4 h"
       },
@@ -219,20 +180,20 @@
         "titleOriginal": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
         "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
         "source": "semgrep.dev",
-        "score": 245,
-        "comments": 78,
+        "score": 252,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=47964617",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "CopyFail n'a pas été divulgué au développeur Gentoo",
-        "titleOriginal": "CopyFail was not disclosed to Gentoo developer",
-        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-        "source": "openwall.com",
-        "score": 252,
-        "comments": 162,
-        "hnUrl": "https://news.ycombinator.com/item?id=47965108",
-        "date": "il y a 4 h"
+        "title": "LinkedIn recherche 6 278 extensions et crypte les résultats dans chaque demande",
+        "titleOriginal": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+        "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
+        "source": "404privacy.com",
+        "score": 76,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=47967262",
+        "date": "il y a 1 h"
       }
     ]
   },

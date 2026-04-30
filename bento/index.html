@@ -142,6 +142,13 @@
       display: inline-flex; align-items: center; justify-content: center;
       flex-shrink: 0;
     }
+    .cell-head .head-meta {
+      margin-left: auto;
+      font-size: .7rem;
+      font-weight: 500;
+      color: var(--color-neutral-400);
+      font-variant-numeric: tabular-nums;
+    }
     .cell-head .label {
       font-size: .7rem;
       font-weight: 600;
@@ -423,13 +430,6 @@
 
     /* NBA cells */
     .cell-nba .dot { background: color-mix(in srgb, var(--color-nba) 12%, #fff); color: var(--color-nba); }
-    .cell-head .head-meta {
-      margin-left: auto;
-      font-size: .7rem;
-      font-weight: 500;
-      color: var(--color-neutral-400);
-      font-variant-numeric: tabular-nums;
-    }
     .nba-results-list { display: flex; flex-direction: column; gap: .5rem; }
     .nba-game {
       display: grid;
@@ -716,6 +716,6 @@
     Mis à jour <span data-updated>—</span> · <a href="../">thibautpouyet.fr</a>
   </footer>
 
-  <script src="app.js"></script>
+  <script src="app.js?v=2"></script>
 </body>
 </html>
