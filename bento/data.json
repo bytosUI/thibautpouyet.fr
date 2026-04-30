@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T21:12:30.151Z",
+  "updatedAt": "2026-04-30T21:12:50.448Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Ten Dates",
+        "viewers": 5607,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -135,21 +143,52 @@
     ]
   },
   "films": {
-    "top5": []
+    "top5": [
+      {
+        "title": "Super Mario Galaxy, le film",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+        "url": "https://www.themoviedb.org/movie/1226863"
+      },
+      {
+        "title": "Michael",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+        "url": "https://www.themoviedb.org/movie/936075"
+      },
+      {
+        "title": "They Will Kill You",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+        "url": "https://www.themoviedb.org/movie/1292695"
+      },
+      {
+        "title": "Le Diable s'habille en Prada 2",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+        "url": "https://www.themoviedb.org/movie/1314481"
+      },
+      {
+        "title": "Le Réveil de la Momie",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
+        "url": "https://www.themoviedb.org/movie/1304313"
+      }
+    ]
   },
   "github": {
     "recent": [
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 20 min",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
+        "message": "Optimize NBA hub: cache-buster, memoization, dedup",
+        "time": "à l'instant",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add Hardisk to Twitch streamers list",
-        "time": "il y a 6 j",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/a85a90f5688e1bf4e2b2537327c6877f52f00125"
+        "message": "Add NBA bento cells: daily results + standings/playoffs",
+        "time": "il y a 20 min",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
   },
@@ -160,7 +199,7 @@
         "titleOriginal": "Rivian allows you to disable all internet connectivity",
         "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
         "source": "rivian.com",
-        "score": 114,
+        "score": 117,
         "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=47967786",
         "date": "il y a 45 min"
@@ -190,7 +229,7 @@
         "titleOriginal": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
         "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
         "source": "404privacy.com",
-        "score": 76,
+        "score": 77,
         "comments": 16,
         "hnUrl": "https://news.ycombinator.com/item?id=47967262",
         "date": "il y a 1 h"
