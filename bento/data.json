@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-30T15:29:51.742Z",
+  "updatedAt": "2026-04-30T20:02:01.088Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 16,
+      "temp": 15,
+      "feelsLike": 11,
       "code": 0,
-      "wind": 23,
-      "humidity": 19
+      "wind": 12,
+      "humidity": 28
     },
     "forecast": [
       {
@@ -18,28 +18,36 @@
       },
       {
         "date": "2026-05-01",
-        "code": 80,
-        "tmax": 26,
+        "code": 3,
+        "tmax": 25,
         "tmin": 8
       },
       {
         "date": "2026-05-02",
         "code": 3,
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 14
       },
       {
         "date": "2026-05-03",
         "code": 80,
-        "tmax": 19,
+        "tmax": 17,
         "tmin": 13
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Ten Dates",
+        "viewers": 6143,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La Belgique arrête le démantèlement des centrales nucléaires",
-        "titleOriginal": "Belgium stops decommissioning nuclear power plants",
-        "url": "https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/",
-        "source": "dpa-international.com",
-        "score": 361,
-        "comments": 294,
-        "hnUrl": "https://news.ycombinator.com/item?id=47961319",
+        "title": "Comment Mark Klein a parlé à l'eff de la chambre 641A [extrait de livre]",
+        "titleOriginal": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+        "source": "thereader.mitpress.mit.edu",
+        "score": 271,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=47965060",
         "date": "il y a 3 h"
       },
       {
-        "title": "Meta dans la rangée après que les travailleurs qui ont vu des utilisateurs de lunettes intelligentes ayant des relations sexuelles perdent leur emploi",
-        "titleOriginal": "Meta in row after workers who saw smart glasses users having sex lose jobs",
-        "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o",
-        "source": "bbc.com",
-        "score": 284,
-        "comments": 189,
-        "hnUrl": "https://news.ycombinator.com/item?id=47961838",
+        "title": "Logiciels malveillants sur le thème de Shai-Hulud trouvés dans la bibliothèque de formation PyTorch Lightning AI",
+        "titleOriginal": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "source": "semgrep.dev",
+        "score": 222,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=47964617",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "CopyFail n'a pas été divulgué au développeur Gentoo",
+        "titleOriginal": "CopyFail was not disclosed to Gentoo developer",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "source": "openwall.com",
+        "score": 217,
+        "comments": 126,
+        "hnUrl": "https://news.ycombinator.com/item?id=47965108",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "J'ai construit un émulateur Game Boy en F#",
+        "titleOriginal": "I built a Game Boy emulator in F#",
+        "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
+        "source": "nickkossolapov.github.io",
+        "score": 102,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=47965503",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "Comment fonctionne une raffinerie de pétrole",
-        "titleOriginal": "How an Oil Refinery Works",
-        "url": "https://www.construction-physics.com/p/how-an-oil-refinery-works",
-        "source": "construction-physics.com",
-        "score": 78,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=47962548",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "J'ai regroupé 28 sites d'enchères du gouvernement américain en une seule recherche",
-        "titleOriginal": "I aggregated 28 US Government auction sites into one search",
-        "url": "https://bidprowl.com",
-        "source": "bidprowl.com",
-        "score": 125,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=47961378",
-        "date": "il y a 3 h"
       }
     ]
   }
