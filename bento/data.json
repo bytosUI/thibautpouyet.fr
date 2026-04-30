@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-04-30T20:02:01.088Z",
+  "updatedAt": "2026-04-30T20:52:35.794Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 15,
-      "feelsLike": 11,
+      "feelsLike": 10,
       "code": 0,
-      "wind": 12,
-      "humidity": 28
+      "wind": 11,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Ten Dates",
-        "viewers": 6143,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "Pourquoi ton CV manuel ne passe plus jamais ?",
+        "title": "Pourquoi 80% des essais cliniques foirent ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "VibMqmeGg20",
-        "thumbnail": "https://i.ytimg.com/vi/VibMqmeGg20/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VibMqmeGg20",
-        "publishedAt": "2026-04-30T15:02:20+00:00"
+        "videoId": "Y0L9tuyNv0w",
+        "thumbnail": "https://i.ytimg.com/vi/Y0L9tuyNv0w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Y0L9tuyNv0w",
+        "publishedAt": "2026-04-30T20:00:56+00:00"
       },
       {
         "title": "AMPUTÉE À CAUSE D’UN TAMPON ?",
@@ -143,38 +135,7 @@
     ]
   },
   "films": {
-    "top5": [
-      {
-        "title": "Super Mario Galaxy, le film",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
-        "url": "https://www.themoviedb.org/movie/1226863"
-      },
-      {
-        "title": "Michael",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-        "url": "https://www.themoviedb.org/movie/936075"
-      },
-      {
-        "title": "They Will Kill You",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-        "url": "https://www.themoviedb.org/movie/1292695"
-      },
-      {
-        "title": "Le Diable s'habille en Prada 2",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
-        "url": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
-        "title": "Le Réveil de la Momie",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-        "url": "https://www.themoviedb.org/movie/1304313"
-      }
-    ]
+    "top5": []
   },
   "github": {
     "recent": [
@@ -195,45 +156,315 @@
   "hackernews": {
     "items": [
       {
+        "title": "Rivian vous permet de désactiver toute la connectivité Internet",
+        "titleOriginal": "Rivian allows you to disable all internet connectivity",
+        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
+        "source": "rivian.com",
+        "score": 55,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=47967786",
+        "date": "il y a 25 min"
+      },
+      {
         "title": "Comment Mark Klein a parlé à l'eff de la chambre 641A [extrait de livre]",
         "titleOriginal": "How Mark Klein told the EFF about Room 641A [book excerpt]",
         "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "thereader.mitpress.mit.edu",
-        "score": 271,
-        "comments": 64,
+        "score": 312,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=47965060",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Logiciels malveillants sur le thème de Shai-Hulud trouvés dans la bibliothèque de formation PyTorch Lightning AI",
         "titleOriginal": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
         "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
         "source": "semgrep.dev",
-        "score": 222,
-        "comments": 61,
+        "score": 245,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=47964617",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "CopyFail n'a pas été divulgué au développeur Gentoo",
         "titleOriginal": "CopyFail was not disclosed to Gentoo developer",
         "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
         "source": "openwall.com",
-        "score": 217,
-        "comments": 126,
+        "score": 252,
+        "comments": 162,
         "hnUrl": "https://news.ycombinator.com/item?id=47965108",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "J'ai construit un émulateur Game Boy en F#",
-        "titleOriginal": "I built a Game Boy emulator in F#",
-        "url": "https://nickkossolapov.github.io/fame-boy/building-a-game-boy-emulator-in-fsharp/",
-        "source": "nickkossolapov.github.io",
-        "score": 102,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=47965503",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       }
     ]
+  },
+  "nba": {
+    "isPlayoffs": true,
+    "resultsDate": "20260429",
+    "results": [
+      {
+        "id": "401869416",
+        "date": "2026-04-29T23:00Z",
+        "isPlayoff": true,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 116,
+          "record": "60-22",
+          "winner": true
+        },
+        "away": {
+          "id": "19",
+          "abbr": "ORL",
+          "name": "Magic",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+          "score": 109,
+          "record": "45-37",
+          "winner": false
+        },
+        "series": {
+          "summary": "ORL leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 5",
+          "winsHome": 2,
+          "winsAway": 3
+        }
+      },
+      {
+        "id": "401869380",
+        "date": "2026-04-29T23:30Z",
+        "isPlayoff": true,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 125,
+          "record": "52-30",
+          "winner": true
+        },
+        "away": {
+          "id": "28",
+          "abbr": "TOR",
+          "name": "Raptors",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+          "score": 120,
+          "record": "46-36",
+          "winner": false
+        },
+        "series": {
+          "summary": "CLE leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 5",
+          "winsHome": 3,
+          "winsAway": 2
+        }
+      },
+      {
+        "id": "401869407",
+        "date": "2026-04-30T02:00Z",
+        "isPlayoff": true,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 93,
+          "record": "53-29",
+          "winner": false
+        },
+        "away": {
+          "id": "10",
+          "abbr": "HOU",
+          "name": "Rockets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+          "score": 99,
+          "record": "52-30",
+          "winner": true
+        },
+        "series": {
+          "summary": "LAL lead series 3-2",
+          "completed": false,
+          "round": "West 1st Round - Game 5",
+          "winsHome": 3,
+          "winsAway": 2
+        }
+      }
+    ],
+    "standings": null,
+    "playoffs": {
+      "series": [
+        {
+          "teamHome": {
+            "abbr": "MIN",
+            "name": "Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+          },
+          "teamAway": {
+            "abbr": "DEN",
+            "name": "Nuggets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
+          },
+          "winsHome": 3,
+          "winsAway": 2,
+          "summary": "MIN leads series 3-2",
+          "completed": false,
+          "round": "West 1st Round - Game 6",
+          "roundLabel": "Ouest · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-01T01:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "PHI",
+            "name": "76ers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+          },
+          "teamAway": {
+            "abbr": "BOS",
+            "name": "Celtics",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+          },
+          "winsHome": 2,
+          "winsAway": 3,
+          "summary": "BOS leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 6",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-01T00:00Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "ATL",
+            "name": "Hawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
+          },
+          "teamAway": {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+          },
+          "winsHome": 2,
+          "winsAway": 3,
+          "summary": "NY leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 6",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-04-30T23:00Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "LAL",
+            "name": "Lakers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+          },
+          "teamAway": {
+            "abbr": "HOU",
+            "name": "Rockets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+          },
+          "winsHome": 3,
+          "winsAway": 2,
+          "summary": "LAL lead series 3-2",
+          "completed": false,
+          "round": "West 1st Round - Game 5",
+          "roundLabel": "Ouest · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-04-30T02:00Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "CLE",
+            "name": "Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+          },
+          "teamAway": {
+            "abbr": "TOR",
+            "name": "Raptors",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+          },
+          "winsHome": 3,
+          "winsAway": 2,
+          "summary": "CLE leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 5",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-04-29T23:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "DET",
+            "name": "Pistons",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
+          },
+          "teamAway": {
+            "abbr": "ORL",
+            "name": "Magic",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+          },
+          "winsHome": 2,
+          "winsAway": 3,
+          "summary": "ORL leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 5",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-04-29T23:00Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+          },
+          "teamAway": {
+            "abbr": "POR",
+            "name": "Trail Blazers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
+          },
+          "winsHome": 4,
+          "winsAway": 1,
+          "summary": "SA wins series 4-1",
+          "completed": true,
+          "round": "West 1st Round - Game 5",
+          "roundLabel": "Ouest · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-04-29T01:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "PHX",
+            "name": "Suns",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
+          },
+          "teamAway": {
+            "abbr": "OKC",
+            "name": "Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+          },
+          "winsHome": 0,
+          "winsAway": 4,
+          "summary": "OKC wins series 4-0",
+          "completed": true,
+          "round": "West 1st Round - Game 4",
+          "roundLabel": "Ouest · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-04-28T01:30Z"
+        }
+      ]
+    }
   }
 }

@@ -218,6 +218,159 @@ function renderHackerNews(data) {
   `;
 }
 
+const NBA_DATE_FMT = (ymd) => {
+  if (!ymd || !/^\d{8}$/.test(ymd)) return '';
+  const y = ymd.slice(0, 4), m = ymd.slice(4, 6), d = ymd.slice(6, 8);
+  const date = new Date(`${y}-${m}-${d}T12:00:00Z`);
+  return new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'short' }).format(date);
+};
+
+function renderNbaResults(data) {
+  const container = slot('nba-results');
+  const dateEl = $('[data-nba-results-date]');
+  const games = data?.results ?? [];
+  if (dateEl) dateEl.textContent = NBA_DATE_FMT(data?.resultsDate);
+  if (games.length === 0) {
+    container.innerHTML = `<div class="empty-state">
+      <iconify-icon icon="mdi:basketball" width="22" style="opacity:.3"></iconify-icon>
+      <span>Pas de match récent</span>
+    </div>`;
+    return;
+  }
+  const teamLogo = (t) => t.logo
+    ? `<img class="nba-team-logo" src="${esc(t.logo)}" alt="" loading="lazy" onerror="this.style.opacity=.1">`
+    : `<span class="nba-team-logo"></span>`;
+  const teamName = (t, isLoser) => `<span class="nba-team-name${isLoser ? ' loser' : ''}">${esc(t.abbr || t.name)}</span>`;
+
+  container.innerHTML = `
+    <div class="nba-results-list">
+      ${games.map((g) => {
+        const homeLost = g.completed && g.away.winner;
+        const awayLost = g.completed && g.home.winner;
+        const isLive = g.state === 'in';
+        const status = isLive
+          ? `<span class="live">● ${esc(g.statusShort)}</span>`
+          : (g.completed ? 'Final' : esc(g.statusShort || 'À venir'));
+        const showScore = g.away.score != null && g.home.score != null;
+        const scoreHtml = showScore
+          ? `<span class="${awayLost ? 'loser' : ''}">${g.away.score}</span><span class="sep">–</span><span class="${homeLost ? 'loser' : ''}">${g.home.score}</span>`
+          : `<span class="sep">vs</span>`;
+        return `
+          <div class="nba-game">
+            <div class="nba-game-side away">
+              ${teamName(g.away, awayLost)}
+              ${teamLogo(g.away)}
+            </div>
+            <div class="nba-game-score">${scoreHtml}</div>
+            <div class="nba-game-side home">
+              ${teamLogo(g.home)}
+              ${teamName(g.home, homeLost)}
+            </div>
+            <div class="nba-game-status">${status}</div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `;
+}
+
+function renderNbaStandings(data) {
+  const container = slot('nba-table');
+  const labelEl = $('[data-nba-table-label]');
+  if (labelEl) labelEl.textContent = 'NBA · Classement';
+  const conferences = data?.conferences ?? [];
+  if (conferences.length === 0) {
+    container.innerHTML = `<div class="empty-state"><span>Classement indisponible</span></div>`;
+    return;
+  }
+  const labelFR = (n) => /east/i.test(n) ? 'Est' : /west/i.test(n) ? 'Ouest' : n;
+  container.innerHTML = `
+    <div class="nba-standings">
+      ${conferences.map((conf) => `
+        <div>
+          <div class="nba-conf-title">${esc(labelFR(conf.name))}</div>
+          <div class="nba-standings-list">
+            ${(conf.teams || []).slice(0, 8).map((t) => `
+              <div class="nba-standings-row qualified">
+                <span class="rank">${t.rank ?? ''}</span>
+                ${t.logo ? `<img class="logo" src="${esc(t.logo)}" alt="" loading="lazy" onerror="this.style.opacity=.1">` : '<span class="logo"></span>'}
+                <span class="team">${esc(t.team)}</span>
+                <span class="record">${t.wins ?? 0}-${t.losses ?? 0}</span>
+              </div>
+            `).join('')}
+          </div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function renderNbaPlayoffs(data) {
+  const container = slot('nba-table');
+  const labelEl = $('[data-nba-table-label]');
+  if (labelEl) labelEl.textContent = 'NBA · Playoffs';
+  const series = data?.series ?? [];
+  if (series.length === 0) {
+    container.innerHTML = `<div class="empty-state"><span>Bracket indisponible</span></div>`;
+    return;
+  }
+  const grouped = new Map();
+  for (const s of series) {
+    const key = s.roundLabel || 'Playoffs';
+    if (!grouped.has(key)) grouped.set(key, []);
+    grouped.get(key).push(s);
+  }
+  const teamLogo = (t) => t.logo
+    ? `<img class="nba-team-logo" src="${esc(t.logo)}" alt="" loading="lazy" onerror="this.style.opacity=.1">`
+    : `<span class="nba-team-logo"></span>`;
+
+  const seriesHtml = (s) => {
+    const aOut = s.completed && s.winsAway < s.winsHome;
+    const hOut = s.completed && s.winsHome < s.winsAway;
+    const aWon = s.completed && s.winsAway > s.winsHome;
+    const hWon = s.completed && s.winsHome > s.winsAway;
+    return `
+      <div class="nba-series" title="${esc(s.summary || '')}">
+        <div class="nba-series-side left">
+          <span class="nba-series-name${aOut ? ' eliminated' : ''}">${esc(s.teamAway.abbr)}</span>
+          ${teamLogo(s.teamAway)}
+        </div>
+        <div class="nba-series-score">
+          <span class="${aOut ? 'eliminated' : aWon ? 'winner' : ''}">${s.winsAway}</span>
+          <span class="sep">–</span>
+          <span class="${hOut ? 'eliminated' : hWon ? 'winner' : ''}">${s.winsHome}</span>
+        </div>
+        <div class="nba-series-side right">
+          ${teamLogo(s.teamHome)}
+          <span class="nba-series-name${hOut ? ' eliminated' : ''}">${esc(s.teamHome.abbr)}</span>
+        </div>
+      </div>
+    `;
+  };
+
+  container.innerHTML = `
+    <div class="nba-bracket">
+      ${[...grouped.entries()].map(([round, list]) => `
+        <div class="nba-round">
+          <div class="nba-round-title">${esc(round)}</div>
+          ${list.map(seriesHtml).join('')}
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function renderNba(data) {
+  if (!data) {
+    renderNbaResults(null);
+    renderNbaStandings(null);
+    return;
+  }
+  renderNbaResults(data);
+  if (data.isPlayoffs) renderNbaPlayoffs(data.playoffs);
+  else renderNbaStandings(data.standings);
+}
+
 function renderUpdatedAt(iso) {
   const el = $('[data-updated]');
   if (el && iso) el.textContent = fmtRelative(iso);
@@ -235,6 +388,7 @@ async function init() {
     renderFilms(data.films);
     renderGithub(data.github);
     renderHackerNews(data.hackernews);
+    renderNba(data.nba);
     renderUpdatedAt(data.updatedAt);
   } catch (err) {
     console.error('Failed to load hub data', err);

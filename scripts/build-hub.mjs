@@ -299,6 +299,190 @@ async function fetchHackerNews(limit) {
   return { items };
 }
 
+// ── NBA (ESPN public API, no key) ───────────────────────────────
+const NBA_BASE = 'https://site.api.espn.com/apis/site/v2/sports/basketball/nba';
+const NBA_STANDINGS_URL = 'https://site.web.api.espn.com/apis/v2/sports/basketball/nba/standings'
+  + '?region=us&lang=en&contentorigin=espn&type=0&level=3';
+
+function ymdInTZ(date, tz = 'America/New_York') {
+  const fmt = new Intl.DateTimeFormat('en-CA', {
+    timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit',
+  });
+  const parts = Object.fromEntries(fmt.formatToParts(date).map((p) => [p.type, p.value]));
+  return `${parts.year}${parts.month}${parts.day}`;
+}
+
+function shiftDays(date, days) {
+  const d = new Date(date);
+  d.setUTCDate(d.getUTCDate() + days);
+  return d;
+}
+
+function parseNbaGame(ev) {
+  const comp = ev.competitions?.[0];
+  if (!comp) return null;
+  const home = comp.competitors?.find((c) => c.homeAway === 'home');
+  const away = comp.competitors?.find((c) => c.homeAway === 'away');
+  if (!home || !away) return null;
+  const status = comp.status?.type || ev.status?.type || {};
+  const isPlayoff = ev.season?.type === 3;
+  const mapTeam = (t) => ({
+    id: t.team?.id || null,
+    abbr: t.team?.abbreviation || '',
+    name: t.team?.shortDisplayName || t.team?.displayName || '',
+    logo: t.team?.logo || null,
+    score: t.score != null ? Number(t.score) : null,
+    record: t.records?.[0]?.summary || null,
+    winner: t.winner === true,
+  });
+  let series = null;
+  if (comp.series && comp.series.type === 'playoff') {
+    const winsById = Object.fromEntries((comp.series.competitors || []).map((c) => [c.id, c.wins ?? 0]));
+    series = {
+      summary: comp.series.summary || null,
+      completed: comp.series.completed === true,
+      round: comp.notes?.[0]?.headline || null,
+      winsHome: winsById[home.team?.id] ?? 0,
+      winsAway: winsById[away.team?.id] ?? 0,
+    };
+  }
+  return {
+    id: ev.id,
+    date: ev.date,
+    isPlayoff,
+    state: status.state || 'pre',
+    statusShort: status.shortDetail || status.detail || '',
+    completed: status.completed === true,
+    home: mapTeam(home),
+    away: mapTeam(away),
+    series,
+  };
+}
+
+async function fetchNbaScoreboard(dateYmd) {
+  const qs = new URLSearchParams();
+  if (dateYmd) qs.set('dates', dateYmd);
+  const res = await safeFetch(`${NBA_BASE}/scoreboard?${qs}`, {}, `nba-scoreboard-${dateYmd || 'today'}`);
+  if (!res) return null;
+  const data = await res.json();
+  return { games: (data.events || []).map(parseNbaGame).filter(Boolean) };
+}
+
+async function fetchNbaResults() {
+  // Walk back from yesterday to find the most recent matchday (max 6 days).
+  const now = new Date();
+  for (let i = 1; i <= 6; i++) {
+    const d = shiftDays(now, -i);
+    const sb = await fetchNbaScoreboard(ymdInTZ(d));
+    if (sb && sb.games.length > 0) {
+      return { date: ymdInTZ(d), games: sb.games };
+    }
+    await sleep(120);
+  }
+  return { date: null, games: [] };
+}
+
+async function fetchNbaStandings() {
+  const res = await safeFetch(NBA_STANDINGS_URL, {}, 'nba-standings');
+  if (!res) return null;
+  const data = await res.json();
+  const conferences = (data.children || []).map((conf) => {
+    const entries = (conf.standings?.entries || []).map((entry) => {
+      const stats = Object.fromEntries((entry.stats || []).map((s) => [s.name, s]));
+      return {
+        rank: stats.playoffSeed?.value ?? stats.rank?.value ?? null,
+        team: entry.team?.abbreviation || '',
+        teamName: entry.team?.shortDisplayName || entry.team?.displayName || '',
+        logo: entry.team?.logos?.[0]?.href || null,
+        wins: stats.wins?.value ?? null,
+        losses: stats.losses?.value ?? null,
+        pct: stats.winPercent?.displayValue ?? null,
+        gb: stats.gamesBehind?.displayValue ?? null,
+      };
+    });
+    entries.sort((a, b) => (a.rank ?? 99) - (b.rank ?? 99));
+    return {
+      name: conf.shortName || conf.name || '',
+      teams: entries,
+    };
+  });
+  return { conferences };
+}
+
+function roundOrder(headline) {
+  if (!headline) return 9;
+  const h = headline.toLowerCase();
+  if (h.includes('finals') && !h.includes('conference')) return 4;
+  if (h.includes('conference finals') || h.includes('conf finals')) return 3;
+  if (h.includes('semifinals') || h.includes('2nd round')) return 2;
+  if (h.includes('1st round') || h.includes('first round')) return 1;
+  return 9;
+}
+
+function roundLabelFR(headline) {
+  if (!headline) return '';
+  const h = headline.toLowerCase();
+  let stage = '';
+  if (h.includes('finals') && !h.includes('conference')) stage = 'Finales NBA';
+  else if (h.includes('conference finals')) stage = 'Finales de conférence';
+  else if (h.includes('semifinals') || h.includes('2nd round')) stage = 'Demi-finales';
+  else if (h.includes('1st round') || h.includes('first round')) stage = '1er tour';
+  if (h.startsWith('east')) return stage ? `Est · ${stage}` : 'Est';
+  if (h.startsWith('west')) return stage ? `Ouest · ${stage}` : 'Ouest';
+  return stage;
+}
+
+async function fetchNbaPlayoffs() {
+  // Walk back ~30 days, collect unique playoff series (deduped by team-pair).
+  // Each event already carries series.summary + wins, no manual aggregation.
+  const now = new Date();
+  const seriesMap = new Map();
+  for (let i = 0; i <= 30; i++) {
+    const d = ymdInTZ(shiftDays(now, -i));
+    const sb = await fetchNbaScoreboard(d);
+    for (const g of (sb?.games || [])) {
+      if (!g.isPlayoff || !g.series) continue;
+      if (!g.home.abbr || !g.away.abbr) continue;
+      const key = [g.home.abbr, g.away.abbr].sort().join('-');
+      if (seriesMap.has(key)) continue; // first hit going backwards from today = freshest state
+      seriesMap.set(key, {
+        teamHome: { abbr: g.home.abbr, name: g.home.name, logo: g.home.logo },
+        teamAway: { abbr: g.away.abbr, name: g.away.name, logo: g.away.logo },
+        winsHome: g.series.winsHome,
+        winsAway: g.series.winsAway,
+        summary: g.series.summary,
+        completed: g.series.completed,
+        round: g.series.round,
+        roundLabel: roundLabelFR(g.series.round),
+        roundOrder: roundOrder(g.series.round),
+        lastDate: g.date,
+      });
+    }
+    await sleep(60);
+  }
+  const series = [...seriesMap.values()].sort((a, b) => {
+    if (a.roundOrder !== b.roundOrder) return b.roundOrder - a.roundOrder; // later rounds first
+    return new Date(b.lastDate) - new Date(a.lastDate);
+  });
+  return { series };
+}
+
+async function fetchNba() {
+  const results = await fetchNbaResults();
+  const isPlayoffs = results.games.some((g) => g.isPlayoff);
+  const [standings, playoffs] = await Promise.all([
+    isPlayoffs ? Promise.resolve(null) : fetchNbaStandings(),
+    isPlayoffs ? fetchNbaPlayoffs() : Promise.resolve(null),
+  ]);
+  return {
+    isPlayoffs,
+    resultsDate: results.date,
+    results: results.games,
+    standings,
+    playoffs,
+  };
+}
+
 // ── Utilities ───────────────────────────────────────────────────
 function fmtRelativeFR(iso) {
   if (!iso) return '';
@@ -319,13 +503,14 @@ async function main() {
 
   const { TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET, TMDB_API_KEY } = process.env;
 
-  const [twitch, youtube, films, github, hackernews, weather] = await Promise.all([
+  const [twitch, youtube, films, github, hackernews, weather, nba] = await Promise.all([
     fetchTwitch(config.twitch.users, TWITCH_CLIENT_ID, TWITCH_CLIENT_SECRET),
     fetchYouTube(config.youtube.channels),
     fetchFilms(config.films, TMDB_API_KEY),
     fetchGithub(config.github.username),
     fetchHackerNews(config.hackernews.limit),
     fetchWeather(config.weather),
+    fetchNba(),
   ]);
 
   const data = {
@@ -336,6 +521,7 @@ async function main() {
     films,
     github,
     hackernews,
+    nba,
   };
 
   await writeFile(outPath, JSON.stringify(data, null, 2) + '\n', 'utf8');
@@ -346,6 +532,8 @@ async function main() {
   console.log(`     github commits: ${github.recent.length}`);
   console.log(`     hackernews items: ${hackernews.items.length}`);
   console.log(`     weather: ${weather ? `${weather.current.temp}° @ ${weather.city}` : 'unavailable'}`);
+  console.log(`     nba: ${nba.results.length} games on ${nba.resultsDate || '?'}`
+    + ` · ${nba.isPlayoffs ? `${nba.playoffs?.series?.length || 0} playoff series` : `standings ${nba.standings?.conferences?.length || 0} conf`}`);
 }
 
 main().catch((err) => {
