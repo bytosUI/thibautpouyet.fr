@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-04-29T20:41:55.306Z",
+  "updatedAt": "2026-04-30T00:08:58.986Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 11,
+      "temp": 14,
+      "feelsLike": 8,
       "code": 0,
-      "wind": 18,
-      "humidity": 29
+      "wind": 19,
+      "humidity": 33
     },
     "forecast": [
-      {
-        "date": "2026-04-29",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 11
-      },
       {
         "date": "2026-04-30",
         "code": 0,
         "tmax": 22,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-05-01",
@@ -31,7 +25,13 @@
       {
         "date": "2026-05-02",
         "code": 3,
-        "tmax": 25,
+        "tmax": 24,
+        "tmin": 14
+      },
+      {
+        "date": "2026-05-03",
+        "code": 80,
+        "tmax": 18,
         "tmin": 13
       }
     ]
@@ -179,7 +179,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add weather cell (Châlons-en-Champagne) via Open-Meteo",
-        "time": "il y a 5 j",
+        "time": "il y a 6 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/e9d3f00e23d552241857358661c25c2a0454a567"
       }
     ]
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "HERMES.md : Le bogue anthropique entraîne des frais supplémentaires de 200 $ , refuse le remboursement",
-        "titleOriginal": "HERMES.md: Anthropic bug causes $200 extra charge, refuses refund",
-        "url": "https://github.com/anthropics/claude-code/issues/53262",
-        "source": "github.com",
-        "score": 560,
-        "comments": 209,
-        "hnUrl": "https://news.ycombinator.com/item?id=47952722",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Zed 1.0",
         "titleOriginal": "Zed 1.0",
         "url": "https://zed.dev/blog/zed-1-0",
         "source": "zed.dev",
-        "score": 1204,
-        "comments": 387,
+        "score": 1459,
+        "comments": 461,
         "hnUrl": "https://news.ycombinator.com/item?id=47949027",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Échec de la copie – CVE-2026-31431",
         "titleOriginal": "Copy Fail – CVE-2026-31431",
         "url": "https://copy.fail/",
         "source": "copy.fail",
-        "score": 239,
-        "comments": 118,
+        "score": 480,
+        "comments": 224,
         "hnUrl": "https://news.ycombinator.com/item?id=47952181",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "L'Allemagne est devenue le plus grand producteur de munitions au monde",
+        "titleOriginal": "Germany has become the largest ammunition producer in the world",
+        "url": "https://prm.ua/en/the-us-is-no-longer-the-leader-germany-has-become-the-largest-ammunition-producer-in-the-world/",
+        "source": "prm.ua",
+        "score": 100,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=47955297",
         "date": "il y a 2 h"
       },
       {
-        "title": "Les fleurs de cerisier de Kyoto fleurissent maintenant plus tôt qu'à n'importe quel moment en 1 200 ans",
-        "titleOriginal": "Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",
-        "url": "https://jivx.com/kyoto-bloom",
-        "source": "jivx.com",
-        "score": 68,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=47953275",
-        "date": "il y a 1 h"
+        "title": "OpenTrafficMap",
+        "titleOriginal": "OpenTrafficMap",
+        "url": "https://opentrafficmap.org/",
+        "source": "opentrafficmap.org",
+        "score": 126,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=47953541",
+        "date": "il y a 4 h"
       }
     ]
   }
