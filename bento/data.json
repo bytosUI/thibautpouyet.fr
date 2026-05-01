@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-05-01T07:53:20.501Z",
+  "updatedAt": "2026-05-01T11:41:54.079Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 10,
+      "temp": 22,
+      "feelsLike": 21,
       "code": 0,
-      "wind": 10,
-      "humidity": 41
+      "wind": 9,
+      "humidity": 31
     },
     "forecast": [
       {
         "date": "2026-05-01",
-        "code": 61,
+        "code": 3,
         "tmax": 25,
         "tmin": 8
       },
       {
         "date": "2026-05-02",
-        "code": 80,
-        "tmax": 25,
-        "tmin": 13
+        "code": 81,
+        "tmax": 26,
+        "tmin": 14
       },
       {
         "date": "2026-05-03",
         "code": 95,
-        "tmax": 18,
+        "tmax": 17,
         "tmin": 14
       },
       {
         "date": "2026-05-04",
-        "code": 80,
-        "tmax": 19,
+        "code": 95,
+        "tmax": 20,
         "tmin": 12
       }
     ]
@@ -39,17 +39,17 @@
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 67,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 7925,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -60,6 +60,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "IL AUTORISE UN DÉTENU À SORTIR POUR VOIR SA PETITE FILLE MALADE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "h0Mcn1ftPOg",
+        "thumbnail": "https://i.ytimg.com/vi/h0Mcn1ftPOg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h0Mcn1ftPOg",
+        "publishedAt": "2026-05-01T11:01:14+00:00"
+      },
+      {
+        "title": "Changement climatique : on nous ment ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "XaWjBEFBc6A",
+        "thumbnail": "https://i.ytimg.com/vi/XaWjBEFBc6A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XaWjBEFBc6A",
+        "publishedAt": "2026-05-01T09:02:36+00:00"
+      },
+      {
         "title": "Pourquoi 80% des essais cliniques foirent ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -67,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Y0L9tuyNv0w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Y0L9tuyNv0w",
         "publishedAt": "2026-04-30T20:00:56+00:00"
-      },
-      {
-        "title": "AMPUTÉE À CAUSE D’UN TAMPON ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "P30uYt7sbj4",
-        "thumbnail": "https://i.ytimg.com/vi/P30uYt7sbj4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P30uYt7sbj4",
-        "publishedAt": "2026-04-30T15:00:53+00:00"
       },
       {
         "title": "Carlito a perdu ses dents",
@@ -94,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=d86srme8IJw",
         "publishedAt": "2026-04-28T18:05:29+00:00"
-      },
-      {
-        "title": "La vérité sur Maurice",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "OPCZnuZ9Y-U",
-        "thumbnail": "https://i.ytimg.com/vi/OPCZnuZ9Y-U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OPCZnuZ9Y-U",
-        "publishedAt": "2026-04-28T14:06:28+00:00"
       },
       {
         "title": "Une abonnée découvre une mauvaise surprise dans le container…",
@@ -181,13 +181,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 10 h",
+        "time": "il y a 14 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 11 h",
+        "time": "il y a 14 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -195,44 +195,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Afficher HN : Bluetooth midi parfait pour Windows",
+        "titleOriginal": "Show HN: Perfect Bluetooth MIDI for Windows",
+        "url": "https://news.ycombinator.com/item?id=47972888",
+        "source": "news.ycombinator.com",
+        "score": 29,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47972888",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Show HN : WhatCable, une minuscule application de barre de menu pour inspecter les câbles USB-C",
+        "titleOriginal": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+        "url": "https://github.com/darrylmorley/whatcable",
+        "source": "github.com",
+        "score": 131,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=47972511",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Comment Mark Klein a parlé à l'eff de la chambre 641A [extrait de livre]",
         "titleOriginal": "How Mark Klein told the EFF about Room 641A [book excerpt]",
         "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "thereader.mitpress.mit.edu",
-        "score": 564,
-        "comments": 186,
+        "score": 613,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=47965060",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Pour les vulnérabilités du noyau Linux, il n'y a pas de mise en garde contre les distributions",
-        "titleOriginal": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-        "source": "openwall.com",
-        "score": 468,
-        "comments": 354,
-        "hnUrl": "https://news.ycombinator.com/item?id=47965108",
-        "date": "il y a 15 h"
+        "date": "il y a 19 h"
       },
       {
         "title": "Nouvelle copie du premier poème en anglais, écrit il y a 1 300 ans, découvert à Rome",
         "titleOriginal": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
         "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
         "source": "tcd.ie",
-        "score": 40,
-        "comments": 4,
+        "score": 81,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=47946899",
-        "date": "hier"
-      },
-      {
-        "title": "L'opus 4.7 connaît le vrai Kelsey",
-        "titleOriginal": "Opus 4.7 knows the real Kelsey",
-        "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
-        "source": "theargumentmag.com",
-        "score": 322,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=47951295",
-        "date": "hier"
+        "date": "il y a 2 j"
       }
     ]
   },
