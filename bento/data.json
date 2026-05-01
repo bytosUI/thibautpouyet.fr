@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-05-01T19:55:37.407Z",
+  "updatedAt": "2026-05-01T22:36:08.775Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
-      "code": 3,
-      "wind": 11,
-      "humidity": 64
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 2,
+      "wind": 3,
+      "humidity": 84
     },
     "forecast": [
       {
-        "date": "2026-05-01",
-        "code": 80,
-        "tmax": 25,
-        "tmin": 8
-      },
-      {
         "date": "2026-05-02",
-        "code": 80,
-        "tmax": 26,
-        "tmin": 12
+        "code": 95,
+        "tmax": 25,
+        "tmin": 13
       },
       {
         "date": "2026-05-03",
         "code": 80,
-        "tmax": 19,
-        "tmin": 15
+        "tmax": 18,
+        "tmin": 14
       },
       {
         "date": "2026-05-04",
-        "code": 95,
-        "tmax": 18,
+        "code": 80,
+        "tmax": 17,
         "tmin": 13
+      },
+      {
+        "date": "2026-05-05",
+        "code": 61,
+        "tmax": 16,
+        "tmin": 11
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 84,
+        "viewers": 151,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -181,13 +181,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 22 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 23 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -195,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'IA utilise moins d'eau que le public ne le pense",
-        "titleOriginal": "AI uses less water than the public thinks",
-        "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-        "source": "californiawaterblog.com",
-        "score": 172,
-        "comments": 138,
-        "hnUrl": "https://news.ycombinator.com/item?id=47977383",
+        "title": "Ti-84 Evo",
+        "titleOriginal": "Ti-84 Evo",
+        "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
+        "source": "education.ti.com",
+        "score": 143,
+        "comments": 169,
+        "hnUrl": "https://news.ycombinator.com/item?id=47979583",
         "date": "il y a 2 h"
       },
       {
-        "title": "Spotify ajoute des badges « Vérifié » pour distinguer les artistes humains de l'IA",
-        "titleOriginal": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-        "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-        "source": "bbc.com",
-        "score": 79,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=47976856",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Demandez à HN : Qui embauche ? (mai 2026)",
-        "titleOriginal": "Ask HN: Who is hiring? (May 2026)",
-        "url": "https://news.ycombinator.com/item?id=47975571",
-        "source": "news.ycombinator.com",
-        "score": 164,
-        "comments": 184,
-        "hnUrl": "https://news.ycombinator.com/item?id=47975571",
-        "date": "il y a 4 h"
+        "title": "Les cartes de crédit sont vulnérables aux attaques par force brute",
+        "titleOriginal": "Credit cards are vulnerable to brute force attacks",
+        "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
+        "source": "metin.nextc.org",
+        "score": 127,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=47979839",
+        "date": "il y a 2 h"
       },
       {
         "title": "De nouvelles recherches suggèrent que les gens peuvent communiquer et mettre en pratique leurs compétences tout en rêvant",
         "titleOriginal": "New research suggests people can communicate and practice skills while dreaming",
         "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
         "source": "newyorker.com",
-        "score": 37,
-        "comments": 8,
+        "score": 153,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=47977748",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Le problème du bébé malodorant",
+        "titleOriginal": "The Smelly Baby Problem",
+        "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
+        "source": "worksinprogress.news",
+        "score": 20,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47950070",
+        "date": "il y a 2 j"
       }
     ]
   },
