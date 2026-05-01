@@ -1,47 +1,55 @@
 {
-  "updatedAt": "2026-04-30T23:36:36.709Z",
+  "updatedAt": "2026-05-01T07:53:20.501Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 8,
+      "temp": 13,
+      "feelsLike": 10,
       "code": 0,
       "wind": 10,
-      "humidity": 34
+      "humidity": 41
     },
     "forecast": [
       {
         "date": "2026-05-01",
-        "code": 80,
+        "code": 61,
         "tmax": 25,
         "tmin": 8
       },
       {
         "date": "2026-05-02",
         "code": 80,
-        "tmax": 27,
-        "tmin": 14
+        "tmax": 25,
+        "tmin": 13
       },
       {
         "date": "2026-05-03",
-        "code": 80,
-        "tmax": 19,
+        "code": 95,
+        "tmax": 18,
         "tmin": 14
       },
       {
         "date": "2026-05-04",
         "code": 80,
-        "tmax": 18,
+        "tmax": 19,
         "tmin": 12
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 67,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -173,13 +181,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 2 h",
+        "time": "il y a 10 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 2 h",
+        "time": "il y a 11 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -187,42 +195,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "Rivian vous permet de désactiver toute la connectivité Internet",
-        "titleOriginal": "Rivian allows you to disable all internet connectivity",
-        "url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-        "source": "rivian.com",
-        "score": 353,
-        "comments": 138,
-        "hnUrl": "https://news.ycombinator.com/item?id=47967786",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "LinkedIn recherche 6 278 extensions et crypte les résultats dans chaque demande",
-        "titleOriginal": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-        "url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-        "source": "404privacy.com",
-        "score": 322,
-        "comments": 136,
-        "hnUrl": "https://news.ycombinator.com/item?id=47967262",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Comment Mark Klein a parlé à l'eff de la chambre 641A [extrait de livre]",
         "titleOriginal": "How Mark Klein told the EFF about Room 641A [book excerpt]",
         "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
         "source": "thereader.mitpress.mit.edu",
-        "score": 383,
-        "comments": 114,
+        "score": 564,
+        "comments": 186,
         "hnUrl": "https://news.ycombinator.com/item?id=47965060",
-        "date": "il y a 6 h"
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Pour les vulnérabilités du noyau Linux, il n'y a pas de mise en garde contre les distributions",
+        "titleOriginal": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+        "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+        "source": "openwall.com",
+        "score": 468,
+        "comments": 354,
+        "hnUrl": "https://news.ycombinator.com/item?id=47965108",
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Nouvelle copie du premier poème en anglais, écrit il y a 1 300 ans, découvert à Rome",
+        "titleOriginal": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
+        "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
+        "source": "tcd.ie",
+        "score": 40,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47946899",
+        "date": "hier"
       },
       {
         "title": "L'opus 4.7 connaît le vrai Kelsey",
         "titleOriginal": "Opus 4.7 knows the real Kelsey",
         "url": "https://www.theargumentmag.com/p/i-can-never-talk-to-an-ai-anonymously",
         "source": "theargumentmag.com",
-        "score": 85,
-        "comments": 36,
+        "score": 322,
+        "comments": 167,
         "hnUrl": "https://news.ycombinator.com/item?id=47951295",
         "date": "hier"
       }
@@ -230,104 +238,104 @@
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260429",
+    "resultsDate": "20260430",
     "results": [
       {
-        "id": "401869416",
-        "date": "2026-04-29T23:00Z",
+        "id": "401869393",
+        "date": "2026-04-30T23:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "8",
-          "abbr": "DET",
-          "name": "Pistons",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-          "score": 116,
-          "record": "60-22",
+          "id": "1",
+          "abbr": "ATL",
+          "name": "Hawks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+          "score": 89,
+          "record": "46-36",
+          "winner": false
+        },
+        "away": {
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 140,
+          "record": "53-29",
+          "winner": true
+        },
+        "series": {
+          "summary": "NY wins series 4-2",
+          "completed": true,
+          "round": "East 1st Round - Game 6",
+          "winsHome": 2,
+          "winsAway": 4
+        }
+      },
+      {
+        "id": "401869410",
+        "date": "2026-05-01T00:00Z",
+        "isPlayoff": true,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "20",
+          "abbr": "PHI",
+          "name": "76ers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+          "score": 106,
+          "record": "45-37",
           "winner": true
         },
         "away": {
-          "id": "19",
-          "abbr": "ORL",
-          "name": "Magic",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-          "score": 109,
-          "record": "45-37",
+          "id": "2",
+          "abbr": "BOS",
+          "name": "Celtics",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+          "score": 93,
+          "record": "56-26",
           "winner": false
         },
         "series": {
-          "summary": "ORL leads series 3-2",
+          "summary": "Series tied 3-3",
           "completed": false,
-          "round": "East 1st Round - Game 5",
-          "winsHome": 2,
+          "round": "East 1st Round - Game 6",
+          "winsHome": 3,
           "winsAway": 3
         }
       },
       {
-        "id": "401869380",
-        "date": "2026-04-29T23:30Z",
+        "id": "401869402",
+        "date": "2026-05-01T01:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 125,
-          "record": "52-30",
+          "id": "16",
+          "abbr": "MIN",
+          "name": "Timberwolves",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+          "score": 110,
+          "record": "49-33",
           "winner": true
         },
         "away": {
-          "id": "28",
-          "abbr": "TOR",
-          "name": "Raptors",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-          "score": 120,
-          "record": "46-36",
+          "id": "7",
+          "abbr": "DEN",
+          "name": "Nuggets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
+          "score": 98,
+          "record": "54-28",
           "winner": false
         },
         "series": {
-          "summary": "CLE leads series 3-2",
-          "completed": false,
-          "round": "East 1st Round - Game 5",
-          "winsHome": 3,
-          "winsAway": 2
-        }
-      },
-      {
-        "id": "401869407",
-        "date": "2026-04-30T02:00Z",
-        "isPlayoff": true,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "13",
-          "abbr": "LAL",
-          "name": "Lakers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-          "score": 93,
-          "record": "53-29",
-          "winner": false
-        },
-        "away": {
-          "id": "10",
-          "abbr": "HOU",
-          "name": "Rockets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-          "score": 99,
-          "record": "52-30",
-          "winner": true
-        },
-        "series": {
-          "summary": "LAL lead series 3-2",
-          "completed": false,
-          "round": "West 1st Round - Game 5",
-          "winsHome": 3,
+          "summary": "MIN wins series 4-2",
+          "completed": true,
+          "round": "West 1st Round - Game 6",
+          "winsHome": 4,
           "winsAway": 2
         }
       }
@@ -335,6 +343,66 @@
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "HOU",
+            "name": "Rockets",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
+          },
+          "teamAway": {
+            "abbr": "LAL",
+            "name": "Lakers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+          },
+          "winsHome": 2,
+          "winsAway": 3,
+          "summary": "LAL lead series 3-2",
+          "completed": false,
+          "round": "West 1st Round - Game 6",
+          "roundLabel": "Ouest · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-02T01:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "TOR",
+            "name": "Raptors",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+          },
+          "teamAway": {
+            "abbr": "CLE",
+            "name": "Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+          },
+          "winsHome": 2,
+          "winsAway": 3,
+          "summary": "CLE leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 6",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-01T23:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "ORL",
+            "name": "Magic",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+          },
+          "teamAway": {
+            "abbr": "DET",
+            "name": "Pistons",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
+          },
+          "winsHome": 3,
+          "winsAway": 2,
+          "summary": "ORL leads series 3-2",
+          "completed": false,
+          "round": "East 1st Round - Game 6",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-01T23:00Z"
+        },
         {
           "teamHome": {
             "abbr": "MIN",
@@ -346,10 +414,10 @@
             "name": "Nuggets",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
           },
-          "winsHome": 3,
+          "winsHome": 4,
           "winsAway": 2,
-          "summary": "MIN leads series 3-2",
-          "completed": false,
+          "summary": "MIN wins series 4-2",
+          "completed": true,
           "round": "West 1st Round - Game 6",
           "roundLabel": "Ouest · 1er tour",
           "roundOrder": 1,
@@ -366,9 +434,9 @@
             "name": "Celtics",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
           },
-          "winsHome": 2,
+          "winsHome": 3,
           "winsAway": 3,
-          "summary": "BOS leads series 3-2",
+          "summary": "Series tied 3-3",
           "completed": false,
           "round": "East 1st Round - Game 6",
           "roundLabel": "Est · 1er tour",
@@ -387,73 +455,13 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
           },
           "winsHome": 2,
-          "winsAway": 3,
-          "summary": "NY leads series 3-2",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "NY wins series 4-2",
+          "completed": true,
           "round": "East 1st Round - Game 6",
           "roundLabel": "Est · 1er tour",
           "roundOrder": 1,
           "lastDate": "2026-04-30T23:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "LAL",
-            "name": "Lakers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
-          },
-          "teamAway": {
-            "abbr": "HOU",
-            "name": "Rockets",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
-          },
-          "winsHome": 3,
-          "winsAway": 2,
-          "summary": "LAL lead series 3-2",
-          "completed": false,
-          "round": "West 1st Round - Game 5",
-          "roundLabel": "Ouest · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-04-30T02:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "CLE",
-            "name": "Cavaliers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-          },
-          "teamAway": {
-            "abbr": "TOR",
-            "name": "Raptors",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
-          },
-          "winsHome": 3,
-          "winsAway": 2,
-          "summary": "CLE leads series 3-2",
-          "completed": false,
-          "round": "East 1st Round - Game 5",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-04-29T23:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "DET",
-            "name": "Pistons",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
-          },
-          "teamAway": {
-            "abbr": "ORL",
-            "name": "Magic",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
-          },
-          "winsHome": 2,
-          "winsAway": 3,
-          "summary": "ORL leads series 3-2",
-          "completed": false,
-          "round": "East 1st Round - Game 5",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-04-29T23:00Z"
         },
         {
           "teamHome": {
