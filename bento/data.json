@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-05-01T11:41:54.079Z",
+  "updatedAt": "2026-05-01T15:35:25.979Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
-      "code": 0,
-      "wind": 9,
-      "humidity": 31
+      "temp": 26,
+      "feelsLike": 24,
+      "code": 1,
+      "wind": 5,
+      "humidity": 29
     },
     "forecast": [
       {
         "date": "2026-05-01",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 8
       },
       {
         "date": "2026-05-02",
-        "code": 81,
-        "tmax": 26,
+        "code": 80,
+        "tmax": 27,
         "tmin": 14
       },
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 7925,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL AUTORISE UN DÉTENU À SORTIR POUR VOIR SA PETITE FILLE MALADE",
+        "title": "DES CORSES FONT EXPLOSER SA VOITURE POUR LUI FAIRE PASSER UN MESSAGE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "h0Mcn1ftPOg",
-        "thumbnail": "https://i.ytimg.com/vi/h0Mcn1ftPOg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h0Mcn1ftPOg",
-        "publishedAt": "2026-05-01T11:01:14+00:00"
+        "videoId": "Po71scGpm08",
+        "thumbnail": "https://i.ytimg.com/vi/Po71scGpm08/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Po71scGpm08",
+        "publishedAt": "2026-05-01T15:00:57+00:00"
       },
       {
         "title": "Changement climatique : on nous ment ?",
@@ -181,13 +173,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 14 h",
+        "time": "il y a 18 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 14 h",
+        "time": "il y a 18 h",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Afficher HN : Bluetooth midi parfait pour Windows",
-        "titleOriginal": "Show HN: Perfect Bluetooth MIDI for Windows",
-        "url": "https://news.ycombinator.com/item?id=47972888",
-        "source": "news.ycombinator.com",
-        "score": 29,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47972888",
-        "date": "il y a 1 h"
+        "title": "GhostBox – petites machines jetables du Global Free Tier.",
+        "titleOriginal": "GhostBox – disposable little machines from the Global Free Tier.",
+        "url": "https://www.ghost.charity/",
+        "source": "ghost.charity",
+        "score": 51,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=47975472",
+        "date": "il y a 43 min"
       },
       {
-        "title": "Show HN : WhatCable, une minuscule application de barre de menu pour inspecter les câbles USB-C",
-        "titleOriginal": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-        "url": "https://github.com/darrylmorley/whatcable",
+        "title": "Votre site Web n'est pas fait pour vous",
+        "titleOriginal": "Your Website Is Not for You",
+        "url": "https://websmith.studio/blog/your-website-is-not-for-you/",
+        "source": "websmith.studio",
+        "score": 175,
+        "comments": 113,
+        "hnUrl": "https://news.ycombinator.com/item?id=47973376",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Exécution de l'interpréteur PostScript 1991 d'Adobe dans le navigateur",
+        "titleOriginal": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+        "url": "https://www.pagetable.com/?p=1854",
+        "source": "pagetable.com",
+        "score": 62,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=47973755",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "whohas – Utilitaire de ligne de commande pour la recherche de paquets cross-distro et cross-repository",
+        "titleOriginal": "whohas – Command-line utility for cross-distro, cross-repository package search",
+        "url": "https://github.com/whohas/whohas",
         "source": "github.com",
-        "score": 131,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=47972511",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Comment Mark Klein a parlé à l'eff de la chambre 641A [extrait de livre]",
-        "titleOriginal": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-        "url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-        "source": "thereader.mitpress.mit.edu",
-        "score": 613,
-        "comments": 207,
-        "hnUrl": "https://news.ycombinator.com/item?id=47965060",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Nouvelle copie du premier poème en anglais, écrit il y a 1 300 ans, découvert à Rome",
-        "titleOriginal": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-        "url": "https://www.tcd.ie/news_events/articles/2026/caedmons-hymn-discovery/",
-        "source": "tcd.ie",
-        "score": 81,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=47946899",
-        "date": "il y a 2 j"
+        "score": 8,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47975592",
+        "date": "il y a 34 min"
       }
     ]
   },
