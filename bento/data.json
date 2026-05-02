@@ -1,52 +1,8 @@
 {
-  "updatedAt": "2026-05-01T22:36:08.775Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 16,
-      "feelsLike": 16,
-      "code": 2,
-      "wind": 3,
-      "humidity": 84
-    },
-    "forecast": [
-      {
-        "date": "2026-05-02",
-        "code": 95,
-        "tmax": 25,
-        "tmin": 13
-      },
-      {
-        "date": "2026-05-03",
-        "code": 80,
-        "tmax": 18,
-        "tmin": 14
-      },
-      {
-        "date": "2026-05-04",
-        "code": 80,
-        "tmax": 17,
-        "tmin": 13
-      },
-      {
-        "date": "2026-05-05",
-        "code": 61,
-        "tmax": 16,
-        "tmin": 11
-      }
-    ]
-  },
+  "updatedAt": "2026-05-02T06:24:01.707Z",
+  "weather": null,
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 151,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,93 +10,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Anthropic vient de sortir Computer Use couplé à Dispatch",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "WHLo1iyIcSc",
-        "thumbnail": "https://i.ytimg.com/vi/WHLo1iyIcSc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WHLo1iyIcSc",
-        "publishedAt": "2026-05-01T16:01:35+00:00"
-      },
-      {
-        "title": "DES CORSES FONT EXPLOSER SA VOITURE POUR LUI FAIRE PASSER UN MESSAGE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Po71scGpm08",
-        "thumbnail": "https://i.ytimg.com/vi/Po71scGpm08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Po71scGpm08",
-        "publishedAt": "2026-05-01T15:00:57+00:00"
-      },
-      {
-        "title": "Changement climatique : on nous ment ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "XaWjBEFBc6A",
-        "thumbnail": "https://i.ytimg.com/vi/XaWjBEFBc6A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XaWjBEFBc6A",
-        "publishedAt": "2026-05-01T09:02:36+00:00"
-      },
-      {
-        "title": "Carlito a perdu ses dents",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "eVX2TIe0XKg",
-        "thumbnail": "https://i.ytimg.com/vi/eVX2TIe0XKg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eVX2TIe0XKg",
-        "publishedAt": "2026-04-29T15:37:55+00:00"
-      },
-      {
-        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "d86srme8IJw",
-        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
-        "publishedAt": "2026-04-28T18:05:29+00:00"
-      },
-      {
-        "title": "Une abonnée découvre une mauvaise surprise dans le container…",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "R4ai3I7ZOtw",
-        "thumbnail": "https://i.ytimg.com/vi/R4ai3I7ZOtw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R4ai3I7ZOtw",
-        "publishedAt": "2026-04-25T11:26:52+00:00"
-      },
-      {
-        "title": "Une livraison de 20T pour ca ? #19",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "GT8bKeaYso8",
-        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
-        "publishedAt": "2026-04-19T15:17:00+00:00"
-      },
-      {
-        "title": "RÉNOVATION D’UNE TOITURE DE 1870 (avec 25 Velux)  - EP26",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "UaB4JgV6qUE",
-        "thumbnail": "https://i.ytimg.com/vi/UaB4JgV6qUE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UaB4JgV6qUE",
-        "publishedAt": "2026-04-19T10:00:11+00:00"
-      },
-      {
-        "title": "Je fais mon sous-sol de rêve - RÉNOVATION",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "wtZq_ecxKrs",
-        "thumbnail": "https://i.ytimg.com/vi/wtZq_ecxKrs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wtZq_ecxKrs",
-        "publishedAt": "2026-03-07T14:30:56+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -195,107 +70,107 @@
   "hackernews": {
     "items": [
       {
+        "title": "Ask.com a fermé",
+        "titleOriginal": "Ask.com has closed",
+        "url": "https://www.ask.com/",
+        "source": "ask.com",
+        "score": 179,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=47983226",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Ti-84 Evo",
         "titleOriginal": "Ti-84 Evo",
         "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
         "source": "education.ti.com",
-        "score": 143,
-        "comments": 169,
+        "score": 403,
+        "comments": 363,
         "hnUrl": "https://news.ycombinator.com/item?id=47979583",
-        "date": "il y a 2 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Les cartes de crédit sont vulnérables aux attaques par force brute",
-        "titleOriginal": "Credit cards are vulnerable to brute force attacks",
-        "url": "https://metin.nextc.org/posts/Credit_Cards_Are_Vulnerable_To_Brute_Force_Kind_Attacks.html",
-        "source": "metin.nextc.org",
-        "score": 127,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=47979839",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "De nouvelles recherches suggèrent que les gens peuvent communiquer et mettre en pratique leurs compétences tout en rêvant",
-        "titleOriginal": "New research suggests people can communicate and practice skills while dreaming",
-        "url": "https://www.newyorker.com/culture/annals-of-inquiry/its-possible-to-learn-in-our-sleep-should-we",
-        "source": "newyorker.com",
-        "score": 153,
-        "comments": 82,
-        "hnUrl": "https://news.ycombinator.com/item?id=47977748",
+        "title": "Les offres d'emploi pour les ingénieurs logiciels augmentent rapidement",
+        "titleOriginal": "Job Postings for Software Engineers Are Rapidly Rising",
+        "url": "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/",
+        "source": "citadelsecurities.com",
+        "score": 111,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=47982512",
         "date": "il y a 4 h"
       },
       {
-        "title": "Le problème du bébé malodorant",
-        "titleOriginal": "The Smelly Baby Problem",
-        "url": "https://www.worksinprogress.news/p/how-disposable-diapers-conquered",
-        "source": "worksinprogress.news",
-        "score": 20,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=47950070",
-        "date": "il y a 2 j"
+        "title": "Pourquoi cela prend-il autant de temps pour sortir des versions de fan noir ?",
+        "titleOriginal": "Why does it take so long to release black fan versions?",
+        "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
+        "source": "noctua.at",
+        "score": 21,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=47983352",
+        "date": "il y a 1 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260430",
+    "resultsDate": "20260501",
     "results": [
       {
-        "id": "401869393",
-        "date": "2026-04-30T23:00Z",
+        "id": "401869417",
+        "date": "2026-05-01T23:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "1",
-          "abbr": "ATL",
-          "name": "Hawks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-          "score": 89,
-          "record": "46-36",
+          "id": "19",
+          "abbr": "ORL",
+          "name": "Magic",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+          "score": 79,
+          "record": "45-37",
           "winner": false
         },
         "away": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 140,
-          "record": "53-29",
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 93,
+          "record": "60-22",
           "winner": true
         },
         "series": {
-          "summary": "NY wins series 4-2",
-          "completed": true,
+          "summary": "Series tied 3-3",
+          "completed": false,
           "round": "East 1st Round - Game 6",
-          "winsHome": 2,
-          "winsAway": 4
+          "winsHome": 3,
+          "winsAway": 3
         }
       },
       {
-        "id": "401869410",
-        "date": "2026-05-01T00:00Z",
+        "id": "401869381",
+        "date": "2026-05-01T23:30Z",
         "isPlayoff": true,
         "state": "post",
-        "statusShort": "Final",
+        "statusShort": "Final/OT",
         "completed": true,
         "home": {
-          "id": "20",
-          "abbr": "PHI",
-          "name": "76ers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-          "score": 106,
-          "record": "45-37",
+          "id": "28",
+          "abbr": "TOR",
+          "name": "Raptors",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+          "score": 112,
+          "record": "46-36",
           "winner": true
         },
         "away": {
-          "id": "2",
-          "abbr": "BOS",
-          "name": "Celtics",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-          "score": 93,
-          "record": "56-26",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 110,
+          "record": "52-30",
           "winner": false
         },
         "series": {
@@ -307,42 +182,62 @@
         }
       },
       {
-        "id": "401869402",
-        "date": "2026-05-01T01:30Z",
+        "id": "401869409",
+        "date": "2026-05-02T01:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 110,
-          "record": "49-33",
-          "winner": true
-        },
-        "away": {
-          "id": "7",
-          "abbr": "DEN",
-          "name": "Nuggets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-          "score": 98,
-          "record": "54-28",
+          "id": "10",
+          "abbr": "HOU",
+          "name": "Rockets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+          "score": 78,
+          "record": "52-30",
           "winner": false
         },
+        "away": {
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 98,
+          "record": "53-29",
+          "winner": true
+        },
         "series": {
-          "summary": "MIN wins series 4-2",
+          "summary": "LAL win series 4-2",
           "completed": true,
           "round": "West 1st Round - Game 6",
-          "winsHome": 4,
-          "winsAway": 2
+          "winsHome": 2,
+          "winsAway": 4
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "BOS",
+            "name": "Celtics",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
+          },
+          "teamAway": {
+            "abbr": "PHI",
+            "name": "76ers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+          },
+          "winsHome": 3,
+          "winsAway": 3,
+          "summary": "Series tied 3-3",
+          "completed": false,
+          "round": "East 1st Round - Game 7",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-02T23:30Z"
+        },
         {
           "teamHome": {
             "abbr": "HOU",
@@ -355,9 +250,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
           },
           "winsHome": 2,
-          "winsAway": 3,
-          "summary": "LAL lead series 3-2",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "LAL win series 4-2",
+          "completed": true,
           "round": "West 1st Round - Game 6",
           "roundLabel": "Ouest · 1er tour",
           "roundOrder": 1,
@@ -374,9 +269,9 @@
             "name": "Cavaliers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
           },
-          "winsHome": 2,
+          "winsHome": 3,
           "winsAway": 3,
-          "summary": "CLE leads series 3-2",
+          "summary": "Series tied 3-3",
           "completed": false,
           "round": "East 1st Round - Game 6",
           "roundLabel": "Est · 1er tour",
@@ -395,8 +290,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
           },
           "winsHome": 3,
-          "winsAway": 2,
-          "summary": "ORL leads series 3-2",
+          "winsAway": 3,
+          "summary": "Series tied 3-3",
           "completed": false,
           "round": "East 1st Round - Game 6",
           "roundLabel": "Est · 1er tour",
@@ -422,26 +317,6 @@
           "roundLabel": "Ouest · 1er tour",
           "roundOrder": 1,
           "lastDate": "2026-05-01T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "PHI",
-            "name": "76ers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-          },
-          "teamAway": {
-            "abbr": "BOS",
-            "name": "Celtics",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
-          },
-          "winsHome": 3,
-          "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "East 1st Round - Game 6",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-01T00:00Z"
         },
         {
           "teamHome": {
