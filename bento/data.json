@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-02T12:07:52.966Z",
+  "updatedAt": "2026-05-02T15:08:26.301Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 25,
+      "temp": 26,
+      "feelsLike": 24,
       "code": 3,
-      "wind": 9,
-      "humidity": 56
+      "wind": 13,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-05-03",
         "code": 61,
-        "tmax": 19,
+        "tmax": 21,
         "tmin": 13
       },
       {
         "date": "2026-05-04",
-        "code": 95,
-        "tmax": 16,
-        "tmin": 12
+        "code": 80,
+        "tmax": 17,
+        "tmin": 13
       },
       {
         "date": "2026-05-05",
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE DÉTENU LE PLUS TERRIFIANT QU’IL AIT JAMAIS EU",
+        "title": "LES PRISONS ACHÈTENT LA PAIX SOCIALE AVEC DU SH*T ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "fNSTckDU3uY",
-        "thumbnail": "https://i.ytimg.com/vi/fNSTckDU3uY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fNSTckDU3uY",
-        "publishedAt": "2026-05-02T12:01:08+00:00"
+        "videoId": "IFZsKd9ceXc",
+        "thumbnail": "https://i.ytimg.com/vi/IFZsKd9ceXc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IFZsKd9ceXc",
+        "publishedAt": "2026-05-02T14:00:24+00:00"
+      },
+      {
+        "title": "Ils confondent climat et pollution !",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "0h_Kmrvhs_A",
+        "thumbnail": "https://i.ytimg.com/vi/0h_Kmrvhs_A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0h_Kmrvhs_A",
+        "publishedAt": "2026-05-02T13:00:02+00:00"
       },
       {
         "title": "Pourquoi la Chine clone ses morts pour 3 dollars ?",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/rWYz25xaiw0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rWYz25xaiw0",
         "publishedAt": "2026-05-02T10:00:55+00:00"
-      },
-      {
-        "title": "Qui part à Maurice aujourd’hui ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "WTQpoLin6gI",
-        "thumbnail": "https://i.ytimg.com/vi/WTQpoLin6gI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WTQpoLin6gI",
-        "publishedAt": "2026-05-02T09:01:47+00:00"
       },
       {
         "title": "Carlito a perdu ses dents",
@@ -191,40 +191,40 @@
         "titleOriginal": "How fast is a macOS VM, and how small could it be?",
         "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
         "source": "eclecticlight.co",
-        "score": 53,
-        "comments": 12,
+        "score": 125,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=47984852",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Pourquoi existe-t-il à la fois des variables d'environnement TMP et TEMP ? (2015)",
-        "titleOriginal": "Why are there both TMP and TEMP environment variables? (2015)",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
-        "source": "devblogs.microsoft.com",
-        "score": 57,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=47984522",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Pourquoi cela prend-il autant de temps pour sortir des versions de fan noir ?",
         "titleOriginal": "Why does it take so long to release black fan versions?",
         "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
         "source": "noctua.at",
-        "score": 313,
-        "comments": 145,
+        "score": 458,
+        "comments": 214,
         "hnUrl": "https://news.ycombinator.com/item?id=47983352",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Show HN : DAC – tableau de bord open source comme outil de code pour les agents et les humains",
-        "titleOriginal": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-        "url": "https://github.com/bruin-data/dac",
+        "title": "Devenir père rétrécit votre cerveau (2022)",
+        "titleOriginal": "Becoming a father shrinks your cerebrum (2022)",
+        "url": "https://www.economist.com/science-and-technology/2022/10/21/becoming-a-father-shrinks-your-cerebrum",
+        "source": "economist.com",
+        "score": 45,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985553",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Open Design : utilisez votre agent de codage comme moteur de conception",
+        "titleOriginal": "Open Design: Use Your Coding Agent as a Design Engine",
+        "url": "https://github.com/nexu-io/open-design",
         "source": "github.com",
-        "score": 30,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47949066",
-        "date": "il y a 2 j"
+        "score": 68,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=47985750",
+        "date": "il y a 2 h"
       }
     ]
   },
