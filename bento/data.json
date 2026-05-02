@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-02T20:07:34.842Z",
+  "updatedAt": "2026-05-02T22:25:12.383Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
+      "temp": 16,
+      "feelsLike": 16,
       "code": 3,
       "wind": 5,
-      "humidity": 57
+      "humidity": 72
     },
     "forecast": [
-      {
-        "date": "2026-05-02",
-        "code": 95,
-        "tmax": 25,
-        "tmin": 14
-      },
       {
         "date": "2026-05-03",
         "code": 80,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-05-05",
-        "code": 80,
+        "code": 95,
         "tmax": 16,
-        "tmin": 11
+        "tmin": 10
+      },
+      {
+        "date": "2026-05-06",
+        "code": 61,
+        "tmax": 10,
+        "tmin": 8
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 114,
+        "viewers": 144,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -181,13 +181,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "hier",
+        "time": "il y a 2 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "hier",
+        "time": "il y a 2 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -195,44 +195,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Code VS insérant « Co-Authored-by Copilot » dans les commits quelle que soit l'utilisation",
+        "titleOriginal": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+        "url": "https://github.com/microsoft/vscode/pull/310226",
+        "source": "github.com",
+        "score": 350,
+        "comments": 167,
+        "hnUrl": "https://news.ycombinator.com/item?id=47989883",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Six ans de perfectionnement des cartes sur WatchOS",
+        "titleOriginal": "Six Years Perfecting Maps on WatchOS",
+        "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+        "source": "david-smith.org",
+        "score": 54,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=47990606",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Dav2d",
         "titleOriginal": "Dav2d",
         "url": "https://code.videolan.org/videolan/dav2d",
         "source": "code.videolan.org",
-        "score": 140,
-        "comments": 47,
+        "score": 260,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=47988504",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Les inventions pour la réutilisation et le recyclage des batteries ont été multipliées par plus de 7 au cours des 10 dernières années",
-        "titleOriginal": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
-        "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
-        "source": "epo.org",
-        "score": 105,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=47960015",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Tailles non signées : une erreur de cinq ans",
-        "titleOriginal": "Unsigned Sizes: A Five Year Mistake",
-        "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
-        "source": "c3-lang.org",
-        "score": 30,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=47989154",
+        "title": "Ce mois-ci à Ladybird - Avril 2026",
+        "titleOriginal": "This Month in Ladybird - April 2026",
+        "url": "https://ladybird.org/newsletter/2026-04-30/",
+        "source": "ladybird.org",
+        "score": 43,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=47990318",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "NetHack 5.0.0",
-        "titleOriginal": "NetHack 5.0.0",
-        "url": "https://nethack.org/v500/release.html",
-        "source": "nethack.org",
-        "score": 235,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=47988776",
-        "date": "il y a 2 h"
       }
     ]
   },
