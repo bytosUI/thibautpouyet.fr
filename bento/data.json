@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-05-02T09:49:52.219Z",
+  "updatedAt": "2026-05-02T12:07:52.966Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 22,
-      "code": 2,
-      "wind": 7,
-      "humidity": 71
+      "temp": 24,
+      "feelsLike": 25,
+      "code": 3,
+      "wind": 9,
+      "humidity": 56
     },
     "forecast": [
       {
         "date": "2026-05-02",
         "code": 95,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 14
       },
       {
         "date": "2026-05-03",
         "code": 61,
-        "tmax": 18,
+        "tmax": 19,
         "tmin": 13
       },
       {
         "date": "2026-05-04",
-        "code": 80,
+        "code": 95,
         "tmax": 16,
         "tmin": 12
       },
       {
         "date": "2026-05-05",
-        "code": 61,
-        "tmax": 14,
-        "tmin": 12
+        "code": 80,
+        "tmax": 18,
+        "tmin": 10
       }
     ]
   },
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "LE DÉTENU LE PLUS TERRIFIANT QU’IL AIT JAMAIS EU",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "fNSTckDU3uY",
+        "thumbnail": "https://i.ytimg.com/vi/fNSTckDU3uY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fNSTckDU3uY",
+        "publishedAt": "2026-05-02T12:01:08+00:00"
+      },
+      {
+        "title": "Pourquoi la Chine clone ses morts pour 3 dollars ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "rWYz25xaiw0",
+        "thumbnail": "https://i.ytimg.com/vi/rWYz25xaiw0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rWYz25xaiw0",
+        "publishedAt": "2026-05-02T10:00:55+00:00"
+      },
+      {
         "title": "Qui part à Maurice aujourd’hui ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,24 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/WTQpoLin6gI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WTQpoLin6gI",
         "publishedAt": "2026-05-02T09:01:47+00:00"
-      },
-      {
-        "title": "DIRECTEUR DE PRISON : IL ASSISTE À UNE ÉVASION EN HÉLICOPTÈRE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "1oxuL4ekyCE",
-        "thumbnail": "https://i.ytimg.com/vi/1oxuL4ekyCE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1oxuL4ekyCE",
-        "publishedAt": "2026-05-02T09:00:07+00:00"
-      },
-      {
-        "title": "Souveraineté ou pouvoir d'achat : le choix impossible que l'Europe refuse de faire !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Q67aD-97uxU",
-        "thumbnail": "https://i.ytimg.com/vi/Q67aD-97uxU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q67aD-97uxU",
-        "publishedAt": "2026-05-02T06:30:06+00:00"
       },
       {
         "title": "Carlito a perdu ses dents",
@@ -187,43 +187,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Quelle est la vitesse d'une VM macOS et quelle pourrait être sa taille ?",
+        "titleOriginal": "How fast is a macOS VM, and how small could it be?",
+        "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
+        "source": "eclecticlight.co",
+        "score": 53,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=47984852",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Pourquoi existe-t-il à la fois des variables d'environnement TMP et TEMP ? (2015)",
+        "titleOriginal": "Why are there both TMP and TEMP environment variables? (2015)",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20150417-00/?p=44213",
+        "source": "devblogs.microsoft.com",
+        "score": 57,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=47984522",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Pourquoi cela prend-il autant de temps pour sortir des versions de fan noir ?",
         "titleOriginal": "Why does it take so long to release black fan versions?",
         "url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
         "source": "noctua.at",
-        "score": 235,
-        "comments": 107,
+        "score": 313,
+        "comments": 145,
         "hnUrl": "https://news.ycombinator.com/item?id=47983352",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Ti-84 Evo",
-        "titleOriginal": "Ti-84 Evo",
-        "url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-        "source": "education.ti.com",
-        "score": 454,
-        "comments": 385,
-        "hnUrl": "https://news.ycombinator.com/item?id=47979583",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "Show HN : Simulateur de pollution lumineuse basé sur un navigateur utilisant des données photométriques réelles",
-        "titleOriginal": "Show HN: Browser-based light pollution simulator using real photometric data",
-        "url": "https://iesna.eu/?wasm=skyglow_demo",
-        "source": "iesna.eu",
-        "score": 6,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=47984734",
-        "date": "il y a 41 min"
-      },
-      {
-        "title": "La situation USB",
-        "titleOriginal": "The USB Situation",
-        "url": "https://randsinrepose.com/archives/the-usb-situation/",
-        "source": "randsinrepose.com",
-        "score": 22,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=47950993",
+        "title": "Show HN : DAC – tableau de bord open source comme outil de code pour les agents et les humains",
+        "titleOriginal": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+        "url": "https://github.com/bruin-data/dac",
+        "source": "github.com",
+        "score": 30,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=47949066",
         "date": "il y a 2 j"
       }
     ]
