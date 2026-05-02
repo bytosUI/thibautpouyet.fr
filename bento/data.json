@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-02T18:04:59.999Z",
+  "updatedAt": "2026-05-02T20:07:34.842Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 19,
+      "feelsLike": 18,
       "code": 3,
-      "wind": 7,
-      "humidity": 44
+      "wind": 5,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-05-03",
-        "code": 95,
+        "code": 80,
         "tmax": 20,
         "tmin": 13
       },
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 114,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,12 +54,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "La domination occidentale. C'est fini.",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "aHej6eKOFQQ",
+        "thumbnail": "https://i.ytimg.com/vi/aHej6eKOFQQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aHej6eKOFQQ",
+        "publishedAt": "2026-05-02T18:01:07+00:00"
+      },
       {
         "title": "LE CODE D’HONNEUR N’EXISTE PLUS CHEZ LES VOYOUS ?",
         "channel": "LEGEND",
@@ -68,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/0h_Kmrvhs_A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0h_Kmrvhs_A",
         "publishedAt": "2026-05-02T13:00:02+00:00"
-      },
-      {
-        "title": "Pourquoi la Chine clone ses morts pour 3 dollars ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "rWYz25xaiw0",
-        "thumbnail": "https://i.ytimg.com/vi/rWYz25xaiw0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rWYz25xaiw0",
-        "publishedAt": "2026-05-02T10:00:55+00:00"
       },
       {
         "title": "Carlito a perdu ses dents",
@@ -187,13 +195,13 @@
   "hackernews": {
     "items": [
       {
-        "title": "Uber veut transformer ses chauffeurs en une grille de capteurs pour les entreprises de conduite autonome",
-        "titleOriginal": "Uber wants to turn its drivers into a sensor grid for self-driving companies",
-        "url": "https://techcrunch.com/2026/05/01/uber-wants-to-turn-its-millions-of-drivers-into-a-sensor-grid-for-self-driving-companies/",
-        "source": "techcrunch.com",
-        "score": 52,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=47987333",
+        "title": "Dav2d",
+        "titleOriginal": "Dav2d",
+        "url": "https://code.videolan.org/videolan/dav2d",
+        "source": "code.videolan.org",
+        "score": 140,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=47988504",
         "date": "il y a 2 h"
       },
       {
@@ -201,30 +209,30 @@
         "titleOriginal": "Inventions for battery reuse and recycling increase more than 7-fold in last 10y",
         "url": "https://www.epo.org/en/news-events/news/inventions-battery-reuse-and-recycling-increase-more-seven-fold-last-decade",
         "source": "epo.org",
-        "score": 30,
-        "comments": 3,
+        "score": 105,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=47960015",
         "date": "il y a 2 j"
       },
       {
-        "title": "Barman – Gestionnaire de sauvegarde et de récupération pour PostgreSQL",
-        "titleOriginal": "Barman – Backup and Recovery Manager for PostgreSQL",
-        "url": "https://github.com/EnterpriseDB/barman",
-        "source": "github.com",
-        "score": 83,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=47948526",
-        "date": "il y a 3 j"
+        "title": "Tailles non signées : une erreur de cinq ans",
+        "titleOriginal": "Unsigned Sizes: A Five Year Mistake",
+        "url": "https://c3-lang.org/blog/unsigned-sizes-a-five-year-mistake/",
+        "source": "c3-lang.org",
+        "score": 30,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=47989154",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Quelle est la vitesse d'une VM macOS et quelle est sa taille ?",
-        "titleOriginal": "How fast is a macOS VM, and how small could it be?",
-        "url": "https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/",
-        "source": "eclecticlight.co",
-        "score": 179,
-        "comments": 66,
-        "hnUrl": "https://news.ycombinator.com/item?id=47984852",
-        "date": "il y a 8 h"
+        "title": "NetHack 5.0.0",
+        "titleOriginal": "NetHack 5.0.0",
+        "url": "https://nethack.org/v500/release.html",
+        "source": "nethack.org",
+        "score": 235,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=47988776",
+        "date": "il y a 2 h"
       }
     ]
   },
