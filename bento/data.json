@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-05-02T22:25:12.383Z",
+  "updatedAt": "2026-05-03T07:23:01.700Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
-      "code": 3,
-      "wind": 5,
-      "humidity": 72
+      "temp": 14,
+      "feelsLike": 12,
+      "code": 61,
+      "wind": 10,
+      "humidity": 68
     },
     "forecast": [
       {
         "date": "2026-05-03",
         "code": 80,
-        "tmax": 20,
+        "tmax": 19,
         "tmin": 13
       },
       {
         "date": "2026-05-04",
         "code": 63,
-        "tmax": 18,
+        "tmax": 17,
         "tmin": 13
       },
       {
         "date": "2026-05-05",
-        "code": 95,
+        "code": 80,
         "tmax": 16,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-05-06",
-        "code": 61,
-        "tmax": 10,
+        "code": 3,
+        "tmax": 12,
         "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 144,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,11 +45,21 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Claude Code fait le travail d’analyse à ta place",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "GVQ7lrowEcQ",
+        "thumbnail": "https://i.ytimg.com/vi/GVQ7lrowEcQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GVQ7lrowEcQ",
+        "publishedAt": "2026-05-03T06:00:26+00:00"
+      },
       {
         "title": "La domination occidentale. C'est fini.",
         "channel": "Silicon Carne 🌶️",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/PEoNeuzfOjs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PEoNeuzfOjs",
         "publishedAt": "2026-05-02T15:00:40+00:00"
-      },
-      {
-        "title": "Ils confondent climat et pollution !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "0h_Kmrvhs_A",
-        "thumbnail": "https://i.ytimg.com/vi/0h_Kmrvhs_A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0h_Kmrvhs_A",
-        "publishedAt": "2026-05-02T13:00:02+00:00"
       },
       {
         "title": "Carlito a perdu ses dents",
@@ -195,147 +187,81 @@
   "hackernews": {
     "items": [
       {
-        "title": "Code VS insérant « Co-Authored-by Copilot » dans les commits quelle que soit l'utilisation",
-        "titleOriginal": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-        "url": "https://github.com/microsoft/vscode/pull/310226",
-        "source": "github.com",
-        "score": 350,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=47989883",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Six ans de perfectionnement des cartes sur WatchOS",
-        "titleOriginal": "Six Years Perfecting Maps on WatchOS",
-        "url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
-        "source": "david-smith.org",
-        "score": 54,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=47990606",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Dav2d",
-        "titleOriginal": "Dav2d",
-        "url": "https://code.videolan.org/videolan/dav2d",
-        "source": "code.videolan.org",
-        "score": 260,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=47988504",
-        "date": "il y a 4 h"
+        "title": "Quelques millions de lignes de Haskell : Ingénierie de production chez Mercury",
+        "titleOriginal": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+        "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+        "source": "blog.haskell.org",
+        "score": 166,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=47991802",
+        "date": "il y a 7 h"
       },
       {
         "title": "Ce mois-ci à Ladybird - Avril 2026",
         "titleOriginal": "This Month in Ladybird - April 2026",
         "url": "https://ladybird.org/newsletter/2026-04-30/",
         "source": "ladybird.org",
-        "score": 43,
-        "comments": 9,
+        "score": 271,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=47990318",
-        "date": "il y a 1 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "La famille de modèles IBM Granite 4.1",
+        "titleOriginal": "The IBM Granite 4.1 family of models",
+        "url": "https://research.ibm.com/blog/granite-4-1-ai-foundation-models",
+        "source": "research.ibm.com",
+        "score": 60,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=47962645",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Dav2d",
+        "titleOriginal": "Dav2d",
+        "url": "https://code.videolan.org/videolan/dav2d",
+        "source": "code.videolan.org",
+        "score": 441,
+        "comments": 122,
+        "hnUrl": "https://news.ycombinator.com/item?id=47988504",
+        "date": "il y a 13 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260501",
+    "resultsDate": "20260502",
     "results": [
       {
-        "id": "401869417",
-        "date": "2026-05-01T23:00Z",
+        "id": "401869412",
+        "date": "2026-05-02T23:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "19",
-          "abbr": "ORL",
-          "name": "Magic",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-          "score": 79,
+          "id": "2",
+          "abbr": "BOS",
+          "name": "Celtics",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+          "score": 100,
+          "record": "56-26",
+          "winner": false
+        },
+        "away": {
+          "id": "20",
+          "abbr": "PHI",
+          "name": "76ers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+          "score": 109,
           "record": "45-37",
-          "winner": false
-        },
-        "away": {
-          "id": "8",
-          "abbr": "DET",
-          "name": "Pistons",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-          "score": 93,
-          "record": "60-22",
           "winner": true
         },
         "series": {
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "East 1st Round - Game 6",
-          "winsHome": 3,
-          "winsAway": 3
-        }
-      },
-      {
-        "id": "401869381",
-        "date": "2026-05-01T23:30Z",
-        "isPlayoff": true,
-        "state": "post",
-        "statusShort": "Final/OT",
-        "completed": true,
-        "home": {
-          "id": "28",
-          "abbr": "TOR",
-          "name": "Raptors",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
-          "score": 112,
-          "record": "46-36",
-          "winner": true
-        },
-        "away": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 110,
-          "record": "52-30",
-          "winner": false
-        },
-        "series": {
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "East 1st Round - Game 6",
-          "winsHome": 3,
-          "winsAway": 3
-        }
-      },
-      {
-        "id": "401869409",
-        "date": "2026-05-02T01:30Z",
-        "isPlayoff": true,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "10",
-          "abbr": "HOU",
-          "name": "Rockets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-          "score": 78,
-          "record": "52-30",
-          "winner": false
-        },
-        "away": {
-          "id": "13",
-          "abbr": "LAL",
-          "name": "Lakers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-          "score": 98,
-          "record": "53-29",
-          "winner": true
-        },
-        "series": {
-          "summary": "LAL win series 4-2",
+          "summary": "PHI wins series 4-3",
           "completed": true,
-          "round": "West 1st Round - Game 6",
-          "winsHome": 2,
+          "round": "East 1st Round - Game 7",
+          "winsHome": 3,
           "winsAway": 4
         }
       }
@@ -343,6 +269,46 @@
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "CLE",
+            "name": "Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+          },
+          "teamAway": {
+            "abbr": "TOR",
+            "name": "Raptors",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
+          },
+          "winsHome": 3,
+          "winsAway": 3,
+          "summary": "Series tied 3-3",
+          "completed": false,
+          "round": "East 1st Round - Game 7",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-03T23:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "DET",
+            "name": "Pistons",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
+          },
+          "teamAway": {
+            "abbr": "ORL",
+            "name": "Magic",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
+          },
+          "winsHome": 3,
+          "winsAway": 3,
+          "summary": "Series tied 3-3",
+          "completed": false,
+          "round": "East 1st Round - Game 7",
+          "roundLabel": "Est · 1er tour",
+          "roundOrder": 1,
+          "lastDate": "2026-05-03T19:30Z"
+        },
         {
           "teamHome": {
             "abbr": "BOS",
@@ -355,9 +321,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
           },
           "winsHome": 3,
-          "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "PHI wins series 4-3",
+          "completed": true,
           "round": "East 1st Round - Game 7",
           "roundLabel": "Est · 1er tour",
           "roundOrder": 1,
@@ -382,46 +348,6 @@
           "roundLabel": "Ouest · 1er tour",
           "roundOrder": 1,
           "lastDate": "2026-05-02T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "TOR",
-            "name": "Raptors",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
-          },
-          "teamAway": {
-            "abbr": "CLE",
-            "name": "Cavaliers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-          },
-          "winsHome": 3,
-          "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "East 1st Round - Game 6",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-01T23:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "ORL",
-            "name": "Magic",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
-          },
-          "teamAway": {
-            "abbr": "DET",
-            "name": "Pistons",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
-          },
-          "winsHome": 3,
-          "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "East 1st Round - Game 6",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-01T23:00Z"
         },
         {
           "teamHome": {
