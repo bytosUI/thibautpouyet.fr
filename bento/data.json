@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-03T20:01:39.034Z",
+  "updatedAt": "2026-05-03T22:25:52.192Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 15,
-      "code": 80,
-      "wind": 8,
-      "humidity": 83
+      "temp": 13,
+      "feelsLike": 13,
+      "code": 3,
+      "wind": 4,
+      "humidity": 92
     },
     "forecast": [
-      {
-        "date": "2026-05-03",
-        "code": 80,
-        "tmax": 18,
-        "tmin": 13
-      },
       {
         "date": "2026-05-04",
         "code": 80,
@@ -31,7 +25,13 @@
       {
         "date": "2026-05-06",
         "code": 80,
-        "tmax": 12,
+        "tmax": 18,
+        "tmin": 11
+      },
+      {
+        "date": "2026-05-07",
+        "code": 45,
+        "tmax": 18,
         "tmin": 10
       }
     ]
@@ -173,13 +173,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pourquoi les IUT sont de retour",
-        "titleOriginal": "Why TUIs Are Back",
-        "url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
-        "source": "wiki.alcidesfonseca.com",
-        "score": 78,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=48000028",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "BYOMesh – La nouvelle radio maillée LoRa offre 100 fois la bande passante",
         "titleOriginal": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
         "url": "https://partyon.xyz/@nullagent/116499715071759135",
         "source": "partyon.xyz",
-        "score": 96,
-        "comments": 29,
+        "score": 184,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=47999636",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Visite du quartier général du sud-ouest",
         "titleOriginal": "Southwest Headquarters Tour",
         "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
         "source": "katherinemichel.github.io",
-        "score": 103,
-        "comments": 15,
+        "score": 153,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=47998946",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Un ordinateur de bureau fait pour un",
-        "titleOriginal": "A desktop made for one",
-        "url": "https://isene.org/2026/05/Audience-of-One.html",
-        "source": "isene.org",
-        "score": 111,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=47997947",
-        "date": "il y a 4 h"
+        "title": "OpenAI's o1 a correctement diagnostiqué 67% des patients ER contre 50-55% par les médecins de triage",
+        "titleOriginal": "OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+        "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+        "source": "theguardian.com",
+        "score": 192,
+        "comments": 137,
+        "hnUrl": "https://news.ycombinator.com/item?id=47991981",
+        "date": "il y a 21 h"
+      },
+      {
+        "title": "La mission spatiale américano-indienne cartographie l'extrême subsidence à Mexico",
+        "titleOriginal": "US–Indian space mission maps extreme subsidence in Mexico City",
+        "url": "https://phys.org/news/2026-04-usindian-space-mission-extreme-subsidence.html",
+        "source": "phys.org",
+        "score": 54,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=47974682",
+        "date": "il y a 2 j"
       }
     ]
   },
@@ -300,10 +300,10 @@
             "name": "Magic",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
           },
-          "winsHome": 3,
+          "winsHome": 4,
           "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
+          "summary": "DET wins series 4-3",
+          "completed": true,
           "round": "East 1st Round - Game 7",
           "roundLabel": "Est · 1er tour",
           "roundOrder": 1,
