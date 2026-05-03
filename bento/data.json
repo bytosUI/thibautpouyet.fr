@@ -1,53 +1,45 @@
 {
-  "updatedAt": "2026-05-03T14:15:58.855Z",
+  "updatedAt": "2026-05-03T17:13:02.453Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 15,
-      "code": 3,
-      "wind": 15,
-      "humidity": 72
+      "temp": 18,
+      "feelsLike": 17,
+      "code": 2,
+      "wind": 10,
+      "humidity": 67
     },
     "forecast": [
       {
         "date": "2026-05-03",
         "code": 80,
-        "tmax": 19,
+        "tmax": 18,
         "tmin": 13
       },
       {
         "date": "2026-05-04",
         "code": 61,
         "tmax": 17,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-05-05",
-        "code": 95,
+        "code": 81,
         "tmax": 17,
         "tmin": 12
       },
       {
         "date": "2026-05-06",
         "code": 80,
-        "tmax": 11,
-        "tmin": 8
+        "tmax": 12,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Kings League",
-        "viewers": 15911,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -59,6 +51,33 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "FESTIN 8 : La Chine ne nous a pas battus. C'est nous qui avons choisi de perdre.",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "kst0rs5InhA",
+        "thumbnail": "https://i.ytimg.com/vi/kst0rs5InhA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kst0rs5InhA",
+        "publishedAt": "2026-05-03T17:01:14+00:00"
+      },
+      {
+        "title": "Des potes, et un potager ! #20",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "GI6v9vFEnBA",
+        "thumbnail": "https://i.ytimg.com/vi/GI6v9vFEnBA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GI6v9vFEnBA",
+        "publishedAt": "2026-05-03T16:18:01+00:00"
+      },
+      {
+        "title": "Pourquoi ils quittent Dubaï pour Maurice",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "n2tNuQO2UcA",
+        "thumbnail": "https://i.ytimg.com/vi/n2tNuQO2UcA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=n2tNuQO2UcA",
+        "publishedAt": "2026-05-03T15:01:24+00:00"
+      },
       {
         "title": "DANS LE COMA APRÈS UN CRASH D'AVION,  ELLE A TOUT ENTENDU",
         "channel": "LEGEND",
@@ -78,15 +97,6 @@
         "publishedAt": "2026-05-03T12:58:26+00:00"
       },
       {
-        "title": "Les robots chinois hacked !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "fOFbZJPnvEs",
-        "thumbnail": "https://i.ytimg.com/vi/fOFbZJPnvEs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fOFbZJPnvEs",
-        "publishedAt": "2026-05-03T12:01:08+00:00"
-      },
-      {
         "title": "RÉNOVER UNE MEZZANINE À MOINDRE COÛT ? - EP27",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -94,15 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/r5IgC-QcEfI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=r5IgC-QcEfI",
         "publishedAt": "2026-05-03T10:13:08+00:00"
-      },
-      {
-        "title": "MAURICE VS DUBAÏ : QUI A RAISON ? - La Table des Darons 3",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "AJX3z8v5KQY",
-        "thumbnail": "https://i.ytimg.com/vi/AJX3z8v5KQY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AJX3z8v5KQY",
-        "publishedAt": "2026-05-03T10:02:00+00:00"
       },
       {
         "title": "Carlito a perdu ses dents",
@@ -130,15 +131,6 @@
         "thumbnail": "https://i.ytimg.com/vi/R4ai3I7ZOtw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R4ai3I7ZOtw",
         "publishedAt": "2026-04-25T11:26:52+00:00"
-      },
-      {
-        "title": "Une livraison de 20T pour ca ? #19",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "GT8bKeaYso8",
-        "thumbnail": "https://i.ytimg.com/vi/GT8bKeaYso8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GT8bKeaYso8",
-        "publishedAt": "2026-04-19T15:17:00+00:00"
       }
     ]
   },
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Firmware rouille ou C intégré ? Leçons d'un cas d'utilisation de microcontrôleur industriel",
-        "titleOriginal": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
-        "url": "https://arxiv.org/abs/2604.25679",
-        "source": "arxiv.org",
-        "score": 44,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=47974307",
-        "date": "il y a 2 j"
+        "title": "Quelles sont les versions de Chrome sur lesquelles les principaux navigateurs sont activés ?",
+        "titleOriginal": "What Chromium versions are major browsers are on?",
+        "url": "https://chromium-drift.pages.dev/",
+        "source": "chromium-drift.pages.dev",
+        "score": 12,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=47999006",
+        "date": "il y a 7 min"
       },
       {
-        "title": "Show HN : Apple's Sharp Running dans le navigateur via ONNX Runtime Web",
-        "titleOriginal": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
-        "url": "https://github.com/bring-shrubbery/ml-sharp-web",
-        "source": "github.com",
-        "score": 81,
+        "title": "Mercedes-Benz s'engage à ramener les boutons physiques",
+        "titleOriginal": "Mercedes-Benz commits to bringing back physical buttons",
+        "url": "https://www.drive.com.au/news/mercedes-benz-commits-to-bringing-back-phycial-buttons/",
+        "source": "drive.com.au",
+        "score": 277,
+        "comments": 152,
+        "hnUrl": "https://news.ycombinator.com/item?id=47997418",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Porsche contestera Laguna Seca dans les couleurs historiques de la livrée Apple Computer",
+        "titleOriginal": "Porsche will contest Laguna Seca in historic colors of the Apple Computer livery",
+        "url": "https://newsroom.porsche.com/en_US/2026/motorsport/porsche-will-contest-laguna-seca-in-historic-colors-of-the-apple-computer-livery.html",
+        "source": "newsroom.porsche.com",
+        "score": 46,
         "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=47995037",
-        "date": "il y a 5 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=47997138",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Les moyennes de groupe masquent la façon dont le cerveau d'un individu contrôle le comportement : étude",
-        "titleOriginal": "Group averages obscure how an individual's brain controls behavior: study",
-        "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-        "source": "med.stanford.edu",
-        "score": 57,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=47969142",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Quelques millions de lignes de Haskell : Ingénierie de production chez Mercury",
-        "titleOriginal": "A couple million lines of Haskell: Production engineering at Mercury",
-        "url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-        "source": "blog.haskell.org",
-        "score": 310,
-        "comments": 143,
-        "hnUrl": "https://news.ycombinator.com/item?id=47991802",
-        "date": "il y a 14 h"
+        "title": "Surveillance pilotée par les alertes",
+        "titleOriginal": "Alert-Driven Monitoring",
+        "url": "https://simpleobservability.com/docs/alert-driven-monitoring",
+        "source": "simpleobservability.com",
+        "score": 43,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=47997056",
+        "date": "il y a 3 h"
       }
     ]
   },
