@@ -1,54 +1,46 @@
 {
-  "updatedAt": "2026-05-04T08:07:27.047Z",
+  "updatedAt": "2026-05-04T15:32:42.269Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
-      "code": 61,
-      "wind": 8,
-      "humidity": 91
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 3,
+      "wind": 4,
+      "humidity": 75
     },
     "forecast": [
       {
         "date": "2026-05-04",
         "code": 80,
-        "tmax": 17,
+        "tmax": 16,
         "tmin": 11
       },
       {
         "date": "2026-05-05",
-        "code": 80,
+        "code": 95,
         "tmax": 16,
         "tmin": 10
       },
       {
         "date": "2026-05-06",
-        "code": 61,
+        "code": 80,
         "tmax": 13,
         "tmin": 10
       },
       {
         "date": "2026-05-07",
         "code": 61,
-        "tmax": 16,
+        "tmax": 15,
         "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 267,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE QUOTIDIEN CACHÉ DES GRANDS BRÛLÉS",
+        "title": "LES SÉQUELLES INVISIBLES D’UN ACCIDENT GRAVE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "SmTYC0hMRxo",
-        "thumbnail": "https://i.ytimg.com/vi/SmTYC0hMRxo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SmTYC0hMRxo",
-        "publishedAt": "2026-05-04T08:00:25+00:00"
+        "videoId": "zxM2Iep3J4k",
+        "thumbnail": "https://i.ytimg.com/vi/zxM2Iep3J4k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zxM2Iep3J4k",
+        "publishedAt": "2026-05-04T15:01:44+00:00"
       },
       {
-        "title": "Pourquoi Dubaï attire autant",
+        "title": "Qui finance le GIEC ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "XJb_9k6PFqk",
-        "thumbnail": "https://i.ytimg.com/vi/XJb_9k6PFqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XJb_9k6PFqk",
-        "publishedAt": "2026-05-04T06:55:13+00:00"
+        "videoId": "jQd4mrN4HTA",
+        "thumbnail": "https://i.ytimg.com/vi/jQd4mrN4HTA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jQd4mrN4HTA",
+        "publishedAt": "2026-05-04T14:01:09+00:00"
       },
       {
         "title": "FESTIN 8 : La Chine ne nous a pas battus. C'est nous qui avons choisi de perdre.",
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Actionneurs de robots humanoïdes",
-        "titleOriginal": "Humanoid Robot Actuators",
-        "url": "https://www.firgelli.com/pages/humanoid-robot-actuators",
-        "source": "firgelli.com",
-        "score": 108,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48004380",
-        "date": "il y a 4 h"
+        "title": "Les piles amovibles dans les smartphones seront obligatoires dans l'UE à partir de 2027",
+        "titleOriginal": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+        "url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
+        "source": "ecopv-eu.com",
+        "score": 26,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48009697",
+        "date": "il y a 21 min"
       },
       {
-        "title": "Utilisation de « sous-titres » pour un texte et des chiffres précis",
-        "titleOriginal": "Using “underdrawings” for accurate text and numbers",
-        "url": "https://samcollins.blog/underdrawings/",
-        "source": "samcollins.blog",
-        "score": 180,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=47977990",
-        "date": "il y a 2 j"
+        "title": "Parler à 35 étrangers au gymnase",
+        "titleOriginal": "Talking to 35 Strangers at the Gym",
+        "url": "https://thienantran.com/talking-to-35-strangers-at-the-gym/",
+        "source": "thienantran.com",
+        "score": 475,
+        "comments": 217,
+        "hnUrl": "https://news.ycombinator.com/item?id=48007438",
+        "date": "il y a 3 h"
       },
       {
-        "title": "BYOMesh – La nouvelle radio maillée LoRa offre 100 fois la bande passante",
-        "titleOriginal": "BYOMesh – New LoRa mesh radio offers 100x the bandwidth",
-        "url": "https://partyon.xyz/@nullagent/116499715071759135",
-        "source": "partyon.xyz",
-        "score": 350,
-        "comments": 114,
-        "hnUrl": "https://news.ycombinator.com/item?id=47999636",
-        "date": "il y a 14 h"
+        "title": "GameStop fait une offre de rachat de 55,5 milliards de $ pour eBay",
+        "titleOriginal": "GameStop makes $55.5B takeover offer for eBay",
+        "url": "https://www.bbc.co.uk/news/articles/cn0p8yled1do",
+        "source": "bbc.co.uk",
+        "score": 408,
+        "comments": 342,
+        "hnUrl": "https://news.ycombinator.com/item?id=48006402",
+        "date": "il y a 6 h"
       },
       {
-        "title": "DeepClaude – Claude Code agent Loop avec DeepSeek V4 Pro",
-        "titleOriginal": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-        "url": "https://github.com/aattaran/deepclaude",
+        "title": "PyInfra 3.8.0 est sorti",
+        "titleOriginal": "PyInfra 3.8.0 Is Out",
+        "url": "https://github.com/pyinfra-dev/pyinfra/releases/tag/v3.8.0",
         "source": "github.com",
-        "score": 410,
-        "comments": 153,
-        "hnUrl": "https://news.ycombinator.com/item?id=48002136",
-        "date": "il y a 9 h"
+        "score": 111,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48008083",
+        "date": "il y a 2 h"
       }
     ]
   },
