@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-05-05T11:52:28.819Z",
+  "updatedAt": "2026-05-05T17:08:01.749Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 15,
       "feelsLike": 15,
-      "code": 61,
-      "wind": 6,
-      "humidity": 85
+      "code": 63,
+      "wind": 3,
+      "humidity": 92
     },
     "forecast": [
       {
         "date": "2026-05-05",
-        "code": 61,
+        "code": 63,
         "tmax": 16,
         "tmin": 10
       },
@@ -25,14 +25,14 @@
       {
         "date": "2026-05-07",
         "code": 61,
-        "tmax": 16,
-        "tmin": 10
+        "tmax": 15,
+        "tmin": 9
       },
       {
         "date": "2026-05-08",
-        "code": 45,
+        "code": 3,
         "tmax": 20,
-        "tmin": 7
+        "tmin": 9
       }
     ]
   },
@@ -52,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Je ne suis pas parti pour les impôts",
+        "title": "Claude Code crée deux clans",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "Hrwa28kK2iY",
-        "thumbnail": "https://i.ytimg.com/vi/Hrwa28kK2iY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hrwa28kK2iY",
-        "publishedAt": "2026-05-05T08:42:12+00:00"
+        "videoId": "xuKBtWdNPPk",
+        "thumbnail": "https://i.ytimg.com/vi/xuKBtWdNPPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xuKBtWdNPPk",
+        "publishedAt": "2026-05-05T16:01:46+00:00"
+      },
+      {
+        "title": "IL SE FAIT PASSER POUR UN DÉPANNEUR ET PIRATE UNE ENTREPRISE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "_aoUQPVUtkY",
+        "thumbnail": "https://i.ytimg.com/vi/_aoUQPVUtkY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_aoUQPVUtkY",
+        "publishedAt": "2026-05-05T16:01:02+00:00"
+      },
+      {
+        "title": "On répond en vocal à des commentaires méchants et promis on insulte personne",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "xFCGmjQlvZw",
+        "thumbnail": "https://i.ytimg.com/vi/xFCGmjQlvZw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xFCGmjQlvZw",
+        "publishedAt": "2026-05-05T15:22:30+00:00"
       },
       {
         "title": "La Chine n'a peut être pas encore gagné.",
@@ -68,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/uEuXeX_IBmM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uEuXeX_IBmM",
         "publishedAt": "2026-05-04T18:01:45+00:00"
-      },
-      {
-        "title": "ELLE FAIT FACE À SON CORPS POUR LA PREMIÈRE FOIS DEPUIS L'ACCIDENT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Eqnz-1qo-a4",
-        "thumbnail": "https://i.ytimg.com/vi/Eqnz-1qo-a4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Eqnz-1qo-a4",
-        "publishedAt": "2026-05-04T17:00:29+00:00"
       },
       {
         "title": "Des potes, et un potager ! #20",
@@ -104,15 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/r5IgC-QcEfI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=r5IgC-QcEfI",
         "publishedAt": "2026-05-03T10:13:08+00:00"
-      },
-      {
-        "title": "Carlito a perdu ses dents",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "eVX2TIe0XKg",
-        "thumbnail": "https://i.ytimg.com/vi/eVX2TIe0XKg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eVX2TIe0XKg",
-        "publishedAt": "2026-04-29T15:37:55+00:00"
       },
       {
         "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
@@ -161,10 +161,10 @@
         "url": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "title": "Le Réveil de la Momie",
+        "title": "Mortal Kombat II",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
-        "url": "https://www.themoviedb.org/movie/1304313"
+        "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+        "url": "https://www.themoviedb.org/movie/931285"
       }
     ]
   },
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Async Rust n'a jamais quitté l'état MVP",
-        "titleOriginal": "Async Rust never left the MVP state",
-        "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
-        "source": "tweedegolf.nl",
-        "score": 214,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=48019163",
-        "date": "il y a 4 h"
+        "title": "Trois lois inverses de l'IA",
+        "titleOriginal": "Three Inverse Laws of AI",
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "source": "susam.net",
+        "score": 125,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=48023861",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Dois-je exécuter Plain Docker Compose en production en 2026 ?",
-        "titleOriginal": "Should I Run Plain Docker Compose in Production in 2026?",
-        "url": "https://distr.sh/blog/running-docker-in-production/",
-        "source": "distr.sh",
-        "score": 74,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=47962032",
-        "date": "il y a 4 j"
+        "title": "Royaume-Uni : Deux millionièmes voitures électriques enregistrées alors que le marché rebondit fortement",
+        "titleOriginal": "UK: Two millionth electric car registered as market rebounds strongly",
+        "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
+        "source": "smmt.co.uk",
+        "score": 57,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48024364",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Quand tout le monde a l'IA et que l'entreprise n'apprend toujours rien",
-        "titleOriginal": "When everyone has AI and the company still learns nothing",
-        "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-        "source": "robert-glaser.de",
-        "score": 44,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48020063",
-        "date": "il y a 2 h"
+        "title": "Accélération de Gemma 4 : inférence plus rapide avec les rédacteurs de prédiction multi-jetons",
+        "titleOriginal": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+        "source": "blog.google",
+        "score": 45,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48024540",
+        "date": "il y a 53 min"
       },
       {
-        "title": "Bun est porté de Zig à Rust",
-        "titleOriginal": "Bun is being ported from Zig to Rust",
-        "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-        "source": "github.com",
-        "score": 567,
-        "comments": 398,
-        "hnUrl": "https://news.ycombinator.com/item?id=48016880",
-        "date": "il y a 10 h"
+        "title": "EEVblog : Le Timer 555 a 55 ans",
+        "titleOriginal": "EEVblog: The 555 Timer is 55 years old",
+        "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+        "source": "youtube.com",
+        "score": 48,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48024129",
+        "date": "il y a 1 h"
       }
     ]
   },
