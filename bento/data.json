@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-05T17:08:01.749Z",
+  "updatedAt": "2026-05-05T20:47:37.487Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
-      "code": 63,
-      "wind": 3,
-      "humidity": 92
+      "temp": 13,
+      "feelsLike": 14,
+      "code": 61,
+      "wind": 4,
+      "humidity": 95
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-05-06",
         "code": 80,
         "tmax": 13,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-05-07",
         "code": 61,
-        "tmax": 15,
+        "tmax": 16,
         "tmin": 9
       },
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 9533,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Trois lois inverses de l'IA",
-        "titleOriginal": "Three Inverse Laws of AI",
-        "url": "https://susam.net/inverse-laws-of-robotics.html",
-        "source": "susam.net",
-        "score": 125,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=48023861",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Royaume-Uni : Deux millionièmes voitures électriques enregistrées alors que le marché rebondit fortement",
-        "titleOriginal": "UK: Two millionth electric car registered as market rebounds strongly",
-        "url": "https://www.smmt.co.uk/two-millionth-electric-car-registered-as-market-rebounds-strongly-from-tax-changes/",
-        "source": "smmt.co.uk",
-        "score": 57,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48024364",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Accélération de Gemma 4 : inférence plus rapide avec les rédacteurs de prédiction multi-jetons",
         "titleOriginal": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
         "source": "blog.google",
-        "score": 45,
-        "comments": 8,
+        "score": 318,
+        "comments": 132,
         "hnUrl": "https://news.ycombinator.com/item?id=48024540",
-        "date": "il y a 53 min"
+        "date": "il y a 4 h"
       },
       {
-        "title": "EEVblog : Le Timer 555 a 55 ans",
-        "titleOriginal": "EEVblog: The 555 Timer is 55 years old",
-        "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
-        "source": "youtube.com",
-        "score": 48,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48024129",
-        "date": "il y a 1 h"
+        "title": ".de TLD hors ligne en raison de DNSSEC ?",
+        "titleOriginal": ".de TLD offline due to DNSSEC?",
+        "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+        "source": "dnssec-analyzer.verisignlabs.com",
+        "score": 90,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48027897",
+        "date": "il y a 31 min"
+      },
+      {
+        "title": "L'utilisation de l'ordinateur est 45 fois plus coûteuse que les API structurées",
+        "titleOriginal": "Computer Use is 45x more expensive than structured APIs",
+        "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+        "source": "reflex.dev",
+        "score": 187,
+        "comments": 109,
+        "hnUrl": "https://news.ycombinator.com/item?id=48024859",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Trois lois inverses de l'IA",
+        "titleOriginal": "Three Inverse Laws of AI",
+        "url": "https://susam.net/inverse-laws-of-robotics.html",
+        "source": "susam.net",
+        "score": 280,
+        "comments": 189,
+        "hnUrl": "https://news.ycombinator.com/item?id=48023861",
+        "date": "il y a 5 h"
       }
     ]
   },
