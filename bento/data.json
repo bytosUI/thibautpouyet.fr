@@ -1,57 +1,49 @@
 {
-  "updatedAt": "2026-05-05T07:33:50.591Z",
+  "updatedAt": "2026-05-05T11:52:28.819Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 13,
+      "temp": 15,
+      "feelsLike": 15,
       "code": 61,
-      "wind": 4,
-      "humidity": 87
+      "wind": 6,
+      "humidity": 85
     },
     "forecast": [
       {
         "date": "2026-05-05",
-        "code": 80,
-        "tmax": 17,
+        "code": 61,
+        "tmax": 16,
         "tmin": 10
       },
       {
         "date": "2026-05-06",
-        "code": 3,
-        "tmax": 16,
+        "code": 80,
+        "tmax": 13,
         "tmin": 11
       },
       {
         "date": "2026-05-07",
         "code": 61,
-        "tmax": 12,
+        "tmax": 16,
         "tmin": 10
       },
       {
         "date": "2026-05-08",
         "code": 45,
-        "tmax": 19,
+        "tmax": 20,
         "tmin": 7
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 470,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -59,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Je ne suis pas parti pour les impôts",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "Hrwa28kK2iY",
+        "thumbnail": "https://i.ytimg.com/vi/Hrwa28kK2iY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hrwa28kK2iY",
+        "publishedAt": "2026-05-05T08:42:12+00:00"
+      },
       {
         "title": "La Chine n'a peut être pas encore gagné.",
         "channel": "Silicon Carne 🌶️",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Eqnz-1qo-a4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Eqnz-1qo-a4",
         "publishedAt": "2026-05-04T17:00:29+00:00"
-      },
-      {
-        "title": "Qui finance le GIEC ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "jQd4mrN4HTA",
-        "thumbnail": "https://i.ytimg.com/vi/jQd4mrN4HTA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jQd4mrN4HTA",
-        "publishedAt": "2026-05-04T14:01:09+00:00"
       },
       {
         "title": "Des potes, et un potager ! #20",
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Formez votre propre LLM à partir de zéro",
-        "titleOriginal": "Train Your Own LLM from Scratch",
-        "url": "https://github.com/angelos-p/llm-from-scratch",
-        "source": "github.com",
-        "score": 151,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=48017948",
-        "date": "il y a 3 h"
+        "title": "Async Rust n'a jamais quitté l'état MVP",
+        "titleOriginal": "Async Rust never left the MVP state",
+        "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+        "source": "tweedegolf.nl",
+        "score": 214,
+        "comments": 103,
+        "hnUrl": "https://news.ycombinator.com/item?id=48019163",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Codes QR dessinés à la main",
-        "titleOriginal": "Hand Drawn QR Codes",
-        "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
-        "source": "sethmlarson.dev",
-        "score": 56,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48017907",
-        "date": "il y a 3 h"
+        "title": "Dois-je exécuter Plain Docker Compose en production en 2026 ?",
+        "titleOriginal": "Should I Run Plain Docker Compose in Production in 2026?",
+        "url": "https://distr.sh/blog/running-docker-in-production/",
+        "source": "distr.sh",
+        "score": 74,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=47962032",
+        "date": "il y a 4 j"
+      },
+      {
+        "title": "Quand tout le monde a l'IA et que l'entreprise n'apprend toujours rien",
+        "titleOriginal": "When everyone has AI and the company still learns nothing",
+        "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+        "source": "robert-glaser.de",
+        "score": 44,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48020063",
+        "date": "il y a 2 h"
       },
       {
         "title": "Bun est porté de Zig à Rust",
         "titleOriginal": "Bun is being ported from Zig to Rust",
         "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
         "source": "github.com",
-        "score": 434,
-        "comments": 300,
+        "score": 567,
+        "comments": 398,
         "hnUrl": "https://news.ycombinator.com/item?id=48016880",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Environ 10 % des projections de films AMC ne vendent aucun billet. Ce site les trouve",
-        "titleOriginal": "About 10% of AMC movie showings sell zero tickets. This site finds them",
-        "url": "https://walzr.com/empty-screenings",
-        "source": "walzr.com",
-        "score": 123,
-        "comments": 94,
-        "hnUrl": "https://news.ycombinator.com/item?id=48018066",
-        "date": "il y a 3 h"
+        "date": "il y a 10 h"
       }
     ]
   },
