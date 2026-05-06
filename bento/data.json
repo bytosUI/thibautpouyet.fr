@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-05T23:35:36.231Z",
+  "updatedAt": "2026-05-06T15:54:24.791Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 12,
-      "feelsLike": 12,
+      "feelsLike": 9,
       "code": 3,
-      "wind": 5,
-      "humidity": 95
+      "wind": 11,
+      "humidity": 75
     },
     "forecast": [
       {
@@ -19,28 +19,36 @@
       {
         "date": "2026-05-07",
         "code": 80,
-        "tmax": 15,
+        "tmax": 16,
         "tmin": 9
       },
       {
         "date": "2026-05-08",
-        "code": 3,
-        "tmax": 19,
+        "code": 45,
+        "tmax": 20,
         "tmin": 7
       },
       {
         "date": "2026-05-09",
         "code": 3,
         "tmax": 23,
-        "tmin": 11
+        "tmin": 9
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 326,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,40 +60,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "QI et entrepreneurs",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "nAxDe0_U4sg",
-        "thumbnail": "https://i.ytimg.com/vi/nAxDe0_U4sg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nAxDe0_U4sg",
-        "publishedAt": "2026-05-05T23:25:09+00:00"
-      },
-      {
-        "title": "Claude Code crée deux clans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "xuKBtWdNPPk",
-        "thumbnail": "https://i.ytimg.com/vi/xuKBtWdNPPk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xuKBtWdNPPk",
-        "publishedAt": "2026-05-05T16:01:46+00:00"
-      },
-      {
-        "title": "IL SE FAIT PASSER POUR UN DÉPANNEUR ET PIRATE UNE ENTREPRISE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "_aoUQPVUtkY",
-        "thumbnail": "https://i.ytimg.com/vi/_aoUQPVUtkY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_aoUQPVUtkY",
-        "publishedAt": "2026-05-05T16:01:02+00:00"
-      },
-      {
-        "title": "On répond en vocal à des commentaires méchants et promis on insulte personne",
+        "title": "À 2 doigts d’avoir le 06 de Carlito…",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "xFCGmjQlvZw",
-        "thumbnail": "https://i.ytimg.com/vi/xFCGmjQlvZw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xFCGmjQlvZw",
-        "publishedAt": "2026-05-05T15:22:30+00:00"
+        "videoId": "yuNY_P2m4iI",
+        "thumbnail": "https://i.ytimg.com/vi/yuNY_P2m4iI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yuNY_P2m4iI",
+        "publishedAt": "2026-05-06T15:02:14+00:00"
+      },
+      {
+        "title": "L'UNIFORME À L'ÉCOLE : BONNE OU MAUVAISE IDÉE ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "qB_B3BJ7QCU",
+        "thumbnail": "https://i.ytimg.com/vi/qB_B3BJ7QCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qB_B3BJ7QCU",
+        "publishedAt": "2026-05-06T15:01:38+00:00"
+      },
+      {
+        "title": "Maurice : attention au visa premium",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "9fn79jnrdHM",
+        "thumbnail": "https://i.ytimg.com/vi/9fn79jnrdHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9fn79jnrdHM",
+        "publishedAt": "2026-05-06T14:00:23+00:00"
+      },
+      {
+        "title": "Ce que Sam Altman vous cache derrière les vrais chiffres d'OpenAI !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "N52W8GRnCXs",
+        "thumbnail": "https://i.ytimg.com/vi/N52W8GRnCXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N52W8GRnCXs",
+        "publishedAt": "2026-05-06T06:30:10+00:00"
       },
       {
         "title": "Des potes, et un potager ! #20",
@@ -139,7 +147,7 @@
       {
         "title": "Super Mario Galaxy, le film",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+        "poster": "https://image.tmdb.org/t/p/w342/88ILztKnMgOCv2NcS5zWL61qQ2.jpg",
         "url": "https://www.themoviedb.org/movie/1226863"
       },
       {
@@ -155,10 +163,10 @@
         "url": "https://www.themoviedb.org/movie/1314481"
       },
       {
-        "title": "They Will Kill You",
+        "title": "The Drama",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-        "url": "https://www.themoviedb.org/movie/1292695"
+        "poster": "https://image.tmdb.org/t/p/w342/37r0FZuv9OAQgMApDoJ8gvd5LWs.jpg",
+        "url": "https://www.themoviedb.org/movie/1325734"
       },
       {
         "title": "Mortal Kombat II",
@@ -187,78 +195,78 @@
   "hackernews": {
     "items": [
       {
-        "title": ".de TLD hors ligne en raison de DNSSEC ?",
-        "titleOriginal": ".de TLD offline due to DNSSEC?",
-        "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
-        "source": "dnssec-analyzer.verisignlabs.com",
-        "score": 475,
-        "comments": 203,
-        "hnUrl": "https://news.ycombinator.com/item?id=48027897",
-        "date": "il y a 3 h"
+        "title": "Show HN : Red Squares – GitHub outages as contributions",
+        "titleOriginal": "Show HN: Red Squares – GitHub outages as contributions",
+        "url": "https://red-squares.cian.lol/",
+        "source": "red-squares.cian.lol",
+        "score": 659,
+        "comments": 146,
+        "hnUrl": "https://news.ycombinator.com/item?id=48034587",
+        "date": "il y a 5 h"
       },
       {
-        "title": "Accélération de Gemma 4 : inférence plus rapide avec les rédacteurs de prédiction multi-jetons",
-        "titleOriginal": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-        "source": "blog.google",
-        "score": 406,
-        "comments": 180,
-        "hnUrl": "https://news.ycombinator.com/item?id=48024540",
-        "date": "il y a 7 h"
+        "title": "Certains enfants contournent les contrôles de vérification de l'âge avec une fausse moustache",
+        "titleOriginal": "Some kids are bypassing age verification checks with a fake mustache",
+        "url": "https://techcrunch.com/2026/05/06/some-kids-are-bypassing-age-verification-checks-with-a-fake-mustache/",
+        "source": "techcrunch.com",
+        "score": 13,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48037465",
+        "date": "il y a 17 min"
       },
       {
-        "title": "L'utilisation de l'ordinateur est 45 fois plus coûteuse que les API structurées",
-        "titleOriginal": "Computer Use is 45x more expensive than structured APIs",
-        "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
-        "source": "reflex.dev",
-        "score": 270,
-        "comments": 136,
-        "hnUrl": "https://news.ycombinator.com/item?id=48024859",
-        "date": "il y a 7 h"
+        "title": "Le goulot d'étranglement n'a jamais été le code",
+        "titleOriginal": "The bottleneck was never the code",
+        "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+        "source": "thetypicalset.com",
+        "score": 253,
+        "comments": 175,
+        "hnUrl": "https://news.ycombinator.com/item?id=48006967",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Écrivez un logiciel, donnez-le gratuitement",
-        "titleOriginal": "Write some software, give it away for free",
-        "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-        "source": "nonogra.ph",
-        "score": 80,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=48028842",
-        "date": "il y a 2 h"
+        "title": "Le codage vibratoire et l'ingénierie agentique se rapprochent plus que je ne le souhaiterais",
+        "titleOriginal": "Vibe coding and agentic engineering are getting closer than I'd like",
+        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+        "source": "simonwillison.net",
+        "score": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48037128",
+        "date": "il y a 47 min"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260504",
+    "resultsDate": "20260505",
     "results": [
       {
-        "id": "401871159",
-        "date": "2026-05-05T00:00Z",
+        "id": "401871333",
+        "date": "2026-05-05T23:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 137,
-          "record": "53-29",
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 111,
+          "record": "60-22",
           "winner": true
         },
         "away": {
-          "id": "20",
-          "abbr": "PHI",
-          "name": "76ers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-          "score": 98,
-          "record": "45-37",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 101,
+          "record": "52-30",
           "winner": false
         },
         "series": {
-          "summary": "NY leads series 1-0",
+          "summary": "DET leads series 1-0",
           "completed": false,
           "round": "East Semifinals - Game 1",
           "winsHome": 1,
@@ -266,42 +274,82 @@
         }
       },
       {
-        "id": "401871152",
-        "date": "2026-05-05T01:30Z",
+        "id": "401871326",
+        "date": "2026-05-06T00:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 102,
-          "record": "62-20",
-          "winner": false
-        },
-        "away": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 104,
-          "record": "49-33",
+          "id": "25",
+          "abbr": "OKC",
+          "name": "Thunder",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+          "score": 108,
+          "record": "64-18",
           "winner": true
         },
+        "away": {
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 90,
+          "record": "53-29",
+          "winner": false
+        },
         "series": {
-          "summary": "MIN leads series 1-0",
+          "summary": "OKC leads series 1-0",
           "completed": false,
           "round": "West Semifinals - Game 1",
-          "winsHome": 0,
-          "winsAway": 1
+          "winsHome": 1,
+          "winsAway": 0
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+          },
+          "teamAway": {
+            "abbr": "MIN",
+            "name": "Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+          },
+          "winsHome": 0,
+          "winsAway": 1,
+          "summary": "MIN leads series 1-0",
+          "completed": false,
+          "round": "West Semifinals - Game 2",
+          "roundLabel": "Ouest · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-07T01:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+          },
+          "teamAway": {
+            "abbr": "PHI",
+            "name": "76ers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+          },
+          "winsHome": 1,
+          "winsAway": 0,
+          "summary": "NY leads series 1-0",
+          "completed": false,
+          "round": "East Semifinals - Game 2",
+          "roundLabel": "Est · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-06T23:00Z"
+        },
         {
           "teamHome": {
             "abbr": "OKC",
@@ -313,9 +361,9 @@
             "name": "Lakers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
           },
-          "winsHome": 0,
+          "winsHome": 1,
           "winsAway": 0,
-          "summary": "Series starts 5/5",
+          "summary": "OKC leads series 1-0",
           "completed": false,
           "round": "West Semifinals - Game 1",
           "roundLabel": "Ouest · Finales NBA",
@@ -333,54 +381,14 @@
             "name": "Cavaliers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
           },
-          "winsHome": 0,
+          "winsHome": 1,
           "winsAway": 0,
-          "summary": null,
+          "summary": "DET leads series 1-0",
           "completed": false,
           "round": "East Semifinals - Game 1",
           "roundLabel": "Est · Finales NBA",
           "roundOrder": 4,
           "lastDate": "2026-05-05T23:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "teamAway": {
-            "abbr": "MIN",
-            "name": "Timberwolves",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-          },
-          "winsHome": 0,
-          "winsAway": 1,
-          "summary": "MIN leads series 1-0",
-          "completed": false,
-          "round": "West Semifinals - Game 1",
-          "roundLabel": "Ouest · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-05T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-          },
-          "teamAway": {
-            "abbr": "PHI",
-            "name": "76ers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-          },
-          "winsHome": 1,
-          "winsAway": 0,
-          "summary": "NY leads series 1-0",
-          "completed": false,
-          "round": "East Semifinals - Game 1",
-          "roundLabel": "Est · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-05T00:00Z"
         },
         {
           "teamHome": {
