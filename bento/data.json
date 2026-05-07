@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-07T16:26:50.280Z",
+  "updatedAt": "2026-05-07T20:49:15.504Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 61,
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 2,
       "wind": 4,
-      "humidity": 56
+      "humidity": 80
     },
     "forecast": [
       {
@@ -37,20 +37,37 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "A Fox Tale",
+        "viewers": 85,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "TOUT CE QUE VOUS NE SAVIEZ PAS SUR L’ÉLECTRICITÉ... CHARGER SON IPHONE COMBIEN ÇA COÛTE RÉELLEMENT ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "W9dbkpuV13U",
+        "thumbnail": "https://i.ytimg.com/vi/W9dbkpuV13U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W9dbkpuV13U",
+        "publishedAt": "2026-05-07T17:42:17+00:00"
+      },
       {
         "title": "On devine 41 fromages avec Max et Elian et Carlito n’a pas trouvé le camembert",
         "channel": "Mcfly et Carlito",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/H3qHmXrPyYs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=H3qHmXrPyYs",
         "publishedAt": "2026-05-07T15:44:36+00:00"
-      },
-      {
-        "title": "LE RACISME DE CE PROFESSEUR L’A CHOQUÉE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "_qLNmIuT4Rs",
-        "thumbnail": "https://i.ytimg.com/vi/_qLNmIuT4Rs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_qLNmIuT4Rs",
-        "publishedAt": "2026-05-07T15:00:59+00:00"
       },
       {
         "title": "L’escrologie détruit la classe moyenne ?",
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La carte qui permet à Burning Man de rester honnête",
-        "titleOriginal": "The map that keeps Burning Man honest",
-        "url": "https://www.not-ship.com/burning-man-moop/",
-        "source": "not-ship.com",
-        "score": 241,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=48049653",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "AlphaEvolve : impact de mise à l'échelle de l'agent de codage alimenté par Gemini dans tous les domaines",
-        "titleOriginal": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-        "url": "https://deepmind.google/blog/alphaevolve-impact/",
-        "source": "deepmind.google",
-        "score": 78,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=48050278",
+        "title": "Dirtyfrag : Universal Linux LPE",
+        "titleOriginal": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "source": "openwall.com",
+        "score": 104,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48053623",
         "date": "il y a 1 h"
       },
       {
-        "title": "Les mariages d'enfants ont chuté lorsque les filles sont restées à l'école au Nigeria",
-        "titleOriginal": "Child marriages plunged when girls stayed in school in Nigeria",
-        "url": "https://www.nature.com/articles/d41586-026-00796-2",
-        "source": "nature.com",
-        "score": 136,
-        "comments": 75,
-        "hnUrl": "https://news.ycombinator.com/item?id=48049208",
-        "date": "il y a 2 h"
+        "title": "La carte MOOP de Burning Man",
+        "titleOriginal": "The Burning Man MOOP Map",
+        "url": "https://www.not-ship.com/burning-man-moop/",
+        "source": "not-ship.com",
+        "score": 457,
+        "comments": 220,
+        "hnUrl": "https://news.ycombinator.com/item?id=48049653",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Les autorités disent que les données des caméras Flock auraient été utilisées pour l'application de la loi sur l'immigration",
-        "titleOriginal": "Authorities say Flock cameras' data allegedly used for immigration enforcement",
-        "url": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
-        "source": "ohio.news",
-        "score": 17,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48051080",
-        "date": "il y a 21 min"
+        "title": "Les agents ont besoin de contrôler le flux, pas plus d'invites",
+        "titleOriginal": "Agents need control flow, not more prompts",
+        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+        "source": "bsuh.bearblog.dev",
+        "score": 184,
+        "comments": 92,
+        "hnUrl": "https://news.ycombinator.com/item?id=48051562",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Autoencodeurs en langage naturel : transformer les pensées de Claude en texte",
+        "titleOriginal": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+        "source": "anthropic.com",
+        "score": 92,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48052537",
+        "date": "il y a 2 h"
       }
     ]
   },
