@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-05-07T09:44:55.320Z",
+  "updatedAt": "2026-05-07T16:26:50.280Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 11,
-      "code": 3,
-      "wind": 6,
-      "humidity": 76
+      "temp": 15,
+      "feelsLike": 14,
+      "code": 61,
+      "wind": 4,
+      "humidity": 56
     },
     "forecast": [
       {
         "date": "2026-05-07",
-        "code": 61,
+        "code": 80,
         "tmax": 16,
         "tmin": 9
       },
@@ -20,18 +20,18 @@
         "date": "2026-05-08",
         "code": 45,
         "tmax": 20,
-        "tmin": 9
+        "tmin": 7
       },
       {
         "date": "2026-05-09",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 9
       },
       {
         "date": "2026-05-10",
         "code": 95,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 12
       }
     ]
@@ -52,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "PROF : “LES ÉCRANS RENDENT LES ÉLÈVES VIOLENTS”",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "LE42MZlCMJs",
-        "thumbnail": "https://i.ytimg.com/vi/LE42MZlCMJs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LE42MZlCMJs",
-        "publishedAt": "2026-05-07T09:00:23+00:00"
-      },
-      {
-        "title": "Pourquoi Maurice plutôt que Dubaï ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "IgnlJEqwDH4",
-        "thumbnail": "https://i.ytimg.com/vi/IgnlJEqwDH4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IgnlJEqwDH4",
-        "publishedAt": "2026-05-07T04:56:25+00:00"
-      },
-      {
-        "title": "À 2 doigts d’avoir le 06 de Carlito…",
+        "title": "On devine 41 fromages avec Max et Elian et Carlito n’a pas trouvé le camembert",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "yuNY_P2m4iI",
-        "thumbnail": "https://i.ytimg.com/vi/yuNY_P2m4iI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yuNY_P2m4iI",
-        "publishedAt": "2026-05-06T15:02:14+00:00"
+        "videoId": "H3qHmXrPyYs",
+        "thumbnail": "https://i.ytimg.com/vi/H3qHmXrPyYs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H3qHmXrPyYs",
+        "publishedAt": "2026-05-07T15:44:36+00:00"
+      },
+      {
+        "title": "LE RACISME DE CE PROFESSEUR L’A CHOQUÉE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "_qLNmIuT4Rs",
+        "thumbnail": "https://i.ytimg.com/vi/_qLNmIuT4Rs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_qLNmIuT4Rs",
+        "publishedAt": "2026-05-07T15:00:59+00:00"
+      },
+      {
+        "title": "L’escrologie détruit la classe moyenne ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OMQ9XDxB8k4",
+        "thumbnail": "https://i.ytimg.com/vi/OMQ9XDxB8k4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OMQ9XDxB8k4",
+        "publishedAt": "2026-05-07T10:00:41+00:00"
       },
       {
         "title": "Ce que Sam Altman vous cache derrière les vrais chiffres d'OpenAI !",
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Valve publie des fichiers CAO Steam Controller sous licence Creative Commons",
-        "titleOriginal": "Valve releases Steam Controller CAD files under Creative Commons license",
-        "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
-        "source": "digitalfoundry.net",
-        "score": 1420,
-        "comments": 446,
-        "hnUrl": "https://news.ycombinator.com/item?id=48037555",
-        "date": "il y a 18 h"
+        "title": "La carte qui permet à Burning Man de rester honnête",
+        "titleOriginal": "The map that keeps Burning Man honest",
+        "url": "https://www.not-ship.com/burning-man-moop/",
+        "source": "not-ship.com",
+        "score": 241,
+        "comments": 77,
+        "hnUrl": "https://news.ycombinator.com/item?id=48049653",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Apparaître productif sur le lieu de travail",
-        "titleOriginal": "Appearing productive in the workplace",
-        "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
-        "source": "nooneshappy.com",
-        "score": 1147,
-        "comments": 432,
-        "hnUrl": "https://news.ycombinator.com/item?id=48038001",
-        "date": "il y a 17 h"
+        "title": "AlphaEvolve : impact de mise à l'échelle de l'agent de codage alimenté par Gemini dans tous les domaines",
+        "titleOriginal": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+        "url": "https://deepmind.google/blog/alphaevolve-impact/",
+        "source": "deepmind.google",
+        "score": 78,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=48050278",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Principes de Permacomputing",
-        "titleOriginal": "Permacomputing Principles",
-        "url": "https://permacomputing.net/principles/",
-        "source": "permacomputing.net",
-        "score": 141,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=48044638",
-        "date": "il y a 7 h"
+        "title": "Les mariages d'enfants ont chuté lorsque les filles sont restées à l'école au Nigeria",
+        "titleOriginal": "Child marriages plunged when girls stayed in school in Nigeria",
+        "url": "https://www.nature.com/articles/d41586-026-00796-2",
+        "source": "nature.com",
+        "score": 136,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=48049208",
+        "date": "il y a 2 h"
       },
       {
-        "title": "SQLite est un format de stockage recommandé par la Bibliothèque du Congrès",
-        "titleOriginal": "SQLite Is a Library of Congress Recommended Storage Format",
-        "url": "https://sqlite.org/locrsf.html",
-        "source": "sqlite.org",
-        "score": 247,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=48042434",
-        "date": "il y a 11 h"
+        "title": "Les autorités disent que les données des caméras Flock auraient été utilisées pour l'application de la loi sur l'immigration",
+        "titleOriginal": "Authorities say Flock cameras' data allegedly used for immigration enforcement",
+        "url": "https://www.ohio.news/stories/dayton-authorities-say-that-flock-cameras-data-allegedly-used-for-immigration-enforcement/",
+        "source": "ohio.news",
+        "score": 17,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48051080",
+        "date": "il y a 21 min"
       }
     ]
   },
