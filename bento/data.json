@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-06T23:36:58.058Z",
+  "updatedAt": "2026-05-07T09:44:55.320Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
+      "temp": 13,
+      "feelsLike": 11,
       "code": 3,
-      "wind": 7,
-      "humidity": 92
+      "wind": 6,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-05-08",
         "code": 45,
         "tmax": 20,
-        "tmin": 7
+        "tmin": 9
       },
       {
         "date": "2026-05-09",
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-05-10",
-        "code": 3,
+        "code": 95,
         "tmax": 22,
         "tmin": 12
       }
@@ -52,13 +52,49 @@
   "youtube": {
     "videos": [
       {
-        "title": "L'UNIFORME À L'ÉCOLE : BONNE OU MAUVAISE IDÉE ?",
+        "title": "PROF : “LES ÉCRANS RENDENT LES ÉLÈVES VIOLENTS”",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "qB_B3BJ7QCU",
-        "thumbnail": "https://i.ytimg.com/vi/qB_B3BJ7QCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qB_B3BJ7QCU",
-        "publishedAt": "2026-05-06T15:01:38+00:00"
+        "videoId": "LE42MZlCMJs",
+        "thumbnail": "https://i.ytimg.com/vi/LE42MZlCMJs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LE42MZlCMJs",
+        "publishedAt": "2026-05-07T09:00:23+00:00"
+      },
+      {
+        "title": "Pourquoi Maurice plutôt que Dubaï ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "IgnlJEqwDH4",
+        "thumbnail": "https://i.ytimg.com/vi/IgnlJEqwDH4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IgnlJEqwDH4",
+        "publishedAt": "2026-05-07T04:56:25+00:00"
+      },
+      {
+        "title": "À 2 doigts d’avoir le 06 de Carlito…",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "yuNY_P2m4iI",
+        "thumbnail": "https://i.ytimg.com/vi/yuNY_P2m4iI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yuNY_P2m4iI",
+        "publishedAt": "2026-05-06T15:02:14+00:00"
+      },
+      {
+        "title": "Ce que Sam Altman vous cache derrière les vrais chiffres d'OpenAI !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "N52W8GRnCXs",
+        "thumbnail": "https://i.ytimg.com/vi/N52W8GRnCXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=N52W8GRnCXs",
+        "publishedAt": "2026-05-06T06:30:10+00:00"
+      },
+      {
+        "title": "Des potes, et un potager ! #20",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "GI6v9vFEnBA",
+        "thumbnail": "https://i.ytimg.com/vi/GI6v9vFEnBA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GI6v9vFEnBA",
+        "publishedAt": "2026-05-03T16:18:01+00:00"
       },
       {
         "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
@@ -155,117 +191,157 @@
         "titleOriginal": "Valve releases Steam Controller CAD files under Creative Commons license",
         "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
         "source": "digitalfoundry.net",
-        "score": 937,
-        "comments": 317,
+        "score": 1420,
+        "comments": 446,
         "hnUrl": "https://news.ycombinator.com/item?id=48037555",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Les entreprises britanniques se préparent au rationnement du kérosène",
-        "titleOriginal": "UK businesses brace for jet fuel rationing",
-        "url": "https://bmmagazine.co.uk/news/uk-jet-fuel-shortage-rationing-goldman-sachs-warning/",
-        "source": "bmmagazine.co.uk",
-        "score": 43,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48042918",
-        "date": "il y a 48 min"
+        "date": "il y a 18 h"
       },
       {
         "title": "Apparaître productif sur le lieu de travail",
         "titleOriginal": "Appearing productive in the workplace",
         "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
         "source": "nooneshappy.com",
-        "score": 607,
-        "comments": 236,
+        "score": 1147,
+        "comments": 432,
         "hnUrl": "https://news.ycombinator.com/item?id=48038001",
+        "date": "il y a 17 h"
+      },
+      {
+        "title": "Principes de Permacomputing",
+        "titleOriginal": "Permacomputing Principles",
+        "url": "https://permacomputing.net/principles/",
+        "source": "permacomputing.net",
+        "score": 141,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=48044638",
         "date": "il y a 7 h"
       },
       {
-        "title": "Le codage vibratoire et l'ingénierie agentique se rapprochent plus que je ne le souhaiterais",
-        "titleOriginal": "Vibe coding and agentic engineering are getting closer than I'd like",
-        "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-        "source": "simonwillison.net",
-        "score": 321,
-        "comments": 343,
-        "hnUrl": "https://news.ycombinator.com/item?id=48037128",
-        "date": "il y a 8 h"
+        "title": "SQLite est un format de stockage recommandé par la Bibliothèque du Congrès",
+        "titleOriginal": "SQLite Is a Library of Congress Recommended Storage Format",
+        "url": "https://sqlite.org/locrsf.html",
+        "source": "sqlite.org",
+        "score": 247,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48042434",
+        "date": "il y a 11 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260505",
+    "resultsDate": "20260506",
     "results": [
       {
-        "id": "401871333",
-        "date": "2026-05-05T23:00Z",
+        "id": "401871160",
+        "date": "2026-05-06T23:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "8",
-          "abbr": "DET",
-          "name": "Pistons",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-          "score": 111,
-          "record": "60-22",
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 108,
+          "record": "53-29",
           "winner": true
         },
         "away": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 101,
-          "record": "52-30",
+          "id": "20",
+          "abbr": "PHI",
+          "name": "76ers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+          "score": 102,
+          "record": "45-37",
           "winner": false
         },
         "series": {
-          "summary": "DET leads series 1-0",
+          "summary": "NY leads series 2-0",
           "completed": false,
-          "round": "East Semifinals - Game 1",
-          "winsHome": 1,
+          "round": "East Semifinals - Game 2",
+          "winsHome": 2,
           "winsAway": 0
         }
       },
       {
-        "id": "401871326",
-        "date": "2026-05-06T00:30Z",
+        "id": "401871153",
+        "date": "2026-05-07T01:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 108,
-          "record": "64-18",
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 133,
+          "record": "62-20",
           "winner": true
         },
         "away": {
-          "id": "13",
-          "abbr": "LAL",
-          "name": "Lakers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-          "score": 90,
-          "record": "53-29",
+          "id": "16",
+          "abbr": "MIN",
+          "name": "Timberwolves",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+          "score": 95,
+          "record": "49-33",
           "winner": false
         },
         "series": {
-          "summary": "OKC leads series 1-0",
+          "summary": "Series tied 1-1",
           "completed": false,
-          "round": "West Semifinals - Game 1",
+          "round": "West Semifinals - Game 2",
           "winsHome": 1,
-          "winsAway": 0
+          "winsAway": 1
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "OKC",
+            "name": "Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+          },
+          "teamAway": {
+            "abbr": "LAL",
+            "name": "Lakers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
+          },
+          "winsHome": 1,
+          "winsAway": 0,
+          "summary": "OKC leads series 1-0",
+          "completed": false,
+          "round": "West Semifinals - Game 2",
+          "roundLabel": "Ouest · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-08T01:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "DET",
+            "name": "Pistons",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
+          },
+          "teamAway": {
+            "abbr": "CLE",
+            "name": "Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+          },
+          "winsHome": 1,
+          "winsAway": 0,
+          "summary": "DET leads series 1-0",
+          "completed": false,
+          "round": "East Semifinals - Game 2",
+          "roundLabel": "Est · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-07T23:00Z"
+        },
         {
           "teamHome": {
             "abbr": "SA",
@@ -277,9 +353,9 @@
             "name": "Timberwolves",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
           },
-          "winsHome": 0,
+          "winsHome": 1,
           "winsAway": 1,
-          "summary": "MIN leads series 1-0",
+          "summary": "Series tied 1-1",
           "completed": false,
           "round": "West Semifinals - Game 2",
           "roundLabel": "Ouest · Finales NBA",
@@ -297,54 +373,14 @@
             "name": "76ers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
           },
-          "winsHome": 1,
+          "winsHome": 2,
           "winsAway": 0,
-          "summary": "NY leads series 1-0",
+          "summary": "NY leads series 2-0",
           "completed": false,
           "round": "East Semifinals - Game 2",
           "roundLabel": "Est · Finales NBA",
           "roundOrder": 4,
           "lastDate": "2026-05-06T23:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "OKC",
-            "name": "Thunder",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-          },
-          "teamAway": {
-            "abbr": "LAL",
-            "name": "Lakers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
-          },
-          "winsHome": 1,
-          "winsAway": 0,
-          "summary": "OKC leads series 1-0",
-          "completed": false,
-          "round": "West Semifinals - Game 1",
-          "roundLabel": "Ouest · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-06T00:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "DET",
-            "name": "Pistons",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
-          },
-          "teamAway": {
-            "abbr": "CLE",
-            "name": "Cavaliers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-          },
-          "winsHome": 1,
-          "winsAway": 0,
-          "summary": "DET leads series 1-0",
-          "completed": false,
-          "round": "East Semifinals - Game 1",
-          "roundLabel": "Est · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-05T23:00Z"
         },
         {
           "teamHome": {
