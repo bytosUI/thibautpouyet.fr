@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-05-08T16:02:07.979Z",
+  "updatedAt": "2026-05-08T20:16:13.239Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
-      "code": 1,
-      "wind": 4,
-      "humidity": 41
+      "temp": 15,
+      "feelsLike": 14,
+      "code": 0,
+      "wind": 7,
+      "humidity": 70
     },
     "forecast": [
       {
         "date": "2026-05-08",
         "code": 45,
-        "tmax": 20,
+        "tmax": 21,
         "tmin": 6
       },
       {
@@ -24,20 +24,29 @@
       },
       {
         "date": "2026-05-10",
-        "code": 80,
-        "tmax": 22,
+        "code": 95,
+        "tmax": 24,
         "tmin": 12
       },
       {
         "date": "2026-05-11",
-        "code": 61,
+        "code": 63,
         "tmax": 14,
         "tmin": 7
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 79,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,12 +54,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Ce jeu est génial (ft @MaximeBiaggi @elianventre)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "TCX-Yw6VW88",
+        "thumbnail": "https://i.ytimg.com/vi/TCX-Yw6VW88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TCX-Yw6VW88",
+        "publishedAt": "2026-05-08T15:49:48+00:00"
+      },
       {
         "title": "L'EXPÉRIENCE LA PLUS DANGEREUSE DE L'ÉMISSION AVEC DE L'ÉLECTRICITÉ !",
         "channel": "LEGEND",
@@ -68,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/kQXx6e8cANE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kQXx6e8cANE",
         "publishedAt": "2026-05-08T12:01:29+00:00"
-      },
-      {
-        "title": "On devine 41 fromages avec Max et Elian et Carlito n’a pas trouvé le camembert",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "H3qHmXrPyYs",
-        "thumbnail": "https://i.ytimg.com/vi/H3qHmXrPyYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H3qHmXrPyYs",
-        "publishedAt": "2026-05-07T15:44:36+00:00"
       },
       {
         "title": "Ce que Sam Altman vous cache derrière les vrais chiffres d'OpenAI !",
@@ -187,43 +195,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "La Pologne fait maintenant partie des 20 plus grandes économies. Comment c'est arrivé",
-        "titleOriginal": "Poland is now among the 20 largest economies. How it happened",
-        "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
-        "source": "apnews.com",
-        "score": 524,
-        "comments": 441,
-        "hnUrl": "https://news.ycombinator.com/item?id=48062117",
-        "date": "il y a 3 h"
+        "title": "Permet de chiffrer l'arrêt de l'émission en cas d'incident potentiel",
+        "titleOriginal": "Lets Encrypt Stopping Issuance for Potential Incident",
+        "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
+        "source": "letsencrypt.status.io",
+        "score": 78,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48067790",
+        "date": "il y a 30 min"
       },
       {
-        "title": "Servir un site Web sur un Raspberry Pi Zero fonctionnant en RAM",
-        "titleOriginal": "Serving a Website on a Raspberry Pi Zero Running in RAM",
-        "url": "https://btxx.org/posts/memory/",
-        "source": "btxx.org",
-        "score": 28,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48064312",
-        "date": "il y a 51 min"
+        "title": "Google Cloud Fraud Defence est juste reconditionné par WEI",
+        "titleOriginal": "Google Cloud Fraud Defence is just WEI repackaged",
+        "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+        "source": "privatecaptcha.com",
+        "score": 531,
+        "comments": 256,
+        "hnUrl": "https://news.ycombinator.com/item?id=48063199",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Une introduction au Meshtastic",
-        "titleOriginal": "An Introduction to Meshtastic",
-        "url": "https://meshtastic.org/docs/introduction/",
-        "source": "meshtastic.org",
-        "score": 184,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=48061566",
-        "date": "il y a 4 h"
+        "title": "L'IA brise deux cultures de vulnérabilité",
+        "titleOriginal": "AI Is Breaking Two Vulnerability Cultures",
+        "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+        "source": "jefftk.com",
+        "score": 79,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48066524",
+        "date": "il y a 2 h"
       },
       {
-        "title": "PC",
-        "titleOriginal": "PC Engine CPU",
-        "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
-        "source": "jsgroth.dev",
-        "score": 42,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48063521",
+        "title": "Ce que nous avons perdu la dernière fois que le code est devenu bon marché",
+        "titleOriginal": "What we lost the last time code got cheap",
+        "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
+        "source": "poppastring.com",
+        "score": 44,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48067197",
         "date": "il y a 1 h"
       }
     ]
