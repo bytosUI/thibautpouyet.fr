@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-08T10:57:15.510Z",
+  "updatedAt": "2026-05-08T16:02:07.979Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
-      "code": 3,
-      "wind": 9,
-      "humidity": 51
+      "temp": 20,
+      "feelsLike": 19,
+      "code": 1,
+      "wind": 4,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-05-09",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 10
       },
       {
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "TOUR EIFFEL, IPHONE, FRIGO... COMBIEN ÇA COÛTE EN ÉLECTRICITÉ ?",
+        "title": "L'EXPÉRIENCE LA PLUS DANGEREUSE DE L'ÉMISSION AVEC DE L'ÉLECTRICITÉ !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "ZmrdUzQJfuw",
-        "thumbnail": "https://i.ytimg.com/vi/ZmrdUzQJfuw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZmrdUzQJfuw",
-        "publishedAt": "2026-05-08T10:01:04+00:00"
+        "videoId": "dwOiMrjpOxI",
+        "thumbnail": "https://i.ytimg.com/vi/dwOiMrjpOxI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dwOiMrjpOxI",
+        "publishedAt": "2026-05-08T13:01:24+00:00"
       },
       {
-        "title": "Les avocats seront-ils remplacés ?",
+        "title": "Claude Code est-il déjà dépassé ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "DL8Lhrv6yI8",
-        "thumbnail": "https://i.ytimg.com/vi/DL8Lhrv6yI8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DL8Lhrv6yI8",
-        "publishedAt": "2026-05-08T07:46:25+00:00"
+        "videoId": "kQXx6e8cANE",
+        "thumbnail": "https://i.ytimg.com/vi/kQXx6e8cANE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kQXx6e8cANE",
+        "publishedAt": "2026-05-08T12:01:29+00:00"
       },
       {
         "title": "On devine 41 fromages avec Max et Elian et Carlito n’a pas trouvé le camembert",
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Canvas est en panne car ShinyHunters menace de divulguer les données des écoles",
-        "titleOriginal": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-        "source": "theverge.com",
-        "score": 669,
-        "comments": 412,
-        "hnUrl": "https://news.ycombinator.com/item?id=48055913",
-        "date": "il y a 12 h"
+        "title": "La Pologne fait maintenant partie des 20 plus grandes économies. Comment c'est arrivé",
+        "titleOriginal": "Poland is now among the 20 largest economies. How it happened",
+        "url": "https://apnews.com/article/poland-economy-growth-g20-gdp-26fe06e120398410f8d773ba5661e7aa",
+        "source": "apnews.com",
+        "score": 524,
+        "comments": 441,
+        "hnUrl": "https://news.ycombinator.com/item?id=48062117",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Cloudflare va réduire ses effectifs d'environ 20 %",
-        "titleOriginal": "Cloudflare to cut about 20% workforce",
-        "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
-        "source": "reuters.com",
-        "score": 792,
-        "comments": 522,
-        "hnUrl": "https://news.ycombinator.com/item?id=48054423",
-        "date": "il y a 14 h"
+        "title": "Servir un site Web sur un Raspberry Pi Zero fonctionnant en RAM",
+        "titleOriginal": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+        "url": "https://btxx.org/posts/memory/",
+        "source": "btxx.org",
+        "score": 28,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48064312",
+        "date": "il y a 51 min"
       },
       {
-        "title": "Peut-être que vous ne devriez pas installer un nouveau logiciel pendant un moment",
-        "titleOriginal": "Maybe you shouldn't install new software for a bit",
-        "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
-        "source": "xeiaso.net",
-        "score": 556,
-        "comments": 298,
-        "hnUrl": "https://news.ycombinator.com/item?id=48056227",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Nintendo annonce des augmentations de prix pour la Nintendo Switch 2",
-        "titleOriginal": "Nintendo announces price increases for Nintendo Switch 2",
-        "url": "https://www.nintendo.co.jp/corporate/release/en/2026/260508.html",
-        "source": "nintendo.co.jp",
-        "score": 37,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48059606",
+        "title": "Une introduction au Meshtastic",
+        "titleOriginal": "An Introduction to Meshtastic",
+        "url": "https://meshtastic.org/docs/introduction/",
+        "source": "meshtastic.org",
+        "score": 184,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=48061566",
         "date": "il y a 4 h"
+      },
+      {
+        "title": "PC",
+        "titleOriginal": "PC Engine CPU",
+        "url": "https://jsgroth.dev/blog/posts/pc-engine-cpu/",
+        "source": "jsgroth.dev",
+        "score": 42,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48063521",
+        "date": "il y a 1 h"
       }
     ]
   },
