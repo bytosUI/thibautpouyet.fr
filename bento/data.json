@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-05-08T00:06:28.496Z",
+  "updatedAt": "2026-05-08T06:24:26.646Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 11,
-      "code": 3,
-      "wind": 2,
-      "humidity": 87
+      "temp": 8,
+      "feelsLike": 8,
+      "code": 1,
+      "wind": 1,
+      "humidity": 94
     },
     "forecast": [
       {
         "date": "2026-05-08",
-        "code": 3,
-        "tmax": 20,
-        "tmin": 9
+        "code": 45,
+        "tmax": 19,
+        "tmin": 6
       },
       {
         "date": "2026-05-09",
         "code": 3,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 9
       },
       {
         "date": "2026-05-10",
-        "code": 80,
-        "tmax": 23,
-        "tmin": 12
+        "code": 95,
+        "tmax": 22,
+        "tmin": 11
       },
       {
         "date": "2026-05-11",
-        "code": 80,
+        "code": 63,
         "tmax": 14,
-        "tmin": 7
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 215,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,93 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "TOUT CE QUE VOUS NE SAVIEZ PAS SUR L’ÉLECTRICITÉ... CHARGER SON IPHONE COMBIEN ÇA COÛTE RÉELLEMENT ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "W9dbkpuV13U",
-        "thumbnail": "https://i.ytimg.com/vi/W9dbkpuV13U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W9dbkpuV13U",
-        "publishedAt": "2026-05-07T17:42:17+00:00"
-      },
-      {
-        "title": "On devine 41 fromages avec Max et Elian et Carlito n’a pas trouvé le camembert",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "H3qHmXrPyYs",
-        "thumbnail": "https://i.ytimg.com/vi/H3qHmXrPyYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H3qHmXrPyYs",
-        "publishedAt": "2026-05-07T15:44:36+00:00"
-      },
-      {
-        "title": "L’escrologie détruit la classe moyenne ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "OMQ9XDxB8k4",
-        "thumbnail": "https://i.ytimg.com/vi/OMQ9XDxB8k4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OMQ9XDxB8k4",
-        "publishedAt": "2026-05-07T10:00:41+00:00"
-      },
-      {
-        "title": "Ce que Sam Altman vous cache derrière les vrais chiffres d'OpenAI !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "N52W8GRnCXs",
-        "thumbnail": "https://i.ytimg.com/vi/N52W8GRnCXs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N52W8GRnCXs",
-        "publishedAt": "2026-05-06T06:30:10+00:00"
-      },
-      {
-        "title": "Des potes, et un potager ! #20",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "GI6v9vFEnBA",
-        "thumbnail": "https://i.ytimg.com/vi/GI6v9vFEnBA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GI6v9vFEnBA",
-        "publishedAt": "2026-05-03T16:18:01+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      },
-      {
-        "title": "RÉNOVER UNE MEZZANINE À MOINDRE COÛT ? - EP27",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "r5IgC-QcEfI",
-        "thumbnail": "https://i.ytimg.com/vi/r5IgC-QcEfI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r5IgC-QcEfI",
-        "publishedAt": "2026-05-03T10:13:08+00:00"
-      },
-      {
-        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "d86srme8IJw",
-        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
-        "publishedAt": "2026-04-28T18:05:29+00:00"
-      },
-      {
-        "title": "Une abonnée découvre une mauvaise surprise dans le container…",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "R4ai3I7ZOtw",
-        "thumbnail": "https://i.ytimg.com/vi/R4ai3I7ZOtw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R4ai3I7ZOtw",
-        "publishedAt": "2026-04-25T11:26:52+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -169,10 +79,10 @@
         "url": "https://www.themoviedb.org/movie/1266127"
       },
       {
-        "title": "The Drama",
+        "title": "Mortal Kombat II",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/37r0FZuv9OAQgMApDoJ8gvd5LWs.jpg",
-        "url": "https://www.themoviedb.org/movie/1325734"
+        "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+        "url": "https://www.themoviedb.org/movie/931285"
       }
     ]
   },
@@ -195,78 +105,78 @@
   "hackernews": {
     "items": [
       {
-        "title": "Dirtyfrag : Universal Linux LPE",
-        "titleOriginal": "Dirtyfrag: Universal Linux LPE",
-        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
-        "source": "openwall.com",
-        "score": 347,
-        "comments": 164,
-        "hnUrl": "https://news.ycombinator.com/item?id=48053623",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Canvas (Instructure) LMS en panne dans une attaque de rançongiciel en cours",
-        "titleOriginal": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+        "title": "Canvas est en panne car ShinyHunters menace de divulguer les données des écoles",
+        "titleOriginal": "Canvas is down as ShinyHunters threatens to leak schools’ data",
         "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
         "source": "theverge.com",
-        "score": 84,
-        "comments": 4,
+        "score": 516,
+        "comments": 332,
         "hnUrl": "https://news.ycombinator.com/item?id=48055913",
-        "date": "il y a 1 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Peut-être que vous ne devriez pas installer un nouveau logiciel pendant un moment",
         "titleOriginal": "Maybe you shouldn't install new software for a bit",
         "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
         "source": "xeiaso.net",
-        "score": 34,
-        "comments": 5,
+        "score": 374,
+        "comments": 169,
         "hnUrl": "https://news.ycombinator.com/item?id=48056227",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "La carte MOOP de Burning Man",
-        "titleOriginal": "The Burning Man MOOP Map",
-        "url": "https://www.not-ship.com/burning-man-moop/",
-        "source": "not-ship.com",
-        "score": 510,
-        "comments": 274,
-        "hnUrl": "https://news.ycombinator.com/item?id=48049653",
+        "title": "Cloudflare va réduire ses effectifs d'environ 20 %",
+        "titleOriginal": "Cloudflare to cut about 20% workforce",
+        "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+        "source": "reuters.com",
+        "score": 536,
+        "comments": 321,
+        "hnUrl": "https://news.ycombinator.com/item?id=48054423",
         "date": "il y a 10 h"
+      },
+      {
+        "title": "Dirtyfrag : Universal Linux LPE",
+        "titleOriginal": "Dirtyfrag: Universal Linux LPE",
+        "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+        "source": "openwall.com",
+        "score": 554,
+        "comments": 224,
+        "hnUrl": "https://news.ycombinator.com/item?id=48053623",
+        "date": "il y a 11 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260506",
+    "resultsDate": "20260507",
     "results": [
       {
-        "id": "401871160",
-        "date": "2026-05-06T23:00Z",
+        "id": "401871334",
+        "date": "2026-05-07T23:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 108,
-          "record": "53-29",
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 107,
+          "record": "60-22",
           "winner": true
         },
         "away": {
-          "id": "20",
-          "abbr": "PHI",
-          "name": "76ers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-          "score": 102,
-          "record": "45-37",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 97,
+          "record": "52-30",
           "winner": false
         },
         "series": {
-          "summary": "NY leads series 2-0",
+          "summary": "DET leads series 2-0",
           "completed": false,
           "round": "East Semifinals - Game 2",
           "winsHome": 2,
@@ -274,42 +184,82 @@
         }
       },
       {
-        "id": "401871153",
-        "date": "2026-05-07T01:30Z",
+        "id": "401871327",
+        "date": "2026-05-08T01:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 133,
-          "record": "62-20",
+          "id": "25",
+          "abbr": "OKC",
+          "name": "Thunder",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+          "score": 125,
+          "record": "64-18",
           "winner": true
         },
         "away": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 95,
-          "record": "49-33",
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 107,
+          "record": "53-29",
           "winner": false
         },
         "series": {
-          "summary": "Series tied 1-1",
+          "summary": "OKC leads series 2-0",
           "completed": false,
           "round": "West Semifinals - Game 2",
-          "winsHome": 1,
-          "winsAway": 1
+          "winsHome": 2,
+          "winsAway": 0
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "MIN",
+            "name": "Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+          },
+          "teamAway": {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+          },
+          "winsHome": 1,
+          "winsAway": 1,
+          "summary": "Series tied 1-1",
+          "completed": false,
+          "round": "West Semifinals - Game 3",
+          "roundLabel": "Ouest · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-09T01:30Z"
+        },
+        {
+          "teamHome": {
+            "abbr": "PHI",
+            "name": "76ers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
+          },
+          "teamAway": {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+          },
+          "winsHome": 0,
+          "winsAway": 2,
+          "summary": "NY leads series 2-0",
+          "completed": false,
+          "round": "East Semifinals - Game 3",
+          "roundLabel": "Est · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-08T23:00Z"
+        },
         {
           "teamHome": {
             "abbr": "OKC",
@@ -321,9 +271,9 @@
             "name": "Lakers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
           },
-          "winsHome": 1,
+          "winsHome": 2,
           "winsAway": 0,
-          "summary": "OKC leads series 1-0",
+          "summary": "OKC leads series 2-0",
           "completed": false,
           "round": "West Semifinals - Game 2",
           "roundLabel": "Ouest · Finales NBA",
@@ -341,214 +291,14 @@
             "name": "Cavaliers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
           },
-          "winsHome": 1,
+          "winsHome": 2,
           "winsAway": 0,
-          "summary": "DET leads series 1-0",
+          "summary": "DET leads series 2-0",
           "completed": false,
           "round": "East Semifinals - Game 2",
           "roundLabel": "Est · Finales NBA",
           "roundOrder": 4,
           "lastDate": "2026-05-07T23:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "teamAway": {
-            "abbr": "MIN",
-            "name": "Timberwolves",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-          },
-          "winsHome": 1,
-          "winsAway": 1,
-          "summary": "Series tied 1-1",
-          "completed": false,
-          "round": "West Semifinals - Game 2",
-          "roundLabel": "Ouest · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-07T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-          },
-          "teamAway": {
-            "abbr": "PHI",
-            "name": "76ers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-          },
-          "winsHome": 2,
-          "winsAway": 0,
-          "summary": "NY leads series 2-0",
-          "completed": false,
-          "round": "East Semifinals - Game 2",
-          "roundLabel": "Est · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-06T23:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "CLE",
-            "name": "Cavaliers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-          },
-          "teamAway": {
-            "abbr": "TOR",
-            "name": "Raptors",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png"
-          },
-          "winsHome": 4,
-          "winsAway": 3,
-          "summary": "CLE wins series 4-3",
-          "completed": true,
-          "round": "East 1st Round - Game 7",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-03T23:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "DET",
-            "name": "Pistons",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
-          },
-          "teamAway": {
-            "abbr": "ORL",
-            "name": "Magic",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png"
-          },
-          "winsHome": 4,
-          "winsAway": 3,
-          "summary": "DET wins series 4-3",
-          "completed": true,
-          "round": "East 1st Round - Game 7",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-03T19:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "BOS",
-            "name": "Celtics",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png"
-          },
-          "teamAway": {
-            "abbr": "PHI",
-            "name": "76ers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png"
-          },
-          "winsHome": 3,
-          "winsAway": 4,
-          "summary": "PHI wins series 4-3",
-          "completed": true,
-          "round": "East 1st Round - Game 7",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-02T23:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "HOU",
-            "name": "Rockets",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png"
-          },
-          "teamAway": {
-            "abbr": "LAL",
-            "name": "Lakers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png"
-          },
-          "winsHome": 2,
-          "winsAway": 4,
-          "summary": "LAL win series 4-2",
-          "completed": true,
-          "round": "West 1st Round - Game 6",
-          "roundLabel": "Ouest · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-02T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "MIN",
-            "name": "Timberwolves",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-          },
-          "teamAway": {
-            "abbr": "DEN",
-            "name": "Nuggets",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png"
-          },
-          "winsHome": 4,
-          "winsAway": 2,
-          "summary": "MIN wins series 4-2",
-          "completed": true,
-          "round": "West 1st Round - Game 6",
-          "roundLabel": "Ouest · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-05-01T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "ATL",
-            "name": "Hawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png"
-          },
-          "teamAway": {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-          },
-          "winsHome": 2,
-          "winsAway": 4,
-          "summary": "NY wins series 4-2",
-          "completed": true,
-          "round": "East 1st Round - Game 6",
-          "roundLabel": "Est · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-04-30T23:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "teamAway": {
-            "abbr": "POR",
-            "name": "Trail Blazers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png"
-          },
-          "winsHome": 4,
-          "winsAway": 1,
-          "summary": "SA wins series 4-1",
-          "completed": true,
-          "round": "West 1st Round - Game 5",
-          "roundLabel": "Ouest · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-04-29T01:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "PHX",
-            "name": "Suns",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png"
-          },
-          "teamAway": {
-            "abbr": "OKC",
-            "name": "Thunder",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-          },
-          "winsHome": 0,
-          "winsAway": 4,
-          "summary": "OKC wins series 4-0",
-          "completed": true,
-          "round": "West 1st Round - Game 4",
-          "roundLabel": "Ouest · 1er tour",
-          "roundOrder": 1,
-          "lastDate": "2026-04-28T01:30Z"
         }
       ]
     }
