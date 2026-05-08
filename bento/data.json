@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-08T20:16:13.239Z",
+  "updatedAt": "2026-05-08T23:40:38.724Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
+      "temp": 12,
+      "feelsLike": 11,
       "code": 0,
-      "wind": 7,
-      "humidity": 70
+      "wind": 3,
+      "humidity": 71
     },
     "forecast": [
-      {
-        "date": "2026-05-08",
-        "code": 45,
-        "tmax": 21,
-        "tmin": 6
-      },
       {
         "date": "2026-05-09",
         "code": 3,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-05-11",
-        "code": 63,
+        "code": 80,
         "tmax": 14,
         "tmin": 7
+      },
+      {
+        "date": "2026-05-12",
+        "code": 3,
+        "tmax": 15,
+        "tmin": 4
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 79,
+        "viewers": 108,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -195,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Permet de chiffrer l'arrêt de l'émission en cas d'incident potentiel",
-        "titleOriginal": "Lets Encrypt Stopping Issuance for Potential Incident",
-        "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/69fe2d6698ca07050eb4b1b3",
-        "source": "letsencrypt.status.io",
-        "score": 78,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48067790",
-        "date": "il y a 30 min"
+        "title": "Google broke reCAPTCHA for de-googled Android users",
+        "titleOriginal": "Google broke reCAPTCHA for de-googled Android users",
+        "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
+        "source": "reclaimthenet.org",
+        "score": 415,
+        "comments": 144,
+        "hnUrl": "https://news.ycombinator.com/item?id=48067119",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Google Cloud Fraud Defence est juste reconditionné par WEI",
-        "titleOriginal": "Google Cloud Fraud Defence is just WEI repackaged",
-        "url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
-        "source": "privatecaptcha.com",
-        "score": 531,
-        "comments": 256,
-        "hnUrl": "https://news.ycombinator.com/item?id=48063199",
-        "date": "il y a 6 h"
+        "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+        "titleOriginal": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+        "url": "https://ze3tar.github.io/post-zcrx.html",
+        "source": "ze3tar.github.io",
+        "score": 100,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=48067734",
+        "date": "il y a 3 h"
       },
       {
-        "title": "L'IA brise deux cultures de vulnérabilité",
-        "titleOriginal": "AI Is Breaking Two Vulnerability Cultures",
+        "title": "AI is breaking two vulnerability cultures",
+        "titleOriginal": "AI is breaking two vulnerability cultures",
         "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
         "source": "jefftk.com",
-        "score": 79,
-        "comments": 33,
+        "score": 190,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=48066524",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Ce que nous avons perdu la dernière fois que le code est devenu bon marché",
-        "titleOriginal": "What we lost the last time code got cheap",
-        "url": "https://www.poppastring.com/blog/what-we-lost-the-last-time-code-got-cheap",
-        "source": "poppastring.com",
-        "score": 44,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48067197",
-        "date": "il y a 1 h"
+        "title": "AWS data center outage hits trading on Fanduel, Coinbase",
+        "titleOriginal": "AWS data center outage hits trading on Fanduel, Coinbase",
+        "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+        "source": "cnbc.com",
+        "score": 25,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48069088",
+        "date": "il y a 2 h"
       }
     ]
   },
