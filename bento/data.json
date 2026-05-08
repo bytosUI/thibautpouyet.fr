@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-05-07T20:49:15.504Z",
+  "updatedAt": "2026-05-08T00:06:28.496Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
-      "code": 2,
-      "wind": 4,
-      "humidity": 80
+      "temp": 11,
+      "feelsLike": 11,
+      "code": 3,
+      "wind": 2,
+      "humidity": 87
     },
     "forecast": [
       {
-        "date": "2026-05-07",
-        "code": 80,
-        "tmax": 16,
-        "tmin": 9
-      },
-      {
         "date": "2026-05-08",
-        "code": 45,
+        "code": 3,
         "tmax": 20,
-        "tmin": 7
+        "tmin": 9
       },
       {
         "date": "2026-05-09",
@@ -30,21 +24,27 @@
       },
       {
         "date": "2026-05-10",
-        "code": 95,
+        "code": 80,
         "tmax": 23,
         "tmin": 12
+      },
+      {
+        "date": "2026-05-11",
+        "code": 80,
+        "tmax": 14,
+        "tmin": 7
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "A Fox Tale",
-        "viewers": 85,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 215,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,8 +53,8 @@
       "hardisk",
       "micode",
       "nowtechteam",
-      "firsteam",
-      "thetangerineclub"
+      "origatwitch",
+      "firsteam"
     ]
   },
   "youtube": {
@@ -181,13 +181,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 6 j",
+        "time": "il y a 1 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 6 j",
+        "time": "il y a 1 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -199,9 +199,29 @@
         "titleOriginal": "Dirtyfrag: Universal Linux LPE",
         "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
         "source": "openwall.com",
-        "score": 104,
-        "comments": 46,
+        "score": 347,
+        "comments": 164,
         "hnUrl": "https://news.ycombinator.com/item?id=48053623",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Canvas (Instructure) LMS en panne dans une attaque de rançongiciel en cours",
+        "titleOriginal": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+        "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+        "source": "theverge.com",
+        "score": 84,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48055913",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Peut-être que vous ne devriez pas installer un nouveau logiciel pendant un moment",
+        "titleOriginal": "Maybe you shouldn't install new software for a bit",
+        "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+        "source": "xeiaso.net",
+        "score": 34,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48056227",
         "date": "il y a 1 h"
       },
       {
@@ -209,30 +229,10 @@
         "titleOriginal": "The Burning Man MOOP Map",
         "url": "https://www.not-ship.com/burning-man-moop/",
         "source": "not-ship.com",
-        "score": 457,
-        "comments": 220,
+        "score": 510,
+        "comments": 274,
         "hnUrl": "https://news.ycombinator.com/item?id=48049653",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Les agents ont besoin de contrôler le flux, pas plus d'invites",
-        "titleOriginal": "Agents need control flow, not more prompts",
-        "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
-        "source": "bsuh.bearblog.dev",
-        "score": 184,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=48051562",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Autoencodeurs en langage naturel : transformer les pensées de Claude en texte",
-        "titleOriginal": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-        "source": "anthropic.com",
-        "score": 92,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48052537",
-        "date": "il y a 2 h"
+        "date": "il y a 10 h"
       }
     ]
   },
