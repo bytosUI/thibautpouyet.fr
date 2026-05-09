@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-09T07:23:07.408Z",
+  "updatedAt": "2026-05-09T10:37:16.730Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
+      "temp": 21,
+      "feelsLike": 21,
       "code": 1,
-      "wind": 10,
-      "humidity": 69
+      "wind": 14,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -18,20 +18,20 @@
       },
       {
         "date": "2026-05-10",
-        "code": 96,
+        "code": 95,
         "tmax": 23,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-05-11",
         "code": 63,
-        "tmax": 14,
+        "tmax": 15,
         "tmin": 7
       },
       {
         "date": "2026-05-12",
         "code": 3,
-        "tmax": 14,
+        "tmax": 15,
         "tmin": 3
       }
     ]
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "BRANCHER UNE MULTIPRISE SUR UNE MULTIPRISE C'EST EXTRÊMEMENT DANGEREUX ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "LA9MGFH0cyw",
+        "thumbnail": "https://i.ytimg.com/vi/LA9MGFH0cyw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LA9MGFH0cyw",
+        "publishedAt": "2026-05-09T10:00:37+00:00"
+      },
+      {
+        "title": "Personne ne te doit une chance",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "WJM65gz6eMg",
+        "thumbnail": "https://i.ytimg.com/vi/WJM65gz6eMg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WJM65gz6eMg",
+        "publishedAt": "2026-05-09T08:05:03+00:00"
+      },
+      {
         "title": "Ce jeu est génial (ft @MaximeBiaggi @elianventre)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -59,24 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/TCX-Yw6VW88/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TCX-Yw6VW88",
         "publishedAt": "2026-05-08T15:49:48+00:00"
-      },
-      {
-        "title": "L'EXPÉRIENCE LA PLUS DANGEREUSE DE L'ÉMISSION AVEC DE L'ÉLECTRICITÉ !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "dwOiMrjpOxI",
-        "thumbnail": "https://i.ytimg.com/vi/dwOiMrjpOxI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dwOiMrjpOxI",
-        "publishedAt": "2026-05-08T13:01:24+00:00"
-      },
-      {
-        "title": "Claude Code est-il déjà dépassé ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "kQXx6e8cANE",
-        "thumbnail": "https://i.ytimg.com/vi/kQXx6e8cANE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kQXx6e8cANE",
-        "publishedAt": "2026-05-08T12:01:29+00:00"
       },
       {
         "title": "Ce que Sam Altman vous cache derrière les vrais chiffres d'OpenAI !",
@@ -191,40 +191,40 @@
         "titleOriginal": "A recent experience with ChatGPT 5.5 Pro",
         "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
         "source": "gowers.wordpress.com",
-        "score": 180,
-        "comments": 78,
+        "score": 327,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=48071262",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Utilisation du code Claude : l'efficacité déraisonnable du HTML",
-        "titleOriginal": "Using Claude Code: The unreasonable effectiveness of HTML",
-        "url": "https://twitter.com/trq212/status/2052809885763747935",
-        "source": "twitter.com",
-        "score": 81,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=48071940",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Google a cassé reCAPTCHA pour les utilisateurs Android dé-googlés",
         "titleOriginal": "Google broke reCAPTCHA for de-googled Android users",
         "url": "https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users",
         "source": "reclaimthenet.org",
-        "score": 903,
-        "comments": 296,
+        "score": 1056,
+        "comments": 360,
         "hnUrl": "https://news.ycombinator.com/item?id=48067119",
-        "date": "il y a 12 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Problème WebRTC d'OpenAI",
-        "titleOriginal": "OpenAI's WebRTC problem",
-        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-        "source": "moq.dev",
-        "score": 256,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=48051951",
-        "date": "hier"
+        "title": "Utilisation du code Claude : l'efficacité déraisonnable du HTML",
+        "titleOriginal": "Using Claude Code: The unreasonable effectiveness of HTML",
+        "url": "https://twitter.com/trq212/status/2052809885763747935",
+        "source": "twitter.com",
+        "score": 151,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=48071940",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Mois de l'homme mythique",
+        "titleOriginal": "Mythical Man Month",
+        "url": "https://martinfowler.com/bliki/MythicalManMonth.html",
+        "source": "martinfowler.com",
+        "score": 165,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=48046436",
+        "date": "il y a 2 j"
       }
     ]
   },
