@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-09T17:38:22.668Z",
+  "updatedAt": "2026-05-09T20:09:15.782Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
-      "code": 2,
-      "wind": 8,
-      "humidity": 41
+      "temp": 19,
+      "feelsLike": 17,
+      "code": 1,
+      "wind": 11,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-05-11",
-        "code": 63,
+        "code": 61,
         "tmax": 15,
         "tmin": 9
       },
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 89,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,20 +54,19 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
       {
-        "title": "LE PIRE DUO VA EN PRISON (ft Joyca, Théodort & Billy)",
+        "title": "Il a écouté la petite voix dans sa tête",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
-        "videoId": "IVi1fd_LqOk",
-        "thumbnail": "https://i.ytimg.com/vi/IVi1fd_LqOk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IVi1fd_LqOk",
-        "publishedAt": "2026-05-09T17:00:23+00:00"
+        "videoId": "lXH-gzsAFUA",
+        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
+        "publishedAt": "2026-05-09T19:11:02+00:00"
       },
       {
         "title": "Doug & Doug présentent Revolut",
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La réécriture expérimentale Rust de Bun atteint 99,8 % de compatibilité de test sur Linux x64 glibc",
+        "titleOriginal": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
+        "source": "twitter.com",
+        "score": 85,
+        "comments": 125,
+        "hnUrl": "https://news.ycombinator.com/item?id=48073680",
+        "date": "il y a 9 h"
+      },
+      {
         "title": "Internet Archive Suisse",
         "titleOriginal": "Internet Archive Switzerland",
-        "url": "https://internetarchive.ch/",
-        "source": "internetarchive.ch",
-        "score": 315,
-        "comments": 44,
+        "url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
+        "source": "blog.archive.org",
+        "score": 419,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=48074265",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "PipeDream sur le gland Archimède",
-        "titleOriginal": "PipeDream on the Acorn Archimedes",
-        "url": "https://stonetools.ghost.io/pipedream-archimedes/",
-        "source": "stonetools.ghost.io",
-        "score": 44,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=48075528",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "L'hypocrisie intolérable du cyberlibertarisme",
-        "titleOriginal": "The Intolerable Hypocrisy of Cyberlibertarianism",
-        "url": "https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/",
-        "source": "matduggan.com",
-        "score": 98,
-        "comments": 50,
-        "hnUrl": "https://news.ycombinator.com/item?id=48074952",
+        "title": "Semaine noire de CPanel : 3 nouvelles vulnérabilités corrigées après une attaque sur 44k serveurs",
+        "titleOriginal": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+        "url": "https://www.copahost.com/blog/cpanels-black-week-three-new-vulnerabilities-patched-after-ransomware-attack-on-44000-servers/",
+        "source": "copahost.com",
+        "score": 61,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48076465",
         "date": "il y a 3 h"
       },
       {
-        "title": "Les LLM corrompent vos documents lorsque vous déléguez",
-        "titleOriginal": "LLMs Corrupt Your Documents When You Delegate",
-        "url": "https://arxiv.org/abs/2604.15597",
-        "source": "arxiv.org",
-        "score": 201,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=48073246",
-        "date": "il y a 8 h"
+        "title": "J'ai banni les chaînes de requête",
+        "titleOriginal": "I’ve banned query strings",
+        "url": "https://chrismorgan.info/no-query-strings",
+        "source": "chrismorgan.info",
+        "score": 89,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48076173",
+        "date": "il y a 3 h"
       }
     ]
   },
