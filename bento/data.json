@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-05-10T14:40:25.065Z",
+  "updatedAt": "2026-05-10T17:40:09.248Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 18,
-      "code": 61,
-      "wind": 10,
-      "humidity": 76
+      "temp": 15,
+      "feelsLike": 15,
+      "code": 63,
+      "wind": 6,
+      "humidity": 92
     },
     "forecast": [
       {
         "date": "2026-05-10",
-        "code": 80,
+        "code": 95,
         "tmax": 18,
         "tmin": 12
       },
       {
         "date": "2026-05-11",
         "code": 80,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 8
       },
       {
         "date": "2026-05-12",
         "code": 3,
         "tmax": 14,
-        "tmin": 2
+        "tmin": 3
       },
       {
         "date": "2026-05-13",
-        "code": 3,
-        "tmax": 17,
+        "code": 61,
+        "tmax": 16,
         "tmin": 8
       }
     ]
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Space Cadet Pinball sur Linux",
-        "titleOriginal": "Space Cadet Pinball on Linux",
-        "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-        "source": "brennan.io",
-        "score": 149,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=48082968",
-        "date": "il y a 3 h"
+        "title": "Rappelez à HN : Aujourd'hui, c'est la fête des mères, appelez vos mamans",
+        "titleOriginal": "Remind HN: Today is Mother's Day, call your moms",
+        "url": "https://news.ycombinator.com/item?id=48085384",
+        "source": "news.ycombinator.com",
+        "score": 199,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=48085384",
+        "date": "il y a 1 h"
       },
       {
         "title": "Je suis retourné sur AWS et on m'a rappelé pourquoi je suis parti",
         "titleOriginal": "I returned to AWS, and was reminded why I left",
         "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
         "source": "fourlightyears.blogspot.com",
-        "score": 209,
-        "comments": 159,
+        "score": 424,
+        "comments": 335,
         "hnUrl": "https://news.ycombinator.com/item?id=48073201",
         "date": "hier"
       },
       {
-        "title": "L'idempotence est facile jusqu'à ce que la deuxième demande soit différente",
-        "titleOriginal": "Idempotency Is Easy Until the Second Request Is Different",
-        "url": "https://blog.dochia.dev/blog/idempotency/",
-        "source": "blog.dochia.dev",
-        "score": 168,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=48047930",
-        "date": "il y a 3 j"
+        "title": "Marcher plus lentement ? Pourquoi vos oreilles, pas vos genoux, pourraient être le problème",
+        "titleOriginal": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
+        "url": "https://www.wsj.com/health/wellness/hearing-loss-walking-speed-iphone-study-c53c482a",
+        "source": "wsj.com",
+        "score": 24,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48075429",
+        "date": "hier"
       },
       {
-        "title": "Que doit faire un mathématicien ?",
-        "titleOriginal": "What's a Mathematician to Do?",
-        "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
-        "source": "mathoverflow.net",
-        "score": 35,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48083007",
-        "date": "il y a 3 h"
+        "title": "Tracesofhumanity.org par Joanna Rutkowska",
+        "titleOriginal": "Tracesofhumanity.org by Joanna Rutkowska",
+        "url": "https://tracesofhumanity.org/hello-world/",
+        "source": "tracesofhumanity.org",
+        "score": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48085782",
+        "date": "il y a 24 min"
       }
     ]
   },
