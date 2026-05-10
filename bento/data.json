@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-10T11:16:38.269Z",
+  "updatedAt": "2026-05-10T14:40:25.065Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 18,
       "code": 61,
-      "wind": 4,
-      "humidity": 68
+      "wind": 10,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "SALAH ABDESLAM VOULAIT SE FAIRE EXPLOSER DANS LE MÉTRO !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "hFIP_DAX0TE",
-        "thumbnail": "https://i.ytimg.com/vi/hFIP_DAX0TE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hFIP_DAX0TE",
-        "publishedAt": "2026-05-10T11:01:06+00:00"
-      },
-      {
-        "title": "L’IA va supprimer les cols blancs ?",
+        "title": "Comment il est passé de livreur Deliveroo à 2M€ de patrimoine - avec Hugues Trijasse",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "Bcpeq5nxAP4",
-        "thumbnail": "https://i.ytimg.com/vi/Bcpeq5nxAP4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bcpeq5nxAP4",
-        "publishedAt": "2026-05-10T06:53:38+00:00"
+        "videoId": "Xk5_fCNCbXo",
+        "thumbnail": "https://i.ytimg.com/vi/Xk5_fCNCbXo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xk5_fCNCbXo",
+        "publishedAt": "2026-05-10T12:43:03+00:00"
+      },
+      {
+        "title": "LE TÉMOIGNAGE CHOQUANT D'UN HOMME SAUVÉ IN EXTREMIS DE LA MORT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "scvtkKGhKYU",
+        "thumbnail": "https://i.ytimg.com/vi/scvtkKGhKYU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=scvtkKGhKYU",
+        "publishedAt": "2026-05-10T12:01:32+00:00"
       },
       {
         "title": "Il a écouté la petite voix dans sa tête",
@@ -143,16 +143,16 @@
         "url": "https://www.themoviedb.org/movie/1226863"
       },
       {
-        "title": "Michael",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-        "url": "https://www.themoviedb.org/movie/936075"
-      },
-      {
         "title": "Mortal Kombat II",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "title": "Michael",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+        "url": "https://www.themoviedb.org/movie/936075"
       },
       {
         "title": "Wedding Nightmare : Deuxième Partie",
@@ -187,44 +187,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Space Cadet Pinball sur Linux",
+        "titleOriginal": "Space Cadet Pinball on Linux",
+        "url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+        "source": "brennan.io",
+        "score": 149,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48082968",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Je suis retourné sur AWS et on m'a rappelé pourquoi je suis parti",
+        "titleOriginal": "I returned to AWS, and was reminded why I left",
+        "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+        "source": "fourlightyears.blogspot.com",
+        "score": 209,
+        "comments": 159,
+        "hnUrl": "https://news.ycombinator.com/item?id=48073201",
+        "date": "hier"
+      },
+      {
         "title": "L'idempotence est facile jusqu'à ce que la deuxième demande soit différente",
         "titleOriginal": "Idempotency Is Easy Until the Second Request Is Different",
         "url": "https://blog.dochia.dev/blog/idempotency/",
         "source": "blog.dochia.dev",
-        "score": 68,
-        "comments": 21,
+        "score": 168,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=48047930",
         "date": "il y a 3 j"
       },
       {
-        "title": "La réécriture expérimentale Rust de Bun atteint 99,8 % de compatibilité de test sur Linux x64 glibc",
-        "titleOriginal": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-        "url": "https://twitter.com/jarredsumner/status/2053047748191232310",
-        "source": "twitter.com",
-        "score": 585,
-        "comments": 554,
-        "hnUrl": "https://news.ycombinator.com/item?id=48073680",
-        "date": "hier"
-      },
-      {
-        "title": "Le contrefacteur d'un dollar",
-        "titleOriginal": "The One Dollar Counterfeiter",
-        "url": "https://www.amusingplanet.com/2026/05/emerich-juettner-one-dollar.html",
-        "source": "amusingplanet.com",
-        "score": 150,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=48048684",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Show HN : Construire un serveur web en assemblage pour donner (un manque de) sens à ma vie",
-        "titleOriginal": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-        "url": "https://github.com/imtomt/ymawky",
-        "source": "github.com",
-        "score": 296,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=48080587",
-        "date": "il y a 8 h"
+        "title": "Que doit faire un mathématicien ?",
+        "titleOriginal": "What's a Mathematician to Do?",
+        "url": "https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do",
+        "source": "mathoverflow.net",
+        "score": 35,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48083007",
+        "date": "il y a 3 h"
       }
     ]
   },
