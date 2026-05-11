@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-05-11T10:49:41.632Z",
+  "updatedAt": "2026-05-11T18:03:24.371Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 7,
-      "code": 61,
+      "temp": 12,
+      "feelsLike": 8,
+      "code": 3,
       "wind": 14,
-      "humidity": 85
+      "humidity": 60
     },
     "forecast": [
       {
         "date": "2026-05-11",
-        "code": 61,
+        "code": 80,
         "tmax": 13,
         "tmin": 8
       },
       {
         "date": "2026-05-12",
         "code": 3,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 3
       },
       {
@@ -30,25 +30,25 @@
       },
       {
         "date": "2026-05-14",
-        "code": 80,
-        "tmax": 12,
-        "tmin": 6
+        "code": 95,
+        "tmax": 11,
+        "tmin": 7
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 456,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Kings League",
+        "viewers": 20482,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Il fallait qu'on réponde à ce commentaire",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "rr0t9Vm-Bjc",
-        "thumbnail": "https://i.ytimg.com/vi/rr0t9Vm-Bjc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rr0t9Vm-Bjc",
-        "publishedAt": "2026-05-11T10:20:08+00:00"
-      },
-      {
-        "title": "CETTE FEMME T*E SON MARI ET SE RETROUVE ACQUITTÉE !",
+        "title": "IL REÇOIT UNE MENACE DE MORT TERRIFIANTE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "IcSQi_wpoLA",
-        "thumbnail": "https://i.ytimg.com/vi/IcSQi_wpoLA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IcSQi_wpoLA",
-        "publishedAt": "2026-05-11T10:00:27+00:00"
+        "videoId": "zAZOkl7g4k8",
+        "thumbnail": "https://i.ytimg.com/vi/zAZOkl7g4k8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zAZOkl7g4k8",
+        "publishedAt": "2026-05-11T18:00:13+00:00"
       },
       {
-        "title": "Les freelances vont disparaître ?",
+        "title": "@MaximeBiaggi en garde à vue (ft @MaximeBiaggi @elianventre)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "5zO5n_dY_0g",
+        "thumbnail": "https://i.ytimg.com/vi/5zO5n_dY_0g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5zO5n_dY_0g",
+        "publishedAt": "2026-05-11T17:00:42+00:00"
+      },
+      {
+        "title": "Partir de France fait-il de toi un fuyard ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "BFhzJRa40qI",
-        "thumbnail": "https://i.ytimg.com/vi/BFhzJRa40qI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BFhzJRa40qI",
-        "publishedAt": "2026-05-11T06:50:45+00:00"
+        "videoId": "1MFfQMX6svk",
+        "thumbnail": "https://i.ytimg.com/vi/1MFfQMX6svk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1MFfQMX6svk",
+        "publishedAt": "2026-05-11T12:00:03+00:00"
       },
       {
         "title": "Il a écouté la petite voix dans sa tête",
@@ -157,16 +157,16 @@
         "url": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "title": "Michael",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-        "url": "https://www.themoviedb.org/movie/936075"
-      },
-      {
         "title": "Wedding Nightmare : Deuxième Partie",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
         "url": "https://www.themoviedb.org/movie/1266127"
+      },
+      {
+        "title": "Michael",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+        "url": "https://www.themoviedb.org/movie/936075"
       },
       {
         "title": "Le Diable s'habille en Prada 2",
@@ -195,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Attestation matérielle en tant que facilitateur de monopole",
-        "titleOriginal": "Hardware Attestation as Monopoly Enabler",
-        "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-        "source": "grapheneos.social",
-        "score": 1605,
-        "comments": 524,
-        "hnUrl": "https://news.ycombinator.com/item?id=48086190",
-        "date": "il y a 16 h"
+        "title": "Oxyde CUDA : compilateur officiel Rust to CUDA de Nvidia",
+        "titleOriginal": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
+        "url": "https://nvlabs.github.io/cuda-oxide/index.html",
+        "source": "nvlabs.github.io",
+        "score": 134,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48096692",
+        "date": "il y a 2 h"
       },
       {
-        "title": "L'IA locale doit être la norme",
-        "titleOriginal": "Local AI needs to be the norm",
-        "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-        "source": "unix.foo",
-        "score": 1194,
-        "comments": 505,
-        "hnUrl": "https://news.ycombinator.com/item?id=48085821",
-        "date": "il y a 17 h"
+        "title": "Nullsoft, 1997-2004 AOL tue la dernière entreprise technologique non-conformiste (2004)",
+        "titleOriginal": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
+        "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
+        "source": "slate.com",
+        "score": 75,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48060077",
+        "date": "il y a 3 j"
       },
       {
-        "title": "Je retourne à l'écriture de code à la main",
-        "titleOriginal": "I'm going back to writing code by hand",
-        "url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-        "source": "blog.k10s.dev",
-        "score": 398,
-        "comments": 192,
-        "hnUrl": "https://news.ycombinator.com/item?id=48090029",
-        "date": "il y a 9 h"
+        "title": "Ratty – Un émulateur de terminal avec des graphiques 3D en ligne",
+        "titleOriginal": "Ratty – A terminal emulator with inline 3D graphics",
+        "url": "https://ratty-term.org/",
+        "source": "ratty-term.org",
+        "score": 485,
+        "comments": 166,
+        "hnUrl": "https://news.ycombinator.com/item?id=48093100",
+        "date": "il y a 7 h"
       },
       {
-        "title": "Le plus grand plan de la télévision : James Burke a eu une chance de clouer cette scène (2024)",
-        "titleOriginal": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-        "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
-        "source": "openculture.com",
-        "score": 188,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=48090521",
-        "date": "il y a 8 h"
+        "title": "Formation d'un LLM à Swift, Partie 1 : Prise de matrice MULT de Gflop/s à Tflop/s",
+        "titleOriginal": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+        "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
+        "source": "cocoawithlove.com",
+        "score": 143,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48085685",
+        "date": "hier"
       }
     ]
   },
