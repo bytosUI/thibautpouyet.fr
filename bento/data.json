@@ -1,53 +1,45 @@
 {
-  "updatedAt": "2026-05-11T18:03:24.371Z",
+  "updatedAt": "2026-05-11T22:18:46.651Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 8,
-      "code": 3,
-      "wind": 14,
-      "humidity": 60
+      "temp": 7,
+      "feelsLike": 5,
+      "code": 1,
+      "wind": 9,
+      "humidity": 81
     },
     "forecast": [
       {
-        "date": "2026-05-11",
-        "code": 80,
-        "tmax": 13,
-        "tmin": 8
-      },
-      {
         "date": "2026-05-12",
         "code": 3,
-        "tmax": 13,
+        "tmax": 14,
         "tmin": 3
       },
       {
         "date": "2026-05-13",
-        "code": 80,
+        "code": 95,
         "tmax": 15,
         "tmin": 8
       },
       {
         "date": "2026-05-14",
-        "code": 95,
-        "tmax": 11,
-        "tmin": 7
+        "code": 80,
+        "tmax": 12,
+        "tmin": 6
+      },
+      {
+        "date": "2026-05-15",
+        "code": 3,
+        "tmax": 14,
+        "tmin": 6
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Kings League",
-        "viewers": 20482,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -195,44 +187,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Oxyde CUDA : compilateur officiel Rust to CUDA de Nvidia",
-        "titleOriginal": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-        "url": "https://nvlabs.github.io/cuda-oxide/index.html",
-        "source": "nvlabs.github.io",
-        "score": 134,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=48096692",
+        "title": "Packs TanStack NPM compromis",
+        "titleOriginal": "TanStack NPM Packages Compromised",
+        "url": "https://github.com/TanStack/router/issues/7383",
+        "source": "github.com",
+        "score": 165,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=48100706",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "GitLab annonce la réduction de la main-d' œuvre et la fin de leurs valeurs DE CRÉDIT",
+        "titleOriginal": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+        "url": "https://about.gitlab.com/blog/gitlab-act-2/",
+        "source": "about.gitlab.com",
+        "score": 106,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=48100500",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Google affirme que les pirates informatiques criminels ont utilisé l'IA pour trouver une faille logicielle majeure",
+        "titleOriginal": "Google says criminal hackers used AI to find a major software flaw",
+        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "source": "nytimes.com",
+        "score": 46,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48094641",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Bibliothèque pour un mappage rapide des enregistrements Java vers la mémoire native",
+        "titleOriginal": "Library for fast mapping of Java records to native memory",
+        "url": "https://github.com/mamba-studio/TypedMemory",
+        "source": "github.com",
+        "score": 77,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=48099616",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "Nullsoft, 1997-2004 AOL tue la dernière entreprise technologique non-conformiste (2004)",
-        "titleOriginal": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
-        "url": "https://slate.com/technology/2004/11/the-death-of-the-last-maverick-tech-company.html",
-        "source": "slate.com",
-        "score": 75,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48060077",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Ratty – Un émulateur de terminal avec des graphiques 3D en ligne",
-        "titleOriginal": "Ratty – A terminal emulator with inline 3D graphics",
-        "url": "https://ratty-term.org/",
-        "source": "ratty-term.org",
-        "score": 485,
-        "comments": 166,
-        "hnUrl": "https://news.ycombinator.com/item?id=48093100",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Formation d'un LLM à Swift, Partie 1 : Prise de matrice MULT de Gflop/s à Tflop/s",
-        "titleOriginal": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-        "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-        "source": "cocoawithlove.com",
-        "score": 143,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48085685",
-        "date": "hier"
       }
     ]
   },
