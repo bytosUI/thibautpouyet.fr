@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-12T16:37:15.619Z",
+  "updatedAt": "2026-05-12T21:51:39.270Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 10,
-      "code": 2,
-      "wind": 7,
-      "humidity": 47
+      "temp": 10,
+      "feelsLike": 7,
+      "code": 3,
+      "wind": 10,
+      "humidity": 62
     },
     "forecast": [
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Slapshot: Rebound",
+        "viewers": 6468,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -51,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "J’IRAI DORMIR CHEZ VOUS : FUSILLADE, KIDNAPPING… LES HISTOIRES LES PLUS FOLLES D’ANTOINE DE MAXIMY",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "ivl0nxa3C7o",
+        "thumbnail": "https://i.ytimg.com/vi/ivl0nxa3C7o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ivl0nxa3C7o",
+        "publishedAt": "2026-05-12T16:38:28+00:00"
+      },
       {
         "title": "@elianventre a un délire chelou (ft @elianventre @MaximeBiaggi)",
         "channel": "Mcfly et Carlito",
@@ -68,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/I3w4b4EMtEY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=I3w4b4EMtEY",
         "publishedAt": "2026-05-12T13:41:25+00:00"
-      },
-      {
-        "title": "SON PETIT COPAIN TENTE DE LA TU*R ET ÉCHAPPE À LA PRISON !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "00VTaYklPlE",
-        "thumbnail": "https://i.ytimg.com/vi/00VTaYklPlE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=00VTaYklPlE",
-        "publishedAt": "2026-05-12T13:00:01+00:00"
       },
       {
         "title": "Il a écouté la petite voix dans sa tête",
@@ -187,44 +195,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Bambu Lab abuse du contrat social open source",
-        "titleOriginal": "Bambu Lab is abusing the open source social contract",
-        "url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
-        "source": "jeffgeerling.com",
-        "score": 410,
-        "comments": 146,
-        "hnUrl": "https://news.ycombinator.com/item?id=48109224",
+        "title": "Googlebook",
+        "titleOriginal": "Googlebook",
+        "url": "https://googlebook.google/",
+        "source": "googlebook.google",
+        "score": 440,
+        "comments": 696,
+        "hnUrl": "https://news.ycombinator.com/item?id=48111545",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Comment rendre votre texte futuriste (2016)",
+        "titleOriginal": "How to make your text look futuristic (2016)",
+        "url": "https://typesetinthefuture.com/2016/02/18/futuristic/",
+        "source": "typesetinthefuture.com",
+        "score": 90,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48113895",
         "date": "il y a 1 h"
       },
       {
-        "title": "Opération : Epic Furious",
-        "titleOriginal": "Operation: Epic Furious",
-        "url": "https://www.epicfurious.com/",
-        "source": "epicfurious.com",
-        "score": 109,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48109519",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Rendre le ciel, les couchers de soleil et les planètes",
-        "titleOriginal": "Rendering the Sky, Sunsets, and Planets",
-        "url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-        "source": "blog.maximeheckel.com",
-        "score": 200,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48107997",
+        "title": "Le CERT publie six CVE pour de graves vulnérabilités de sécurité dans dnsmasq",
+        "titleOriginal": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+        "url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
+        "source": "lists.thekelleys.org.uk",
+        "score": 160,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48112042",
         "date": "il y a 3 h"
       },
       {
-        "title": "Architecture logicielle d'apprentissage",
-        "titleOriginal": "Learning Software Architecture",
-        "url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-        "source": "matklad.github.io",
-        "score": 390,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=48106024",
-        "date": "il y a 7 h"
+        "title": "Montrer HN : Aiguille : Nous avons distillé l'outil Gemini appelant dans un modèle de 26M",
+        "titleOriginal": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle",
+        "source": "github.com",
+        "score": 169,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=48111896",
+        "date": "il y a 3 h"
       }
     ]
   },
