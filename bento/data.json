@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-05-11T22:18:46.651Z",
+  "updatedAt": "2026-05-12T08:12:28.420Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 5,
+      "temp": 9,
+      "feelsLike": 6,
       "code": 1,
       "wind": 9,
-      "humidity": 81
+      "humidity": 65
     },
     "forecast": [
       {
         "date": "2026-05-12",
         "code": 3,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 3
       },
       {
         "date": "2026-05-13",
-        "code": 95,
+        "code": 80,
         "tmax": 15,
         "tmin": 8
       },
       {
         "date": "2026-05-14",
-        "code": 80,
+        "code": 95,
         "tmax": 12,
         "tmin": 6
       },
       {
         "date": "2026-05-15",
-        "code": 3,
-        "tmax": 14,
-        "tmin": 6
+        "code": 80,
+        "tmax": 13,
+        "tmin": 7
       }
     ]
   },
@@ -187,121 +187,141 @@
   "hackernews": {
     "items": [
       {
-        "title": "Packs TanStack NPM compromis",
-        "titleOriginal": "TanStack NPM Packages Compromised",
-        "url": "https://github.com/TanStack/router/issues/7383",
-        "source": "github.com",
-        "score": 165,
-        "comments": 39,
+        "title": "Postmortem : compromis de la chaîne d'approvisionnement TanStack NPM",
+        "titleOriginal": "Postmortem: TanStack NPM supply-chain compromise",
+        "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+        "source": "tanstack.com",
+        "score": 789,
+        "comments": 298,
         "hnUrl": "https://news.ycombinator.com/item?id=48100706",
-        "date": "il y a 1 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "GitLab annonce la réduction de la main-d' œuvre et la fin de leurs valeurs DE CRÉDIT",
-        "titleOriginal": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-        "url": "https://about.gitlab.com/blog/gitlab-act-2/",
-        "source": "about.gitlab.com",
-        "score": 106,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=48100500",
-        "date": "il y a 1 h"
+        "title": "Captures d'écran des anciens systèmes d'exploitation de bureau",
+        "titleOriginal": "Screenshots of Old Desktop OSes",
+        "url": "http://www.typewritten.org/Media/",
+        "source": "typewritten.org",
+        "score": 90,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48104428",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Google affirme que les pirates informatiques criminels ont utilisé l'IA pour trouver une faille logicielle majeure",
-        "titleOriginal": "Google says criminal hackers used AI to find a major software flaw",
-        "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-        "source": "nytimes.com",
-        "score": 46,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48094641",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Bibliothèque pour un mappage rapide des enregistrements Java vers la mémoire native",
-        "titleOriginal": "Library for fast mapping of Java records to native memory",
-        "url": "https://github.com/mamba-studio/TypedMemory",
+        "title": "They Live (1988) a inspiré Adblocker",
+        "titleOriginal": "They Live (1988) inspired Adblocker",
+        "url": "https://github.com/davmlaw/they_live_adblocker",
         "source": "github.com",
-        "score": 77,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=48099616",
-        "date": "il y a 2 h"
+        "score": 187,
+        "comments": 49,
+        "hnUrl": "https://news.ycombinator.com/item?id=48102700",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Si l'IA écrit votre code, pourquoi utiliser Python ?",
+        "titleOriginal": "If AI writes your code, why use Python?",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "source": "medium.com",
+        "score": 436,
+        "comments": 469,
+        "hnUrl": "https://news.ycombinator.com/item?id=48100433",
+        "date": "il y a 11 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260510",
+    "resultsDate": "20260511",
     "results": [
       {
-        "id": "401871162",
-        "date": "2026-05-10T19:30Z",
+        "id": "401871336",
+        "date": "2026-05-12T00:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "20",
-          "abbr": "PHI",
-          "name": "76ers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-          "score": 114,
-          "record": "45-37",
-          "winner": false
-        },
-        "away": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 144,
-          "record": "53-29",
-          "winner": true
-        },
-        "series": {
-          "summary": "NY wins series 4-0",
-          "completed": true,
-          "round": "East Semifinals - Game 4",
-          "winsHome": 0,
-          "winsAway": 4
-        }
-      },
-      {
-        "id": "401871155",
-        "date": "2026-05-10T23:30Z",
-        "isPlayoff": true,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 114,
-          "record": "49-33",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 112,
+          "record": "52-30",
           "winner": true
         },
         "away": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 109,
-          "record": "62-20",
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 103,
+          "record": "60-22",
           "winner": false
         },
         "series": {
           "summary": "Series tied 2-2",
           "completed": false,
-          "round": "West Semifinals - Game 4",
+          "round": "East Semifinals - Game 4",
           "winsHome": 2,
           "winsAway": 2
+        }
+      },
+      {
+        "id": "401871329",
+        "date": "2026-05-12T02:30Z",
+        "isPlayoff": true,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 110,
+          "record": "53-29",
+          "winner": false
+        },
+        "away": {
+          "id": "25",
+          "abbr": "OKC",
+          "name": "Thunder",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+          "score": 115,
+          "record": "64-18",
+          "winner": true
+        },
+        "series": {
+          "summary": "OKC wins series 4-0",
+          "completed": true,
+          "round": "West Semifinals - Game 4",
+          "winsHome": 0,
+          "winsAway": 4
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+          },
+          "teamAway": {
+            "abbr": "MIN",
+            "name": "Timberwolves",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
+          },
+          "winsHome": 2,
+          "winsAway": 2,
+          "summary": "Series tied 2-2",
+          "completed": false,
+          "round": "West Semifinals - Game 5",
+          "roundLabel": "Ouest · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-13T00:00Z"
+        },
         {
           "teamHome": {
             "abbr": "LAL",
@@ -314,9 +334,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
           },
           "winsHome": 0,
-          "winsAway": 3,
-          "summary": "OKC leads series 3-0",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "OKC wins series 4-0",
+          "completed": true,
           "round": "West Semifinals - Game 4",
           "roundLabel": "Ouest · Finales NBA",
           "roundOrder": 4,
@@ -333,34 +353,14 @@
             "name": "Pistons",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
           },
-          "winsHome": 1,
+          "winsHome": 2,
           "winsAway": 2,
-          "summary": "DET leads series 2-1",
+          "summary": "Series tied 2-2",
           "completed": false,
           "round": "East Semifinals - Game 4",
           "roundLabel": "Est · Finales NBA",
           "roundOrder": 4,
           "lastDate": "2026-05-12T00:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "MIN",
-            "name": "Timberwolves",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-          },
-          "teamAway": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "winsHome": 2,
-          "winsAway": 2,
-          "summary": "Series tied 2-2",
-          "completed": false,
-          "round": "West Semifinals - Game 4",
-          "roundLabel": "Ouest · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-10T23:30Z"
         },
         {
           "teamHome": {
