@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-14T16:21:18.065Z",
+  "updatedAt": "2026-05-14T20:59:38.268Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 9,
+      "temp": 8,
+      "feelsLike": 7,
       "code": 3,
-      "wind": 8,
-      "humidity": 64
+      "wind": 2,
+      "humidity": 85
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-05-15",
         "code": 80,
-        "tmax": 13,
+        "tmax": 14,
         "tmin": 5
       },
       {
         "date": "2026-05-16",
-        "code": 80,
-        "tmax": 13,
-        "tmin": 5
+        "code": 95,
+        "tmax": 14,
+        "tmin": 6
       },
       {
         "date": "2026-05-17",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "NUTMEG!",
-        "viewers": 3941,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "IL A DORMI DANS UN VOLCAN ACTIF AVEC UN MASQUE À GAZ",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "jjrOtjQsKCE",
+        "thumbnail": "https://i.ytimg.com/vi/jjrOtjQsKCE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jjrOtjQsKCE",
+        "publishedAt": "2026-05-14T17:00:08+00:00"
+      },
+      {
         "title": "24h avec les marins-pompiers de Marseille (tournage le plus marquant de notre vie)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -67,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/vM52Carqn7U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vM52Carqn7U",
         "publishedAt": "2026-05-14T15:22:10+00:00"
-      },
-      {
-        "title": "ANTOINE DE MAXIMY NE PRÉVOIT RIEN DANS SA VIE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3jHSw3qamxw",
-        "thumbnail": "https://i.ytimg.com/vi/3jHSw3qamxw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3jHSw3qamxw",
-        "publishedAt": "2026-05-14T15:00:27+00:00"
       },
       {
         "title": "L’insécurité m’a fait partir",
@@ -151,7 +143,7 @@
         "url": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "title": "Wedding Nightmare : Deuxième Partie",
+        "title": "Wedding Nightmare : Deuxième partie",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
         "url": "https://www.themoviedb.org/movie/1266127"
@@ -181,13 +173,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 3 h",
+        "time": "il y a 8 h",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 3 h",
+        "time": "il y a 8 h",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -199,7 +191,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 1 sem",
+        "time": "il y a 2 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -207,23 +199,13 @@
   "hackernews": {
     "items": [
       {
-        "title": "MIT : baisse de 20 % du nombre d'étudiants diplômés entrants",
-        "titleOriginal": "MIT: 20% drop in incoming graduate students",
-        "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
-        "source": "president.mit.edu",
-        "score": 269,
-        "comments": 265,
-        "hnUrl": "https://news.ycombinator.com/item?id=48136262",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Mouvement de passe-temps informatique au Canada",
-        "titleOriginal": "Computer Hobby Movement in Canada",
-        "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
-        "source": "museum.eecs.yorku.ca",
-        "score": 105,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48134743",
+        "title": "Retrait du modem et du GPS de mon RAV4 hybride 2024",
+        "titleOriginal": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+        "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+        "source": "arkadiyt.com",
+        "score": 370,
+        "comments": 180,
+        "hnUrl": "https://news.ycombinator.com/item?id=48138136",
         "date": "il y a 3 h"
       },
       {
@@ -231,20 +213,30 @@
         "titleOriginal": "RTX 5090 and M4 MacBook Air: Can It Game?",
         "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
         "source": "scottjg.com",
-        "score": 15,
-        "comments": 0,
+        "score": 383,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48137145",
-        "date": "il y a 33 min"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Claude AI récupère un portefeuille BTC vieux de 11 ans contenant 400 000 USD",
-        "titleOriginal": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
-        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
-        "source": "tomshardware.com",
-        "score": 137,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=48136240",
-        "date": "il y a 1 h"
+        "title": "Premier exploit public de corruption de mémoire du noyau macOS sur Apple M5",
+        "titleOriginal": "First public macOS kernel memory corruption exploit on Apple M5",
+        "url": "https://blog.calif.io/p/first-public-kernel-memory-corruption",
+        "source": "blog.calif.io",
+        "score": 91,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48139219",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Nouvel exploit Nginx",
+        "titleOriginal": "New Nginx Exploit",
+        "url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
+        "source": "github.com",
+        "score": 198,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=48138268",
+        "date": "il y a 3 h"
       }
     ]
   },
