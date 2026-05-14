@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-14T08:09:36.367Z",
+  "updatedAt": "2026-05-14T16:21:18.065Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 8,
-      "feelsLike": 5,
-      "code": 61,
-      "wind": 15,
-      "humidity": 80
+      "temp": 11,
+      "feelsLike": 9,
+      "code": 3,
+      "wind": 8,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -25,21 +25,29 @@
       {
         "date": "2026-05-16",
         "code": 80,
-        "tmax": 12,
+        "tmax": 13,
         "tmin": 5
       },
       {
         "date": "2026-05-17",
-        "code": 61,
-        "tmax": 14,
-        "tmin": 8
+        "code": 3,
+        "tmax": 16,
+        "tmin": 7
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "NUTMEG!",
+        "viewers": 3941,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,22 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "À demain, 17h22",
+        "title": "24h avec les marins-pompiers de Marseille (tournage le plus marquant de notre vie)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "8OPA9WDnkSM",
-        "thumbnail": "https://i.ytimg.com/vi/8OPA9WDnkSM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8OPA9WDnkSM",
-        "publishedAt": "2026-05-13T17:04:34+00:00"
+        "videoId": "vM52Carqn7U",
+        "thumbnail": "https://i.ytimg.com/vi/vM52Carqn7U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vM52Carqn7U",
+        "publishedAt": "2026-05-14T15:22:10+00:00"
       },
       {
-        "title": "EN PLEIN TOURNAGE DE J'IRAI DORMIR CHEZ VOUS, UNE FUSILLADE ÉCLATE",
+        "title": "ANTOINE DE MAXIMY NE PRÉVOIT RIEN DANS SA VIE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "_BlIeG2r2H8",
-        "thumbnail": "https://i.ytimg.com/vi/_BlIeG2r2H8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_BlIeG2r2H8",
-        "publishedAt": "2026-05-13T17:00:29+00:00"
+        "videoId": "3jHSw3qamxw",
+        "thumbnail": "https://i.ytimg.com/vi/3jHSw3qamxw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3jHSw3qamxw",
+        "publishedAt": "2026-05-14T15:00:27+00:00"
       },
       {
         "title": "L’insécurité m’a fait partir",
@@ -171,6 +179,18 @@
   "github": {
     "recent": [
       {
+        "repo": "bytosUI/dailywater",
+        "message": "Prénom personnalisable par utilisateur",
+        "time": "il y a 3 h",
+        "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
+      },
+      {
+        "repo": "bytosUI/dailywater",
+        "message": "Initial commit: DailyWater PWA",
+        "time": "il y a 3 h",
+        "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
+      },
+      {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
         "time": "il y a 1 sem",
@@ -187,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude pour les petites entreprises",
-        "titleOriginal": "Claude for Small Business",
-        "url": "https://www.anthropic.com/news/claude-for-small-business",
-        "source": "anthropic.com",
-        "score": 193,
-        "comments": 119,
-        "hnUrl": "https://news.ycombinator.com/item?id=48130950",
-        "date": "il y a 4 h"
+        "title": "MIT : baisse de 20 % du nombre d'étudiants diplômés entrants",
+        "titleOriginal": "MIT: 20% drop in incoming graduate students",
+        "url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
+        "source": "president.mit.edu",
+        "score": 269,
+        "comments": 265,
+        "hnUrl": "https://news.ycombinator.com/item?id=48136262",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Terre brûlée 2000 – Web",
-        "titleOriginal": "Scorched Earth 2000 – Web",
-        "url": "http://www.scorch2000.com/web/",
-        "source": "scorch2000.com",
-        "score": 226,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=48129694",
-        "date": "il y a 7 h"
+        "title": "Mouvement de passe-temps informatique au Canada",
+        "titleOriginal": "Computer Hobby Movement in Canada",
+        "url": "https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada",
+        "source": "museum.eecs.yorku.ca",
+        "score": 105,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48134743",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Les jeux Linux sont plus rapides car les API Windows deviennent des fonctionnalités du noyau Linux",
-        "titleOriginal": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-        "url": "https://www.xda-developers.com/linux-gaming-is-getting-faster-because-windows-apis-are-becoming-linux-kernel-features/",
-        "source": "xda-developers.com",
-        "score": 690,
-        "comments": 446,
-        "hnUrl": "https://news.ycombinator.com/item?id=48087887",
-        "date": "il y a 3 j"
+        "title": "RTX 5090 et M4 MacBook Air : peut-il jouer ?",
+        "titleOriginal": "RTX 5090 and M4 MacBook Air: Can It Game?",
+        "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+        "source": "scottjg.com",
+        "score": 15,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48137145",
+        "date": "il y a 33 min"
       },
       {
-        "title": "Historique Elo du modèle IA d'Arena",
-        "titleOriginal": "Arena AI Model ELO History",
-        "url": "https://mayerwin.github.io/AI-Arena-History/",
-        "source": "mayerwin.github.io",
-        "score": 52,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48130711",
-        "date": "il y a 4 h"
+        "title": "Claude AI récupère un portefeuille BTC vieux de 11 ans contenant 400 000 USD",
+        "titleOriginal": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+        "url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+        "source": "tomshardware.com",
+        "score": 137,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=48136240",
+        "date": "il y a 1 h"
       }
     ]
   },
