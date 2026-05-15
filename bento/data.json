@@ -1,54 +1,46 @@
 {
-  "updatedAt": "2026-05-15T10:03:16.939Z",
+  "updatedAt": "2026-05-15T16:30:27.427Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 10,
-      "code": 2,
-      "wind": 11,
-      "humidity": 57
+      "temp": 11,
+      "feelsLike": 8,
+      "code": 3,
+      "wind": 12,
+      "humidity": 63
     },
     "forecast": [
       {
         "date": "2026-05-15",
         "code": 80,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 5
       },
       {
         "date": "2026-05-16",
         "code": 80,
         "tmax": 15,
-        "tmin": 4
+        "tmin": 5
       },
       {
         "date": "2026-05-17",
-        "code": 80,
+        "code": 95,
         "tmax": 15,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-05-18",
         "code": 80,
-        "tmax": 15,
-        "tmin": 7
+        "tmax": 14,
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 475,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "ON A RAMENÉ UN KILO D’OR EN PLATEAU : TOUS LES SECRETS DU MÉTAL LE PLUS PRÉCIEUX AU MONDE",
+        "title": "Cette intervention a marqué sa carrière",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "7ESKWSLyfW0",
+        "thumbnail": "https://i.ytimg.com/vi/7ESKWSLyfW0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7ESKWSLyfW0",
+        "publishedAt": "2026-05-15T15:59:00+00:00"
+      },
+      {
+        "title": "IL A REFUSÉ DE FABRIQUER DES PIÈCES D'OR POUR UN YOUTUBEUR !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Nj-cpgK0leg",
-        "thumbnail": "https://i.ytimg.com/vi/Nj-cpgK0leg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Nj-cpgK0leg",
-        "publishedAt": "2026-05-15T09:00:06+00:00"
+        "videoId": "P0hrYy_RfhY",
+        "thumbnail": "https://i.ytimg.com/vi/P0hrYy_RfhY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P0hrYy_RfhY",
+        "publishedAt": "2026-05-15T13:00:25+00:00"
       },
       {
         "title": "Pourquoi les startupeurs français s'appauvrissent",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Jj1MJ-uXqw8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Jj1MJ-uXqw8",
         "publishedAt": "2026-05-15T07:11:07+00:00"
-      },
-      {
-        "title": "24h avec les marins-pompiers de Marseille (tournage le plus marquant de notre vie)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "vM52Carqn7U",
-        "thumbnail": "https://i.ytimg.com/vi/vM52Carqn7U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vM52Carqn7U",
-        "publishedAt": "2026-05-14T15:22:10+00:00"
       },
       {
         "title": "La Maison Blanche a peur — et ce n'est pas pour les raisons que vous croyez !",
@@ -181,13 +173,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 21 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 21 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -207,43 +199,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Retrait du modem et du GPS de mon RAV4 hybride 2024",
-        "titleOriginal": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-        "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
-        "source": "arkadiyt.com",
-        "score": 872,
-        "comments": 447,
-        "hnUrl": "https://news.ycombinator.com/item?id=48138136",
-        "date": "il y a 16 h"
+        "title": "Une chaîne d'exploit de 0 clic pour le Pixel 10",
+        "titleOriginal": "A 0-click exploit chain for the Pixel 10",
+        "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+        "source": "projectzero.google",
+        "score": 142,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=48148460",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Explorez Wikipédia comme un ordinateur de bureau Windows XP",
-        "titleOriginal": "Explore Wikipedia Like a Windows XP Desktop",
-        "url": "https://explorer.samismith.com/",
-        "source": "explorer.samismith.com",
-        "score": 27,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48146129",
-        "date": "il y a 1 h"
+        "title": "J'ai construit Zenith : un planétarium local à hublot fixe en direct",
+        "titleOriginal": "I built Zenith: a live local-first fixed viewport planetarium",
+        "url": "https://smorgasb.org/zenith-tech/",
+        "source": "smorgasb.org",
+        "score": 19,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48150097",
+        "date": "il y a 45 min"
       },
       {
-        "title": "Construire un cadre de ML avec la théorie de la rouille et des catégories",
-        "titleOriginal": "Building ML framework with Rust and Category Theory",
-        "url": "https://hghalebi.github.io/category_theory_transformer_rs/",
-        "source": "hghalebi.github.io",
-        "score": 29,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48137629",
-        "date": "il y a 17 h"
+        "title": "Projet Gutenberg – continue de s'améliorer",
+        "titleOriginal": "Project Gutenberg – keeps getting better",
+        "url": "https://www.gutenberg.org/",
+        "source": "gutenberg.org",
+        "score": 13,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48150431",
+        "date": "il y a 14 min"
       },
       {
-        "title": "Show HN : GlycemicGPT – Open-source AI-powered diabetes management",
-        "titleOriginal": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-        "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-        "source": "github.com",
-        "score": 26,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48144670",
+        "title": "O(x)Caml dans l'espace",
+        "titleOriginal": "O(x)Caml in Space",
+        "url": "https://gazagnaire.org/blog/2026-05-14-borealis.html",
+        "source": "gazagnaire.org",
+        "score": 177,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48147058",
         "date": "il y a 5 h"
       }
     ]
