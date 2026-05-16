@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-16T19:48:18.258Z",
+  "updatedAt": "2026-05-16T22:30:17.138Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
-      "code": 1,
-      "wind": 5,
-      "humidity": 76
+      "temp": 8,
+      "feelsLike": 7,
+      "code": 3,
+      "wind": 4,
+      "humidity": 87
     },
     "forecast": [
-      {
-        "date": "2026-05-16",
-        "code": 80,
-        "tmax": 14,
-        "tmin": 6
-      },
       {
         "date": "2026-05-17",
         "code": 95,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-05-19",
+        "code": 80,
+        "tmax": 15,
+        "tmin": 8
+      },
+      {
+        "date": "2026-05-20",
         "code": 61,
-        "tmax": 16,
-        "tmin": 6
+        "tmax": 20,
+        "tmin": 12
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pourquoi ce site s'appelle Antipope ?",
-        "titleOriginal": "Why is this site named Antipope?",
-        "url": "https://www.antipope.org/charlie/old/antipope.html",
-        "source": "antipope.org",
-        "score": 41,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48162922",
-        "date": "il y a 32 min"
-      },
-      {
         "title": "Kioxia et Dell CRAM 10 Po dans un serveur slim 2RU",
         "titleOriginal": "Kioxia and Dell cram 10 PB into slim 2RU server",
         "url": "https://www.blocksandfiles.com/flash/2026/05/14/kioxia-and-dell-cram-10-pb-into-slim-2ru-server/5240574",
         "source": "blocksandfiles.com",
-        "score": 41,
-        "comments": 27,
+        "score": 90,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=48161997",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "SANA-WM, un modèle mondial open source de 2,6 milliards de dollars pour une vidéo 720p d'une minute",
-        "titleOriginal": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-        "url": "https://nvlabs.github.io/Sana/WM/",
-        "source": "nvlabs.github.io",
-        "score": 243,
-        "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=48159445",
-        "date": "il y a 7 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "(Sous-système Windows pour Linux)",
         "titleOriginal": "Windows 9x Subsystem for Linux",
         "url": "https://codeberg.org/hails/wsl9x",
         "source": "codeberg.org",
-        "score": 90,
-        "comments": 35,
+        "score": 182,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=48120162",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "SANA-WM, un modèle mondial open source de 2,6 milliards de dollars pour une vidéo 720p d'une minute",
+        "titleOriginal": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "url": "https://nvlabs.github.io/Sana/WM/",
+        "source": "nvlabs.github.io",
+        "score": 281,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=48159445",
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Une molécule avec une topologie à moitié-Möbius",
+        "titleOriginal": "A molecule with half-Möbius topology",
+        "url": "https://www.science.org/doi/10.1126/science.aea3321",
+        "source": "science.org",
+        "score": 37,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48109756",
+        "date": "il y a 4 j"
       }
     ]
   },
