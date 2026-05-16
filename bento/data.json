@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-05-16T00:06:13.336Z",
+  "updatedAt": "2026-05-16T07:33:27.188Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 5,
-      "code": 3,
-      "wind": 3,
-      "humidity": 89
+      "temp": 8,
+      "feelsLike": 6,
+      "code": 80,
+      "wind": 5,
+      "humidity": 86
     },
     "forecast": [
       {
         "date": "2026-05-16",
-        "code": 80,
+        "code": 81,
         "tmax": 14,
         "tmin": 6
       },
       {
         "date": "2026-05-17",
-        "code": 95,
-        "tmax": 16,
-        "tmin": 8
+        "code": 63,
+        "tmax": 14,
+        "tmin": 7
       },
       {
         "date": "2026-05-18",
         "code": 61,
-        "tmax": 15,
+        "tmax": 16,
         "tmin": 8
       },
       {
         "date": "2026-05-19",
         "code": 61,
         "tmax": 17,
-        "tmin": 7
+        "tmin": 6
       }
     ]
   },
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "LES GENS CROIENT AU RÉSULTAT AVANT DE CROIRE AU POTENTIEL",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "e1CaeIP1Zno",
+        "thumbnail": "https://i.ytimg.com/vi/e1CaeIP1Zno/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e1CaeIP1Zno",
+        "publishedAt": "2026-05-16T07:00:02+00:00"
+      },
+      {
+        "title": "Une nouvelle race humaine se prépare et personne ne le voit venir !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "3uyhT2LtNz4",
+        "thumbnail": "https://i.ytimg.com/vi/3uyhT2LtNz4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3uyhT2LtNz4",
+        "publishedAt": "2026-05-16T06:30:03+00:00"
+      },
+      {
         "title": "Cette intervention a marqué sa carrière",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -61,15 +79,6 @@
         "publishedAt": "2026-05-15T15:59:00+00:00"
       },
       {
-        "title": "IL A REFUSÉ DE FABRIQUER DES PIÈCES D'OR POUR UN YOUTUBEUR !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "P0hrYy_RfhY",
-        "thumbnail": "https://i.ytimg.com/vi/P0hrYy_RfhY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P0hrYy_RfhY",
-        "publishedAt": "2026-05-15T13:00:25+00:00"
-      },
-      {
         "title": "Pourquoi les startupeurs français s'appauvrissent",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Jj1MJ-uXqw8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Jj1MJ-uXqw8",
         "publishedAt": "2026-05-15T07:11:07+00:00"
-      },
-      {
-        "title": "La Maison Blanche a peur — et ce n'est pas pour les raisons que vous croyez !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "19DTl-AT1vM",
-        "thumbnail": "https://i.ytimg.com/vi/19DTl-AT1vM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=19DTl-AT1vM",
-        "publishedAt": "2026-05-13T06:30:00+00:00"
       },
       {
         "title": "Il a écouté la petite voix dans sa tête",
@@ -203,78 +203,111 @@
         "titleOriginal": "Project Gutenberg – keeps getting better",
         "url": "https://www.gutenberg.org/",
         "source": "gutenberg.org",
-        "score": 671,
-        "comments": 165,
+        "score": 888,
+        "comments": 189,
         "hnUrl": "https://news.ycombinator.com/item?id=48150431",
-        "date": "il y a 7 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Je crois qu'il y a des entreprises entières en ce moment sous la psychose de l'IA",
-        "titleOriginal": "I believe there are entire companies right now under AI psychosis",
-        "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-        "source": "twitter.com",
-        "score": 628,
-        "comments": 285,
-        "hnUrl": "https://news.ycombinator.com/item?id=48153379",
-        "date": "il y a 3 h"
+        "title": "La scène CTF est morte",
+        "titleOriginal": "The CTF scene is dead",
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "source": "kabir.au",
+        "score": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48157559",
+        "date": "il y a 31 min"
       },
       {
-        "title": "La Fondation Zulip",
-        "titleOriginal": "The Zulip Foundation",
-        "url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-        "source": "blog.zulip.com",
-        "score": 184,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=48152168",
-        "date": "il y a 5 h"
+        "title": "Ploopy Bean : un point de repère pour chaque ordinateur",
+        "titleOriginal": "Ploopy Bean: a trackpoint for every computer",
+        "url": "https://ploopy.co/shop/bean-pointing-stick/",
+        "source": "ploopy.co",
+        "score": 80,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48114208",
+        "date": "il y a 3 j"
       },
       {
-        "title": "Comment écrire sur des disques SSD [pdf]",
-        "titleOriginal": "How to Write to SSDs [pdf]",
-        "url": "https://www.vldb.org/pvldb/vol19/p1469-lee.pdf",
-        "source": "vldb.org",
-        "score": 25,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48154711",
-        "date": "il y a 1 h"
+        "title": "Modèles SQL que j'utilise pour détecter la fraude aux transactions",
+        "titleOriginal": "SQL patterns I use to catch transaction fraud",
+        "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+        "source": "analytics.fixelsmith.com",
+        "score": 137,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=48155212",
+        "date": "il y a 8 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260513",
+    "resultsDate": "20260515",
     "results": [
       {
-        "id": "401871337",
-        "date": "2026-05-14T00:00Z",
+        "id": "401871338",
+        "date": "2026-05-15T23:00Z",
         "isPlayoff": true,
         "state": "post",
-        "statusShort": "Final/OT",
+        "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "8",
-          "abbr": "DET",
-          "name": "Pistons",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-          "score": 113,
-          "record": "60-22",
-          "winner": false
-        },
-        "away": {
           "id": "5",
           "abbr": "CLE",
           "name": "Cavaliers",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 117,
+          "score": 94,
           "record": "52-30",
+          "winner": false
+        },
+        "away": {
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 115,
+          "record": "60-22",
           "winner": true
         },
         "series": {
-          "summary": "CLE leads series 3-2",
+          "summary": "Series tied 3-3",
           "completed": false,
-          "round": "East Semifinals - Game 5",
-          "winsHome": 2,
+          "round": "East Semifinals - Game 6",
+          "winsHome": 3,
           "winsAway": 3
+        }
+      },
+      {
+        "id": "401871157",
+        "date": "2026-05-16T01:30Z",
+        "isPlayoff": true,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "16",
+          "abbr": "MIN",
+          "name": "Timberwolves",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+          "score": 109,
+          "record": "49-33",
+          "winner": false
+        },
+        "away": {
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 139,
+          "record": "62-20",
+          "winner": true
+        },
+        "series": {
+          "summary": "SA wins series 4-2",
+          "completed": true,
+          "round": "West Semifinals - Game 6",
+          "winsHome": 2,
+          "winsAway": 4
         }
       }
     ],
@@ -293,9 +326,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
           },
           "winsHome": 2,
-          "winsAway": 3,
-          "summary": "SA leads series 3-2",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "SA wins series 4-2",
+          "completed": true,
           "round": "West Semifinals - Game 6",
           "roundLabel": "Ouest · Finales NBA",
           "roundOrder": 4,
@@ -313,8 +346,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
           },
           "winsHome": 3,
-          "winsAway": 2,
-          "summary": "CLE leads series 3-2",
+          "winsAway": 3,
+          "summary": "Series tied 3-3",
           "completed": false,
           "round": "East Semifinals - Game 6",
           "roundLabel": "Est · Finales NBA",
