@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-05-16T07:33:27.188Z",
+  "updatedAt": "2026-05-16T11:32:33.901Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 8,
-      "feelsLike": 6,
-      "code": 80,
-      "wind": 5,
-      "humidity": 86
+      "temp": 14,
+      "feelsLike": 10,
+      "code": 3,
+      "wind": 16,
+      "humidity": 55
     },
     "forecast": [
       {
         "date": "2026-05-16",
-        "code": 81,
+        "code": 61,
         "tmax": 14,
         "tmin": 6
       },
       {
         "date": "2026-05-17",
-        "code": 63,
-        "tmax": 14,
-        "tmin": 7
+        "code": 80,
+        "tmax": 15,
+        "tmin": 6
       },
       {
         "date": "2026-05-18",
-        "code": 61,
-        "tmax": 16,
+        "code": 95,
+        "tmax": 15,
         "tmin": 8
       },
       {
         "date": "2026-05-19",
         "code": 61,
-        "tmax": 17,
-        "tmin": 6
+        "tmax": 16,
+        "tmin": 5
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES GENS CROIENT AU RÉSULTAT AVANT DE CROIRE AU POTENTIEL",
+        "title": "LA VÉRITÉ SUR LE LOUIS D'OR",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "e1CaeIP1Zno",
-        "thumbnail": "https://i.ytimg.com/vi/e1CaeIP1Zno/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e1CaeIP1Zno",
-        "publishedAt": "2026-05-16T07:00:02+00:00"
+        "videoId": "h7PMWzoxysw",
+        "thumbnail": "https://i.ytimg.com/vi/h7PMWzoxysw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h7PMWzoxysw",
+        "publishedAt": "2026-05-16T11:00:07+00:00"
       },
       {
         "title": "Une nouvelle race humaine se prépare et personne ne le voit venir !",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Δ-Mem : Mémoire en ligne efficace pour les grands modèles linguistiques",
+        "titleOriginal": "Δ-Mem: Efficient Online Memory for Large Language Models",
+        "url": "https://arxiv.org/abs/2605.12357",
+        "source": "arxiv.org",
+        "score": 42,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48158506",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Futhark par l'exemple",
+        "titleOriginal": "Futhark by Example",
+        "url": "https://futhark-lang.org/examples.html",
+        "source": "futhark-lang.org",
+        "score": 29,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48158606",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Projet Gutenberg – continue de s'améliorer",
         "titleOriginal": "Project Gutenberg – keeps getting better",
         "url": "https://www.gutenberg.org/",
         "source": "gutenberg.org",
-        "score": 888,
-        "comments": 189,
+        "score": 971,
+        "comments": 202,
         "hnUrl": "https://news.ycombinator.com/item?id=48150431",
-        "date": "il y a 15 h"
+        "date": "il y a 19 h"
       },
       {
-        "title": "La scène CTF est morte",
-        "titleOriginal": "The CTF scene is dead",
+        "title": "Frontier AI a cassé le format CTF ouvert",
+        "titleOriginal": "Frontier AI has broken the open CTF format",
         "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
         "source": "kabir.au",
-        "score": 4,
-        "comments": 0,
+        "score": 160,
+        "comments": 137,
         "hnUrl": "https://news.ycombinator.com/item?id=48157559",
-        "date": "il y a 31 min"
-      },
-      {
-        "title": "Ploopy Bean : un point de repère pour chaque ordinateur",
-        "titleOriginal": "Ploopy Bean: a trackpoint for every computer",
-        "url": "https://ploopy.co/shop/bean-pointing-stick/",
-        "source": "ploopy.co",
-        "score": 80,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=48114208",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Modèles SQL que j'utilise pour détecter la fraude aux transactions",
-        "titleOriginal": "SQL patterns I use to catch transaction fraud",
-        "url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-        "source": "analytics.fixelsmith.com",
-        "score": 137,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=48155212",
-        "date": "il y a 8 h"
+        "date": "il y a 4 h"
       }
     ]
   },
