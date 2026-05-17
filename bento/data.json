@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-17T19:55:47.534Z",
+  "updatedAt": "2026-05-17T22:39:06.793Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 63,
-      "wind": 5,
-      "humidity": 89
+      "temp": 10,
+      "feelsLike": 9,
+      "code": 61,
+      "wind": 4,
+      "humidity": 94
     },
     "forecast": [
-      {
-        "date": "2026-05-17",
-        "code": 80,
-        "tmax": 16,
-        "tmin": 8
-      },
       {
         "date": "2026-05-18",
         "code": 80,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-05-20",
-        "code": 3,
-        "tmax": 19,
+        "code": 80,
+        "tmax": 20,
         "tmin": 12
+      },
+      {
+        "date": "2026-05-21",
+        "code": 45,
+        "tmax": 24,
+        "tmin": 9
       }
     ]
   },
@@ -199,12 +199,32 @@
   "hackernews": {
     "items": [
       {
+        "title": "La VoIP ramène les téléphones payants à l'ancienne dans le Vermont rural (2025)",
+        "titleOriginal": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
+        "url": "https://spectrum.ieee.org/payphone-voip",
+        "source": "spectrum.ieee.org",
+        "score": 80,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48172505",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Horreur de codage Prolog",
+        "titleOriginal": "Prolog Coding Horror",
+        "url": "https://www.metalevel.at/prolog/horror",
+        "source": "metalevel.at",
+        "score": 24,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48173268",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Mercurial, 20 ans et plus : comment sommes-nous encore en vie ? [vidéo]",
         "titleOriginal": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
         "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
         "source": "fosdem.org",
-        "score": 61,
-        "comments": 25,
+        "score": 129,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=48147351",
         "date": "il y a 2 j"
       },
@@ -213,30 +233,10 @@
         "titleOriginal": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
         "url": "https://github.com/tech4bot/rk3562deb",
         "source": "github.com",
-        "score": 163,
-        "comments": 89,
+        "score": 210,
+        "comments": 113,
         "hnUrl": "https://news.ycombinator.com/item?id=48168668",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Je ne pense pas que l'IA accélérera vos processus",
-        "titleOriginal": "I don't think AI will make your processes go faster",
-        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-        "source": "frederickvanbrabant.com",
-        "score": 393,
-        "comments": 295,
-        "hnUrl": "https://news.ycombinator.com/item?id=48168221",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Dontsurveil.me",
-        "titleOriginal": "Dontsurveil.me",
-        "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
-        "source": "opencivics-labs.github.io",
-        "score": 44,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48170247",
-        "date": "il y a 3 h"
+        "date": "il y a 9 h"
       }
     ]
   },
