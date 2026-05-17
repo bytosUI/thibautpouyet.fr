@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-05-17T15:42:04.784Z",
+  "updatedAt": "2026-05-17T19:55:47.534Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 3,
-      "wind": 12,
-      "humidity": 67
+      "temp": 11,
+      "feelsLike": 10,
+      "code": 63,
+      "wind": 5,
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-05-17",
-        "code": 95,
+        "code": 80,
         "tmax": 16,
         "tmin": 8
       },
       {
         "date": "2026-05-18",
         "code": 80,
-        "tmax": 16,
+        "tmax": 15,
         "tmin": 10
       },
       {
         "date": "2026-05-19",
-        "code": 80,
+        "code": 61,
         "tmax": 15,
         "tmin": 8
       },
       {
         "date": "2026-05-20",
-        "code": 61,
-        "tmax": 20,
+        "code": 3,
+        "tmax": 19,
         "tmin": 12
       }
     ]
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "S9GB1TxaDUI",
+        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
+        "publishedAt": "2026-05-17T17:21:43+00:00"
+      },
       {
         "title": "Je termine de rénover la petite ruine #21",
         "channel": "17h17",
@@ -115,15 +124,6 @@
         "publishedAt": "2026-05-03T12:58:26+00:00"
       },
       {
-        "title": "RÉNOVER UNE MEZZANINE À MOINDRE COÛT ? - EP27",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "r5IgC-QcEfI",
-        "thumbnail": "https://i.ytimg.com/vi/r5IgC-QcEfI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r5IgC-QcEfI",
-        "publishedAt": "2026-05-03T10:13:08+00:00"
-      },
-      {
         "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -155,16 +155,16 @@
         "url": "https://www.themoviedb.org/movie/936075"
       },
       {
-        "title": "Le Diable s'habille en Prada 2",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
-        "url": "https://www.themoviedb.org/movie/1314481"
-      },
-      {
         "title": "Obsession",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
         "url": "https://www.themoviedb.org/movie/1339713"
+      },
+      {
+        "title": "Le Diable s'habille en Prada 2",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+        "url": "https://www.themoviedb.org/movie/1314481"
       }
     ]
   },
@@ -199,43 +199,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Je ne pense pas que l'IA accélérera vos processus",
-        "titleOriginal": "I don't think AI will make your processes go faster",
-        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
-        "source": "frederickvanbrabant.com",
-        "score": 211,
-        "comments": 142,
-        "hnUrl": "https://news.ycombinator.com/item?id=48168221",
-        "date": "il y a 3 h"
+        "title": "Mercurial, 20 ans et plus : comment sommes-nous encore en vie ? [vidéo]",
+        "titleOriginal": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+        "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+        "source": "fosdem.org",
+        "score": 61,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48147351",
+        "date": "il y a 2 j"
       },
       {
         "title": "J'ai transformé une tablette Android RK3562 à 80 $ en une station de travail Debian Linux",
         "titleOriginal": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
         "url": "https://github.com/tech4bot/rk3562deb",
         "source": "github.com",
-        "score": 38,
-        "comments": 9,
+        "score": 163,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=48168668",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Natif jusqu'au bout, jusqu'à ce que vous ayez besoin de texte",
-        "titleOriginal": "Native all the way, until you need text",
-        "url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
-        "source": "justsitandgrin.im",
-        "score": 221,
-        "comments": 150,
-        "hnUrl": "https://news.ycombinator.com/item?id=48168058",
-        "date": "il y a 3 h"
+        "title": "Je ne pense pas que l'IA accélérera vos processus",
+        "titleOriginal": "I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "source": "frederickvanbrabant.com",
+        "score": 393,
+        "comments": 295,
+        "hnUrl": "https://news.ycombinator.com/item?id=48168221",
+        "date": "il y a 7 h"
       },
       {
-        "title": "Chaque abonnement à l'IA est une bombe à retardement pour les entreprises",
-        "titleOriginal": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-        "url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-        "source": "thestateofbrand.com",
-        "score": 161,
-        "comments": 116,
-        "hnUrl": "https://news.ycombinator.com/item?id=48168056",
+        "title": "Dontsurveil.me",
+        "titleOriginal": "Dontsurveil.me",
+        "url": "https://opencivics-labs.github.io/dontsurveil.me/c22.html",
+        "source": "opencivics-labs.github.io",
+        "score": 44,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48170247",
         "date": "il y a 3 h"
       }
     ]
