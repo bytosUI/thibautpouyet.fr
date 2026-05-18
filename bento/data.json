@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-18T12:06:43.639Z",
+  "updatedAt": "2026-05-18T16:00:44.836Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 13,
       "code": 3,
-      "wind": 10,
-      "humidity": 48
+      "wind": 15,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-05-19",
         "code": 61,
-        "tmax": 15,
+        "tmax": 16,
         "tmin": 9
       },
       {
         "date": "2026-05-20",
-        "code": 61,
+        "code": 3,
         "tmax": 20,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-05-21",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 9671,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES DIFFÉRENTES PERSONNALITÉS DE XAVIER DUPONT DE LIGONNÈS",
+        "title": "AFFAIRE DUPONT DE LIGONNÈS : D’UNE DISPARITION À UN ASSASSINAT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "h6YAfK8ekB8",
-        "thumbnail": "https://i.ytimg.com/vi/h6YAfK8ekB8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h6YAfK8ekB8",
-        "publishedAt": "2026-05-18T11:00:14+00:00"
+        "videoId": "tmvfaPrcqPA",
+        "thumbnail": "https://i.ytimg.com/vi/tmvfaPrcqPA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tmvfaPrcqPA",
+        "publishedAt": "2026-05-18T16:00:27+00:00"
+      },
+      {
+        "title": "On se fait prank par les marins-pompiers...",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ixLoebZm4jo",
+        "thumbnail": "https://i.ytimg.com/vi/ixLoebZm4jo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ixLoebZm4jo",
+        "publishedAt": "2026-05-18T15:07:49+00:00"
       },
       {
         "title": "Les infopreneurs sont les meilleurs marketeurs ?",
@@ -94,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
         "publishedAt": "2026-05-17T15:17:38+00:00"
-      },
-      {
-        "title": "On essaie la planche des pompiers",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "QL9ISBwRcnQ",
-        "thumbnail": "https://i.ytimg.com/vi/QL9ISBwRcnQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QL9ISBwRcnQ",
-        "publishedAt": "2026-05-16T17:33:22+00:00"
       },
       {
         "title": "Une nouvelle race humaine se prépare et personne ne le voit venir !",
@@ -181,13 +173,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 3 j",
+        "time": "il y a 4 j",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 3 j",
+        "time": "il y a 4 j",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les fondements d'un système d'exploitation (OSP) fiable et sécurisé (1979) [pdf]",
-        "titleOriginal": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-        "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
-        "source": "csl.sri.com",
-        "score": 50,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=48177300",
-        "date": "il y a 2 h"
+        "title": "Nous avons arrêté le spam des robots IA dans notre repo GitHub à l'aide du drapeau d'auteur de Git",
+        "titleOriginal": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
+        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "source": "archestra.ai",
+        "score": 57,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48181125",
+        "date": "il y a 36 min"
       },
       {
-        "title": "J'ai automatisé les opt-outs pour 500 sites de courtiers de données (open source)",
-        "titleOriginal": "I automated opt-outs for 500 data broker sites (open source)",
-        "url": "https://github.com/stephenlthorn/auto-identity-remove",
+        "title": "Show HN : Files.md - Alternative open source à l'obsidienne",
+        "titleOriginal": "Show HN: Files.md – Open-source alternative to Obsidian",
+        "url": "https://github.com/zakirullin/files.md",
         "source": "github.com",
-        "score": 8,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48178184",
-        "date": "il y a 33 min"
-      },
-      {
-        "title": "GenCAD",
-        "titleOriginal": "GenCAD",
-        "url": "https://gencad.github.io/",
-        "source": "gencad.github.io",
-        "score": 355,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=48173429",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Dogme 25 – Vœu de chasteté",
-        "titleOriginal": "Dogme 25 – Vow of Chastity",
-        "url": "https://dogma25.dk/",
-        "source": "dogma25.dk",
-        "score": 9,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48177452",
+        "score": 220,
+        "comments": 128,
+        "hnUrl": "https://news.ycombinator.com/item?id=48179677",
         "date": "il y a 2 h"
+      },
+      {
+        "title": "1024000^2 blocs, 2B2T Minecraft Server World Download Project et découvertes",
+        "titleOriginal": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+        "url": "https://github.com/2b2tplace/1m_release",
+        "source": "github.com",
+        "score": 52,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48180204",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "La rénovation silencieuse à Bitwarden",
+        "titleOriginal": "The Quiet Renovation at Bitwarden",
+        "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
+        "source": "blog.ppb1701.com",
+        "score": 85,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=48163389",
+        "date": "hier"
       }
     ]
   },
