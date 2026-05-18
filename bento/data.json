@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-18T16:00:44.836Z",
+  "updatedAt": "2026-05-18T18:17:48.585Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 13,
-      "code": 3,
-      "wind": 15,
-      "humidity": 57
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 61,
+      "wind": 8,
+      "humidity": 75
     },
     "forecast": [
       {
@@ -20,13 +20,13 @@
         "date": "2026-05-19",
         "code": 61,
         "tmax": 16,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-05-20",
-        "code": 3,
+        "code": 80,
         "tmax": 20,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-05-21",
@@ -37,13 +37,21 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 111,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -137,16 +145,16 @@
   "films": {
     "top5": [
       {
-        "title": "Mortal Kombat II",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
-        "url": "https://www.themoviedb.org/movie/931285"
-      },
-      {
         "title": "Wedding Nightmare : Deuxième partie",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
         "url": "https://www.themoviedb.org/movie/1266127"
+      },
+      {
+        "title": "Mortal Kombat II",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+        "url": "https://www.themoviedb.org/movie/931285"
       },
       {
         "title": "Michael",
@@ -199,42 +207,42 @@
   "hackernews": {
     "items": [
       {
+        "title": "Anthropic acquiert l'acier inoxydable",
+        "titleOriginal": "Anthropic Acquires Stainless",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "source": "anthropic.com",
+        "score": 117,
+        "comments": 66,
+        "hnUrl": "https://news.ycombinator.com/item?id=48182281",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Nous avons arrêté le spam des robots IA dans notre repo GitHub à l'aide du drapeau d'auteur de Git",
         "titleOriginal": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
         "url": "https://archestra.ai/blog/only-responsible-ai",
         "source": "archestra.ai",
-        "score": 57,
-        "comments": 8,
+        "score": 246,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=48181125",
-        "date": "il y a 36 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Show HN : Files.md - Alternative open source à l'obsidienne",
         "titleOriginal": "Show HN: Files.md – Open-source alternative to Obsidian",
         "url": "https://github.com/zakirullin/files.md",
         "source": "github.com",
-        "score": 220,
-        "comments": 128,
+        "score": 348,
+        "comments": 190,
         "hnUrl": "https://news.ycombinator.com/item?id=48179677",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "1024000^2 blocs, 2B2T Minecraft Server World Download Project et découvertes",
-        "titleOriginal": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-        "url": "https://github.com/2b2tplace/1m_release",
-        "source": "github.com",
-        "score": 52,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48180204",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "La rénovation silencieuse à Bitwarden",
         "titleOriginal": "The Quiet Renovation at Bitwarden",
         "url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
         "source": "blog.ppb1701.com",
-        "score": 85,
-        "comments": 39,
+        "score": 262,
+        "comments": 127,
         "hnUrl": "https://news.ycombinator.com/item?id=48163389",
         "date": "hier"
       }
