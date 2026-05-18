@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-05-17T22:39:06.793Z",
+  "updatedAt": "2026-05-18T12:06:43.639Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
-      "code": 61,
-      "wind": 4,
-      "humidity": 94
+      "temp": 16,
+      "feelsLike": 13,
+      "code": 3,
+      "wind": 10,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-05-18",
         "code": 80,
-        "tmax": 15,
+        "tmax": 17,
         "tmin": 10
       },
       {
         "date": "2026-05-19",
         "code": 61,
         "tmax": 15,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-05-20",
-        "code": 80,
+        "code": 61,
         "tmax": 20,
         "tmin": 12
       },
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 9671,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -51,6 +59,24 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "LES DIFFÉRENTES PERSONNALITÉS DE XAVIER DUPONT DE LIGONNÈS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "h6YAfK8ekB8",
+        "thumbnail": "https://i.ytimg.com/vi/h6YAfK8ekB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h6YAfK8ekB8",
+        "publishedAt": "2026-05-18T11:00:14+00:00"
+      },
+      {
+        "title": "Les infopreneurs sont les meilleurs marketeurs ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "BOaKaLDg2UE",
+        "thumbnail": "https://i.ytimg.com/vi/BOaKaLDg2UE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BOaKaLDg2UE",
+        "publishedAt": "2026-05-18T06:49:32+00:00"
+      },
       {
         "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
         "channel": "Rachel & Emilien - Rénovation",
@@ -70,15 +96,6 @@
         "publishedAt": "2026-05-17T15:17:38+00:00"
       },
       {
-        "title": "XAVIER DUPONT DE LIGONNÈS : SON DERNIER MESSAGE VOCAL AVANT LE MASSACRE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3H0xP0u7YCY",
-        "thumbnail": "https://i.ytimg.com/vi/3H0xP0u7YCY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3H0xP0u7YCY",
-        "publishedAt": "2026-05-17T14:00:19+00:00"
-      },
-      {
         "title": "On essaie la planche des pompiers",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -86,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/QL9ISBwRcnQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QL9ISBwRcnQ",
         "publishedAt": "2026-05-16T17:33:22+00:00"
-      },
-      {
-        "title": "Son prof d'entrepreneuriat n'avait jamais créé de boîte",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "l0YdJOKa3jg",
-        "thumbnail": "https://i.ytimg.com/vi/l0YdJOKa3jg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l0YdJOKa3jg",
-        "publishedAt": "2026-05-16T15:53:15+00:00"
       },
       {
         "title": "Une nouvelle race humaine se prépare et personne ne le voit venir !",
@@ -199,114 +207,81 @@
   "hackernews": {
     "items": [
       {
-        "title": "La VoIP ramène les téléphones payants à l'ancienne dans le Vermont rural (2025)",
-        "titleOriginal": "VoIP brings back old-fashioned pay phones to rural Vermont (2025)",
-        "url": "https://spectrum.ieee.org/payphone-voip",
-        "source": "spectrum.ieee.org",
-        "score": 80,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48172505",
+        "title": "Les fondements d'un système d'exploitation (OSP) fiable et sécurisé (1979) [pdf]",
+        "titleOriginal": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
+        "url": "http://www.csl.sri.com/users/neumann/psos.pdf",
+        "source": "csl.sri.com",
+        "score": 50,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=48177300",
         "date": "il y a 2 h"
       },
       {
-        "title": "Horreur de codage Prolog",
-        "titleOriginal": "Prolog Coding Horror",
-        "url": "https://www.metalevel.at/prolog/horror",
-        "source": "metalevel.at",
-        "score": 24,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48173268",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Mercurial, 20 ans et plus : comment sommes-nous encore en vie ? [vidéo]",
-        "titleOriginal": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-        "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
-        "source": "fosdem.org",
-        "score": 129,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=48147351",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "J'ai transformé une tablette Android RK3562 à 80 $ en une station de travail Debian Linux",
-        "titleOriginal": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-        "url": "https://github.com/tech4bot/rk3562deb",
+        "title": "J'ai automatisé les opt-outs pour 500 sites de courtiers de données (open source)",
+        "titleOriginal": "I automated opt-outs for 500 data broker sites (open source)",
+        "url": "https://github.com/stephenlthorn/auto-identity-remove",
         "source": "github.com",
-        "score": 210,
-        "comments": 113,
-        "hnUrl": "https://news.ycombinator.com/item?id=48168668",
-        "date": "il y a 9 h"
+        "score": 8,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48178184",
+        "date": "il y a 33 min"
+      },
+      {
+        "title": "GenCAD",
+        "titleOriginal": "GenCAD",
+        "url": "https://gencad.github.io/",
+        "source": "gencad.github.io",
+        "score": 355,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=48173429",
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "Dogme 25 – Vœu de chasteté",
+        "titleOriginal": "Dogme 25 – Vow of Chastity",
+        "url": "https://dogma25.dk/",
+        "source": "dogma25.dk",
+        "score": 9,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48177452",
+        "date": "il y a 2 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260515",
+    "resultsDate": "20260517",
     "results": [
       {
-        "id": "401871338",
-        "date": "2026-05-15T23:00Z",
+        "id": "401871339",
+        "date": "2026-05-18T00:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 94,
-          "record": "52-30",
-          "winner": false
-        },
-        "away": {
           "id": "8",
           "abbr": "DET",
           "name": "Pistons",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-          "score": 115,
+          "score": 94,
           "record": "60-22",
-          "winner": true
-        },
-        "series": {
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "East Semifinals - Game 6",
-          "winsHome": 3,
-          "winsAway": 3
-        }
-      },
-      {
-        "id": "401871157",
-        "date": "2026-05-16T01:30Z",
-        "isPlayoff": true,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 109,
-          "record": "49-33",
           "winner": false
         },
         "away": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 139,
-          "record": "62-20",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 125,
+          "record": "52-30",
           "winner": true
         },
         "series": {
-          "summary": "SA wins series 4-2",
+          "summary": "CLE wins series 4-3",
           "completed": true,
-          "round": "West Semifinals - Game 6",
-          "winsHome": 2,
+          "round": "East Semifinals - Game 7",
+          "winsHome": 3,
           "winsAway": 4
         }
       }
@@ -314,6 +289,26 @@
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "OKC",
+            "name": "Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+          },
+          "teamAway": {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+          },
+          "winsHome": 0,
+          "winsAway": 0,
+          "summary": "Series starts 5/18",
+          "completed": false,
+          "round": "West Finals - Game 1",
+          "roundLabel": "Ouest · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-19T00:30Z"
+        },
         {
           "teamHome": {
             "abbr": "DET",
@@ -326,9 +321,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
           },
           "winsHome": 3,
-          "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "CLE wins series 4-3",
+          "completed": true,
           "round": "East Semifinals - Game 7",
           "roundLabel": "Est · Finales NBA",
           "roundOrder": 4,
