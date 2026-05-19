@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-18T22:55:37.414Z",
+  "updatedAt": "2026-05-19T00:02:24.788Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 10,
       "code": 3,
       "wind": 5,
-      "humidity": 88
+      "humidity": 90
     },
     "forecast": [
       {
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Cliquer",
+        "titleOriginal": "Click",
+        "url": "https://clickclickclick.click/",
+        "source": "clickclickclick.click",
+        "score": 77,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48187054",
+        "date": "il y a 59 min"
+      },
+      {
         "title": "Anthropic acquiert Stainless",
         "titleOriginal": "Anthropic acquires Stainless",
         "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
         "source": "anthropic.com",
-        "score": 304,
-        "comments": 215,
+        "score": 337,
+        "comments": 235,
         "hnUrl": "https://news.ycombinator.com/item?id=48182281",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Hyperpolyglot Lisp : Common Lisp, Racket, Clojure, Emacs Lisp",
         "titleOriginal": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
         "url": "https://hyperpolyglot.org/lisp",
         "source": "hyperpolyglot.org",
-        "score": 92,
-        "comments": 17,
+        "score": 116,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=48184322",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Nous avons arrêté le spam des robots IA dans notre repo GitHub à l'aide du drapeau d'auteur de Git",
         "titleOriginal": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
         "url": "https://archestra.ai/blog/only-responsible-ai",
         "source": "archestra.ai",
-        "score": 370,
-        "comments": 176,
+        "score": 386,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=48181125",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Gouvernement mexicain violé par un utilisateur solo avec Claude, 150 Go exfiltrés",
-        "titleOriginal": "Mexican government breached by solo user with Claude, 150 GB exfiltrated",
-        "url": "https://konstantintkachuk.com/writing/the-floor-doesnt-exist/",
-        "source": "konstantintkachuk.com",
-        "score": 17,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48186326",
-        "date": "il y a 56 min"
+        "date": "il y a 8 h"
       }
     ]
   },
