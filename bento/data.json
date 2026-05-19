@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-05-19T17:35:50.958Z",
+  "updatedAt": "2026-05-19T19:46:57.606Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 15,
-      "code": 3,
-      "wind": 10,
-      "humidity": 76
+      "temp": 14,
+      "feelsLike": 13,
+      "code": 2,
+      "wind": 11,
+      "humidity": 88
     },
     "forecast": [
       {
         "date": "2026-05-19",
-        "code": 61,
+        "code": 80,
         "tmax": 17,
         "tmin": 9
       },
       {
         "date": "2026-05-20",
-        "code": 3,
+        "code": 80,
         "tmax": 20,
         "tmin": 12
       },
       {
         "date": "2026-05-21",
         "code": 45,
-        "tmax": 24,
-        "tmin": 10
+        "tmax": 25,
+        "tmin": 11
       },
       {
         "date": "2026-05-22",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 30128,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -137,12 +145,6 @@
   "films": {
     "top5": [
       {
-        "title": "Wedding Nightmare : Deuxième partie",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
-        "url": "https://www.themoviedb.org/movie/1266127"
-      },
-      {
         "title": "Le Réveil de la Momie",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/f77yGBGOjainowvlGHU70CCQrjV.jpg",
@@ -159,6 +161,12 @@
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "title": "Wedding Nightmare : Deuxième partie",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
+        "url": "https://www.themoviedb.org/movie/1266127"
       },
       {
         "title": "Michael",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Flash Gemini 3.5",
+        "titleOriginal": "Gemini 3.5 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+        "source": "blog.google",
+        "score": 156,
+        "comments": 149,
+        "hnUrl": "https://news.ycombinator.com/item?id=48196570",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "J'ai construit un musée virtuel avec presque tous les systèmes d'exploitation auxquels vous pouvez penser",
         "titleOriginal": "I’ve built a virtual museum with nearly every operating system you can think of",
         "url": "https://virtualosmuseum.org/",
         "source": "virtualosmuseum.org",
-        "score": 183,
-        "comments": 33,
+        "score": 374,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=48195009",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Google I/O",
-        "titleOriginal": "Google I/O",
-        "url": "https://io.google/2026/",
-        "source": "io.google",
-        "score": 45,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=48196020",
-        "date": "il y a 34 min"
+        "title": "Google modifie son champ de recherche",
+        "titleOriginal": "Google changes its search box",
+        "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+        "source": "blog.google",
+        "score": 64,
+        "comments": 187,
+        "hnUrl": "https://news.ycombinator.com/item?id=48197370",
+        "date": "il y a 1 h"
       },
       {
         "title": "J'ai rejoint Anthropic",
         "titleOriginal": "I’ve joined Anthropic",
         "url": "https://twitter.com/karpathy/status/2056753169888334312",
         "source": "twitter.com",
-        "score": 623,
-        "comments": 248,
+        "score": 887,
+        "comments": 347,
         "hnUrl": "https://news.ycombinator.com/item?id=48194352",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Apple dévoile de nouvelles fonctionnalités d'accessibilité",
-        "titleOriginal": "Apple unveils new accessibility features",
-        "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-        "source": "apple.com",
-        "score": 387,
-        "comments": 215,
-        "hnUrl": "https://news.ycombinator.com/item?id=48192224",
-        "date": "il y a 5 h"
+        "date": "il y a 4 h"
       }
     ]
   },
