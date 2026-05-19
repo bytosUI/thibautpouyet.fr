@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-19T21:14:46.979Z",
+  "updatedAt": "2026-05-19T22:43:03.258Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 14,
-      "feelsLike": 13,
+      "feelsLike": 12,
       "code": 3,
-      "wind": 10,
-      "humidity": 90
+      "wind": 13,
+      "humidity": 89
     },
     "forecast": [
-      {
-        "date": "2026-05-19",
-        "code": 80,
-        "tmax": 17,
-        "tmin": 9
-      },
       {
         "date": "2026-05-20",
         "code": 80,
@@ -30,14 +24,29 @@
       },
       {
         "date": "2026-05-22",
-        "code": 1,
+        "code": 3,
         "tmax": 27,
         "tmin": 12
+      },
+      {
+        "date": "2026-05-23",
+        "code": 2,
+        "tmax": 29,
+        "tmin": 13
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 95,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -203,40 +211,40 @@
         "titleOriginal": "Gemini 3.5 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
         "source": "blog.google",
-        "score": 319,
-        "comments": 279,
+        "score": 424,
+        "comments": 339,
         "hnUrl": "https://news.ycombinator.com/item?id=48196570",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Google modifie son champ de recherche",
         "titleOriginal": "Google changes its search box",
         "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
         "source": "blog.google",
-        "score": 182,
-        "comments": 338,
+        "score": 261,
+        "comments": 430,
         "hnUrl": "https://news.ycombinator.com/item?id=48197370",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "J'ai construit un musée virtuel avec presque tous les systèmes d'exploitation auxquels vous pouvez penser",
         "titleOriginal": "I’ve built a virtual museum with nearly every operating system you can think of",
         "url": "https://virtualosmuseum.org/",
         "source": "virtualosmuseum.org",
-        "score": 438,
-        "comments": 99,
+        "score": 497,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=48195009",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "OpenAI adopte le filigrane SynthID de Google pour les images IA avec outil de vérification",
         "titleOriginal": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
         "url": "https://openai.com/index/advancing-content-provenance/",
         "source": "openai.com",
-        "score": 65,
-        "comments": 25,
+        "score": 112,
+        "comments": 53,
         "hnUrl": "https://news.ycombinator.com/item?id=48198291",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
