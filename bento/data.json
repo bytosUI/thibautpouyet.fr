@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-05-19T14:49:14.756Z",
+  "updatedAt": "2026-05-19T17:35:50.958Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 16,
       "feelsLike": 15,
       "code": 3,
-      "wind": 13,
-      "humidity": 62
+      "wind": 10,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-05-19",
-        "code": 95,
+        "code": 61,
         "tmax": 17,
         "tmin": 9
       },
       {
         "date": "2026-05-20",
-        "code": 80,
+        "code": 3,
         "tmax": 20,
         "tmin": 12
       },
@@ -26,13 +26,13 @@
         "date": "2026-05-21",
         "code": 45,
         "tmax": 24,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-05-22",
-        "code": 3,
+        "code": 1,
         "tmax": 27,
-        "tmin": 13
+        "tmin": 12
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Carlito fait une annonce au poste de commandement des marins-pompiers",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "01SOVKnX4fA",
+        "thumbnail": "https://i.ytimg.com/vi/01SOVKnX4fA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=01SOVKnX4fA",
+        "publishedAt": "2026-05-19T15:20:08+00:00"
+      },
+      {
         "title": "AFFAIRE ÉMILE : CE JOURNALISTE AVOUE AVOIR FAIT DU MAL À LA FAMILLE DU PETIT GARÇON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/uIbCCBQsAgA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uIbCCBQsAgA",
         "publishedAt": "2026-05-19T13:02:38+00:00"
-      },
-      {
-        "title": "On se fait prank par les marins-pompiers...",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ixLoebZm4jo",
-        "thumbnail": "https://i.ytimg.com/vi/ixLoebZm4jo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ixLoebZm4jo",
-        "publishedAt": "2026-05-18T15:07:49+00:00"
       },
       {
         "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
@@ -97,7 +97,7 @@
         "publishedAt": "2026-05-17T15:17:38+00:00"
       },
       {
-        "title": "Une nouvelle race humaine se prépare et personne ne le voit venir !",
+        "title": "La fin de l'humanité 1.0 que personne ne voit venir !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "3uyhT2LtNz4",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenBSD 7.9 publié",
-        "titleOriginal": "OpenBSD 7.9 Released",
-        "url": "https://www.openbsd.org/79.html",
-        "source": "openbsd.org",
-        "score": 140,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=48192882",
+        "title": "J'ai construit un musée virtuel avec presque tous les systèmes d'exploitation auxquels vous pouvez penser",
+        "titleOriginal": "I’ve built a virtual museum with nearly every operating system you can think of",
+        "url": "https://virtualosmuseum.org/",
+        "source": "virtualosmuseum.org",
+        "score": 183,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48195009",
         "date": "il y a 1 h"
       },
       {
-        "title": "Nouvelles fonctionnalités d'accessibilité optimisées par Apple Intelligence",
-        "titleOriginal": "New accessibility features powered by Apple Intelligence",
-        "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
-        "source": "apple.com",
-        "score": 219,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=48192224",
+        "title": "Google I/O",
+        "titleOriginal": "Google I/O",
+        "url": "https://io.google/2026/",
+        "source": "io.google",
+        "score": 45,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48196020",
+        "date": "il y a 34 min"
+      },
+      {
+        "title": "J'ai rejoint Anthropic",
+        "titleOriginal": "I’ve joined Anthropic",
+        "url": "https://twitter.com/karpathy/status/2056753169888334312",
+        "source": "twitter.com",
+        "score": 623,
+        "comments": 248,
+        "hnUrl": "https://news.ycombinator.com/item?id=48194352",
         "date": "il y a 2 h"
       },
       {
-        "title": "Éclaboussure gaussienne d'une fraise",
-        "titleOriginal": "Gaussian Splat of a Strawberry",
-        "url": "https://superspl.at/scene/84df8849",
-        "source": "superspl.at",
-        "score": 260,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=48191602",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Show HN : J'ai fait un poseur 3D pour les artistes",
-        "titleOriginal": "Show HN: I made a 3D pose maker for artists",
-        "url": "https://setpose.com/",
-        "source": "setpose.com",
-        "score": 18,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48193474",
-        "date": "il y a 44 min"
+        "title": "Apple dévoile de nouvelles fonctionnalités d'accessibilité",
+        "titleOriginal": "Apple unveils new accessibility features",
+        "url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+        "source": "apple.com",
+        "score": 387,
+        "comments": 215,
+        "hnUrl": "https://news.ycombinator.com/item?id=48192224",
+        "date": "il y a 5 h"
       }
     ]
   },
