@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-19T00:02:24.788Z",
+  "updatedAt": "2026-05-19T04:40:11.178Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
+      "temp": 9,
+      "feelsLike": 8,
       "code": 3,
       "wind": 5,
-      "humidity": 90
+      "humidity": 93
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-05-20",
-        "code": 3,
+        "code": 80,
         "tmax": 19,
         "tmin": 12
       },
       {
         "date": "2026-05-21",
         "code": 45,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 11
       },
       {
         "date": "2026-05-22",
-        "code": 1,
-        "tmax": 28,
-        "tmin": 13
+        "code": 3,
+        "tmax": 26,
+        "tmin": 12
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "AFFAIRE DUPONT DE LIGONNÈS : D’UNE DISPARITION À UN ASSASSINAT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "tmvfaPrcqPA",
-        "thumbnail": "https://i.ytimg.com/vi/tmvfaPrcqPA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tmvfaPrcqPA",
-        "publishedAt": "2026-05-18T16:00:27+00:00"
-      },
-      {
-        "title": "On se fait prank par les marins-pompiers...",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ixLoebZm4jo",
-        "thumbnail": "https://i.ytimg.com/vi/ixLoebZm4jo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ixLoebZm4jo",
-        "publishedAt": "2026-05-18T15:07:49+00:00"
-      },
-      {
-        "title": "Les infopreneurs sont les meilleurs marketeurs ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "BOaKaLDg2UE",
-        "thumbnail": "https://i.ytimg.com/vi/BOaKaLDg2UE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BOaKaLDg2UE",
-        "publishedAt": "2026-05-18T06:49:32+00:00"
-      },
-      {
-        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "S9GB1TxaDUI",
-        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
-        "publishedAt": "2026-05-17T17:21:43+00:00"
-      },
-      {
-        "title": "Je termine de rénover la petite ruine #21",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hJ80eNKg1iA",
-        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
-        "publishedAt": "2026-05-17T15:17:38+00:00"
-      },
-      {
-        "title": "Une nouvelle race humaine se prépare et personne ne le voit venir !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "3uyhT2LtNz4",
-        "thumbnail": "https://i.ytimg.com/vi/3uyhT2LtNz4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3uyhT2LtNz4",
-        "publishedAt": "2026-05-16T06:30:03+00:00"
-      },
-      {
-        "title": "Il a écouté la petite voix dans sa tête",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "lXH-gzsAFUA",
-        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
-        "publishedAt": "2026-05-09T19:11:02+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      },
-      {
-        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "d86srme8IJw",
-        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
-        "publishedAt": "2026-04-28T18:05:29+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -199,88 +117,108 @@
   "hackernews": {
     "items": [
       {
-        "title": "Cliquer",
-        "titleOriginal": "Click",
+        "title": "Peter Salus est décédé",
+        "titleOriginal": "Peter Salus has died",
+        "url": "https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html",
+        "source": "tuhs.org",
+        "score": 78,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48188665",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Les six derniers mois en LLM en cinq minutes",
+        "titleOriginal": "The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+        "source": "simonwillison.net",
+        "score": 102,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48188183",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Click (2016)",
+        "titleOriginal": "Click (2016)",
         "url": "https://clickclickclick.click/",
         "source": "clickclickclick.click",
-        "score": 77,
-        "comments": 16,
+        "score": 236,
+        "comments": 57,
         "hnUrl": "https://news.ycombinator.com/item?id=48187054",
-        "date": "il y a 59 min"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Anthropic acquiert Stainless",
-        "titleOriginal": "Anthropic acquires Stainless",
-        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-        "source": "anthropic.com",
-        "score": 337,
-        "comments": 235,
-        "hnUrl": "https://news.ycombinator.com/item?id=48182281",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Hyperpolyglot Lisp : Common Lisp, Racket, Clojure, Emacs Lisp",
-        "titleOriginal": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-        "url": "https://hyperpolyglot.org/lisp",
-        "source": "hyperpolyglot.org",
-        "score": 116,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=48184322",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Nous avons arrêté le spam des robots IA dans notre repo GitHub à l'aide du drapeau d'auteur de Git",
-        "titleOriginal": "We stopped AI bot spam in our GitHub repo using Git's –author flag",
-        "url": "https://archestra.ai/blog/only-responsible-ai",
-        "source": "archestra.ai",
-        "score": 386,
-        "comments": 183,
-        "hnUrl": "https://news.ycombinator.com/item?id=48181125",
-        "date": "il y a 8 h"
+        "title": "N'importe qui sur Internet peut sonner à votre porte",
+        "titleOriginal": "Anyone on the Internet Can Ring Your Doorbell",
+        "url": "https://www.abgeo.dev/blog/anyone-can-ring-your-doorbell",
+        "source": "abgeo.dev",
+        "score": 34,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48165944",
+        "date": "il y a 2 j"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260517",
+    "resultsDate": "20260518",
     "results": [
       {
-        "id": "401871339",
-        "date": "2026-05-18T00:00Z",
+        "id": "401873197",
+        "date": "2026-05-19T00:30Z",
         "isPlayoff": true,
         "state": "post",
-        "statusShort": "Final",
+        "statusShort": "Final/2OT",
         "completed": true,
         "home": {
-          "id": "8",
-          "abbr": "DET",
-          "name": "Pistons",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
-          "score": 94,
-          "record": "60-22",
+          "id": "25",
+          "abbr": "OKC",
+          "name": "Thunder",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+          "score": 115,
+          "record": "64-18",
           "winner": false
         },
         "away": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 125,
-          "record": "52-30",
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 122,
+          "record": "62-20",
           "winner": true
         },
         "series": {
-          "summary": "CLE wins series 4-3",
-          "completed": true,
-          "round": "East Semifinals - Game 7",
-          "winsHome": 3,
-          "winsAway": 4
+          "summary": "SA leads series 1-0",
+          "completed": false,
+          "round": "West Finals - Game 1",
+          "winsHome": 0,
+          "winsAway": 1
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+          },
+          "teamAway": {
+            "abbr": "CLE",
+            "name": "Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+          },
+          "winsHome": 0,
+          "winsAway": 0,
+          "summary": "Series starts 5/19",
+          "completed": false,
+          "round": "East Finals - Game 1",
+          "roundLabel": "Est · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-20T00:00Z"
+        },
         {
           "teamHome": {
             "abbr": "OKC",
@@ -293,8 +231,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
           },
           "winsHome": 0,
-          "winsAway": 0,
-          "summary": "Series starts 5/18",
+          "winsAway": 1,
+          "summary": "SA leads series 1-0",
           "completed": false,
           "round": "West Finals - Game 1",
           "roundLabel": "Ouest · Finales NBA",
