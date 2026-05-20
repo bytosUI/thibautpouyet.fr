@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T14:02:53.874Z",
+  "updatedAt": "2026-05-20T17:37:21.766Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 19,
-      "feelsLike": 17,
+      "feelsLike": 18,
       "code": 3,
-      "wind": 16,
-      "humidity": 58
+      "wind": 14,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -20,42 +20,27 @@
         "date": "2026-05-21",
         "code": 45,
         "tmax": 24,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-05-22",
         "code": 1,
         "tmax": 27,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-05-23",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 13
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Don't Panic! It Is Just Turbulence",
-        "viewers": 5718,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 505,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -67,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT LA SÉRIE “FRIENDS” VOUS MANIPULE ?",
+        "title": "LA TECHNIQUE QU’UTILISENT LES POLITIQUES POUR NOUS MANIPULER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Gn9ZtWM0PcA",
-        "thumbnail": "https://i.ytimg.com/vi/Gn9ZtWM0PcA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gn9ZtWM0PcA",
-        "publishedAt": "2026-05-20T13:00:20+00:00"
+        "videoId": "VCtf6DI_19k",
+        "thumbnail": "https://i.ytimg.com/vi/VCtf6DI_19k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VCtf6DI_19k",
+        "publishedAt": "2026-05-20T16:00:34+00:00"
+      },
+      {
+        "title": "Demain 17h22 👀",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "elhv6PZkC-E",
+        "thumbnail": "https://i.ytimg.com/vi/elhv6PZkC-E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=elhv6PZkC-E",
+        "publishedAt": "2026-05-20T15:11:50+00:00"
       },
       {
         "title": "Vendre est mal vu en France",
@@ -92,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/RuBmYyCzdlk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RuBmYyCzdlk",
         "publishedAt": "2026-05-20T06:30:16+00:00"
-      },
-      {
-        "title": "Carlito fait une annonce au poste de commandement des marins-pompiers",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "01SOVKnX4fA",
-        "thumbnail": "https://i.ytimg.com/vi/01SOVKnX4fA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=01SOVKnX4fA",
-        "publishedAt": "2026-05-19T15:20:08+00:00"
       },
       {
         "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
@@ -214,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Meta empêche les comptes des droits de l'homme d'atteindre le public en Arabie et aux Émirats arabes unis",
-        "titleOriginal": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
-        "url": "https://www.alqst.org/ar/posts/1190",
-        "source": "alqst.org",
-        "score": 214,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=48206768",
+        "title": "SBCL : la carte d'essai ultime du code d'assemblage (2014)",
+        "titleOriginal": "SBCL: the ultimate assembly code breadboard (2014)",
+        "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
+        "source": "pvk.ca",
+        "score": 54,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48209558",
         "date": "il y a 1 h"
       },
       {
-        "title": "Au revoir Visa et Mastercard : 130 MILLIONS d'Européens passent au paiement souverain",
-        "titleOriginal": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-        "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
-        "source": "lesnumeriques.com",
-        "score": 163,
-        "comments": 122,
-        "hnUrl": "https://news.ycombinator.com/item?id=48207004",
-        "date": "il y a 1 h"
+        "title": "Rapport d'incident : 19 mai 2026 – Suspension du compte GCP",
+        "titleOriginal": "Incident Report: May 19, 2026 – GCP Account Suspension",
+        "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+        "source": "blog.railway.com",
+        "score": 42,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48204770",
+        "date": "il y a 8 h"
       },
       {
         "title": "Qwen3.7-Max : La frontière de l'agent",
         "titleOriginal": "Qwen3.7-Max: The Agent Frontier",
         "url": "https://qwen.ai/blog?id=qwen3.7",
         "source": "qwen.ai",
-        "score": 161,
-        "comments": 64,
+        "score": 406,
+        "comments": 151,
         "hnUrl": "https://news.ycombinator.com/item?id=48205626",
-        "date": "il y a 3 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Carte du métal",
-        "titleOriginal": "Map of Metal",
-        "url": "https://mapofmetal.com/",
-        "source": "mapofmetal.com",
-        "score": 173,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=48205699",
-        "date": "il y a 3 h"
+        "title": "Dire au revoir à Asm.js",
+        "titleOriginal": "Saying Goodbye to Asm.js",
+        "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
+        "source": "spidermonkey.dev",
+        "score": 192,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=48206340",
+        "date": "il y a 5 h"
       }
     ]
   },
