@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-05-20T04:01:09.809Z",
+  "updatedAt": "2026-05-20T07:59:37.279Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 11,
-      "code": 2,
-      "wind": 12,
-      "humidity": 92
+      "temp": 15,
+      "feelsLike": 13,
+      "code": 3,
+      "wind": 17,
+      "humidity": 74
     },
     "forecast": [
       {
         "date": "2026-05-20",
         "code": 80,
         "tmax": 20,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-05-21",
         "code": 45,
-        "tmax": 25,
-        "tmin": 10
+        "tmax": 24,
+        "tmin": 11
       },
       {
         "date": "2026-05-22",
         "code": 3,
         "tmax": 26,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-05-23",
@@ -37,11 +37,19 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 107,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -52,13 +60,76 @@
   "youtube": {
     "videos": [
       {
-        "title": "90% des Français ne savent pas vendre (lui fait 1 million)",
+        "title": "Pour vendre, ferme-la",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "uIbCCBQsAgA",
-        "thumbnail": "https://i.ytimg.com/vi/uIbCCBQsAgA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uIbCCBQsAgA",
-        "publishedAt": "2026-05-19T13:02:38+00:00"
+        "videoId": "c10pp6RKXEk",
+        "thumbnail": "https://i.ytimg.com/vi/c10pp6RKXEk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c10pp6RKXEk",
+        "publishedAt": "2026-05-20T07:41:28+00:00"
+      },
+      {
+        "title": "Trump à Pékin : la guerre économique qui va détruire les emplois américains !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "RuBmYyCzdlk",
+        "thumbnail": "https://i.ytimg.com/vi/RuBmYyCzdlk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RuBmYyCzdlk",
+        "publishedAt": "2026-05-20T06:30:16+00:00"
+      },
+      {
+        "title": "Carlito fait une annonce au poste de commandement des marins-pompiers",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "01SOVKnX4fA",
+        "thumbnail": "https://i.ytimg.com/vi/01SOVKnX4fA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=01SOVKnX4fA",
+        "publishedAt": "2026-05-19T15:20:08+00:00"
+      },
+      {
+        "title": "AFFAIRE ÉMILE : CE JOURNALISTE AVOUE AVOIR FAIT DU MAL À LA FAMILLE DU PETIT GARÇON",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Lv1bsAAZqhc",
+        "thumbnail": "https://i.ytimg.com/vi/Lv1bsAAZqhc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Lv1bsAAZqhc",
+        "publishedAt": "2026-05-19T14:00:01+00:00"
+      },
+      {
+        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "S9GB1TxaDUI",
+        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
+        "publishedAt": "2026-05-17T17:21:43+00:00"
+      },
+      {
+        "title": "Je termine de rénover la petite ruine #21",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hJ80eNKg1iA",
+        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
+        "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Il a écouté la petite voix dans sa tête",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "lXH-gzsAFUA",
+        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
+        "publishedAt": "2026-05-09T19:11:02+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
       },
       {
         "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
@@ -136,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Tout en C est un comportement indéfini",
+        "titleOriginal": "Everything in C is undefined behavior",
+        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+        "source": "blog.habets.se",
+        "score": 111,
+        "comments": 79,
+        "hnUrl": "https://news.ycombinator.com/item?id=48203698",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Chemin de fer bloqué par Google Cloud",
         "titleOriginal": "Railway Blocked by Google Cloud",
         "url": "https://status.railway.com/?date=20260519",
         "source": "status.railway.com",
-        "score": 277,
-        "comments": 121,
+        "score": 454,
+        "comments": 211,
         "hnUrl": "https://news.ycombinator.com/item?id=48201484",
-        "date": "il y a 3 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "FiveThirtyEight articles sur Internet Archive",
+        "titleOriginal": "FiveThirtyEight articles on the Internet Archive",
+        "url": "https://fivethirtyeightindex.com/",
+        "source": "fivethirtyeightindex.com",
+        "score": 163,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=48201973",
+        "date": "il y a 6 h"
       },
       {
         "title": "Flash Gemini 3.5",
         "titleOriginal": "Gemini 3.5 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
         "source": "blog.google",
-        "score": 642,
-        "comments": 474,
+        "score": 748,
+        "comments": 523,
         "hnUrl": "https://news.ycombinator.com/item?id=48196570",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Ben Welsh a fait un index de tous les articles de FiveThirtyEight sur Internet Archive",
-        "titleOriginal": "Ben Welsh made an index of all FiveThirtyEight articles on the Internet Archive",
-        "url": "https://fivethirtyeightindex.com/",
-        "source": "fivethirtyeightindex.com",
-        "score": 57,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=48201973",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "J'ai construit un musée virtuel avec presque tous les systèmes d'exploitation auxquels vous pouvez penser",
-        "titleOriginal": "I’ve built a virtual museum with nearly every operating system you can think of",
-        "url": "https://virtualosmuseum.org/",
-        "source": "virtualosmuseum.org",
-        "score": 642,
-        "comments": 148,
-        "hnUrl": "https://news.ycombinator.com/item?id=48195009",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
       }
     ]
   },
