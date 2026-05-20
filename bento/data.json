@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T17:37:21.766Z",
+  "updatedAt": "2026-05-20T20:07:34.897Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
-      "code": 3,
-      "wind": 14,
-      "humidity": 66
+      "temp": 17,
+      "feelsLike": 16,
+      "code": 2,
+      "wind": 8,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-05-22",
-        "code": 1,
+        "code": 3,
         "tmax": 27,
         "tmin": 12
       },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "SBCL : la carte d'essai ultime du code d'assemblage (2014)",
-        "titleOriginal": "SBCL: the ultimate assembly code breadboard (2014)",
-        "url": "https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/",
-        "source": "pvk.ca",
-        "score": 54,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48209558",
+        "title": "Un modèle OpenAI a réfuté une conjecture centrale en géométrie discrète",
+        "titleOriginal": "An OpenAI model has disproved a central conjecture in discrete geometry",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+        "source": "openai.com",
+        "score": 172,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=48212493",
         "date": "il y a 1 h"
       },
       {
-        "title": "Rapport d'incident : 19 mai 2026 – Suspension du compte GCP",
-        "titleOriginal": "Incident Report: May 19, 2026 – GCP Account Suspension",
-        "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-        "source": "blog.railway.com",
-        "score": 42,
+        "title": "GitHub confirme la violation de 3 800 dépôts via une extension VSCode malveillante",
+        "titleOriginal": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+        "source": "bleepingcomputer.com",
+        "score": 101,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48207660",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Quelle est la vitesse réelle de N jetons par seconde ?",
+        "titleOriginal": "How fast is N tokens per second really?",
+        "url": "https://mikeveerman.github.io/tokenspeed/",
+        "source": "mikeveerman.github.io",
+        "score": 169,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=48174920",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Spécifications techniques de Flipper One",
+        "titleOriginal": "Flipper One Tech Specs",
+        "url": "https://docs.flipper.net/one/general/tech-specs",
+        "source": "docs.flipper.net",
+        "score": 50,
         "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48204770",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Qwen3.7-Max : La frontière de l'agent",
-        "titleOriginal": "Qwen3.7-Max: The Agent Frontier",
-        "url": "https://qwen.ai/blog?id=qwen3.7",
-        "source": "qwen.ai",
-        "score": 406,
-        "comments": 151,
-        "hnUrl": "https://news.ycombinator.com/item?id=48205626",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Dire au revoir à Asm.js",
-        "titleOriginal": "Saying Goodbye to Asm.js",
-        "url": "https://spidermonkey.dev/blog/2026/05/20/saying-goodbye-to-asmjs.html",
-        "source": "spidermonkey.dev",
-        "score": 192,
-        "comments": 88,
-        "hnUrl": "https://news.ycombinator.com/item?id=48206340",
-        "date": "il y a 5 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=48212046",
+        "date": "il y a 1 h"
       }
     ]
   },
