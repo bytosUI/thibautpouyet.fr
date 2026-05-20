@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-05-20T11:12:58.825Z",
+  "updatedAt": "2026-05-20T14:02:53.874Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 15,
+      "temp": 19,
+      "feelsLike": 17,
       "code": 3,
-      "wind": 19,
-      "humidity": 69
+      "wind": 16,
+      "humidity": 58
     },
     "forecast": [
       {
         "date": "2026-05-20",
         "code": 80,
-        "tmax": 20,
+        "tmax": 19,
         "tmin": 13
       },
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-05-22",
-        "code": 2,
+        "code": 1,
         "tmax": 27,
         "tmin": 13
       },
@@ -39,16 +39,23 @@
   "twitch": {
     "live": [
       {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Don't Panic! It Is Just Turbulence",
+        "viewers": 5718,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
         "user": "bastiui",
         "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 344,
+        "viewers": 505,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
         "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
-      "domingo",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,25 +67,25 @@
   "youtube": {
     "videos": [
       {
-        "title": "POLITIQUES, FAUX SOURIRE, MANIPULATION : FABIEN OLICARD MENTALISTE VOUS APPREND À DÉCRYPTER LES GENS",
+        "title": "COMMENT LA SÉRIE “FRIENDS” VOUS MANIPULE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "vZA4q5IbVik",
-        "thumbnail": "https://i.ytimg.com/vi/vZA4q5IbVik/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vZA4q5IbVik",
-        "publishedAt": "2026-05-20T09:00:06+00:00"
+        "videoId": "Gn9ZtWM0PcA",
+        "thumbnail": "https://i.ytimg.com/vi/Gn9ZtWM0PcA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gn9ZtWM0PcA",
+        "publishedAt": "2026-05-20T13:00:20+00:00"
       },
       {
-        "title": "Pour vendre, ferme-la",
+        "title": "Vendre est mal vu en France",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "c10pp6RKXEk",
-        "thumbnail": "https://i.ytimg.com/vi/c10pp6RKXEk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c10pp6RKXEk",
-        "publishedAt": "2026-05-20T07:41:28+00:00"
+        "videoId": "STF3l8Syg_c",
+        "thumbnail": "https://i.ytimg.com/vi/STF3l8Syg_c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=STF3l8Syg_c",
+        "publishedAt": "2026-05-20T12:00:47+00:00"
       },
       {
-        "title": "Trump à Pékin : la guerre économique qui va détruire les emplois américains !",
+        "title": "Arthur Mensch explique les tokens aux députés pendant que la France s'effondre !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "RuBmYyCzdlk",
@@ -181,13 +188,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 5 j",
+        "time": "il y a 6 j",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 5 j",
+        "time": "il y a 6 j",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -207,44 +214,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apprentissages de 100 000 lignes de Rust avec IA (2025)",
-        "titleOriginal": "Learnings from 100K lines of Rust with AI (2025)",
-        "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-        "source": "zfhuang99.github.io",
-        "score": 33,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48205415",
+        "title": "Meta empêche les comptes des droits de l'homme d'atteindre le public en Arabie et aux Émirats arabes unis",
+        "titleOriginal": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+        "url": "https://www.alqst.org/ar/posts/1190",
+        "source": "alqst.org",
+        "score": 214,
+        "comments": 71,
+        "hnUrl": "https://news.ycombinator.com/item?id=48206768",
         "date": "il y a 1 h"
       },
       {
-        "title": "Tout en C est un comportement indéfini",
-        "titleOriginal": "Everything in C is undefined behavior",
-        "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
-        "source": "blog.habets.se",
-        "score": 226,
-        "comments": 287,
-        "hnUrl": "https://news.ycombinator.com/item?id=48203698",
-        "date": "il y a 5 h"
+        "title": "Au revoir Visa et Mastercard : 130 MILLIONS d'Européens passent au paiement souverain",
+        "titleOriginal": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+        "url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
+        "source": "lesnumeriques.com",
+        "score": 163,
+        "comments": 122,
+        "hnUrl": "https://news.ycombinator.com/item?id=48207004",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Flash Gemini 3.5",
-        "titleOriginal": "Gemini 3.5 Flash",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-        "source": "blog.google",
-        "score": 814,
-        "comments": 569,
-        "hnUrl": "https://news.ycombinator.com/item?id=48196570",
-        "date": "il y a 17 h"
+        "title": "Qwen3.7-Max : La frontière de l'agent",
+        "titleOriginal": "Qwen3.7-Max: The Agent Frontier",
+        "url": "https://qwen.ai/blog?id=qwen3.7",
+        "source": "qwen.ai",
+        "score": 161,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48205626",
+        "date": "il y a 3 h"
       },
       {
-        "title": "FiveThirtyEight articles sur Internet Archive",
-        "titleOriginal": "FiveThirtyEight articles on the Internet Archive",
-        "url": "https://fivethirtyeightindex.com/",
-        "source": "fivethirtyeightindex.com",
-        "score": 221,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=48201973",
-        "date": "il y a 9 h"
+        "title": "Carte du métal",
+        "titleOriginal": "Map of Metal",
+        "url": "https://mapofmetal.com/",
+        "source": "mapofmetal.com",
+        "score": 173,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=48205699",
+        "date": "il y a 3 h"
       }
     ]
   },
