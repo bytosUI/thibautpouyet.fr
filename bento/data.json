@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-20T20:07:34.897Z",
+  "updatedAt": "2026-05-20T22:08:53.984Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
+      "temp": 15,
+      "feelsLike": 15,
       "code": 2,
-      "wind": 8,
-      "humidity": 76
+      "wind": 3,
+      "humidity": 85
     },
     "forecast": [
-      {
-        "date": "2026-05-20",
-        "code": 80,
-        "tmax": 19,
-        "tmin": 13
-      },
       {
         "date": "2026-05-21",
         "code": 45,
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 28,
         "tmin": 13
+      },
+      {
+        "date": "2026-05-24",
+        "code": 0,
+        "tmax": 30,
+        "tmin": 18
       }
     ]
   },
@@ -203,40 +203,40 @@
         "titleOriginal": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
         "source": "openai.com",
-        "score": 172,
-        "comments": 89,
+        "score": 481,
+        "comments": 311,
         "hnUrl": "https://news.ycombinator.com/item?id=48212493",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "GitHub confirme la violation de 3 800 dépôts via une extension VSCode malveillante",
         "titleOriginal": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
         "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
         "source": "bleepingcomputer.com",
-        "score": 101,
-        "comments": 36,
+        "score": 310,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=48207660",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Quelle est la vitesse réelle de N jetons par seconde ?",
-        "titleOriginal": "How fast is N tokens per second really?",
-        "url": "https://mikeveerman.github.io/tokenspeed/",
-        "source": "mikeveerman.github.io",
-        "score": 169,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=48174920",
-        "date": "il y a 2 j"
+        "title": "Google déclare la guerre au Web",
+        "titleOriginal": "Google Declaring War on the Web",
+        "url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+        "source": "tante.cc",
+        "score": 53,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48214449",
+        "date": "il y a 35 min"
       },
       {
         "title": "Spécifications techniques de Flipper One",
         "titleOriginal": "Flipper One Tech Specs",
         "url": "https://docs.flipper.net/one/general/tech-specs",
         "source": "docs.flipper.net",
-        "score": 50,
-        "comments": 9,
+        "score": 152,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=48212046",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
