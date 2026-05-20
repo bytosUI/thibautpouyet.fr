@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-20T07:59:37.279Z",
+  "updatedAt": "2026-05-20T11:12:58.825Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 13,
+      "temp": 17,
+      "feelsLike": 15,
       "code": 3,
-      "wind": 17,
-      "humidity": 74
+      "wind": 19,
+      "humidity": 69
     },
     "forecast": [
       {
@@ -20,36 +20,36 @@
         "date": "2026-05-21",
         "code": 45,
         "tmax": 24,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-05-22",
-        "code": 3,
-        "tmax": 26,
+        "code": 2,
+        "tmax": 27,
         "tmin": 13
       },
       {
         "date": "2026-05-23",
-        "code": 2,
+        "code": 3,
         "tmax": 29,
-        "tmin": 12
+        "tmin": 13
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 107,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 344,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -59,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "POLITIQUES, FAUX SOURIRE, MANIPULATION : FABIEN OLICARD MENTALISTE VOUS APPREND À DÉCRYPTER LES GENS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "vZA4q5IbVik",
+        "thumbnail": "https://i.ytimg.com/vi/vZA4q5IbVik/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vZA4q5IbVik",
+        "publishedAt": "2026-05-20T09:00:06+00:00"
+      },
       {
         "title": "Pour vendre, ferme-la",
         "channel": "Darons du Biz",
@@ -85,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/01SOVKnX4fA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=01SOVKnX4fA",
         "publishedAt": "2026-05-19T15:20:08+00:00"
-      },
-      {
-        "title": "AFFAIRE ÉMILE : CE JOURNALISTE AVOUE AVOIR FAIT DU MAL À LA FAMILLE DU PETIT GARÇON",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Lv1bsAAZqhc",
-        "thumbnail": "https://i.ytimg.com/vi/Lv1bsAAZqhc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Lv1bsAAZqhc",
-        "publishedAt": "2026-05-19T14:00:01+00:00"
       },
       {
         "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Apprentissages de 100 000 lignes de Rust avec IA (2025)",
+        "titleOriginal": "Learnings from 100K lines of Rust with AI (2025)",
+        "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+        "source": "zfhuang99.github.io",
+        "score": 33,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48205415",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Tout en C est un comportement indéfini",
         "titleOriginal": "Everything in C is undefined behavior",
         "url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
         "source": "blog.habets.se",
-        "score": 111,
-        "comments": 79,
+        "score": 226,
+        "comments": 287,
         "hnUrl": "https://news.ycombinator.com/item?id=48203698",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Chemin de fer bloqué par Google Cloud",
-        "titleOriginal": "Railway Blocked by Google Cloud",
-        "url": "https://status.railway.com/?date=20260519",
-        "source": "status.railway.com",
-        "score": 454,
-        "comments": 211,
-        "hnUrl": "https://news.ycombinator.com/item?id=48201484",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "FiveThirtyEight articles sur Internet Archive",
-        "titleOriginal": "FiveThirtyEight articles on the Internet Archive",
-        "url": "https://fivethirtyeightindex.com/",
-        "source": "fivethirtyeightindex.com",
-        "score": 163,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48201973",
-        "date": "il y a 6 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Flash Gemini 3.5",
         "titleOriginal": "Gemini 3.5 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
         "source": "blog.google",
-        "score": 748,
-        "comments": 523,
+        "score": 814,
+        "comments": 569,
         "hnUrl": "https://news.ycombinator.com/item?id=48196570",
-        "date": "il y a 14 h"
+        "date": "il y a 17 h"
+      },
+      {
+        "title": "FiveThirtyEight articles sur Internet Archive",
+        "titleOriginal": "FiveThirtyEight articles on the Internet Archive",
+        "url": "https://fivethirtyeightindex.com/",
+        "source": "fivethirtyeightindex.com",
+        "score": 221,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=48201973",
+        "date": "il y a 9 h"
       }
     ]
   },
