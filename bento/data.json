@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-21T19:24:11.510Z",
+  "updatedAt": "2026-05-21T21:08:54.231Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 20,
-      "code": 1,
-      "wind": 5,
-      "humidity": 56
+      "temp": 17,
+      "feelsLike": 17,
+      "code": 0,
+      "wind": 4,
+      "humidity": 67
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-05-22",
-        "code": 1,
+        "code": 2,
         "tmax": 28,
         "tmin": 11
       },
       {
         "date": "2026-05-23",
         "code": 3,
-        "tmax": 29,
+        "tmax": 30,
         "tmin": 12
       },
       {
@@ -191,7 +191,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 2 sem",
+        "time": "il y a 3 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -199,43 +199,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Amazon, Facebook, FBI ont accès à un réseau privé de partage de renseignements",
-        "titleOriginal": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-        "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
-        "source": "prismreports.org",
-        "score": 229,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48226588",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "BBEdit 16",
         "titleOriginal": "BBEdit 16",
         "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
         "source": "barebones.com",
-        "score": 92,
-        "comments": 11,
+        "score": 197,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=48226944",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Project Hail Mary – Carte de navigation stellaire",
         "titleOriginal": "Project Hail Mary – Stellar Navigation Chart",
         "url": "https://valhovey.github.io/gaia-mary/",
         "source": "valhovey.github.io",
-        "score": 195,
-        "comments": 54,
+        "score": 301,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=48225297",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Plus de 340 organes de presse locaux limitent l'accès à Internet Archive",
-        "titleOriginal": "More than 340 local news outlets are limiting the Internet Archive's access",
-        "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
-        "source": "niemanlab.org",
-        "score": 84,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=48225838",
+        "title": "Flipper One – nous avons besoin de votre aide",
+        "titleOriginal": "Flipper One – we need your help",
+        "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+        "source": "blog.flipper.net",
+        "score": 932,
+        "comments": 392,
+        "hnUrl": "https://news.ycombinator.com/item?id=48220647",
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Le blog a fonctionné sur Ubuntu 16.04 pendant 10 ans. Je l'ai migré vers FreeBSD",
+        "titleOriginal": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+        "source": "crocidb.com",
+        "score": 45,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48227397",
         "date": "il y a 2 h"
       }
     ]
