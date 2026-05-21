@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-20T23:46:33.067Z",
+  "updatedAt": "2026-05-21T02:49:02.710Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 12,
-      "code": 1,
-      "wind": 3,
-      "humidity": 94
+      "temp": 9,
+      "feelsLike": 9,
+      "code": 45,
+      "wind": 2,
+      "humidity": 100
     },
     "forecast": [
       {
         "date": "2026-05-21",
         "code": 45,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 8
       },
       {
         "date": "2026-05-22",
-        "code": 1,
+        "code": 3,
         "tmax": 27,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-05-23",
@@ -50,53 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "LA TECHNIQUE QU’UTILISENT LES POLITIQUES POUR NOUS MANIPULER",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "VCtf6DI_19k",
-        "thumbnail": "https://i.ytimg.com/vi/VCtf6DI_19k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VCtf6DI_19k",
-        "publishedAt": "2026-05-20T16:00:34+00:00"
-      },
-      {
-        "title": "Vendre est mal vu en France",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "STF3l8Syg_c",
-        "thumbnail": "https://i.ytimg.com/vi/STF3l8Syg_c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=STF3l8Syg_c",
-        "publishedAt": "2026-05-20T12:00:47+00:00"
-      },
-      {
-        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "S9GB1TxaDUI",
-        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
-        "publishedAt": "2026-05-17T17:21:43+00:00"
-      },
-      {
-        "title": "Il a écouté la petite voix dans sa tête",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "lXH-gzsAFUA",
-        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
-        "publishedAt": "2026-05-09T19:11:02+00:00"
-      },
-      {
-        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "d86srme8IJw",
-        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
-        "publishedAt": "2026-04-28T18:05:29+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -167,40 +121,40 @@
         "titleOriginal": "An OpenAI model has disproved a central conjecture in discrete geometry",
         "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
         "source": "openai.com",
-        "score": 613,
-        "comments": 418,
+        "score": 788,
+        "comments": 581,
         "hnUrl": "https://news.ycombinator.com/item?id=48212493",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "GitHub confirme la violation de 3 800 dépôts via une extension VSCode malveillante",
         "titleOriginal": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
         "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
         "source": "bleepingcomputer.com",
-        "score": 436,
-        "comments": 138,
+        "score": 574,
+        "comments": 206,
         "hnUrl": "https://news.ycombinator.com/item?id=48207660",
-        "date": "il y a 10 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Show HN : J'ai rétroconçu les fonds d'écran vidéo d'Apple",
+        "titleOriginal": "Show HN: I reverse engineered Apple's video wallpapers",
+        "url": "https://github.com/kageroumado/phosphene",
+        "source": "github.com",
+        "score": 86,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48215979",
+        "date": "il y a 2 h"
       },
       {
         "title": "DOS ZONE",
         "titleOriginal": "DOS Zone",
         "url": "https://dos.zone/",
         "source": "dos.zone",
-        "score": 27,
-        "comments": 6,
+        "score": 113,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=48215418",
-        "date": "il y a 53 min"
-      },
-      {
-        "title": "Spécifications techniques de Flipper One",
-        "titleOriginal": "Flipper One Tech Specs",
-        "url": "https://docs.flipper.net/one/general/tech-specs",
-        "source": "docs.flipper.net",
-        "score": 205,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=48212046",
-        "date": "il y a 5 h"
+        "date": "il y a 3 h"
       }
     ]
   },
