@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-21T17:10:44.279Z",
+  "updatedAt": "2026-05-21T19:24:11.510Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
-      "code": 0,
-      "wind": 8,
-      "humidity": 44
+      "temp": 21,
+      "feelsLike": 20,
+      "code": 1,
+      "wind": 5,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Jusqu'où ira l'intimité avec les robots humanoïdes ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "NoblYH7gNjo",
+        "thumbnail": "https://i.ytimg.com/vi/NoblYH7gNjo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NoblYH7gNjo",
+        "publishedAt": "2026-05-21T17:02:18+00:00"
+      },
+      {
         "title": "C’est quoi la semaine type d’un marin-pompier ?",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9e0wJaQa55A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9e0wJaQa55A",
         "publishedAt": "2026-05-21T16:00:34+00:00"
-      },
-      {
-        "title": "Que vaut un enfant non augmenté dans le monde de demain ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Al_AztjuMO0",
-        "thumbnail": "https://i.ytimg.com/vi/Al_AztjuMO0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Al_AztjuMO0",
-        "publishedAt": "2026-05-21T10:00:49+00:00"
       },
       {
         "title": "Les timides sont de meilleurs vendeurs ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Waymo met en pause le service d'Atlanta alors que son robotaxe continue de rouler dans les inondations",
-        "titleOriginal": "Waymo pauses Atlanta service as its robotaxis keep driving into floods",
-        "url": "https://techcrunch.com/2026/05/21/waymo-pauses-atlanta-service-as-its-robotaxis-keep-driving-into-floods/",
-        "source": "techcrunch.com",
-        "score": 35,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48225426",
-        "date": "il y a 39 min"
+        "title": "Amazon, Facebook, FBI ont accès à un réseau privé de partage de renseignements",
+        "titleOriginal": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+        "url": "https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/",
+        "source": "prismreports.org",
+        "score": 229,
+        "comments": 70,
+        "hnUrl": "https://news.ycombinator.com/item?id=48226588",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Flipper One – nous avons besoin de votre aide",
-        "titleOriginal": "Flipper One – we need your help",
-        "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-        "source": "blog.flipper.net",
-        "score": 731,
-        "comments": 329,
-        "hnUrl": "https://news.ycombinator.com/item?id=48220647",
-        "date": "il y a 6 h"
+        "title": "BBEdit 16",
+        "titleOriginal": "BBEdit 16",
+        "url": "https://www.barebones.com/products/bbedit/bbedit16.html",
+        "source": "barebones.com",
+        "score": 92,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48226944",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Indexation d'une année de vidéo localement sur un MacBook 2021 avec Gemma4-31B (swap de 50 Go)",
-        "titleOriginal": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-        "url": "https://blog.simbastack.com/indexed-a-year-of-video-locally/",
-        "source": "blog.simbastack.com",
-        "score": 104,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=48222733",
+        "title": "Project Hail Mary – Carte de navigation stellaire",
+        "titleOriginal": "Project Hail Mary – Stellar Navigation Chart",
+        "url": "https://valhovey.github.io/gaia-mary/",
+        "source": "valhovey.github.io",
+        "score": 195,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48225297",
         "date": "il y a 3 h"
       },
       {
-        "title": "Python 3.15 : fonctionnalités qui n'ont pas fait les gros titres",
-        "titleOriginal": "Python 3.15: features that didn't make the headlines",
-        "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
-        "source": "blog.changs.co.uk",
-        "score": 212,
-        "comments": 97,
-        "hnUrl": "https://news.ycombinator.com/item?id=48220696",
-        "date": "il y a 6 h"
+        "title": "Plus de 340 organes de presse locaux limitent l'accès à Internet Archive",
+        "titleOriginal": "More than 340 local news outlets are limiting the Internet Archive's access",
+        "url": "https://www.niemanlab.org/2026/05/more-than-340-local-news-outlets-are-limiting-the-internet-archives-access-to-their-journalism/",
+        "source": "niemanlab.org",
+        "score": 84,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=48225838",
+        "date": "il y a 2 h"
       }
     ]
   },
