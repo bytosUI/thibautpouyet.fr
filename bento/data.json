@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-05-21T10:36:40.766Z",
+  "updatedAt": "2026-05-21T14:11:00.182Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 22,
+      "temp": 23,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 3,
-      "humidity": 53
+      "wind": 9,
+      "humidity": 43
     },
     "forecast": [
       {
         "date": "2026-05-21",
         "code": 45,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 8
       },
       {
         "date": "2026-05-22",
-        "code": 3,
+        "code": 1,
         "tmax": 28,
         "tmin": 11
       },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LES PERSONNES TOXIQUES UTILISENT LES MÊMES TECHNIQUES QUE LES SECTES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "ws7KOV986bU",
+        "thumbnail": "https://i.ytimg.com/vi/ws7KOV986bU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ws7KOV986bU",
+        "publishedAt": "2026-05-21T14:00:18+00:00"
+      },
+      {
         "title": "Que vaut un enfant non augmenté dans le monde de demain ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Al_AztjuMO0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Al_AztjuMO0",
         "publishedAt": "2026-05-21T10:00:49+00:00"
-      },
-      {
-        "title": "CETTE TECHNIQUE DE MANIPULATION TE FAIT TOUT ACCEPTER ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "SKivVHxSFMs",
-        "thumbnail": "https://i.ytimg.com/vi/SKivVHxSFMs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SKivVHxSFMs",
-        "publishedAt": "2026-05-21T10:00:34+00:00"
       },
       {
         "title": "Les timides sont de meilleurs vendeurs ?",
@@ -173,13 +173,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 6 j",
+        "time": "il y a 1 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 6 j",
+        "time": "il y a 1 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Show HN : Rmux – Un multiplexeur de terminal programmable avec un SDK de style Playwright",
-        "titleOriginal": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
-        "url": "https://github.com/helvesec/rmux",
-        "source": "github.com",
-        "score": 28,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48219918",
-        "date": "il y a 1 h"
+        "title": "L'IA n'est qu'un plagiat non autorisé à plus grande échelle",
+        "titleOriginal": "AI is just unauthorised plagiarism at a bigger scale",
+        "url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
+        "source": "axelk.ee",
+        "score": 98,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48222383",
+        "date": "il y a 32 min"
       },
       {
-        "title": "Un modèle OpenAI a réfuté une conjecture centrale en géométrie discrète",
-        "titleOriginal": "An OpenAI model has disproved a central conjecture in discrete geometry",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-        "source": "openai.com",
-        "score": 1191,
-        "comments": 864,
-        "hnUrl": "https://news.ycombinator.com/item?id=48212493",
-        "date": "il y a 15 h"
+        "title": "Flipper One – nous avons besoin de votre aide",
+        "titleOriginal": "Flipper One – we need your help",
+        "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
+        "source": "blog.flipper.net",
+        "score": 399,
+        "comments": 221,
+        "hnUrl": "https://news.ycombinator.com/item?id=48220647",
+        "date": "il y a 3 h"
       },
       {
-        "title": "GitHub confirme la violation de 3 800 dépôts via une extension VSCode malveillante",
-        "titleOriginal": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-        "url": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-        "source": "bleepingcomputer.com",
-        "score": 858,
-        "comments": 357,
-        "hnUrl": "https://news.ycombinator.com/item?id=48207660",
-        "date": "il y a 20 h"
+        "title": "Python 3.15 : fonctionnalités qui n'ont pas fait les gros titres",
+        "titleOriginal": "Python 3.15: features that didn't make the headlines",
+        "url": "https://blog.changs.co.uk/python-315-features-that-didnt-make-the-headlines.html",
+        "source": "blog.changs.co.uk",
+        "score": 125,
+        "comments": 58,
+        "hnUrl": "https://news.ycombinator.com/item?id=48220696",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Show HN : J'ai rétroconçu les fonds d'écran vidéo d'Apple",
-        "titleOriginal": "Show HN: I reverse engineered Apple's video wallpapers",
-        "url": "https://github.com/kageroumado/phosphene",
-        "source": "github.com",
-        "score": 295,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=48215979",
-        "date": "il y a 10 h"
+        "title": "Google annonce officiellement que les annonces seront incluses dans les résultats de recherche en mode IA",
+        "titleOriginal": "Google officially announces that ads will be included in AI Mode search results",
+        "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+        "source": "blog.google",
+        "score": 305,
+        "comments": 271,
+        "hnUrl": "https://news.ycombinator.com/item?id=48220105",
+        "date": "il y a 4 h"
       }
     ]
   },
