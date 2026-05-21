@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-21T22:48:09.386Z",
+  "updatedAt": "2026-05-21T23:57:30.476Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 16,
+      "temp": 14,
+      "feelsLike": 14,
       "code": 0,
       "wind": 2,
-      "humidity": 84
+      "humidity": 89
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 45,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -211,40 +203,40 @@
         "titleOriginal": "Project Hail Mary – Stellar Navigation Chart",
         "url": "https://valhovey.github.io/gaia-mary/",
         "source": "valhovey.github.io",
-        "score": 411,
-        "comments": 108,
+        "score": 478,
+        "comments": 117,
         "hnUrl": "https://news.ycombinator.com/item?id=48225297",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Le blog a fonctionné sur Ubuntu 16.04 pendant 10 ans. Je l'ai migré vers FreeBSD",
-        "titleOriginal": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-        "source": "crocidb.com",
-        "score": 104,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=48227397",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Flipper One – nous avons besoin de votre aide",
-        "titleOriginal": "Flipper One – we need your help",
-        "url": "https://blog.flipper.net/flipper-one-we-need-your-help/",
-        "source": "blog.flipper.net",
-        "score": 988,
-        "comments": 401,
-        "hnUrl": "https://news.ycombinator.com/item?id=48220647",
-        "date": "il y a 11 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Utilisation de Kagi Search avec basse vision",
         "titleOriginal": "Using Kagi Search with Low Vision",
         "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
         "source": "veroniiiica.com",
-        "score": 71,
-        "comments": 5,
+        "score": 97,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=48227860",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Le blog a fonctionné sur Ubuntu 16.04 pendant 10 ans. Je l'ai migré vers FreeBSD",
+        "titleOriginal": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+        "source": "crocidb.com",
+        "score": 135,
+        "comments": 82,
+        "hnUrl": "https://news.ycombinator.com/item?id=48227397",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Show HN : Freenet, une plateforme peer-to-peer pour les applications décentralisées",
+        "titleOriginal": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+        "url": "https://freenet.org/",
+        "source": "freenet.org",
+        "score": 170,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=48223362",
+        "date": "il y a 9 h"
       }
     ]
   },
