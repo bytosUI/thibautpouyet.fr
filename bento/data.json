@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-22T03:45:51.405Z",
+  "updatedAt": "2026-05-22T07:39:53.924Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 10,
-      "code": 45,
-      "wind": 1,
-      "humidity": 100
+      "temp": 17,
+      "feelsLike": 18,
+      "code": 0,
+      "wind": 2,
+      "humidity": 74
     },
     "forecast": [
       {
         "date": "2026-05-22",
         "code": 45,
         "tmax": 27,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-05-23",
@@ -26,31 +26,128 @@
         "date": "2026-05-24",
         "code": 0,
         "tmax": 30,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-05-25",
-        "code": 3,
+        "code": 0,
         "tmax": 31,
         "tmin": 17
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 448,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 65,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "L'argent comme thérapie ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "sRIylxesNWk",
+        "thumbnail": "https://i.ytimg.com/vi/sRIylxesNWk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sRIylxesNWk",
+        "publishedAt": "2026-05-22T07:11:04+00:00"
+      },
+      {
+        "title": "Jusqu'où ira l'intimité avec les robots humanoïdes ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "NoblYH7gNjo",
+        "thumbnail": "https://i.ytimg.com/vi/NoblYH7gNjo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NoblYH7gNjo",
+        "publishedAt": "2026-05-21T17:02:18+00:00"
+      },
+      {
+        "title": "C’est quoi la semaine type d’un marin-pompier ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "PNmefAlzmvE",
+        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
+        "publishedAt": "2026-05-21T16:00:48+00:00"
+      },
+      {
+        "title": "POURQUOI IL FAUT ARRÊTER DE REMETTRE SA VIE AU LENDEMAIN ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "9e0wJaQa55A",
+        "thumbnail": "https://i.ytimg.com/vi/9e0wJaQa55A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9e0wJaQa55A",
+        "publishedAt": "2026-05-21T16:00:34+00:00"
+      },
+      {
+        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "S9GB1TxaDUI",
+        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
+        "publishedAt": "2026-05-17T17:21:43+00:00"
+      },
+      {
+        "title": "Je termine de rénover la petite ruine #21",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hJ80eNKg1iA",
+        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
+        "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Il a écouté la petite voix dans sa tête",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "lXH-gzsAFUA",
+        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
+        "publishedAt": "2026-05-09T19:11:02+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      },
+      {
+        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "d86srme8IJw",
+        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
+        "publishedAt": "2026-04-28T18:05:29+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -117,88 +214,108 @@
   "hackernews": {
     "items": [
       {
+        "title": "CODA : Réécrire les blocs de transformateurs en tant que programmes GEMM-Epilogue",
+        "titleOriginal": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+        "url": "https://arxiv.org/abs/2605.19269",
+        "source": "arxiv.org",
+        "score": 45,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48232118",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Project Hail Mary – Carte de navigation stellaire",
         "titleOriginal": "Project Hail Mary – Stellar Navigation Chart",
         "url": "https://valhovey.github.io/gaia-mary/",
         "source": "valhovey.github.io",
-        "score": 648,
-        "comments": 150,
+        "score": 827,
+        "comments": 181,
         "hnUrl": "https://news.ycombinator.com/item?id=48225297",
-        "date": "il y a 11 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Le blog a fonctionné sur Ubuntu 16.04 pendant 10 ans. Je l'ai migré vers FreeBSD",
-        "titleOriginal": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-        "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-        "source": "crocidb.com",
-        "score": 195,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=48227397",
-        "date": "il y a 8 h"
+        "title": "Assoupir un client HTTP TUI",
+        "titleOriginal": "Slumber a TUI HTTP Client",
+        "url": "https://slumber.lucaspickering.me",
+        "source": "slumber.lucaspickering.me",
+        "score": 47,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48231938",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Utilisation de Kagi Search avec basse vision",
-        "titleOriginal": "Using Kagi Search with Low Vision",
-        "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-        "source": "veroniiiica.com",
-        "score": 154,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=48227860",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "La mort du magasin de jouets Brick and Mortar",
-        "titleOriginal": "The Death of the Brick and Mortar Toy Store",
-        "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
-        "source": "brainbaking.com",
+        "title": "L'histoire surprenante du premier Britannique dans l'espace",
+        "titleOriginal": "The surprising story behind the first British person in space",
+        "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
+        "source": "bbc.com",
         "score": 37,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48192605",
-        "date": "il y a 2 j"
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48209691",
+        "date": "hier"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260520",
+    "resultsDate": "20260521",
     "results": [
       {
-        "id": "401873198",
-        "date": "2026-05-21T00:30Z",
+        "id": "401873342",
+        "date": "2026-05-22T00:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 122,
-          "record": "64-18",
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 109,
+          "record": "53-29",
           "winner": true
         },
         "away": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 113,
-          "record": "62-20",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 93,
+          "record": "52-30",
           "winner": false
         },
         "series": {
-          "summary": "Series tied 1-1",
+          "summary": "NY leads series 2-0",
           "completed": false,
-          "round": "West Finals - Game 2",
-          "winsHome": 1,
-          "winsAway": 1
+          "round": "East Finals - Game 2",
+          "winsHome": 2,
+          "winsAway": 0
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
+          },
+          "teamAway": {
+            "abbr": "OKC",
+            "name": "Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+          },
+          "winsHome": 1,
+          "winsAway": 1,
+          "summary": "Series tied 1-1",
+          "completed": false,
+          "round": "West Finals - Game 3",
+          "roundLabel": "Ouest · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-23T00:30Z"
+        },
         {
           "teamHome": {
             "abbr": "NY",
@@ -218,66 +335,6 @@
           "roundLabel": "Est · Finales NBA",
           "roundOrder": 4,
           "lastDate": "2026-05-22T00:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "OKC",
-            "name": "Thunder",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-          },
-          "teamAway": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "winsHome": 1,
-          "winsAway": 1,
-          "summary": "Series tied 1-1",
-          "completed": false,
-          "round": "West Finals - Game 2",
-          "roundLabel": "Ouest · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-21T00:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "DET",
-            "name": "Pistons",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png"
-          },
-          "teamAway": {
-            "abbr": "CLE",
-            "name": "Cavaliers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-          },
-          "winsHome": 3,
-          "winsAway": 4,
-          "summary": "CLE wins series 4-3",
-          "completed": true,
-          "round": "East Semifinals - Game 7",
-          "roundLabel": "Est · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-18T00:00Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "MIN",
-            "name": "Timberwolves",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png"
-          },
-          "teamAway": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "winsHome": 2,
-          "winsAway": 4,
-          "summary": "SA wins series 4-2",
-          "completed": true,
-          "round": "West Semifinals - Game 6",
-          "roundLabel": "Ouest · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-16T01:30Z"
         }
       ]
     }
