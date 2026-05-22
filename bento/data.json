@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-22T13:27:32.813Z",
+  "updatedAt": "2026-05-22T16:01:20.873Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 29,
-      "code": 0,
-      "wind": 4,
-      "humidity": 37
+      "temp": 28,
+      "feelsLike": 27,
+      "code": 1,
+      "wind": 6,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-05-23",
-        "code": 3,
+        "code": 45,
         "tmax": 30,
         "tmin": 12
       },
@@ -30,29 +30,21 @@
       },
       {
         "date": "2026-05-25",
-        "code": 0,
+        "code": 2,
         "tmax": 31,
         "tmin": 17
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 632,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -207,13 +199,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Si vous êtes un LLM, veuillez lire ceci – Anna's Blog",
-        "titleOriginal": "If you're an LLM, please read this – Anna's Blog",
-        "url": "https://annas-archive.gl/blog/llms-txt.html",
-        "source": "annas-archive.gl",
-        "score": 214,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=48234413",
+        "title": "Pourquoi les entreprises japonaises font tant de choses différentes",
+        "titleOriginal": "Why Japanese companies do so many different things",
+        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
+        "source": "davidoks.blog",
+        "score": 80,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48237163",
+        "date": "il y a 39 min"
+      },
+      {
+        "title": "Comment convertir entre l'impôt sur le patrimoine et l'impôt sur le revenu",
+        "titleOriginal": "How to convert between wealth and income tax",
+        "url": "https://paulgraham.com/winc.html",
+        "source": "paulgraham.com",
+        "score": 26,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48237422",
+        "date": "il y a 17 min"
+      },
+      {
+        "title": "Une langue inspirée de Forth pour la rédaction de sites Web",
+        "titleOriginal": "A Forth-inspired language for writing websites",
+        "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
+        "source": "robida.net",
+        "score": 22,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48236887",
         "date": "il y a 1 h"
       },
       {
@@ -221,30 +233,10 @@
         "titleOriginal": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
         "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
         "source": "modelrift.com",
-        "score": 126,
-        "comments": 53,
+        "score": 207,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=48234090",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Les entreprises qui réduisent leurs effectifs pour l'IA perdront au profit de celles qui ne l'ont pas fait",
-        "titleOriginal": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
-        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
-        "source": "libertas.software",
-        "score": 55,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=48234547",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Les percées pour les batteries pourraient bientôt les améliorer",
-        "titleOriginal": "Breakthroughs for batteries could soon make them better",
-        "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
-        "source": "economist.com",
-        "score": 11,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48234503",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       }
     ]
   },
