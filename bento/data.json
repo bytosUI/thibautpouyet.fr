@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-22T16:01:20.873Z",
+  "updatedAt": "2026-05-22T18:13:24.235Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 27,
-      "code": 1,
+      "temp": 27,
+      "feelsLike": 26,
+      "code": 2,
       "wind": 6,
-      "humidity": 34
+      "humidity": 35
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-05-24",
         "code": 1,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 16
       },
       {
@@ -203,40 +203,40 @@
         "titleOriginal": "Why Japanese companies do so many different things",
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "source": "davidoks.blog",
-        "score": 80,
-        "comments": 19,
+        "score": 242,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=48237163",
-        "date": "il y a 39 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Comment convertir entre l'impôt sur le patrimoine et l'impôt sur le revenu",
-        "titleOriginal": "How to convert between wealth and income tax",
-        "url": "https://paulgraham.com/winc.html",
-        "source": "paulgraham.com",
-        "score": 26,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48237422",
-        "date": "il y a 17 min"
-      },
-      {
-        "title": "Une langue inspirée de Forth pour la rédaction de sites Web",
-        "titleOriginal": "A Forth-inspired language for writing websites",
-        "url": "https://robida.net/entries/2026/05/21/a-forth-inspired-language-for-writing-websites",
-        "source": "robida.net",
-        "score": 22,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48236887",
+        "title": "Les chercheurs américains font face à de nouvelles restrictions sur la publication avec des collaborateurs étrangers",
+        "titleOriginal": "U.S. researchers face new restrictions on publishing with foreign collaborators",
+        "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
+        "source": "science.org",
+        "score": 106,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48238025",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Tulsi Gabbard démissionne de son poste de directeur du renseignement national américain",
+        "titleOriginal": "Tulsi Gabbard resigns as US director of national intelligence",
+        "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o",
+        "source": "bbc.com",
+        "score": 15,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48239043",
+        "date": "il y a 27 min"
       },
       {
         "title": "L'antigravité 2.0 en tête de l'indice de référence OpenSCAD Architectural 3D LLM",
         "titleOriginal": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
         "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
         "source": "modelrift.com",
-        "score": 207,
-        "comments": 91,
+        "score": 260,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=48234090",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       }
     ]
   },
