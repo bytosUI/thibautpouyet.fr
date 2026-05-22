@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-22T20:17:18.345Z",
+  "updatedAt": "2026-05-22T21:40:50.954Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 19,
+      "feelsLike": 19,
       "code": 2,
-      "wind": 5,
-      "humidity": 53
+      "wind": 3,
+      "humidity": 63
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 234,
+        "viewers": 165,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "Project Glasswing: An Initial Update",
         "url": "https://www.anthropic.com/research/glasswing-initial-update",
         "source": "anthropic.com",
-        "score": 50,
-        "comments": 29,
+        "score": 161,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=48240419",
-        "date": "il y a 45 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Pourquoi les entreprises japonaises font tant de choses différentes",
         "titleOriginal": "Why Japanese companies do so many different things",
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "source": "davidoks.blog",
-        "score": 332,
-        "comments": 195,
+        "score": 385,
+        "comments": 236,
         "hnUrl": "https://news.ycombinator.com/item?id=48237163",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Models.dev : base de données open-source des spécifications, des prix et des capacités des modèles d'IA",
+        "titleOriginal": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+        "url": "https://github.com/anomalyco/models.dev",
+        "source": "github.com",
+        "score": 51,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48241172",
+        "date": "il y a 1 h"
       },
       {
         "title": "Les chercheurs américains font face à de nouvelles restrictions sur la publication avec des collaborateurs étrangers",
         "titleOriginal": "U.S. researchers face new restrictions on publishing with foreign collaborators",
         "url": "https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators",
         "source": "science.org",
-        "score": 212,
-        "comments": 120,
+        "score": 258,
+        "comments": 156,
         "hnUrl": "https://news.ycombinator.com/item?id=48238025",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Application de bureau Kanban open source qui exécute des agents parallèles sur chaque carte",
-        "titleOriginal": "Open source Kanban desktop app that runs parallel agents on every card",
-        "url": "https://www.kanbots.dev/",
-        "source": "kanbots.dev",
-        "score": 62,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48239413",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       }
     ]
   },
