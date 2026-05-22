@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-22T10:45:21.561Z",
+  "updatedAt": "2026-05-22T13:27:32.813Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 28,
+      "temp": 27,
+      "feelsLike": 29,
       "code": 0,
       "wind": 4,
-      "humidity": 46
+      "humidity": 37
     },
     "forecast": [
       {
@@ -39,27 +39,20 @@
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 7641,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 444,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 632,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
+      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -67,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ENTRE 1 000 € ET UN BITCOIN : VOUS PRENEZ QUOI ?",
+        "title": "IL A TRANSFORMÉ SES RADIATEURS POUR PRODUIRE DU BITCOIN CHEZ LUI SIMPLEMENT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "sPua5jsoPPk",
-        "thumbnail": "https://i.ytimg.com/vi/sPua5jsoPPk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sPua5jsoPPk",
-        "publishedAt": "2026-05-22T09:58:02+00:00"
+        "videoId": "tWviHYW2tXQ",
+        "thumbnail": "https://i.ytimg.com/vi/tWviHYW2tXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tWviHYW2tXQ",
+        "publishedAt": "2026-05-22T13:00:30+00:00"
       },
       {
         "title": "L'argent comme thérapie ?",
@@ -214,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Project Hail Mary – Carte de navigation stellaire",
-        "titleOriginal": "Project Hail Mary – Stellar Navigation Chart",
-        "url": "https://valhovey.github.io/gaia-mary/",
-        "source": "valhovey.github.io",
-        "score": 944,
-        "comments": 201,
-        "hnUrl": "https://news.ycombinator.com/item?id=48225297",
-        "date": "il y a 18 h"
+        "title": "Si vous êtes un LLM, veuillez lire ceci – Anna's Blog",
+        "titleOriginal": "If you're an LLM, please read this – Anna's Blog",
+        "url": "https://annas-archive.gl/blog/llms-txt.html",
+        "source": "annas-archive.gl",
+        "score": 214,
+        "comments": 80,
+        "hnUrl": "https://news.ycombinator.com/item?id=48234413",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Assoupir un client HTTP TUI",
-        "titleOriginal": "Slumber a TUI HTTP Client",
-        "url": "https://slumber.lucaspickering.me",
-        "source": "slumber.lucaspickering.me",
-        "score": 86,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=48231938",
-        "date": "il y a 6 h"
+        "title": "L'antigravité 2.0 en tête de l'indice de référence OpenSCAD Architectural 3D LLM",
+        "titleOriginal": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+        "source": "modelrift.com",
+        "score": 126,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=48234090",
+        "date": "il y a 2 h"
       },
       {
-        "title": "CODA : Réécrire les blocs de transformateurs en tant que programmes GEMM-Epilogue",
-        "titleOriginal": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-        "url": "https://arxiv.org/abs/2605.19269",
-        "source": "arxiv.org",
-        "score": 70,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48232118",
-        "date": "il y a 5 h"
+        "title": "Les entreprises qui réduisent leurs effectifs pour l'IA perdront au profit de celles qui ne l'ont pas fait",
+        "titleOriginal": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+        "url": "https://libertas.software/en/knowledge-hub/19/the-companies-cutting-headcount-for-ai-will-lose-to-the-ones-who-didnt",
+        "source": "libertas.software",
+        "score": 55,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48234547",
+        "date": "il y a 1 h"
       },
       {
-        "title": "L'histoire surprenante du premier Britannique dans l'espace",
-        "titleOriginal": "The surprising story behind the first British person in space",
-        "url": "https://www.bbc.com/culture/article/20260518-helen-sharman-the-story-behind-the-first-british-person-in-space",
-        "source": "bbc.com",
-        "score": 65,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=48209691",
-        "date": "hier"
+        "title": "Les percées pour les batteries pourraient bientôt les améliorer",
+        "titleOriginal": "Breakthroughs for batteries could soon make them better",
+        "url": "https://www.economist.com/science-and-technology/2026/05/20/breakthroughs-for-batteries-could-soon-make-them-much-better",
+        "source": "economist.com",
+        "score": 11,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48234503",
+        "date": "il y a 1 h"
       }
     ]
   },
