@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-05-21T23:57:30.476Z",
+  "updatedAt": "2026-05-22T03:45:51.405Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 14,
-      "code": 0,
-      "wind": 2,
-      "humidity": 89
+      "temp": 10,
+      "feelsLike": 10,
+      "code": 45,
+      "wind": 1,
+      "humidity": 100
     },
     "forecast": [
       {
         "date": "2026-05-22",
         "code": 45,
-        "tmax": 28,
+        "tmax": 27,
         "tmin": 10
       },
       {
         "date": "2026-05-23",
-        "code": 3,
+        "code": 45,
         "tmax": 29,
         "tmin": 12
       },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Jusqu'où ira l'intimité avec les robots humanoïdes ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "NoblYH7gNjo",
-        "thumbnail": "https://i.ytimg.com/vi/NoblYH7gNjo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NoblYH7gNjo",
-        "publishedAt": "2026-05-21T17:02:18+00:00"
-      },
-      {
-        "title": "C’est quoi la semaine type d’un marin-pompier ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "PNmefAlzmvE",
-        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
-        "publishedAt": "2026-05-21T16:00:48+00:00"
-      },
-      {
-        "title": "POURQUOI IL FAUT ARRÊTER DE REMETTRE SA VIE AU LENDEMAIN ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "9e0wJaQa55A",
-        "thumbnail": "https://i.ytimg.com/vi/9e0wJaQa55A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9e0wJaQa55A",
-        "publishedAt": "2026-05-21T16:00:34+00:00"
-      },
-      {
-        "title": "Les timides sont de meilleurs vendeurs ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "4JwKtEUEexU",
-        "thumbnail": "https://i.ytimg.com/vi/4JwKtEUEexU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4JwKtEUEexU",
-        "publishedAt": "2026-05-21T09:20:34+00:00"
-      },
-      {
-        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "S9GB1TxaDUI",
-        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
-        "publishedAt": "2026-05-17T17:21:43+00:00"
-      },
-      {
-        "title": "Je termine de rénover la petite ruine #21",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hJ80eNKg1iA",
-        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
-        "publishedAt": "2026-05-17T15:17:38+00:00"
-      },
-      {
-        "title": "Il a écouté la petite voix dans sa tête",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "lXH-gzsAFUA",
-        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
-        "publishedAt": "2026-05-09T19:11:02+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      },
-      {
-        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "d86srme8IJw",
-        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
-        "publishedAt": "2026-04-28T18:05:29+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -203,40 +121,40 @@
         "titleOriginal": "Project Hail Mary – Stellar Navigation Chart",
         "url": "https://valhovey.github.io/gaia-mary/",
         "source": "valhovey.github.io",
-        "score": 478,
-        "comments": 117,
+        "score": 648,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=48225297",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Utilisation de Kagi Search avec basse vision",
-        "titleOriginal": "Using Kagi Search with Low Vision",
-        "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
-        "source": "veroniiiica.com",
-        "score": 97,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48227860",
-        "date": "il y a 4 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Le blog a fonctionné sur Ubuntu 16.04 pendant 10 ans. Je l'ai migré vers FreeBSD",
         "titleOriginal": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
         "url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
         "source": "crocidb.com",
-        "score": 135,
-        "comments": 82,
+        "score": 195,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48227397",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Show HN : Freenet, une plateforme peer-to-peer pour les applications décentralisées",
-        "titleOriginal": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
-        "url": "https://freenet.org/",
-        "source": "freenet.org",
-        "score": 170,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=48223362",
-        "date": "il y a 9 h"
+        "title": "Utilisation de Kagi Search avec basse vision",
+        "titleOriginal": "Using Kagi Search with Low Vision",
+        "url": "https://veroniiiica.com/using-kagi-search-with-low-vision/",
+        "source": "veroniiiica.com",
+        "score": 154,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48227860",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "La mort du magasin de jouets Brick and Mortar",
+        "titleOriginal": "The Death of the Brick and Mortar Toy Store",
+        "url": "https://brainbaking.com/post/2026/05/the-death-of-the-brick-and-mortar-toy-store/",
+        "source": "brainbaking.com",
+        "score": 37,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48192605",
+        "date": "il y a 2 j"
       }
     ]
   },
@@ -292,9 +210,9 @@
             "name": "Cavaliers",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
           },
-          "winsHome": 1,
+          "winsHome": 2,
           "winsAway": 0,
-          "summary": "NY leads series 1-0",
+          "summary": "NY leads series 2-0",
           "completed": false,
           "round": "East Finals - Game 2",
           "roundLabel": "Est · Finales NBA",
