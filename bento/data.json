@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-23T21:13:50.060Z",
+  "updatedAt": "2026-05-23T22:13:12.853Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 23,
+      "temp": 20,
+      "feelsLike": 21,
       "code": 0,
       "wind": 4,
-      "humidity": 69
+      "humidity": 72
     },
     "forecast": [
-      {
-        "date": "2026-05-23",
-        "code": 45,
-        "tmax": 30,
-        "tmin": 10
-      },
       {
         "date": "2026-05-24",
         "code": 3,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-05-26",
-        "code": 0,
-        "tmax": 31,
+        "code": 1,
+        "tmax": 32,
         "tmin": 15
+      },
+      {
+        "date": "2026-05-27",
+        "code": 3,
+        "tmax": 32,
+        "tmin": 17
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 110,
+        "viewers": 130,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "It's time to talk about my writerdeck",
         "url": "https://veronicaexplains.net/my-first-writerdeck/",
         "source": "veronicaexplains.net",
-        "score": 128,
-        "comments": 77,
+        "score": 168,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=48250144",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "dotNET (OK, C#) obtient les types d'union",
-        "titleOriginal": "dotNET (OK, C#) gets union types",
+        "title": ".NET (OK, C#) obtient les types d'union",
+        "titleOriginal": ".NET (OK, C#) gets union types",
         "url": "https://andrewlock.net/exploring-the-dotnet-11-preview-2-dotnet-gets-union-types/",
         "source": "andrewlock.net",
-        "score": 27,
-        "comments": 5,
+        "score": 72,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=48234954",
         "date": "hier"
+      },
+      {
+        "title": "Ma configuration de bureau en deux parties (2025)",
+        "titleOriginal": "My two-part desk setup (2025)",
+        "url": "https://arslan.io/2025/11/18/my-two-part-desk-setup/",
+        "source": "arslan.io",
+        "score": 154,
+        "comments": 101,
+        "hnUrl": "https://news.ycombinator.com/item?id=48214311",
+        "date": "il y a 3 j"
       },
       {
         "title": "Le <dl> (2021)",
         "titleOriginal": "On The <dl> (2021)",
         "url": "https://benmyers.dev/blog/on-the-dl/",
         "source": "benmyers.dev",
-        "score": 308,
-        "comments": 97,
+        "score": 318,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48247325",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Une femme du Texas arrêtée pour avoir publié sur Facebook un article sur la qualité de l'eau",
-        "titleOriginal": "Texas woman arrested for Facebook post about town water quality",
-        "url": "https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality",
-        "source": "reclaimthenet.org",
-        "score": 421,
-        "comments": 189,
-        "hnUrl": "https://news.ycombinator.com/item?id=48249747",
-        "date": "il y a 3 h"
+        "date": "il y a 9 h"
       }
     ]
   },
