@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T09:18:43.144Z",
+  "updatedAt": "2026-05-23T10:50:31.094Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 27,
-      "code": 0,
-      "wind": 3,
-      "humidity": 55
+      "temp": 27,
+      "feelsLike": 30,
+      "code": 1,
+      "wind": 4,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -18,20 +18,20 @@
       },
       {
         "date": "2026-05-24",
-        "code": 1,
-        "tmax": 32,
-        "tmin": 15
+        "code": 0,
+        "tmax": 33,
+        "tmin": 16
       },
       {
         "date": "2026-05-25",
-        "code": 3,
+        "code": 2,
         "tmax": 31,
         "tmin": 17
       },
       {
         "date": "2026-05-26",
         "code": 1,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 15
       }
     ]
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "PEUT-ON VRAIMENT FAIRE ATTERRIR UN AVION SANS AUCUNE CONNAISSANCE ?",
+        "title": "LE BITCOIN EST PRESQUE IMPOSSIBLE À PIRATER ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Hmsbg6Lwi58",
-        "thumbnail": "https://i.ytimg.com/vi/Hmsbg6Lwi58/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hmsbg6Lwi58",
-        "publishedAt": "2026-05-23T09:00:31+00:00"
+        "videoId": "h_N8_PHBVyM",
+        "thumbnail": "https://i.ytimg.com/vi/h_N8_PHBVyM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h_N8_PHBVyM",
+        "publishedAt": "2026-05-23T10:00:06+00:00"
       },
       {
         "title": "Google I/0 2026 : Google contrôle maintenant tout ce que tu vois, cherches et achètes !",
@@ -203,40 +203,40 @@
         "titleOriginal": "Shipping a laptop to a refugee camp in Uganda",
         "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
         "source": "notesbylex.com",
-        "score": 436,
-        "comments": 159,
+        "score": 478,
+        "comments": 173,
         "hnUrl": "https://news.ycombinator.com/item?id=48241997",
-        "date": "il y a 11 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Rubis : Un shell Unix écrit en Rubis pur",
+        "titleOriginal": "Rubish: A Unix shell written in pure Ruby",
+        "url": "https://github.com/amatsuda/rubish",
+        "source": "github.com",
+        "score": 47,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48245262",
+        "date": "il y a 4 h"
       },
       {
         "title": "Pourquoi les entreprises japonaises font tant de choses différentes",
         "titleOriginal": "Why Japanese companies do so many different things",
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "source": "davidoks.blog",
-        "score": 666,
-        "comments": 320,
+        "score": 694,
+        "comments": 330,
         "hnUrl": "https://news.ycombinator.com/item?id=48237163",
-        "date": "il y a 17 h"
+        "date": "il y a 19 h"
       },
       {
         "title": "Le sandwich quadratique",
         "titleOriginal": "The quadratic sandwich",
         "url": "https://fedemagnani.github.io/math/2026/04/08/the-quadratic-sandwich.html",
         "source": "fedemagnani.github.io",
-        "score": 34,
-        "comments": 2,
+        "score": 52,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=48206387",
         "date": "il y a 2 j"
-      },
-      {
-        "title": "Les loyalistes Kindle se démènent alors qu'Amazon tourne la page sur les anciens lecteurs électroniques",
-        "titleOriginal": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-        "url": "https://www.reuters.com/business/retail-consumer/kindle-loyalists-scramble-amazon-turns-page-old-e-readers-2026-05-19/",
-        "source": "reuters.com",
-        "score": 30,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48194645",
-        "date": "il y a 3 j"
       }
     ]
   },
