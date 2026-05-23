@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-23T00:01:36.544Z",
+  "updatedAt": "2026-05-23T04:14:02.297Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 16,
-      "code": 2,
-      "wind": 3,
-      "humidity": 90
+      "temp": 11,
+      "feelsLike": 11,
+      "code": 45,
+      "wind": 1,
+      "humidity": 100
     },
     "forecast": [
       {
         "date": "2026-05-23",
         "code": 45,
-        "tmax": 30,
-        "tmin": 12
+        "tmax": 29,
+        "tmin": 11
       },
       {
         "date": "2026-05-24",
-        "code": 2,
+        "code": 1,
         "tmax": 32,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-05-25",
@@ -32,21 +32,12 @@
         "date": "2026-05-26",
         "code": 1,
         "tmax": 31,
-        "tmin": 16
+        "tmin": 15
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 124,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,93 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "IL A TRANSFORMÉ SES RADIATEURS POUR PRODUIRE DU BITCOIN CHEZ LUI SIMPLEMENT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "tWviHYW2tXQ",
-        "thumbnail": "https://i.ytimg.com/vi/tWviHYW2tXQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tWviHYW2tXQ",
-        "publishedAt": "2026-05-22T13:00:30+00:00"
-      },
-      {
-        "title": "L'argent comme thérapie ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "sRIylxesNWk",
-        "thumbnail": "https://i.ytimg.com/vi/sRIylxesNWk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sRIylxesNWk",
-        "publishedAt": "2026-05-22T07:11:04+00:00"
-      },
-      {
-        "title": "Jusqu'où ira l'intimité avec les robots humanoïdes ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "NoblYH7gNjo",
-        "thumbnail": "https://i.ytimg.com/vi/NoblYH7gNjo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NoblYH7gNjo",
-        "publishedAt": "2026-05-21T17:02:18+00:00"
-      },
-      {
-        "title": "C’est quoi la semaine type d’un marin-pompier ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "PNmefAlzmvE",
-        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
-        "publishedAt": "2026-05-21T16:00:48+00:00"
-      },
-      {
-        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "S9GB1TxaDUI",
-        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
-        "publishedAt": "2026-05-17T17:21:43+00:00"
-      },
-      {
-        "title": "Je termine de rénover la petite ruine #21",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hJ80eNKg1iA",
-        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
-        "publishedAt": "2026-05-17T15:17:38+00:00"
-      },
-      {
-        "title": "Il a écouté la petite voix dans sa tête",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "lXH-gzsAFUA",
-        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
-        "publishedAt": "2026-05-09T19:11:02+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      },
-      {
-        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "d86srme8IJw",
-        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
-        "publishedAt": "2026-04-28T18:05:29+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -151,16 +61,16 @@
         "url": "https://www.themoviedb.org/movie/1304313"
       },
       {
-        "title": "Obsession",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
-        "url": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
         "title": "Mortal Kombat II",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "title": "Obsession",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
+        "url": "https://www.themoviedb.org/movie/1339713"
       },
       {
         "title": "Michael",
@@ -208,87 +118,107 @@
     "items": [
       {
         "title": "Expédition d'un ordinateur portable vers un camp de réfugiés en Ouganda",
-        "titleOriginal": "Shipping a Laptop to a Refugee Camp in Uganda",
+        "titleOriginal": "Shipping a laptop to a refugee camp in Uganda",
         "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
         "source": "notesbylex.com",
-        "score": 109,
-        "comments": 12,
+        "score": 260,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=48241997",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Projet Glasswing : une première mise à jour",
-        "titleOriginal": "Project Glasswing: An Initial Update",
-        "url": "https://www.anthropic.com/research/glasswing-initial-update",
-        "source": "anthropic.com",
-        "score": 267,
-        "comments": 179,
-        "hnUrl": "https://news.ycombinator.com/item?id=48240419",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Pourquoi les entreprises japonaises font tant de choses différentes",
         "titleOriginal": "Why Japanese companies do so many different things",
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "source": "davidoks.blog",
-        "score": 446,
-        "comments": 261,
+        "score": 554,
+        "comments": 289,
         "hnUrl": "https://news.ycombinator.com/item?id=48237163",
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Projet Glasswing : une première mise à jour",
+        "titleOriginal": "Project Glasswing: An Initial Update",
+        "url": "https://www.anthropic.com/research/glasswing-initial-update",
+        "source": "anthropic.com",
+        "score": 355,
+        "comments": 222,
+        "hnUrl": "https://news.ycombinator.com/item?id=48240419",
         "date": "il y a 8 h"
       },
       {
-        "title": "Un compositeur Wayland dans Minecraft",
-        "titleOriginal": "A Wayland Compositor in Minecraft",
-        "url": "https://modrinth.com/mod/waylandcraft",
-        "source": "modrinth.com",
-        "score": 87,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=48213529",
+        "title": "La diffusion de neutrons explique pourquoi les pâtes sans gluten s'effondrent (2025)",
+        "titleOriginal": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
+        "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+        "source": "phys.org",
+        "score": 27,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48206763",
         "date": "il y a 2 j"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260521",
+    "resultsDate": "20260522",
     "results": [
       {
-        "id": "401873342",
-        "date": "2026-05-22T00:00Z",
+        "id": "401873199",
+        "date": "2026-05-23T00:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 109,
-          "record": "53-29",
-          "winner": true
-        },
-        "away": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 93,
-          "record": "52-30",
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 108,
+          "record": "62-20",
           "winner": false
         },
+        "away": {
+          "id": "25",
+          "abbr": "OKC",
+          "name": "Thunder",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+          "score": 123,
+          "record": "64-18",
+          "winner": true
+        },
         "series": {
-          "summary": "NY leads series 2-0",
+          "summary": "OKC leads series 2-1",
           "completed": false,
-          "round": "East Finals - Game 2",
-          "winsHome": 2,
-          "winsAway": 0
+          "round": "West Finals - Game 3",
+          "winsHome": 1,
+          "winsAway": 2
         }
       }
     ],
     "standings": null,
     "playoffs": {
       "series": [
+        {
+          "teamHome": {
+            "abbr": "CLE",
+            "name": "Cavaliers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
+          },
+          "teamAway": {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+          },
+          "winsHome": 0,
+          "winsAway": 2,
+          "summary": "NY leads series 2-0",
+          "completed": false,
+          "round": "East Finals - Game 3",
+          "roundLabel": "Est · Finales NBA",
+          "roundOrder": 4,
+          "lastDate": "2026-05-24T00:00Z"
+        },
         {
           "teamHome": {
             "abbr": "SA",
@@ -301,33 +231,13 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
           },
           "winsHome": 1,
-          "winsAway": 1,
-          "summary": "Series tied 1-1",
+          "winsAway": 2,
+          "summary": "OKC leads series 2-1",
           "completed": false,
           "round": "West Finals - Game 3",
           "roundLabel": "Ouest · Finales NBA",
           "roundOrder": 4,
           "lastDate": "2026-05-23T00:30Z"
-        },
-        {
-          "teamHome": {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-          },
-          "teamAway": {
-            "abbr": "CLE",
-            "name": "Cavaliers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png"
-          },
-          "winsHome": 2,
-          "winsAway": 0,
-          "summary": "NY leads series 2-0",
-          "completed": false,
-          "round": "East Finals - Game 2",
-          "roundLabel": "Est · Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-05-22T00:00Z"
         }
       ]
     }
