@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-23T04:14:02.297Z",
+  "updatedAt": "2026-05-23T07:13:09.126Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 11,
-      "code": 45,
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 2,
       "wind": 1,
-      "humidity": 100
+      "humidity": 78
     },
     "forecast": [
       {
         "date": "2026-05-23",
         "code": 45,
         "tmax": 29,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-05-24",
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "LES FRANÇAIS INVESTISSENT PLUS EN CRYPTO QU’EN ACTIONS ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "avLGavRTRhw",
+        "thumbnail": "https://i.ytimg.com/vi/avLGavRTRhw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=avLGavRTRhw",
+        "publishedAt": "2026-05-23T07:00:29+00:00"
+      },
+      {
+        "title": "Google I/0 2026 : Google contrôle maintenant tout ce que tu vois, cherches et achètes !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "MqFDWW-IUDA",
+        "thumbnail": "https://i.ytimg.com/vi/MqFDWW-IUDA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MqFDWW-IUDA",
+        "publishedAt": "2026-05-23T06:30:12+00:00"
+      },
+      {
+        "title": "L'argent comme thérapie ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "sRIylxesNWk",
+        "thumbnail": "https://i.ytimg.com/vi/sRIylxesNWk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sRIylxesNWk",
+        "publishedAt": "2026-05-22T07:11:04+00:00"
+      },
+      {
+        "title": "C’est quoi la semaine type d’un marin-pompier ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "PNmefAlzmvE",
+        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
+        "publishedAt": "2026-05-21T16:00:48+00:00"
+      },
+      {
+        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "S9GB1TxaDUI",
+        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
+        "publishedAt": "2026-05-17T17:21:43+00:00"
+      },
+      {
+        "title": "Je termine de rénover la petite ruine #21",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hJ80eNKg1iA",
+        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
+        "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Il a écouté la petite voix dans sa tête",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "lXH-gzsAFUA",
+        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
+        "publishedAt": "2026-05-09T19:11:02+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      },
+      {
+        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "d86srme8IJw",
+        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
+        "publishedAt": "2026-04-28T18:05:29+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -121,39 +203,39 @@
         "titleOriginal": "Shipping a laptop to a refugee camp in Uganda",
         "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
         "source": "notesbylex.com",
-        "score": 260,
-        "comments": 80,
+        "score": 356,
+        "comments": 113,
         "hnUrl": "https://news.ycombinator.com/item?id=48241997",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Pourquoi les entreprises japonaises font tant de choses différentes",
         "titleOriginal": "Why Japanese companies do so many different things",
         "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
         "source": "davidoks.blog",
-        "score": 554,
-        "comments": 289,
+        "score": 620,
+        "comments": 305,
         "hnUrl": "https://news.ycombinator.com/item?id=48237163",
-        "date": "il y a 12 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Projet Glasswing : une première mise à jour",
         "titleOriginal": "Project Glasswing: An Initial Update",
         "url": "https://www.anthropic.com/research/glasswing-initial-update",
         "source": "anthropic.com",
-        "score": 355,
-        "comments": 222,
+        "score": 402,
+        "comments": 233,
         "hnUrl": "https://news.ycombinator.com/item?id=48240419",
-        "date": "il y a 8 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "La diffusion de neutrons explique pourquoi les pâtes sans gluten s'effondrent (2025)",
-        "titleOriginal": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-        "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-        "source": "phys.org",
-        "score": 27,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48206763",
+        "title": "Mécanisme de pompage sanguin du sabot (2020)",
+        "titleOriginal": "Blood Pumping Mechanism of the Hoof (2020)",
+        "url": "https://horses.extension.org/blood-pumping-mechanism-of-the-hoof/",
+        "source": "horses.extension.org",
+        "score": 68,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48204985",
         "date": "il y a 2 j"
       }
     ]
