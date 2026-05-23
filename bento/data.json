@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T11:57:26.348Z",
+  "updatedAt": "2026-05-23T13:27:07.577Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 29,
       "feelsLike": 30,
       "code": 0,
-      "wind": 6,
-      "humidity": 34
+      "wind": 8,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA QUESTION QUE PERSONNE NE POSE SUR LE BITCOIN",
+        "title": "LA PIRE ERREUR QUAND TU VEUX ACHETER DU BITCOIN",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "VAuZv0JjI20",
-        "thumbnail": "https://i.ytimg.com/vi/VAuZv0JjI20/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VAuZv0JjI20",
-        "publishedAt": "2026-05-23T11:00:25+00:00"
+        "videoId": "BBapTbbDSyY",
+        "thumbnail": "https://i.ytimg.com/vi/BBapTbbDSyY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BBapTbbDSyY",
+        "publishedAt": "2026-05-23T13:00:09+00:00"
       },
       {
         "title": "Google I/0 2026 : Google contrôle maintenant tout ce que tu vois, cherches et achètes !",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Expédition d'un ordinateur portable vers un camp de réfugiés en Ouganda",
-        "titleOriginal": "Shipping a laptop to a refugee camp in Uganda",
-        "url": "https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda",
-        "source": "notesbylex.com",
-        "score": 513,
-        "comments": 182,
-        "hnUrl": "https://news.ycombinator.com/item?id=48241997",
-        "date": "il y a 14 h"
+        "title": "Terry Pratchett me manque",
+        "titleOriginal": "I Miss Terry Pratchett",
+        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+        "source": "mahl.me",
+        "score": 82,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48247127",
+        "date": "il y a 51 min"
       },
       {
-        "title": "Rubis : Un shell Unix écrit en Rubis pur",
-        "titleOriginal": "Rubish: A Unix shell written in pure Ruby",
-        "url": "https://github.com/amatsuda/rubish",
-        "source": "github.com",
-        "score": 64,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48245262",
-        "date": "il y a 5 h"
+        "title": "80386 Microcode démonté",
+        "titleOriginal": "80386 Microcode Disassembled",
+        "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
+        "source": "reenigne.org",
+        "score": 55,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48247004",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Pourquoi les entreprises japonaises font tant de choses différentes",
-        "titleOriginal": "Why Japanese companies do so many different things",
-        "url": "https://davidoks.blog/p/why-japanese-companies-do-so-many",
-        "source": "davidoks.blog",
-        "score": 712,
-        "comments": 339,
-        "hnUrl": "https://news.ycombinator.com/item?id=48237163",
-        "date": "il y a 20 h"
+        "title": "Making Deep Learning Go Brrrr à partir des premiers principes",
+        "titleOriginal": "Making Deep Learning Go Brrrr from First Principles",
+        "url": "https://horace.io/brrr_intro.html",
+        "source": "horace.io",
+        "score": 27,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48246889",
+        "date": "il y a 1 h"
       },
       {
         "title": "Les entreprises technologiques américaines partagent les noms des responsables de la réglementation néerlandaise avec le Sénat",
         "titleOriginal": "US tech firms share Dutch regulator officials' names with Senate",
         "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
         "source": "dutchnews.nl",
-        "score": 40,
-        "comments": 13,
+        "score": 99,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48246614",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
