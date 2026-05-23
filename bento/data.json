@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-23T13:27:07.577Z",
+  "updatedAt": "2026-05-23T14:47:25.143Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 30,
-      "code": 0,
-      "wind": 8,
-      "humidity": 31
+      "temp": 30,
+      "feelsLike": 29,
+      "code": 2,
+      "wind": 9,
+      "humidity": 33
     },
     "forecast": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "date": "2026-05-24",
-        "code": 0,
-        "tmax": 33,
-        "tmin": 16
+        "code": 3,
+        "tmax": 32,
+        "tmin": 15
       },
       {
         "date": "2026-05-25",
-        "code": 2,
+        "code": 3,
         "tmax": 31,
         "tmin": 17
       },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA PIRE ERREUR QUAND TU VEUX ACHETER DU BITCOIN",
+        "title": "POURQUOI L’IRAN DEMANDE À ÊTRE PAYÉ EN BITCOIN ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "BBapTbbDSyY",
-        "thumbnail": "https://i.ytimg.com/vi/BBapTbbDSyY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BBapTbbDSyY",
-        "publishedAt": "2026-05-23T13:00:09+00:00"
+        "videoId": "mlnzMib_mao",
+        "thumbnail": "https://i.ytimg.com/vi/mlnzMib_mao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mlnzMib_mao",
+        "publishedAt": "2026-05-23T14:00:39+00:00"
       },
       {
         "title": "Google I/0 2026 : Google contrôle maintenant tout ce que tu vois, cherches et achètes !",
@@ -199,43 +199,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Terry Pratchett me manque",
-        "titleOriginal": "I Miss Terry Pratchett",
-        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
-        "source": "mahl.me",
-        "score": 82,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=48247127",
-        "date": "il y a 51 min"
+        "title": "Le <dl>",
+        "titleOriginal": "On The <dl>",
+        "url": "https://benmyers.dev/blog/on-the-dl/",
+        "source": "benmyers.dev",
+        "score": 72,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=48247325",
+        "date": "il y a 1 h"
       },
       {
         "title": "80386 Microcode démonté",
         "titleOriginal": "80386 Microcode Disassembled",
         "url": "https://www.reenigne.org/blog/80386-microcode-disassembled/",
         "source": "reenigne.org",
-        "score": 55,
-        "comments": 10,
+        "score": 92,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=48247004",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Terry Pratchett me manque",
+        "titleOriginal": "I Miss Terry Pratchett",
+        "url": "https://www.mahl.me/blog/the-spell-that-wouldnt-leave/",
+        "source": "mahl.me",
+        "score": 162,
+        "comments": 114,
+        "hnUrl": "https://news.ycombinator.com/item?id=48247127",
+        "date": "il y a 2 h"
       },
       {
         "title": "Making Deep Learning Go Brrrr à partir des premiers principes",
         "titleOriginal": "Making Deep Learning Go Brrrr from First Principles",
         "url": "https://horace.io/brrr_intro.html",
         "source": "horace.io",
-        "score": 27,
-        "comments": 12,
+        "score": 45,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=48246889",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Les entreprises technologiques américaines partagent les noms des responsables de la réglementation néerlandaise avec le Sénat",
-        "titleOriginal": "US tech firms share Dutch regulator officials' names with Senate",
-        "url": "https://www.dutchnews.nl/2026/05/us-tech-firms-share-dutch-regulator-officials-names-with-senate/",
-        "source": "dutchnews.nl",
-        "score": 99,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=48246614",
         "date": "il y a 2 h"
       }
     ]
