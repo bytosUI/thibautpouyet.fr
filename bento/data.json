@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-24T14:47:21.645Z",
+  "updatedAt": "2026-05-24T15:57:50.831Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
-      "feelsLike": 31,
-      "code": 2,
-      "wind": 14,
+      "feelsLike": 30,
+      "code": 1,
+      "wind": 15,
       "humidity": 27
     },
     "forecast": [
@@ -24,13 +24,13 @@
       },
       {
         "date": "2026-05-26",
-        "code": 0,
+        "code": 1,
         "tmax": 32,
         "tmin": 15
       },
       {
         "date": "2026-05-27",
-        "code": 3,
+        "code": 2,
         "tmax": 31,
         "tmin": 16
       }
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le 6502 BASIC DE Microsoft est maintenant Open Source (2025)",
-        "titleOriginal": "Microsoft's 6502 BASIC is now Open Source (2025)",
-        "url": "https://opensource.microsoft.com/blog/2025/09/03/microsoft-open-source-historic-6502-basic/",
-        "source": "opensource.microsoft.com",
-        "score": 30,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48257058",
-        "date": "il y a 1 h"
+        "title": "DeepSeek reasonix, agent de codage natif DeepSeek avec mise en cache élevée et faible coût",
+        "titleOriginal": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+        "source": "esengine.github.io",
+        "score": 83,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48256953",
+        "date": "il y a 2 h"
       },
       {
         "title": "Maîtriser Dyalog APL",
         "titleOriginal": "Mastering Dyalog APL",
         "url": "https://mastering.dyalog.com/README.html",
         "source": "mastering.dyalog.com",
-        "score": 62,
-        "comments": 8,
+        "score": 78,
+        "comments": 16,
         "hnUrl": "https://news.ycombinator.com/item?id=48256475",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Informatique pour l'enfance",
         "titleOriginal": "Childhood Computing",
         "url": "https://susam.net/childhood-computing.html",
         "source": "susam.net",
-        "score": 57,
-        "comments": 26,
+        "score": 79,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=48256597",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "DeepSeek reasonix, agent de codage natif DeepSeek avec mise en cache élevée et faible coût",
-        "titleOriginal": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-        "url": "https://esengine.github.io/DeepSeek-Reasonix/",
-        "source": "esengine.github.io",
-        "score": 28,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48256953",
-        "date": "il y a 1 h"
+        "title": "Désintégration des contraintes : la fragilité des agents LLM dans la génération de code back-end",
+        "titleOriginal": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "source": "arxiv.org",
+        "score": 30,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48256912",
+        "date": "il y a 3 h"
       }
     ]
   },
