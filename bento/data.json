@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T17:04:22.120Z",
+  "updatedAt": "2026-05-24T18:35:23.487Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
+      "temp": 28,
+      "feelsLike": 29,
       "code": 3,
-      "wind": 11,
-      "humidity": 30
+      "wind": 9,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -199,43 +199,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Livres informatiques Usborne des années 1980",
-        "titleOriginal": "Usborne 1980s Computer Books",
-        "url": "https://usborne.com/us/books/computer-and-coding-books",
-        "source": "usborne.com",
-        "score": 43,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48258194",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Rubis pour de bon",
-        "titleOriginal": "Ruby for Good",
-        "url": "https://ti.to/codeforgood/rubyforgood",
-        "source": "ti.to",
-        "score": 26,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48258254",
-        "date": "il y a 1 h"
+        "title": "La mémoire est passée à près des deux tiers des coûts des composants de la puce IA",
+        "titleOriginal": "Memory has grown to nearly two-thirds of AI chip component costs",
+        "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+        "source": "epoch.ai",
+        "score": 102,
+        "comments": 97,
+        "hnUrl": "https://news.ycombinator.com/item?id=48258684",
+        "date": "il y a 2 h"
       },
       {
         "title": "DeepSeek reasonix, agent de codage natif DeepSeek avec mise en cache élevée et faible coût",
         "titleOriginal": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "esengine.github.io",
-        "score": 153,
-        "comments": 86,
+        "score": 215,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=48256953",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Maîtriser Dyalog APL",
-        "titleOriginal": "Mastering Dyalog APL",
-        "url": "https://mastering.dyalog.com/README.html",
-        "source": "mastering.dyalog.com",
-        "score": 84,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=48256475",
+        "title": "Rubis pour de bon",
+        "titleOriginal": "Ruby for Good",
+        "url": "https://ti.to/codeforgood/rubyforgood",
+        "source": "ti.to",
+        "score": 58,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48258254",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Désintégration des contraintes : la fragilité des agents LLM dans la génération de code back-end",
+        "titleOriginal": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+        "url": "https://arxiv.org/abs/2605.06445",
+        "source": "arxiv.org",
+        "score": 92,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=48256912",
         "date": "il y a 5 h"
       }
     ]
