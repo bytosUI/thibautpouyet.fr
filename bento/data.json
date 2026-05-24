@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-24T11:47:55.920Z",
+  "updatedAt": "2026-05-24T13:13:51.478Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 31,
       "feelsLike": 32,
-      "code": 3,
+      "code": 1,
       "wind": 12,
-      "humidity": 36
+      "humidity": 32
     },
     "forecast": [
       {
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "POV : t'es la commère du quartier à sa fenêtre",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "oyY9230s39k",
-        "thumbnail": "https://i.ytimg.com/vi/oyY9230s39k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oyY9230s39k",
-        "publishedAt": "2026-05-24T11:30:33+00:00"
-      },
-      {
-        "title": "LE PLUS GRAND CHOC DE SA CARRIÈRE : \"LE CADAVRE ÉTAIT VIVANT\"",
+        "title": "DES FEMMES SE FROTTENT À CETTE TOMBE POUR... TOMBER ENCEINTES !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "v1dIRdKLf-k",
-        "thumbnail": "https://i.ytimg.com/vi/v1dIRdKLf-k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v1dIRdKLf-k",
-        "publishedAt": "2026-05-24T11:00:17+00:00"
+        "videoId": "0Np94a5TWqQ",
+        "thumbnail": "https://i.ytimg.com/vi/0Np94a5TWqQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0Np94a5TWqQ",
+        "publishedAt": "2026-05-24T13:00:02+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
       },
       {
         "title": "En France, gagner de l'argent rend suspect ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Maîtriser Dyalog APL",
+        "titleOriginal": "Mastering Dyalog APL",
+        "url": "https://mastering.dyalog.com/README.html",
+        "source": "mastering.dyalog.com",
+        "score": 27,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48256475",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Greg Brockman : Dans les 72 heures qui ont presque tué OpenAI",
         "titleOriginal": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
         "url": "https://fs.blog/knowledge-project-podcast/greg-brockman/",
         "source": "fs.blog",
-        "score": 41,
-        "comments": 18,
+        "score": 82,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=48255593",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Microsoft open-sources « le premier code source DOS découvert à ce jour »",
-        "titleOriginal": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
-        "source": "arstechnica.com",
-        "score": 292,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=48253386",
-        "date": "il y a 10 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "J'ai passé 50 heures à dessiner un graphique linéaire",
         "titleOriginal": "I spent 50 hours drawing a line graph",
         "url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
         "source": "dougmacdowell.com",
-        "score": 68,
-        "comments": 7,
+        "score": 129,
+        "comments": 21,
         "hnUrl": "https://news.ycombinator.com/item?id=48223997",
         "date": "il y a 2 j"
       },
       {
-        "title": "Pourquoi Vivado 2026.1 abandonne-t-il la prise en charge de Linux pour le niveau gratuit ?",
-        "titleOriginal": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-        "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
-        "source": "adaptivesupport.amd.com",
-        "score": 192,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=48254309",
-        "date": "il y a 7 h"
+        "title": "Microsoft open-sources « le premier code source DOS découvert à ce jour »",
+        "titleOriginal": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+        "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
+        "source": "arstechnica.com",
+        "score": 319,
+        "comments": 97,
+        "hnUrl": "https://news.ycombinator.com/item?id=48253386",
+        "date": "il y a 11 h"
       }
     ]
   },
