@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-05-24T21:27:21.125Z",
+  "updatedAt": "2026-05-24T22:29:41.011Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 24,
+      "temp": 22,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 7,
-      "humidity": 62
+      "wind": 6,
+      "humidity": 64
     },
     "forecast": [
       {
-        "date": "2026-05-24",
-        "code": 3,
-        "tmax": 32,
-        "tmin": 16
-      },
-      {
         "date": "2026-05-25",
         "code": 3,
-        "tmax": 31,
-        "tmin": 17
+        "tmax": 32,
+        "tmin": 18
       },
       {
         "date": "2026-05-26",
-        "code": 1,
+        "code": 0,
         "tmax": 32,
         "tmin": 15
       },
       {
         "date": "2026-05-27",
-        "code": 2,
+        "code": 0,
+        "tmax": 31,
+        "tmin": 16
+      },
+      {
+        "date": "2026-05-28",
+        "code": 3,
         "tmax": 31,
         "tmin": 16
       }
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Directive CBP 3340-049B : Fouille aux frontières des appareils électroniques",
-        "titleOriginal": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-        "url": "https://www.cbp.gov/document/directives/cbp-directive-no-3340-049b-border-search-electronic-devices",
-        "source": "cbp.gov",
-        "score": 61,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48260140",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Migration de Go à Rust",
-        "titleOriginal": "Migrating from Go to Rust",
-        "url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
-        "source": "corrode.dev",
-        "score": 59,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48259808",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "DeepSeek reasonix, agent de codage natif DeepSeek avec mise en cache élevée et faible coût",
         "titleOriginal": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
         "url": "https://esengine.github.io/DeepSeek-Reasonix/",
         "source": "esengine.github.io",
-        "score": 329,
-        "comments": 165,
+        "score": 365,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=48256953",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "Show HN : Audiomass – un éditeur audio multipiste gratuit et open source pour le web",
+        "titleOriginal": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
+        "url": "https://audiomass.co/?multitrack=1",
+        "source": "audiomass.co",
+        "score": 18,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48258015",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Vaincre la fatigue de Git Rigour avec le Jujutsu",
+        "titleOriginal": "Defeating Git Rigour Fatigue with Jujutsu",
+        "url": "https://ikesau.co/blog/defeating-git-rigour-fatigue-with-jujutsu/",
+        "source": "ikesau.co",
+        "score": 47,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48259861",
+        "date": "il y a 3 h"
       },
       {
         "title": "Les données de l'étude australienne sur la semaine de travail de quatre jours montrent une productivité accrue",
         "titleOriginal": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
         "url": "https://scienceaim.com/australia-just-proved-the-four-day-work-week-works-here-is-what-the-data-actually-says/",
         "source": "scienceaim.com",
-        "score": 80,
-        "comments": 34,
+        "score": 135,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48259990",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
