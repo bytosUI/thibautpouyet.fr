@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-05-24T05:39:30.922Z",
+  "updatedAt": "2026-05-24T08:22:40.178Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 18,
-      "code": 1,
-      "wind": 3,
-      "humidity": 85
+      "temp": 24,
+      "feelsLike": 25,
+      "code": 0,
+      "wind": 6,
+      "humidity": 59
     },
     "forecast": [
       {
         "date": "2026-05-24",
-        "code": 3,
+        "code": 2,
         "tmax": 32,
         "tmin": 16
       },
       {
         "date": "2026-05-25",
-        "code": 2,
+        "code": 1,
         "tmax": 32,
         "tmin": 17
       },
       {
         "date": "2026-05-26",
-        "code": 0,
+        "code": 1,
         "tmax": 32,
         "tmin": 15
       },
@@ -52,6 +52,51 @@
   "youtube": {
     "videos": [
       {
+        "title": "LE BITCOIN N’EST PAS UNIQUEMENT VIRTUEL",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Pl3pld8jyMU",
+        "thumbnail": "https://i.ytimg.com/vi/Pl3pld8jyMU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Pl3pld8jyMU",
+        "publishedAt": "2026-05-23T15:00:13+00:00"
+      },
+      {
+        "title": "Google I/0 2026 : Google contrôle maintenant tout ce que tu vois, cherches et achètes !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "MqFDWW-IUDA",
+        "thumbnail": "https://i.ytimg.com/vi/MqFDWW-IUDA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MqFDWW-IUDA",
+        "publishedAt": "2026-05-23T06:30:12+00:00"
+      },
+      {
+        "title": "L'argent comme thérapie ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "sRIylxesNWk",
+        "thumbnail": "https://i.ytimg.com/vi/sRIylxesNWk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sRIylxesNWk",
+        "publishedAt": "2026-05-22T07:11:04+00:00"
+      },
+      {
+        "title": "C’est quoi la semaine type d’un marin-pompier ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "PNmefAlzmvE",
+        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
+        "publishedAt": "2026-05-21T16:00:48+00:00"
+      },
+      {
+        "title": "ON POSE LE PREMIER ESCALIER (y'en aura 6 autres) - EP28",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "S9GB1TxaDUI",
+        "thumbnail": "https://i.ytimg.com/vi/S9GB1TxaDUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S9GB1TxaDUI",
+        "publishedAt": "2026-05-17T17:21:43+00:00"
+      },
+      {
         "title": "Je termine de rénover la petite ruine #21",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -59,6 +104,33 @@
         "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
         "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Il a écouté la petite voix dans sa tête",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "lXH-gzsAFUA",
+        "thumbnail": "https://i.ytimg.com/vi/lXH-gzsAFUA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lXH-gzsAFUA",
+        "publishedAt": "2026-05-09T19:11:02+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      },
+      {
+        "title": "Je vous donne des nouvelles... ❤️‍🩹🕊️",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "d86srme8IJw",
+        "thumbnail": "https://i.ytimg.com/vi/d86srme8IJw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d86srme8IJw",
+        "publishedAt": "2026-04-28T18:05:29+00:00"
       }
     ]
   },
@@ -131,40 +203,40 @@
         "titleOriginal": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
         "url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
         "source": "arstechnica.com",
-        "score": 142,
-        "comments": 31,
+        "score": 214,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=48253386",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Amazon Web Services – Quatre ans et plus",
-        "titleOriginal": "Amazon Web Services – Four Years and Out",
-        "url": "https://www.adventuresinoss.com/aws-four-years/",
-        "source": "adventuresinoss.com",
-        "score": 31,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48254475",
-        "date": "il y a 48 min"
-      },
-      {
-        "title": "Pourquoi Vivado 2026.1 abandonne-t-il le support Linux pour Free Tier ?",
-        "titleOriginal": "Why Is Vivado 2026.1 Dropping Linux Support for Free Tier?",
+        "title": "Pourquoi Vivado 2026.1 abandonne-t-il la prise en charge de Linux pour le niveau gratuit ?",
+        "titleOriginal": "Why is Vivado 2026.1 dropping Linux support for free tier?",
         "url": "https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US",
         "source": "adaptivesupport.amd.com",
-        "score": 38,
-        "comments": 6,
+        "score": 110,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=48254309",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Les escrocs abusent d'un compte Microsoft interne pour envoyer des liens de spam",
         "titleOriginal": "Scammers are abusing an internal Microsoft account to send spam links",
         "url": "https://techcrunch.com/2026/05/21/scammers-are-abusing-an-internal-microsoft-account-to-send-spam/",
         "source": "techcrunch.com",
-        "score": 92,
-        "comments": 20,
+        "score": 129,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=48253186",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Réveillez-vous ! 16b",
+        "titleOriginal": "Wake up! 16b",
+        "url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
+        "source": "hellmood.111mb.de",
+        "score": 192,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48253060",
+        "date": "il y a 7 h"
       }
     ]
   },
