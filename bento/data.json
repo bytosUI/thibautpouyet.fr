@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T18:58:11.752Z",
+  "updatedAt": "2026-05-25T20:23:25.394Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 29,
+      "temp": 24,
+      "feelsLike": 25,
       "code": 0,
-      "wind": 6,
-      "humidity": 46
+      "wind": 7,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-05-27",
         "code": 3,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 15
       },
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "IRL",
-        "viewers": 2642,
+        "viewers": 5473,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Magnifica Humanitas",
-        "titleOriginal": "Magnifica Humanitas",
-        "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
-        "source": "vatican.va",
-        "score": 935,
-        "comments": 410,
-        "hnUrl": "https://news.ycombinator.com/item?id=48265206",
-        "date": "il y a 8 h"
-      },
-      {
         "title": "Déploiement de l'atténuation des serveurs VPN IP de sortie",
         "titleOriginal": "Exit IP VPN servers mitigation rollout",
         "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
         "source": "mullvad.net",
-        "score": 42,
-        "comments": 4,
+        "score": 120,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=48269580",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "La Californie décide d'exempter Linux de sa loi sur la vérification de l'âge après une réaction violente",
         "titleOriginal": "California moves to exempt Linux from its age-verification law after backlash",
         "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
         "source": "tomshardware.com",
-        "score": 69,
-        "comments": 26,
+        "score": 208,
+        "comments": 112,
         "hnUrl": "https://news.ycombinator.com/item?id=48269961",
-        "date": "il y a 38 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Extensions C, portabilité et compilateurs alternatifs",
-        "titleOriginal": "C extensions, portability, and alternative compilers",
-        "url": "https://lemon.rip/w/6-c-extensions-compilers/",
-        "source": "lemon.rip",
-        "score": 98,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48267126",
-        "date": "il y a 4 h"
+        "title": "Magnifica Humanitas",
+        "titleOriginal": "Magnifica Humanitas",
+        "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+        "source": "vatican.va",
+        "score": 1106,
+        "comments": 609,
+        "hnUrl": "https://news.ycombinator.com/item?id=48265206",
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "2 pétaoctets de stockage flash Huawei et formation LLM en Norvège",
+        "titleOriginal": "Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "source": "blocksandfiles.com",
+        "score": 10,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48270770",
+        "date": "il y a 45 min"
       }
     ]
   },
