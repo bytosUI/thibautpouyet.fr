@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T07:10:38.515Z",
+  "updatedAt": "2026-05-25T11:34:20.579Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 23,
-      "code": 0,
-      "wind": 5,
-      "humidity": 69
+      "temp": 31,
+      "feelsLike": 32,
+      "code": 2,
+      "wind": 9,
+      "humidity": 33
     },
     "forecast": [
       {
@@ -24,8 +24,8 @@
       },
       {
         "date": "2026-05-27",
-        "code": 3,
-        "tmax": 31,
+        "code": 2,
+        "tmax": 32,
         "tmin": 16
       },
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "ON L'A ENTERRÉ VIVANT DANS UN CERCUEIL",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "opN-fHPukmo",
+        "thumbnail": "https://i.ytimg.com/vi/opN-fHPukmo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=opN-fHPukmo",
+        "publishedAt": "2026-05-25T11:00:10+00:00"
+      },
+      {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/RR6WqRxaRGA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RR6WqRxaRGA",
         "publishedAt": "2026-05-24T16:00:22+00:00"
-      },
-      {
-        "title": "DES FEMMES SE FROTTENT À CETTE TOMBE POUR... TOMBER ENCEINTES !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "0Np94a5TWqQ",
-        "thumbnail": "https://i.ytimg.com/vi/0Np94a5TWqQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0Np94a5TWqQ",
-        "publishedAt": "2026-05-24T13:00:02+00:00"
       },
       {
         "title": "Tout le monde déteste Joyca à juste titre 😂",
@@ -145,7 +145,7 @@
       {
         "title": "obsession",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
+        "poster": "https://image.tmdb.org/t/p/w342/s8F6DCIX9gOMM6rv6WCGyGp6oSB.jpg",
         "url": "https://www.themoviedb.org/movie/1339713"
       },
       {
@@ -199,13 +199,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Jira Is Turing-Complet",
-        "titleOriginal": "Jira Is Turing-Complete",
-        "url": "https://seriot.ch/computation/jira.html",
-        "source": "seriot.ch",
-        "score": 84,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48263253",
+        "title": "Magnifica Humanitas (Lettre encyclique)",
+        "titleOriginal": "Magnifica Humanitas (Encyclical Letter)",
+        "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+        "source": "vatican.va",
+        "score": 91,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=48265206",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Didgeridoo jouant comme traitement alternatif pour l'apnée obstructive du sommeil (2006)",
+        "titleOriginal": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
+        "source": "pmc.ncbi.nlm.nih.gov",
+        "score": 159,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=48243666",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Show HN : Geomatic – un studio de géométrie piloté par commande activé avec autodiff",
+        "titleOriginal": "Show HN: Geomatic – a command-driven geometry studio enabled with autodiff",
+        "url": "https://www.tinyvolt.com/geomatic",
+        "source": "tinyvolt.com",
+        "score": 24,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48264635",
         "date": "il y a 3 h"
       },
       {
@@ -213,30 +233,10 @@
         "titleOriginal": "Show HN: Audiomass – a free, open-source multitrack audio editor for the web",
         "url": "https://audiomass.co/?multitrack=1",
         "source": "audiomass.co",
-        "score": 308,
-        "comments": 63,
+        "score": 388,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=48258015",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Didgeridoo jouant comme traitement alternatif pour l'apnée obstructive du sommeil (2006)",
-        "titleOriginal": "Didgeridoo playing as alternative treatment for obstructive sleep apnea(2006)",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1360393/",
-        "source": "pmc.ncbi.nlm.nih.gov",
-        "score": 61,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48243666",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "J'adore mon clavier Bluetooth",
-        "titleOriginal": "I love my Bluetooth keyboard",
-        "url": "https://liquidbrain.net/blog/i-love-my-bluetooth-keyboard/",
-        "source": "liquidbrain.net",
-        "score": 34,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48240025",
-        "date": "il y a 2 j"
+        "date": "il y a 20 h"
       }
     ]
   },
