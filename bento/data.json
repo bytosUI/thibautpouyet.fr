@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T14:44:17.366Z",
+  "updatedAt": "2026-05-25T17:04:33.437Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 31,
-      "code": 2,
+      "temp": 31,
+      "feelsLike": 29,
+      "code": 0,
       "wind": 11,
-      "humidity": 25
+      "humidity": 28
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-05-26",
-        "code": 1,
+        "code": 0,
         "tmax": 32,
         "tmin": 15
       },
       {
         "date": "2026-05-27",
-        "code": 2,
-        "tmax": 32,
+        "code": 3,
+        "tmax": 31,
         "tmin": 15
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA TÊTE DE HENRI IV EST ACTUELLEMENT DANS UN COFFRE DE BANQUE ?",
+        "title": "VOTRE CONTRAT D'ASSURANCE VIE EST-IL VRAIMENT LE MEILLEUR ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "ZiUhMkFhN9M",
-        "thumbnail": "https://i.ytimg.com/vi/ZiUhMkFhN9M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZiUhMkFhN9M",
-        "publishedAt": "2026-05-25T14:00:33+00:00"
+        "videoId": "lF5Um0ZKCLE",
+        "thumbnail": "https://i.ytimg.com/vi/lF5Um0ZKCLE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lF5Um0ZKCLE",
+        "publishedAt": "2026-05-25T16:00:39+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Alternatives aux moteurs de recherche maintenant que Google n'est plus Google",
-        "titleOriginal": "Search engines alternatives now that Google isn't Google anymore",
-        "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-        "source": "techcrunch.com",
-        "score": 297,
-        "comments": 236,
-        "hnUrl": "https://news.ycombinator.com/item?id=48266051",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Magnifica Humanitas (Lettre encyclique)",
-        "titleOriginal": "Magnifica Humanitas (Encyclical Letter)",
+        "title": "Magnifica Humanitas",
+        "titleOriginal": "Magnifica Humanitas",
         "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
         "source": "vatican.va",
-        "score": 387,
-        "comments": 145,
+        "score": 669,
+        "comments": 284,
         "hnUrl": "https://news.ycombinator.com/item?id=48265206",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Les Pays-Bas saisissent 800 serveurs et en arrêtent 2 pour avoir aidé des cyberattaques",
-        "titleOriginal": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-        "source": "krebsonsecurity.com",
-        "score": 27,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48266906",
-        "date": "il y a 47 min"
+        "date": "il y a 6 h"
       },
       {
         "title": "Extensions C, portabilité et compilateurs alternatifs",
         "titleOriginal": "C extensions, portability, and alternative compilers",
         "url": "https://lemon.rip/w/6-c-extensions-compilers/",
         "source": "lemon.rip",
-        "score": 14,
-        "comments": 1,
+        "score": 65,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=48267126",
-        "date": "il y a 28 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Lancement HN : Chert (YC P26) – Twilio pour iMessage",
+        "titleOriginal": "Launch HN: Chert (YC P26) – Twilio for iMessage",
+        "url": "https://www.trychert.com",
+        "source": "trychert.com",
+        "score": 19,
+        "comments": 58,
+        "hnUrl": "https://news.ycombinator.com/item?id=48267829",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Les Pays-Bas saisissent 800 serveurs et en arrêtent 2 pour avoir aidé des cyberattaques",
+        "titleOriginal": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+        "url": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+        "source": "krebsonsecurity.com",
+        "score": 136,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48266906",
+        "date": "il y a 3 h"
       }
     ]
   },
