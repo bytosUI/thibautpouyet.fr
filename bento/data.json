@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-26T22:03:34.177Z",
+  "updatedAt": "2026-05-26T23:37:53.772Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 21,
+      "temp": 18,
+      "feelsLike": 19,
       "code": 0,
-      "wind": 3,
-      "humidity": 64
+      "wind": 2,
+      "humidity": 79
     },
     "forecast": [
       {
@@ -51,15 +51,6 @@
   },
   "youtube": {
     "videos": [
-      {
-        "title": "PROFESSEUR DU BONHEUR : LE BONHEUR EST GÉNÉTIQUE ! COMMENT ÊTRE PLUS HEUREUX ? VOICI LES TECHNIQUES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "DFyATIx3cP4",
-        "thumbnail": "https://i.ytimg.com/vi/DFyATIx3cP4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DFyATIx3cP4",
-        "publishedAt": "2026-05-26T18:03:26+00:00"
-      },
       {
         "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
         "channel": "Mcfly et Carlito",
@@ -203,18 +194,18 @@
         "titleOriginal": "Chemistry behind the Garden Grove chemical tank",
         "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
         "source": "science.org",
-        "score": 107,
-        "comments": 30,
+        "score": 176,
+        "comments": 63,
         "hnUrl": "https://news.ycombinator.com/item?id=48284712",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Quelques polices de pixels modernes intéressantes",
         "titleOriginal": "A few interesting modern pixel fonts",
         "url": "https://unsung.aresluna.org/a-few-interesting-modern-pixel-fonts/",
         "source": "unsung.aresluna.org",
-        "score": 164,
-        "comments": 36,
+        "score": 213,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=48271448",
         "date": "hier"
       },
@@ -223,20 +214,20 @@
         "titleOriginal": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
         "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
         "source": "djspeckhals.com",
-        "score": 103,
-        "comments": 31,
+        "score": 140,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=48238703",
         "date": "il y a 4 j"
       },
       {
-        "title": "Rosalind : une boîte à outils de génomique dans Rust exécutant des pipelines de génome entier sur un ordinateur portable",
-        "titleOriginal": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
-        "url": "https://github.com/logannye/rosalind",
-        "source": "github.com",
-        "score": 101,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48222600",
-        "date": "il y a 5 j"
+        "title": "Des retrouvailles marquantes",
+        "titleOriginal": "A portentous reunion",
+        "url": "https://bcantrill.dtrace.org/2026/05/25/a-portentous-reunion/",
+        "source": "bcantrill.dtrace.org",
+        "score": 22,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48275564",
+        "date": "il y a 17 h"
       }
     ]
   },
