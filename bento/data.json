@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-25T22:54:59.847Z",
+  "updatedAt": "2026-05-26T00:02:05.567Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
+      "temp": 18,
+      "feelsLike": 18,
       "code": 0,
       "wind": 4,
-      "humidity": 60
+      "humidity": 65
     },
     "forecast": [
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Quand la France arrête d'être spectatrice ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "GPTPOrshglI",
-        "thumbnail": "https://i.ytimg.com/vi/GPTPOrshglI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GPTPOrshglI",
-        "publishedAt": "2026-05-25T17:01:45+00:00"
-      },
-      {
-        "title": "VOTRE CONTRAT D'ASSURANCE VIE EST-IL VRAIMENT LE MEILLEUR ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "lF5Um0ZKCLE",
-        "thumbnail": "https://i.ytimg.com/vi/lF5Um0ZKCLE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lF5Um0ZKCLE",
-        "publishedAt": "2026-05-25T16:00:39+00:00"
-      },
-      {
-        "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "RR6WqRxaRGA",
-        "thumbnail": "https://i.ytimg.com/vi/RR6WqRxaRGA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RR6WqRxaRGA",
-        "publishedAt": "2026-05-24T16:00:22+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "En France, gagner de l'argent rend suspect ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "yX34r1NCgh8",
-        "thumbnail": "https://i.ytimg.com/vi/yX34r1NCgh8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yX34r1NCgh8",
-        "publishedAt": "2026-05-24T10:00:59+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "C’est quoi la semaine type d’un marin-pompier ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "PNmefAlzmvE",
-        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
-        "publishedAt": "2026-05-21T16:00:48+00:00"
-      },
-      {
-        "title": "Je termine de rénover la petite ruine #21",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hJ80eNKg1iA",
-        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
-        "publishedAt": "2026-05-17T15:17:38+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -203,40 +121,40 @@
         "titleOriginal": "Microsoft Copilot Cowork Exfiltrates Files",
         "url": "https://www.promptarmor.com/resources/microsoft-copilot-cowork-exfiltrates-files",
         "source": "promptarmor.com",
-        "score": 68,
-        "comments": 10,
+        "score": 149,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=48272354",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Plus personne ne craque un livre de programmation",
+        "titleOriginal": "Nobody cracks open a programming book anymore",
+        "url": "https://unix.foo/posts/nobody-cracks-open-a-programming-book/",
+        "source": "unix.foo",
+        "score": 35,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=48273030",
+        "date": "il y a 40 min"
       },
       {
         "title": "2 pétaoctets de stockage flash Huawei et formation LLM en Norvège",
         "titleOriginal": "Norway's 2 petabytes of Huawei flash storage and LLM training",
         "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
         "source": "blocksandfiles.com",
-        "score": 108,
-        "comments": 55,
+        "score": 127,
+        "comments": 67,
         "hnUrl": "https://news.ycombinator.com/item?id=48270770",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Déploiement de l'atténuation des serveurs VPN IP de sortie",
         "titleOriginal": "Exit IP VPN servers mitigation rollout",
         "url": "https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout",
         "source": "mullvad.net",
-        "score": 222,
-        "comments": 36,
+        "score": 238,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=48269580",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "La Californie décide d'exempter Linux de sa loi sur la vérification de l'âge après une réaction violente",
-        "titleOriginal": "California moves to exempt Linux from its age-verification law after backlash",
-        "url": "https://www.tomshardware.com/software/linux/california-moves-to-exempt-linux-from-its-upcoming-age-verification-law-after-backlash-over-forcing-operating-systems-to-collect-users-ages-amendment-proposed-by-the-same-lawmaker-who-wrote-the-original-law",
-        "source": "tomshardware.com",
-        "score": 484,
-        "comments": 221,
-        "hnUrl": "https://news.ycombinator.com/item?id=48269961",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       }
     ]
   },
