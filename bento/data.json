@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-05-26T14:56:24.987Z",
-  "weather": null,
+  "updatedAt": "2026-05-26T17:55:06.028Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 30,
+      "feelsLike": 30,
+      "code": 0,
+      "wind": 8,
+      "humidity": 33
+    },
+    "forecast": [
+      {
+        "date": "2026-05-26",
+        "code": 1,
+        "tmax": 32,
+        "tmin": 14
+      },
+      {
+        "date": "2026-05-27",
+        "code": 1,
+        "tmax": 32,
+        "tmin": 15
+      },
+      {
+        "date": "2026-05-28",
+        "code": 3,
+        "tmax": 31,
+        "tmin": 18
+      },
+      {
+        "date": "2026-05-29",
+        "code": 3,
+        "tmax": 32,
+        "tmin": 15
+      }
+    ]
+  },
   "twitch": {
     "live": [],
     "offline": [
@@ -17,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "PAUL WATSON : LE PIRATE DES OCÉANS QUI SAUVE LES ANIMAUX (PRISON, ATTAQUES VIOLENTES, POLÉMIQUES…)",
+        "title": "EMPRISONNÉ, PAUL WATSON TRANSFORME SA CONDAMNATION EN CAMPAGNE DE LUTTE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "yYFJAED10YU",
-        "thumbnail": "https://i.ytimg.com/vi/yYFJAED10YU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yYFJAED10YU",
-        "publishedAt": "2026-05-26T13:33:33+00:00"
+        "videoId": "SyQTH7WRgiY",
+        "thumbnail": "https://i.ytimg.com/vi/SyQTH7WRgiY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SyQTH7WRgiY",
+        "publishedAt": "2026-05-26T17:00:33+00:00"
+      },
+      {
+        "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "SzFdonz_CTY",
+        "thumbnail": "https://i.ytimg.com/vi/SzFdonz_CTY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SzFdonz_CTY",
+        "publishedAt": "2026-05-26T15:26:20+00:00"
       },
       {
         "title": "Choisir sa niche business pour l'argent ?",
@@ -69,15 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
         "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "C’est quoi la semaine type d’un marin-pompier ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "PNmefAlzmvE",
-        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
-        "publishedAt": "2026-05-21T16:00:48+00:00"
       },
       {
         "title": "Je termine de rénover la petite ruine #21",
@@ -164,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GitHub Actions à nouveau en baisse aujourd'hui",
-        "titleOriginal": "GitHub Actions down again today",
-        "url": "https://www.githubstatus.com/?today",
-        "source": "githubstatus.com",
-        "score": 444,
-        "comments": 222,
-        "hnUrl": "https://news.ycombinator.com/item?id=48278374",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Types opaques en Python",
-        "titleOriginal": "Opaque Types in Python",
-        "url": "https://blog.glyph.im/2026/05/opaque-types-in-python.html",
-        "source": "blog.glyph.im",
-        "score": 41,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48247416",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Utiliser l'IA pour écrire un meilleur code plus lentement",
-        "titleOriginal": "Using AI to write better code more slowly",
-        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-        "source": "nolanlawson.com",
-        "score": 900,
-        "comments": 338,
-        "hnUrl": "https://news.ycombinator.com/item?id=48272984",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "C64 Basic : Carte de jeu en surcharge \"Camera View\"",
-        "titleOriginal": "C64 Basic: Game Map Overhead \"Camera View\"",
-        "url": "https://retrogamecoders.com/overhead-camera-view/",
-        "source": "retrogamecoders.com",
-        "score": 10,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48279842",
+        "title": "Is \"colorectal cancer\" rising in \"young people\"?",
+        "titleOriginal": "Is \"colorectal cancer\" rising in \"young people\"?",
+        "url": "https://dynomight.net/crc-rates/",
+        "source": "dynomight.net",
+        "score": 37,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48281539",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "The Ballad of TIGIT",
+        "titleOriginal": "The Ballad of TIGIT",
+        "url": "https://www.owlposting.com/p/the-ballad-of-tigit",
+        "source": "owlposting.com",
+        "score": 36,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48281367",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Dropbox CEO Drew Houston to step down",
+        "titleOriginal": "Dropbox CEO Drew Houston to step down",
+        "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+        "source": "cnbc.com",
+        "score": 19,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48279453",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+        "titleOriginal": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+        "url": "https://www.minicor.com/",
+        "source": "minicor.com",
+        "score": 39,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48280729",
+        "date": "il y a 2 h"
       }
     ]
   },
