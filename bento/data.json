@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-05-26T04:42:23.382Z",
+  "updatedAt": "2026-05-26T08:28:51.142Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 14,
-      "code": 1,
-      "wind": 1,
-      "humidity": 86
+      "temp": 23,
+      "feelsLike": 25,
+      "code": 0,
+      "wind": 2,
+      "humidity": 59
     },
     "forecast": [
       {
         "date": "2026-05-26",
-        "code": 1,
-        "tmax": 31,
+        "code": 2,
+        "tmax": 32,
         "tmin": 14
       },
       {
         "date": "2026-05-27",
         "code": 1,
         "tmax": 32,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-05-28",
         "code": 3,
         "tmax": 30,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-05-29",
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Quand la France arrête d'être spectatrice ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "GPTPOrshglI",
+        "thumbnail": "https://i.ytimg.com/vi/GPTPOrshglI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GPTPOrshglI",
+        "publishedAt": "2026-05-25T17:01:45+00:00"
+      },
+      {
+        "title": "VOTRE CONTRAT D'ASSURANCE VIE EST-IL VRAIMENT LE MEILLEUR ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "lF5Um0ZKCLE",
+        "thumbnail": "https://i.ytimg.com/vi/lF5Um0ZKCLE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lF5Um0ZKCLE",
+        "publishedAt": "2026-05-25T16:00:39+00:00"
+      },
+      {
+        "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "RR6WqRxaRGA",
+        "thumbnail": "https://i.ytimg.com/vi/RR6WqRxaRGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RR6WqRxaRGA",
+        "publishedAt": "2026-05-24T16:00:22+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "En France, gagner de l'argent rend suspect ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "yX34r1NCgh8",
+        "thumbnail": "https://i.ytimg.com/vi/yX34r1NCgh8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yX34r1NCgh8",
+        "publishedAt": "2026-05-24T10:00:59+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "C’est quoi la semaine type d’un marin-pompier ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "PNmefAlzmvE",
+        "thumbnail": "https://i.ytimg.com/vi/PNmefAlzmvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PNmefAlzmvE",
+        "publishedAt": "2026-05-21T16:00:48+00:00"
+      },
+      {
+        "title": "Je termine de rénover la petite ruine #21",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hJ80eNKg1iA",
+        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
+        "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -117,43 +199,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "DynIP – DNS dynamique avec RFC 2136, IPv6, DNSSEC et BYOD",
+        "titleOriginal": "DynIP – Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
+        "url": "https://dynip.dev/",
+        "source": "dynip.dev",
+        "score": 33,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48276363",
+        "date": "il y a 53 min"
+      },
+      {
         "title": "Utiliser l'IA pour écrire un meilleur code plus lentement",
         "titleOriginal": "Using AI to write better code more slowly",
         "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
         "source": "nolanlawson.com",
-        "score": 307,
-        "comments": 122,
+        "score": 584,
+        "comments": 221,
         "hnUrl": "https://news.ycombinator.com/item?id=48272984",
-        "date": "il y a 5 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "L'utilisateur est visiblement frustré",
+        "titleOriginal": "The User Is Visibly Frustrated",
+        "url": "https://pscanf.com/s/354/",
+        "source": "pscanf.com",
+        "score": 125,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=48275059",
+        "date": "il y a 3 h"
       },
       {
         "title": "Se promener peut conduire à plus de créativité que de rester assis, selon une étude (2014)",
         "titleOriginal": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
         "url": "https://www.apa.org/news/press/releases/2014/04/creativity-walk",
         "source": "apa.org",
-        "score": 154,
-        "comments": 54,
+        "score": 259,
+        "comments": 86,
         "hnUrl": "https://news.ycombinator.com/item?id=48272670",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Comment fonctionne le partage secret de Shamir",
-        "titleOriginal": "How Shamir's Secret Sharing Works",
-        "url": "https://ente.com/blog/how-shamirs-secret-sharing-works/",
-        "source": "ente.com",
-        "score": 111,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48272715",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "2 pétaoctets de stockage flash Huawei et formation LLM en Norvège",
-        "titleOriginal": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
-        "source": "blocksandfiles.com",
-        "score": 201,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=48270770",
         "date": "il y a 9 h"
       }
     ]
