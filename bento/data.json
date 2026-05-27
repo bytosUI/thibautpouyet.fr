@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-27T17:55:27.996Z",
+  "updatedAt": "2026-05-27T20:09:39.039Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 29,
+      "temp": 25,
+      "feelsLike": 26,
       "code": 0,
-      "wind": 8,
-      "humidity": 27
+      "wind": 11,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-05-28",
-        "code": 3,
+        "code": 1,
         "tmax": 31,
         "tmin": 17
       },
       {
         "date": "2026-05-29",
         "code": 3,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 16
       },
       {
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La recherche DuckDuckGo a vu 28 % de visites en plus après que Google ait déclaré que les gens adorent le mode IA",
-        "titleOriginal": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-        "source": "pcgamer.com",
-        "score": 167,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=48296649",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Last.fm est maintenant indépendant",
-        "titleOriginal": "Last.fm is now independent",
-        "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-        "source": "support.last.fm",
-        "score": 286,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=48295892",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Je pense qu'Anthropic et OpenAI ont trouvé l'adéquation produit-marché",
         "titleOriginal": "I think Anthropic and OpenAI have found product-market fit",
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "source": "simonwillison.net",
-        "score": 66,
-        "comments": 51,
+        "score": 332,
+        "comments": 419,
         "hnUrl": "https://news.ycombinator.com/item?id=48296794",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Mini micro-ordinateur fantastique",
-        "titleOriginal": "Mini Micro Fantasy Computer",
-        "url": "https://miniscript.org/MiniMicro/index.html#about",
-        "source": "miniscript.org",
-        "score": 193,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=48291947",
-        "date": "il y a 7 h"
+        "title": "SimCity 3k en 4k (2025)",
+        "titleOriginal": "SimCity 3k in 4k (2025)",
+        "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
+        "source": "thran.uk",
+        "score": 152,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=48297645",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Ce qu'Apple et Google font de vos notifications push",
+        "titleOriginal": "What Apple and Google are doing to your push notifications",
+        "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+        "source": "jacquescorbytuech.com",
+        "score": 35,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48299220",
+        "date": "il y a 45 min"
+      },
+      {
+        "title": "YouTube pour étiqueter automatiquement les vidéos générées par l'IA",
+        "titleOriginal": "YouTube to automatically label AI-generated videos",
+        "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
+        "source": "variety.com",
+        "score": 24,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48299753",
+        "date": "il y a 8 min"
       }
     ]
   },
