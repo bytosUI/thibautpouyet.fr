@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-27T14:37:14.008Z",
+  "updatedAt": "2026-05-27T17:55:27.996Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 32,
-      "code": 1,
-      "wind": 10,
-      "humidity": 31
+      "temp": 30,
+      "feelsLike": 29,
+      "code": 0,
+      "wind": 8,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -25,29 +25,21 @@
       {
         "date": "2026-05-29",
         "code": 3,
-        "tmax": 33,
+        "tmax": 32,
         "tmin": 16
       },
       {
         "date": "2026-05-30",
-        "code": 80,
+        "code": 3,
         "tmax": 33,
         "tmin": 16
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "GeoGuessr",
-        "viewers": 7783,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI NOTRE CERVEAU VOIT TOUJOURS LE NÉGATIF AVANT LE POSITIF ?",
+        "title": "POURQUOI LES FRANÇAIS SONT-ILS DE GROS RÂLEURS ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "TGjFiMwC89g",
-        "thumbnail": "https://i.ytimg.com/vi/TGjFiMwC89g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TGjFiMwC89g",
-        "publishedAt": "2026-05-27T13:00:22+00:00"
+        "videoId": "tBHs00Bb8nQ",
+        "thumbnail": "https://i.ytimg.com/vi/tBHs00Bb8nQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tBHs00Bb8nQ",
+        "publishedAt": "2026-05-27T17:00:03+00:00"
       },
       {
         "title": "Pourquoi le Pentagone déploie des IA qu'il ne contrôle pas ?",
@@ -159,7 +151,7 @@
       {
         "title": "The Mandalorian and Grogu",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/iQoIGnmrt8rzDDRC6el8HLvHvKf.jpg",
+        "poster": "https://image.tmdb.org/t/p/w342/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg",
         "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "J'en ai marre de parler.",
-        "titleOriginal": "I'm Tired of Talking to AI",
-        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-        "source": "orchidfiles.com",
-        "score": 894,
-        "comments": 498,
-        "hnUrl": "https://news.ycombinator.com/item?id=48292224",
-        "date": "il y a 3 h"
+        "title": "La recherche DuckDuckGo a vu 28 % de visites en plus après que Google ait déclaré que les gens adorent le mode IA",
+        "titleOriginal": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+        "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+        "source": "pcgamer.com",
+        "score": 167,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48296649",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Last.fm est maintenant indépendant",
+        "titleOriginal": "Last.fm is now independent",
+        "url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
+        "source": "support.last.fm",
+        "score": 286,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=48295892",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Je pense qu'Anthropic et OpenAI ont trouvé l'adéquation produit-marché",
+        "titleOriginal": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "source": "simonwillison.net",
+        "score": 66,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=48296794",
+        "date": "il y a 1 h"
       },
       {
         "title": "Mini micro-ordinateur fantastique",
         "titleOriginal": "Mini Micro Fantasy Computer",
         "url": "https://miniscript.org/MiniMicro/index.html#about",
         "source": "miniscript.org",
-        "score": 124,
-        "comments": 53,
+        "score": 193,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=48291947",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Pourquoi les agents d'IA ne peuvent pas changer les systèmes logiciels",
-        "titleOriginal": "Why AI Agents Cannot Change Software Systems",
-        "url": "https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html",
-        "source": "phroneses.com",
-        "score": 39,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48294315",
-        "date": "il y a 50 min"
-      },
-      {
-        "title": "XLIDE : VBA sans Excel",
-        "titleOriginal": "XLIDE: VBA without excel",
-        "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
-        "source": "github.com",
-        "score": 29,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48293014",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       }
     ]
   },
