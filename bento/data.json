@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-27T07:00:23.672Z",
+  "updatedAt": "2026-05-27T11:03:08.142Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
+      "temp": 30,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 3,
-      "humidity": 72
+      "wind": 12,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -26,11 +26,11 @@
         "date": "2026-05-29",
         "code": 3,
         "tmax": 33,
-        "tmin": 14
+        "tmin": 16
       },
       {
         "date": "2026-05-30",
-        "code": 3,
+        "code": 80,
         "tmax": 33,
         "tmin": 16
       }
@@ -52,22 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Anthropic RENTABLE ? La vérité derrière les chiffres",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "7Tn2Qb0O0gA",
-        "thumbnail": "https://i.ytimg.com/vi/7Tn2Qb0O0gA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7Tn2Qb0O0gA",
-        "publishedAt": "2026-05-27T06:30:11+00:00"
-      },
-      {
-        "title": "PROFESSEUR DU BONHEUR : LE BONHEUR EST GÉNÉTIQUE ! COMMENT ÊTRE PLUS HEUREUX ? VOICI LES TECHNIQUES",
+        "title": "COMMENT DEVENIR AMI AVEC N'IMPORTE QUI EN POSANT CES 24 QUESTIONS !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "DFyATIx3cP4",
-        "thumbnail": "https://i.ytimg.com/vi/DFyATIx3cP4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DFyATIx3cP4",
-        "publishedAt": "2026-05-26T18:03:26+00:00"
+        "videoId": "VVR3z7nPqio",
+        "thumbnail": "https://i.ytimg.com/vi/VVR3z7nPqio/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VVR3z7nPqio",
+        "publishedAt": "2026-05-27T10:30:16+00:00"
+      },
+      {
+        "title": "Pourquoi le Pentagone déploie des IA qu'il ne contrôle pas ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "mWMXAa4cl44",
+        "thumbnail": "https://i.ytimg.com/vi/mWMXAa4cl44/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mWMXAa4cl44",
+        "publishedAt": "2026-05-27T08:00:41+00:00"
+      },
+      {
+        "title": "5M€ en ligne, expatrié : \"En France on apprend à obéir, pas à devenir riche\"",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "IOGMpvfEwwk",
+        "thumbnail": "https://i.ytimg.com/vi/IOGMpvfEwwk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IOGMpvfEwwk",
+        "publishedAt": "2026-05-27T07:04:47+00:00"
       },
       {
         "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SzFdonz_CTY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SzFdonz_CTY",
         "publishedAt": "2026-05-26T15:26:20+00:00"
-      },
-      {
-        "title": "Choisir sa niche business pour l'argent ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "rdll4JfzH-g",
-        "thumbnail": "https://i.ytimg.com/vi/rdll4JfzH-g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rdll4JfzH-g",
-        "publishedAt": "2026-05-26T12:00:49+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Cloudflare Flagship",
-        "titleOriginal": "Cloudflare Flagship",
-        "url": "https://developers.cloudflare.com/flagship/",
-        "source": "developers.cloudflare.com",
-        "score": 182,
-        "comments": 88,
-        "hnUrl": "https://news.ycombinator.com/item?id=48287468",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Ce réservoir de méthacrylate de méthyle",
-        "titleOriginal": "That Methyl Methacrylate Tank",
-        "url": "https://www.science.org/content/blog-post/methyl-methacrylate-tank",
-        "source": "science.org",
-        "score": 309,
-        "comments": 113,
-        "hnUrl": "https://news.ycombinator.com/item?id=48284712",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Claude Code en tant que pilote quotidien : Claude.md, compétences, sous-agents, plugins et MCP",
-        "titleOriginal": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-        "url": "https://arps18.github.io/posts/claude-code-mastery/",
-        "source": "arps18.github.io",
-        "score": 16,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48289950",
+        "title": "Mini micro-ordinateur fantastique",
+        "titleOriginal": "Mini Micro Fantasy Computer",
+        "url": "https://miniscript.org/MiniMicro/index.html#about",
+        "source": "miniscript.org",
+        "score": 37,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48291947",
         "date": "il y a 1 h"
       },
       {
-        "title": "J'ai construit un pipeline de production de livres suivis par Git",
-        "titleOriginal": "I built a Git-tracked book production pipeline",
-        "url": "https://www.djspeckhals.com/posts/2026-05-22-how-i-bypassed-adobe-and-microsoft-to-build-a-git-tracked-book-production-pipeline/",
-        "source": "djspeckhals.com",
-        "score": 216,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=48238703",
-        "date": "il y a 4 j"
+        "title": "La mélancolie de tuer des monstres",
+        "titleOriginal": "The Melancholy of Slaying Monsters",
+        "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
+        "source": "thereader.mitpress.mit.edu",
+        "score": 112,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=48284711",
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Consensus sur le radeau avec une minorité de nœuds",
+        "titleOriginal": "Raft Consensus with a Minority of Nodes",
+        "url": "https://padhye.org/raft-minority/",
+        "source": "padhye.org",
+        "score": 33,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48277723",
+        "date": "hier"
+      },
+      {
+        "title": "BadHost – CVE-2026-48710 : Contournement d'authentification hôte-en-tête Starlette",
+        "titleOriginal": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+        "url": "https://badhost.org/",
+        "source": "badhost.org",
+        "score": 62,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48277107",
+        "date": "hier"
       }
     ]
   },
