@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-05-27T20:09:39.039Z",
+  "updatedAt": "2026-05-27T22:15:36.298Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 26,
+      "temp": 22,
+      "feelsLike": 23,
       "code": 0,
-      "wind": 11,
-      "humidity": 60
+      "wind": 4,
+      "humidity": 68
     },
     "forecast": [
-      {
-        "date": "2026-05-27",
-        "code": 1,
-        "tmax": 32,
-        "tmin": 14
-      },
       {
         "date": "2026-05-28",
         "code": 1,
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 33,
         "tmin": 16
+      },
+      {
+        "date": "2026-05-31",
+        "code": 3,
+        "tmax": 24,
+        "tmin": 17
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "YouTube pour étiqueter automatiquement les vidéos générées par l'IA",
+        "titleOriginal": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "source": "blog.youtube",
+        "score": 301,
+        "comments": 159,
+        "hnUrl": "https://news.ycombinator.com/item?id=48299753",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Je pense qu'Anthropic et OpenAI ont trouvé l'adéquation produit-marché",
         "titleOriginal": "I think Anthropic and OpenAI have found product-market fit",
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "source": "simonwillison.net",
-        "score": 332,
-        "comments": 419,
+        "score": 513,
+        "comments": 622,
         "hnUrl": "https://news.ycombinator.com/item?id=48296794",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "SimCity 3k en 4k (2025)",
         "titleOriginal": "SimCity 3k in 4k (2025)",
         "url": "https://www.thran.uk/writ/hdid/2025/12/simcity-3k-in-4k.html",
         "source": "thran.uk",
-        "score": 152,
-        "comments": 42,
+        "score": 221,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=48297645",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Rust (et Slint) sur un Kindle jailbreaké",
+        "titleOriginal": "Rust (and Slint) on a Jailbroken Kindle",
+        "url": "https://sverre.me/blog/rust-on-kindle/",
+        "source": "sverre.me",
+        "score": 50,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48299623",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "Ce qu'Apple et Google font de vos notifications push",
-        "titleOriginal": "What Apple and Google are doing to your push notifications",
-        "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-        "source": "jacquescorbytuech.com",
-        "score": 35,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48299220",
-        "date": "il y a 45 min"
-      },
-      {
-        "title": "YouTube pour étiqueter automatiquement les vidéos générées par l'IA",
-        "titleOriginal": "YouTube to automatically label AI-generated videos",
-        "url": "https://variety.com/2026/digital/news/youtube-ai-video-labels-automatic-detection-1236758865/",
-        "source": "variety.com",
-        "score": 24,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48299753",
-        "date": "il y a 8 min"
       }
     ]
   },
