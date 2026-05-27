@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-05-27T11:03:08.142Z",
+  "updatedAt": "2026-05-27T14:37:14.008Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 31,
-      "code": 0,
-      "wind": 12,
+      "temp": 32,
+      "feelsLike": 32,
+      "code": 1,
+      "wind": 10,
       "humidity": 31
     },
     "forecast": [
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "GeoGuessr",
+        "viewers": 7783,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT DEVENIR AMI AVEC N'IMPORTE QUI EN POSANT CES 24 QUESTIONS !",
+        "title": "POURQUOI NOTRE CERVEAU VOIT TOUJOURS LE NÉGATIF AVANT LE POSITIF ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "VVR3z7nPqio",
-        "thumbnail": "https://i.ytimg.com/vi/VVR3z7nPqio/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VVR3z7nPqio",
-        "publishedAt": "2026-05-27T10:30:16+00:00"
+        "videoId": "TGjFiMwC89g",
+        "thumbnail": "https://i.ytimg.com/vi/TGjFiMwC89g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TGjFiMwC89g",
+        "publishedAt": "2026-05-27T13:00:22+00:00"
       },
       {
         "title": "Pourquoi le Pentagone déploie des IA qu'il ne contrôle pas ?",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "J'en ai marre de parler.",
+        "titleOriginal": "I'm Tired of Talking to AI",
+        "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+        "source": "orchidfiles.com",
+        "score": 894,
+        "comments": 498,
+        "hnUrl": "https://news.ycombinator.com/item?id=48292224",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Mini micro-ordinateur fantastique",
         "titleOriginal": "Mini Micro Fantasy Computer",
         "url": "https://miniscript.org/MiniMicro/index.html#about",
         "source": "miniscript.org",
-        "score": 37,
-        "comments": 10,
+        "score": 124,
+        "comments": 53,
         "hnUrl": "https://news.ycombinator.com/item?id=48291947",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "La mélancolie de tuer des monstres",
-        "titleOriginal": "The Melancholy of Slaying Monsters",
-        "url": "https://thereader.mitpress.mit.edu/the-strange-melancholy-of-slaying-monsters/",
-        "source": "thereader.mitpress.mit.edu",
-        "score": 112,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48284711",
-        "date": "il y a 15 h"
+        "title": "Pourquoi les agents d'IA ne peuvent pas changer les systèmes logiciels",
+        "titleOriginal": "Why AI Agents Cannot Change Software Systems",
+        "url": "https://phroneses.com/articles/build/notes/agents-cannot-maintain-systems.html",
+        "source": "phroneses.com",
+        "score": 39,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48294315",
+        "date": "il y a 50 min"
       },
       {
-        "title": "Consensus sur le radeau avec une minorité de nœuds",
-        "titleOriginal": "Raft Consensus with a Minority of Nodes",
-        "url": "https://padhye.org/raft-minority/",
-        "source": "padhye.org",
-        "score": 33,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48277723",
-        "date": "hier"
-      },
-      {
-        "title": "BadHost – CVE-2026-48710 : Contournement d'authentification hôte-en-tête Starlette",
-        "titleOriginal": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-        "url": "https://badhost.org/",
-        "source": "badhost.org",
-        "score": 62,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48277107",
-        "date": "hier"
+        "title": "XLIDE : VBA sans Excel",
+        "titleOriginal": "XLIDE: VBA without excel",
+        "url": "https://github.com/WilliamSmithEdward/xlide_vscode",
+        "source": "github.com",
+        "score": 29,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48293014",
+        "date": "il y a 2 h"
       }
     ]
   },
