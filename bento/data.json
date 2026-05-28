@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-05-28T14:34:43.614Z",
+  "updatedAt": "2026-05-28T18:07:06.633Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 31,
+      "temp": 29,
+      "feelsLike": 29,
       "code": 0,
       "wind": 8,
-      "humidity": 32
+      "humidity": 33
     },
     "forecast": [
       {
         "date": "2026-05-28",
-        "code": 3,
+        "code": 2,
         "tmax": 31,
         "tmin": 18
       },
@@ -25,14 +25,14 @@
       {
         "date": "2026-05-30",
         "code": 3,
-        "tmax": 34,
-        "tmin": 18
+        "tmax": 33,
+        "tmin": 19
       },
       {
         "date": "2026-05-31",
         "code": 3,
         "tmax": 25,
-        "tmin": 17
+        "tmin": 18
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT REPÉRER SI QUELQU’UN EST HEUREUX ?",
+        "title": "Qui fournit la drogue des devs de la Silicon Valley ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "FDmAHee73gk",
+        "thumbnail": "https://i.ytimg.com/vi/FDmAHee73gk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FDmAHee73gk",
+        "publishedAt": "2026-05-28T17:01:21+00:00"
+      },
+      {
+        "title": "CE TEST PERMET DE MESURER VOTRE NIVEAU DE BONHEUR",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Z_Ao-G82gDw",
-        "thumbnail": "https://i.ytimg.com/vi/Z_Ao-G82gDw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z_Ao-G82gDw",
-        "publishedAt": "2026-05-28T14:00:00+00:00"
+        "videoId": "fvCPouCORJM",
+        "thumbnail": "https://i.ytimg.com/vi/fvCPouCORJM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fvCPouCORJM",
+        "publishedAt": "2026-05-28T15:00:14+00:00"
       },
       {
         "title": "L’argent ne rend pas plus heureux ?",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/NkboSK2SkQc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NkboSK2SkQc",
         "publishedAt": "2026-05-28T08:54:16+00:00"
-      },
-      {
-        "title": "Pourquoi le Pentagone déploie des IA qu'il ne contrôle pas ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "mWMXAa4cl44",
-        "thumbnail": "https://i.ytimg.com/vi/mWMXAa4cl44/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mWMXAa4cl44",
-        "publishedAt": "2026-05-27T08:00:41+00:00"
       },
       {
         "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Cinq LLM pionnières ne sont pas d'accord sur 67 % des 1 000 réclamations de vérification des faits dans le monde réel",
-        "titleOriginal": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-        "url": "https://lenz.io/research/llm-disagreement",
-        "source": "lenz.io",
-        "score": 264,
-        "comments": 176,
-        "hnUrl": "https://news.ycombinator.com/item?id=48307887",
-        "date": "il y a 2 h"
+        "title": "Claude Opus 4.8",
+        "titleOriginal": "Claude Opus 4.8",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "source": "anthropic.com",
+        "score": 485,
+        "comments": 348,
+        "hnUrl": "https://news.ycombinator.com/item?id=48311647",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Les calendriers agi changent avec le laboratoire dominant",
-        "titleOriginal": "AGI timelines shift with whichever lab is dominant",
-        "url": "https://futuresearch.ai/blog/agi-timeline-tracker/",
-        "source": "futuresearch.ai",
-        "score": 9,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48309344",
-        "date": "il y a 13 min"
+        "title": "Afficher HN : Continuer ? O/N : Un jeu de 60 secondes sur la fatigue de la permission de l'agent IA",
+        "titleOriginal": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+        "url": "https://llmgame.scalex.dev",
+        "source": "llmgame.scalex.dev",
+        "score": 100,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=48308376",
+        "date": "il y a 5 h"
       },
       {
-        "title": "Citant des déficits mathématiques « graves », le corps professoral de l'UC exige un retour aux tests SAT pour les STEM",
-        "titleOriginal": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
-        "url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-        "source": "latimes.com",
-        "score": 44,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=48309233",
-        "date": "il y a 21 min"
+        "title": "Itinérance Wi-Fi intérieure avec OpenWRT",
+        "titleOriginal": "Indoor Wi-Fi Roaming with OpenWRT",
+        "url": "https://taoofmac.com/space/blog/2026/05/26/1730",
+        "source": "taoofmac.com",
+        "score": 126,
+        "comments": 57,
+        "hnUrl": "https://news.ycombinator.com/item?id=48282180",
+        "date": "il y a 2 j"
       },
       {
-        "title": "YouTube pour étiqueter automatiquement les vidéos générées par l'IA",
-        "titleOriginal": "YouTube to automatically label AI-generated videos",
-        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-        "source": "blog.youtube",
-        "score": 1070,
-        "comments": 648,
-        "hnUrl": "https://news.ycombinator.com/item?id=48299753",
-        "date": "il y a 18 h"
+        "title": "Le grand pari des États-Unis sur l'informatique quantique n'est peut-être pas légal",
+        "titleOriginal": "US's big bet on quantum computing may not be legal",
+        "url": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+        "source": "arstechnica.com",
+        "score": 45,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48272948",
+        "date": "il y a 2 j"
       }
     ]
   },
