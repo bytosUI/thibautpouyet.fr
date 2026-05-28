@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-28T02:40:48.556Z",
+  "updatedAt": "2026-05-28T06:50:45.950Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 20,
       "feelsLike": 20,
-      "code": 0,
-      "wind": 4,
-      "humidity": 73
+      "code": 1,
+      "wind": 7,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -26,24 +26,32 @@
         "date": "2026-05-30",
         "code": 3,
         "tmax": 33,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-05-31",
-        "code": 3,
-        "tmax": 24,
-        "tmin": 17
+        "code": 80,
+        "tmax": 25,
+        "tmin": 18
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 474,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -117,44 +125,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pouvons-nous avoir un jour de congé ?",
-        "titleOriginal": "Can we have the day off?",
-        "url": "https://mlsu.io/posts/day-off/",
-        "source": "mlsu.io",
-        "score": 434,
-        "comments": 264,
-        "hnUrl": "https://news.ycombinator.com/item?id=48302745",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "YouTube pour étiqueter automatiquement les vidéos générées par l'IA",
         "titleOriginal": "YouTube to automatically label AI-generated videos",
         "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
         "source": "blog.youtube",
-        "score": 562,
-        "comments": 340,
+        "score": 758,
+        "comments": 443,
         "hnUrl": "https://news.ycombinator.com/item?id=48299753",
-        "date": "il y a 6 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Hallucination – Rave massivement multijoueur en ligne",
+        "titleOriginal": "Hallucinate – Massively Multiplayer Online Rave",
+        "url": "https://hallucinate.site",
+        "source": "hallucinate.site",
+        "score": 118,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48304260",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "J'ai analysé 20 ans de mes chats",
+        "titleOriginal": "I analysed 20 years of my chats",
+        "url": "https://drobinin.com/posts/am-i-a-bad-friend/",
+        "source": "drobinin.com",
+        "score": 50,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48302220",
+        "date": "il y a 7 h"
       },
       {
         "title": "Je pense qu'Anthropic et OpenAI ont trouvé l'adéquation produit-marché",
         "titleOriginal": "I think Anthropic and OpenAI have found product-market fit",
         "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
         "source": "simonwillison.net",
-        "score": 671,
-        "comments": 826,
+        "score": 795,
+        "comments": 941,
         "hnUrl": "https://news.ycombinator.com/item?id=48296794",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Ce qu'Apple et Google font pour pousser les notifications",
-        "titleOriginal": "What Apple and Google are doing to push notifications",
-        "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
-        "source": "jacquescorbytuech.com",
-        "score": 187,
-        "comments": 193,
-        "hnUrl": "https://news.ycombinator.com/item?id=48299220",
-        "date": "il y a 7 h"
+        "date": "il y a 14 h"
       }
     ]
   },
@@ -201,23 +209,23 @@
       "series": [
         {
           "teamHome": {
-            "abbr": "OKC",
-            "name": "Thunder",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
-          },
-          "teamAway": {
             "abbr": "SA",
             "name": "Spurs",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
           },
-          "winsHome": 3,
-          "winsAway": 2,
+          "teamAway": {
+            "abbr": "OKC",
+            "name": "Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
+          },
+          "winsHome": 2,
+          "winsAway": 3,
           "summary": "OKC leads series 3-2",
           "completed": false,
-          "round": "West Finals - Game 5",
+          "round": "West Finals - Game 6",
           "roundLabel": "Ouest · Finales NBA",
           "roundOrder": 4,
-          "lastDate": "2026-05-27T00:30Z"
+          "lastDate": "2026-05-29T00:30Z"
         },
         {
           "teamHome": {
