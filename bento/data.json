@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-28T22:39:10.336Z",
+  "updatedAt": "2026-05-29T00:07:00.033Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 23,
+      "temp": 20,
+      "feelsLike": 21,
       "code": 0,
       "wind": 2,
-      "humidity": 70
+      "humidity": 77
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 64,
+        "viewers": 162,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
         "source": "anthropic.com",
-        "score": 1069,
-        "comments": 853,
+        "score": 1165,
+        "comments": 926,
         "hnUrl": "https://news.ycombinator.com/item?id=48311647",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Des briques et des mini-figurines ont volé la collection Lego de 200 000 $ d' un homme",
         "titleOriginal": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
         "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
         "source": "mybricklog.com",
-        "score": 394,
-        "comments": 199,
+        "score": 509,
+        "comments": 279,
         "hnUrl": "https://news.ycombinator.com/item?id=48314136",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "J'ai fabriqué un produit d'un million de dollars à partir de ma chambre de dortoir (2025)",
+        "titleOriginal": "I made a million dollar product from my dorm room (2025)",
+        "url": "https://nick.winans.io/blog/nice-nano/",
+        "source": "nick.winans.io",
+        "score": 125,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48314951",
         "date": "il y a 3 h"
       },
       {
-        "title": "Utilisez simplement Postgres pour des flux de travail durables",
-        "titleOriginal": "Just Use Postgres for Durable Workflows",
-        "url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-        "source": "dbos.dev",
-        "score": 219,
-        "comments": 89,
-        "hnUrl": "https://news.ycombinator.com/item?id=48313530",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Diverses odeurs LLM",
-        "titleOriginal": "Various LLM Smells",
-        "url": "https://shvbsle.in/various-llm-smells/",
-        "source": "shvbsle.in",
-        "score": 122,
-        "comments": 89,
-        "hnUrl": "https://news.ycombinator.com/item?id=48313810",
-        "date": "il y a 3 h"
+        "title": "Garnix (A Nix CI) s'arrête",
+        "titleOriginal": "Garnix (A Nix CI) is shutting down",
+        "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
+        "source": "discourse.nixos.org",
+        "score": 9,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48317043",
+        "date": "il y a 30 min"
       }
     ]
   },
