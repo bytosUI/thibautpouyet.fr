@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-29T19:06:11.896Z",
+  "updatedAt": "2026-05-29T21:20:16.167Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 30,
-      "code": 1,
-      "wind": 5,
-      "humidity": 41
+      "temp": 24,
+      "feelsLike": 27,
+      "code": 2,
+      "wind": 2,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -19,13 +19,13 @@
       {
         "date": "2026-05-30",
         "code": 3,
-        "tmax": 33,
+        "tmax": 32,
         "tmin": 18
       },
       {
         "date": "2026-05-31",
-        "code": 61,
-        "tmax": 25,
+        "code": 3,
+        "tmax": 26,
         "tmin": 17
       },
       {
@@ -39,22 +39,22 @@
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 6746,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 113,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -207,43 +207,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'Assemblée de l'État de Californie a adopté le « Protect Our Games Act »",
+        "titleOriginal": "The California State Assembly Has Passed the 'Protect Our Games Act'",
+        "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
+        "source": "invenglobal.com",
+        "score": 94,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=48328365",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "SQLite est tout ce dont vous avez besoin pour des flux de travail durables",
         "titleOriginal": "SQLite is all you need for durable workflows",
         "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
         "source": "obeli.sk",
-        "score": 75,
-        "comments": 29,
+        "score": 211,
+        "comments": 108,
         "hnUrl": "https://news.ycombinator.com/item?id=48326802",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Notes du sommet Mistral AI Now à Paris",
-        "titleOriginal": "Notes from the Mistral AI Now Summit in Paris",
-        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-        "source": "koenvangilst.nl",
-        "score": 184,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=48325340",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "La théorie de l'économie morte",
         "titleOriginal": "The dead economy theory",
         "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
         "source": "owenmcgrann.com",
-        "score": 267,
-        "comments": 355,
+        "score": 441,
+        "comments": 600,
         "hnUrl": "https://news.ycombinator.com/item?id=48324712",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Bijou64 : Un codage entier de longueur variable",
-        "titleOriginal": "Bijou64: A variable-length integer encoding",
-        "url": "https://www.inkandswitch.com/tangents/bijou64/",
-        "source": "inkandswitch.com",
-        "score": 161,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=48323992",
+        "title": "Notes du sommet Mistral AI Now à Paris",
+        "titleOriginal": "Notes from the Mistral AI Now Summit in Paris",
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "source": "koenvangilst.nl",
+        "score": 262,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=48325340",
         "date": "il y a 4 h"
       }
     ]
