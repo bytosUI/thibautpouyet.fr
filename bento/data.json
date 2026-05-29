@@ -1,31 +1,25 @@
 {
-  "updatedAt": "2026-05-29T21:20:16.167Z",
+  "updatedAt": "2026-05-29T22:48:38.579Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 27,
-      "code": 2,
-      "wind": 2,
-      "humidity": 73
+      "temp": 22,
+      "feelsLike": 25,
+      "code": 80,
+      "wind": 1,
+      "humidity": 86
     },
     "forecast": [
       {
-        "date": "2026-05-29",
-        "code": 3,
-        "tmax": 32,
-        "tmin": 15
-      },
-      {
         "date": "2026-05-30",
-        "code": 3,
+        "code": 80,
         "tmax": 32,
         "tmin": 18
       },
       {
         "date": "2026-05-31",
-        "code": 3,
-        "tmax": 26,
+        "code": 80,
+        "tmax": 24,
         "tmin": 17
       },
       {
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 23,
         "tmin": 12
+      },
+      {
+        "date": "2026-06-02",
+        "code": 95,
+        "tmax": 20,
+        "tmin": 14
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 113,
+        "viewers": 111,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'Assemblée de l'État de Californie a adopté le « Protect Our Games Act »",
-        "titleOriginal": "The California State Assembly Has Passed the 'Protect Our Games Act'",
-        "url": "https://www.invenglobal.com/articles/22330/stop-killing-games-movement-gains-momentum-california-assembly-passes-game-protection-bill",
-        "source": "invenglobal.com",
-        "score": 94,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48328365",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "SQLite est tout ce dont vous avez besoin pour des flux de travail durables",
         "titleOriginal": "SQLite is all you need for durable workflows",
         "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
         "source": "obeli.sk",
-        "score": 211,
-        "comments": 108,
+        "score": 273,
+        "comments": 163,
         "hnUrl": "https://news.ycombinator.com/item?id=48326802",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "La théorie de l'économie morte",
         "titleOriginal": "The dead economy theory",
         "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
         "source": "owenmcgrann.com",
-        "score": 441,
-        "comments": 600,
+        "score": 545,
+        "comments": 725,
         "hnUrl": "https://news.ycombinator.com/item?id=48324712",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Notes du sommet Mistral AI Now à Paris",
-        "titleOriginal": "Notes from the Mistral AI Now Summit in Paris",
+        "title": "Notes du sommet Mistral AI Now",
+        "titleOriginal": "Notes from the Mistral AI Now Summit",
         "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
         "source": "koenvangilst.nl",
-        "score": 262,
-        "comments": 68,
+        "score": 285,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=48325340",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Sur les diff. de rendu",
+        "titleOriginal": "On Rendering Diffs",
+        "url": "https://pierre.computer/writing/on-rendering-diffs",
+        "source": "pierre.computer",
+        "score": 118,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48327809",
+        "date": "il y a 3 h"
       }
     ]
   },
