@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-29T04:51:30.634Z",
+  "updatedAt": "2026-05-29T08:39:06.646Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
-      "code": 1,
-      "wind": 3,
-      "humidity": 89
+      "temp": 25,
+      "feelsLike": 26,
+      "code": 0,
+      "wind": 6,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-05-30",
         "code": 3,
-        "tmax": 32,
-        "tmin": 18
+        "tmax": 33,
+        "tmin": 19
       },
       {
         "date": "2026-05-31",
@@ -37,20 +37,124 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 509,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 329,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 136,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
-      "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Qui fournit la drogue des devs de la Silicon Valley ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "FDmAHee73gk",
+        "thumbnail": "https://i.ytimg.com/vi/FDmAHee73gk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FDmAHee73gk",
+        "publishedAt": "2026-05-28T17:01:21+00:00"
+      },
+      {
+        "title": "SPÉCIALE INTELLIGENCE ARTIFICIELLE : ELLE SAUVE LA VIE DE SA MÈRE MOURANTE GRÂCE À CHATGPT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "j7pSdhM9q90",
+        "thumbnail": "https://i.ytimg.com/vi/j7pSdhM9q90/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=j7pSdhM9q90",
+        "publishedAt": "2026-05-28T15:07:08+00:00"
+      },
+      {
+        "title": "L’argent ne rend pas plus heureux ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "NkboSK2SkQc",
+        "thumbnail": "https://i.ytimg.com/vi/NkboSK2SkQc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NkboSK2SkQc",
+        "publishedAt": "2026-05-28T08:54:16+00:00"
+      },
+      {
+        "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "SzFdonz_CTY",
+        "thumbnail": "https://i.ytimg.com/vi/SzFdonz_CTY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SzFdonz_CTY",
+        "publishedAt": "2026-05-26T15:26:20+00:00"
+      },
+      {
+        "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "RR6WqRxaRGA",
+        "thumbnail": "https://i.ytimg.com/vi/RR6WqRxaRGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RR6WqRxaRGA",
+        "publishedAt": "2026-05-24T16:00:22+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "Je termine de rénover la petite ruine #21",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hJ80eNKg1iA",
+        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
+        "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -117,44 +221,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les voitures essaient de vous espionner, et ce n'est que le début",
-        "titleOriginal": "Cars are trying to spy on you, and it's only just the beginning",
-        "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
-        "source": "bbc.com",
-        "score": 128,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48318481",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "L'explosion de fusée la plus spectaculaire depuis N1 vient de se produire en Floride",
-        "titleOriginal": "The most spectacular rocket explosion since N1 just happened in Florida",
-        "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
-        "source": "arstechnica.com",
-        "score": 75,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48318678",
-        "date": "il y a 1 h"
+        "title": "Volkswagen bloque Home Assistant en exigeant l'affirmation du client",
+        "titleOriginal": "Volkswagen blocks Home Assistant by requiring client assertion",
+        "url": "https://github.com/robinostlund/homeassistant-volkswagencarnet/issues/967",
+        "source": "github.com",
+        "score": 106,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=48319509",
+        "date": "il y a 2 h"
       },
       {
         "title": "Claude Opus 4.8",
         "titleOriginal": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
         "source": "anthropic.com",
-        "score": 1337,
-        "comments": 1067,
+        "score": 1486,
+        "comments": 1168,
         "hnUrl": "https://news.ycombinator.com/item?id=48311647",
-        "date": "il y a 12 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Des briques et des mini-figurines ont volé la collection Lego de 200 000 $ d' un homme",
         "titleOriginal": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
         "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
         "source": "mybricklog.com",
-        "score": 739,
-        "comments": 380,
+        "score": 902,
+        "comments": 411,
         "hnUrl": "https://news.ycombinator.com/item?id=48314136",
-        "date": "il y a 9 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "J'ai fabriqué un produit d'un million de dollars à partir de ma chambre de dortoir (2025)",
+        "titleOriginal": "I made a million dollar product from my dorm room (2025)",
+        "url": "https://nick.winans.io/blog/nice-nano/",
+        "source": "nick.winans.io",
+        "score": 367,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=48314951",
+        "date": "il y a 12 h"
       }
     ]
   },
