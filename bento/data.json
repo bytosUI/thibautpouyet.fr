@@ -1,58 +1,50 @@
 {
-  "updatedAt": "2026-05-29T12:11:17.997Z",
+  "updatedAt": "2026-05-29T16:12:40.595Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 33,
-      "code": 2,
-      "wind": 5,
-      "humidity": 31
+      "temp": 32,
+      "feelsLike": 32,
+      "code": 0,
+      "wind": 3,
+      "humidity": 23
     },
     "forecast": [
       {
         "date": "2026-05-29",
         "code": 3,
-        "tmax": 33,
+        "tmax": 32,
         "tmin": 15
       },
       {
         "date": "2026-05-30",
         "code": 3,
-        "tmax": 34,
+        "tmax": 33,
         "tmin": 19
       },
       {
         "date": "2026-05-31",
         "code": 61,
-        "tmax": 26,
-        "tmin": 18
+        "tmax": 25,
+        "tmin": 17
       },
       {
         "date": "2026-06-01",
-        "code": 45,
-        "tmax": 24,
+        "code": 3,
+        "tmax": 23,
         "tmin": 12
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 1075,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL PASSE SUR LEGEND ET SA SOCIÉTÉ LIMOVA PASSE DE 2,5 À 65 MILLION D'€ DE VALEUR !",
+        "title": "Il fait un Rubik's Cube à une main... (ft @victorcolin3656)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "PqEfZaGLPB4",
+        "thumbnail": "https://i.ytimg.com/vi/PqEfZaGLPB4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PqEfZaGLPB4",
+        "publishedAt": "2026-05-29T16:01:18+00:00"
+      },
+      {
+        "title": "En France, on nous apprend à obéir… pas à vendre",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "53bWaK9ODMk",
+        "thumbnail": "https://i.ytimg.com/vi/53bWaK9ODMk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=53bWaK9ODMk",
+        "publishedAt": "2026-05-29T16:00:32+00:00"
+      },
+      {
+        "title": "EN COUPLE AVEC UNE INTELLIGENCE ARTIFICIELLE, SON FANTASME C'EST...ROBOCOP ET GOLDORAK",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "T3DNlHW6LAw",
-        "thumbnail": "https://i.ytimg.com/vi/T3DNlHW6LAw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T3DNlHW6LAw",
-        "publishedAt": "2026-05-29T11:00:12+00:00"
+        "videoId": "FKOlAUebTZE",
+        "thumbnail": "https://i.ytimg.com/vi/FKOlAUebTZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FKOlAUebTZE",
+        "publishedAt": "2026-05-29T14:39:52+00:00"
       },
       {
         "title": "Qui fournit la drogue des devs de la Silicon Valley ?",
@@ -76,24 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/FDmAHee73gk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FDmAHee73gk",
         "publishedAt": "2026-05-28T17:01:21+00:00"
-      },
-      {
-        "title": "L’argent ne rend pas plus heureux ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "NkboSK2SkQc",
-        "thumbnail": "https://i.ytimg.com/vi/NkboSK2SkQc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NkboSK2SkQc",
-        "publishedAt": "2026-05-28T08:54:16+00:00"
-      },
-      {
-        "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "SzFdonz_CTY",
-        "thumbnail": "https://i.ytimg.com/vi/SzFdonz_CTY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SzFdonz_CTY",
-        "publishedAt": "2026-05-26T15:26:20+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'IA provoque-t-elle une répétition de la décennie perdue de Front End ?",
-        "titleOriginal": "Is AI causing a repeat of Front end's Lost Decade?",
-        "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-        "source": "mastrojs.github.io",
-        "score": 21,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48321631",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Claude Opus 4.8",
-        "titleOriginal": "Claude Opus 4.8",
-        "url": "https://www.anthropic.com/news/claude-opus-4-8",
-        "source": "anthropic.com",
-        "score": 1592,
-        "comments": 1248,
-        "hnUrl": "https://news.ycombinator.com/item?id=48311647",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Des briques et des mini-figurines ont volé la collection Lego de 200 000 $ d' un homme",
-        "titleOriginal": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-        "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
-        "source": "mybricklog.com",
-        "score": 1040,
-        "comments": 479,
-        "hnUrl": "https://news.ycombinator.com/item?id=48314136",
-        "date": "il y a 16 h"
-      },
-      {
-        "title": "Est-ce viable ?",
-        "titleOriginal": "Is This Sustainable?",
-        "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
-        "source": "jamiehurst.co.uk",
-        "score": 25,
+        "title": "Bijou64 : Un codage entier de longueur variable",
+        "titleOriginal": "Bijou64: A variable-length integer encoding",
+        "url": "https://www.inkandswitch.com/tangents/bijou64/",
+        "source": "inkandswitch.com",
+        "score": 52,
         "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48321264",
+        "hnUrl": "https://news.ycombinator.com/item?id=48323992",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Je prends ma retraite de Tech pour vivre hors ligne",
+        "titleOriginal": "I Am Retiring from Tech to Live Offline",
+        "url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+        "source": "openpath.quest",
+        "score": 305,
+        "comments": 196,
+        "hnUrl": "https://news.ycombinator.com/item?id=48323683",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "La théorie de l'économie morte",
+        "titleOriginal": "The Dead Economy Theory",
+        "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
+        "source": "owenmcgrann.com",
+        "score": 13,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48324712",
+        "date": "il y a 26 min"
+      },
+      {
+        "title": "Tulip mania : quand une seule fleur valait plus qu'une maison (2025)",
+        "titleOriginal": "Tulip mania: when a single flower was worth more than a house (2025)",
+        "url": "https://dutchreview.com/culture/tulip-mania-netherlands/",
+        "source": "dutchreview.com",
+        "score": 98,
+        "comments": 85,
+        "hnUrl": "https://news.ycombinator.com/item?id=48321956",
+        "date": "il y a 4 h"
       }
     ]
   },
