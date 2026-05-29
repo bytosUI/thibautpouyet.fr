@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-05-29T00:07:00.033Z",
+  "updatedAt": "2026-05-29T04:51:30.634Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 21,
-      "code": 0,
-      "wind": 2,
-      "humidity": 77
+      "temp": 15,
+      "feelsLike": 15,
+      "code": 1,
+      "wind": 3,
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-05-29",
         "code": 3,
         "tmax": 32,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-05-30",
         "code": 3,
-        "tmax": 34,
+        "tmax": 32,
         "tmin": 18
       },
       {
         "date": "2026-05-31",
         "code": 3,
-        "tmax": 24,
-        "tmin": 17
+        "tmax": 25,
+        "tmin": 18
       },
       {
         "date": "2026-06-01",
         "code": 3,
         "tmax": 24,
-        "tmin": 12
+        "tmin": 15
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 162,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,93 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Qui fournit la drogue des devs de la Silicon Valley ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "FDmAHee73gk",
-        "thumbnail": "https://i.ytimg.com/vi/FDmAHee73gk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FDmAHee73gk",
-        "publishedAt": "2026-05-28T17:01:21+00:00"
-      },
-      {
-        "title": "SPÉCIALE INTELLIGENCE ARTIFICIELLE : ELLE SAUVE LA VIE DE SA MÈRE MOURANTE GRÂCE À CHATGPT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "j7pSdhM9q90",
-        "thumbnail": "https://i.ytimg.com/vi/j7pSdhM9q90/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j7pSdhM9q90",
-        "publishedAt": "2026-05-28T15:07:08+00:00"
-      },
-      {
-        "title": "L’argent ne rend pas plus heureux ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "NkboSK2SkQc",
-        "thumbnail": "https://i.ytimg.com/vi/NkboSK2SkQc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NkboSK2SkQc",
-        "publishedAt": "2026-05-28T08:54:16+00:00"
-      },
-      {
-        "title": "On apprend enfin à terminer un Rubik's cube grâce à Victor le goat",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "SzFdonz_CTY",
-        "thumbnail": "https://i.ytimg.com/vi/SzFdonz_CTY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SzFdonz_CTY",
-        "publishedAt": "2026-05-26T15:26:20+00:00"
-      },
-      {
-        "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "RR6WqRxaRGA",
-        "thumbnail": "https://i.ytimg.com/vi/RR6WqRxaRGA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RR6WqRxaRGA",
-        "publishedAt": "2026-05-24T16:00:22+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Je termine de rénover la petite ruine #21",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hJ80eNKg1iA",
-        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
-        "publishedAt": "2026-05-17T15:17:38+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -207,82 +117,82 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les voitures essaient de vous espionner, et ce n'est que le début",
+        "titleOriginal": "Cars are trying to spy on you, and it's only just the beginning",
+        "url": "https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse",
+        "source": "bbc.com",
+        "score": 128,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=48318481",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "L'explosion de fusée la plus spectaculaire depuis N1 vient de se produire en Floride",
+        "titleOriginal": "The most spectacular rocket explosion since N1 just happened in Florida",
+        "url": "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+        "source": "arstechnica.com",
+        "score": 75,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48318678",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Claude Opus 4.8",
         "titleOriginal": "Claude Opus 4.8",
         "url": "https://www.anthropic.com/news/claude-opus-4-8",
         "source": "anthropic.com",
-        "score": 1165,
-        "comments": 926,
+        "score": 1337,
+        "comments": 1067,
         "hnUrl": "https://news.ycombinator.com/item?id=48311647",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Des briques et des mini-figurines ont volé la collection Lego de 200 000 $ d' un homme",
         "titleOriginal": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
         "url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
         "source": "mybricklog.com",
-        "score": 509,
-        "comments": 279,
+        "score": 739,
+        "comments": 380,
         "hnUrl": "https://news.ycombinator.com/item?id=48314136",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "J'ai fabriqué un produit d'un million de dollars à partir de ma chambre de dortoir (2025)",
-        "titleOriginal": "I made a million dollar product from my dorm room (2025)",
-        "url": "https://nick.winans.io/blog/nice-nano/",
-        "source": "nick.winans.io",
-        "score": 125,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48314951",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Garnix (A Nix CI) s'arrête",
-        "titleOriginal": "Garnix (A Nix CI) is shutting down",
-        "url": "https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895",
-        "source": "discourse.nixos.org",
-        "score": 9,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48317043",
-        "date": "il y a 30 min"
+        "date": "il y a 9 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260526",
+    "resultsDate": "20260528",
     "results": [
       {
-        "id": "401873201",
-        "date": "2026-05-27T00:30Z",
+        "id": "401873202",
+        "date": "2026-05-29T00:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 127,
-          "record": "64-18",
-          "winner": true
-        },
-        "away": {
           "id": "24",
           "abbr": "SA",
           "name": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 114,
+          "score": 118,
           "record": "62-20",
+          "winner": true
+        },
+        "away": {
+          "id": "25",
+          "abbr": "OKC",
+          "name": "Thunder",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+          "score": 91,
+          "record": "64-18",
           "winner": false
         },
         "series": {
-          "summary": "OKC leads series 3-2",
+          "summary": "Series tied 3-3",
           "completed": false,
-          "round": "West Finals - Game 5",
+          "round": "West Finals - Game 6",
           "winsHome": 3,
-          "winsAway": 2
+          "winsAway": 3
         }
       }
     ],
@@ -300,9 +210,9 @@
             "name": "Thunder",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png"
           },
-          "winsHome": 2,
+          "winsHome": 3,
           "winsAway": 3,
-          "summary": "OKC leads series 3-2",
+          "summary": "Series tied 3-3",
           "completed": false,
           "round": "West Finals - Game 6",
           "roundLabel": "Ouest · Finales NBA",
