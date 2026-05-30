@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T14:25:59.070Z",
+  "updatedAt": "2026-05-30T15:45:36.633Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 33,
-      "feelsLike": 33,
+      "feelsLike": 32,
       "code": 2,
-      "wind": 6,
-      "humidity": 27
+      "wind": 8,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "AMOUREUSE D'UNE IA : ELLE REFUSE DE LA TROMPER",
+        "title": "ON VIVRA JUSQU'À 1000 ANS GRÂCE À L'IA",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "-yIZDxcVUZQ",
-        "thumbnail": "https://i.ytimg.com/vi/-yIZDxcVUZQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-yIZDxcVUZQ",
-        "publishedAt": "2026-05-30T14:00:27+00:00"
+        "videoId": "ibSHnRGtMnU",
+        "thumbnail": "https://i.ytimg.com/vi/ibSHnRGtMnU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ibSHnRGtMnU",
+        "publishedAt": "2026-05-30T15:00:32+00:00"
       },
       {
         "title": "Les métiers que l'IA va effacer",
@@ -203,29 +203,29 @@
         "titleOriginal": "Anthropic surpasses OpenAI to become most valuable AI startup",
         "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
         "source": "qazinform.com",
-        "score": 68,
-        "comments": 38,
+        "score": 226,
+        "comments": 206,
         "hnUrl": "https://news.ycombinator.com/item?id=48336233",
-        "date": "il y a 29 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Espace Voxel",
+        "titleOriginal": "Voxel Space",
+        "url": "https://s-macke.github.io/VoxelSpace/",
+        "source": "s-macke.github.io",
+        "score": 60,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48336564",
+        "date": "il y a 1 h"
       },
       {
         "title": "Modèles Pandoc",
         "titleOriginal": "Pandoc Templates",
         "url": "https://pandoc-templates.org/",
         "source": "pandoc-templates.org",
-        "score": 206,
-        "comments": 24,
+        "score": 243,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=48334515",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Zig : système de construction retravaillé",
-        "titleOriginal": "Zig: Build System Reworked",
-        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
-        "source": "ziglang.org",
-        "score": 190,
-        "comments": 98,
-        "hnUrl": "https://news.ycombinator.com/item?id=48334048",
         "date": "il y a 5 h"
       },
       {
@@ -233,10 +233,10 @@
         "titleOriginal": "Openrsync: An implementation of rsync, by the OpenBSD team",
         "url": "https://github.com/kristapsdz/openrsync",
         "source": "github.com",
-        "score": 70,
-        "comments": 35,
+        "score": 124,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=48334854",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
