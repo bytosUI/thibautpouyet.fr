@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T09:54:34.345Z",
+  "updatedAt": "2026-05-30T11:16:26.178Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 31,
+      "temp": 31,
+      "feelsLike": 33,
       "code": 2,
-      "wind": 5,
-      "humidity": 44
+      "wind": 7,
+      "humidity": 37
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-05-31",
         "code": 3,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 18
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL GRIMPE LA TOUR MONTPARNASSE À MAINS NUES",
+        "title": "INTERDIRE L'IA À L'ÉCOLE EST UNE BÊTISE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "ycInCgX2XG4",
-        "thumbnail": "https://i.ytimg.com/vi/ycInCgX2XG4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ycInCgX2XG4",
-        "publishedAt": "2026-05-30T09:00:27+00:00"
+        "videoId": "XFVWmv3N8So",
+        "thumbnail": "https://i.ytimg.com/vi/XFVWmv3N8So/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XFVWmv3N8So",
+        "publishedAt": "2026-05-30T11:00:31+00:00"
       },
       {
         "title": "Faire le million ne change rien ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "SQLite est tout ce dont vous avez besoin pour des flux de travail durables",
-        "titleOriginal": "SQLite is all you need for durable workflows",
-        "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
-        "source": "obeli.sk",
-        "score": 538,
-        "comments": 266,
-        "hnUrl": "https://news.ycombinator.com/item?id=48326802",
-        "date": "il y a 15 h"
-      },
-      {
         "title": "Zig : système de construction retravaillé",
         "titleOriginal": "Zig: Build System Reworked",
         "url": "https://ziglang.org/devlog/2026/#2026-05-26",
         "source": "ziglang.org",
-        "score": 12,
-        "comments": 1,
+        "score": 96,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=48334048",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Modèles Pandoc",
+        "titleOriginal": "Pandoc Templates",
+        "url": "https://pandoc-templates.org/",
+        "source": "pandoc-templates.org",
+        "score": 22,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48334515",
         "date": "il y a 1 h"
       },
       {
-        "title": "Effets algébriques pour le reste d'entre nous",
-        "titleOriginal": "Algebraic Effects for the Rest of Us",
-        "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-        "source": "overreacted.io",
-        "score": 54,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48283009",
-        "date": "il y a 3 j"
+        "title": "Le Kaiser et un « Homme Médiocre » Théorie de l'Histoire",
+        "titleOriginal": "The Kaiser and a \"Mediocre Man\" Theory of History",
+        "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
+        "source": "deadcarl.com",
+        "score": 34,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48334283",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Le fonds de pension danois exclut SpaceX en citant la gouvernance et la valorisation",
-        "titleOriginal": "Danish pension fund excludes SpaceX citing governance and valuation",
-        "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
-        "source": "reuters.com",
-        "score": 89,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=48333820",
-        "date": "il y a 1 h"
+        "title": "SQLite est tout ce dont vous avez besoin pour des flux de travail durables",
+        "titleOriginal": "SQLite is all you need for durable workflows",
+        "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+        "source": "obeli.sk",
+        "score": 557,
+        "comments": 283,
+        "hnUrl": "https://news.ycombinator.com/item?id=48326802",
+        "date": "il y a 17 h"
       }
     ]
   },
