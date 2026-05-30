@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T07:36:37.394Z",
+  "updatedAt": "2026-05-30T09:54:34.345Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 26,
+      "temp": 28,
+      "feelsLike": 31,
       "code": 2,
-      "wind": 3,
-      "humidity": 69
+      "wind": 5,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-06-01",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 11
       },
       {
         "date": "2026-06-02",
         "code": 95,
-        "tmax": 18,
+        "tmax": 19,
         "tmin": 14
       }
     ]
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "SEULEMENT 2% DES START-UPS ATTEIGNENT CE NIVEAU DE CHIFFRE D'AFFAIRES",
+        "title": "IL GRIMPE LA TOUR MONTPARNASSE À MAINS NUES",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "XXrvfeUjK9E",
-        "thumbnail": "https://i.ytimg.com/vi/XXrvfeUjK9E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XXrvfeUjK9E",
-        "publishedAt": "2026-05-30T07:00:06+00:00"
+        "videoId": "ycInCgX2XG4",
+        "thumbnail": "https://i.ytimg.com/vi/ycInCgX2XG4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ycInCgX2XG4",
+        "publishedAt": "2026-05-30T09:00:27+00:00"
+      },
+      {
+        "title": "Faire le million ne change rien ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "Fa0vLKw-QWk",
+        "thumbnail": "https://i.ytimg.com/vi/Fa0vLKw-QWk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fa0vLKw-QWk",
+        "publishedAt": "2026-05-30T08:02:48+00:00"
       },
       {
         "title": "Pourquoi il faut d'urgence réinventer la structure de votre boîte !",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/PqEfZaGLPB4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PqEfZaGLPB4",
         "publishedAt": "2026-05-29T16:01:18+00:00"
-      },
-      {
-        "title": "En France, on nous apprend à obéir… pas à vendre",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "53bWaK9ODMk",
-        "thumbnail": "https://i.ytimg.com/vi/53bWaK9ODMk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=53bWaK9ODMk",
-        "publishedAt": "2026-05-29T16:00:32+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -203,40 +203,40 @@
         "titleOriginal": "SQLite is all you need for durable workflows",
         "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
         "source": "obeli.sk",
-        "score": 486,
-        "comments": 247,
+        "score": 538,
+        "comments": 266,
         "hnUrl": "https://news.ycombinator.com/item?id=48326802",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Perry compile TypeScript directement aux exécutables en utilisant SWC et LLVM",
-        "titleOriginal": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
-        "url": "https://www.perryts.com/",
-        "source": "perryts.com",
-        "score": 71,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=48332151",
-        "date": "il y a 4 h"
+        "title": "Zig : système de construction retravaillé",
+        "titleOriginal": "Zig: Build System Reworked",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-26",
+        "source": "ziglang.org",
+        "score": 12,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48334048",
+        "date": "il y a 1 h"
       },
       {
         "title": "Effets algébriques pour le reste d'entre nous",
         "titleOriginal": "Algebraic Effects for the Rest of Us",
         "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
         "source": "overreacted.io",
-        "score": 12,
-        "comments": 6,
+        "score": 54,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=48283009",
         "date": "il y a 3 j"
       },
       {
-        "title": "Snowboard Kids 2 est 100 % décompilé",
-        "titleOriginal": "Snowboard Kids 2 is 100% Decompiled",
-        "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
-        "source": "blog.chrislewis.au",
-        "score": 163,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=48284494",
-        "date": "il y a 3 j"
+        "title": "Le fonds de pension danois exclut SpaceX en citant la gouvernance et la valorisation",
+        "titleOriginal": "Danish pension fund excludes SpaceX citing governance and valuation",
+        "url": "https://www.reuters.com/legal/transactional/danish-pension-fund-excludes-spacex-citing-governance-valuation-2026-05-29/",
+        "source": "reuters.com",
+        "score": 89,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48333820",
+        "date": "il y a 1 h"
       }
     ]
   },
