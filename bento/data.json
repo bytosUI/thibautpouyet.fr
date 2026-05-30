@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T12:45:07.991Z",
+  "updatedAt": "2026-05-30T14:25:59.070Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 34,
+      "temp": 33,
+      "feelsLike": 33,
       "code": 2,
-      "wind": 5,
-      "humidity": 31
+      "wind": 6,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "ÊTRE EN COUPLE AVEC UNE IA CE SERAIT BIENTÔT LA NORME ?",
+        "title": "AMOUREUSE D'UNE IA : ELLE REFUSE DE LA TROMPER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "7nW0hu_Q2m4",
-        "thumbnail": "https://i.ytimg.com/vi/7nW0hu_Q2m4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7nW0hu_Q2m4",
-        "publishedAt": "2026-05-30T12:00:06+00:00"
+        "videoId": "-yIZDxcVUZQ",
+        "thumbnail": "https://i.ytimg.com/vi/-yIZDxcVUZQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-yIZDxcVUZQ",
+        "publishedAt": "2026-05-30T14:00:27+00:00"
       },
       {
-        "title": "Faire le million ne change rien ?",
+        "title": "Les métiers que l'IA va effacer",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "Fa0vLKw-QWk",
-        "thumbnail": "https://i.ytimg.com/vi/Fa0vLKw-QWk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fa0vLKw-QWk",
-        "publishedAt": "2026-05-30T08:02:48+00:00"
+        "videoId": "LeVjX1M1_e4",
+        "thumbnail": "https://i.ytimg.com/vi/LeVjX1M1_e4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LeVjX1M1_e4",
+        "publishedAt": "2026-05-30T13:00:32+00:00"
       },
       {
         "title": "Pourquoi il faut d'urgence réinventer la structure de votre boîte !",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Anthropic surpasse OpenAI pour devenir la startup d'IA la plus précieuse",
+        "titleOriginal": "Anthropic surpasses OpenAI to become most valuable AI startup",
+        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+        "source": "qazinform.com",
+        "score": 68,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=48336233",
+        "date": "il y a 29 min"
+      },
+      {
         "title": "Modèles Pandoc",
         "titleOriginal": "Pandoc Templates",
         "url": "https://pandoc-templates.org/",
         "source": "pandoc-templates.org",
-        "score": 108,
-        "comments": 7,
+        "score": 206,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=48334515",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Zig : système de construction retravaillé",
         "titleOriginal": "Zig: Build System Reworked",
         "url": "https://ziglang.org/devlog/2026/#2026-05-26",
         "source": "ziglang.org",
-        "score": 148,
-        "comments": 41,
+        "score": 190,
+        "comments": 98,
         "hnUrl": "https://news.ycombinator.com/item?id=48334048",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Nouvelles règles de financement proposées aux États-Unis : nous pouvons annuler toute subvention à tout moment",
-        "titleOriginal": "Proposed new US funding rules: We can cancel any grant at any time",
-        "url": "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-        "source": "arstechnica.com",
-        "score": 68,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48335135",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Show HN : Helios – ce que le plug-in solaire pourrait générer pour n'importe quelle adresse en Grande-Bretagne",
-        "titleOriginal": "Show HN: Helios – what plug-in solar could generate for any address in Britain",
-        "url": "https://helios.southlondonscientific.com/",
-        "source": "helios.southlondonscientific.com",
-        "score": 15,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48334949",
-        "date": "il y a 1 h"
+        "title": "Openrsync : une implémentation de rsync, par l'équipe OpenBSD",
+        "titleOriginal": "Openrsync: An implementation of rsync, by the OpenBSD team",
+        "url": "https://github.com/kristapsdz/openrsync",
+        "source": "github.com",
+        "score": 70,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48334854",
+        "date": "il y a 3 h"
       }
     ]
   },
