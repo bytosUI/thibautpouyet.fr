@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T18:01:56.403Z",
+  "updatedAt": "2026-05-30T19:47:19.136Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 31,
-      "code": 2,
-      "wind": 8,
-      "humidity": 33
+      "temp": 27,
+      "feelsLike": 29,
+      "code": 3,
+      "wind": 1,
+      "humidity": 51
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-05-31",
         "code": 3,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 18
       },
       {
         "date": "2026-06-01",
         "code": 3,
-        "tmax": 24,
-        "tmin": 11
+        "tmax": 25,
+        "tmin": 12
       },
       {
         "date": "2026-06-02",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 107,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -203,40 +211,40 @@
         "titleOriginal": "OpenRouter raises $113M Series B",
         "url": "https://openrouter.ai/announcements/series-b",
         "source": "openrouter.ai",
-        "score": 49,
-        "comments": 9,
+        "score": 191,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=48338660",
-        "date": "il y a 34 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Ernst & Young a publié un rapport de cybersécurité rempli d'hallucinations",
+        "titleOriginal": "Ernst & Young published cybersecurity report full of hallucinations",
+        "url": "https://gptzero.me/investigations/ey",
+        "source": "gptzero.me",
+        "score": 65,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48339580",
+        "date": "il y a 44 min"
+      },
+      {
+        "title": "Effet secondaire de la crise d'Ormuz : une forte augmentation des tarifs d'expédition des conteneurs",
+        "titleOriginal": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+        "url": "https://www.lloydslist.com/LL1157327/Hormuz-crisis-side-effect-a-sharp-rise-in-container-shipping-rates",
+        "source": "lloydslist.com",
+        "score": 54,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48339180",
+        "date": "il y a 1 h"
       },
       {
         "title": "Améliorations de Zig ELF Linker Devlog",
         "titleOriginal": "Zig ELF Linker Improvements Devlog",
         "url": "https://ziglang.org/devlog/2026/#2026-05-30",
         "source": "ziglang.org",
-        "score": 20,
-        "comments": 1,
+        "score": 89,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=48338673",
-        "date": "il y a 32 min"
-      },
-      {
-        "title": "Espace Voxel",
-        "titleOriginal": "Voxel Space",
-        "url": "https://s-macke.github.io/VoxelSpace/",
-        "source": "s-macke.github.io",
-        "score": 151,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=48336564",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Openrsync : une implémentation de rsync, par l'équipe OpenBSD",
-        "titleOriginal": "Openrsync: An implementation of rsync, by the OpenBSD team",
-        "url": "https://github.com/kristapsdz/openrsync",
-        "source": "github.com",
-        "score": 210,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=48334854",
-        "date": "il y a 7 h"
+        "date": "il y a 2 h"
       }
     ]
   },
