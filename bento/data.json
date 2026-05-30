@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T16:56:36.615Z",
+  "updatedAt": "2026-05-30T18:01:56.403Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 32,
+      "temp": 31,
+      "feelsLike": 31,
       "code": 2,
-      "wind": 6,
-      "humidity": 32
+      "wind": 8,
+      "humidity": 33
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Sam Altman vend l'antidote qu'il a lui-même créé ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "MvnRqTGcoS8",
+        "thumbnail": "https://i.ytimg.com/vi/MvnRqTGcoS8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MvnRqTGcoS8",
+        "publishedAt": "2026-05-30T17:01:17+00:00"
+      },
+      {
         "title": "2h pour résoudre ce Rubik’s Cube…(ft @victorcolin3656)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/LeVjX1M1_e4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LeVjX1M1_e4",
         "publishedAt": "2026-05-30T13:00:32+00:00"
-      },
-      {
-        "title": "Pourquoi il faut d'urgence réinventer la structure de votre boîte !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "inN0yQYiCH0",
-        "thumbnail": "https://i.ytimg.com/vi/inN0yQYiCH0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=inN0yQYiCH0",
-        "publishedAt": "2026-05-30T06:30:11+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -199,23 +199,33 @@
   "hackernews": {
     "items": [
       {
+        "title": "OpenRouter lève 113 M $ série B",
+        "titleOriginal": "OpenRouter raises $113M Series B",
+        "url": "https://openrouter.ai/announcements/series-b",
+        "source": "openrouter.ai",
+        "score": 49,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48338660",
+        "date": "il y a 34 min"
+      },
+      {
+        "title": "Améliorations de Zig ELF Linker Devlog",
+        "titleOriginal": "Zig ELF Linker Improvements Devlog",
+        "url": "https://ziglang.org/devlog/2026/#2026-05-30",
+        "source": "ziglang.org",
+        "score": 20,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48338673",
+        "date": "il y a 32 min"
+      },
+      {
         "title": "Espace Voxel",
         "titleOriginal": "Voxel Space",
         "url": "https://s-macke.github.io/VoxelSpace/",
         "source": "s-macke.github.io",
-        "score": 99,
-        "comments": 16,
+        "score": 151,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=48336564",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Anthropic surpasse OpenAI pour devenir la startup d'IA la plus précieuse",
-        "titleOriginal": "Anthropic surpasses OpenAI to become most valuable AI startup",
-        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-        "source": "qazinform.com",
-        "score": 329,
-        "comments": 345,
-        "hnUrl": "https://news.ycombinator.com/item?id=48336233",
         "date": "il y a 3 h"
       },
       {
@@ -223,20 +233,10 @@
         "titleOriginal": "Openrsync: An implementation of rsync, by the OpenBSD team",
         "url": "https://github.com/kristapsdz/openrsync",
         "source": "github.com",
-        "score": 171,
-        "comments": 75,
+        "score": 210,
+        "comments": 93,
         "hnUrl": "https://news.ycombinator.com/item?id=48334854",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Modèles Pandoc",
-        "titleOriginal": "Pandoc Templates",
-        "url": "https://pandoc-templates.org/",
-        "source": "pandoc-templates.org",
-        "score": 266,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48334515",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
