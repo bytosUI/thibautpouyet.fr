@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-30T04:32:15.039Z",
+  "updatedAt": "2026-05-30T07:36:37.394Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 20,
-      "code": 45,
-      "wind": 1,
-      "humidity": 96
+      "temp": 23,
+      "feelsLike": 26,
+      "code": 2,
+      "wind": 3,
+      "humidity": 69
     },
     "forecast": [
       {
         "date": "2026-05-30",
         "code": 80,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 18
       },
       {
         "date": "2026-05-31",
         "code": 3,
         "tmax": 24,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-06-01",
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "Sam Altman a-t-il tué Capgemini ce mois-ci ?",
+        "title": "SEULEMENT 2% DES START-UPS ATTEIGNENT CE NIVEAU DE CHIFFRE D'AFFAIRES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "XXrvfeUjK9E",
+        "thumbnail": "https://i.ytimg.com/vi/XXrvfeUjK9E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XXrvfeUjK9E",
+        "publishedAt": "2026-05-30T07:00:06+00:00"
+      },
+      {
+        "title": "Pourquoi il faut d'urgence réinventer la structure de votre boîte !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "wsDb2U9B9-I",
-        "thumbnail": "https://i.ytimg.com/vi/wsDb2U9B9-I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wsDb2U9B9-I",
-        "publishedAt": "2026-05-29T17:01:04+00:00"
+        "videoId": "inN0yQYiCH0",
+        "thumbnail": "https://i.ytimg.com/vi/inN0yQYiCH0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=inN0yQYiCH0",
+        "publishedAt": "2026-05-30T06:30:11+00:00"
       },
       {
         "title": "Il fait un Rubik's Cube à une main... (ft @victorcolin3656)",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/53bWaK9ODMk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=53bWaK9ODMk",
         "publishedAt": "2026-05-29T16:00:32+00:00"
-      },
-      {
-        "title": "EN COUPLE AVEC UNE INTELLIGENCE ARTIFICIELLE, SON FANTASME C'EST...ROBOCOP ET GOLDORAK",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "FKOlAUebTZE",
-        "thumbnail": "https://i.ytimg.com/vi/FKOlAUebTZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FKOlAUebTZE",
-        "publishedAt": "2026-05-29T14:39:52+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -199,42 +199,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les pénuries de naphta ont un impact croissant au Japon",
-        "titleOriginal": "Naphtha Shortages Having a Growing Impact in Japan",
-        "url": "https://www.nippon.com/en/japan-data/h02783/",
-        "source": "nippon.com",
-        "score": 43,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48331786",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "SQLite est tout ce dont vous avez besoin pour des flux de travail durables",
         "titleOriginal": "SQLite is all you need for durable workflows",
         "url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
         "source": "obeli.sk",
-        "score": 430,
-        "comments": 218,
+        "score": 486,
+        "comments": 247,
         "hnUrl": "https://news.ycombinator.com/item?id=48326802",
-        "date": "il y a 10 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "La théorie de l'économie morte",
-        "titleOriginal": "The dead economy theory",
-        "url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-        "source": "owenmcgrann.com",
-        "score": 805,
-        "comments": 985,
-        "hnUrl": "https://news.ycombinator.com/item?id=48324712",
-        "date": "il y a 12 h"
+        "title": "Perry compile TypeScript directement aux exécutables en utilisant SWC et LLVM",
+        "titleOriginal": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+        "url": "https://www.perryts.com/",
+        "source": "perryts.com",
+        "score": 71,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=48332151",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Effets algébriques pour le reste d'entre nous",
+        "titleOriginal": "Algebraic Effects for the Rest of Us",
+        "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+        "source": "overreacted.io",
+        "score": 12,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48283009",
+        "date": "il y a 3 j"
       },
       {
         "title": "Snowboard Kids 2 est 100 % décompilé",
         "titleOriginal": "Snowboard Kids 2 is 100% Decompiled",
         "url": "https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/",
         "source": "blog.chrislewis.au",
-        "score": 113,
-        "comments": 32,
+        "score": 163,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=48284494",
         "date": "il y a 3 j"
       }
