@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-30T15:45:36.633Z",
+  "updatedAt": "2026-05-30T16:56:36.615Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
+      "temp": 32,
       "feelsLike": 32,
       "code": 2,
-      "wind": 8,
-      "humidity": 29
+      "wind": 6,
+      "humidity": 32
     },
     "forecast": [
       {
@@ -19,19 +19,19 @@
       {
         "date": "2026-05-31",
         "code": 3,
-        "tmax": 25,
+        "tmax": 24,
         "tmin": 18
       },
       {
         "date": "2026-06-01",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 11
       },
       {
         "date": "2026-06-02",
         "code": 95,
-        "tmax": 19,
+        "tmax": 21,
         "tmin": 14
       }
     ]
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "2h pour résoudre ce Rubik’s Cube…(ft @victorcolin3656)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "kuDwedHreKE",
+        "thumbnail": "https://i.ytimg.com/vi/kuDwedHreKE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kuDwedHreKE",
+        "publishedAt": "2026-05-30T16:05:07+00:00"
+      },
       {
         "title": "ON VIVRA JUSQU'À 1000 ANS GRÂCE À L'IA",
         "channel": "LEGEND",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/inN0yQYiCH0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=inN0yQYiCH0",
         "publishedAt": "2026-05-30T06:30:11+00:00"
-      },
-      {
-        "title": "Il fait un Rubik's Cube à une main... (ft @victorcolin3656)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "PqEfZaGLPB4",
-        "thumbnail": "https://i.ytimg.com/vi/PqEfZaGLPB4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PqEfZaGLPB4",
-        "publishedAt": "2026-05-29T16:01:18+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Anthropic surpasse OpenAI pour devenir la startup d'IA la plus précieuse",
-        "titleOriginal": "Anthropic surpasses OpenAI to become most valuable AI startup",
-        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
-        "source": "qazinform.com",
-        "score": 226,
-        "comments": 206,
-        "hnUrl": "https://news.ycombinator.com/item?id=48336233",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Espace Voxel",
         "titleOriginal": "Voxel Space",
         "url": "https://s-macke.github.io/VoxelSpace/",
         "source": "s-macke.github.io",
-        "score": 60,
-        "comments": 9,
+        "score": 99,
+        "comments": 16,
         "hnUrl": "https://news.ycombinator.com/item?id=48336564",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Modèles Pandoc",
-        "titleOriginal": "Pandoc Templates",
-        "url": "https://pandoc-templates.org/",
-        "source": "pandoc-templates.org",
-        "score": 243,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48334515",
-        "date": "il y a 5 h"
+        "title": "Anthropic surpasse OpenAI pour devenir la startup d'IA la plus précieuse",
+        "titleOriginal": "Anthropic surpasses OpenAI to become most valuable AI startup",
+        "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+        "source": "qazinform.com",
+        "score": 329,
+        "comments": 345,
+        "hnUrl": "https://news.ycombinator.com/item?id=48336233",
+        "date": "il y a 3 h"
       },
       {
         "title": "Openrsync : une implémentation de rsync, par l'équipe OpenBSD",
         "titleOriginal": "Openrsync: An implementation of rsync, by the OpenBSD team",
         "url": "https://github.com/kristapsdz/openrsync",
         "source": "github.com",
-        "score": 124,
-        "comments": 51,
+        "score": 171,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=48334854",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Modèles Pandoc",
+        "titleOriginal": "Pandoc Templates",
+        "url": "https://pandoc-templates.org/",
+        "source": "pandoc-templates.org",
+        "score": 266,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48334515",
+        "date": "il y a 6 h"
       }
     ]
   },
