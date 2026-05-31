@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-31T15:00:30.029Z",
+  "updatedAt": "2026-05-31T16:39:47.263Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 21,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 17,
-      "humidity": 42
+      "wind": 15,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -19,19 +19,19 @@
       {
         "date": "2026-06-01",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 12
       },
       {
         "date": "2026-06-02",
         "code": 95,
-        "tmax": 20,
+        "tmax": 21,
         "tmin": 14
       },
       {
         "date": "2026-06-03",
-        "code": 80,
-        "tmax": 20,
+        "code": 3,
+        "tmax": 22,
         "tmin": 12
       }
     ]
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"LA FRANCE N'EST PLUS UNE DÉMOCRATIE\"",
+        "title": "Je fais du thrifting à Séoul 🇰🇷 (et on m'offre des trucs)",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xAi8oXE9-vY",
+        "thumbnail": "https://i.ytimg.com/vi/xAi8oXE9-vY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xAi8oXE9-vY",
+        "publishedAt": "2026-05-31T16:00:41+00:00"
+      },
+      {
+        "title": "LE PEUPLE ET LE PRÉSIDENT N'ONT PLUS DE POUVOIR !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "ftZ_Qc5hip8",
-        "thumbnail": "https://i.ytimg.com/vi/ftZ_Qc5hip8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ftZ_Qc5hip8",
-        "publishedAt": "2026-05-31T14:00:39+00:00"
+        "videoId": "6jNaTXMfb6M",
+        "thumbnail": "https://i.ytimg.com/vi/6jNaTXMfb6M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6jNaTXMfb6M",
+        "publishedAt": "2026-05-31T15:00:10+00:00"
       },
       {
         "title": "Devenir père : un moment où tout bascule !",
@@ -86,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/kuDwedHreKE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kuDwedHreKE",
         "publishedAt": "2026-05-30T16:05:07+00:00"
-      },
-      {
-        "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "RR6WqRxaRGA",
-        "thumbnail": "https://i.ytimg.com/vi/RR6WqRxaRGA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RR6WqRxaRGA",
-        "publishedAt": "2026-05-24T16:00:22+00:00"
       },
       {
         "title": "Tout le monde déteste Joyca à juste titre 😂",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La solution pourrait être d'annuler mon abonnement à l'IA",
+        "titleOriginal": "The solution might be cancelling my AI subscription",
+        "url": "https://thoughts.hmmz.org/2026-05-31.html",
+        "source": "thoughts.hmmz.org",
+        "score": 184,
+        "comments": 109,
+        "hnUrl": "https://news.ycombinator.com/item?id=48345896",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Dav2d",
         "titleOriginal": "Dav2d",
         "url": "https://jbkempf.com/blog/2026/dav2d/",
         "source": "jbkempf.com",
-        "score": 235,
-        "comments": 66,
+        "score": 284,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=48344961",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Tourniquet Cloudflare nécessitant une prise d'empreintes digitales WebGL",
         "titleOriginal": "Cloudflare Turnstile requiring fingerprintable WebGL",
         "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
         "source": "hacktivis.me",
-        "score": 48,
-        "comments": 14,
+        "score": 166,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=48345840",
-        "date": "il y a 47 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Le cahier des charges du site",
-        "titleOriginal": "The Website Specification",
-        "url": "https://specification.website/",
-        "source": "specification.website",
-        "score": 310,
-        "comments": 128,
-        "hnUrl": "https://news.ycombinator.com/item?id=48343683",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Terrasses gratuites sur le toit de Londres",
-        "titleOriginal": "London's Free Roof Terraces",
-        "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
-        "source": "diamondgeezer.blogspot.com",
-        "score": 174,
-        "comments": 82,
-        "hnUrl": "https://news.ycombinator.com/item?id=48343714",
-        "date": "il y a 7 h"
+        "title": "Génération d'image Bonsaï 1 bit 4B pour les appareils locaux",
+        "titleOriginal": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "source": "prismml.com",
+        "score": 61,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48346257",
+        "date": "il y a 1 h"
       }
     ]
   },
