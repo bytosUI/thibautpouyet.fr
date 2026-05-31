@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-05-30T23:58:30.860Z",
+  "updatedAt": "2026-05-31T04:11:29.492Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 21,
-      "code": 3,
-      "wind": 3,
-      "humidity": 83
+      "temp": 18,
+      "feelsLike": 19,
+      "code": 80,
+      "wind": 8,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-05-31",
-        "code": 80,
+        "code": 95,
         "tmax": 24,
         "tmin": 17
       },
       {
         "date": "2026-06-01",
-        "code": 3,
+        "code": 45,
         "tmax": 24,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-02",
         "code": 80,
-        "tmax": 19,
+        "tmax": 20,
         "tmin": 14
       },
       {
         "date": "2026-06-03",
         "code": 3,
-        "tmax": 21,
-        "tmin": 13
+        "tmax": 22,
+        "tmin": 12
       }
     ]
   },
@@ -203,78 +203,78 @@
         "titleOriginal": "Microsoft degrades functionality of perpetually-licensed offline products",
         "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
         "source": "consumerrights.wiki",
-        "score": 32,
-        "comments": 3,
+        "score": 582,
+        "comments": 189,
         "hnUrl": "https://news.ycombinator.com/item?id=48341578",
-        "date": "il y a 32 min"
+        "date": "il y a 4 h"
       },
       {
         "title": "L'expertise du domaine a toujours été le vrai fossé",
         "titleOriginal": "Domain expertise has always been the real moat",
         "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
         "source": "brethorsting.com",
-        "score": 194,
-        "comments": 124,
+        "score": 354,
+        "comments": 216,
         "hnUrl": "https://news.ycombinator.com/item?id=48340411",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "J'ai trouvé un coquillage au milieu du désert",
-        "titleOriginal": "I found a seashell in the middle of the desert",
-        "url": "https://github.com/Hawzen/I-found-a-seashell-in-the-middle-of-the-desert",
-        "source": "github.com",
-        "score": 168,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=48318402",
-        "date": "hier"
-      },
-      {
-        "title": "Accenture acquiert Ookla",
-        "titleOriginal": "Accenture to acquire Ookla",
-        "url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
-        "source": "newsroom.accenture.com",
-        "score": 223,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=48337987",
         "date": "il y a 7 h"
+      },
+      {
+        "title": "Shantell Sans (2023)",
+        "titleOriginal": "Shantell Sans (2023)",
+        "url": "https://shantellsans.com/process",
+        "source": "shantellsans.com",
+        "score": 135,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48341062",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Racket v9.2 est maintenant disponible",
+        "titleOriginal": "Racket v9.2 is now available",
+        "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+        "source": "blog.racket-lang.org",
+        "score": 57,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48306713",
+        "date": "il y a 2 j"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260528",
+    "resultsDate": "20260530",
     "results": [
       {
-        "id": "401873202",
-        "date": "2026-05-29T00:30Z",
+        "id": "401873203",
+        "date": "2026-05-31T00:00Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 118,
-          "record": "62-20",
-          "winner": true
-        },
-        "away": {
           "id": "25",
           "abbr": "OKC",
           "name": "Thunder",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 91,
+          "score": 103,
           "record": "64-18",
           "winner": false
         },
+        "away": {
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 111,
+          "record": "62-20",
+          "winner": true
+        },
         "series": {
-          "summary": "Series tied 3-3",
-          "completed": false,
-          "round": "West Finals - Game 6",
+          "summary": "SA wins series 4-3",
+          "completed": true,
+          "round": "West Finals - Game 7",
           "winsHome": 3,
-          "winsAway": 3
+          "winsAway": 4
         }
       }
     ],
@@ -293,9 +293,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
           },
           "winsHome": 3,
-          "winsAway": 3,
-          "summary": "Series tied 3-3",
-          "completed": false,
+          "winsAway": 4,
+          "summary": "SA wins series 4-3",
+          "completed": true,
           "round": "West Finals - Game 7",
           "roundLabel": "Ouest · Finales NBA",
           "roundOrder": 4,
