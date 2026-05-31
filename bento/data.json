@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-31T10:13:17.325Z",
+  "updatedAt": "2026-05-31T11:55:21.885Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 3,
       "wind": 15,
-      "humidity": 47
+      "humidity": 41
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "BOUALEM SANSAL : DE L’ENFER DES PRISONS ALGÉRIENNES À LA FIN DE LA DÉMOCRATIE FRANÇAISE",
+        "title": "INCARCÉRÉ EN ALGÉRIE, IL FAIT UNE EXPÉRIENCE DE MORT IMMINENTE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "UtbLzlGZ_uI",
-        "thumbnail": "https://i.ytimg.com/vi/UtbLzlGZ_uI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UtbLzlGZ_uI",
-        "publishedAt": "2026-05-31T09:00:07+00:00"
+        "videoId": "699vIHza3WI",
+        "thumbnail": "https://i.ytimg.com/vi/699vIHza3WI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=699vIHza3WI",
+        "publishedAt": "2026-05-31T11:00:17+00:00"
       },
       {
         "title": "Quel est le prix de ta liberté ?",
@@ -203,40 +203,40 @@
         "titleOriginal": "The Website Specification",
         "url": "https://specification.website/",
         "source": "specification.website",
-        "score": 152,
-        "comments": 51,
+        "score": 216,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=48343683",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Terrasses gratuites sur le toit de Londres",
         "titleOriginal": "London's Free Roof Terraces",
         "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
         "source": "diamondgeezer.blogspot.com",
-        "score": 50,
-        "comments": 6,
+        "score": 108,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=48343714",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "L'expertise du domaine a toujours été le vrai fossé",
         "titleOriginal": "Domain expertise has always been the real moat",
         "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
         "source": "brethorsting.com",
-        "score": 594,
-        "comments": 351,
+        "score": 642,
+        "comments": 392,
         "hnUrl": "https://news.ycombinator.com/item?id=48340411",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "L'illusion dangereuse de la guerre moderne",
-        "titleOriginal": "The dangerous delusion of modern warfare",
-        "url": "https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare",
-        "source": "economist.com",
-        "score": 16,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48344016",
-        "date": "il y a 1 h"
+        "title": "Collection Security Envelope Pattern – S.E.C.R.E.T",
+        "titleOriginal": "Security Envelope Pattern collection – S.E.C.R.E.T",
+        "url": "https://secret-archive.org/",
+        "source": "secret-archive.org",
+        "score": 15,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48321089",
+        "date": "il y a 2 j"
       }
     ]
   },
