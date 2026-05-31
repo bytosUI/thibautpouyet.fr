@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-31T13:26:20.420Z",
+  "updatedAt": "2026-05-31T15:00:30.029Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 23,
       "feelsLike": 21,
       "code": 3,
-      "wind": 19,
-      "humidity": 46
+      "wind": 17,
+      "humidity": 42
     },
     "forecast": [
       {
         "date": "2026-05-31",
         "code": 80,
-        "tmax": 24,
-        "tmin": 17
+        "tmax": 25,
+        "tmin": 18
       },
       {
         "date": "2026-06-01",
         "code": 3,
         "tmax": 25,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-02",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "À 100 DANS UNE CELLULE DU COULOIR DE LA MORT EN ALGÉRIE, IL RACONTE",
+        "title": "\"LA FRANCE N'EST PLUS UNE DÉMOCRATIE\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Kj1JAkMN9u0",
-        "thumbnail": "https://i.ytimg.com/vi/Kj1JAkMN9u0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kj1JAkMN9u0",
-        "publishedAt": "2026-05-31T13:00:02+00:00"
+        "videoId": "ftZ_Qc5hip8",
+        "thumbnail": "https://i.ytimg.com/vi/ftZ_Qc5hip8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ftZ_Qc5hip8",
+        "publishedAt": "2026-05-31T14:00:39+00:00"
       },
       {
         "title": "Devenir père : un moment où tout bascule !",
@@ -203,40 +203,40 @@
         "titleOriginal": "Dav2d",
         "url": "https://jbkempf.com/blog/2026/dav2d/",
         "source": "jbkempf.com",
-        "score": 130,
-        "comments": 32,
+        "score": 235,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=48344961",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "La contre-pression est tout ce dont vous avez besoin",
-        "titleOriginal": "Backpressure is all you need",
-        "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
-        "source": "lucasfcosta.com",
-        "score": 23,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48345090",
-        "date": "il y a 1 h"
+        "title": "Tourniquet Cloudflare nécessitant une prise d'empreintes digitales WebGL",
+        "titleOriginal": "Cloudflare Turnstile requiring fingerprintable WebGL",
+        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+        "source": "hacktivis.me",
+        "score": 48,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48345840",
+        "date": "il y a 47 min"
       },
       {
         "title": "Le cahier des charges du site",
         "titleOriginal": "The Website Specification",
         "url": "https://specification.website/",
         "source": "specification.website",
-        "score": 263,
-        "comments": 103,
+        "score": 310,
+        "comments": 128,
         "hnUrl": "https://news.ycombinator.com/item?id=48343683",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Terrasses gratuites sur le toit de Londres",
         "titleOriginal": "London's Free Roof Terraces",
         "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
         "source": "diamondgeezer.blogspot.com",
-        "score": 141,
-        "comments": 62,
+        "score": 174,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=48343714",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
