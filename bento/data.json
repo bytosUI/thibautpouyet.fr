@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-31T07:56:13.428Z",
+  "updatedAt": "2026-05-31T10:13:17.325Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 23,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 12,
-      "humidity": 62
+      "wind": 15,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -24,14 +24,14 @@
       },
       {
         "date": "2026-06-02",
-        "code": 80,
+        "code": 95,
         "tmax": 20,
         "tmin": 14
       },
       {
         "date": "2026-06-03",
-        "code": 3,
-        "tmax": 22,
+        "code": 80,
+        "tmax": 20,
         "tmin": 12
       }
     ]
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "BOUALEM SANSAL : DE L’ENFER DES PRISONS ALGÉRIENNES À LA FIN DE LA DÉMOCRATIE FRANÇAISE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "UtbLzlGZ_uI",
+        "thumbnail": "https://i.ytimg.com/vi/UtbLzlGZ_uI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UtbLzlGZ_uI",
+        "publishedAt": "2026-05-31T09:00:07+00:00"
+      },
+      {
+        "title": "Quel est le prix de ta liberté ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lmOxfaybT1I",
+        "thumbnail": "https://i.ytimg.com/vi/lmOxfaybT1I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lmOxfaybT1I",
+        "publishedAt": "2026-05-31T08:44:02+00:00"
+      },
+      {
         "title": "Sam Altman vend l'antidote qu'il a lui-même créé ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -68,24 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/kuDwedHreKE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kuDwedHreKE",
         "publishedAt": "2026-05-30T16:05:07+00:00"
-      },
-      {
-        "title": "ON VIVRA JUSQU'À 1000 ANS GRÂCE À L'IA",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ibSHnRGtMnU",
-        "thumbnail": "https://i.ytimg.com/vi/ibSHnRGtMnU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ibSHnRGtMnU",
-        "publishedAt": "2026-05-30T15:00:32+00:00"
-      },
-      {
-        "title": "Les métiers que l'IA va effacer",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "LeVjX1M1_e4",
-        "thumbnail": "https://i.ytimg.com/vi/LeVjX1M1_e4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LeVjX1M1_e4",
-        "publishedAt": "2026-05-30T13:00:32+00:00"
       },
       {
         "title": "Je me mets enfin à Claude Cowork (vlog à Busan 🇰🇷)",
@@ -203,40 +203,40 @@
         "titleOriginal": "The Website Specification",
         "url": "https://specification.website/",
         "source": "specification.website",
-        "score": 52,
-        "comments": 14,
+        "score": 152,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=48343683",
-        "date": "il y a 46 min"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Terrasses gratuites sur le toit de Londres",
+        "titleOriginal": "London's Free Roof Terraces",
+        "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
+        "source": "diamondgeezer.blogspot.com",
+        "score": 50,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48343714",
+        "date": "il y a 2 h"
       },
       {
         "title": "L'expertise du domaine a toujours été le vrai fossé",
         "titleOriginal": "Domain expertise has always been the real moat",
         "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
         "source": "brethorsting.com",
-        "score": 527,
-        "comments": 311,
+        "score": 594,
+        "comments": 351,
         "hnUrl": "https://news.ycombinator.com/item?id=48340411",
-        "date": "il y a 11 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "Une douce introduction à la cryptographie basée sur les treillis [pdf]",
-        "titleOriginal": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-        "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
-        "source": "cryptography101.ca",
-        "score": 66,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48318624",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Ahoy, DECmate II le petit PDP-8 qui pourrait",
-        "titleOriginal": "Ahoy, DECmate II the little PDP-8 that could",
-        "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
-        "source": "oldvcr.blogspot.com",
-        "score": 30,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48343078",
-        "date": "il y a 3 h"
+        "title": "L'illusion dangereuse de la guerre moderne",
+        "titleOriginal": "The dangerous delusion of modern warfare",
+        "url": "https://economist.com/interactive/essay/2026/05/28/the-dangerous-delusion-of-modern-warfare",
+        "source": "economist.com",
+        "score": 16,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48344016",
+        "date": "il y a 1 h"
       }
     ]
   },
