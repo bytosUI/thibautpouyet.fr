@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-31T11:55:21.885Z",
+  "updatedAt": "2026-05-31T13:26:20.420Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
-      "feelsLike": 23,
+      "feelsLike": 21,
       "code": 3,
-      "wind": 15,
-      "humidity": 41
+      "wind": 19,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "INCARCÉRÉ EN ALGÉRIE, IL FAIT UNE EXPÉRIENCE DE MORT IMMINENTE",
+        "title": "À 100 DANS UNE CELLULE DU COULOIR DE LA MORT EN ALGÉRIE, IL RACONTE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "699vIHza3WI",
-        "thumbnail": "https://i.ytimg.com/vi/699vIHza3WI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=699vIHza3WI",
-        "publishedAt": "2026-05-31T11:00:17+00:00"
+        "videoId": "Kj1JAkMN9u0",
+        "thumbnail": "https://i.ytimg.com/vi/Kj1JAkMN9u0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Kj1JAkMN9u0",
+        "publishedAt": "2026-05-31T13:00:02+00:00"
       },
       {
-        "title": "Quel est le prix de ta liberté ?",
+        "title": "Devenir père : un moment où tout bascule !",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "lmOxfaybT1I",
-        "thumbnail": "https://i.ytimg.com/vi/lmOxfaybT1I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lmOxfaybT1I",
-        "publishedAt": "2026-05-31T08:44:02+00:00"
+        "videoId": "08SqDKU7FjY",
+        "thumbnail": "https://i.ytimg.com/vi/08SqDKU7FjY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=08SqDKU7FjY",
+        "publishedAt": "2026-05-31T12:00:23+00:00"
       },
       {
         "title": "Sam Altman vend l'antidote qu'il a lui-même créé ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Dav2d",
+        "titleOriginal": "Dav2d",
+        "url": "https://jbkempf.com/blog/2026/dav2d/",
+        "source": "jbkempf.com",
+        "score": 130,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48344961",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "La contre-pression est tout ce dont vous avez besoin",
+        "titleOriginal": "Backpressure is all you need",
+        "url": "https://www.lucasfcosta.com/blog/backpressure-is-all-you-need",
+        "source": "lucasfcosta.com",
+        "score": 23,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48345090",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Le cahier des charges du site",
         "titleOriginal": "The Website Specification",
         "url": "https://specification.website/",
         "source": "specification.website",
-        "score": 216,
-        "comments": 85,
+        "score": 263,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=48343683",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Terrasses gratuites sur le toit de Londres",
         "titleOriginal": "London's Free Roof Terraces",
         "url": "https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html",
         "source": "diamondgeezer.blogspot.com",
-        "score": 108,
-        "comments": 30,
+        "score": 141,
+        "comments": 62,
         "hnUrl": "https://news.ycombinator.com/item?id=48343714",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "L'expertise du domaine a toujours été le vrai fossé",
-        "titleOriginal": "Domain expertise has always been the real moat",
-        "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-        "source": "brethorsting.com",
-        "score": 642,
-        "comments": 392,
-        "hnUrl": "https://news.ycombinator.com/item?id=48340411",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Collection Security Envelope Pattern – S.E.C.R.E.T",
-        "titleOriginal": "Security Envelope Pattern collection – S.E.C.R.E.T",
-        "url": "https://secret-archive.org/",
-        "source": "secret-archive.org",
-        "score": 15,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48321089",
-        "date": "il y a 2 j"
+        "date": "il y a 6 h"
       }
     ]
   },
