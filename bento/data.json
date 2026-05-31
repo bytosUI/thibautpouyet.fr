@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-05-31T04:11:29.492Z",
+  "updatedAt": "2026-05-31T07:56:13.428Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
+      "temp": 20,
       "feelsLike": 19,
-      "code": 80,
-      "wind": 8,
-      "humidity": 76
+      "code": 3,
+      "wind": 12,
+      "humidity": 62
     },
     "forecast": [
       {
         "date": "2026-05-31",
-        "code": 95,
+        "code": 80,
         "tmax": 24,
         "tmin": 17
       },
       {
         "date": "2026-06-01",
-        "code": 45,
-        "tmax": 24,
-        "tmin": 12
+        "code": 3,
+        "tmax": 25,
+        "tmin": 11
       },
       {
         "date": "2026-06-02",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Microsoft dégrade la fonctionnalité des produits hors ligne sous licence perpétuelle",
-        "titleOriginal": "Microsoft degrades functionality of perpetually-licensed offline products",
-        "url": "https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026)",
-        "source": "consumerrights.wiki",
-        "score": 582,
-        "comments": 189,
-        "hnUrl": "https://news.ycombinator.com/item?id=48341578",
-        "date": "il y a 4 h"
+        "title": "Le cahier des charges du site",
+        "titleOriginal": "The Website Specification",
+        "url": "https://specification.website/",
+        "source": "specification.website",
+        "score": 52,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48343683",
+        "date": "il y a 46 min"
       },
       {
         "title": "L'expertise du domaine a toujours été le vrai fossé",
         "titleOriginal": "Domain expertise has always been the real moat",
         "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
         "source": "brethorsting.com",
-        "score": 354,
-        "comments": 216,
+        "score": 527,
+        "comments": 311,
         "hnUrl": "https://news.ycombinator.com/item?id=48340411",
-        "date": "il y a 7 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Shantell Sans (2023)",
-        "titleOriginal": "Shantell Sans (2023)",
-        "url": "https://shantellsans.com/process",
-        "source": "shantellsans.com",
-        "score": 135,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48341062",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Racket v9.2 est maintenant disponible",
-        "titleOriginal": "Racket v9.2 is now available",
-        "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
-        "source": "blog.racket-lang.org",
-        "score": 57,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48306713",
+        "title": "Une douce introduction à la cryptographie basée sur les treillis [pdf]",
+        "titleOriginal": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+        "url": "https://cryptography101.ca/wp-content/uploads/lattice-based-cryptography.pdf",
+        "source": "cryptography101.ca",
+        "score": 66,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48318624",
         "date": "il y a 2 j"
+      },
+      {
+        "title": "Ahoy, DECmate II le petit PDP-8 qui pourrait",
+        "titleOriginal": "Ahoy, DECmate II the little PDP-8 that could",
+        "url": "http://oldvcr.blogspot.com/2026/05/ahoy-decmate-ii-little-pdp-8-that-could.html",
+        "source": "oldvcr.blogspot.com",
+        "score": 30,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48343078",
+        "date": "il y a 3 h"
       }
     ]
   },
