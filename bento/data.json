@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-31T19:16:48.965Z",
+  "updatedAt": "2026-05-31T20:36:09.617Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
+      "temp": 19,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 7,
-      "humidity": 61
+      "wind": 8,
+      "humidity": 71
     },
     "forecast": [
       {
@@ -19,13 +19,13 @@
       {
         "date": "2026-06-01",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 12
       },
       {
         "date": "2026-06-02",
         "code": 95,
-        "tmax": 21,
+        "tmax": 20,
         "tmin": 14
       },
       {
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La créatine augmente les niveaux d'énergie cérébrale et ralentit le déclin cognitif d'Alzheimer de 30 %",
-        "titleOriginal": "Creatine raise brain energy levels and slow Alzheimer's cognitive decline by 30%",
-        "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-        "source": "thesciverse.org",
-        "score": 262,
-        "comments": 179,
-        "hnUrl": "https://news.ycombinator.com/item?id=48346947",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Tourniquet Cloudflare nécessitant une prise d'empreintes digitales WebGL",
         "titleOriginal": "Cloudflare Turnstile requiring fingerprintable WebGL",
         "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
         "source": "hacktivis.me",
-        "score": 293,
-        "comments": 159,
+        "score": 350,
+        "comments": 197,
         "hnUrl": "https://news.ycombinator.com/item?id=48345840",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Génération d'image Bonsaï 1 bit 4B pour les appareils locaux",
         "titleOriginal": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
         "url": "https://prismml.com/news/bonsai-image-4b",
         "source": "prismml.com",
-        "score": 146,
-        "comments": 52,
+        "score": 184,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=48346257",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Dav2d",
         "titleOriginal": "Dav2d",
         "url": "https://jbkempf.com/blog/2026/dav2d/",
         "source": "jbkempf.com",
-        "score": 332,
-        "comments": 110,
+        "score": 355,
+        "comments": 122,
         "hnUrl": "https://news.ycombinator.com/item?id=48344961",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "La créatine augmente les niveaux d'énergie cérébrale et ralentit le déclin cognitif : étude",
+        "titleOriginal": "Creatine raises brain energy levels and slows cognitive decline: study",
+        "url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
+        "source": "thesciverse.org",
+        "score": 331,
+        "comments": 238,
+        "hnUrl": "https://news.ycombinator.com/item?id=48346947",
+        "date": "il y a 4 h"
       }
     ]
   },
