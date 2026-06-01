@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-01T00:03:35.493Z",
+  "updatedAt": "2026-06-01T05:23:43.301Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
-      "code": 1,
-      "wind": 8,
-      "humidity": 73
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 3,
+      "wind": 3,
+      "humidity": 85
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-06-02",
-        "code": 96,
-        "tmax": 20,
-        "tmin": 14
+        "code": 95,
+        "tmax": 21,
+        "tmin": 15
       },
       {
         "date": "2026-06-03",
-        "code": 80,
+        "code": 95,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-06-04",
-        "code": 80,
+        "code": 95,
         "tmax": 20,
-        "tmin": 14
+        "tmin": 15
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Chuwi Minibook X : le netbook que nous méritons",
-        "titleOriginal": "Chuwi Minibook X: the netbook we deserve",
+        "title": "Chuwi Minibook X",
+        "titleOriginal": "Chuwi Minibook X",
         "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
         "source": "tylercipriani.com",
-        "score": 29,
-        "comments": 22,
+        "score": 145,
+        "comments": 124,
         "hnUrl": "https://news.ycombinator.com/item?id=48350598",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Tourniquet Cloudflare nécessitant une prise d'empreintes digitales WebGL",
         "titleOriginal": "Cloudflare Turnstile requiring fingerprintable WebGL",
         "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
         "source": "hacktivis.me",
-        "score": 473,
-        "comments": 262,
+        "score": 585,
+        "comments": 328,
         "hnUrl": "https://news.ycombinator.com/item?id=48345840",
-        "date": "il y a 9 h"
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Des décennies d'efforts pour restaurer le passage de la truite arc-en-ciel et du saumon sur le ruisseau Alameda",
+        "titleOriginal": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+        "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+        "source": "fisheries.noaa.gov",
+        "score": 62,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48327453",
+        "date": "il y a 2 j"
       },
       {
         "title": "Génération d'image Bonsaï 1 bit 4B pour les appareils locaux",
         "titleOriginal": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
         "url": "https://prismml.com/news/bonsai-image-4b",
         "source": "prismml.com",
-        "score": 259,
-        "comments": 92,
+        "score": 334,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=48346257",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Claviers à ressort New Beam",
-        "titleOriginal": "New Beam Spring Keyboards",
-        "url": "https://www.modelfkeyboards.com/product/beam-spring-b104-keyboard/",
-        "source": "modelfkeyboards.com",
-        "score": 38,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48322984",
-        "date": "il y a 2 j"
+        "date": "il y a 14 h"
       }
     ]
   },
