@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-01T20:53:00.246Z",
+  "updatedAt": "2026-06-01T22:59:06.106Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
+      "temp": 17,
+      "feelsLike": 17,
       "code": 3,
-      "wind": 2,
-      "humidity": 50
+      "wind": 4,
+      "humidity": 66
     },
     "forecast": [
       {
-        "date": "2026-06-01",
-        "code": 3,
-        "tmax": 25,
-        "tmin": 12
-      },
-      {
         "date": "2026-06-02",
-        "code": 95,
+        "code": 96,
         "tmax": 20,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-06-03",
         "code": 80,
         "tmax": 21,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-06-04",
         "code": 80,
-        "tmax": 21,
+        "tmax": 19,
         "tmin": 14
+      },
+      {
+        "date": "2026-06-05",
+        "code": 3,
+        "tmax": 20,
+        "tmin": 11
       }
     ]
   },
@@ -41,18 +41,10 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Tour de France 2026",
-        "viewers": 7902,
+        "game": "Cochonnet",
+        "viewers": 4184,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "EMPIRE IN DECAY",
-        "viewers": 132,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
@@ -60,6 +52,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -218,40 +211,40 @@
         "titleOriginal": "The newest Instagram “exploit” is the goofiest I've seen",
         "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
         "source": "0xsid.com",
-        "score": 850,
-        "comments": 208,
+        "score": 1138,
+        "comments": 276,
         "hnUrl": "https://news.ycombinator.com/item?id=48359102",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "La Floride poursuit OpenAI et Sam Altman pour des risques liés à l'IA",
-        "titleOriginal": "Florida sues OpenAI and Sam Altman over AI risks",
-        "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
-        "source": "politico.com",
-        "score": 74,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=48358667",
-        "date": "il y a 4 h"
+        "title": "Projet de débogage",
+        "titleOriginal": "Debug Project",
+        "url": "https://debug.com/",
+        "source": "debug.com",
+        "score": 93,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48362347",
+        "date": "il y a 2 h"
       },
       {
         "title": "Directives pour les agents IA pour CS336 à Stanford",
         "titleOriginal": "AI Agent Guidelines for CS336 at Stanford",
         "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
         "source": "github.com",
-        "score": 204,
-        "comments": 91,
+        "score": 270,
+        "comments": 106,
         "hnUrl": "https://news.ycombinator.com/item?id=48359232",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Devriez-vous normaliser les valeurs RVB par 255 ou 256 ?",
         "titleOriginal": "Should you normalize RGB values by 255 or 256?",
         "url": "https://30fps.net/pages/255-vs-256-division/",
         "source": "30fps.net",
-        "score": 92,
-        "comments": 37,
+        "score": 151,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48360054",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       }
     ]
   },
