@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-01T05:23:43.301Z",
+  "updatedAt": "2026-06-01T10:36:51.288Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
+      "temp": 22,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 3,
-      "humidity": 85
+      "wind": 5,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -24,23 +24,31 @@
       },
       {
         "date": "2026-06-03",
-        "code": 95,
-        "tmax": 21,
-        "tmin": 13
+        "code": 80,
+        "tmax": 22,
+        "tmin": 12
       },
       {
         "date": "2026-06-04",
-        "code": 95,
+        "code": 80,
         "tmax": 20,
-        "tmin": 15
+        "tmin": 13
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 553,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "DE GAUCHE MAIS CATÉGORISÉ D’EXTRÊME-DROITE ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "WW2rNauv27g",
+        "thumbnail": "https://i.ytimg.com/vi/WW2rNauv27g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WW2rNauv27g",
+        "publishedAt": "2026-06-01T10:00:16+00:00"
+      },
+      {
         "title": "Je fais du thrifting à Séoul 🇰🇷 (et on m'offre des trucs)",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/xAi8oXE9-vY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xAi8oXE9-vY",
         "publishedAt": "2026-05-31T16:00:41+00:00"
-      },
-      {
-        "title": "LE PEUPLE ET LE PRÉSIDENT N'ONT PLUS DE POUVOIR !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "6jNaTXMfb6M",
-        "thumbnail": "https://i.ytimg.com/vi/6jNaTXMfb6M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6jNaTXMfb6M",
-        "publishedAt": "2026-05-31T15:00:10+00:00"
       },
       {
         "title": "Devenir père : un moment où tout bascule !",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Un Xeon de 10 ans est tout ce dont vous avez besoin",
+        "titleOriginal": "A 10 year old Xeon is all you need",
+        "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+        "source": "point.free",
+        "score": 131,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=48353348",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Chuwi Minibook X",
         "titleOriginal": "Chuwi Minibook X",
         "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
         "source": "tylercipriani.com",
-        "score": 145,
-        "comments": 124,
+        "score": 291,
+        "comments": 213,
         "hnUrl": "https://news.ycombinator.com/item?id=48350598",
-        "date": "il y a 6 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Tourniquet Cloudflare nécessitant une prise d'empreintes digitales WebGL",
-        "titleOriginal": "Cloudflare Turnstile requiring fingerprintable WebGL",
-        "url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-        "source": "hacktivis.me",
-        "score": 585,
-        "comments": 328,
-        "hnUrl": "https://news.ycombinator.com/item?id=48345840",
-        "date": "il y a 15 h"
+        "title": "Suivi des requêtes HTTP avec le réseau/HTTP /race de Go",
+        "titleOriginal": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
+        "url": "https://blainsmith.com/articles/httptrace-with-go/",
+        "source": "blainsmith.com",
+        "score": 21,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48311587",
+        "date": "il y a 3 j"
       },
       {
-        "title": "Des décennies d'efforts pour restaurer le passage de la truite arc-en-ciel et du saumon sur le ruisseau Alameda",
-        "titleOriginal": "Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
-        "url": "https://www.fisheries.noaa.gov/feature-story/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
-        "source": "fisheries.noaa.gov",
-        "score": 62,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48327453",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Génération d'image Bonsaï 1 bit 4B pour les appareils locaux",
-        "titleOriginal": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-        "url": "https://prismml.com/news/bonsai-image-4b",
-        "source": "prismml.com",
-        "score": 334,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=48346257",
-        "date": "il y a 14 h"
+        "title": "Cessation du développement public du compilateur Kefir C",
+        "titleOriginal": "Cessation of public development of Kefir C compiler",
+        "url": "https://kefir.protopopov.lv/posts/announce2.html",
+        "source": "kefir.protopopov.lv",
+        "score": 25,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48354224",
+        "date": "il y a 1 h"
       }
     ]
   },
