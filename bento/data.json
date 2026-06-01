@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-01T16:34:26.251Z",
+  "updatedAt": "2026-06-01T20:53:00.246Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 23,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 8,
-      "humidity": 36
+      "wind": 2,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-06-02",
-        "code": 80,
-        "tmax": 21,
-        "tmin": 14
+        "code": 95,
+        "tmax": 20,
+        "tmin": 16
       },
       {
         "date": "2026-06-03",
         "code": 80,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-06-04",
@@ -37,14 +37,29 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Tour de France 2026",
+        "viewers": 7902,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "EMPIRE IN DECAY",
+        "viewers": 132,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -143,16 +158,16 @@
         "url": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "title": "The Mandalorian and Grogu",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg",
-        "url": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
         "title": "Mortal Kombat II",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "title": "The Mandalorian and Grogu",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg",
+        "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
         "title": "കാട്ടാളൻ",
@@ -199,43 +214,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "La saleté qui refusait de mourir",
-        "titleOriginal": "The Dirt That Refused to Die",
-        "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
-        "source": "quantamagazine.org",
-        "score": 47,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48357905",
-        "date": "il y a 1 h"
+        "title": "Le plus récent « exploit » Instagram est le plus loufoque que j'ai vu",
+        "titleOriginal": "The newest Instagram “exploit” is the goofiest I've seen",
+        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+        "source": "0xsid.com",
+        "score": 850,
+        "comments": 208,
+        "hnUrl": "https://news.ycombinator.com/item?id=48359102",
+        "date": "il y a 4 h"
       },
       {
-        "title": "CS336 : Modélisation linguistique à partir de zéro",
-        "titleOriginal": "CS336: Language Modeling from Scratch",
-        "url": "https://cs336.stanford.edu/",
-        "source": "cs336.stanford.edu",
-        "score": 110,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48357075",
-        "date": "il y a 2 h"
+        "title": "La Floride poursuit OpenAI et Sam Altman pour des risques liés à l'IA",
+        "titleOriginal": "Florida sues OpenAI and Sam Altman over AI risks",
+        "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+        "source": "politico.com",
+        "score": 74,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=48358667",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Pouvez-vous arrêter un missile hypersonique ?",
-        "titleOriginal": "Can You Stop a Hypersonic Missile?",
-        "url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
-        "source": "protortyp.github.io",
-        "score": 18,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48358515",
-        "date": "il y a 42 min"
-      },
-      {
-        "title": "Paquets npm malveillants détectés dans Red Hat Cloud Services",
-        "titleOriginal": "Malicious npm packages detected across Red Hat Cloud Services",
-        "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+        "title": "Directives pour les agents IA pour CS336 à Stanford",
+        "titleOriginal": "AI Agent Guidelines for CS336 at Stanford",
+        "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
         "source": "github.com",
-        "score": 576,
-        "comments": 295,
-        "hnUrl": "https://news.ycombinator.com/item?id=48356625",
+        "score": 204,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=48359232",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Devriez-vous normaliser les valeurs RVB par 255 ou 256 ?",
+        "titleOriginal": "Should you normalize RGB values by 255 or 256?",
+        "url": "https://30fps.net/pages/255-vs-256-division/",
+        "source": "30fps.net",
+        "score": 92,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=48360054",
         "date": "il y a 3 h"
       }
     ]
