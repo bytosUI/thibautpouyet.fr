@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-01T10:36:51.288Z",
+  "updatedAt": "2026-06-01T16:34:26.251Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 25,
       "feelsLike": 23,
       "code": 3,
-      "wind": 5,
-      "humidity": 46
+      "wind": 8,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -18,37 +18,29 @@
       },
       {
         "date": "2026-06-02",
-        "code": 95,
+        "code": 80,
         "tmax": 21,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-06-03",
         "code": 80,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 12
       },
       {
         "date": "2026-06-04",
         "code": 80,
-        "tmax": 20,
-        "tmin": 13
+        "tmax": 21,
+        "tmin": 14
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 553,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "DE GAUCHE MAIS CATÉGORISÉ D’EXTRÊME-DROITE ?",
+        "title": "COMMENT IL A APPRIS À SE FAIRE RESPECTER EN PRISON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "WW2rNauv27g",
-        "thumbnail": "https://i.ytimg.com/vi/WW2rNauv27g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WW2rNauv27g",
-        "publishedAt": "2026-06-01T10:00:16+00:00"
+        "videoId": "0j-drPPz4xI",
+        "thumbnail": "https://i.ytimg.com/vi/0j-drPPz4xI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0j-drPPz4xI",
+        "publishedAt": "2026-06-01T16:00:12+00:00"
+      },
+      {
+        "title": "Nos chips sont dispos. On vous raconte tout.",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "gUkGUVIY-p4",
+        "thumbnail": "https://i.ytimg.com/vi/gUkGUVIY-p4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gUkGUVIY-p4",
+        "publishedAt": "2026-06-01T14:31:38+00:00"
       },
       {
         "title": "Je fais du thrifting à Séoul 🇰🇷 (et on m'offre des trucs)",
@@ -94,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/MvnRqTGcoS8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MvnRqTGcoS8",
         "publishedAt": "2026-05-30T17:01:17+00:00"
-      },
-      {
-        "title": "2h pour résoudre ce Rubik’s Cube…(ft @victorcolin3656)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "kuDwedHreKE",
-        "thumbnail": "https://i.ytimg.com/vi/kuDwedHreKE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kuDwedHreKE",
-        "publishedAt": "2026-05-30T16:05:07+00:00"
       },
       {
         "title": "Tout le monde déteste Joyca à juste titre 😂",
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un Xeon de 10 ans est tout ce dont vous avez besoin",
-        "titleOriginal": "A 10 year old Xeon is all you need",
-        "url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-        "source": "point.free",
-        "score": 131,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=48353348",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Chuwi Minibook X",
-        "titleOriginal": "Chuwi Minibook X",
-        "url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
-        "source": "tylercipriani.com",
-        "score": 291,
-        "comments": 213,
-        "hnUrl": "https://news.ycombinator.com/item?id=48350598",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Suivi des requêtes HTTP avec le réseau/HTTP /race de Go",
-        "titleOriginal": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-        "url": "https://blainsmith.com/articles/httptrace-with-go/",
-        "source": "blainsmith.com",
-        "score": 21,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48311587",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Cessation du développement public du compilateur Kefir C",
-        "titleOriginal": "Cessation of public development of Kefir C compiler",
-        "url": "https://kefir.protopopov.lv/posts/announce2.html",
-        "source": "kefir.protopopov.lv",
-        "score": 25,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48354224",
+        "title": "La saleté qui refusait de mourir",
+        "titleOriginal": "The Dirt That Refused to Die",
+        "url": "https://www.quantamagazine.org/the-dirt-that-refused-to-die-20260601/",
+        "source": "quantamagazine.org",
+        "score": 47,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48357905",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "CS336 : Modélisation linguistique à partir de zéro",
+        "titleOriginal": "CS336: Language Modeling from Scratch",
+        "url": "https://cs336.stanford.edu/",
+        "source": "cs336.stanford.edu",
+        "score": 110,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48357075",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Pouvez-vous arrêter un missile hypersonique ?",
+        "titleOriginal": "Can You Stop a Hypersonic Missile?",
+        "url": "https://protortyp.github.io/posts/can-you-stop-a-hypersonic/",
+        "source": "protortyp.github.io",
+        "score": 18,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48358515",
+        "date": "il y a 42 min"
+      },
+      {
+        "title": "Paquets npm malveillants détectés dans Red Hat Cloud Services",
+        "titleOriginal": "Malicious npm packages detected across Red Hat Cloud Services",
+        "url": "https://github.com/RedHatInsights/javascript-clients/issues/492",
+        "source": "github.com",
+        "score": 576,
+        "comments": 295,
+        "hnUrl": "https://news.ycombinator.com/item?id=48356625",
+        "date": "il y a 3 h"
       }
     ]
   },
