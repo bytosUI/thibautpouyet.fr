@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-06-02T21:29:03.471Z",
+  "updatedAt": "2026-06-02T23:16:16.271Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
+      "temp": 13,
+      "feelsLike": 12,
       "code": 3,
-      "wind": 8,
-      "humidity": 80
+      "wind": 12,
+      "humidity": 81
     },
     "forecast": [
-      {
-        "date": "2026-06-02",
-        "code": 95,
-        "tmax": 21,
-        "tmin": 14
-      },
       {
         "date": "2026-06-03",
         "code": 80,
         "tmax": 22,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-06-04",
@@ -30,27 +24,25 @@
       },
       {
         "date": "2026-06-05",
-        "code": 80,
+        "code": 3,
         "tmax": 21,
         "tmin": 11
+      },
+      {
+        "date": "2026-06-06",
+        "code": 61,
+        "tmax": 22,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Special Events",
-        "viewers": 727,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      },
-      {
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 53,
+        "viewers": 88,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -61,6 +53,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam"
     ]
   },
@@ -218,40 +211,40 @@
         "titleOriginal": "MAI-Code-1-Flash",
         "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
         "source": "microsoft.ai",
-        "score": 252,
-        "comments": 121,
+        "score": 324,
+        "comments": 151,
         "hnUrl": "https://news.ycombinator.com/item?id=48374466",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Gmail pense que je suis stupide, alors je suis parti",
-        "titleOriginal": "Gmail thinks I'm stupid, so I left",
-        "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-        "source": "moddedbear.com",
-        "score": 343,
-        "comments": 180,
-        "hnUrl": "https://news.ycombinator.com/item?id=48375016",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "MAI-Thinking-1",
-        "titleOriginal": "MAI-Thinking-1",
-        "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
-        "source": "microsoft.ai",
-        "score": 114,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=48374362",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Tomodensitométrie des pièces de voiture BYD",
         "titleOriginal": "CT scans of BYD car parts",
         "url": "https://www.lumafield.com/scan-of-the-month/byd",
         "source": "lumafield.com",
-        "score": 43,
-        "comments": 8,
+        "score": 135,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=48375824",
-        "date": "il y a 58 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Le système universitaire californien a misé sur l'IA, maintenant il se déchire",
+        "titleOriginal": "California’s university system went all in on AI, now it's tearing itself apart",
+        "url": "https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html",
+        "source": "nytimes.com",
+        "score": 25,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48367223",
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Gmail pense que je suis stupide, alors je suis parti",
+        "titleOriginal": "Gmail thinks I'm stupid, so I left",
+        "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+        "source": "moddedbear.com",
+        "score": 501,
+        "comments": 292,
+        "hnUrl": "https://news.ycombinator.com/item?id=48375016",
+        "date": "il y a 3 h"
       }
     ]
   },
