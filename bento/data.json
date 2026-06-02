@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-01T22:59:06.106Z",
+  "updatedAt": "2026-06-02T00:17:48.203Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 17,
       "feelsLike": 17,
       "code": 3,
-      "wind": 4,
-      "humidity": 66
+      "wind": 5,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Cochonnet",
-        "viewers": 4184,
+        "viewers": 3125,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -211,19 +211,29 @@
         "titleOriginal": "The newest Instagram “exploit” is the goofiest I've seen",
         "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
         "source": "0xsid.com",
-        "score": 1138,
-        "comments": 276,
+        "score": 1239,
+        "comments": 308,
         "hnUrl": "https://news.ycombinator.com/item?id=48359102",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Projet de débogage",
         "titleOriginal": "Debug Project",
         "url": "https://debug.com/",
         "source": "debug.com",
-        "score": 93,
-        "comments": 40,
+        "score": 129,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=48362347",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Les modèles OpenAI frontier et Codex sont maintenant disponibles sur AWS",
+        "titleOriginal": "OpenAI frontier models and Codex are now available on AWS",
+        "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+        "source": "openai.com",
+        "score": 57,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48363132",
         "date": "il y a 2 h"
       },
       {
@@ -231,20 +241,10 @@
         "titleOriginal": "AI Agent Guidelines for CS336 at Stanford",
         "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
         "source": "github.com",
-        "score": 270,
-        "comments": 106,
+        "score": 303,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=48359232",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Devriez-vous normaliser les valeurs RVB par 255 ou 256 ?",
-        "titleOriginal": "Should you normalize RGB values by 255 or 256?",
-        "url": "https://30fps.net/pages/255-vs-256-division/",
-        "source": "30fps.net",
-        "score": 151,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48360054",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       }
     ]
   },
