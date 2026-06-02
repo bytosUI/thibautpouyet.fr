@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-02T13:56:54.756Z",
+  "updatedAt": "2026-06-02T18:04:32.114Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
-      "code": 95,
-      "wind": 20,
-      "humidity": 79
+      "temp": 17,
+      "feelsLike": 16,
+      "code": 80,
+      "wind": 8,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -24,30 +24,22 @@
       },
       {
         "date": "2026-06-04",
-        "code": 80,
-        "tmax": 21,
+        "code": 95,
+        "tmax": 22,
         "tmin": 15
       },
       {
         "date": "2026-06-05",
-        "code": 3,
-        "tmax": 20,
+        "code": 80,
+        "tmax": 21,
         "tmin": 11
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Teamfight Manager 2",
-        "viewers": 6561,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -59,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "L'IA peut-elle vraiment remplacer un doctorat en bio ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "YCE-95-YJZ0",
+        "thumbnail": "https://i.ytimg.com/vi/YCE-95-YJZ0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YCE-95-YJZ0",
+        "publishedAt": "2026-06-02T15:01:06+00:00"
+      },
       {
         "title": "COMMENT AVOIR DES RELATIONS S*XUELLES QUAND ON PÈSE 257 KG ?",
         "channel": "LEGEND",
@@ -94,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/xAi8oXE9-vY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xAi8oXE9-vY",
         "publishedAt": "2026-05-31T16:00:41+00:00"
-      },
-      {
-        "title": "Sam Altman vend l'antidote qu'il a lui-même créé ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "MvnRqTGcoS8",
-        "thumbnail": "https://i.ytimg.com/vi/MvnRqTGcoS8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MvnRqTGcoS8",
-        "publishedAt": "2026-05-30T17:01:17+00:00"
       },
       {
         "title": "Tout le monde déteste Joyca à juste titre 😂",
@@ -151,6 +143,12 @@
         "url": "https://www.themoviedb.org/movie/1339713"
       },
       {
+        "title": "കാട്ടാളൻ",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+        "url": "https://www.themoviedb.org/movie/1065834"
+      },
+      {
         "title": "Mortal Kombat II",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
@@ -161,12 +159,6 @@
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg",
         "url": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
-        "title": "കാട്ടാളൻ",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
-        "url": "https://www.themoviedb.org/movie/1065834"
       },
       {
         "title": "Michael",
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pourquoi Janet ? (2023)",
-        "titleOriginal": "Why Janet? (2023)",
-        "url": "https://ianthehenry.com/posts/why-janet/",
-        "source": "ianthehenry.com",
-        "score": 247,
-        "comments": 114,
-        "hnUrl": "https://news.ycombinator.com/item?id=48367907",
+        "title": "Visite à pied de l'infrastructure de surveillance à Seattle",
+        "titleOriginal": "A walking tour of surveillance infrastructure in Seattle",
+        "url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+        "source": "coveillance.org",
+        "score": 209,
+        "comments": 99,
+        "hnUrl": "https://news.ycombinator.com/item?id=48369980",
         "date": "il y a 4 h"
       },
       {
-        "title": "Adafruit reçoit une lettre de demande du conseiller juridique de Fenwick au nom de Flux.ai",
-        "titleOriginal": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-        "url": "https://blog.adafruit.com/",
-        "source": "blog.adafruit.com",
-        "score": 253,
-        "comments": 85,
-        "hnUrl": "https://news.ycombinator.com/item?id=48368121",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Apple a rejeté mon application de dictée pour avoir utilisé l'API d'accessibilité",
-        "titleOriginal": "Apple rejected my dictation app for using the accessibility API",
-        "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
-        "source": "mitmllc.com",
-        "score": 101,
-        "comments": 62,
-        "hnUrl": "https://news.ycombinator.com/item?id=48369088",
+        "title": "Coreutils pour Windows",
+        "titleOriginal": "Coreutils for Windows",
+        "url": "https://github.com/microsoft/coreutils",
+        "source": "github.com",
+        "score": 93,
+        "comments": 71,
+        "hnUrl": "https://news.ycombinator.com/item?id=48372853",
         "date": "il y a 1 h"
       },
       {
-        "title": "CSS - Effet de parallaxe natif",
-        "titleOriginal": "CSS-Native Parallax Effect",
-        "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
-        "source": "dan-webnotes.com",
-        "score": 65,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=48368291",
-        "date": "il y a 3 h"
+        "title": "Larry Ellison : « Les citoyens auront leur meilleur comportement parce que nous enregistrons »",
+        "titleOriginal": "Larry Ellison: \"Citizens will be on their best behavior because we’re recording\"",
+        "url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
+        "source": "techradar.com",
+        "score": 68,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48373391",
+        "date": "il y a 30 min"
+      },
+      {
+        "title": "Fidonet : Technologie, utilisation, outils et histoire (1993)",
+        "titleOriginal": "Fidonet: Technology, Use, Tools, and History (1993)",
+        "url": "https://www.fidonet.org/inet92_Randy_Bush.txt",
+        "source": "fidonet.org",
+        "score": 99,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48370291",
+        "date": "il y a 4 h"
       }
     ]
   },
