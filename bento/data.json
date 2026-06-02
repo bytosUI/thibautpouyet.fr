@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-02T09:47:13.616Z",
+  "updatedAt": "2026-06-02T13:56:54.756Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 16,
-      "humidity": 65
+      "temp": 18,
+      "feelsLike": 17,
+      "code": 95,
+      "wind": 20,
+      "humidity": 79
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-06-03",
-        "code": 95,
-        "tmax": 21,
-        "tmin": 13
+        "code": 80,
+        "tmax": 22,
+        "tmin": 12
       },
       {
         "date": "2026-06-04",
-        "code": 95,
-        "tmax": 20,
-        "tmin": 14
+        "code": 80,
+        "tmax": 21,
+        "tmin": 15
       },
       {
         "date": "2026-06-05",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Teamfight Manager 2",
+        "viewers": 6561,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "COMMENT AVOIR DES RELATIONS S*XUELLES QUAND ON PÈSE 257 KG ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "v0X9fsYS3h4",
+        "thumbnail": "https://i.ytimg.com/vi/v0X9fsYS3h4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v0X9fsYS3h4",
+        "publishedAt": "2026-06-02T13:00:00+00:00"
+      },
+      {
         "title": "Il faisait 500K sans pub. C'était une erreur.",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/XYc5OzQa6Hg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XYc5OzQa6Hg",
         "publishedAt": "2026-06-02T09:27:29+00:00"
-      },
-      {
-        "title": "IL PÈSE 257 KG, LE QUOTIDIEN D’UN HOMME EN OBÉSITÉ MORBIDE  (S*XUALITÉ, ALIMENTATION, HYGIÈNE…)",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "q-0bXQOJLDY",
-        "thumbnail": "https://i.ytimg.com/vi/q-0bXQOJLDY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q-0bXQOJLDY",
-        "publishedAt": "2026-06-02T09:00:00+00:00"
       },
       {
         "title": "Nos chips sont dispos. On vous raconte tout.",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pourquoi Janet ?",
-        "titleOriginal": "Why Janet?",
+        "title": "Pourquoi Janet ? (2023)",
+        "titleOriginal": "Why Janet? (2023)",
         "url": "https://ianthehenry.com/posts/why-janet/",
         "source": "ianthehenry.com",
-        "score": 14,
-        "comments": 0,
+        "score": 247,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=48367907",
-        "date": "il y a 12 min"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Le plus récent « exploit » Instagram est le plus loufoque que j'ai vu",
-        "titleOriginal": "The newest Instagram “exploit” is the goofiest I've seen",
-        "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-        "source": "0xsid.com",
-        "score": 1800,
-        "comments": 414,
-        "hnUrl": "https://news.ycombinator.com/item?id=48359102",
-        "date": "il y a 17 h"
+        "title": "Adafruit reçoit une lettre de demande du conseiller juridique de Fenwick au nom de Flux.ai",
+        "titleOriginal": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+        "url": "https://blog.adafruit.com/",
+        "source": "blog.adafruit.com",
+        "score": 253,
+        "comments": 85,
+        "hnUrl": "https://news.ycombinator.com/item?id=48368121",
+        "date": "il y a 3 h"
       },
       {
-        "title": "macOS a besoin de retrouver sa grille",
-        "titleOriginal": "macOS needs its grid back",
-        "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-        "source": "blog.hopefullyuseful.com",
-        "score": 254,
-        "comments": 141,
-        "hnUrl": "https://news.ycombinator.com/item?id=48364800",
-        "date": "il y a 8 h"
+        "title": "Apple a rejeté mon application de dictée pour avoir utilisé l'API d'accessibilité",
+        "titleOriginal": "Apple rejected my dictation app for using the accessibility API",
+        "url": "https://www.mitmllc.com/blog/apple-rejected-my-dictation-app/",
+        "source": "mitmllc.com",
+        "score": 101,
+        "comments": 62,
+        "hnUrl": "https://news.ycombinator.com/item?id=48369088",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Le marché boursier peut-il avaler Anthropic, SpaceX et OpenAI ?",
-        "titleOriginal": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-        "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
-        "source": "economist.com",
-        "score": 361,
-        "comments": 629,
-        "hnUrl": "https://news.ycombinator.com/item?id=48364055",
-        "date": "il y a 10 h"
+        "title": "CSS - Effet de parallaxe natif",
+        "titleOriginal": "CSS-Native Parallax Effect",
+        "url": "https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/",
+        "source": "dan-webnotes.com",
+        "score": 65,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48368291",
+        "date": "il y a 3 h"
       }
     ]
   },
