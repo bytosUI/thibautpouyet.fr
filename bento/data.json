@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-02T05:09:08.245Z",
+  "updatedAt": "2026-06-02T09:47:13.616Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 10,
-      "humidity": 73
+      "wind": 16,
+      "humidity": 65
     },
     "forecast": [
       {
         "date": "2026-06-02",
         "code": 95,
-        "tmax": 20,
+        "tmax": 21,
         "tmin": 15
       },
       {
         "date": "2026-06-03",
-        "code": 3,
+        "code": 95,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-06-04",
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Il faisait 500K sans pub. C'était une erreur.",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "XYc5OzQa6Hg",
+        "thumbnail": "https://i.ytimg.com/vi/XYc5OzQa6Hg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XYc5OzQa6Hg",
+        "publishedAt": "2026-06-02T09:27:29+00:00"
+      },
+      {
+        "title": "IL PÈSE 257 KG, LE QUOTIDIEN D’UN HOMME EN OBÉSITÉ MORBIDE  (S*XUALITÉ, ALIMENTATION, HYGIÈNE…)",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "q-0bXQOJLDY",
+        "thumbnail": "https://i.ytimg.com/vi/q-0bXQOJLDY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q-0bXQOJLDY",
+        "publishedAt": "2026-06-02T09:00:00+00:00"
+      },
+      {
+        "title": "Nos chips sont dispos. On vous raconte tout.",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "gUkGUVIY-p4",
+        "thumbnail": "https://i.ytimg.com/vi/gUkGUVIY-p4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gUkGUVIY-p4",
+        "publishedAt": "2026-06-01T14:31:38+00:00"
+      },
+      {
+        "title": "Je fais du thrifting à Séoul 🇰🇷 (et on m'offre des trucs)",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xAi8oXE9-vY",
+        "thumbnail": "https://i.ytimg.com/vi/xAi8oXE9-vY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xAi8oXE9-vY",
+        "publishedAt": "2026-05-31T16:00:41+00:00"
+      },
+      {
+        "title": "Sam Altman vend l'antidote qu'il a lui-même créé ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "MvnRqTGcoS8",
+        "thumbnail": "https://i.ytimg.com/vi/MvnRqTGcoS8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MvnRqTGcoS8",
+        "publishedAt": "2026-05-30T17:01:17+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "Je termine de rénover la petite ruine #21",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hJ80eNKg1iA",
+        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
+        "publishedAt": "2026-05-17T15:17:38+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -117,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "macOS a besoin de retrouver sa grille",
-        "titleOriginal": "macOS needs its grid back",
-        "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-        "source": "blog.hopefullyuseful.com",
-        "score": 146,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48364800",
-        "date": "il y a 3 h"
+        "title": "Pourquoi Janet ?",
+        "titleOriginal": "Why Janet?",
+        "url": "https://ianthehenry.com/posts/why-janet/",
+        "source": "ianthehenry.com",
+        "score": 14,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48367907",
+        "date": "il y a 12 min"
       },
       {
         "title": "Le plus récent « exploit » Instagram est le plus loufoque que j'ai vu",
         "titleOriginal": "The newest Instagram “exploit” is the goofiest I've seen",
         "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
         "source": "0xsid.com",
-        "score": 1500,
-        "comments": 354,
+        "score": 1800,
+        "comments": 414,
         "hnUrl": "https://news.ycombinator.com/item?id=48359102",
-        "date": "il y a 12 h"
+        "date": "il y a 17 h"
+      },
+      {
+        "title": "macOS a besoin de retrouver sa grille",
+        "titleOriginal": "macOS needs its grid back",
+        "url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
+        "source": "blog.hopefullyuseful.com",
+        "score": 254,
+        "comments": 141,
+        "hnUrl": "https://news.ycombinator.com/item?id=48364800",
+        "date": "il y a 8 h"
       },
       {
         "title": "Le marché boursier peut-il avaler Anthropic, SpaceX et OpenAI ?",
         "titleOriginal": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
         "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
         "source": "economist.com",
-        "score": 193,
-        "comments": 391,
+        "score": 361,
+        "comments": 629,
         "hnUrl": "https://news.ycombinator.com/item?id=48364055",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Chipotlai Max",
-        "titleOriginal": "Chipotlai Max",
-        "url": "https://github.com/cyberpapiii/chipotlai-max",
-        "source": "github.com",
-        "score": 129,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48363765",
-        "date": "il y a 6 h"
+        "date": "il y a 10 h"
       }
     ]
   },
