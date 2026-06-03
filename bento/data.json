@@ -1,56 +1,87 @@
 {
-  "updatedAt": "2026-06-03T07:20:35.359Z",
+  "updatedAt": "2026-06-03T12:18:16.581Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
+      "temp": 19,
+      "feelsLike": 16,
       "code": 3,
-      "wind": 14,
-      "humidity": 83
+      "wind": 19,
+      "humidity": 60
     },
     "forecast": [
       {
         "date": "2026-06-03",
         "code": 80,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 12
       },
       {
         "date": "2026-06-04",
-        "code": 95,
-        "tmax": 22,
+        "code": 96,
+        "tmax": 21,
         "tmin": 15
       },
       {
         "date": "2026-06-05",
-        "code": 3,
+        "code": 80,
         "tmax": 20,
         "tmin": 11
       },
       {
         "date": "2026-06-06",
         "code": 61,
-        "tmax": 20,
+        "tmax": 21,
         "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "micode",
+        "displayName": "Micode",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 406,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
+        "url": "https://twitch.tv/micode"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 396,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 293,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
-      "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "JOUEUR DE POKER PRO : IL JOUE FACE À UN MEC QUI A POIGNARDÉ L'UN DE SES ADVERSAIRES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "AHQKWPYftKk",
+        "thumbnail": "https://i.ytimg.com/vi/AHQKWPYftKk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AHQKWPYftKk",
+        "publishedAt": "2026-06-03T11:00:03+00:00"
+      },
       {
         "title": "Le pape vient-il de déclarer la guerre à l'Intelligence Artificielle ?",
         "channel": "Silicon Carne 🌶️",
@@ -59,15 +90,6 @@
         "thumbnail": "https://i.ytimg.com/vi/HxgD9vl9dgg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=HxgD9vl9dgg",
         "publishedAt": "2026-06-03T06:30:06+00:00"
-      },
-      {
-        "title": "COMMENT AVOIR DES RELATIONS S*XUELLES QUAND ON PÈSE 257 KG ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "v0X9fsYS3h4",
-        "thumbnail": "https://i.ytimg.com/vi/v0X9fsYS3h4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v0X9fsYS3h4",
-        "publishedAt": "2026-06-02T13:00:00+00:00"
       },
       {
         "title": "Il faisait 500K sans pub. C'était une erreur.",
@@ -145,7 +167,7 @@
       {
         "title": "കാട്ടാളൻ",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+        "poster": "https://image.tmdb.org/t/p/w342/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
         "url": "https://www.themoviedb.org/movie/1065834"
       },
       {
@@ -161,10 +183,10 @@
         "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "title": "Michael",
+        "title": "The Criminals",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-        "url": "https://www.themoviedb.org/movie/936075"
+        "poster": "https://image.tmdb.org/t/p/w342/vUvZuBWRsjO2tnUo2yesrdbhKal.jpg",
+        "url": "https://www.themoviedb.org/movie/1242265"
       }
     ]
   },
@@ -199,44 +221,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Piratage de votre PC à l'aide de votre haut-parleur sans jamais le toucher",
+        "titleOriginal": "Hacking your PC using your speaker without ever touching it",
+        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+        "source": "blog.nns.ee",
+        "score": 111,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48382310",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Chaque octet compte",
+        "titleOriginal": "Every Byte Matters",
+        "url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+        "source": "fzakaria.com",
+        "score": 47,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48382382",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Show HN : Edsger – Un remplaçant Clojure manuscrit pour le reMarkable 2",
+        "titleOriginal": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+        "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+        "source": "handwritten.danieljanus.pl",
+        "score": 98,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48374552",
+        "date": "il y a 17 h"
+      },
+      {
         "title": "Vol de jetons GitHub en 1 clic via un bogue de code VSCode",
         "titleOriginal": "1-Click GitHub Token Stealing via a VSCode Bug",
         "url": "https://blog.ammaraskar.com/github-token-stealing/",
         "source": "blog.ammaraskar.com",
-        "score": 297,
-        "comments": 39,
+        "score": 492,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=48371562",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Show HN : J'ai rétroconçu les cartes du monde de Test Drive III (jeu DOS 1990)",
-        "titleOriginal": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-        "url": "https://github.com/s-macke/Test-Drive-3-Maps",
-        "source": "github.com",
-        "score": 49,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48344327",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Utilisez la VRAM de votre GPU Nvidia comme espace d'échange sous Linux",
-        "titleOriginal": "Use your Nvidia GPU's VRAM as swap space on Linux",
-        "url": "https://github.com/c0dejedi/nbd-vram",
-        "source": "github.com",
-        "score": 259,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=48377404",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "La redondance déraisonnable des replis protéiques de la nature",
-        "titleOriginal": "The Unreasonable Redundancy of Nature's Protein Folds",
-        "url": "https://research.ligo.bio/posts/unreasonable-redundancy-of-natural-protein-folds/",
-        "source": "research.ligo.bio",
-        "score": 62,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48379669",
-        "date": "il y a 3 h"
+        "date": "il y a 20 h"
       }
     ]
   },
