@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-03T17:25:28.036Z",
+  "updatedAt": "2026-06-03T20:35:35.106Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 18,
-      "code": 3,
-      "wind": 15,
-      "humidity": 58
+      "temp": 18,
+      "feelsLike": 16,
+      "code": 61,
+      "wind": 20,
+      "humidity": 67
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-06-04",
         "code": 95,
-        "tmax": 20,
-        "tmin": 15
+        "tmax": 21,
+        "tmin": 14
       },
       {
         "date": "2026-06-05",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Project Silverfish",
+        "viewers": 7752,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "La Silicon Valley a racheté ton sommeil ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "6GU2n0lkHjU",
+        "thumbnail": "https://i.ytimg.com/vi/6GU2n0lkHjU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6GU2n0lkHjU",
+        "publishedAt": "2026-06-03T18:01:06+00:00"
+      },
+      {
         "title": "LES SECRETS DES JOUEURS DE POKER PRO POUR DÉTECTER UN COUP DE BLUFF",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/qR5Thi0b3K4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qR5Thi0b3K4",
         "publishedAt": "2026-06-03T14:00:00+00:00"
-      },
-      {
-        "title": "Le pape vient-il de déclarer la guerre à l'Intelligence Artificielle ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "HxgD9vl9dgg",
-        "thumbnail": "https://i.ytimg.com/vi/HxgD9vl9dgg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HxgD9vl9dgg",
-        "publishedAt": "2026-06-03T06:30:06+00:00"
       },
       {
         "title": "Il faisait 500K sans pub. C'était une erreur.",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Elixir v1.20 : Maintenant une langue graduellement dactylographiée",
+        "titleOriginal": "Elixir v1.20: Now a gradually typed language",
+        "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+        "source": "elixir-lang.org",
+        "score": 205,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=48388324",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Gemma 4 12B : un modèle multimodal unifié et sans encodeur",
         "titleOriginal": "Gemma 4 12B: A unified, encoder-free multimodal model",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
         "source": "blog.google",
-        "score": 185,
-        "comments": 67,
+        "score": 497,
+        "comments": 181,
         "hnUrl": "https://news.ycombinator.com/item?id=48385906",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "On m'a récemment diagnostiqué une encéphalite aux récepteurs anti-NMDA",
+        "titleOriginal": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+        "url": "https://burntsushi.net/encephalitis/",
+        "source": "burntsushi.net",
+        "score": 299,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=48384355",
+        "date": "il y a 6 h"
       },
       {
         "title": "ESP32-S31",
         "titleOriginal": "ESP32-S31",
         "url": "https://www.espressif.com/en/products/socs/esp32-s31",
         "source": "espressif.com",
-        "score": 94,
-        "comments": 34,
+        "score": 200,
+        "comments": 98,
         "hnUrl": "https://news.ycombinator.com/item?id=48385965",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Davinci Resolve",
-        "titleOriginal": "DaVinci Resolve 21",
-        "url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-        "source": "blackmagicdesign.com",
-        "score": 190,
-        "comments": 109,
-        "hnUrl": "https://news.ycombinator.com/item?id=48384482",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Piratage de votre PC à l'aide de votre haut-parleur sans jamais le toucher",
-        "titleOriginal": "Hacking your PC using your speaker without ever touching it",
-        "url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
-        "source": "blog.nns.ee",
-        "score": 477,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=48382310",
-        "date": "il y a 6 h"
+        "date": "il y a 4 h"
       }
     ]
   },
