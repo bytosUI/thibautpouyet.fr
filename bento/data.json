@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-04T21:10:30.560Z",
+  "updatedAt": "2026-06-04T22:52:18.093Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 14,
       "feelsLike": 13,
       "code": 3,
-      "wind": 10,
-      "humidity": 85
+      "wind": 9,
+      "humidity": 86
     },
     "forecast": [
-      {
-        "date": "2026-06-04",
-        "code": 95,
-        "tmax": 20,
-        "tmin": 14
-      },
       {
         "date": "2026-06-05",
         "code": 80,
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 21,
         "tmin": 10
+      },
+      {
+        "date": "2026-06-08",
+        "code": 3,
+        "tmax": 24,
+        "tmin": 11
       }
     ]
   },
@@ -185,7 +185,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 4 sem",
+        "time": "il y a 5 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
@@ -203,40 +203,40 @@
         "titleOriginal": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "url": "https://github.com/anthropics/defending-code-reference-harness",
         "source": "github.com",
-        "score": 71,
-        "comments": 20,
+        "score": 172,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48403980",
-        "date": "il y a 59 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les zones IPv6 dans les URL sont une erreur",
+        "titleOriginal": "IPv6 zones in URLs are a mistake",
+        "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+        "source": "xeiaso.net",
+        "score": 24,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48405019",
+        "date": "il y a 1 h"
       },
       {
         "title": "VoidZero rejoint Cloudflare",
         "titleOriginal": "VoidZero Is Joining Cloudflare",
         "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
         "source": "blog.cloudflare.com",
-        "score": 505,
-        "comments": 233,
+        "score": 534,
+        "comments": 242,
         "hnUrl": "https://news.ycombinator.com/item?id=48398055",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Quand l'IA se construit : nos progrès vers l'auto-amélioration récursive",
         "titleOriginal": "When AI Builds Itself: Our progress toward recursive self-improvement",
         "url": "https://www.anthropic.com/institute/recursive-self-improvement",
         "source": "anthropic.com",
-        "score": 159,
-        "comments": 188,
+        "score": 239,
+        "comments": 317,
         "hnUrl": "https://news.ycombinator.com/item?id=48400842",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Roulette : CERN Advanced STORage Manager",
-        "titleOriginal": "Castor: CERN Advanced STORage Manager",
-        "url": "https://castor.web.cern.ch/content/home.html",
-        "source": "castor.web.cern.ch",
-        "score": 26,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48403753",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       }
     ]
   },
