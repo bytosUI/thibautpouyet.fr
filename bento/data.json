@@ -1,13 +1,48 @@
 {
-  "updatedAt": "2026-06-04T13:55:49.933Z",
-  "weather": null,
+  "updatedAt": "2026-06-04T16:51:06.115Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 19,
+      "feelsLike": 17,
+      "code": 95,
+      "wind": 16,
+      "humidity": 63
+    },
+    "forecast": [
+      {
+        "date": "2026-06-04",
+        "code": 95,
+        "tmax": 20,
+        "tmin": 14
+      },
+      {
+        "date": "2026-06-05",
+        "code": 61,
+        "tmax": 19,
+        "tmin": 11
+      },
+      {
+        "date": "2026-06-06",
+        "code": 61,
+        "tmax": 20,
+        "tmin": 11
+      },
+      {
+        "date": "2026-06-07",
+        "code": 3,
+        "tmax": 21,
+        "tmin": 10
+      }
+    ]
+  },
   "twitch": {
     "live": [
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 6615,
+        "game": "Scritchy Scratchy",
+        "viewers": 6635,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -25,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES MAGICIENS SONT INTERDITS DES TABLES DE POKER ?",
+        "title": "JOUEUR DE POKER PRO : LA NUIT OÙ IL A CRU MOURIR LORS D'UNE PARTIE À LAS VEGAS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "sKdFcJ-7x44",
-        "thumbnail": "https://i.ytimg.com/vi/sKdFcJ-7x44/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sKdFcJ-7x44",
-        "publishedAt": "2026-06-04T13:00:18+00:00"
+        "videoId": "ykEev1tFlZE",
+        "thumbnail": "https://i.ytimg.com/vi/ykEev1tFlZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ykEev1tFlZE",
+        "publishedAt": "2026-06-04T16:00:21+00:00"
       },
       {
         "title": "La Silicon Valley a racheté ton sommeil ?",
@@ -172,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les médias britanniques omettent de divulguer les liens avec le secteur de la défense dans près de 60 % des cas",
-        "titleOriginal": "UK media fails to disclose defence sector links in nearly 60% of cases",
-        "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-        "source": "aoav.org.uk",
-        "score": 255,
-        "comments": 164,
-        "hnUrl": "https://news.ycombinator.com/item?id=48395938",
-        "date": "il y a 5 h"
-      },
-      {
         "title": "VoidZero rejoint Cloudflare",
         "titleOriginal": "VoidZero Is Joining Cloudflare",
         "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
         "source": "blog.cloudflare.com",
-        "score": 87,
-        "comments": 46,
+        "score": 343,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=48398055",
-        "date": "il y a 54 min"
-      },
-      {
-        "title": "Éclaboussure de pointe gaussienne",
-        "titleOriginal": "Gaussian Point Splatting",
-        "url": "https://momentsingraphics.de/Siggraph2026.html",
-        "source": "momentsingraphics.de",
-        "score": 90,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48396792",
         "date": "il y a 3 h"
       },
       {
-        "title": "Ils sont faits de poids",
-        "titleOriginal": "They’re made out of weights",
-        "url": "https://maxleiter.com/blog/weights",
-        "source": "maxleiter.com",
-        "score": 952,
-        "comments": 363,
-        "hnUrl": "https://news.ycombinator.com/item?id=48391611",
-        "date": "il y a 14 h"
+        "title": "KVarN : back-end de quantification native vLLM KV-cache par Huawei",
+        "titleOriginal": "KVarN: Native vLLM KV-cache quantization back end by Huawei",
+        "url": "https://github.com/huawei-csl/KVarN",
+        "source": "github.com",
+        "score": 38,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48399974",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Ian's Secure Shoelace Knot",
+        "titleOriginal": "Ian's Secure Shoelace Knot",
+        "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+        "source": "fieggen.com",
+        "score": 249,
+        "comments": 92,
+        "hnUrl": "https://news.ycombinator.com/item?id=48397028",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "C'est le meilleur moment pour être ingénieur en ruban adhésif pour conduits",
+        "titleOriginal": "Now Is the Best Time to Be a Duct Tape Engineer",
+        "url": "https://derwiki.medium.com/now-is-the-best-time-to-be-a-duct-tape-engineer-eefc1d141c23",
+        "source": "derwiki.medium.com",
+        "score": 32,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48355607",
+        "date": "il y a 3 j"
       }
     ]
   },
