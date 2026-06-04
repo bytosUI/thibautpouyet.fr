@@ -1,49 +1,57 @@
 {
-  "updatedAt": "2026-06-04T02:04:27.701Z",
+  "updatedAt": "2026-06-04T07:00:30.081Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
-      "code": 3,
-      "wind": 16,
-      "humidity": 79
+      "temp": 16,
+      "feelsLike": 15,
+      "code": 61,
+      "wind": 18,
+      "humidity": 78
     },
     "forecast": [
       {
         "date": "2026-06-04",
-        "code": 95,
-        "tmax": 21,
-        "tmin": 14
+        "code": 80,
+        "tmax": 20,
+        "tmin": 15
       },
       {
         "date": "2026-06-05",
-        "code": 3,
-        "tmax": 20,
-        "tmin": 11
-      },
-      {
-        "date": "2026-06-06",
         "code": 80,
         "tmax": 20,
         "tmin": 11
       },
       {
+        "date": "2026-06-06",
+        "code": 61,
+        "tmax": 18,
+        "tmin": 10
+      },
+      {
         "date": "2026-06-07",
         "code": 3,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 569,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -59,6 +67,15 @@
         "thumbnail": "https://i.ytimg.com/vi/6GU2n0lkHjU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6GU2n0lkHjU",
         "publishedAt": "2026-06-03T18:01:06+00:00"
+      },
+      {
+        "title": "LES SECRETS DES JOUEURS DE POKER PRO POUR DÉTECTER UN COUP DE BLUFF",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "qR5Thi0b3K4",
+        "thumbnail": "https://i.ytimg.com/vi/qR5Thi0b3K4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qR5Thi0b3K4",
+        "publishedAt": "2026-06-03T14:00:00+00:00"
       },
       {
         "title": "Il faisait 500K sans pub. C'était une erreur.",
@@ -86,6 +103,15 @@
         "thumbnail": "https://i.ytimg.com/vi/xAi8oXE9-vY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xAi8oXE9-vY",
         "publishedAt": "2026-05-31T16:00:41+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
       },
       {
         "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
@@ -131,10 +157,10 @@
         "url": "https://www.themoviedb.org/movie/1065834"
       },
       {
-        "title": "The Mandalorian and Grogu",
+        "title": "Hokum",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg",
-        "url": "https://www.themoviedb.org/movie/1228710"
+        "poster": "https://image.tmdb.org/t/p/w342/2sq0GooVOtvGAQRyuYsSg9GA8Fy.jpg",
+        "url": "https://www.themoviedb.org/movie/1430077"
       },
       {
         "title": "Mortal Kombat II",
@@ -143,10 +169,10 @@
         "url": "https://www.themoviedb.org/movie/931285"
       },
       {
-        "title": "Hokum",
+        "title": "The Mandalorian and Grogu",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sq0GooVOtvGAQRyuYsSg9GA8Fy.jpg",
-        "url": "https://www.themoviedb.org/movie/1430077"
+        "poster": "https://image.tmdb.org/t/p/w342/eUOVyCSZrUH6aPfhsfd7j0bxGOl.jpg",
+        "url": "https://www.themoviedb.org/movie/1228710"
       }
     ]
   },
@@ -181,82 +207,82 @@
   "hackernews": {
     "items": [
       {
+        "title": "« Ils sont faits de poids »",
+        "titleOriginal": "\"They're made out of weights\"",
+        "url": "https://maxleiter.com/blog/weights",
+        "source": "maxleiter.com",
+        "score": 433,
+        "comments": 124,
+        "hnUrl": "https://news.ycombinator.com/item?id=48391611",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Les notes d'échec montent en flèche avec l'utilisation de l'IA, diminuant les compétences en mathématiques dans les cours de Berkeley CS",
+        "titleOriginal": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+        "source": "dailycal.org",
+        "score": 191,
+        "comments": 116,
+        "hnUrl": "https://news.ycombinator.com/item?id=48392004",
+        "date": "il y a 6 h"
+      },
+      {
         "title": "Elixir v1.20 : Maintenant une langue graduellement dactylographiée",
         "titleOriginal": "Elixir v1.20: Now a gradually typed language",
         "url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
         "source": "elixir-lang.org",
-        "score": 556,
-        "comments": 208,
+        "score": 701,
+        "comments": 259,
         "hnUrl": "https://news.ycombinator.com/item?id=48388324",
-        "date": "il y a 7 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "J'ai créé une application vulnérable et dépensé 1 500 $ pour voir si les LLM pouvaient la pirater",
         "titleOriginal": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
         "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
         "source": "kasra.blog",
-        "score": 39,
-        "comments": 14,
+        "score": 159,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=48392343",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Gemma 4 12B : un modèle multimodal unifié et sans encodeur",
-        "titleOriginal": "Gemma 4 12B: A unified, encoder-free multimodal model",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-        "source": "blog.google",
-        "score": 688,
-        "comments": 289,
-        "hnUrl": "https://news.ycombinator.com/item?id=48385906",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "La façon dont nous contenons Claude dans tous les produits",
-        "titleOriginal": "The ways we contain Claude across products",
-        "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-        "source": "anthropic.com",
-        "score": 37,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48392082",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260530",
+    "resultsDate": "20260603",
     "results": [
       {
-        "id": "401873203",
-        "date": "2026-05-31T00:00Z",
+        "id": "401859963",
+        "date": "2026-06-04T00:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 103,
-          "record": "64-18",
-          "winner": false
-        },
-        "away": {
           "id": "24",
           "abbr": "SA",
           "name": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 111,
+          "score": 95,
           "record": "62-20",
+          "winner": false
+        },
+        "away": {
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 105,
+          "record": "53-29",
           "winner": true
         },
         "series": {
-          "summary": "SA wins series 4-3",
-          "completed": true,
-          "round": "West Finals - Game 7",
-          "winsHome": 3,
-          "winsAway": 4
+          "summary": "NY leads series 1-0",
+          "completed": false,
+          "round": "NBA Finals - Game 1",
+          "winsHome": 0,
+          "winsAway": 1
         }
       }
     ],
@@ -275,8 +301,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
           },
           "winsHome": 0,
-          "winsAway": 0,
-          "summary": null,
+          "winsAway": 1,
+          "summary": "NY leads series 1-0",
           "completed": false,
           "round": "NBA Finals - Game 1",
           "roundLabel": "Finales NBA",
