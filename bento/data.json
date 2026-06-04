@@ -1,58 +1,23 @@
 {
-  "updatedAt": "2026-06-04T10:46:11.585Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 17,
-      "feelsLike": 15,
-      "code": 61,
-      "wind": 20,
-      "humidity": 78
-    },
-    "forecast": [
-      {
-        "date": "2026-06-04",
-        "code": 80,
-        "tmax": 20,
-        "tmin": 15
-      },
-      {
-        "date": "2026-06-05",
-        "code": 80,
-        "tmax": 20,
-        "tmin": 11
-      },
-      {
-        "date": "2026-06-06",
-        "code": 80,
-        "tmax": 19,
-        "tmin": 11
-      },
-      {
-        "date": "2026-06-07",
-        "code": 3,
-        "tmax": 21,
-        "tmin": 11
-      }
-    ]
-  },
+  "updatedAt": "2026-06-04T13:55:49.933Z",
+  "weather": null,
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Rubinite",
-        "viewers": 142,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 6615,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,13 +25,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "JOUEUR DE POKER PRO : SES SOIRÉES LES PLUS FOLLES",
+        "title": "LES MAGICIENS SONT INTERDITS DES TABLES DE POKER ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "WB9HwUZ6-TE",
-        "thumbnail": "https://i.ytimg.com/vi/WB9HwUZ6-TE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WB9HwUZ6-TE",
-        "publishedAt": "2026-06-04T10:00:00+00:00"
+        "videoId": "sKdFcJ-7x44",
+        "thumbnail": "https://i.ytimg.com/vi/sKdFcJ-7x44/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sKdFcJ-7x44",
+        "publishedAt": "2026-06-04T13:00:18+00:00"
       },
       {
         "title": "La Silicon Valley a racheté ton sommeil ?",
@@ -181,13 +146,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 2 sem",
+        "time": "il y a 3 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 2 sem",
+        "time": "il y a 3 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -211,40 +176,40 @@
         "titleOriginal": "UK media fails to disclose defence sector links in nearly 60% of cases",
         "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
         "source": "aoav.org.uk",
-        "score": 92,
-        "comments": 61,
+        "score": 255,
+        "comments": 164,
         "hnUrl": "https://news.ycombinator.com/item?id=48395938",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Show HN : Uruky (alternative Kagi basée dans l'UE) a maintenant la recherche d'images et les réécritures d'URL",
-        "titleOriginal": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-        "url": "https://uruky.com/?il=en",
-        "source": "uruky.com",
-        "score": 49,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=48396004",
-        "date": "il y a 1 h"
+        "title": "VoidZero rejoint Cloudflare",
+        "titleOriginal": "VoidZero Is Joining Cloudflare",
+        "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+        "source": "blog.cloudflare.com",
+        "score": 87,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48398055",
+        "date": "il y a 54 min"
+      },
+      {
+        "title": "Éclaboussure de pointe gaussienne",
+        "titleOriginal": "Gaussian Point Splatting",
+        "url": "https://momentsingraphics.de/Siggraph2026.html",
+        "source": "momentsingraphics.de",
+        "score": 90,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48396792",
+        "date": "il y a 3 h"
       },
       {
         "title": "Ils sont faits de poids",
         "titleOriginal": "They’re made out of weights",
         "url": "https://maxleiter.com/blog/weights",
         "source": "maxleiter.com",
-        "score": 736,
-        "comments": 285,
+        "score": 952,
+        "comments": 363,
         "hnUrl": "https://news.ycombinator.com/item?id=48391611",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Les notes d'échec montent en flèche avec l'utilisation de l'IA, diminuant les compétences en mathématiques dans les cours de Berkeley CS",
-        "titleOriginal": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-        "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-        "source": "dailycal.org",
-        "score": 336,
-        "comments": 250,
-        "hnUrl": "https://news.ycombinator.com/item?id=48392004",
-        "date": "il y a 10 h"
+        "date": "il y a 14 h"
       }
     ]
   },
