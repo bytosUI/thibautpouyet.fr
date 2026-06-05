@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-05T00:01:38.879Z",
+  "updatedAt": "2026-06-05T04:54:40.456Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
-      "code": 3,
-      "wind": 7,
-      "humidity": 88
+      "temp": 11,
+      "feelsLike": 9,
+      "code": 2,
+      "wind": 9,
+      "humidity": 91
     },
     "forecast": [
       {
         "date": "2026-06-05",
         "code": 80,
-        "tmax": 18,
+        "tmax": 20,
         "tmin": 11
       },
       {
         "date": "2026-06-06",
-        "code": 95,
-        "tmax": 21,
-        "tmin": 12
+        "code": 61,
+        "tmax": 20,
+        "tmin": 11
       },
       {
         "date": "2026-06-07",
         "code": 3,
         "tmax": 21,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-06-08",
-        "code": 3,
-        "tmax": 24,
-        "tmin": 11
+        "code": 61,
+        "tmax": 23,
+        "tmin": 10
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les transformateurs ont-ils besoin de trois projections ? Étude systématique des variants QKV",
-        "titleOriginal": "Do transformers need three projections? Systematic study of QKV variants",
-        "url": "https://arxiv.org/abs/2606.04032",
-        "source": "arxiv.org",
-        "score": 41,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48405931",
-        "date": "il y a 49 min"
+        "title": "Meta active l'ADB sur les appareils Portal obsolètes [vidéo]",
+        "titleOriginal": "Meta enables ADB on deprecated Portal devices [video]",
+        "url": "https://fb.watch/HxPu0fSyeH/",
+        "source": "fb.watch",
+        "score": 136,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48406640",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Azure Linux 4.0 est le premier Linux polyvalent de Microsoft",
+        "titleOriginal": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
+        "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
+        "source": "boxofcables.dev",
+        "score": 32,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48407499",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le cadre open source d'Anthropic pour la découverte de vulnérabilités basées sur l'IA",
         "titleOriginal": "Anthropic's open-source framework for AI-powered vulnerability discovery",
         "url": "https://github.com/anthropics/defending-code-reference-harness",
         "source": "github.com",
-        "score": 221,
-        "comments": 74,
+        "score": 333,
+        "comments": 105,
         "hnUrl": "https://news.ycombinator.com/item?id=48403980",
-        "date": "il y a 3 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Les zones IPv6 dans les URL sont une erreur",
-        "titleOriginal": "IPv6 zones in URLs are a mistake",
-        "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
-        "source": "xeiaso.net",
-        "score": 54,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48405019",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "VoidZero rejoint Cloudflare",
-        "titleOriginal": "VoidZero Is Joining Cloudflare",
-        "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-        "source": "blog.cloudflare.com",
-        "score": 547,
-        "comments": 245,
-        "hnUrl": "https://news.ycombinator.com/item?id=48398055",
-        "date": "il y a 11 h"
+        "title": "Les transformateurs ont-ils besoin de trois projections ? Étude systématique des variants QKV",
+        "titleOriginal": "Do transformers need three projections? Systematic study of QKV variants",
+        "url": "https://arxiv.org/abs/2606.04032",
+        "source": "arxiv.org",
+        "score": 133,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48405931",
+        "date": "il y a 5 h"
       }
     ]
   },
@@ -296,10 +296,10 @@
           "winsAway": 1,
           "summary": "NY leads series 1-0",
           "completed": false,
-          "round": "NBA Finals - Game 1",
+          "round": "NBA Finals - Game 2",
           "roundLabel": "Finales NBA",
           "roundOrder": 4,
-          "lastDate": "2026-06-04T00:30Z"
+          "lastDate": "2026-06-06T00:30Z"
         }
       ]
     }
