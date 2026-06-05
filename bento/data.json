@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-05T04:54:40.456Z",
+  "updatedAt": "2026-06-05T08:40:42.597Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 9,
-      "code": 2,
-      "wind": 9,
-      "humidity": 91
+      "temp": 15,
+      "feelsLike": 13,
+      "code": 3,
+      "wind": 13,
+      "humidity": 67
     },
     "forecast": [
       {
         "date": "2026-06-05",
         "code": 80,
-        "tmax": 20,
+        "tmax": 19,
         "tmin": 11
       },
       {
         "date": "2026-06-06",
-        "code": 61,
-        "tmax": 20,
-        "tmin": 11
+        "code": 80,
+        "tmax": 19,
+        "tmin": 12
       },
       {
         "date": "2026-06-07",
@@ -37,13 +37,35 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 507,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 293,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 140,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
-      "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -199,44 +221,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Changer la façon dont nous développons les coccinelles",
+        "titleOriginal": "Changing How We Develop Ladybird",
+        "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
+        "source": "ladybird.org",
+        "score": 46,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48409191",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "C++ : Le documentaire",
+        "titleOriginal": "C++: The Documentary",
+        "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
+        "source": "herbsutter.com",
+        "score": 124,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=48408016",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Réglage fin d'un LLM pour écrire des documents comme en 1995",
+        "titleOriginal": "Fine-tuning an LLM to write docs like it's 1995",
+        "url": "https://passo.uno/fine-tuning-docs-llm/",
+        "source": "passo.uno",
+        "score": 46,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48408442",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Meta active l'ADB sur les appareils Portal obsolètes [vidéo]",
         "titleOriginal": "Meta enables ADB on deprecated Portal devices [video]",
         "url": "https://fb.watch/HxPu0fSyeH/",
         "source": "fb.watch",
-        "score": 136,
-        "comments": 32,
+        "score": 212,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=48406640",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Azure Linux 4.0 est le premier Linux polyvalent de Microsoft",
-        "titleOriginal": "Azure Linux 4.0 is Microsoft's first general-purpose Linux",
-        "url": "https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/",
-        "source": "boxofcables.dev",
-        "score": 32,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48407499",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Le cadre open source d'Anthropic pour la découverte de vulnérabilités basées sur l'IA",
-        "titleOriginal": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-        "url": "https://github.com/anthropics/defending-code-reference-harness",
-        "source": "github.com",
-        "score": 333,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=48403980",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Les transformateurs ont-ils besoin de trois projections ? Étude systématique des variants QKV",
-        "titleOriginal": "Do transformers need three projections? Systematic study of QKV variants",
-        "url": "https://arxiv.org/abs/2606.04032",
-        "source": "arxiv.org",
-        "score": 133,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48405931",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       }
     ]
   },
