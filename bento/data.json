@@ -1,78 +1,73 @@
 {
-  "updatedAt": "2026-06-05T08:40:42.597Z",
+  "updatedAt": "2026-06-05T11:58:23.269Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 13,
-      "code": 3,
+      "temp": 17,
+      "feelsLike": 15,
+      "code": 2,
       "wind": 13,
-      "humidity": 67
+      "humidity": 58
     },
     "forecast": [
       {
         "date": "2026-06-05",
-        "code": 80,
-        "tmax": 19,
+        "code": 61,
+        "tmax": 18,
         "tmin": 11
       },
       {
         "date": "2026-06-06",
-        "code": 80,
-        "tmax": 19,
+        "code": 61,
+        "tmax": 21,
         "tmin": 12
       },
       {
         "date": "2026-06-07",
         "code": 3,
         "tmax": 21,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-08",
         "code": 61,
-        "tmax": 23,
-        "tmin": 10
+        "tmax": 22,
+        "tmin": 12
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 507,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      },
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 293,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      },
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 140,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 884,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
       "domingo",
+      "bastiui",
+      "hardisk",
       "micode",
-      "origatwitch",
+      "nowtechteam",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "VOUS POUVEZ TOUS ARRÊTER DE VIEILLIR ! LES SECRETS POUR RESTER JEUNE TOUTE SA VIE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "bfvFLpsQj1M",
+        "thumbnail": "https://i.ytimg.com/vi/bfvFLpsQj1M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bfvFLpsQj1M",
+        "publishedAt": "2026-06-05T11:00:06+00:00"
+      },
       {
         "title": "Ton chien vivra bientôt plus longtemps que toi ?",
         "channel": "Silicon Carne 🌶️",
@@ -81,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/J5AKA6i0BSo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=J5AKA6i0BSo",
         "publishedAt": "2026-06-04T18:01:22+00:00"
-      },
-      {
-        "title": "CE JOUEUR DE POKER PRO GAGNE CONTRE UN PÈRE QUI MISAIT LE BUDGET VACANCES DE SES ENFANTS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "odICVl8fRto",
-        "thumbnail": "https://i.ytimg.com/vi/odICVl8fRto/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=odICVl8fRto",
-        "publishedAt": "2026-06-04T17:00:22+00:00"
       },
       {
         "title": "Il faisait 500K sans pub. C'était une erreur.",
@@ -221,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Traçage d'une puissante source d'interférence GNSS au-dessus de l'Europe",
+        "titleOriginal": "Tracing a powerful GNSS interference source over Europe",
+        "url": "https://arxiv.org/abs/2606.03673",
+        "source": "arxiv.org",
+        "score": 110,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48409664",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Changer la façon dont nous développons les coccinelles",
         "titleOriginal": "Changing How We Develop Ladybird",
         "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
         "source": "ladybird.org",
-        "score": 46,
-        "comments": 22,
+        "score": 400,
+        "comments": 256,
         "hnUrl": "https://news.ycombinator.com/item?id=48409191",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "C++ : Le documentaire",
-        "titleOriginal": "C++: The Documentary",
-        "url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-        "source": "herbsutter.com",
-        "score": 124,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=48408016",
         "date": "il y a 4 h"
       },
       {
-        "title": "Réglage fin d'un LLM pour écrire des documents comme en 1995",
-        "titleOriginal": "Fine-tuning an LLM to write docs like it's 1995",
-        "url": "https://passo.uno/fine-tuning-docs-llm/",
-        "source": "passo.uno",
-        "score": 46,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48408442",
-        "date": "il y a 2 h"
+        "title": "L'enchevêtrement construit l'espace-temps. Maintenant, la « magie » lui donne de la gravité",
+        "titleOriginal": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+        "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
+        "source": "quantamagazine.org",
+        "score": 42,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48409675",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Meta active l'ADB sur les appareils Portal obsolètes [vidéo]",
-        "titleOriginal": "Meta enables ADB on deprecated Portal devices [video]",
-        "url": "https://fb.watch/HxPu0fSyeH/",
-        "source": "fb.watch",
-        "score": 212,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=48406640",
-        "date": "il y a 7 h"
+        "title": "databow : une CLI Rust pour interroger n'importe quelle base de données avec un pilote ADBC",
+        "titleOriginal": "databow: a Rust CLI to query any database with an ADBC driver",
+        "url": "https://columnar.tech/blog/introducing-databow//",
+        "source": "columnar.tech",
+        "score": 47,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48377510",
+        "date": "il y a 2 j"
       }
     ]
   },
