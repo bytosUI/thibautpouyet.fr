@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-05T11:58:23.269Z",
+  "updatedAt": "2026-06-05T14:57:34.684Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 15,
-      "code": 2,
-      "wind": 13,
-      "humidity": 58
+      "temp": 19,
+      "feelsLike": 17,
+      "code": 3,
+      "wind": 8,
+      "humidity": 46
     },
     "forecast": [
       {
         "date": "2026-06-05",
-        "code": 61,
-        "tmax": 18,
+        "code": 3,
+        "tmax": 19,
         "tmin": 11
       },
       {
         "date": "2026-06-06",
-        "code": 61,
-        "tmax": 21,
-        "tmin": 12
+        "code": 80,
+        "tmax": 20,
+        "tmin": 11
       },
       {
         "date": "2026-06-07",
         "code": 3,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-06-08",
@@ -37,22 +37,14 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 884,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "VOUS POUVEZ TOUS ARRÊTER DE VIEILLIR ! LES SECRETS POUR RESTER JEUNE TOUTE SA VIE",
+        "title": "LES SECRETS POUR INVERSER SA COURBE DE VIEILLISSEMENT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "bfvFLpsQj1M",
-        "thumbnail": "https://i.ytimg.com/vi/bfvFLpsQj1M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bfvFLpsQj1M",
-        "publishedAt": "2026-06-05T11:00:06+00:00"
+        "videoId": "7G8sgFDLHhE",
+        "thumbnail": "https://i.ytimg.com/vi/7G8sgFDLHhE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7G8sgFDLHhE",
+        "publishedAt": "2026-06-05T13:00:15+00:00"
       },
       {
         "title": "Ton chien vivra bientôt plus longtemps que toi ?",
@@ -207,43 +199,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Mouseless – contrôle au clavier de macOS/Linux/Windows",
+        "titleOriginal": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
+        "url": "https://mouseless.click",
+        "source": "mouseless.click",
+        "score": 155,
+        "comments": 79,
+        "hnUrl": "https://news.ycombinator.com/item?id=48383667",
+        "date": "il y a 2 j"
+      },
+      {
         "title": "Traçage d'une puissante source d'interférence GNSS au-dessus de l'Europe",
         "titleOriginal": "Tracing a powerful GNSS interference source over Europe",
         "url": "https://arxiv.org/abs/2606.03673",
         "source": "arxiv.org",
-        "score": 110,
-        "comments": 25,
+        "score": 231,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48409664",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Changer la façon dont nous développons les coccinelles",
-        "titleOriginal": "Changing How We Develop Ladybird",
-        "url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-        "source": "ladybird.org",
-        "score": 400,
-        "comments": 256,
-        "hnUrl": "https://news.ycombinator.com/item?id=48409191",
-        "date": "il y a 4 h"
+        "title": "Prise en charge du temps de recharge pour Ruby Bundler",
+        "titleOriginal": "Cooldown Support for Ruby Bundler",
+        "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
+        "source": "blog.rubygems.org",
+        "score": 29,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48380174",
+        "date": "il y a 2 j"
       },
       {
-        "title": "L'enchevêtrement construit l'espace-temps. Maintenant, la « magie » lui donne de la gravité",
-        "titleOriginal": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-        "url": "https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/",
-        "source": "quantamagazine.org",
-        "score": 42,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48409675",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "databow : une CLI Rust pour interroger n'importe quelle base de données avec un pilote ADBC",
-        "titleOriginal": "databow: a Rust CLI to query any database with an ADBC driver",
-        "url": "https://columnar.tech/blog/introducing-databow//",
-        "source": "columnar.tech",
-        "score": 47,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48377510",
+        "title": "Redis 8.8 : nouvelle structure de données de la baie, limiteur de débit, amélioration des performances",
+        "titleOriginal": "Redis 8.8: New array data structure, rate limiter, performance improvements",
+        "url": "https://redis.io/blog/announcing-redis-8-8/",
+        "source": "redis.io",
+        "score": 104,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48382047",
         "date": "il y a 2 j"
       }
     ]
