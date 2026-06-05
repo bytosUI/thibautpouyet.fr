@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-05T14:57:34.684Z",
+  "updatedAt": "2026-06-05T17:19:40.712Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 17,
-      "code": 3,
+      "temp": 18,
+      "feelsLike": 16,
+      "code": 2,
       "wind": 8,
-      "humidity": 46
+      "humidity": 47
     },
     "forecast": [
       {
@@ -18,20 +18,20 @@
       },
       {
         "date": "2026-06-06",
-        "code": 80,
+        "code": 61,
         "tmax": 20,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-07",
         "code": 3,
         "tmax": 21,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-08",
         "code": 61,
-        "tmax": 22,
+        "tmax": 24,
         "tmin": 12
       }
     ]
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES SECRETS POUR INVERSER SA COURBE DE VIEILLISSEMENT",
+        "title": "POURQUOI LE DOLIPRANE EST BEAUCOUP PLUS DANGEREUX QUE VOUS NE LE CROYEZ ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "7G8sgFDLHhE",
-        "thumbnail": "https://i.ytimg.com/vi/7G8sgFDLHhE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7G8sgFDLHhE",
-        "publishedAt": "2026-06-05T13:00:15+00:00"
+        "videoId": "L44-ht8YgXk",
+        "thumbnail": "https://i.ytimg.com/vi/L44-ht8YgXk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L44-ht8YgXk",
+        "publishedAt": "2026-06-05T16:00:29+00:00"
+      },
+      {
+        "title": "On rigole mais vous nous le surveillez celui-là…",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "efG82mlsgTQ",
+        "thumbnail": "https://i.ytimg.com/vi/efG82mlsgTQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=efG82mlsgTQ",
+        "publishedAt": "2026-06-05T15:56:09+00:00"
       },
       {
         "title": "Ton chien vivra bientôt plus longtemps que toi ?",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/XYc5OzQa6Hg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XYc5OzQa6Hg",
         "publishedAt": "2026-06-02T09:27:29+00:00"
-      },
-      {
-        "title": "Nos chips sont dispos. On vous raconte tout.",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "gUkGUVIY-p4",
-        "thumbnail": "https://i.ytimg.com/vi/gUkGUVIY-p4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gUkGUVIY-p4",
-        "publishedAt": "2026-06-01T14:31:38+00:00"
       },
       {
         "title": "Je fais du thrifting à Séoul 🇰🇷 (et on m'offre des trucs)",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les astronautes de l'ISS ont dit de s'abriter pendant les réparations en cours pour réparer les fuites d'air",
+        "titleOriginal": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+        "source": "bbc.com",
+        "score": 180,
+        "comments": 116,
+        "hnUrl": "https://news.ycombinator.com/item?id=48413464",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "pg_durable : Microsoft open sources in-database exécution durable",
+        "titleOriginal": "pg_durable: Microsoft open sources in-database durable execution",
+        "url": "https://github.com/microsoft/pg_durable",
+        "source": "github.com",
+        "score": 95,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48414367",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Mouseless – contrôle au clavier de macOS/Linux/Windows",
         "titleOriginal": "Mouseless – keyboard-driven control of macOS/Linux/Windows",
         "url": "https://mouseless.click",
         "source": "mouseless.click",
-        "score": 155,
-        "comments": 79,
+        "score": 280,
+        "comments": 140,
         "hnUrl": "https://news.ycombinator.com/item?id=48383667",
         "date": "il y a 2 j"
       },
       {
-        "title": "Traçage d'une puissante source d'interférence GNSS au-dessus de l'Europe",
-        "titleOriginal": "Tracing a powerful GNSS interference source over Europe",
-        "url": "https://arxiv.org/abs/2606.03673",
-        "source": "arxiv.org",
-        "score": 231,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=48409664",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Prise en charge du temps de recharge pour Ruby Bundler",
-        "titleOriginal": "Cooldown Support for Ruby Bundler",
-        "url": "https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html",
-        "source": "blog.rubygems.org",
-        "score": 29,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48380174",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Redis 8.8 : nouvelle structure de données de la baie, limiteur de débit, amélioration des performances",
-        "titleOriginal": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-        "url": "https://redis.io/blog/announcing-redis-8-8/",
-        "source": "redis.io",
-        "score": 104,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=48382047",
-        "date": "il y a 2 j"
+        "title": "J'ai testé chaque IP KVM dans mon Homelab",
+        "titleOriginal": "I tested every IP KVM in my Homelab",
+        "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
+        "source": "jeffgeerling.com",
+        "score": 91,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48413072",
+        "date": "il y a 2 h"
       }
     ]
   },
