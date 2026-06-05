@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-05T19:15:19.723Z",
+  "updatedAt": "2026-06-05T21:06:36.817Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
-      "code": 2,
-      "wind": 4,
-      "humidity": 57
+      "temp": 14,
+      "feelsLike": 13,
+      "code": 3,
+      "wind": 3,
+      "humidity": 71
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-06-06",
-        "code": 61,
-        "tmax": 20,
-        "tmin": 12
+        "code": 80,
+        "tmax": 21,
+        "tmin": 11
       },
       {
         "date": "2026-06-07",
@@ -39,10 +39,18 @@
   "twitch": {
     "live": [
       {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Special Events",
+        "viewers": 1037,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      },
+      {
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 17,
+        "viewers": 93,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -53,7 +61,6 @@
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam"
     ]
   },
@@ -211,40 +218,40 @@
         "titleOriginal": "Astronauts told to return to ISS after sheltering over air leak repairs",
         "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
         "source": "bbc.com",
-        "score": 265,
-        "comments": 175,
+        "score": 306,
+        "comments": 196,
         "hnUrl": "https://news.ycombinator.com/item?id=48413464",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "pg_durable : Microsoft open sources in-database exécution durable",
         "titleOriginal": "pg_durable: Microsoft open sources in-database durable execution",
         "url": "https://github.com/microsoft/pg_durable",
         "source": "github.com",
-        "score": 176,
-        "comments": 41,
+        "score": 222,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=48414367",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Modèles Gemma 4 QAT : Optimisation de la compression pour l'efficacité des mobiles et des ordinateurs portables",
         "titleOriginal": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
         "source": "blog.google",
-        "score": 126,
-        "comments": 22,
+        "score": 181,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=48414653",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Les commits conventionnels encouragent à se concentrer sur les mauvaises choses",
-        "titleOriginal": "Conventional Commits encourages focus on the wrong things",
-        "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
-        "source": "sumnerevans.com",
-        "score": 175,
-        "comments": 127,
-        "hnUrl": "https://news.ycombinator.com/item?id=48414027",
-        "date": "il y a 3 h"
+        "title": "Trois de nos pires histoires de capital-risque",
+        "titleOriginal": "Three of our worst VC stories",
+        "url": "https://twitter.com/eastdakota/status/2062860530360959273",
+        "source": "twitter.com",
+        "score": 70,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48416845",
+        "date": "il y a 1 h"
       }
     ]
   },
