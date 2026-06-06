@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-06T04:34:35.693Z",
+  "updatedAt": "2026-06-06T07:43:07.489Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
+      "temp": 15,
+      "feelsLike": 14,
       "code": 3,
-      "wind": 5,
-      "humidity": 89
+      "wind": 11,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "Pourquoi Karpathy a dit non à Google et xAI ?",
+        "title": "Le vrai visage de l'IA : vers un futur incroyable ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "_pUIXSMWxjY",
-        "thumbnail": "https://i.ytimg.com/vi/_pUIXSMWxjY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_pUIXSMWxjY",
-        "publishedAt": "2026-06-05T18:00:39+00:00"
+        "videoId": "TX5YmIthG14",
+        "thumbnail": "https://i.ytimg.com/vi/TX5YmIthG14/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TX5YmIthG14",
+        "publishedAt": "2026-06-06T06:30:06+00:00"
       },
       {
         "title": "POURQUOI LE DOLIPRANE EST BEAUCOUP PLUS DANGEREUX QUE VOUS NE LE CROYEZ ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les intracies de la réparation moderne de l'objectif de l'appareil photo (2024)",
-        "titleOriginal": "The intracies of modern camera lens repair (2024)",
-        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-        "source": "salvagedcircuitry.com",
-        "score": 107,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48420148",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Mode Lockdown",
-        "titleOriginal": "Lockdown Mode",
-        "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
-        "source": "help.openai.com",
-        "score": 17,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48421145",
-        "date": "il y a 58 min"
-      },
-      {
         "title": "Fonctionnement des LLM",
         "titleOriginal": "How LLMs work",
         "url": "https://www.0xkato.xyz/how-llms-actually-work/",
         "source": "0xkato.xyz",
-        "score": 75,
-        "comments": 7,
+        "score": 216,
+        "comments": 62,
         "hnUrl": "https://news.ycombinator.com/item?id=48389360",
         "date": "il y a 2 j"
+      },
+      {
+        "title": "Les intracies de la réparation moderne de l'objectif de l'appareil photo (2024)",
+        "titleOriginal": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "source": "salvagedcircuitry.com",
+        "score": 145,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48420148",
+        "date": "il y a 7 h"
       },
       {
         "title": "Armées pré-modernes pour les Worldbuilders, Partie I : Pourquoi ils se battent",
         "titleOriginal": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
         "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
         "source": "acoup.blog",
-        "score": 7,
-        "comments": 0,
+        "score": 52,
+        "comments": 13,
         "hnUrl": "https://news.ycombinator.com/item?id=48421171",
-        "date": "il y a 53 min"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Le S&P 500 rejette SpaceX, bloquant également l'entrée pour OpenAI et Anthropic",
+        "titleOriginal": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "source": "arstechnica.com",
+        "score": 256,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48421442",
+        "date": "il y a 3 h"
       }
     ]
   },
