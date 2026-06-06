@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-06T16:04:39.002Z",
+  "updatedAt": "2026-06-06T17:39:28.348Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 17,
-      "code": 3,
-      "wind": 24,
-      "humidity": 58
+      "temp": 19,
+      "feelsLike": 18,
+      "code": 1,
+      "wind": 13,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-06-07",
         "code": 3,
         "tmax": 21,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-06-08",
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-06-09",
-        "code": 80,
+        "code": 61,
         "tmax": 19,
         "tmin": 10
       }
@@ -42,7 +42,7 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "Special Events",
-        "viewers": 1268,
+        "viewers": 1320,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "NON CHATGPT NE PEUT PAS ÊTRE VOTRE MÉDECIN !",
+        "title": "PRIVÉ DE L’USAGE DE SES BRAS, IL PEINT AVEC SA BOUCHE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "TYasEWp1Fms",
-        "thumbnail": "https://i.ytimg.com/vi/TYasEWp1Fms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TYasEWp1Fms",
-        "publishedAt": "2026-06-06T15:00:21+00:00"
+        "videoId": "vRq5MOiqBfI",
+        "thumbnail": "https://i.ytimg.com/vi/vRq5MOiqBfI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vRq5MOiqBfI",
+        "publishedAt": "2026-06-06T16:26:21+00:00"
       },
       {
         "title": "Le vrai visage de l'IA : vers un futur incroyable ?",
@@ -211,39 +211,39 @@
         "titleOriginal": "Moving beyond fork() + exec()",
         "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
         "source": "lwn.net",
-        "score": 68,
-        "comments": 48,
+        "score": 145,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=48425528",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Zeroserve : un serveur Web à configuration zéro que vous pouvez scripter avec eBPF",
+        "titleOriginal": "Zeroserve: A zero-config web server you can script with eBPF",
+        "url": "https://su3.io/posts/introducing-zeroserve",
+        "source": "su3.io",
+        "score": 40,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48425723",
+        "date": "il y a 2 h"
       },
       {
         "title": "Points de référence à Leipzig",
         "titleOriginal": "Benchmarks in Leipzig",
         "url": "https://arxiv.org/abs/2606.05818",
         "source": "arxiv.org",
-        "score": 59,
-        "comments": 26,
+        "score": 76,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=48425247",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Nvidia propose une bête d'un système CPU pour PC Windows",
         "titleOriginal": "Nvidia is proposing a beast of a CPU system for Windows PCs",
         "url": "https://twitter.com/lemire/status/2062880075117113739",
         "source": "twitter.com",
-        "score": 56,
-        "comments": 103,
+        "score": 87,
+        "comments": 211,
         "hnUrl": "https://news.ycombinator.com/item?id=48424605",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Google paiera 920 M $ par mois à SpaceX pour le calcul",
-        "titleOriginal": "Google will pay SpaceX $920M per month for compute",
-        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-        "source": "techcrunch.com",
-        "score": 165,
-        "comments": 195,
-        "hnUrl": "https://news.ycombinator.com/item?id=48423990",
         "date": "il y a 4 h"
       }
     ]
