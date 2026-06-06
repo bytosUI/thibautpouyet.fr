@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-06T21:59:36.395Z",
+  "updatedAt": "2026-06-06T23:10:11.621Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 13,
-      "code": 2,
-      "wind": 12,
-      "humidity": 67
+      "temp": 13,
+      "feelsLike": 11,
+      "code": 3,
+      "wind": 13,
+      "humidity": 74
     },
     "forecast": [
-      {
-        "date": "2026-06-06",
-        "code": 80,
-        "tmax": 21,
-        "tmin": 10
-      },
       {
         "date": "2026-06-07",
         "code": 3,
@@ -24,14 +18,20 @@
       },
       {
         "date": "2026-06-08",
-        "code": 80,
-        "tmax": 20,
-        "tmin": 11
+        "code": 61,
+        "tmax": 21,
+        "tmin": 12
       },
       {
         "date": "2026-06-09",
         "code": 80,
         "tmax": 19,
+        "tmin": 10
+      },
+      {
+        "date": "2026-06-10",
+        "code": 3,
+        "tmax": 20,
         "tmin": 10
       }
     ]
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 147,
+        "viewers": 139,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
         "url": "https://ntsc.rs/",
         "source": "ntsc.rs",
-        "score": 148,
-        "comments": 30,
+        "score": 205,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=48428025",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Seul chez soi : télétravail, isolement et santé mentale",
-        "titleOriginal": "Home alone: Remote work, isolation, and mental health",
-        "url": "https://www.science.org/doi/10.1126/science.aec7671",
-        "source": "science.org",
-        "score": 54,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48428356",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Meta confirme que des milliers de comptes Instagram ont été piratés en abusant de son chatbot IA",
         "titleOriginal": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
         "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
         "source": "this.weekinsecurity.com",
-        "score": 216,
-        "comments": 75,
+        "score": 303,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48427643",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Zeroserve : un serveur Web à configuration zéro que vous pouvez scripter avec eBPF",
         "titleOriginal": "Zeroserve: A zero-config web server you can script with eBPF",
         "url": "https://su3.io/posts/introducing-zeroserve",
         "source": "su3.io",
-        "score": 150,
-        "comments": 39,
+        "score": 165,
+        "comments": 40,
         "hnUrl": "https://news.ycombinator.com/item?id=48425723",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Nvidia propose une bête d'un système CPU pour PC Windows",
+        "titleOriginal": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+        "url": "https://twitter.com/lemire/status/2062880075117113739",
+        "source": "twitter.com",
+        "score": 212,
+        "comments": 385,
+        "hnUrl": "https://news.ycombinator.com/item?id=48424605",
+        "date": "il y a 10 h"
       }
     ]
   },
