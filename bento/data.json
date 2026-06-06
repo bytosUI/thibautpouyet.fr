@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-06-06T09:58:52.477Z",
+  "updatedAt": "2026-06-06T11:37:23.614Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 16,
-      "code": 3,
-      "wind": 15,
-      "humidity": 56
+      "temp": 20,
+      "feelsLike": 17,
+      "code": 61,
+      "wind": 18,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-06-06",
         "code": 80,
-        "tmax": 20,
+        "tmax": 21,
         "tmin": 10
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SON HISTOIRE LA PLUS FOLLE DANS LE MONDE DU LUXE",
+        "title": "IL A FAIT UN TRAIL DE 160KM !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Xu56hJ9xNVE",
-        "thumbnail": "https://i.ytimg.com/vi/Xu56hJ9xNVE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xu56hJ9xNVE",
-        "publishedAt": "2026-06-06T09:00:26+00:00"
+        "videoId": "De0EqTuGMP8",
+        "thumbnail": "https://i.ytimg.com/vi/De0EqTuGMP8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=De0EqTuGMP8",
+        "publishedAt": "2026-06-06T11:00:06+00:00"
       },
       {
         "title": "Le vrai visage de l'IA : vers un futur incroyable ?",
@@ -203,40 +203,40 @@
         "titleOriginal": "GrapheneOS user reported to authorities for using GrapheneOS",
         "url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
         "source": "discuss.grapheneos.org",
-        "score": 123,
-        "comments": 44,
+        "score": 311,
+        "comments": 208,
         "hnUrl": "https://news.ycombinator.com/item?id=48422798",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Mise à jour Zig Zen",
         "titleOriginal": "Zig Zen Update",
         "url": "https://codeberg.org/ziglang/zig/commit/621844bde551ee1a9b8142d7d146d1fa804247a2",
         "source": "codeberg.org",
-        "score": 26,
-        "comments": 8,
+        "score": 68,
+        "comments": 23,
         "hnUrl": "https://news.ycombinator.com/item?id=48422769",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Fonctionnement des LLM",
         "titleOriginal": "How LLMs work",
         "url": "https://www.0xkato.xyz/how-llms-actually-work/",
         "source": "0xkato.xyz",
-        "score": 358,
-        "comments": 101,
+        "score": 412,
+        "comments": 120,
         "hnUrl": "https://news.ycombinator.com/item?id=48389360",
         "date": "il y a 2 j"
       },
       {
-        "title": "Les intracies de la réparation moderne de l'objectif de l'appareil photo (2024)",
-        "titleOriginal": "The intracies of modern camera lens repair (2024)",
-        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-        "source": "salvagedcircuitry.com",
-        "score": 171,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=48420148",
-        "date": "il y a 9 h"
+        "title": "Le S&P 500 rejette SpaceX, bloquant également l'entrée pour OpenAI et Anthropic",
+        "titleOriginal": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "source": "arstechnica.com",
+        "score": 584,
+        "comments": 195,
+        "hnUrl": "https://news.ycombinator.com/item?id=48421442",
+        "date": "il y a 6 h"
       }
     ]
   },
