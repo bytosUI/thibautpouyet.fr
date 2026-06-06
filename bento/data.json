@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-06T19:13:02.370Z",
+  "updatedAt": "2026-06-06T20:38:27.954Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 16,
-      "code": 0,
-      "wind": 14,
-      "humidity": 50
+      "temp": 16,
+      "feelsLike": 14,
+      "code": 3,
+      "wind": 13,
+      "humidity": 63
     },
     "forecast": [
       {
@@ -24,9 +24,9 @@
       },
       {
         "date": "2026-06-08",
-        "code": 61,
-        "tmax": 22,
-        "tmin": 12
+        "code": 80,
+        "tmax": 20,
+        "tmin": 11
       },
       {
         "date": "2026-06-09",
@@ -42,9 +42,17 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "Special Events",
-        "viewers": 1468,
+        "viewers": 1471,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 97,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,8 +61,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -207,44 +214,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Ntsc-rs – émulation vidéo open source d'artefacts TV et VHS analogiques",
+        "titleOriginal": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
+        "url": "https://ntsc.rs/",
+        "source": "ntsc.rs",
+        "score": 68,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48428025",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Zeroserve : un serveur Web à configuration zéro que vous pouvez scripter avec eBPF",
         "titleOriginal": "Zeroserve: A zero-config web server you can script with eBPF",
         "url": "https://su3.io/posts/introducing-zeroserve",
         "source": "su3.io",
-        "score": 91,
-        "comments": 22,
+        "score": 125,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=48425723",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Meta confirme que des milliers de comptes Instagram ont été piratés en abusant de son chatbot IA",
+        "titleOriginal": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+        "source": "this.weekinsecurity.com",
+        "score": 110,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=48427643",
+        "date": "il y a 2 h"
       },
       {
         "title": "Nvidia propose une bête d'un système CPU pour PC Windows",
         "titleOriginal": "Nvidia is proposing a beast of a CPU system for Windows PCs",
         "url": "https://twitter.com/lemire/status/2062880075117113739",
         "source": "twitter.com",
-        "score": 128,
-        "comments": 268,
+        "score": 168,
+        "comments": 338,
         "hnUrl": "https://news.ycombinator.com/item?id=48424605",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Maintenant vous pouvez lancer",
-        "titleOriginal": "You Can Run",
-        "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
-        "source": "magazine.atavist.com",
-        "score": 33,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48426202",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Le Pentagone a élevé au plus haut niveau la menace d'espionnage israélien aux États-Unis, selon des sources",
-        "titleOriginal": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-        "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-        "source": "nbcnews.com",
-        "score": 71,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48427523",
-        "date": "il y a 51 min"
+        "date": "il y a 7 h"
       }
     ]
   },
