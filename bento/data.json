@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-06T00:02:19.212Z",
+  "updatedAt": "2026-06-06T04:34:35.693Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
+      "temp": 10,
+      "feelsLike": 9,
       "code": 3,
-      "wind": 4,
+      "wind": 5,
       "humidity": 89
     },
     "forecast": [
@@ -19,40 +19,32 @@
       {
         "date": "2026-06-07",
         "code": 3,
-        "tmax": 21,
+        "tmax": 20,
         "tmin": 11
       },
       {
         "date": "2026-06-08",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 12
+        "code": 61,
+        "tmax": 21,
+        "tmin": 11
       },
       {
         "date": "2026-06-09",
         "code": 3,
-        "tmax": 20,
-        "tmin": 11
+        "tmax": 19,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Special Events",
-        "viewers": 584,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -207,54 +199,54 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les astronautes ont dit de retourner à l'ISS après s'être abrités pour réparer les fuites d'air",
-        "titleOriginal": "Astronauts told to return to ISS after sheltering over air leak repairs",
-        "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-        "source": "bbc.com",
-        "score": 343,
-        "comments": 219,
-        "hnUrl": "https://news.ycombinator.com/item?id=48413464",
-        "date": "il y a 9 h"
+        "title": "Les intracies de la réparation moderne de l'objectif de l'appareil photo (2024)",
+        "titleOriginal": "The intracies of modern camera lens repair (2024)",
+        "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+        "source": "salvagedcircuitry.com",
+        "score": 107,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48420148",
+        "date": "il y a 4 h"
       },
       {
-        "title": "pg_durable : Microsoft open sources in-database exécution durable",
-        "titleOriginal": "pg_durable: Microsoft open sources in-database durable execution",
-        "url": "https://github.com/microsoft/pg_durable",
-        "source": "github.com",
-        "score": 281,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48414367",
-        "date": "il y a 8 h"
+        "title": "Mode Lockdown",
+        "titleOriginal": "Lockdown Mode",
+        "url": "https://help.openai.com/en/articles/20001061-lockdown-mode",
+        "source": "help.openai.com",
+        "score": 17,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48421145",
+        "date": "il y a 58 min"
       },
       {
-        "title": "Modèles Gemma 4 QAT : Optimisation de la compression pour l'efficacité des mobiles et des ordinateurs portables",
-        "titleOriginal": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
-        "source": "blog.google",
-        "score": 235,
-        "comments": 78,
-        "hnUrl": "https://news.ycombinator.com/item?id=48414653",
-        "date": "il y a 7 h"
+        "title": "Fonctionnement des LLM",
+        "titleOriginal": "How LLMs work",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "source": "0xkato.xyz",
+        "score": 75,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48389360",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Une nouvelle méthode transforme l'eau des océans en eau potable, sans déchets",
-        "titleOriginal": "New method turns ocean water into drinking water, without waste",
-        "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
-        "source": "rochester.edu",
-        "score": 212,
-        "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=48413500",
-        "date": "il y a 8 h"
+        "title": "Armées pré-modernes pour les Worldbuilders, Partie I : Pourquoi ils se battent",
+        "titleOriginal": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+        "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+        "source": "acoup.blog",
+        "score": 7,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48421171",
+        "date": "il y a 53 min"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260603",
+    "resultsDate": "20260605",
     "results": [
       {
-        "id": "401859963",
-        "date": "2026-06-04T00:30Z",
+        "id": "401859964",
+        "date": "2026-06-06T00:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
@@ -264,7 +256,7 @@
           "abbr": "SA",
           "name": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 95,
+          "score": 104,
           "record": "62-20",
           "winner": false
         },
@@ -278,11 +270,11 @@
           "winner": true
         },
         "series": {
-          "summary": "NY leads series 1-0",
+          "summary": "NY leads series 2-0",
           "completed": false,
-          "round": "NBA Finals - Game 1",
+          "round": "NBA Finals - Game 2",
           "winsHome": 0,
-          "winsAway": 1
+          "winsAway": 2
         }
       }
     ],
@@ -301,8 +293,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
           },
           "winsHome": 0,
-          "winsAway": 1,
-          "summary": "NY leads series 1-0",
+          "winsAway": 2,
+          "summary": "NY leads series 2-0",
           "completed": false,
           "round": "NBA Finals - Game 2",
           "roundLabel": "Finales NBA",
