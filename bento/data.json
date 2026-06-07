@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-07T11:44:18.079Z",
+  "updatedAt": "2026-06-07T13:41:23.298Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
-      "code": 3,
-      "wind": 11,
-      "humidity": 51
+      "temp": 20,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 9,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL FAIT CROIRE QU'IL A GAGNÉ 200 M D'€ À L'EUROMILLIONS ET TOUS LES JOURNAUX VONT LE CROIRE",
+        "title": "IL FAIT CROIRE QU’IL A GAGNÉ 200 MILLIONS À L’EUROMILLIONS ET LAMBORGHINI LUI OFFRE UNE VOITURE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "vLCuCmy25Qk",
-        "thumbnail": "https://i.ytimg.com/vi/vLCuCmy25Qk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vLCuCmy25Qk",
-        "publishedAt": "2026-06-07T09:45:59+00:00"
+        "videoId": "zUifPGVSG74",
+        "thumbnail": "https://i.ytimg.com/vi/zUifPGVSG74/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zUifPGVSG74",
+        "publishedAt": "2026-06-07T13:00:25+00:00"
       },
       {
         "title": "Le vrai visage de l'IA : vers un futur incroyable ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les LLM érodent ma carrière d'ingénieur logiciel et je ne sais pas quoi faire",
+        "titleOriginal": "LLMs are eroding my software engineering career and I don't know what to do",
+        "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+        "source": "human-in-the-loop.bearblog.dev",
+        "score": 148,
+        "comments": 97,
+        "hnUrl": "https://news.ycombinator.com/item?id=48434312",
+        "date": "il y a 51 min"
+      },
+      {
+        "title": "Anthropic, veuillez expédier un bureau Claude officiel pour Linux",
+        "titleOriginal": "Anthropic, please ship an official Claude Desktop for Linux",
+        "url": "https://github.com/anthropics/claude-code/issues/65697",
+        "source": "github.com",
+        "score": 25,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48434436",
+        "date": "il y a 34 min"
+      },
+      {
+        "title": "Anthropic/OpenAI peut dépenser plus de 1 000 $ pour chaque 100 $ que vous les payez",
+        "titleOriginal": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
+        "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
+        "source": "ea.rna.nl",
+        "score": 16,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48434342",
+        "date": "il y a 46 min"
+      },
+      {
         "title": "Gagnants du 29e Concours international de code C obscurci (IOCCC) 2025",
         "titleOriginal": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
         "url": "https://www.ioccc.org/2025/",
         "source": "ioccc.org",
-        "score": 206,
-        "comments": 50,
+        "score": 250,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=48432199",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Codage KV spéculatif : compression sans perte du cache KV jusqu'à ~4×",
-        "titleOriginal": "Speculative KV coding: losslessly compressing KV cache by up to ~4×",
-        "url": "https://fergusfinn.com/blog/kv-entropy-coder/",
-        "source": "fergusfinn.com",
-        "score": 59,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48400151",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Gestion de la mémoire Win16",
-        "titleOriginal": "Win16 Memory Management",
-        "url": "http://www.os2museum.com/wp/win16-memory-management/",
-        "source": "os2museum.com",
-        "score": 38,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48410844",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Scientifiques éjectés de la conférence sur le diabète pour la distribution de réimpressions de revues",
-        "titleOriginal": "Scientists ejected from diabetes conference for distributing journal reprints",
-        "url": "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
-        "source": "arstechnica.com",
-        "score": 70,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48433410",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       }
     ]
   },
