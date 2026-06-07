@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-07T13:41:23.298Z",
+  "updatedAt": "2026-06-07T15:20:46.766Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 18,
-      "code": 2,
-      "wind": 9,
-      "humidity": 47
+      "temp": 21,
+      "feelsLike": 19,
+      "code": 1,
+      "wind": 8,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "date": "2026-06-08",
-        "code": 80,
+        "code": 61,
         "tmax": 22,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-09",
-        "code": 61,
+        "code": 80,
         "tmax": 18,
         "tmin": 9
       },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL FAIT CROIRE QU’IL A GAGNÉ 200 MILLIONS À L’EUROMILLIONS ET LAMBORGHINI LUI OFFRE UNE VOITURE !",
+        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "Mbb12ogBrAE",
+        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
+        "publishedAt": "2026-06-07T15:17:09+00:00"
+      },
+      {
+        "title": "IL A FAIT SEMBLANT DE GAGNER À L'EUROMILLIONS, SON MEILLEUR AMI LUI DEMANDE 11 MILLIONS D'EUROS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "zUifPGVSG74",
-        "thumbnail": "https://i.ytimg.com/vi/zUifPGVSG74/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zUifPGVSG74",
-        "publishedAt": "2026-06-07T13:00:25+00:00"
+        "videoId": "_uzbJBJcOXk",
+        "thumbnail": "https://i.ytimg.com/vi/_uzbJBJcOXk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_uzbJBJcOXk",
+        "publishedAt": "2026-06-07T15:00:02+00:00"
       },
       {
         "title": "Le vrai visage de l'IA : vers un futur incroyable ?",
@@ -113,15 +122,6 @@
         "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
         "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Je termine de rénover la petite ruine #21",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hJ80eNKg1iA",
-        "thumbnail": "https://i.ytimg.com/vi/hJ80eNKg1iA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hJ80eNKg1iA",
-        "publishedAt": "2026-05-17T15:17:38+00:00"
       },
       {
         "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'économie OnlyFans de l'IA américaine",
+        "titleOriginal": "The OnlyFans Economy of American AI",
+        "url": "https://leoveanu.com/2026-06-06-qwen3.7max/",
+        "source": "leoveanu.com",
+        "score": 39,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48435371",
+        "date": "il y a 33 min"
+      },
+      {
         "title": "Les LLM érodent ma carrière d'ingénieur logiciel et je ne sais pas quoi faire",
         "titleOriginal": "LLMs are eroding my software engineering career and I don't know what to do",
         "url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
         "source": "human-in-the-loop.bearblog.dev",
-        "score": 148,
-        "comments": 97,
+        "score": 357,
+        "comments": 287,
         "hnUrl": "https://news.ycombinator.com/item?id=48434312",
-        "date": "il y a 51 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Anthropic, veuillez expédier un bureau Claude officiel pour Linux",
         "titleOriginal": "Anthropic, please ship an official Claude Desktop for Linux",
         "url": "https://github.com/anthropics/claude-code/issues/65697",
         "source": "github.com",
-        "score": 25,
-        "comments": 19,
+        "score": 159,
+        "comments": 62,
         "hnUrl": "https://news.ycombinator.com/item?id=48434436",
-        "date": "il y a 34 min"
-      },
-      {
-        "title": "Anthropic/OpenAI peut dépenser plus de 1 000 $ pour chaque 100 $ que vous les payez",
-        "titleOriginal": "Anthropic/OpenAI may be spending more than $1000 for every $100 you pay them",
-        "url": "https://ea.rna.nl/2026/06/07/anthropic-openai-may-be-spending-more-than-1000-for-every-100-you-pay-them/",
-        "source": "ea.rna.nl",
-        "score": 16,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48434342",
-        "date": "il y a 46 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Gagnants du 29e Concours international de code C obscurci (IOCCC) 2025",
         "titleOriginal": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
         "url": "https://www.ioccc.org/2025/",
         "source": "ioccc.org",
-        "score": 250,
-        "comments": 58,
+        "score": 280,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=48432199",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       }
     ]
   },
