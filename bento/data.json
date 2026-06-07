@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-06T23:10:11.621Z",
+  "updatedAt": "2026-06-07T01:35:50.285Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 11,
-      "code": 3,
-      "wind": 13,
-      "humidity": 74
+      "temp": 11,
+      "feelsLike": 9,
+      "code": 2,
+      "wind": 9,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 139,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -211,40 +203,40 @@
         "titleOriginal": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
         "url": "https://ntsc.rs/",
         "source": "ntsc.rs",
-        "score": 205,
-        "comments": 34,
+        "score": 261,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48428025",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Meta confirme que des milliers de comptes Instagram ont été piratés en abusant de son chatbot IA",
-        "titleOriginal": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-        "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-        "source": "this.weekinsecurity.com",
-        "score": 303,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=48427643",
-        "date": "il y a 4 h"
+        "title": "Ingénierie du harnais : tirer parti du Codex dans un monde axé sur les agents",
+        "titleOriginal": "Harness engineering: Leveraging Codex in an agent-first world",
+        "url": "https://openai.com/index/harness-engineering/",
+        "source": "openai.com",
+        "score": 45,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48416264",
+        "date": "hier"
       },
       {
-        "title": "Zeroserve : un serveur Web à configuration zéro que vous pouvez scripter avec eBPF",
-        "titleOriginal": "Zeroserve: A zero-config web server you can script with eBPF",
-        "url": "https://su3.io/posts/introducing-zeroserve",
-        "source": "su3.io",
-        "score": 165,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48425723",
-        "date": "il y a 8 h"
+        "title": "Présentation de Boron Buckyballs : la théorie selon laquelle les cages B80 ne peuvent pas être fabriquées est réfutée",
+        "titleOriginal": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
+        "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
+        "source": "cen.acs.org",
+        "score": 18,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48405815",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Nvidia propose une bête d'un système CPU pour PC Windows",
-        "titleOriginal": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-        "url": "https://twitter.com/lemire/status/2062880075117113739",
-        "source": "twitter.com",
-        "score": 212,
-        "comments": 385,
-        "hnUrl": "https://news.ycombinator.com/item?id=48424605",
-        "date": "il y a 10 h"
+        "title": "Aller au-delà de la fourchette() + exec()",
+        "titleOriginal": "Moving beyond fork() + exec()",
+        "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+        "source": "lwn.net",
+        "score": 250,
+        "comments": 258,
+        "hnUrl": "https://news.ycombinator.com/item?id=48425528",
+        "date": "il y a 11 h"
       }
     ]
   },
