@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-07T01:35:50.285Z",
+  "updatedAt": "2026-06-07T06:19:03.175Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 9,
-      "code": 2,
-      "wind": 9,
-      "humidity": 77
+      "temp": 12,
+      "feelsLike": 10,
+      "code": 3,
+      "wind": 8,
+      "humidity": 81
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-06-08",
         "code": 61,
-        "tmax": 21,
-        "tmin": 12
+        "tmax": 22,
+        "tmin": 11
       },
       {
         "date": "2026-06-09",
         "code": 80,
-        "tmax": 19,
-        "tmin": 10
+        "tmax": 18,
+        "tmin": 9
       },
       {
         "date": "2026-06-10",
         "code": 3,
-        "tmax": 20,
-        "tmin": 10
+        "tmax": 19,
+        "tmin": 9
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Ntsc-rs – émulation vidéo open source d'artefacts TV et VHS analogiques",
-        "titleOriginal": "Ntsc-rs – open-source video emulation of analog TV and VHS artifacts",
-        "url": "https://ntsc.rs/",
-        "source": "ntsc.rs",
-        "score": 261,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=48428025",
-        "date": "il y a 6 h"
+        "title": "Vanne P2P réseau cassée depuis plus de 2 mois",
+        "titleOriginal": "Valve P2P networking broken for more than 2 months",
+        "url": "https://github.com/ValveSoftware/GameNetworkingSockets/issues/398",
+        "source": "github.com",
+        "score": 96,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=48431461",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Ingénierie du harnais : tirer parti du Codex dans un monde axé sur les agents",
-        "titleOriginal": "Harness engineering: Leveraging Codex in an agent-first world",
-        "url": "https://openai.com/index/harness-engineering/",
-        "source": "openai.com",
-        "score": 45,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48416264",
-        "date": "hier"
+        "title": "Je dessine avec Claude plus que Figma maintenant",
+        "titleOriginal": "I design with Claude more than Figma now",
+        "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+        "source": "blog.janestreet.com",
+        "score": 25,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48431981",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Présentation de Boron Buckyballs : la théorie selon laquelle les cages B80 ne peuvent pas être fabriquées est réfutée",
-        "titleOriginal": "Introducing Boron Buckyballs: Theory that B80 cages can’t be made is disproved",
-        "url": "https://cen.acs.org/materials/nanomaterials/buckyballs-boron-buckminster-fullerene-nanomaterials/104/web/2026/06",
-        "source": "cen.acs.org",
-        "score": 18,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48405815",
-        "date": "il y a 2 j"
+        "title": "Champ de clones : comment les répliques de chevaux ont fini par dominer le polo",
+        "titleOriginal": "Field of clones: How horse replicas came to dominate polo",
+        "url": "https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses",
+        "source": "knowablemagazine.org",
+        "score": 57,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48431286",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Aller au-delà de la fourchette() + exec()",
-        "titleOriginal": "Moving beyond fork() + exec()",
-        "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-        "source": "lwn.net",
-        "score": 250,
-        "comments": 258,
-        "hnUrl": "https://news.ycombinator.com/item?id=48425528",
-        "date": "il y a 11 h"
+        "title": "Gagnants du 29e Concours international de code C obscurci (IOCCC) 2025",
+        "titleOriginal": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+        "url": "https://www.ioccc.org/2025/",
+        "source": "ioccc.org",
+        "score": 10,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48432199",
+        "date": "il y a 31 min"
       }
     ]
   },
