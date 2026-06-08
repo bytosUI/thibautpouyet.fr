@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-08T20:07:18.503Z",
+  "updatedAt": "2026-06-08T22:08:13.236Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 15,
-      "code": 3,
-      "wind": 10,
-      "humidity": 69
+      "temp": 15,
+      "feelsLike": 14,
+      "code": 80,
+      "wind": 7,
+      "humidity": 73
     },
     "forecast": [
-      {
-        "date": "2026-06-08",
-        "code": 80,
-        "tmax": 23,
-        "tmin": 11
-      },
       {
         "date": "2026-06-09",
         "code": 80,
@@ -26,18 +20,33 @@
         "date": "2026-06-10",
         "code": 80,
         "tmax": 19,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-11",
-        "code": 3,
-        "tmax": 20,
+        "code": 61,
+        "tmax": 19,
         "tmin": 8
+      },
+      {
+        "date": "2026-06-12",
+        "code": 61,
+        "tmax": 23,
+        "tmin": 13
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 85,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -199,13 +207,23 @@
   "hackernews": {
     "items": [
       {
-        "title": "Empêcher le lancement de l'app Apple Music",
-        "titleOriginal": "Stop the Apple Music app from launching",
-        "url": "https://lowtechguys.com/musicdecoy/",
-        "source": "lowtechguys.com",
-        "score": 417,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=48447935",
+        "title": "La surveillance n'est pas la sécurité : une déclaration sur la dernière menace du Royaume-Uni pour la vie privée [pdf]",
+        "titleOriginal": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+        "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
+        "source": "signal.org",
+        "score": 200,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48450646",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Siri AI",
+        "titleOriginal": "Siri AI",
+        "url": "https://www.apple.com/apple-intelligence/",
+        "source": "apple.com",
+        "score": 274,
+        "comments": 207,
+        "hnUrl": "https://news.ycombinator.com/item?id=48449084",
         "date": "il y a 3 h"
       },
       {
@@ -213,30 +231,20 @@
         "titleOriginal": "Apple reveals new AI architecture built around Google Gemini models",
         "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
         "source": "macrumors.com",
-        "score": 47,
-        "comments": 6,
+        "score": 270,
+        "comments": 222,
         "hnUrl": "https://news.ycombinator.com/item?id=48450142",
-        "date": "il y a 52 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "MiMo-v2.5-Pro-UltraSpeed : modèle 1T avec 1000 jetons par seconde",
-        "titleOriginal": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-        "source": "mimo.xiaomi.com",
-        "score": 389,
-        "comments": 271,
-        "hnUrl": "https://news.ycombinator.com/item?id=48446639",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Show HN : Performative-UI - une bibliothèque de composants React de tropes de conception",
-        "titleOriginal": "Show HN: Performative-UI – a react component library of design tropes",
-        "url": "https://vorpus.github.io/performativeUI/",
-        "source": "vorpus.github.io",
-        "score": 581,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=48445554",
-        "date": "il y a 6 h"
+        "title": "OpenAI soumet le projet S-1 à la SEC",
+        "titleOriginal": "OpenAI Submits S-1 Draft to SEC",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+        "source": "openai.com",
+        "score": 55,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48452317",
+        "date": "il y a 45 min"
       }
     ]
   },
