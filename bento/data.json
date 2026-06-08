@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-08T14:16:24.159Z",
+  "updatedAt": "2026-06-08T17:33:39.829Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 21,
-      "code": 3,
-      "wind": 20,
-      "humidity": 56
+      "temp": 22,
+      "feelsLike": 19,
+      "code": 2,
+      "wind": 18,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -18,36 +18,28 @@
       },
       {
         "date": "2026-06-09",
-        "code": 3,
+        "code": 80,
         "tmax": 20,
         "tmin": 12
       },
       {
         "date": "2026-06-10",
-        "code": 80,
-        "tmax": 18,
+        "code": 61,
+        "tmax": 20,
         "tmin": 11
       },
       {
         "date": "2026-06-11",
-        "code": 61,
+        "code": 3,
         "tmax": 20,
-        "tmin": 7
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "GeoGuessr",
-        "viewers": 7147,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,22 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "CE POLICIER ROULE À 357 KM/H DANS SA LAMBORGHINI",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Evirkn9q-qY",
-        "thumbnail": "https://i.ytimg.com/vi/Evirkn9q-qY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Evirkn9q-qY",
-        "publishedAt": "2026-06-08T14:00:09+00:00"
-      },
-      {
-        "title": "Pourquoi la France a décroché des États-Unis depuis 2008 ?",
+        "title": "Qui a vraiment alimenté la peur de l'IA aux États-Unis ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "5H3QPeC6oMU",
-        "thumbnail": "https://i.ytimg.com/vi/5H3QPeC6oMU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5H3QPeC6oMU",
-        "publishedAt": "2026-06-08T11:00:56+00:00"
+        "videoId": "eVArpWWO1Uw",
+        "thumbnail": "https://i.ytimg.com/vi/eVArpWWO1Uw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eVArpWWO1Uw",
+        "publishedAt": "2026-06-08T17:01:32+00:00"
+      },
+      {
+        "title": "\"TOUS MES AMIS VOULAIENT MA PEAU\"",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "xIbJ2DqlKjI",
+        "thumbnail": "https://i.ytimg.com/vi/xIbJ2DqlKjI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xIbJ2DqlKjI",
+        "publishedAt": "2026-06-08T17:00:16+00:00"
+      },
+      {
+        "title": "L'entrée de Carlito au Eleven All Stars",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "UzRBGd1h_38",
+        "thumbnail": "https://i.ytimg.com/vi/UzRBGd1h_38/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UzRBGd1h_38",
+        "publishedAt": "2026-06-08T15:08:50+00:00"
       },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
@@ -94,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
         "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "On rigole mais vous nous le surveillez celui-là…",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "efG82mlsgTQ",
-        "thumbnail": "https://i.ytimg.com/vi/efG82mlsgTQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=efG82mlsgTQ",
-        "publishedAt": "2026-06-05T15:56:09+00:00"
       },
       {
         "title": "Il faisait 500K sans pub. C'était une erreur.",
@@ -207,13 +199,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Anti-social : ce sont les modes, pas les amis, qui dominent maintenant les flux de médias sociaux",
-        "titleOriginal": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-        "url": "https://www.bbc.com/worklife/article/20260520-how-social-media-ceased-to-be-social",
-        "source": "bbc.com",
-        "score": 115,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=48444228",
+        "title": "Show HN : Performative-UI - une bibliothèque de composants React de tropes de conception",
+        "titleOriginal": "Show HN: Performative-UI – a react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "source": "vorpus.github.io",
+        "score": 384,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=48445554",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Flux en direct Apple WWDC 2026",
+        "titleOriginal": "Apple WWDC 2026 Livestream",
+        "url": "https://www.apple.com/apple-events/event-stream/",
+        "source": "apple.com",
+        "score": 39,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48448106",
+        "date": "il y a 19 min"
+      },
+      {
+        "title": "MiMo-v2.5-Pro-UltraSpeed : modèle 1T avec 1000 jetons par seconde",
+        "titleOriginal": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "source": "mimo.xiaomi.com",
+        "score": 227,
+        "comments": 165,
+        "hnUrl": "https://news.ycombinator.com/item?id=48446639",
         "date": "il y a 2 h"
       },
       {
@@ -221,30 +233,10 @@
         "titleOriginal": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
         "url": "https://intunedhq.com",
         "source": "intunedhq.com",
-        "score": 35,
-        "comments": 6,
+        "score": 82,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=48445171",
-        "date": "il y a 40 min"
-      },
-      {
-        "title": "l’exemple",
-        "titleOriginal": "Zig by Example",
-        "url": "https://github.com/boringcollege/zig-by-example",
-        "source": "github.com",
-        "score": 75,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48444871",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Les traders espagnols établissent la norme pour la conception de la base de données GnuCash",
-        "titleOriginal": "Spanish traders set the standard forGnuCash database design",
-        "url": "https://handson.money/blog/2026-06-06-horse-arse-and-design/",
-        "source": "handson.money",
-        "score": 34,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48444784",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
