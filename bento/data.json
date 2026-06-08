@@ -1,46 +1,54 @@
 {
-  "updatedAt": "2026-06-08T05:10:50.694Z",
+  "updatedAt": "2026-06-08T10:00:21.904Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 4,
-      "humidity": 84
+      "wind": 8,
+      "humidity": 57
     },
     "forecast": [
       {
         "date": "2026-06-08",
-        "code": 80,
+        "code": 3,
         "tmax": 23,
         "tmin": 11
       },
       {
         "date": "2026-06-09",
-        "code": 61,
+        "code": 80,
         "tmax": 20,
         "tmin": 12
       },
       {
         "date": "2026-06-10",
         "code": 80,
-        "tmax": 17,
+        "tmax": 18,
         "tmin": 11
       },
       {
         "date": "2026-06-11",
         "code": 61,
-        "tmax": 19,
+        "tmax": 20,
         "tmin": 7
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 488,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -51,6 +59,24 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "IL FAIT CROIRE À SON MEILLEUR AMI QU'IL A GAGNÉ 200 MILLIONS D'€ À L'EUROMILLIONS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "kVoYcobnK8Q",
+        "thumbnail": "https://i.ytimg.com/vi/kVoYcobnK8Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kVoYcobnK8Q",
+        "publishedAt": "2026-06-08T09:30:06+00:00"
+      },
+      {
+        "title": "Pourquoi la France pousse ses meilleurs à partir ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "hG8AE0ZLd3U",
+        "thumbnail": "https://i.ytimg.com/vi/hG8AE0ZLd3U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hG8AE0ZLd3U",
+        "publishedAt": "2026-06-08T09:00:33+00:00"
+      },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
         "channel": "Ramy",
@@ -68,24 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
         "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "IL A FAIT SEMBLANT DE GAGNER À L'EUROMILLIONS, SON MEILLEUR AMI LUI DEMANDE 11 MILLIONS D'EUROS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "_uzbJBJcOXk",
-        "thumbnail": "https://i.ytimg.com/vi/_uzbJBJcOXk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_uzbJBJcOXk",
-        "publishedAt": "2026-06-07T15:00:02+00:00"
-      },
-      {
-        "title": "Le vrai visage de l'IA : vers un futur incroyable ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "TX5YmIthG14",
-        "thumbnail": "https://i.ytimg.com/vi/TX5YmIthG14/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TX5YmIthG14",
-        "publishedAt": "2026-06-06T06:30:06+00:00"
       },
       {
         "title": "On rigole mais vous nous le surveillez celui-là…",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un nouveau médicament « guérit fonctionnellement » de nombreuses infections par le virus de l'hépatite B",
-        "titleOriginal": "New drug 'functionally cures' many hepatitis B virus infections",
-        "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-        "source": "science.org",
-        "score": 108,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48440463",
-        "date": "il y a 3 h"
+        "title": "La bibliothèque Cypherpunk",
+        "titleOriginal": "The Cypherpunk Library",
+        "url": "https://www.cypherpunkbooks.com",
+        "source": "cypherpunkbooks.com",
+        "score": 50,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48442725",
+        "date": "il y a 1 h"
       },
       {
-        "title": "APC–2 – Un découpeur de disques professionnel pour la production de disques de lecture originaux",
-        "titleOriginal": "APC–2 – A professional record cutter for producing original playback discs",
-        "url": "https://teenage.engineering/products/apc-2",
-        "source": "teenage.engineering",
-        "score": 150,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=48440383",
-        "date": "il y a 3 h"
+        "title": "Les données OneDrive ont maintenant une date d'expiration",
+        "titleOriginal": "OneDrive data now has an expiry date",
+        "url": "https://ms365news.com/blogs/f/your-onedrive-data-now-has-an-expiry-data",
+        "source": "ms365news.com",
+        "score": 38,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48442569",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Fracturation à la dopamine",
+        "titleOriginal": "Dopamine Fracking",
+        "url": "https://igerman.cc/blog/dopamine-fracking/",
+        "source": "igerman.cc",
+        "score": 312,
+        "comments": 137,
+        "hnUrl": "https://news.ycombinator.com/item?id=48440792",
+        "date": "il y a 7 h"
       },
       {
         "title": "1 000 violations de données plus tard, le délai de divulgation est pire",
         "titleOriginal": "1k Data Breaches Later, the Disclosure Lag Is Worse",
         "url": "https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/",
         "source": "troyhunt.com",
-        "score": 33,
-        "comments": 11,
+        "score": 149,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=48440952",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Le plus petit cerveau que vous pouvez construire : un perceptron en Python",
-        "titleOriginal": "The Smallest Brain You Can Build: A Perceptron in Python",
-        "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
-        "source": "ranpara.net",
-        "score": 123,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48440064",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       }
     ]
   },
