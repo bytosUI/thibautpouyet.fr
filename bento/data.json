@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-07T22:35:17.393Z",
+  "updatedAt": "2026-06-08T00:02:06.810Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 14,
+      "temp": 13,
+      "feelsLike": 12,
       "code": 3,
-      "wind": 2,
-      "humidity": 73
+      "wind": 3,
+      "humidity": 81
     },
     "forecast": [
       {
@@ -203,40 +203,40 @@
         "titleOriginal": "How's Linear so fast? A technical breakdown",
         "url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
         "source": "performance.dev",
-        "score": 208,
-        "comments": 111,
+        "score": 257,
+        "comments": 134,
         "hnUrl": "https://news.ycombinator.com/item?id=48437609",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Construire à partir de zéro après une dépendance, une prison et un crime",
         "titleOriginal": "Building from zero after addiction, prison, and a felony",
         "url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
         "source": "gavinray97.github.io",
-        "score": 236,
-        "comments": 121,
+        "score": 305,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=48437406",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Si les LLM ont des attributs de type humain, il en va de même pour Age of Empires II",
-        "titleOriginal": "If LLMs Have Human-Like Attributes, Then So Does Age of Empires II",
-        "url": "https://arxiv.org/abs/2605.31514",
-        "source": "arxiv.org",
-        "score": 68,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=48437568",
-        "date": "il y a 3 h"
+        "title": "Montrer HN : J'ai dérivé une crêpe",
+        "titleOriginal": "Show HN: I Derived a Pancake",
+        "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+        "source": "absurdlyoptimized.com",
+        "score": 75,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48408854",
+        "date": "il y a 2 j"
       },
       {
         "title": "Faire la paix avec vos rêves non vécus (2023)",
         "titleOriginal": "Making peace with your unlived dreams (2023)",
         "url": "https://nik.art/making-peace-with-your-unlived-dreams/",
         "source": "nik.art",
-        "score": 92,
-        "comments": 42,
+        "score": 118,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=48437290",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
