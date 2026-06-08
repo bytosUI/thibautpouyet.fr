@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-08T22:08:13.236Z",
+  "updatedAt": "2026-06-08T23:44:22.468Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 80,
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 3,
       "wind": 7,
-      "humidity": 73
+      "humidity": 86
     },
     "forecast": [
       {
         "date": "2026-06-09",
-        "code": 80,
-        "tmax": 20,
-        "tmin": 12
+        "code": 61,
+        "tmax": 19,
+        "tmin": 11
       },
       {
         "date": "2026-06-10",
         "code": 80,
         "tmax": 19,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-06-11",
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 85,
+        "viewers": 123,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "OpenAI soumet le projet S-1 à la SEC",
+        "titleOriginal": "OpenAI Submits S-1 Draft to SEC",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1/",
+        "source": "openai.com",
+        "score": 203,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=48452317",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "La surveillance n'est pas la sécurité : une déclaration sur la dernière menace du Royaume-Uni pour la vie privée [pdf]",
         "titleOriginal": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
         "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
         "source": "signal.org",
-        "score": 200,
-        "comments": 27,
+        "score": 320,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=48450646",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Siri AI",
         "titleOriginal": "Siri AI",
         "url": "https://www.apple.com/apple-intelligence/",
         "source": "apple.com",
-        "score": 274,
-        "comments": 207,
+        "score": 347,
+        "comments": 274,
         "hnUrl": "https://news.ycombinator.com/item?id=48449084",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Apple révèle une nouvelle architecture d'IA construite autour des modèles Google Gemini",
-        "titleOriginal": "Apple reveals new AI architecture built around Google Gemini models",
-        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-        "source": "macrumors.com",
-        "score": 270,
-        "comments": 222,
-        "hnUrl": "https://news.ycombinator.com/item?id=48450142",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "OpenAI soumet le projet S-1 à la SEC",
-        "titleOriginal": "OpenAI Submits S-1 Draft to SEC",
-        "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-        "source": "openai.com",
-        "score": 55,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48452317",
-        "date": "il y a 45 min"
+        "title": "MiMo-v2.5-Pro-UltraSpeed : modèle 1T avec 1000 jetons par seconde",
+        "titleOriginal": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+        "source": "mimo.xiaomi.com",
+        "score": 470,
+        "comments": 317,
+        "hnUrl": "https://news.ycombinator.com/item?id=48446639",
+        "date": "il y a 8 h"
       }
     ]
   },
