@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-08T23:44:22.468Z",
+  "updatedAt": "2026-06-09T02:39:11.343Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
+      "temp": 12,
+      "feelsLike": 11,
       "code": 3,
-      "wind": 7,
-      "humidity": 86
+      "wind": 9,
+      "humidity": 91
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-06-10",
-        "code": 80,
+        "code": 61,
         "tmax": 19,
         "tmin": 11
       },
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 123,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,38 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "Pourquoi Anthropic cache Mythos au grand public ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "OLFZU9bF7wM",
-        "thumbnail": "https://i.ytimg.com/vi/OLFZU9bF7wM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLFZU9bF7wM",
-        "publishedAt": "2026-06-08T19:01:07+00:00"
-      },
-      {
-        "title": "\"TOUS MES AMIS VOULAIENT MA PEAU\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "xIbJ2DqlKjI",
-        "thumbnail": "https://i.ytimg.com/vi/xIbJ2DqlKjI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xIbJ2DqlKjI",
-        "publishedAt": "2026-06-08T17:00:16+00:00"
-      },
-      {
-        "title": "L'entrée de Carlito au Eleven All Stars",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "UzRBGd1h_38",
-        "thumbnail": "https://i.ytimg.com/vi/UzRBGd1h_38/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UzRBGd1h_38",
-        "publishedAt": "2026-06-08T15:08:50+00:00"
-      },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
         "channel": "Ramy",
@@ -103,33 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
         "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Il faisait 500K sans pub. C'était une erreur.",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "XYc5OzQa6Hg",
-        "thumbnail": "https://i.ytimg.com/vi/XYc5OzQa6Hg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XYc5OzQa6Hg",
-        "publishedAt": "2026-06-02T09:27:29+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
       },
       {
         "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
@@ -207,44 +145,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenAI soumet le projet S-1 à la SEC",
-        "titleOriginal": "OpenAI Submits S-1 Draft to SEC",
-        "url": "https://openai.com/index/openai-submits-confidential-s-1/",
-        "source": "openai.com",
-        "score": 203,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=48452317",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "La surveillance n'est pas la sécurité : une déclaration sur la dernière menace du Royaume-Uni pour la vie privée [pdf]",
-        "titleOriginal": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-        "url": "https://signal.org/blog/pdfs/2026-06-08-uk-surveillance-is-not-safety.pdf",
-        "source": "signal.org",
-        "score": 320,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=48450646",
-        "date": "il y a 4 h"
+        "title": "Apple révèle une nouvelle architecture d'IA construite autour des modèles Google Gemini",
+        "titleOriginal": "Apple reveals new AI architecture built around Google Gemini models",
+        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+        "source": "macrumors.com",
+        "score": 360,
+        "comments": 326,
+        "hnUrl": "https://news.ycombinator.com/item?id=48450142",
+        "date": "il y a 7 h"
       },
       {
         "title": "Siri AI",
         "titleOriginal": "Siri AI",
         "url": "https://www.apple.com/apple-intelligence/",
         "source": "apple.com",
-        "score": 347,
-        "comments": 274,
+        "score": 427,
+        "comments": 376,
         "hnUrl": "https://news.ycombinator.com/item?id=48449084",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "MiMo-v2.5-Pro-UltraSpeed : modèle 1T avec 1000 jetons par seconde",
-        "titleOriginal": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-        "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-        "source": "mimo.xiaomi.com",
-        "score": 470,
-        "comments": 317,
-        "hnUrl": "https://news.ycombinator.com/item?id=48446639",
-        "date": "il y a 8 h"
+        "title": "Hermes Agent – Agent d'IA open source avec mémoire persistante",
+        "titleOriginal": "Hermes Agent – Open-source AI agent with persistent memory",
+        "url": "https://hermes-agent.org/",
+        "source": "hermes-agent.org",
+        "score": 43,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48419000",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Show HN : Performative-UI - Une bibliothèque de composants React de tropes de conception",
+        "titleOriginal": "Show HN: Performative-UI – A react component library of design tropes",
+        "url": "https://vorpus.github.io/performativeUI/",
+        "source": "vorpus.github.io",
+        "score": 803,
+        "comments": 156,
+        "hnUrl": "https://news.ycombinator.com/item?id=48445554",
+        "date": "il y a 12 h"
       }
     ]
   },
