@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-09T22:19:46.758Z",
+  "updatedAt": "2026-06-09T23:49:34.764Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
+      "temp": 12,
+      "feelsLike": 11,
       "code": 3,
       "wind": 3,
-      "humidity": 82
+      "humidity": 84
     },
     "forecast": [
       {
         "date": "2026-06-10",
-        "code": 61,
+        "code": 95,
         "tmax": 19,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-06-11",
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 88,
+        "viewers": 101,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "anthropic.com",
-        "score": 1506,
-        "comments": 1185,
+        "score": 1644,
+        "comments": 1300,
         "hnUrl": "https://news.ycombinator.com/item?id=48463808",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Apprentissage automatique ultra-rapide sur les FPGA via les réseaux Kolmogorov-Arnold",
-        "titleOriginal": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-        "url": "https://aarushgupta.io/posts/kan-fpga/",
-        "source": "aarushgupta.io",
-        "score": 108,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48466277",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Changements de rupture à venir pour NPM v12",
         "titleOriginal": "Upcoming breaking changes for NPM v12",
         "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
         "source": "github.blog",
-        "score": 43,
-        "comments": 12,
+        "score": 120,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=48467705",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Rendre les graphismes comme en 1993",
-        "titleOriginal": "Making Graphics Like it's 1993",
-        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-        "source": "staniks.github.io",
-        "score": 709,
-        "comments": 117,
-        "hnUrl": "https://news.ycombinator.com/item?id=48459294",
-        "date": "il y a 11 h"
+        "title": "Apprentissage automatique ultra-rapide sur les FPGA via les réseaux Kolmogorov-Arnold",
+        "titleOriginal": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+        "url": "https://aarushgupta.io/posts/kan-fpga/",
+        "source": "aarushgupta.io",
+        "score": 136,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48466277",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Si Claude Fable cesse de vous aider, vous ne saurez jamais",
+        "titleOriginal": "If Claude Fable stops helping you, you'll never know",
+        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+        "source": "jonready.com",
+        "score": 288,
+        "comments": 132,
+        "hnUrl": "https://news.ycombinator.com/item?id=48467896",
+        "date": "il y a 2 h"
       }
     ]
   },
