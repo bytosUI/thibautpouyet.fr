@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-09T06:44:23.840Z",
+  "updatedAt": "2026-06-09T10:31:14.924Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 11,
-      "code": 2,
-      "wind": 12,
-      "humidity": 80
+      "temp": 17,
+      "feelsLike": 14,
+      "code": 3,
+      "wind": 18,
+      "humidity": 44
     },
     "forecast": [
       {
         "date": "2026-06-09",
-        "code": 80,
+        "code": 61,
         "tmax": 19,
         "tmin": 11
       },
@@ -20,7 +20,7 @@
         "date": "2026-06-10",
         "code": 80,
         "tmax": 19,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-11",
@@ -39,26 +39,108 @@
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 394,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "viewers": 337,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Les VSL d'1h20 ne fonctionnent plus en 2026",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "LP0yl-rcrmU",
+        "thumbnail": "https://i.ytimg.com/vi/LP0yl-rcrmU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LP0yl-rcrmU",
+        "publishedAt": "2026-06-09T10:11:56+00:00"
+      },
+      {
+        "title": "ELLE PEUT TOMBER SUR LE MEURTRIER DE SON MARI À CHAQUE COIN DE RUE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "HymBmmljy7A",
+        "thumbnail": "https://i.ytimg.com/vi/HymBmmljy7A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HymBmmljy7A",
+        "publishedAt": "2026-06-09T10:04:02+00:00"
+      },
+      {
+        "title": "Le RGPD a-t-il tué l'IA européenne ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "UAcC0vlw9BU",
+        "thumbnail": "https://i.ytimg.com/vi/UAcC0vlw9BU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UAcC0vlw9BU",
+        "publishedAt": "2026-06-09T09:00:30+00:00"
+      },
+      {
+        "title": "L'entrée de Carlito au Eleven All Stars",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "UzRBGd1h_38",
+        "thumbnail": "https://i.ytimg.com/vi/UzRBGd1h_38/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UzRBGd1h_38",
+        "publishedAt": "2026-06-08T15:08:50+00:00"
+      },
+      {
+        "title": "Comment je réapprends à vivre sans toi 🕊️",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "iLW2L68avB0",
+        "thumbnail": "https://i.ytimg.com/vi/iLW2L68avB0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iLW2L68avB0",
+        "publishedAt": "2026-06-07T17:32:11+00:00"
+      },
+      {
+        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "Mbb12ogBrAE",
+        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
+        "publishedAt": "2026-06-07T15:17:09+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -125,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apple révèle une nouvelle architecture d'IA construite autour des modèles Google Gemini",
-        "titleOriginal": "Apple reveals new AI architecture built around Google Gemini models",
-        "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-        "source": "macrumors.com",
-        "score": 514,
-        "comments": 393,
-        "hnUrl": "https://news.ycombinator.com/item?id=48450142",
-        "date": "il y a 11 h"
+        "title": "Les outils open source de Microsoft ont été piratés pour voler les mots de passe des développeurs d'IA",
+        "titleOriginal": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+        "source": "techcrunch.com",
+        "score": 165,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=48457830",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Old'aVista – Le guide le plus puissant de l'ancien Internet",
-        "titleOriginal": "Old'aVista – The most powerful guide to the old Internet",
-        "url": "https://oldavista.com/",
-        "source": "oldavista.com",
-        "score": 63,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48447111",
-        "date": "il y a 14 h"
+        "title": "GentleOS – Système d'exploitation classique avec une belle interface graphique rétro",
+        "titleOriginal": "GentleOS – Classic operating system with a lovely retro GUI",
+        "url": "https://github.com/luke8086/gentleos32",
+        "source": "github.com",
+        "score": 21,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48458890",
+        "date": "il y a 40 min"
       },
       {
-        "title": "Siri AI",
-        "titleOriginal": "Siri AI",
-        "url": "https://www.apple.com/apple-intelligence/",
-        "source": "apple.com",
-        "score": 523,
-        "comments": 468,
-        "hnUrl": "https://news.ycombinator.com/item?id=48449084",
-        "date": "il y a 12 h"
+        "title": "Forever Young : comment une molécule peut verrouiller les plantes dans un état de jeunesse.(2025)",
+        "titleOriginal": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+        "url": "https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age",
+        "source": "omnia.sas.upenn.edu",
+        "score": 29,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48458257",
+        "date": "il y a 2 h"
       },
       {
-        "title": "xAI ressemble plus à un REIT de centre de données qu'à un laboratoire frontalier",
-        "titleOriginal": "xAI is looking more like a datacentre REIT than a frontier lab",
-        "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-        "source": "martinalderson.com",
-        "score": 515,
-        "comments": 396,
-        "hnUrl": "https://news.ycombinator.com/item?id=48446428",
-        "date": "il y a 15 h"
+        "title": "OpenCV 5 est là : le plus grand bond en avant depuis des années pour la vision par ordinateur",
+        "titleOriginal": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+        "url": "https://opencv.org/opencv-5/",
+        "source": "opencv.org",
+        "score": 204,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48421858",
+        "date": "il y a 3 j"
       }
     ]
   },
