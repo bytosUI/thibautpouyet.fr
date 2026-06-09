@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-09T16:28:45.873Z",
+  "updatedAt": "2026-06-09T18:31:08.360Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 17,
       "feelsLike": 15,
       "code": 3,
-      "wind": 19,
-      "humidity": 39
+      "wind": 10,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-06-10",
-        "code": 61,
+        "code": 80,
         "tmax": 19,
         "tmin": 11
       },
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 20390,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Le pois chiche n’a jamais été aussi photogénique",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "QRxpc8UGSB8",
-        "thumbnail": "https://i.ytimg.com/vi/QRxpc8UGSB8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QRxpc8UGSB8",
-        "publishedAt": "2026-06-09T16:02:34+00:00"
-      },
-      {
-        "title": "SÉGOLÈNE ROYAL : TROMPÉE PAR FRANÇOIS HOLLANDE EN PLEINE ÉLECTION PRÉSIDENTIELLE, ELLE RACONTE TOUT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "oQfhaoCF4BA",
-        "thumbnail": "https://i.ytimg.com/vi/oQfhaoCF4BA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oQfhaoCF4BA",
-        "publishedAt": "2026-06-09T15:22:29+00:00"
-      },
-      {
-        "title": "Pourquoi il a interdit le 9h-17h dans sa boîte ?",
+        "title": "Twitter rend-il les IA psychopathes ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "PRfotgp9Pl8",
-        "thumbnail": "https://i.ytimg.com/vi/PRfotgp9Pl8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PRfotgp9Pl8",
-        "publishedAt": "2026-06-09T15:01:38+00:00"
+        "videoId": "dXMYSmxW-Dc",
+        "thumbnail": "https://i.ytimg.com/vi/dXMYSmxW-Dc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dXMYSmxW-Dc",
+        "publishedAt": "2026-06-09T18:01:12+00:00"
+      },
+      {
+        "title": "C’est génial ce jeu (on en profite pour faire notre top 3 Disney)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "U2K8UxxIX08",
+        "thumbnail": "https://i.ytimg.com/vi/U2K8UxxIX08/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U2K8UxxIX08",
+        "publishedAt": "2026-06-09T16:43:23+00:00"
+      },
+      {
+        "title": "SON MARI SE FAIT ASSASSINER PAR UN HOMME QUI L’A PRIS POUR LE DIABLE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "E-HoEfUv-bc",
+        "thumbnail": "https://i.ytimg.com/vi/E-HoEfUv-bc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E-HoEfUv-bc",
+        "publishedAt": "2026-06-09T14:00:18+00:00"
       },
       {
         "title": "Les VSL d'1h20 ne fonctionnent plus en 2026",
@@ -155,16 +163,16 @@
         "url": "https://www.themoviedb.org/movie/1430077"
       },
       {
+        "title": "Mortal Kombat II",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+        "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
         "title": "Scary Movie",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
         "url": "https://www.themoviedb.org/movie/1273221"
-      },
-      {
-        "title": "കാട്ടാളൻ",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
-        "url": "https://www.themoviedb.org/movie/1065834"
       }
     ]
   },
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Claude Fable 5",
+        "titleOriginal": "Claude Fable 5",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "source": "anthropic.com",
+        "score": 750,
+        "comments": 478,
+        "hnUrl": "https://news.ycombinator.com/item?id=48463808",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Apple a décidé de ne pas déployer Siri dans l'UE après avoir refusé la demande d'exemption",
         "titleOriginal": "Apple decided not to roll out Siri in EU after denied request for exemption",
         "url": "https://www.reuters.com/business/apple-failed-make-its-ai-tool-comply-eu-regulations-eu-commission-says-2026-06-09/",
         "source": "reuters.com",
-        "score": 26,
-        "comments": 9,
+        "score": 184,
+        "comments": 307,
         "hnUrl": "https://news.ycombinator.com/item?id=48463024",
-        "date": "il y a 15 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Carte système : Claude Fable 5 et Claude Mythos 5 [pdf]",
+        "titleOriginal": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+        "url": "https://www-cdn.anthropic.com/d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf",
+        "source": "www-cdn.anthropic.com",
+        "score": 172,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48463811",
+        "date": "il y a 1 h"
       },
       {
         "title": "Rendre les graphismes comme en 1993",
         "titleOriginal": "Making Graphics Like it's 1993",
         "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
         "source": "staniks.github.io",
-        "score": 429,
-        "comments": 60,
+        "score": 556,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=48459294",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Les outils open source de Microsoft ont été piratés pour voler les mots de passe des développeurs d'IA",
-        "titleOriginal": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-        "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-        "source": "techcrunch.com",
-        "score": 397,
-        "comments": 156,
-        "hnUrl": "https://news.ycombinator.com/item?id=48457830",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Les LLM peuvent-elles battre les algorithmes classiques d'optimisation des hyperparamètres ?",
-        "titleOriginal": "Can LLMs Beat Classical Hyperparameter Optimization Algorithms?",
-        "url": "https://arxiv.org/abs/2603.24647",
-        "source": "arxiv.org",
-        "score": 41,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48462062",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       }
     ]
   },
