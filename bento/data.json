@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-09T20:52:51.425Z",
+  "updatedAt": "2026-06-09T22:19:46.758Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
-      "code": 2,
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 3,
       "wind": 3,
-      "humidity": 77
+      "humidity": 82
     },
     "forecast": [
-      {
-        "date": "2026-06-09",
-        "code": 61,
-        "tmax": 19,
-        "tmin": 11
-      },
       {
         "date": "2026-06-10",
         "code": 61,
@@ -30,31 +24,37 @@
       },
       {
         "date": "2026-06-12",
-        "code": 3,
+        "code": 61,
         "tmax": 24,
-        "tmin": 14
+        "tmin": 13
+      },
+      {
+        "date": "2026-06-13",
+        "code": 45,
+        "tmax": 26,
+        "tmin": 12
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 12991,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 88,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -211,40 +211,40 @@
         "titleOriginal": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "anthropic.com",
-        "score": 1259,
-        "comments": 1038,
+        "score": 1506,
+        "comments": 1185,
         "hnUrl": "https://news.ycombinator.com/item?id=48463808",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "L'IA d'Apple peut maintenant changer vos mots de passe. Qu'est-ce qui pourrait mal tourner ?",
-        "titleOriginal": "Apple's AI Can Now Change Your Passwords. What Could Possibly Go Wrong?",
-        "url": "https://www.kylereddoch.me/blog/apples-ai-can-now-change-your-passwords-what-could-possibly-go-wrong/",
-        "source": "kylereddoch.me",
-        "score": 68,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48465744",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Apprentissage automatique ultra-rapide sur les FPGA via les réseaux Kolmogorov-Arnold",
         "titleOriginal": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
         "url": "https://aarushgupta.io/posts/kan-fpga/",
         "source": "aarushgupta.io",
-        "score": 45,
-        "comments": 9,
+        "score": 108,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=48466277",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Changements de rupture à venir pour NPM v12",
+        "titleOriginal": "Upcoming breaking changes for NPM v12",
+        "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+        "source": "github.blog",
+        "score": 43,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48467705",
         "date": "il y a 1 h"
       },
       {
-        "title": "Le « projet » de 20 % de Google est devenu l '« attention » de 120 % de l'IA",
-        "titleOriginal": "Google's 20% 'project' has become AI's 120% 'attention'",
-        "url": "https://joe.dev/posts/new-20pct-time/",
-        "source": "joe.dev",
-        "score": 18,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48466917",
-        "date": "il y a 46 min"
+        "title": "Rendre les graphismes comme en 1993",
+        "titleOriginal": "Making Graphics Like it's 1993",
+        "url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+        "source": "staniks.github.io",
+        "score": 709,
+        "comments": 117,
+        "hnUrl": "https://news.ycombinator.com/item?id=48459294",
+        "date": "il y a 11 h"
       }
     ]
   },
