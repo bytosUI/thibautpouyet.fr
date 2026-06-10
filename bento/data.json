@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-10T02:53:00.736Z",
+  "updatedAt": "2026-06-10T07:05:22.022Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
+      "temp": 12,
       "feelsLike": 11,
-      "code": 3,
-      "wind": 2,
+      "code": 61,
+      "wind": 6,
       "humidity": 90
     },
     "forecast": [
       {
         "date": "2026-06-10",
-        "code": 61,
+        "code": 80,
         "tmax": 19,
         "tmin": 11
       },
@@ -20,19 +20,19 @@
         "date": "2026-06-11",
         "code": 61,
         "tmax": 19,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-06-12",
         "code": 61,
-        "tmax": 24,
-        "tmin": 13
+        "tmax": 22,
+        "tmin": 14
       },
       {
         "date": "2026-06-13",
-        "code": 45,
-        "tmax": 26,
-        "tmin": 12
+        "code": 3,
+        "tmax": 25,
+        "tmin": 14
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "Twitter rend-il les IA psychopathes ?",
+        "title": "On a dépassé le point de non-retour - Anthropic face au dilemme du prisonnier !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "dXMYSmxW-Dc",
-        "thumbnail": "https://i.ytimg.com/vi/dXMYSmxW-Dc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dXMYSmxW-Dc",
-        "publishedAt": "2026-06-09T18:01:12+00:00"
+        "videoId": "4kyw6te9Y5E",
+        "thumbnail": "https://i.ytimg.com/vi/4kyw6te9Y5E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4kyw6te9Y5E",
+        "publishedAt": "2026-06-10T06:30:39+00:00"
+      },
+      {
+        "title": "C’est génial ce jeu (on en profite pour faire notre top 3 Disney)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "U2K8UxxIX08",
+        "thumbnail": "https://i.ytimg.com/vi/U2K8UxxIX08/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U2K8UxxIX08",
+        "publishedAt": "2026-06-09T16:43:23+00:00"
       },
       {
         "title": "SON MARI SE FAIT ASSASSINER PAR UN HOMME QUI L’A PRIS POUR LE DIABLE",
@@ -70,6 +79,15 @@
         "publishedAt": "2026-06-09T14:00:18+00:00"
       },
       {
+        "title": "Les VSL d'1h20 ne fonctionnent plus en 2026",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "LP0yl-rcrmU",
+        "thumbnail": "https://i.ytimg.com/vi/LP0yl-rcrmU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LP0yl-rcrmU",
+        "publishedAt": "2026-06-09T10:11:56+00:00"
+      },
+      {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -77,6 +95,42 @@
         "thumbnail": "https://i.ytimg.com/vi/iLW2L68avB0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iLW2L68avB0",
         "publishedAt": "2026-06-07T17:32:11+00:00"
+      },
+      {
+        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "Mbb12ogBrAE",
+        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
+        "publishedAt": "2026-06-07T15:17:09+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -149,40 +203,40 @@
         "titleOriginal": "macOS Container Machines",
         "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
         "source": "github.com",
-        "score": 230,
-        "comments": 89,
+        "score": 577,
+        "comments": 215,
         "hnUrl": "https://news.ycombinator.com/item?id=48469658",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Claude Fable 5",
         "titleOriginal": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "anthropic.com",
-        "score": 1834,
-        "comments": 1448,
+        "score": 2077,
+        "comments": 1603,
         "hnUrl": "https://news.ycombinator.com/item?id=48463808",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Rich Sutton sur la créativité et la découverte de l'IA",
-        "titleOriginal": "Rich Sutton on AI creativity and discovery",
-        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
-        "source": "twitter.com",
-        "score": 15,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48470581",
-        "date": "il y a 27 min"
+        "date": "il y a 14 h"
       },
       {
         "title": "Modifications de rupture à venir pour npm v12",
         "titleOriginal": "Upcoming breaking changes for npm v12",
         "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
         "source": "github.blog",
-        "score": 217,
-        "comments": 65,
+        "score": 311,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=48467705",
-        "date": "il y a 5 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Google Chrome tue tous les contournements uBlock Origin, Edge, Opera à suivre",
+        "titleOriginal": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
+        "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+        "source": "neowin.net",
+        "score": 97,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48471970",
+        "date": "il y a 1 h"
       }
     ]
   },
@@ -242,10 +296,10 @@
           "winsAway": 1,
           "summary": "NY leads series 2-1",
           "completed": false,
-          "round": "NBA Finals - Game 3",
+          "round": "NBA Finals - Game 4",
           "roundLabel": "Finales NBA",
           "roundOrder": 4,
-          "lastDate": "2026-06-09T00:30Z"
+          "lastDate": "2026-06-11T00:30Z"
         }
       ]
     }
