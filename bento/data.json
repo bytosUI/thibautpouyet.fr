@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-10T11:07:41.422Z",
+  "updatedAt": "2026-06-10T14:34:12.306Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 18,
       "feelsLike": 15,
       "code": 3,
-      "wind": 12,
-      "humidity": 50
+      "wind": 15,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-06-10",
-        "code": 80,
-        "tmax": 18,
+        "code": 61,
+        "tmax": 19,
         "tmin": 11
       },
       {
         "date": "2026-06-11",
         "code": 61,
-        "tmax": 20,
-        "tmin": 9
+        "tmax": 19,
+        "tmin": 8
       },
       {
         "date": "2026-06-12",
-        "code": 61,
+        "code": 3,
         "tmax": 23,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-06-13",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FRANÇOIS HOLLANDE AVAIT DEUX FEMMES PENDANT DEUX ANS !",
+        "title": "\"J'ÉTAIS LA MEILLEURE PENDANT LE DÉBAT D'ENTRE-DEUX-TOURS CONTRE SARKOZY !\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "_gQGHj6wly4",
-        "thumbnail": "https://i.ytimg.com/vi/_gQGHj6wly4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_gQGHj6wly4",
-        "publishedAt": "2026-06-10T10:00:20+00:00"
+        "videoId": "5Uog74j9mPA",
+        "thumbnail": "https://i.ytimg.com/vi/5Uog74j9mPA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5Uog74j9mPA",
+        "publishedAt": "2026-06-10T13:00:28+00:00"
       },
       {
         "title": "Les vues ne rapportent pas de clients ?",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La construction d'un site HTML-first a doublé nos utilisateurs du jour au lendemain",
+        "titleOriginal": "Building an HTML-first site doubled our users overnight",
+        "url": "https://mohkohn.co.uk/writing/html-first/",
+        "source": "mohkohn.co.uk",
+        "score": 182,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=48475483",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Mercedes-Benz démarre la production à grandeéchelle de moteurs électriques à flux axial",
         "titleOriginal": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
         "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
         "source": "media.mercedes-benz.com",
-        "score": 123,
-        "comments": 57,
+        "score": 301,
+        "comments": 162,
         "hnUrl": "https://news.ycombinator.com/item?id=48472877",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "machines conteneur macOS",
-        "titleOriginal": "macOS Container Machines",
-        "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
-        "source": "github.com",
-        "score": 812,
-        "comments": 294,
-        "hnUrl": "https://news.ycombinator.com/item?id=48469658",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Claude Fable 5",
-        "titleOriginal": "Claude Fable 5",
-        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-        "source": "anthropic.com",
-        "score": 2276,
-        "comments": 1766,
-        "hnUrl": "https://news.ycombinator.com/item?id=48463808",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "Port React Compiler à Rust",
-        "titleOriginal": "Port React Compiler to Rust",
-        "url": "https://github.com/react/react/pull/36173",
-        "source": "github.com",
-        "score": 49,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=48473662",
+        "title": "Je déteste (la plupart) les touches « Fn » du clavier",
+        "titleOriginal": "I Hate (Most) Keyboard 'Fn' Keys",
+        "url": "https://danq.me/2026/06/09/fn-keys/",
+        "source": "danq.me",
+        "score": 103,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=48475938",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "PgDog est financé et arrive dans une base de données près de chez vous",
+        "titleOriginal": "PgDog is funded and coming to a database near you",
+        "url": "https://pgdog.dev/blog/our-funding-announcement",
+        "source": "pgdog.dev",
+        "score": 22,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48476466",
+        "date": "il y a 31 min"
       }
     ]
   },
