@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-10T17:54:59.608Z",
+  "updatedAt": "2026-06-10T20:22:44.706Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
-      "code": 61,
-      "wind": 14,
-      "humidity": 55
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 2,
+      "wind": 7,
+      "humidity": 80
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Football Manager 26",
-        "viewers": 375,
+        "viewers": 17233,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La construction d'un site HTML-first a doublé nos utilisateurs du jour au lendemain",
-        "titleOriginal": "Building an HTML-first site doubled our users overnight",
-        "url": "https://mohkohn.co.uk/writing/html-first/",
-        "source": "mohkohn.co.uk",
-        "score": 723,
-        "comments": 326,
-        "hnUrl": "https://news.ycombinator.com/item?id=48475483",
-        "date": "il y a 5 h"
+        "title": "Claude Desktop fait tourner une VM sans aucun moyen de l'arrêter",
+        "titleOriginal": "Claude Desktop spins up a VM without no way of stopping it",
+        "url": "https://github.com/anthropics/claude-code/issues/29045",
+        "source": "github.com",
+        "score": 209,
+        "comments": 130,
+        "hnUrl": "https://news.ycombinator.com/item?id=48479452",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Dénomination du modèle d'Anthropic, extrapolée",
+        "titleOriginal": "Anthropic's Model Naming, Extrapolated",
+        "url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+        "source": "samwilkinson.io",
+        "score": 90,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48480852",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Comment le JPL maintient le rover Curiosity de 13 ans en activité scientifique",
+        "titleOriginal": "How JPL keeps the 13-year-old Curiosity rover doing science",
+        "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
+        "source": "spectrum.ieee.org",
+        "score": 91,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48479705",
+        "date": "il y a 2 h"
       },
       {
         "title": "Je suis Eric Ries, auteur de \"The Lean Startup\" et du nouveau livre \"Incorruptible\" – AMA",
         "titleOriginal": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
         "url": "https://news.ycombinator.com/item?id=48477135",
         "source": "news.ycombinator.com",
-        "score": 233,
-        "comments": 164,
+        "score": 377,
+        "comments": 316,
         "hnUrl": "https://news.ycombinator.com/item?id=48477135",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "PgDog est financé et arrive dans une base de données près de chez vous",
-        "titleOriginal": "PgDog is funded and coming to a database near you",
-        "url": "https://pgdog.dev/blog/our-funding-announcement",
-        "source": "pgdog.dev",
-        "score": 205,
-        "comments": 107,
-        "hnUrl": "https://news.ycombinator.com/item?id=48476466",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Problèmes d'authentification GitHub liés aux demandes d'API",
-        "titleOriginal": "GitHub Authentication issues related to API requests",
-        "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
-        "source": "githubstatus.com",
-        "score": 71,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48477851",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       }
     ]
   },
