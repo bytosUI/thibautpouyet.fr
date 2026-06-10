@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-10T14:34:12.306Z",
+  "updatedAt": "2026-06-10T17:54:59.608Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 15,
-      "code": 3,
-      "wind": 15,
-      "humidity": 48
+      "temp": 16,
+      "feelsLike": 14,
+      "code": 61,
+      "wind": 14,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Football Manager 26",
+        "viewers": 375,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -51,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Carlito affronte l’un des boss les plus durs de FFVIII",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "jDXemog9asg",
+        "thumbnail": "https://i.ytimg.com/vi/jDXemog9asg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jDXemog9asg",
+        "publishedAt": "2026-06-10T15:21:48+00:00"
+      },
       {
         "title": "\"J'ÉTAIS LA MEILLEURE PENDANT LE DÉBAT D'ENTRE-DEUX-TOURS CONTRE SARKOZY !\"",
         "channel": "LEGEND",
@@ -77,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/4kyw6te9Y5E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4kyw6te9Y5E",
         "publishedAt": "2026-06-10T06:30:39+00:00"
-      },
-      {
-        "title": "C’est génial ce jeu (on en profite pour faire notre top 3 Disney)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "U2K8UxxIX08",
-        "thumbnail": "https://i.ytimg.com/vi/U2K8UxxIX08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U2K8UxxIX08",
-        "publishedAt": "2026-06-09T16:43:23+00:00"
       },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
@@ -149,16 +157,16 @@
         "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "title": "Backrooms",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
-        "url": "https://www.themoviedb.org/movie/1083381"
-      },
-      {
         "title": "Mortal Kombat II",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "title": "Backrooms",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
+        "url": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "title": "Scary Movie",
@@ -203,40 +211,40 @@
         "titleOriginal": "Building an HTML-first site doubled our users overnight",
         "url": "https://mohkohn.co.uk/writing/html-first/",
         "source": "mohkohn.co.uk",
-        "score": 182,
-        "comments": 68,
+        "score": 723,
+        "comments": 326,
         "hnUrl": "https://news.ycombinator.com/item?id=48475483",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Mercedes-Benz démarre la production à grandeéchelle de moteurs électriques à flux axial",
-        "titleOriginal": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-        "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-        "source": "media.mercedes-benz.com",
-        "score": 301,
-        "comments": 162,
-        "hnUrl": "https://news.ycombinator.com/item?id=48472877",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Je déteste (la plupart) les touches « Fn » du clavier",
-        "titleOriginal": "I Hate (Most) Keyboard 'Fn' Keys",
-        "url": "https://danq.me/2026/06/09/fn-keys/",
-        "source": "danq.me",
-        "score": 103,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=48475938",
-        "date": "il y a 1 h"
+        "title": "Je suis Eric Ries, auteur de \"The Lean Startup\" et du nouveau livre \"Incorruptible\" – AMA",
+        "titleOriginal": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
+        "url": "https://news.ycombinator.com/item?id=48477135",
+        "source": "news.ycombinator.com",
+        "score": 233,
+        "comments": 164,
+        "hnUrl": "https://news.ycombinator.com/item?id=48477135",
+        "date": "il y a 3 h"
       },
       {
         "title": "PgDog est financé et arrive dans une base de données près de chez vous",
         "titleOriginal": "PgDog is funded and coming to a database near you",
         "url": "https://pgdog.dev/blog/our-funding-announcement",
         "source": "pgdog.dev",
-        "score": 22,
-        "comments": 12,
+        "score": 205,
+        "comments": 107,
         "hnUrl": "https://news.ycombinator.com/item?id=48476466",
-        "date": "il y a 31 min"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Problèmes d'authentification GitHub liés aux demandes d'API",
+        "titleOriginal": "GitHub Authentication issues related to API requests",
+        "url": "https://www.githubstatus.com/incidents/fcj3088jg1wx",
+        "source": "githubstatus.com",
+        "score": 71,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48477851",
+        "date": "il y a 2 h"
       }
     ]
   },
