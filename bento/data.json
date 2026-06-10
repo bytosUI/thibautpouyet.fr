@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-09T23:49:34.764Z",
+  "updatedAt": "2026-06-10T02:53:00.736Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
+      "temp": 11,
       "feelsLike": 11,
       "code": 3,
-      "wind": 3,
-      "humidity": 84
+      "wind": 2,
+      "humidity": 90
     },
     "forecast": [
       {
         "date": "2026-06-10",
-        "code": 95,
+        "code": 61,
         "tmax": 19,
         "tmin": 11
       },
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 101,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -69,15 +61,6 @@
         "publishedAt": "2026-06-09T18:01:12+00:00"
       },
       {
-        "title": "C’est génial ce jeu (on en profite pour faire notre top 3 Disney)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "U2K8UxxIX08",
-        "thumbnail": "https://i.ytimg.com/vi/U2K8UxxIX08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U2K8UxxIX08",
-        "publishedAt": "2026-06-09T16:43:23+00:00"
-      },
-      {
         "title": "SON MARI SE FAIT ASSASSINER PAR UN HOMME QUI L’A PRIS POUR LE DIABLE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -87,15 +70,6 @@
         "publishedAt": "2026-06-09T14:00:18+00:00"
       },
       {
-        "title": "Les VSL d'1h20 ne fonctionnent plus en 2026",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "LP0yl-rcrmU",
-        "thumbnail": "https://i.ytimg.com/vi/LP0yl-rcrmU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LP0yl-rcrmU",
-        "publishedAt": "2026-06-09T10:11:56+00:00"
-      },
-      {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -103,42 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/iLW2L68avB0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iLW2L68avB0",
         "publishedAt": "2026-06-07T17:32:11+00:00"
-      },
-      {
-        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "Mbb12ogBrAE",
-        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
-        "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -157,10 +95,10 @@
         "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "title": "Hokum",
+        "title": "Backrooms",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/2sq0GooVOtvGAQRyuYsSg9GA8Fy.jpg",
-        "url": "https://www.themoviedb.org/movie/1430077"
+        "poster": "https://image.tmdb.org/t/p/w342/thQQ3BBBhGDtWm3UTtabhyDJd8U.jpg",
+        "url": "https://www.themoviedb.org/movie/1083381"
       },
       {
         "title": "Mortal Kombat II",
@@ -207,44 +145,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "machines conteneur macOS",
+        "titleOriginal": "macOS Container Machines",
+        "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+        "source": "github.com",
+        "score": 230,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=48469658",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Claude Fable 5",
         "titleOriginal": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "anthropic.com",
-        "score": 1644,
-        "comments": 1300,
+        "score": 1834,
+        "comments": 1448,
         "hnUrl": "https://news.ycombinator.com/item?id=48463808",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Changements de rupture à venir pour NPM v12",
-        "titleOriginal": "Upcoming breaking changes for NPM v12",
+        "title": "Rich Sutton sur la créativité et la découverte de l'IA",
+        "titleOriginal": "Rich Sutton on AI creativity and discovery",
+        "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+        "source": "twitter.com",
+        "score": 15,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48470581",
+        "date": "il y a 27 min"
+      },
+      {
+        "title": "Modifications de rupture à venir pour npm v12",
+        "titleOriginal": "Upcoming breaking changes for npm v12",
         "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
         "source": "github.blog",
-        "score": 120,
-        "comments": 36,
+        "score": 217,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=48467705",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Apprentissage automatique ultra-rapide sur les FPGA via les réseaux Kolmogorov-Arnold",
-        "titleOriginal": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-        "url": "https://aarushgupta.io/posts/kan-fpga/",
-        "source": "aarushgupta.io",
-        "score": 136,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48466277",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Si Claude Fable cesse de vous aider, vous ne saurez jamais",
-        "titleOriginal": "If Claude Fable stops helping you, you'll never know",
-        "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-        "source": "jonready.com",
-        "score": 288,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=48467896",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       }
     ]
   },
