@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-06-10T07:05:22.022Z",
+  "updatedAt": "2026-06-10T11:07:41.422Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 11,
-      "code": 61,
-      "wind": 6,
-      "humidity": 90
+      "temp": 17,
+      "feelsLike": 15,
+      "code": 3,
+      "wind": 12,
+      "humidity": 50
     },
     "forecast": [
       {
         "date": "2026-06-10",
         "code": 80,
-        "tmax": 19,
+        "tmax": 18,
         "tmin": 11
       },
       {
         "date": "2026-06-11",
         "code": 61,
-        "tmax": 19,
+        "tmax": 20,
         "tmin": 9
       },
       {
         "date": "2026-06-12",
         "code": 61,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 14
       },
       {
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "FRANÇOIS HOLLANDE AVAIT DEUX FEMMES PENDANT DEUX ANS !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "_gQGHj6wly4",
+        "thumbnail": "https://i.ytimg.com/vi/_gQGHj6wly4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_gQGHj6wly4",
+        "publishedAt": "2026-06-10T10:00:20+00:00"
+      },
+      {
+        "title": "Les vues ne rapportent pas de clients ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "BEnDHwY9J6U",
+        "thumbnail": "https://i.ytimg.com/vi/BEnDHwY9J6U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BEnDHwY9J6U",
+        "publishedAt": "2026-06-10T07:20:39+00:00"
+      },
+      {
         "title": "On a dépassé le point de non-retour - Anthropic face au dilemme du prisonnier !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -68,24 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/U2K8UxxIX08/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=U2K8UxxIX08",
         "publishedAt": "2026-06-09T16:43:23+00:00"
-      },
-      {
-        "title": "SON MARI SE FAIT ASSASSINER PAR UN HOMME QUI L’A PRIS POUR LE DIABLE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "E-HoEfUv-bc",
-        "thumbnail": "https://i.ytimg.com/vi/E-HoEfUv-bc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E-HoEfUv-bc",
-        "publishedAt": "2026-06-09T14:00:18+00:00"
-      },
-      {
-        "title": "Les VSL d'1h20 ne fonctionnent plus en 2026",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "LP0yl-rcrmU",
-        "thumbnail": "https://i.ytimg.com/vi/LP0yl-rcrmU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LP0yl-rcrmU",
-        "publishedAt": "2026-06-09T10:11:56+00:00"
       },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
@@ -199,43 +199,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Mercedes-Benz démarre la production à grandeéchelle de moteurs électriques à flux axial",
+        "titleOriginal": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
+        "url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+        "source": "media.mercedes-benz.com",
+        "score": 123,
+        "comments": 57,
+        "hnUrl": "https://news.ycombinator.com/item?id=48472877",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "machines conteneur macOS",
         "titleOriginal": "macOS Container Machines",
         "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
         "source": "github.com",
-        "score": 577,
-        "comments": 215,
+        "score": 812,
+        "comments": 294,
         "hnUrl": "https://news.ycombinator.com/item?id=48469658",
-        "date": "il y a 6 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Claude Fable 5",
         "titleOriginal": "Claude Fable 5",
         "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
         "source": "anthropic.com",
-        "score": 2077,
-        "comments": 1603,
+        "score": 2276,
+        "comments": 1766,
         "hnUrl": "https://news.ycombinator.com/item?id=48463808",
-        "date": "il y a 14 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Modifications de rupture à venir pour npm v12",
-        "titleOriginal": "Upcoming breaking changes for npm v12",
-        "url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
-        "source": "github.blog",
-        "score": 311,
-        "comments": 109,
-        "hnUrl": "https://news.ycombinator.com/item?id=48467705",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Google Chrome tue tous les contournements uBlock Origin, Edge, Opera à suivre",
-        "titleOriginal": "Google Chrome is killing all uBlock Origin bypasses, Edge, Opera to follow",
-        "url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-        "source": "neowin.net",
-        "score": 97,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=48471970",
+        "title": "Port React Compiler à Rust",
+        "titleOriginal": "Port React Compiler to Rust",
+        "url": "https://github.com/react/react/pull/36173",
+        "source": "github.com",
+        "score": 49,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=48473662",
         "date": "il y a 1 h"
       }
     ]
