@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-10T22:25:10.874Z",
+  "updatedAt": "2026-06-10T23:55:09.633Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
+      "temp": 11,
       "feelsLike": 10,
-      "code": 1,
+      "code": 2,
       "wind": 6,
-      "humidity": 86
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-06-11",
         "code": 61,
         "tmax": 19,
-        "tmin": 8
+        "tmin": 10
       },
       {
         "date": "2026-06-12",
-        "code": 3,
+        "code": 61,
         "tmax": 23,
-        "tmin": 15
+        "tmin": 13
       },
       {
         "date": "2026-06-13",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Football Manager 26",
-        "viewers": 15380,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les chercheurs en cybersécurité ne sont pas satisfaits des garde-fous de la Fable d'Anthropic",
+        "titleOriginal": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "source": "techcrunch.com",
+        "score": 92,
+        "comments": 71,
+        "hnUrl": "https://news.ycombinator.com/item?id=48478969",
+        "date": "il y a 7 h"
+      },
+      {
         "title": "πFS",
         "titleOriginal": "πFS",
         "url": "https://github.com/philipl/pifs",
         "source": "github.com",
-        "score": 309,
-        "comments": 84,
+        "score": 450,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=48480978",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Comment le JPL maintient le rover Curiosity de 13 ans en activité scientifique",
-        "titleOriginal": "How JPL keeps the 13-year-old Curiosity rover doing science",
-        "url": "https://spectrum.ieee.org/curiosity-rover-jpl-mars-science",
-        "source": "spectrum.ieee.org",
-        "score": 131,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48479705",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Je suis Eric Ries, auteur de \"The Lean Startup\" et du nouveau livre \"Incorruptible\" – AMA",
-        "titleOriginal": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-        "url": "https://news.ycombinator.com/item?id=48477135",
-        "source": "news.ycombinator.com",
-        "score": 457,
-        "comments": 379,
-        "hnUrl": "https://news.ycombinator.com/item?id=48477135",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Qu'est-ce que ça fait d'être une chauve-souris ? (1974) [pdf]",
-        "titleOriginal": "What is it like to be a bat? (1974) [pdf]",
-        "url": "https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf",
-        "source": "sas.upenn.edu",
-        "score": 38,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48482293",
+        "title": "Un langage écrit pour le Cherokee si efficace qu'il a été pensé pour être magique",
+        "titleOriginal": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+        "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
+        "source": "smithsonianmag.com",
+        "score": 46,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48483387",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Anthropic nécessite une conservation des données de 30 jours pour Fable et Mythos",
+        "titleOriginal": "Anthropic requires 30 day data retention for Fable and Mythos",
+        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+        "source": "support.claude.com",
+        "score": 112,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=48464258",
+        "date": "hier"
       }
     ]
   },
