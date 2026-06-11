@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-11T03:25:23.832Z",
+  "updatedAt": "2026-06-11T08:20:17.986Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
+      "temp": 14,
+      "feelsLike": 12,
       "code": 3,
-      "wind": 7,
-      "humidity": 87
+      "wind": 10,
+      "humidity": 65
     },
     "forecast": [
       {
         "date": "2026-06-11",
         "code": 61,
         "tmax": 19,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-06-12",
         "code": 61,
-        "tmax": 23,
-        "tmin": 13
+        "tmax": 24,
+        "tmin": 14
       },
       {
         "date": "2026-06-13",
@@ -37,20 +37,110 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 443,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "POURQUOI LES FEMMES ONT PLUS DE MAL EN POLITIQUE ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "EdRxirVXafo",
+        "thumbnail": "https://i.ytimg.com/vi/EdRxirVXafo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EdRxirVXafo",
+        "publishedAt": "2026-06-11T08:00:16+00:00"
+      },
+      {
+        "title": "Ikea est le meilleur tunnel de vente du monde",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "v6LcKBQOoao",
+        "thumbnail": "https://i.ytimg.com/vi/v6LcKBQOoao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v6LcKBQOoao",
+        "publishedAt": "2026-06-11T05:22:01+00:00"
+      },
+      {
+        "title": "Carlito affronte l’un des boss les plus durs de FFVIII",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "jDXemog9asg",
+        "thumbnail": "https://i.ytimg.com/vi/jDXemog9asg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jDXemog9asg",
+        "publishedAt": "2026-06-10T15:21:48+00:00"
+      },
+      {
+        "title": "On a dépassé le point de non-retour - Anthropic face au dilemme du prisonnier !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "4kyw6te9Y5E",
+        "thumbnail": "https://i.ytimg.com/vi/4kyw6te9Y5E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4kyw6te9Y5E",
+        "publishedAt": "2026-06-10T06:30:39+00:00"
+      },
+      {
+        "title": "Comment je réapprends à vivre sans toi 🕊️",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "iLW2L68avB0",
+        "thumbnail": "https://i.ytimg.com/vi/iLW2L68avB0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iLW2L68avB0",
+        "publishedAt": "2026-06-07T17:32:11+00:00"
+      },
+      {
+        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "Mbb12ogBrAE",
+        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
+        "publishedAt": "2026-06-07T15:17:09+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      }
+    ]
   },
   "films": {
     "top5": [
@@ -79,10 +169,10 @@
         "url": "https://www.themoviedb.org/movie/1083381"
       },
       {
-        "title": "Scary Movie",
+        "title": "Disclosure Day",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/gIComZ1TfZdWmuD4L4mJ8sEv0km.jpg",
-        "url": "https://www.themoviedb.org/movie/1273221"
+        "poster": "https://image.tmdb.org/t/p/w342/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
+        "url": "https://www.themoviedb.org/movie/1275779"
       }
     ]
   },
@@ -117,54 +207,54 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les scans Pokémon Go ont entraîné la technologie de navigation pour les drones militaires",
+        "titleOriginal": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+        "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
+        "source": "dronexl.co",
+        "score": 124,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48487029",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "L'agent d'IA se déchaîne à Fedora et ailleurs",
         "titleOriginal": "AI agent runs amok in Fedora and elsewhere",
         "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
         "source": "lwn.net",
-        "score": 162,
-        "comments": 38,
+        "score": 366,
+        "comments": 126,
         "hnUrl": "https://news.ycombinator.com/item?id=48484584",
-        "date": "il y a 3 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Les chercheurs en cybersécurité ne sont pas satisfaits des garde-fous de la Fable d'Anthropic",
         "titleOriginal": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
         "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
         "source": "techcrunch.com",
-        "score": 265,
-        "comments": 249,
+        "score": 403,
+        "comments": 359,
         "hnUrl": "https://news.ycombinator.com/item?id=48478969",
-        "date": "il y a 10 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "πFS",
-        "titleOriginal": "πFS",
-        "url": "https://github.com/philipl/pifs",
+        "title": "Macaroni – un seul messager de fichiers HTML",
+        "titleOriginal": "Macaroni – a single HTML file messenger",
+        "url": "https://github.com/vanyapr/makaroshki",
         "source": "github.com",
-        "score": 556,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=48480978",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Anthropic nécessite une conservation des données de 30 jours pour Fable et Mythos",
-        "titleOriginal": "Anthropic requires 30 day data retention for Fable and Mythos",
-        "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
-        "source": "support.claude.com",
-        "score": 236,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=48464258",
-        "date": "hier"
+        "score": 26,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48486944",
+        "date": "il y a 1 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": true,
-    "resultsDate": "20260608",
+    "resultsDate": "20260610",
     "results": [
       {
-        "id": "401859965",
-        "date": "2026-06-09T00:30Z",
+        "id": "401859966",
+        "date": "2026-06-11T00:30Z",
         "isPlayoff": true,
         "state": "post",
         "statusShort": "Final",
@@ -174,24 +264,24 @@
           "abbr": "NY",
           "name": "Knicks",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 111,
+          "score": 107,
           "record": "53-29",
-          "winner": false
+          "winner": true
         },
         "away": {
           "id": "24",
           "abbr": "SA",
           "name": "Spurs",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 115,
+          "score": 106,
           "record": "62-20",
-          "winner": true
+          "winner": false
         },
         "series": {
-          "summary": "NY leads series 2-1",
+          "summary": "NY leads series 3-1",
           "completed": false,
-          "round": "NBA Finals - Game 3",
-          "winsHome": 2,
+          "round": "NBA Finals - Game 4",
+          "winsHome": 3,
           "winsAway": 1
         }
       }
@@ -210,9 +300,9 @@
             "name": "Spurs",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
           },
-          "winsHome": 2,
+          "winsHome": 3,
           "winsAway": 1,
-          "summary": "NY leads series 2-1",
+          "summary": "NY leads series 3-1",
           "completed": false,
           "round": "NBA Finals - Game 4",
           "roundLabel": "Finales NBA",
