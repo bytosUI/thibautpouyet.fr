@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-11T19:31:22.503Z",
+  "updatedAt": "2026-06-11T21:57:22.541Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
+      "temp": 15,
+      "feelsLike": 14,
       "code": 61,
-      "wind": 9,
-      "humidity": 79
+      "wind": 11,
+      "humidity": 74
     },
     "forecast": [
       {
@@ -20,19 +20,19 @@
         "date": "2026-06-12",
         "code": 61,
         "tmax": 24,
-        "tmin": 13
+        "tmin": 15
       },
       {
         "date": "2026-06-13",
         "code": 3,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 14
       },
       {
         "date": "2026-06-14",
         "code": 3,
         "tmax": 22,
-        "tmin": 11
+        "tmin": 9
       }
     ]
   },
@@ -41,10 +41,18 @@
       {
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
-        "game": "SpeedRunners 2: King of Speed",
-        "viewers": 191,
+        "game": "Storebound",
+        "viewers": 116,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 21,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,12 +61,20 @@
       "hardisk",
       "micode",
       "nowtechteam",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "LE PLUS GRAND MENSONGE DE L'ÉTAT FRANÇAIS : VOUS TRAVAILLEZ TOUTE VOTRE VIE POUR RIEN",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Wi4UfLXSPPY",
+        "thumbnail": "https://i.ytimg.com/vi/Wi4UfLXSPPY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wi4UfLXSPPY",
+        "publishedAt": "2026-06-11T19:26:50+00:00"
+      },
       {
         "title": "Pourquoi l'IA abandonne vraiment la Terre ?",
         "channel": "Silicon Carne 🌶️",
@@ -67,15 +83,6 @@
         "thumbnail": "https://i.ytimg.com/vi/WgTcy7vXQd8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WgTcy7vXQd8",
         "publishedAt": "2026-06-11T18:01:25+00:00"
-      },
-      {
-        "title": "LA PLUS GRANDE GAFFE POLITIQUE DE SÉGOLÈNE ROYAL",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "uoZK1eI4zCQ",
-        "thumbnail": "https://i.ytimg.com/vi/uoZK1eI4zCQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uoZK1eI4zCQ",
-        "publishedAt": "2026-06-11T15:00:27+00:00"
       },
       {
         "title": "Ikea est le meilleur tunnel de vente du monde",
@@ -193,13 +200,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 5 sem",
+        "time": "il y a 6 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 5 sem",
+        "time": "il y a 6 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -211,40 +218,40 @@
         "titleOriginal": "Show HN: Homebrew 6.0.0",
         "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
         "source": "brew.sh",
-        "score": 476,
-        "comments": 115,
+        "score": 787,
+        "comments": 188,
         "hnUrl": "https://news.ycombinator.com/item?id=48490024",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "On joue à un jeu ? – Les LLM utilisent des armes nucléaires tactiques dans 95 % des simulations",
+        "titleOriginal": "Shall we play a game? – LLMs use tactical nukes in 95% of simulations",
+        "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+        "source": "kennethpayne.uk",
+        "score": 78,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=48495575",
+        "date": "il y a 2 h"
       },
       {
         "title": "Le code MiMo est maintenant publié et open-source",
         "titleOriginal": "MiMo Code is now released and open-source",
         "url": "https://mimo.xiaomi.com/mimocode",
         "source": "mimo.xiaomi.com",
-        "score": 312,
-        "comments": 168,
+        "score": 375,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=48490826",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Le RCE qu'AMD ne résoudrait pas",
-        "titleOriginal": "The RCE that AMD wouldn't fix",
-        "url": "https://mrbruh.com/amd2/",
-        "source": "mrbruh.com",
-        "score": 127,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=48492215",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Pétition pour retirer le projet de loi C-22 du Canada",
-        "titleOriginal": "Petition to Withdraw Canada's Bill C-22",
-        "url": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
-        "source": "ourcommons.ca",
-        "score": 179,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=48491830",
-        "date": "il y a 3 h"
+        "title": "Show HN : FablePool - mettre de l'argent en commun derrière une invite, et Fable le construit en public",
+        "titleOriginal": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
+        "url": "https://fablepool.com",
+        "source": "fablepool.com",
+        "score": 20,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48496539",
+        "date": "il y a 39 min"
       }
     ]
   },
