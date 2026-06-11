@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-11T12:26:46.521Z",
+  "updatedAt": "2026-06-11T16:35:14.428Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 16,
       "feelsLike": 14,
-      "code": 3,
-      "wind": 15,
-      "humidity": 47
+      "code": 61,
+      "wind": 13,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 1647,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "1 JEUNE SUR 10 PENSE AU SU*CIDE",
+        "title": "LA PLUS GRANDE GAFFE POLITIQUE DE SÉGOLÈNE ROYAL",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "l9RfzQDNBwo",
-        "thumbnail": "https://i.ytimg.com/vi/l9RfzQDNBwo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l9RfzQDNBwo",
-        "publishedAt": "2026-06-11T12:00:02+00:00"
+        "videoId": "uoZK1eI4zCQ",
+        "thumbnail": "https://i.ytimg.com/vi/uoZK1eI4zCQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uoZK1eI4zCQ",
+        "publishedAt": "2026-06-11T15:00:27+00:00"
       },
       {
         "title": "Ikea est le meilleur tunnel de vente du monde",
@@ -151,16 +143,16 @@
         "url": "https://www.themoviedb.org/movie/1339713"
       },
       {
-        "title": "The Mandalorian and Grogu",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg",
-        "url": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
         "title": "Mortal Kombat II",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
         "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "title": "The Mandalorian and Grogu",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg",
+        "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
         "title": "Backrooms",
@@ -181,13 +173,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 3 sem",
+        "time": "il y a 4 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 3 sem",
+        "time": "il y a 4 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les scans Pokémon Go ont entraîné la technologie de navigation pour les drones militaires",
-        "titleOriginal": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
-        "url": "https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/",
-        "source": "dronexl.co",
-        "score": 385,
-        "comments": 165,
-        "hnUrl": "https://news.ycombinator.com/item?id=48487029",
-        "date": "il y a 5 h"
+        "title": "Le code MiMo est maintenant publié et open source",
+        "titleOriginal": "MiMo Code Is Now Released and Open-Source",
+        "url": "https://mimo.xiaomi.com/mimocode",
+        "source": "mimo.xiaomi.com",
+        "score": 167,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=48490826",
+        "date": "il y a 2 h"
       },
       {
-        "title": "L'agent d'IA se déchaîne à Fedora et ailleurs",
-        "titleOriginal": "AI agent runs amok in Fedora and elsewhere",
-        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-        "source": "lwn.net",
-        "score": 445,
-        "comments": 200,
-        "hnUrl": "https://news.ycombinator.com/item?id=48484584",
-        "date": "il y a 12 h"
+        "title": "Les lignes de code ont un meilleur publiciste",
+        "titleOriginal": "Lines of Code Got a Better Publicist",
+        "url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+        "source": "curlewis.co.nz",
+        "score": 239,
+        "comments": 157,
+        "hnUrl": "https://news.ycombinator.com/item?id=48489402",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Construire un agent d'IA de base à partir de zéro : planification des tâches longues",
-        "titleOriginal": "Build a Basic AI Agent from Scratch: Long Task Planning",
-        "url": "https://medium.com/@rogi23696/build-a-basic-ai-agent-from-scratch-long-task-planning-14e803f9bd6d",
-        "source": "medium.com",
-        "score": 48,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=48461635",
-        "date": "hier"
+        "title": "MapComplete – Contibute vers OpenStreetMaps",
+        "titleOriginal": "MapComplete – Contibute to OpenStreetMaps",
+        "url": "https://mapcomplete.org/",
+        "source": "mapcomplete.org",
+        "score": 125,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48490532",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Les chercheurs en cybersécurité ne sont pas satisfaits des garde-fous de la Fable d'Anthropic",
-        "titleOriginal": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-        "source": "techcrunch.com",
-        "score": 485,
-        "comments": 423,
-        "hnUrl": "https://news.ycombinator.com/item?id=48478969",
-        "date": "il y a 19 h"
+        "title": "Nextcloud Hub 26 Spring : Construit ensemble, conçu pour l'avenir",
+        "titleOriginal": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+        "url": "https://nextcloud.com/blog/nextcloud-hub26-spring/",
+        "source": "nextcloud.com",
+        "score": 74,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=48490715",
+        "date": "il y a 2 h"
       }
     ]
   },
