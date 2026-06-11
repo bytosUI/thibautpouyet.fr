@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-10T23:55:09.633Z",
+  "updatedAt": "2026-06-11T03:25:23.832Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 2,
-      "wind": 6,
-      "humidity": 89
+      "temp": 10,
+      "feelsLike": 9,
+      "code": 3,
+      "wind": 7,
+      "humidity": 87
     },
     "forecast": [
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Carlito affronte l’un des boss les plus durs de FFVIII",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "jDXemog9asg",
-        "thumbnail": "https://i.ytimg.com/vi/jDXemog9asg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jDXemog9asg",
-        "publishedAt": "2026-06-10T15:21:48+00:00"
-      },
-      {
-        "title": "\"J'ÉTAIS LA MEILLEURE PENDANT LE DÉBAT D'ENTRE-DEUX-TOURS CONTRE SARKOZY !\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "5Uog74j9mPA",
-        "thumbnail": "https://i.ytimg.com/vi/5Uog74j9mPA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5Uog74j9mPA",
-        "publishedAt": "2026-06-10T13:00:28+00:00"
-      },
-      {
-        "title": "Les vues ne rapportent pas de clients ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "BEnDHwY9J6U",
-        "thumbnail": "https://i.ytimg.com/vi/BEnDHwY9J6U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BEnDHwY9J6U",
-        "publishedAt": "2026-06-10T07:20:39+00:00"
-      },
-      {
-        "title": "On a dépassé le point de non-retour - Anthropic face au dilemme du prisonnier !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "4kyw6te9Y5E",
-        "thumbnail": "https://i.ytimg.com/vi/4kyw6te9Y5E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4kyw6te9Y5E",
-        "publishedAt": "2026-06-10T06:30:39+00:00"
-      },
-      {
-        "title": "Comment je réapprends à vivre sans toi 🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "iLW2L68avB0",
-        "thumbnail": "https://i.ytimg.com/vi/iLW2L68avB0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iLW2L68avB0",
-        "publishedAt": "2026-06-07T17:32:11+00:00"
-      },
-      {
-        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "Mbb12ogBrAE",
-        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
-        "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -199,42 +117,42 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'agent d'IA se déchaîne à Fedora et ailleurs",
+        "titleOriginal": "AI agent runs amok in Fedora and elsewhere",
+        "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+        "source": "lwn.net",
+        "score": 162,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=48484584",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Les chercheurs en cybersécurité ne sont pas satisfaits des garde-fous de la Fable d'Anthropic",
         "titleOriginal": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
         "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
         "source": "techcrunch.com",
-        "score": 92,
-        "comments": 71,
+        "score": 265,
+        "comments": 249,
         "hnUrl": "https://news.ycombinator.com/item?id=48478969",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "πFS",
         "titleOriginal": "πFS",
         "url": "https://github.com/philipl/pifs",
         "source": "github.com",
-        "score": 450,
-        "comments": 114,
+        "score": 556,
+        "comments": 139,
         "hnUrl": "https://news.ycombinator.com/item?id=48480978",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Un langage écrit pour le Cherokee si efficace qu'il a été pensé pour être magique",
-        "titleOriginal": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-        "url": "https://www.smithsonianmag.com/innovation/man-created-written-language-cherokee-did-efficiently-elegantly-peers-thought-magic-180988850/",
-        "source": "smithsonianmag.com",
-        "score": 46,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=48483387",
-        "date": "il y a 1 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Anthropic nécessite une conservation des données de 30 jours pour Fable et Mythos",
         "titleOriginal": "Anthropic requires 30 day data retention for Fable and Mythos",
         "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
         "source": "support.claude.com",
-        "score": 112,
-        "comments": 47,
+        "score": 236,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48464258",
         "date": "hier"
       }
