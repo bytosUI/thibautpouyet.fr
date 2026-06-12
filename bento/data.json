@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-12T21:13:06.641Z",
+  "updatedAt": "2026-06-12T22:55:06.687Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
+      "temp": 18,
+      "feelsLike": 18,
       "code": 2,
-      "wind": 11,
-      "humidity": 76
+      "wind": 10,
+      "humidity": 80
     },
     "forecast": [
-      {
-        "date": "2026-06-12",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 16
-      },
       {
         "date": "2026-06-13",
         "code": 3,
@@ -24,15 +18,21 @@
       },
       {
         "date": "2026-06-14",
-        "code": 2,
+        "code": 3,
         "tmax": 23,
         "tmin": 11
       },
       {
         "date": "2026-06-15",
         "code": 3,
-        "tmax": 22,
-        "tmin": 9
+        "tmax": 23,
+        "tmin": 10
+      },
+      {
+        "date": "2026-06-16",
+        "code": 3,
+        "tmax": 32,
+        "tmin": 14
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 147,
+        "viewers": 144,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
         "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
         "source": "innovativegenomics.org",
-        "score": 513,
-        "comments": 136,
+        "score": 612,
+        "comments": 162,
         "hnUrl": "https://news.ycombinator.com/item?id=48505231",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Je ne suis pas un centaure inversé",
-        "titleOriginal": "I Am Not a Reverse Centaur",
-        "url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
-        "source": "blog.miguelgrinberg.com",
-        "score": 187,
-        "comments": 131,
-        "hnUrl": "https://news.ycombinator.com/item?id=48507282",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Swift chez Apple : migrer l'interprète d'aiguillage TrueType",
-        "titleOriginal": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+        "title": "Swift chez Apple : migration de l'interpréteur d'indices TrueType",
+        "titleOriginal": "Swift at Apple: Migrating the TrueType hinting interpreter",
         "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
         "source": "swift.org",
-        "score": 27,
-        "comments": 6,
+        "score": 87,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=48508726",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Comment configurer un agent de codage local sur macOS",
         "titleOriginal": "How to setup a local coding agent on macOS",
         "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
         "source": "ikyle.me",
-        "score": 140,
-        "comments": 46,
+        "score": 198,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=48507020",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Les développeurs de logiciels malveillants ont ajouté du texte sur les armes nucléaires et biologiques à leur logiciel espion",
+        "titleOriginal": "Malware developers added nuclear and biological weapons text to to their spyware",
+        "url": "https://twitter.com/jsrailton/status/2064661778978533571",
+        "source": "twitter.com",
+        "score": 248,
+        "comments": 168,
+        "hnUrl": "https://news.ycombinator.com/item?id=48495928",
+        "date": "hier"
       }
     ]
   },
