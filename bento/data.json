@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-06-11T23:21:56.908Z",
+  "updatedAt": "2026-06-12T01:55:18.891Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 13,
+      "temp": 16,
+      "feelsLike": 14,
       "code": 3,
-      "wind": 13,
-      "humidity": 75
+      "wind": 14,
+      "humidity": 69
     },
     "forecast": [
       {
         "date": "2026-06-12",
-        "code": 61,
+        "code": 3,
         "tmax": 24,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-06-13",
         "code": 3,
         "tmax": 25,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-06-14",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 9
       },
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 98,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Personne ne reçoit jamais de crédit pour avoir résolu des problèmes qui ne se sont jamais produits (2002) [pdf]",
+        "titleOriginal": "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "source": "web.mit.edu",
+        "score": 70,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48498385",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Show HN : FablePool - mettre de l'argent en commun derrière une invite, et Fable le construit en public",
         "titleOriginal": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
         "url": "https://fablepool.com",
         "source": "fablepool.com",
-        "score": 134,
-        "comments": 53,
+        "score": 246,
+        "comments": 145,
         "hnUrl": "https://news.ycombinator.com/item?id=48496539",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Afficher HN : Homebrew 6.0.0",
         "titleOriginal": "Show HN: Homebrew 6.0.0",
         "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
         "source": "brew.sh",
-        "score": 883,
-        "comments": 207,
+        "score": 984,
+        "comments": 237,
         "hnUrl": "https://news.ycombinator.com/item?id=48490024",
-        "date": "il y a 9 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Si vous demandez de l'attention humaine, faites preuve d'effort humain",
-        "titleOriginal": "If You Are Asking for Human Attention, Demonstrate Human Effort",
+        "title": "Si vous demandez une attention humaine, faites preuve d'un effort humain",
+        "titleOriginal": "If you are asking for human attention, demonstrate human effort",
         "url": "https://tombedor.dev/human-attention-and-human-effort/",
         "source": "tombedor.dev",
-        "score": 11,
-        "comments": 0,
+        "score": 269,
+        "comments": 74,
         "hnUrl": "https://news.ycombinator.com/item?id=48497609",
-        "date": "il y a 20 min"
-      },
-      {
-        "title": "Le code MiMo est maintenant publié et open-source",
-        "titleOriginal": "MiMo Code is now released and open-source",
-        "url": "https://mimo.xiaomi.com/mimocode",
-        "source": "mimo.xiaomi.com",
-        "score": 401,
-        "comments": 224,
-        "hnUrl": "https://news.ycombinator.com/item?id=48490826",
-        "date": "il y a 8 h"
+        "date": "il y a 2 h"
       }
     ]
   },
