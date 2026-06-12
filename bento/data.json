@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-06-12T01:55:18.891Z",
+  "updatedAt": "2026-06-12T06:36:48.152Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 17,
+      "feelsLike": 15,
       "code": 3,
-      "wind": 14,
-      "humidity": 69
+      "wind": 16,
+      "humidity": 78
     },
     "forecast": [
       {
         "date": "2026-06-12",
         "code": 3,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 16
       },
       {
         "date": "2026-06-13",
         "code": 3,
         "tmax": 25,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-06-14",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 9
       },
       {
@@ -37,13 +37,21 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 476,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -59,33 +67,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Wi4UfLXSPPY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Wi4UfLXSPPY",
         "publishedAt": "2026-06-11T19:26:50+00:00"
-      },
-      {
-        "title": "Pourquoi l'IA abandonne vraiment la Terre ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "WgTcy7vXQd8",
-        "thumbnail": "https://i.ytimg.com/vi/WgTcy7vXQd8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WgTcy7vXQd8",
-        "publishedAt": "2026-06-11T18:01:25+00:00"
-      },
-      {
-        "title": "Ikea est le meilleur tunnel de vente du monde",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "v6LcKBQOoao",
-        "thumbnail": "https://i.ytimg.com/vi/v6LcKBQOoao/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v6LcKBQOoao",
-        "publishedAt": "2026-06-11T05:22:01+00:00"
-      },
-      {
-        "title": "Carlito affronte l’un des boss les plus durs de FFVIII",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "jDXemog9asg",
-        "thumbnail": "https://i.ytimg.com/vi/jDXemog9asg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jDXemog9asg",
-        "publishedAt": "2026-06-10T15:21:48+00:00"
       },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
@@ -106,15 +87,6 @@
         "publishedAt": "2026-06-07T15:17:09+00:00"
       },
       {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
         "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -122,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
         "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -199,44 +162,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Personne ne reçoit jamais de crédit pour avoir résolu des problèmes qui ne se sont jamais produits (2002) [pdf]",
-        "titleOriginal": "Nobody ever gets credit for fixing problems that never happened (2002) [pdf]",
-        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-        "source": "web.mit.edu",
-        "score": 70,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48498385",
+        "title": "Un agent d'IA a mis en faillite son opérateur en essayant de scanner DN42",
+        "titleOriginal": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "source": "lantian.pub",
+        "score": 120,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48500012",
         "date": "il y a 1 h"
       },
       {
-        "title": "Show HN : FablePool - mettre de l'argent en commun derrière une invite, et Fable le construit en public",
-        "titleOriginal": "Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",
-        "url": "https://fablepool.com",
-        "source": "fablepool.com",
-        "score": 246,
-        "comments": 145,
-        "hnUrl": "https://news.ycombinator.com/item?id=48496539",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Afficher HN : Homebrew 6.0.0",
-        "titleOriginal": "Show HN: Homebrew 6.0.0",
-        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
-        "source": "brew.sh",
-        "score": 984,
-        "comments": 237,
-        "hnUrl": "https://news.ycombinator.com/item?id=48490024",
-        "date": "il y a 12 h"
+        "title": "Personne ne reçoit jamais de crédit pour avoir résolu des problèmes qui ne se sont jamais produits (2001) [pdf]",
+        "titleOriginal": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
+        "source": "web.mit.edu",
+        "score": 333,
+        "comments": 117,
+        "hnUrl": "https://news.ycombinator.com/item?id=48498385",
+        "date": "il y a 5 h"
       },
       {
         "title": "Si vous demandez une attention humaine, faites preuve d'un effort humain",
         "titleOriginal": "If you are asking for human attention, demonstrate human effort",
         "url": "https://tombedor.dev/human-attention-and-human-effort/",
         "source": "tombedor.dev",
-        "score": 269,
-        "comments": 74,
+        "score": 521,
+        "comments": 174,
         "hnUrl": "https://news.ycombinator.com/item?id=48497609",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Afficher HN : Homebrew 6.0.0",
+        "titleOriginal": "Show HN: Homebrew 6.0.0",
+        "url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+        "source": "brew.sh",
+        "score": 1132,
+        "comments": 262,
+        "hnUrl": "https://news.ycombinator.com/item?id=48490024",
+        "date": "il y a 17 h"
       }
     ]
   },
