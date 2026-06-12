@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-12T10:58:05.024Z",
+  "updatedAt": "2026-06-12T14:10:37.213Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 18,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 21,
-      "humidity": 69
+      "wind": 19,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA FRANCE MENT SUR LES RETRAITES ! ÇA NE VA PAS DURER !",
+        "title": "LA MOITIÉ DE LA DETTE FRANÇAISE A ÉTÉ UTILISÉE POUR PAYER LES RETRAITES",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "GiCEXRVlCto",
-        "thumbnail": "https://i.ytimg.com/vi/GiCEXRVlCto/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GiCEXRVlCto",
-        "publishedAt": "2026-06-12T09:30:11+00:00"
+        "videoId": "XpuPuimPZjE",
+        "thumbnail": "https://i.ytimg.com/vi/XpuPuimPZjE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XpuPuimPZjE",
+        "publishedAt": "2026-06-12T14:00:04+00:00"
+      },
+      {
+        "title": "L’usine qui fabrique nos chips a brûlé. Mais Brosti renaîtra de ses cendres.",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "-VRN8hT_awE",
+        "thumbnail": "https://i.ytimg.com/vi/-VRN8hT_awE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-VRN8hT_awE",
+        "publishedAt": "2026-06-12T13:24:03+00:00"
       },
       {
         "title": "Le vrai coût des mauvais recrutements",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/WgTcy7vXQd8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WgTcy7vXQd8",
         "publishedAt": "2026-06-11T18:01:25+00:00"
-      },
-      {
-        "title": "Carlito affronte l’un des boss les plus durs de FFVIII",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "jDXemog9asg",
-        "thumbnail": "https://i.ytimg.com/vi/jDXemog9asg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jDXemog9asg",
-        "publishedAt": "2026-06-10T15:21:48+00:00"
       },
       {
         "title": "Comment je réapprends à vivre sans toi 🕊️",
@@ -157,7 +157,7 @@
       {
         "title": "Disclosure Day",
         "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/n3eMT3X0dbaqPMYbDP9unIB33pY.jpg",
+        "poster": "https://image.tmdb.org/t/p/w342/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg",
         "url": "https://www.themoviedb.org/movie/1275779"
       },
       {
@@ -203,40 +203,40 @@
         "titleOriginal": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
         "source": "lantian.pub",
-        "score": 652,
-        "comments": 243,
+        "score": 983,
+        "comments": 361,
         "hnUrl": "https://news.ycombinator.com/item?id=48500012",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Si vous demandez une attention humaine, faites preuve d'un effort humain",
-        "titleOriginal": "If you are asking for human attention, demonstrate human effort",
-        "url": "https://tombedor.dev/human-attention-and-human-effort/",
-        "source": "tombedor.dev",
-        "score": 797,
-        "comments": 266,
-        "hnUrl": "https://news.ycombinator.com/item?id=48497609",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Personne ne reçoit jamais de crédit pour avoir résolu des problèmes qui ne se sont jamais produits (2001) [pdf]",
-        "titleOriginal": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-        "url": "https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf",
-        "source": "web.mit.edu",
-        "score": 488,
-        "comments": 163,
-        "hnUrl": "https://news.ycombinator.com/item?id=48498385",
-        "date": "il y a 10 h"
+        "title": "Maxproof",
+        "titleOriginal": "Maxproof",
+        "url": "https://arxiv.org/abs/2606.13473",
+        "source": "arxiv.org",
+        "score": 57,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48503014",
+        "date": "il y a 2 h"
       },
       {
         "title": "L'avenir de l'e-mail",
         "titleOriginal": "The Future of Email",
         "url": "https://www.fastmail.com/blog/the-future-of-email/",
         "source": "fastmail.com",
-        "score": 6,
-        "comments": 3,
+        "score": 106,
+        "comments": 99,
         "hnUrl": "https://news.ycombinator.com/item?id=48502321",
-        "date": "il y a 19 min"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Si vous demandez une attention humaine, faites preuve d'un effort humain",
+        "titleOriginal": "If you are asking for human attention, demonstrate human effort",
+        "url": "https://tombedor.dev/human-attention-and-human-effort/",
+        "source": "tombedor.dev",
+        "score": 1080,
+        "comments": 358,
+        "hnUrl": "https://news.ycombinator.com/item?id=48497609",
+        "date": "il y a 15 h"
       }
     ]
   },
