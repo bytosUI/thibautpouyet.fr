@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-13T20:46:54.637Z",
+  "updatedAt": "2026-06-13T21:58:27.146Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 18,
+      "temp": 18,
+      "feelsLike": 16,
       "code": 0,
       "wind": 11,
-      "humidity": 52
+      "humidity": 56
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 147,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les États-Unis interdisent la confidentialité différentielle dans les données de recensement",
-        "titleOriginal": "US bans differential privacy in Census data",
+        "title": "Infusion sonore interdite dans les produits statistiques publiés par le Census Bureau",
+        "titleOriginal": "Noise infusion banned from statistical products published by Census Bureau",
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "desfontain.es",
-        "score": 557,
-        "comments": 297,
+        "score": 624,
+        "comments": 348,
         "hnUrl": "https://news.ycombinator.com/item?id=48517377",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "GameBoy Workboy",
         "titleOriginal": "GameBoy Workboy",
         "url": "https://tcrf.net/Workboy",
         "source": "tcrf.net",
-        "score": 100,
-        "comments": 10,
+        "score": 120,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=48519552",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Exécution de DOS sur Behringers DDX3216 avec un DIY x86-Bios de Scratch",
-        "titleOriginal": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
-        "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-        "source": "chrisdevblog.com",
-        "score": 30,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48520080",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Chaque cadre est parfait",
         "titleOriginal": "Every Frame Perfect",
         "url": "https://tonsky.me/blog/every-frame-perfect/",
         "source": "tonsky.me",
-        "score": 368,
-        "comments": 137,
+        "score": 415,
+        "comments": 149,
         "hnUrl": "https://news.ycombinator.com/item?id=48516251",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Le traitement des tumeurs pancréatiques peut avoir révélé l'interrupteur principal du cancer",
+        "titleOriginal": "Treating pancreatic tumours may have revealed cancer's master switch",
+        "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+        "source": "economist.com",
+        "score": 244,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=48517199",
+        "date": "il y a 8 h"
       }
     ]
   },
