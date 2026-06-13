@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-13T19:17:15.605Z",
+  "updatedAt": "2026-06-13T20:46:54.637Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 22,
+      "temp": 20,
+      "feelsLike": 18,
       "code": 0,
-      "wind": 13,
-      "humidity": 41
+      "wind": 11,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 137,
+        "viewers": 147,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "US bans differential privacy in Census data",
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "desfontain.es",
-        "score": 451,
-        "comments": 220,
+        "score": 557,
+        "comments": 297,
         "hnUrl": "https://news.ycombinator.com/item?id=48517377",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "GameBoy Workboy",
         "titleOriginal": "GameBoy Workboy",
         "url": "https://tcrf.net/Workboy",
         "source": "tcrf.net",
-        "score": 41,
-        "comments": 6,
+        "score": 100,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=48519552",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Le traitement des tumeurs pancréatiques peut avoir révélé l'interrupteur principal du cancer",
-        "titleOriginal": "Treating pancreatic tumours may have revealed cancer's master switch",
-        "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-        "source": "economist.com",
-        "score": 172,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=48517199",
-        "date": "il y a 5 h"
+        "title": "Exécution de DOS sur Behringers DDX3216 avec un DIY x86-Bios de Scratch",
+        "titleOriginal": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+        "url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
+        "source": "chrisdevblog.com",
+        "score": 30,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48520080",
+        "date": "il y a 2 h"
       },
       {
         "title": "Chaque cadre est parfait",
         "titleOriginal": "Every Frame Perfect",
         "url": "https://tonsky.me/blog/every-frame-perfect/",
         "source": "tonsky.me",
-        "score": 303,
-        "comments": 101,
+        "score": 368,
+        "comments": 137,
         "hnUrl": "https://news.ycombinator.com/item?id=48516251",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       }
     ]
   },
