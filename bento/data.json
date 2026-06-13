@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-13T17:51:50.739Z",
+  "updatedAt": "2026-06-13T19:17:15.605Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 24,
+      "temp": 24,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 16,
-      "humidity": 36
+      "wind": 13,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 102,
+        "viewers": 137,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -60,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Zuckerberg veut écouter toutes tes conversations ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "aipKaVldexo",
+        "thumbnail": "https://i.ytimg.com/vi/aipKaVldexo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aipKaVldexo",
+        "publishedAt": "2026-06-13T18:00:25+00:00"
+      },
+      {
         "title": "LA FRANCE EST ENDETTÉE DE 3538 MILLIARDS D'€ ET ÇA NE CESSE D'AUGMENTER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -76,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/FWpZiV-TEdc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FWpZiV-TEdc",
         "publishedAt": "2026-06-13T06:58:08+00:00"
-      },
-      {
-        "title": "Pourquoi Microsoft s'éloigne de OpenAI et Apple confie Siri à Google Gemini ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "TjtatxIbOqE",
-        "thumbnail": "https://i.ytimg.com/vi/TjtatxIbOqE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TjtatxIbOqE",
-        "publishedAt": "2026-06-13T06:30:15+00:00"
       },
       {
         "title": "L’usine qui fabrique nos chips a brûlé. Mais Brosti renaîtra de ses cendres.",
@@ -211,40 +211,40 @@
         "titleOriginal": "US bans differential privacy in Census data",
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "desfontain.es",
-        "score": 364,
-        "comments": 158,
+        "score": 451,
+        "comments": 220,
         "hnUrl": "https://news.ycombinator.com/item?id=48517377",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "GameBoy Workboy",
+        "titleOriginal": "GameBoy Workboy",
+        "url": "https://tcrf.net/Workboy",
+        "source": "tcrf.net",
+        "score": 41,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48519552",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le traitement des tumeurs pancréatiques peut avoir révélé l'interrupteur principal du cancer",
         "titleOriginal": "Treating pancreatic tumours may have revealed cancer's master switch",
         "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
         "source": "economist.com",
-        "score": 127,
-        "comments": 34,
+        "score": 172,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=48517199",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Chaque cadre est parfait",
         "titleOriginal": "Every Frame Perfect",
         "url": "https://tonsky.me/blog/every-frame-perfect/",
         "source": "tonsky.me",
-        "score": 222,
-        "comments": 70,
+        "score": 303,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48516251",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Apprécier Exif",
-        "titleOriginal": "Appreciating Exif",
-        "url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-        "source": "brentfitzgerald.com",
-        "score": 49,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48467437",
-        "date": "il y a 3 j"
+        "date": "il y a 7 h"
       }
     ]
   },
