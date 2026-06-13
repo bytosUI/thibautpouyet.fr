@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-13T14:36:24.194Z",
+  "updatedAt": "2026-06-13T16:11:15.635Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 27,
-      "feelsLike": 26,
+      "feelsLike": 24,
       "code": 0,
       "wind": 17,
       "humidity": 34
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE SYSTÈME DES RETRAITES VA S'EFFONDRER ET C'EST INÉVITABLE",
+        "title": "LA FRANCE EST ENDETTÉE DE 3538 MILLIARDS D'€ ET ÇA NE CESSE D'AUGMENTER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "cv4bnRFRxxA",
-        "thumbnail": "https://i.ytimg.com/vi/cv4bnRFRxxA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cv4bnRFRxxA",
-        "publishedAt": "2026-06-13T13:00:29+00:00"
+        "videoId": "ycWgfR63TPE",
+        "thumbnail": "https://i.ytimg.com/vi/ycWgfR63TPE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ycWgfR63TPE",
+        "publishedAt": "2026-06-13T16:00:34+00:00"
       },
       {
         "title": "Les bons objectifs font les bons résultats",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les États-Unis interdisent la confidentialité différentielle dans les données de recensement",
+        "titleOriginal": "US bans differential privacy in Census data",
+        "url": "https://desfontain.es/blog/banning-noise.html",
+        "source": "desfontain.es",
+        "score": 185,
+        "comments": 60,
+        "hnUrl": "https://news.ycombinator.com/item?id=48517377",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Le repo d'outils AI OSS est archivé pendant la nuit après avoir collecté 7,3 M $ de semences",
         "titleOriginal": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
         "url": "https://github.com/tensorzero/tensorzero",
         "source": "github.com",
-        "score": 83,
-        "comments": 48,
+        "score": 151,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=48516504",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Une plate-forme informatique à faible émission de carbone à partir de vos téléphones à la retraite",
-        "titleOriginal": "A low-carbon computing platform from your retired phones",
-        "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-        "source": "research.google",
-        "score": 117,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=48515336",
         "date": "il y a 4 h"
       },
       {
-        "title": "Entretien avec Kira Boyko d'Intel : directrice produit de Xeon 6",
-        "titleOriginal": "An Interview with Intel's Kira Boyko: Xeon 6's Product Director",
-        "url": "https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko",
-        "source": "chipsandcheese.com",
-        "score": 25,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48516573",
+        "title": "Le traitement des tumeurs pancréatiques peut avoir révélé l'interrupteur principal du cancer",
+        "titleOriginal": "Treating pancreatic tumours may have revealed cancer's master switch",
+        "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
+        "source": "economist.com",
+        "score": 47,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48517199",
         "date": "il y a 2 h"
       },
       {
-        "title": "Quitter Mozilla",
-        "titleOriginal": "Leaving Mozilla",
-        "url": "https://blog.unitedheroes.net/5751",
-        "source": "blog.unitedheroes.net",
-        "score": 365,
-        "comments": 205,
-        "hnUrl": "https://news.ycombinator.com/item?id=48513806",
-        "date": "il y a 8 h"
+        "title": "Orthodoxe C++",
+        "titleOriginal": "Orthodox C++",
+        "url": "https://bkaradzic.github.io/posts/orthodoxc++/",
+        "source": "bkaradzic.github.io",
+        "score": 27,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48517412",
+        "date": "il y a 2 h"
       }
     ]
   },
