@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-13T00:16:33.466Z",
+  "updatedAt": "2026-06-13T04:58:25.699Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 16,
       "feelsLike": 17,
       "code": 2,
       "wind": 7,
-      "humidity": 89
+      "humidity": 90
     },
     "forecast": [
       {
         "date": "2026-06-13",
         "code": 3,
-        "tmax": 26,
-        "tmin": 15
+        "tmax": 25,
+        "tmin": 16
       },
       {
         "date": "2026-06-14",
@@ -24,15 +24,15 @@
       },
       {
         "date": "2026-06-15",
-        "code": 3,
+        "code": 61,
         "tmax": 23,
-        "tmin": 10
+        "tmin": 13
       },
       {
         "date": "2026-06-16",
-        "code": 3,
-        "tmax": 32,
-        "tmin": 14
+        "code": 61,
+        "tmax": 29,
+        "tmin": 15
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Déclaration sur la directive du gouvernement américain de suspendre l'accès à Fable 5 et Mythos 5",
+        "titleOriginal": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+        "url": "https://www.anthropic.com/news/fable-mythos-access",
+        "source": "anthropic.com",
+        "score": 1505,
+        "comments": 1033,
+        "hnUrl": "https://news.ycombinator.com/item?id=48511072",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "L'IA open source doit gagner",
+        "titleOriginal": "Open source AI must win",
+        "url": "https://opensourceaimustwin.com/?share=v2",
+        "source": "opensourceaimustwin.com",
+        "score": 473,
+        "comments": 156,
+        "hnUrl": "https://news.ycombinator.com/item?id=48511908",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Nous avons suspendu l'accès à Claude Mythos 5 et Claude Fable 5",
+        "titleOriginal": "We've suspended access to Claude Mythos 5 and Claude Fable 5",
+        "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+        "source": "status.claude.com",
+        "score": 242,
+        "comments": 121,
+        "hnUrl": "https://news.ycombinator.com/item?id=48511121",
+        "date": "il y a 4 h"
+      },
+      {
         "title": "Renault : Moteurs électriques sans terres rares",
         "titleOriginal": "Renault: Electric motors with no rare earths",
         "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
         "source": "renaultgroup.com",
-        "score": 117,
-        "comments": 29,
+        "score": 312,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=48510010",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "CRISPR Tech déchiquete sélectivement les cellules cancéreuses, y compris les cancers « non pharmacables »",
-        "titleOriginal": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-        "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-        "source": "innovativegenomics.org",
-        "score": 666,
-        "comments": 168,
-        "hnUrl": "https://news.ycombinator.com/item?id=48505231",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Show HN : Putt.day un mini-jeu de golf quotidien",
-        "titleOriginal": "Show HN: Putt.day a daily mini golf game",
-        "url": "https://putt.day/",
-        "source": "putt.day",
-        "score": 40,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48510341",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Swift chez Apple : migration de l'interpréteur d'indices TrueType",
-        "titleOriginal": "Swift at Apple: Migrating the TrueType hinting interpreter",
-        "url": "https://www.swift.org/blog/migrating-truetype-hinting-to-swift/",
-        "source": "swift.org",
-        "score": 112,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=48508726",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       }
     ]
   },
@@ -283,23 +283,23 @@
       "series": [
         {
           "teamHome": {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-          },
-          "teamAway": {
             "abbr": "SA",
             "name": "Spurs",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
           },
-          "winsHome": 3,
-          "winsAway": 1,
+          "teamAway": {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
+          },
+          "winsHome": 1,
+          "winsAway": 3,
           "summary": "NY leads series 3-1",
           "completed": false,
-          "round": "NBA Finals - Game 4",
+          "round": "NBA Finals - Game 5",
           "roundLabel": "Finales NBA",
           "roundOrder": 4,
-          "lastDate": "2026-06-11T00:30Z"
+          "lastDate": "2026-06-14T00:30Z"
         }
       ]
     }
