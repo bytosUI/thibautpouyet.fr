@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-14T06:31:40.719Z",
+  "updatedAt": "2026-06-14T10:21:23.999Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 1,
-      "wind": 6,
-      "humidity": 75
+      "wind": 12,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-06-14",
-        "code": 2,
-        "tmax": 21,
+        "code": 3,
+        "tmax": 22,
         "tmin": 10
       },
       {
         "date": "2026-06-15",
         "code": 3,
         "tmax": 24,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-06-16",
-        "code": 3,
+        "code": 80,
         "tmax": 32,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-06-17",
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "MANU PAYET : ON A RI ET PLEURÉ PENDANT 2H (LE PAPE, LES PIRES SOSIES, CÉLINE DION)",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "pfyI6-ncSek",
+        "thumbnail": "https://i.ytimg.com/vi/pfyI6-ncSek/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pfyI6-ncSek",
+        "publishedAt": "2026-06-14T09:00:06+00:00"
+      },
+      {
+        "title": "Comment valider un marché en une seule question",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "H8dS3r9ocWI",
+        "thumbnail": "https://i.ytimg.com/vi/H8dS3r9ocWI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H8dS3r9ocWI",
+        "publishedAt": "2026-06-14T06:32:23+00:00"
+      },
+      {
         "title": "Zuckerberg veut écouter toutes tes conversations ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -59,24 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/aipKaVldexo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=aipKaVldexo",
         "publishedAt": "2026-06-13T18:00:25+00:00"
-      },
-      {
-        "title": "LA FRANCE EST ENDETTÉE DE 3538 MILLIARDS D'€ ET ÇA NE CESSE D'AUGMENTER",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ycWgfR63TPE",
-        "thumbnail": "https://i.ytimg.com/vi/ycWgfR63TPE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ycWgfR63TPE",
-        "publishedAt": "2026-06-13T16:00:34+00:00"
-      },
-      {
-        "title": "Les bons objectifs font les bons résultats",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "FWpZiV-TEdc",
-        "thumbnail": "https://i.ytimg.com/vi/FWpZiV-TEdc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FWpZiV-TEdc",
-        "publishedAt": "2026-06-13T06:58:08+00:00"
       },
       {
         "title": "L’usine qui fabrique nos chips a brûlé. Mais Brosti renaîtra de ses cendres.",
@@ -203,40 +203,40 @@
         "titleOriginal": "Honda Civics and the Evil Valet",
         "url": "https://juniperspring.org/posts/honda-evil-valet/",
         "source": "juniperspring.org",
-        "score": 203,
-        "comments": 33,
+        "score": 270,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=48523080",
-        "date": "il y a 5 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Tribblix : La distribution rétro Illumos",
-        "titleOriginal": "Tribblix: The retro Illumos distribution",
-        "url": "http://tribblix.org/",
-        "source": "tribblix.org",
-        "score": 15,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48524434",
-        "date": "il y a 1 h"
+        "title": "Outil gratuit de diagramme SQL→ER, s'exécute dans le navigateur, rien téléchargé",
+        "titleOriginal": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
+        "url": "https://sqltoerdiagram.com/",
+        "source": "sqltoerdiagram.com",
+        "score": 133,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48523992",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Pac-Man, mais tu es le fantôme",
-        "titleOriginal": "Pac-Man, but you're the ghost",
-        "url": "https://garrit.xyz/posts/2026-06-13-pac-man-but-you-re-the-ghost",
-        "source": "garrit.xyz",
-        "score": 41,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48524135",
-        "date": "il y a 2 h"
+        "title": "GLM 5.2 est sorti",
+        "titleOriginal": "GLM 5.2 Is Out",
+        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "source": "twitter.com",
+        "score": 586,
+        "comments": 322,
+        "hnUrl": "https://news.ycombinator.com/item?id=48518684",
+        "date": "il y a 18 h"
       },
       {
         "title": "Infusion sonore interdite dans les produits statistiques publiés par le Census Bureau",
         "titleOriginal": "Noise infusion banned from statistical products published by Census Bureau",
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "desfontain.es",
-        "score": 796,
-        "comments": 492,
+        "score": 826,
+        "comments": 512,
         "hnUrl": "https://news.ycombinator.com/item?id=48517377",
-        "date": "il y a 16 h"
+        "date": "il y a 20 h"
       }
     ]
   },
