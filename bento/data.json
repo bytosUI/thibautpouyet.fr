@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-14T19:20:13.460Z",
+  "updatedAt": "2026-06-14T20:46:08.246Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 18,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 1,
-      "wind": 9,
-      "humidity": 52
+      "wind": 6,
+      "humidity": 62
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-06-15",
-        "code": 3,
+        "code": 80,
         "tmax": 26,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-06-16",
-        "code": 95,
-        "tmax": 29,
+        "code": 61,
+        "tmax": 30,
         "tmin": 18
       },
       {
@@ -203,9 +203,19 @@
         "titleOriginal": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
         "url": "https://github.com/tamnd/kage",
         "source": "github.com",
-        "score": 99,
-        "comments": 28,
+        "score": 196,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=48529990",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Chaosnet (1981)",
+        "titleOriginal": "Chaosnet (1981)",
+        "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+        "source": "tumbleweed.nu",
+        "score": 30,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48531449",
         "date": "il y a 1 h"
       },
       {
@@ -213,30 +223,20 @@
         "titleOriginal": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
         "url": "https://github.com/nex-agi/Nex-N2/issues/4",
         "source": "github.com",
-        "score": 168,
-        "comments": 91,
+        "score": 200,
+        "comments": 116,
         "hnUrl": "https://news.ycombinator.com/item?id=48528371",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Simulateur de fendage du bois de chauffage",
         "titleOriginal": "Firewood Splitting Simulator",
         "url": "https://screen.toys/firewood/",
         "source": "screen.toys",
-        "score": 418,
-        "comments": 140,
+        "score": 481,
+        "comments": 163,
         "hnUrl": "https://news.ycombinator.com/item?id=48471638",
         "date": "il y a 4 j"
-      },
-      {
-        "title": "Ce n'est pas le mien, mais c'est un site Web où vous pouvez utiliser un affichage de segment",
-        "titleOriginal": "Not mine, but it's a website where you can use a segment display",
-        "url": "https://aresluna.org/segmented-type/",
-        "source": "aresluna.org",
-        "score": 17,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48489636",
-        "date": "il y a 3 j"
       }
     ]
   },
