@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-14T20:46:08.246Z",
+  "updatedAt": "2026-06-14T22:04:57.770Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
-      "code": 1,
-      "wind": 6,
-      "humidity": 62
+      "temp": 16,
+      "feelsLike": 15,
+      "code": 2,
+      "wind": 5,
+      "humidity": 67
     },
     "forecast": [
-      {
-        "date": "2026-06-14",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 10
-      },
       {
         "date": "2026-06-15",
         "code": 80,
@@ -32,6 +26,12 @@
         "date": "2026-06-17",
         "code": 3,
         "tmax": 33,
+        "tmin": 16
+      },
+      {
+        "date": "2026-06-18",
+        "code": 3,
+        "tmax": 35,
         "tmin": 16
       }
     ]
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Où s'arrête ton corps et où commence l'IA ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "9GbzXepCjTo",
+        "thumbnail": "https://i.ytimg.com/vi/9GbzXepCjTo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9GbzXepCjTo",
+        "publishedAt": "2026-06-14T21:06:47+00:00"
+      },
       {
         "title": "ARIELLE DOMBASLE EXCENTRIQUE ? ELLE RÉPOND",
         "channel": "LEGEND",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/H8dS3r9ocWI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=H8dS3r9ocWI",
         "publishedAt": "2026-06-14T06:32:23+00:00"
-      },
-      {
-        "title": "Zuckerberg veut écouter toutes tes conversations ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "aipKaVldexo",
-        "thumbnail": "https://i.ytimg.com/vi/aipKaVldexo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aipKaVldexo",
-        "publishedAt": "2026-06-13T18:00:25+00:00"
       },
       {
         "title": "L’usine qui fabrique nos chips a brûlé. Mais Brosti renaîtra de ses cendres.",
@@ -203,40 +203,40 @@
         "titleOriginal": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
         "url": "https://github.com/tamnd/kage",
         "source": "github.com",
-        "score": 196,
-        "comments": 48,
+        "score": 279,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48529990",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Chaosnet (1981)",
-        "titleOriginal": "Chaosnet (1981)",
-        "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-        "source": "tumbleweed.nu",
-        "score": 30,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48531449",
+        "title": "Zinnia : un noyau modulaire de type Unix 64 bits écrit en rouille",
+        "titleOriginal": "Zinnia: A modular 64-bit Unix-like kernel written in Rust",
+        "url": "https://zinnia-os.org/",
+        "source": "zinnia-os.org",
+        "score": 31,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48532705",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Yserver : un serveur X11 moderne écrit en rouille",
+        "titleOriginal": "Yserver: A modern X11 server written in Rust",
+        "url": "https://github.com/joske/yserver",
+        "source": "github.com",
+        "score": 70,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=48531394",
+        "date": "il y a 2 h"
       },
       {
         "title": "Le LLM « local » de Rio de Janeiro semble être une fusion d'un modèle existant",
         "titleOriginal": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
         "url": "https://github.com/nex-agi/Nex-N2/issues/4",
         "source": "github.com",
-        "score": 200,
-        "comments": 116,
+        "score": 231,
+        "comments": 125,
         "hnUrl": "https://news.ycombinator.com/item?id=48528371",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Simulateur de fendage du bois de chauffage",
-        "titleOriginal": "Firewood Splitting Simulator",
-        "url": "https://screen.toys/firewood/",
-        "source": "screen.toys",
-        "score": 481,
-        "comments": 163,
-        "hnUrl": "https://news.ycombinator.com/item?id=48471638",
-        "date": "il y a 4 j"
+        "date": "il y a 6 h"
       }
     ]
   },
