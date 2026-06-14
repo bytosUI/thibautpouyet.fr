@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-14T12:21:15.125Z",
+  "updatedAt": "2026-06-14T14:38:07.655Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
-      "feelsLike": 21,
+      "feelsLike": 20,
       "code": 1,
-      "wind": 13,
+      "wind": 14,
       "humidity": 41
     },
     "forecast": [
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Outil gratuit de diagramme SQL→ER, s'exécute dans le navigateur, rien téléchargé",
-        "titleOriginal": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
-        "url": "https://sqltoerdiagram.com/",
-        "source": "sqltoerdiagram.com",
-        "score": 209,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=48523992",
-        "date": "il y a 8 h"
+        "title": "La naissance et la mort de JavaScript (2014)",
+        "titleOriginal": "The Birth and Death of JavaScript (2014)",
+        "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+        "source": "destroyallsoftware.com",
+        "score": 82,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48526661",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Honda Civics et le diabolique voiturier",
-        "titleOriginal": "Honda Civics and the Evil Valet",
-        "url": "https://juniperspring.org/posts/honda-evil-valet/",
-        "source": "juniperspring.org",
-        "score": 310,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=48523080",
-        "date": "il y a 11 h"
+        "title": "Simulateur de fendage du bois de chauffage",
+        "titleOriginal": "Firewood Splitting Simulator",
+        "url": "https://screen.toys/firewood/",
+        "source": "screen.toys",
+        "score": 145,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48471638",
+        "date": "il y a 4 j"
       },
       {
-        "title": "GLM 5.2 est sorti",
-        "titleOriginal": "GLM 5.2 Is Out",
-        "url": "https://twitter.com/jietang/status/2065784751345287314",
-        "source": "twitter.com",
-        "score": 636,
-        "comments": 356,
-        "hnUrl": "https://news.ycombinator.com/item?id=48518684",
-        "date": "il y a 20 h"
+        "title": "FarOutCompany",
+        "titleOriginal": "FarOutCompany",
+        "url": "https://faroutcompany.com/",
+        "source": "faroutcompany.com",
+        "score": 13,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48527360",
+        "date": "il y a 28 min"
       },
       {
-        "title": "Infusion sonore interdite dans les produits statistiques publiés par le Census Bureau",
-        "titleOriginal": "Noise infusion banned from statistical products published by Census Bureau",
-        "url": "https://desfontain.es/blog/banning-noise.html",
-        "source": "desfontain.es",
-        "score": 839,
-        "comments": 527,
-        "hnUrl": "https://news.ycombinator.com/item?id=48517377",
-        "date": "il y a 22 h"
+        "title": "L'influence de Lisp sur Rubis",
+        "titleOriginal": "Lisp's Influence on Ruby",
+        "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+        "source": "blog.tacoda.dev",
+        "score": 83,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48491048",
+        "date": "il y a 2 j"
       }
     ]
   },
