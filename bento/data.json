@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-14T14:38:07.655Z",
+  "updatedAt": "2026-06-14T16:18:31.131Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
       "feelsLike": 20,
-      "code": 1,
+      "code": 2,
       "wind": 14,
       "humidity": 41
     },
@@ -13,26 +13,26 @@
       {
         "date": "2026-06-14",
         "code": 2,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 10
       },
       {
         "date": "2026-06-15",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 11
       },
       {
         "date": "2026-06-16",
-        "code": 80,
+        "code": 95,
         "tmax": 29,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-06-17",
-        "code": 45,
-        "tmax": 34,
-        "tmin": 14
+        "code": 3,
+        "tmax": 33,
+        "tmin": 16
       }
     ]
   },
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "4 mois en Corée et toujours rien… 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "--Ir1LV-4mw",
+        "thumbnail": "https://i.ytimg.com/vi/--Ir1LV-4mw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=--Ir1LV-4mw",
+        "publishedAt": "2026-06-14T16:00:18+00:00"
+      },
       {
         "title": "FOU RIRE EN DÉCOUVRANT LES PIRES SOSIES DE GUILLAUME PLEY ET MANU PAYET",
         "channel": "LEGEND",
@@ -86,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/-VRN8hT_awE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-VRN8hT_awE",
         "publishedAt": "2026-06-12T13:24:03+00:00"
-      },
-      {
-        "title": "Le mois où j'ai perdu ma maman 🕊️",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "iLW2L68avB0",
-        "thumbnail": "https://i.ytimg.com/vi/iLW2L68avB0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iLW2L68avB0",
-        "publishedAt": "2026-06-07T17:32:11+00:00"
       },
       {
         "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Non, tout le monde n'utilise pas l'IA pour tout",
+        "titleOriginal": "No, everyone is not using AI for everything",
+        "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+        "source": "gabrielweinberg.com",
+        "score": 130,
+        "comments": 102,
+        "hnUrl": "https://news.ycombinator.com/item?id=48527700",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "La naissance et la mort de JavaScript (2014)",
         "titleOriginal": "The Birth and Death of JavaScript (2014)",
         "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
         "source": "destroyallsoftware.com",
-        "score": 82,
-        "comments": 40,
+        "score": 131,
+        "comments": 68,
         "hnUrl": "https://news.ycombinator.com/item?id=48526661",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Simulateur de fendage du bois de chauffage",
         "titleOriginal": "Firewood Splitting Simulator",
         "url": "https://screen.toys/firewood/",
         "source": "screen.toys",
-        "score": 145,
-        "comments": 46,
+        "score": 259,
+        "comments": 88,
         "hnUrl": "https://news.ycombinator.com/item?id=48471638",
         "date": "il y a 4 j"
       },
       {
-        "title": "FarOutCompany",
-        "titleOriginal": "FarOutCompany",
-        "url": "https://faroutcompany.com/",
-        "source": "faroutcompany.com",
-        "score": 13,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48527360",
-        "date": "il y a 28 min"
-      },
-      {
-        "title": "L'influence de Lisp sur Rubis",
-        "titleOriginal": "Lisp's Influence on Ruby",
-        "url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-        "source": "blog.tacoda.dev",
-        "score": 83,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48491048",
-        "date": "il y a 2 j"
+        "title": "La recrudescence de la rougeole dans l'Utah fait craindre que les États-Unis puissent annuler des décennies de progrès",
+        "titleOriginal": "Measles surge in Utah sparks fears US could undo decades of progress",
+        "url": "https://www.dailymail.com/news/article-15897903/measles-surge-utah-US-elimination-status.html",
+        "source": "dailymail.com",
+        "score": 60,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48528025",
+        "date": "il y a 1 h"
       }
     ]
   },
