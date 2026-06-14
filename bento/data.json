@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-14T10:21:23.999Z",
+  "updatedAt": "2026-06-14T12:21:15.125Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 22,
+      "feelsLike": 21,
       "code": 1,
-      "wind": 12,
-      "humidity": 48
+      "wind": 13,
+      "humidity": 41
     },
     "forecast": [
       {
         "date": "2026-06-14",
-        "code": 3,
+        "code": 2,
         "tmax": 22,
         "tmin": 10
       },
       {
         "date": "2026-06-15",
         "code": 3,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 11
       },
       {
         "date": "2026-06-16",
         "code": 80,
-        "tmax": 32,
-        "tmin": 17
+        "tmax": 29,
+        "tmin": 18
       },
       {
         "date": "2026-06-17",
-        "code": 3,
-        "tmax": 33,
-        "tmin": 17
+        "code": 45,
+        "tmax": 34,
+        "tmin": 14
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "MANU PAYET : ON A RI ET PLEURÉ PENDANT 2H (LE PAPE, LES PIRES SOSIES, CÉLINE DION)",
+        "title": "FOU RIRE EN DÉCOUVRANT LES PIRES SOSIES DE GUILLAUME PLEY ET MANU PAYET",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "pfyI6-ncSek",
-        "thumbnail": "https://i.ytimg.com/vi/pfyI6-ncSek/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pfyI6-ncSek",
-        "publishedAt": "2026-06-14T09:00:06+00:00"
+        "videoId": "yeC_l0c0Dy0",
+        "thumbnail": "https://i.ytimg.com/vi/yeC_l0c0Dy0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yeC_l0c0Dy0",
+        "publishedAt": "2026-06-14T12:00:06+00:00"
       },
       {
         "title": "Comment valider un marché en une seule question",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Honda Civics et le diabolique voiturier",
-        "titleOriginal": "Honda Civics and the Evil Valet",
-        "url": "https://juniperspring.org/posts/honda-evil-valet/",
-        "source": "juniperspring.org",
-        "score": 270,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=48523080",
-        "date": "il y a 9 h"
-      },
-      {
         "title": "Outil gratuit de diagramme SQL→ER, s'exécute dans le navigateur, rien téléchargé",
         "titleOriginal": "Free SQL→ER diagram tool, runs in the browser, nothing uploaded",
         "url": "https://sqltoerdiagram.com/",
         "source": "sqltoerdiagram.com",
-        "score": 133,
-        "comments": 27,
+        "score": 209,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=48523992",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Honda Civics et le diabolique voiturier",
+        "titleOriginal": "Honda Civics and the Evil Valet",
+        "url": "https://juniperspring.org/posts/honda-evil-valet/",
+        "source": "juniperspring.org",
+        "score": 310,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48523080",
+        "date": "il y a 11 h"
       },
       {
         "title": "GLM 5.2 est sorti",
         "titleOriginal": "GLM 5.2 Is Out",
         "url": "https://twitter.com/jietang/status/2065784751345287314",
         "source": "twitter.com",
-        "score": 586,
-        "comments": 322,
+        "score": 636,
+        "comments": 356,
         "hnUrl": "https://news.ycombinator.com/item?id=48518684",
-        "date": "il y a 18 h"
+        "date": "il y a 20 h"
       },
       {
         "title": "Infusion sonore interdite dans les produits statistiques publiés par le Census Bureau",
         "titleOriginal": "Noise infusion banned from statistical products published by Census Bureau",
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "desfontain.es",
-        "score": 826,
-        "comments": 512,
+        "score": 839,
+        "comments": 527,
         "hnUrl": "https://news.ycombinator.com/item?id=48517377",
-        "date": "il y a 20 h"
+        "date": "il y a 22 h"
       }
     ]
   },
