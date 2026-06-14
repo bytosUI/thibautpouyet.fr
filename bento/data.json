@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-14T17:55:45.243Z",
+  "updatedAt": "2026-06-14T19:20:13.460Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 13,
-      "humidity": 45
+      "temp": 20,
+      "feelsLike": 18,
+      "code": 1,
+      "wind": 9,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "ARIELLE DOMBASLE EXCENTRIQUE ? ELLE RÉPOND",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "WEZw5cf07FA",
+        "thumbnail": "https://i.ytimg.com/vi/WEZw5cf07FA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WEZw5cf07FA",
+        "publishedAt": "2026-06-14T18:45:11+00:00"
+      },
+      {
         "title": "4 mois en Corée et toujours rien… 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/--Ir1LV-4mw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=--Ir1LV-4mw",
         "publishedAt": "2026-06-14T16:00:18+00:00"
-      },
-      {
-        "title": "FOU RIRE EN DÉCOUVRANT LES PIRES SOSIES DE GUILLAUME PLEY ET MANU PAYET",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "yeC_l0c0Dy0",
-        "thumbnail": "https://i.ytimg.com/vi/yeC_l0c0Dy0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yeC_l0c0Dy0",
-        "publishedAt": "2026-06-14T12:00:06+00:00"
       },
       {
         "title": "Comment valider un marché en une seule question",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-        "titleOriginal": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-        "source": "github.com",
-        "score": 104,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=48528371",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
+        "title": "Afficher HN : Kage – Ombrage de n'importe quel site Web sur un seul binaire pour une visualisation hors ligne",
         "titleOriginal": "Show HN: Kage – Shadow any website to a single binary for offline viewing",
         "url": "https://github.com/tamnd/kage",
         "source": "github.com",
-        "score": 20,
-        "comments": 4,
+        "score": 99,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=48529990",
-        "date": "il y a 30 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "Firewood Splitting Simulator",
+        "title": "Le LLM « local » de Rio de Janeiro semble être une fusion d'un modèle existant",
+        "titleOriginal": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "source": "github.com",
+        "score": 168,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=48528371",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Simulateur de fendage du bois de chauffage",
         "titleOriginal": "Firewood Splitting Simulator",
         "url": "https://screen.toys/firewood/",
         "source": "screen.toys",
-        "score": 344,
-        "comments": 118,
+        "score": 418,
+        "comments": 140,
         "hnUrl": "https://news.ycombinator.com/item?id=48471638",
         "date": "il y a 4 j"
       },
       {
-        "title": "The Birth and Death of JavaScript (2014)",
-        "titleOriginal": "The Birth and Death of JavaScript (2014)",
-        "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-        "source": "destroyallsoftware.com",
-        "score": 158,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=48526661",
-        "date": "il y a 5 h"
+        "title": "Ce n'est pas le mien, mais c'est un site Web où vous pouvez utiliser un affichage de segment",
+        "titleOriginal": "Not mine, but it's a website where you can use a segment display",
+        "url": "https://aresluna.org/segmented-type/",
+        "source": "aresluna.org",
+        "score": 17,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48489636",
+        "date": "il y a 3 j"
       }
     ]
   },
