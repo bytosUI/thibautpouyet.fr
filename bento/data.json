@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-13T23:09:12.356Z",
+  "updatedAt": "2026-06-14T01:41:58.053Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 15,
-      "code": 1,
-      "wind": 8,
-      "humidity": 62
+      "temp": 13,
+      "feelsLike": 13,
+      "code": 0,
+      "wind": 5,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -203,9 +203,19 @@
         "titleOriginal": "Noise infusion banned from statistical products published by Census Bureau",
         "url": "https://desfontain.es/blog/banning-noise.html",
         "source": "desfontain.es",
-        "score": 660,
-        "comments": 380,
+        "score": 723,
+        "comments": 455,
         "hnUrl": "https://news.ycombinator.com/item?id=48517377",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "GLM 5.2 est sorti",
+        "titleOriginal": "GLM 5.2 Is Out",
+        "url": "https://twitter.com/jietang/status/2065784751345287314",
+        "source": "twitter.com",
+        "score": 342,
+        "comments": 192,
+        "hnUrl": "https://news.ycombinator.com/item?id=48518684",
         "date": "il y a 9 h"
       },
       {
@@ -213,30 +223,20 @@
         "titleOriginal": "Every Frame Perfect",
         "url": "https://tonsky.me/blog/every-frame-perfect/",
         "source": "tonsky.me",
-        "score": 467,
-        "comments": 154,
+        "score": 552,
+        "comments": 180,
         "hnUrl": "https://news.ycombinator.com/item?id=48516251",
-        "date": "il y a 11 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "Pyodide 314.0 : les paquets Python peuvent maintenant publier des roues WebAssembly dans PyPI",
         "titleOriginal": "Pyodide 314.0: Python packages can now publish WebAssembly wheels to PyPI",
         "url": "https://blog.pyodide.org/posts/314-release/",
         "source": "blog.pyodide.org",
-        "score": 38,
-        "comments": 7,
+        "score": 75,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=48462759",
         "date": "il y a 4 j"
-      },
-      {
-        "title": "Le traitement des tumeurs pancréatiques peut avoir révélé l'interrupteur principal du cancer",
-        "titleOriginal": "Treating pancreatic tumours may have revealed cancer's master switch",
-        "url": "https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch",
-        "source": "economist.com",
-        "score": 264,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=48517199",
-        "date": "il y a 9 h"
       }
     ]
   },
