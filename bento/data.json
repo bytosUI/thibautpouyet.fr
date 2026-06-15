@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-15T09:56:53.372Z",
+  "updatedAt": "2026-06-15T15:45:43.582Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
-      "code": 2,
-      "wind": 6,
-      "humidity": 48
+      "temp": 24,
+      "feelsLike": 23,
+      "code": 3,
+      "wind": 5,
+      "humidity": 37
     },
     "forecast": [
       {
@@ -20,35 +20,27 @@
         "date": "2026-06-16",
         "code": 61,
         "tmax": 29,
-        "tmin": 18
+        "tmin": 17
       },
       {
         "date": "2026-06-17",
-        "code": 3,
+        "code": 2,
         "tmax": 32,
         "tmin": 16
       },
       {
         "date": "2026-06-18",
         "code": 3,
-        "tmax": 35,
-        "tmin": 17
+        "tmax": 36,
+        "tmin": 15
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 1901,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"AVEC LE TEMPS JE DEVIENS BOBO\"",
+        "title": "QUAND MANU PAYET S'EST FAIT ENGUEULER SUR UN TOURNAGE AMÉRICAIN",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "mwiItJ_HHOA",
-        "thumbnail": "https://i.ytimg.com/vi/mwiItJ_HHOA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mwiItJ_HHOA",
-        "publishedAt": "2026-06-15T09:00:21+00:00"
+        "videoId": "gFMnQdDaLm4",
+        "thumbnail": "https://i.ytimg.com/vi/gFMnQdDaLm4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gFMnQdDaLm4",
+        "publishedAt": "2026-06-15T15:00:30+00:00"
       },
       {
         "title": "France VS l'île Maurice",
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Votre ePub va bien",
-        "titleOriginal": "Your ePub Is fine",
-        "url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-        "source": "andreklein.net",
-        "score": 592,
-        "comments": 199,
-        "hnUrl": "https://news.ycombinator.com/item?id=48533848",
-        "date": "il y a 11 h"
+        "title": "CrankGPT",
+        "titleOriginal": "CrankGPT",
+        "url": "https://crankgpt.com",
+        "source": "crankgpt.com",
+        "score": 270,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=48540854",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Modèles de fond de teint Apple",
-        "titleOriginal": "Apple Foundation Models",
-        "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-        "source": "platform.claude.com",
+        "title": "Iroh 1.0",
+        "titleOriginal": "Iroh 1.0",
+        "url": "https://www.iroh.computer/blog/v1",
+        "source": "iroh.computer",
+        "score": 66,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48542480",
+        "date": "il y a 32 min"
+      },
+      {
+        "title": "Hetzner a augmenté les prix des serveurs dédiés de 3 à 4 fois",
+        "titleOriginal": "Hetzner increased dedicated server prices 3-4x",
+        "url": "https://news.ycombinator.com/item?id=48542064",
+        "source": "news.ycombinator.com",
         "score": 138,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=48536776",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Encore plus de piles fournies avec Emacs",
-        "titleOriginal": "Even more batteries included with Emacs",
-        "url": "https://karthinks.com/software/even-more-batteries-included-with-emacs/",
-        "source": "karthinks.com",
-        "score": 200,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=48535886",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "What the Fuck Happened to Nerds",
-        "titleOriginal": "What the Fuck Happened to Nerds",
-        "url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-        "source": "mrmarket.lol",
-        "score": 125,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48538229",
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=48542064",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Le médicament de transport du cuivre restaure la mémoire et élimine les protéines toxiques de la maladie d'Alzheimer",
+        "titleOriginal": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+        "url": "https://www.monash.edu/news/articles/copper-drug-restores-memory-and-clears-toxic-alzheimers-proteins",
+        "source": "monash.edu",
+        "score": 9,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48542132",
+        "date": "il y a 56 min"
       }
     ]
   },
