@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-15T19:42:16.554Z",
+  "updatedAt": "2026-06-15T22:14:02.897Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 19,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 6,
-      "humidity": 49
+      "wind": 4,
+      "humidity": 63
     },
     "forecast": [
-      {
-        "date": "2026-06-15",
-        "code": 61,
-        "tmax": 24,
-        "tmin": 12
-      },
       {
         "date": "2026-06-16",
         "code": 80,
@@ -31,8 +25,14 @@
       {
         "date": "2026-06-18",
         "code": 3,
-        "tmax": 36,
-        "tmin": 17
+        "tmax": 37,
+        "tmin": 18
+      },
+      {
+        "date": "2026-06-19",
+        "code": 3,
+        "tmax": 37,
+        "tmin": 20
       }
     ]
   },
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "Pourquoi Anthropic a supplié l'État de les bloquer ?",
+        "title": "FRÉDÉRIQUE BEL À MONACO",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "9_jEOqjig0k",
+        "thumbnail": "https://i.ytimg.com/vi/9_jEOqjig0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9_jEOqjig0k",
+        "publishedAt": "2026-06-15T19:43:28+00:00"
+      },
+      {
+        "title": "La fin d'Anthropic ? L'État a appuyé sur le bouton STOP",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "MAO5MfDO5hw",
         "thumbnail": "https://i.ytimg.com/vi/MAO5MfDO5hw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MAO5MfDO5hw",
         "publishedAt": "2026-06-15T19:00:51+00:00"
-      },
-      {
-        "title": "IL S'ACHÈTE SA VOITURE DE RÊVE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3BKviCRKW_I",
-        "thumbnail": "https://i.ytimg.com/vi/3BKviCRKW_I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3BKviCRKW_I",
-        "publishedAt": "2026-06-15T16:00:37+00:00"
       },
       {
         "title": "France VS l'île Maurice",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Une porte dérobée dans une offre d'emploi LinkedIn",
+        "titleOriginal": "A backdoor in a LinkedIn job offer",
+        "url": "https://roman.pt/posts/linkedin-backdoor/",
+        "source": "roman.pt",
+        "score": 347,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=48546294",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "La production de batteries aux États-Unis continue de battre des records",
+        "titleOriginal": "US battery manufacturing output continues to break records",
+        "url": "https://fred.stlouisfed.org/series/IPG33591S",
+        "source": "fred.stlouisfed.org",
+        "score": 80,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=48546616",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Iroh 1.0",
         "titleOriginal": "Iroh 1.0",
         "url": "https://www.iroh.computer/blog/v1",
         "source": "iroh.computer",
-        "score": 655,
-        "comments": 212,
+        "score": 817,
+        "comments": 259,
         "hnUrl": "https://news.ycombinator.com/item?id=48542480",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "TinyWind : Un jeu de voile pirate pixel avec la physique du vent réel (380k+ kms navigués)",
-        "titleOriginal": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-        "url": "https://tinywind.io",
-        "source": "tinywind.io",
-        "score": 319,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=48543475",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Demandez à HN : Quelqu'un a-t-il remplacé Claude/GPT par un modèle local pour le codage quotidien ?",
-        "titleOriginal": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-        "url": "https://news.ycombinator.com/item?id=48542100",
-        "source": "news.ycombinator.com",
-        "score": 288,
-        "comments": 185,
-        "hnUrl": "https://news.ycombinator.com/item?id=48542100",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Typst 0.15.0",
-        "titleOriginal": "Typst 0.15.0",
-        "url": "https://typst.app/docs/changelog/0.15.0/",
-        "source": "typst.app",
-        "score": 123,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48544396",
-        "date": "il y a 2 h"
+        "title": "Les techno-libertaires affluent vers les Caraïbes",
+        "titleOriginal": "Techno-libertarians are flocking to the Caribbean",
+        "url": "https://economist.com/the-americas/2026/06/11/techno-libertarians-are-flocking-to-the-caribbean",
+        "source": "economist.com",
+        "score": 23,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48547271",
+        "date": "il y a 43 min"
       }
     ]
   },
