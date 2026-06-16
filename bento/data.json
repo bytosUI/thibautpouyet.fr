@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-16T19:54:18.857Z",
+  "updatedAt": "2026-06-16T22:07:17.190Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 1,
-      "wind": 13,
-      "humidity": 53
+      "wind": 7,
+      "humidity": 67
     },
     "forecast": [
-      {
-        "date": "2026-06-16",
-        "code": 61,
-        "tmax": 31,
-        "tmin": 17
-      },
       {
         "date": "2026-06-17",
         "code": 2,
@@ -33,6 +27,12 @@
         "code": 80,
         "tmax": 38,
         "tmin": 19
+      },
+      {
+        "date": "2026-06-20",
+        "code": 3,
+        "tmax": 36,
+        "tmin": 22
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "MISS FRANCE LE SOSIE D’ADELE EXARCHOPOULOS ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "pxYY_m5P9g0",
+        "thumbnail": "https://i.ytimg.com/vi/pxYY_m5P9g0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pxYY_m5P9g0",
+        "publishedAt": "2026-06-16T20:54:53+00:00"
+      },
+      {
         "title": "Pourquoi Claude approuve toujours tes mauvaises idées ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/lCDQH--sjF8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lCDQH--sjF8",
         "publishedAt": "2026-06-16T17:01:25+00:00"
-      },
-      {
-        "title": "SON FILS LUI SOUHAITE LA BONNE ANNÉE AVANT DE MOURIR",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "AmUJ2NOFH8o",
-        "thumbnail": "https://i.ytimg.com/vi/AmUJ2NOFH8o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AmUJ2NOFH8o",
-        "publishedAt": "2026-06-16T16:00:32+00:00"
       },
       {
         "title": "On devine 29 compotes avec Marine (c’est notre âme sœur)",
@@ -203,40 +203,40 @@
         "titleOriginal": "Running local models is good now",
         "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
         "source": "vickiboykis.com",
-        "score": 682,
-        "comments": 319,
+        "score": 851,
+        "comments": 359,
         "hnUrl": "https://news.ycombinator.com/item?id=48555993",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Les États-Unis tirent des capteurs océaniques, un « choc » pour la recherche canadienne à l'approche d'El Niño",
-        "titleOriginal": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Niño nears",
-        "url": "https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874",
-        "source": "timescolonist.com",
-        "score": 29,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48560847",
-        "date": "il y a 12 min"
+        "title": "GrapheneOS a été porté sur Android 17 et les versions officielles arrivent bientôt",
+        "titleOriginal": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
+        "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+        "source": "discuss.grapheneos.org",
+        "score": 86,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48561654",
+        "date": "il y a 1 h"
       },
       {
         "title": "SpaceX achète Cursor pour 60 milliards de $",
         "titleOriginal": "SpaceX to buy Cursor for $60B",
         "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
         "source": "reuters.com",
-        "score": 617,
-        "comments": 1031,
+        "score": 755,
+        "comments": 1163,
         "hnUrl": "https://news.ycombinator.com/item?id=48553224",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "TIL : Vous pouvez faire des requêtes HTTP sans Curl en utilisant Bash /dev/TCP",
-        "titleOriginal": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-        "url": "https://mareksuppa.com/til/bash-dev-tcp-http-without-curl/",
-        "source": "mareksuppa.com",
-        "score": 125,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=48558018",
-        "date": "il y a 3 h"
+        "title": "GPT‑NL : un modèle de langue souveraine pour les Pays-Bas",
+        "titleOriginal": "GPT‑NL: a sovereign language model for the Netherlands",
+        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+        "source": "tno.nl",
+        "score": 101,
+        "comments": 82,
+        "hnUrl": "https://news.ycombinator.com/item?id=48559188",
+        "date": "il y a 4 h"
       }
     ]
   },
