@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-16T00:08:40.613Z",
+  "updatedAt": "2026-06-16T05:43:44.316Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 18,
       "feelsLike": 18,
       "code": 3,
-      "wind": 3,
-      "humidity": 79
+      "wind": 6,
+      "humidity": 82
     },
     "forecast": [
       {
         "date": "2026-06-16",
-        "code": 63,
-        "tmax": 26,
+        "code": 80,
+        "tmax": 29,
         "tmin": 17
       },
       {
         "date": "2026-06-17",
         "code": 3,
         "tmax": 30,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-06-18",
         "code": 3,
-        "tmax": 37,
-        "tmin": 18
+        "tmax": 36,
+        "tmin": 17
       },
       {
         "date": "2026-06-19",
         "code": 3,
         "tmax": 37,
-        "tmin": 20
+        "tmin": 19
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "FRÉDÉRIQUE BEL À MONACO",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "9_jEOqjig0k",
-        "thumbnail": "https://i.ytimg.com/vi/9_jEOqjig0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9_jEOqjig0k",
-        "publishedAt": "2026-06-15T19:43:28+00:00"
-      },
-      {
-        "title": "La fin d'Anthropic ? L'État a appuyé sur le bouton STOP",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "MAO5MfDO5hw",
-        "thumbnail": "https://i.ytimg.com/vi/MAO5MfDO5hw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MAO5MfDO5hw",
-        "publishedAt": "2026-06-15T19:00:51+00:00"
-      },
-      {
-        "title": "France VS l'île Maurice",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "Fmif3pm_9Iw",
-        "thumbnail": "https://i.ytimg.com/vi/Fmif3pm_9Iw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fmif3pm_9Iw",
-        "publishedAt": "2026-06-15T07:47:02+00:00"
-      },
-      {
-        "title": "4 mois en Corée et toujours rien… 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "--Ir1LV-4mw",
-        "thumbnail": "https://i.ytimg.com/vi/--Ir1LV-4mw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=--Ir1LV-4mw",
-        "publishedAt": "2026-06-14T16:00:18+00:00"
-      },
-      {
-        "title": "L’usine qui fabrique nos chips a brûlé. Mais Brosti renaîtra de ses cendres.",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "-VRN8hT_awE",
-        "thumbnail": "https://i.ytimg.com/vi/-VRN8hT_awE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-VRN8hT_awE",
-        "publishedAt": "2026-06-12T13:24:03+00:00"
-      },
-      {
-        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "Mbb12ogBrAE",
-        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
-        "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -199,44 +117,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le moment où l'équipe de l'émulateur x86 a trouvé le code si mauvais qu'elle l'a corrigé pendant l'émulation",
+        "titleOriginal": "The time the x86 emulator team found code so bad they fixed it during emulation",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
+        "source": "devblogs.microsoft.com",
+        "score": 75,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48550693",
+        "date": "il y a 57 min"
+      },
+      {
         "title": "Une porte dérobée dans une offre d'emploi LinkedIn",
         "titleOriginal": "A backdoor in a LinkedIn job offer",
         "url": "https://roman.pt/posts/linkedin-backdoor/",
         "source": "roman.pt",
-        "score": 556,
-        "comments": 109,
+        "score": 929,
+        "comments": 178,
         "hnUrl": "https://news.ycombinator.com/item?id=48546294",
-        "date": "il y a 4 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Bibliothèque de livres interdite dans une ampoule intelligente Wi-Fi",
         "titleOriginal": "Banned Book Library in a Wi-Fi Smart Light Bulb",
         "url": "https://www.richardosgood.com/posts/banned-book-library/",
         "source": "richardosgood.com",
-        "score": 70,
-        "comments": 13,
+        "score": 275,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=48547985",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Iroh 1.0",
         "titleOriginal": "Iroh 1.0",
         "url": "https://www.iroh.computer/blog/v1",
         "source": "iroh.computer",
-        "score": 889,
-        "comments": 276,
+        "score": 1060,
+        "comments": 310,
         "hnUrl": "https://news.ycombinator.com/item?id=48542480",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "J'aime l'ordinateur",
-        "titleOriginal": "I Love the Computer",
-        "url": "https://michaelenger.com/blog/i-love-the-computer/",
-        "source": "michaelenger.com",
-        "score": 115,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=48546441",
-        "date": "il y a 3 h"
+        "date": "il y a 14 h"
       }
     ]
   },
