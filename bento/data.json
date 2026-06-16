@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-16T22:07:17.190Z",
+  "updatedAt": "2026-06-16T23:54:10.534Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
-      "code": 1,
-      "wind": 7,
-      "humidity": 67
+      "temp": 18,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 5,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-06-17",
-        "code": 2,
+        "code": 3,
         "tmax": 31,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-06-18",
         "code": 3,
-        "tmax": 36,
+        "tmax": 37,
         "tmin": 19
       },
       {
         "date": "2026-06-19",
-        "code": 80,
+        "code": 3,
         "tmax": 38,
         "tmin": 19
       },
@@ -32,7 +32,7 @@
         "date": "2026-06-20",
         "code": 3,
         "tmax": 36,
-        "tmin": 22
+        "tmin": 21
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "GrapheneOS a été porté sur Android 17",
+        "titleOriginal": "GrapheneOS has been ported to Android 17",
+        "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+        "source": "discuss.grapheneos.org",
+        "score": 271,
+        "comments": 110,
+        "hnUrl": "https://news.ycombinator.com/item?id=48561654",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Exécuter des modèles locaux, c'est bien maintenant",
         "titleOriginal": "Running local models is good now",
         "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
         "source": "vickiboykis.com",
-        "score": 851,
-        "comments": 359,
+        "score": 947,
+        "comments": 409,
         "hnUrl": "https://news.ycombinator.com/item?id=48555993",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "GrapheneOS a été porté sur Android 17 et les versions officielles arrivent bientôt",
-        "titleOriginal": "GrapheneOS has been ported to Android 17 and official releases are coming soon",
-        "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-        "source": "discuss.grapheneos.org",
-        "score": 86,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48561654",
-        "date": "il y a 1 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "SpaceX achète Cursor pour 60 milliards de $",
         "titleOriginal": "SpaceX to buy Cursor for $60B",
         "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
         "source": "reuters.com",
-        "score": 755,
-        "comments": 1163,
+        "score": 819,
+        "comments": 1261,
         "hnUrl": "https://news.ycombinator.com/item?id=48553224",
-        "date": "il y a 11 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "GPT‑NL : un modèle de langue souveraine pour les Pays-Bas",
-        "titleOriginal": "GPT‑NL: a sovereign language model for the Netherlands",
-        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-        "source": "tno.nl",
-        "score": 101,
-        "comments": 82,
-        "hnUrl": "https://news.ycombinator.com/item?id=48559188",
-        "date": "il y a 4 h"
+        "title": "Serveurs IIS humiliants pour le plaisir et la prison",
+        "titleOriginal": "Humiliating IIS servers for fun and jail time",
+        "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+        "source": "mll.sh",
+        "score": 17,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48563394",
+        "date": "il y a 1 h"
       }
     ]
   },
