@@ -1,47 +1,55 @@
 {
-  "updatedAt": "2026-06-17T03:32:44.833Z",
+  "updatedAt": "2026-06-17T08:57:18.557Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
-      "code": 2,
-      "wind": 2,
-      "humidity": 89
+      "temp": 23,
+      "feelsLike": 24,
+      "code": 1,
+      "wind": 1,
+      "humidity": 45
     },
     "forecast": [
       {
         "date": "2026-06-17",
-        "code": 3,
-        "tmax": 31,
-        "tmin": 14
+        "code": 2,
+        "tmax": 30,
+        "tmin": 15
       },
       {
         "date": "2026-06-18",
         "code": 3,
         "tmax": 36,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-06-19",
         "code": 3,
         "tmax": 38,
-        "tmin": 19
+        "tmin": 21
       },
       {
         "date": "2026-06-20",
-        "code": 3,
-        "tmax": 36,
-        "tmin": 21
+        "code": 80,
+        "tmax": 35,
+        "tmin": 20
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 128,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -52,6 +60,42 @@
   "youtube": {
     "videos": [
       {
+        "title": "VINCENT DESAGNAT SUR LE TAPIS ROUGE DU FESTIVAL DE LA TÉLÉVISION À MONACO !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "A9_QzXnauME",
+        "thumbnail": "https://i.ytimg.com/vi/A9_QzXnauME/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A9_QzXnauME",
+        "publishedAt": "2026-06-17T06:48:35+00:00"
+      },
+      {
+        "title": "Le jour où les États-Unis ont coupé l'IA au reste du monde !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "IopmeXS-zhU",
+        "thumbnail": "https://i.ytimg.com/vi/IopmeXS-zhU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IopmeXS-zhU",
+        "publishedAt": "2026-06-17T06:30:23+00:00"
+      },
+      {
+        "title": "On devine 29 compotes avec Marine (c’est notre âme sœur)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "_nIMtE65UsI",
+        "thumbnail": "https://i.ytimg.com/vi/_nIMtE65UsI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_nIMtE65UsI",
+        "publishedAt": "2026-06-16T15:22:40+00:00"
+      },
+      {
+        "title": "Plus d'argent : il n'est pas plus heureux",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "5ZrFo7zzEqk",
+        "thumbnail": "https://i.ytimg.com/vi/5ZrFo7zzEqk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5ZrFo7zzEqk",
+        "publishedAt": "2026-06-16T08:51:04+00:00"
+      },
+      {
         "title": "4 mois en Corée et toujours rien… 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,6 +103,42 @@
         "thumbnail": "https://i.ytimg.com/vi/--Ir1LV-4mw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=--Ir1LV-4mw",
         "publishedAt": "2026-06-14T16:00:18+00:00"
+      },
+      {
+        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "Mbb12ogBrAE",
+        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
+        "publishedAt": "2026-06-07T15:17:09+00:00"
+      },
+      {
+        "title": "Tout le monde déteste Joyca à juste titre 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "nPyGCIIxjR4",
+        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
+        "publishedAt": "2026-05-24T12:50:12+00:00"
+      },
+      {
+        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "F2sI8CDVbRs",
+        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
+        "publishedAt": "2026-05-24T09:55:36+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -69,12 +149,6 @@
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
         "url": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "title": "Mortal Kombat II",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
-        "url": "https://www.themoviedb.org/movie/931285"
       },
       {
         "title": "Disclosure Day",
@@ -93,6 +167,12 @@
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg",
         "url": "https://www.themoviedb.org/movie/1280738"
+      },
+      {
+        "title": "Toy Story 5",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
+        "url": "https://www.themoviedb.org/movie/1084244"
       }
     ]
   },
@@ -131,40 +211,40 @@
         "titleOriginal": "GrapheneOS has been ported to Android 17",
         "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
         "source": "discuss.grapheneos.org",
-        "score": 480,
-        "comments": 193,
+        "score": 736,
+        "comments": 340,
         "hnUrl": "https://news.ycombinator.com/item?id=48561654",
-        "date": "il y a 6 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Exécuter des modèles locaux, c'est bien maintenant",
         "titleOriginal": "Running local models is good now",
         "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
         "source": "vickiboykis.com",
-        "score": 1081,
-        "comments": 444,
+        "score": 1295,
+        "comments": 499,
         "hnUrl": "https://news.ycombinator.com/item?id=48555993",
-        "date": "il y a 12 h"
+        "date": "il y a 18 h"
+      },
+      {
+        "title": "Le livre de jeu du fondateur : Construire une startup native de l'IA",
+        "titleOriginal": "The founder's playbook: Building an AI-native startup",
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "source": "claude.com",
+        "score": 60,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=48566832",
+        "date": "il y a 1 h"
       },
       {
         "title": "Serveurs IIS humiliants pour le plaisir et la prison",
         "titleOriginal": "Humiliating IIS servers for fun and jail time",
         "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
         "source": "mll.sh",
-        "score": 127,
-        "comments": 23,
+        "score": 241,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=48563394",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "SpaceX achète Cursor pour 60 milliards de $",
-        "titleOriginal": "SpaceX to buy Cursor for $60B",
-        "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-        "source": "reuters.com",
-        "score": 919,
-        "comments": 1401,
-        "hnUrl": "https://news.ycombinator.com/item?id=48553224",
-        "date": "il y a 16 h"
+        "date": "il y a 10 h"
       }
     ]
   },
