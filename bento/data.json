@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-17T19:21:20.431Z",
+  "updatedAt": "2026-06-17T21:27:29.084Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 29,
+      "temp": 24,
+      "feelsLike": 25,
       "code": 0,
-      "wind": 5,
-      "humidity": 40
+      "wind": 4,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Epic Games annonce le système de contrôle de version Lore",
-        "titleOriginal": "Epic Games announces Lore version control system",
+        "title": "Lore – Système de contrôle de version open source conçu pour l'évolutivité",
+        "titleOriginal": "Lore – Open source version control system designed for scalability",
         "url": "https://lore.org/",
         "source": "lore.org",
-        "score": 648,
-        "comments": 360,
+        "score": 809,
+        "comments": 447,
         "hnUrl": "https://news.ycombinator.com/item?id=48571081",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Seuls 16 % des Américains pensent que l'IA aura un impact positif sur la société",
-        "titleOriginal": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-        "source": "techcrunch.com",
-        "score": 311,
-        "comments": 300,
-        "hnUrl": "https://news.ycombinator.com/item?id=48573332",
-        "date": "il y a 2 h"
+        "title": "Les États-Unis retiennent la liste noire de DeepSeek, plus de 100 entreprises ont jugé que les risques de sécurité",
+        "titleOriginal": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "source": "reuters.com",
+        "score": 234,
+        "comments": 238,
+        "hnUrl": "https://news.ycombinator.com/item?id=48565498",
+        "date": "il y a 17 h"
+      },
+      {
+        "title": "Un robot se dirige vers vous : voulez-vous qu'il fonctionne sur Claude ou Grok ?",
+        "titleOriginal": "A Robot Is Sprinting Towards You: Do You Want It Running on Claude or Grok?",
+        "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
+        "source": "openrouter.ai",
+        "score": 12,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48576824",
+        "date": "il y a 27 min"
       },
       {
         "title": "Lancement HN : Adam (YC W25) – CAO IA open source",
         "titleOriginal": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
         "url": "https://github.com/Adam-CAD/CADAM",
         "source": "github.com",
-        "score": 79,
-        "comments": 35,
+        "score": 115,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=48572553",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "GLM-5.2 est le nouveau modèle de poids ouverts leader sur l'analyse artificielle",
-        "titleOriginal": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-        "source": "artificialanalysis.ai",
-        "score": 639,
-        "comments": 332,
-        "hnUrl": "https://news.ycombinator.com/item?id=48567759",
-        "date": "il y a 10 h"
+        "date": "il y a 5 h"
       }
     ]
   },
