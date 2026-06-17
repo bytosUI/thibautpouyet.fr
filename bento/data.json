@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-06-17T08:57:18.557Z",
+  "updatedAt": "2026-06-17T12:51:29.737Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 24,
-      "code": 1,
-      "wind": 1,
-      "humidity": 45
+      "temp": 29,
+      "feelsLike": 31,
+      "code": 2,
+      "wind": 3,
+      "humidity": 35
     },
     "forecast": [
       {
         "date": "2026-06-17",
         "code": 2,
-        "tmax": 30,
+        "tmax": 31,
         "tmin": 15
       },
       {
         "date": "2026-06-18",
         "code": 3,
-        "tmax": 36,
+        "tmax": 37,
         "tmin": 18
       },
       {
         "date": "2026-06-19",
-        "code": 3,
-        "tmax": 38,
-        "tmin": 21
+        "code": 80,
+        "tmax": 39,
+        "tmin": 22
       },
       {
         "date": "2026-06-20",
-        "code": 80,
-        "tmax": 35,
+        "code": 3,
+        "tmax": 36,
         "tmin": 20
       }
     ]
@@ -39,17 +39,24 @@
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 128,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 5498,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 335,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
-      "domingo",
-      "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -60,13 +67,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "VINCENT DESAGNAT SUR LE TAPIS ROUGE DU FESTIVAL DE LA TÉLÉVISION À MONACO !",
+        "title": "PRISE D'OTAGE PENDANT UN TOURNAGE DES \"12 COUPS DE MIDI\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "A9_QzXnauME",
-        "thumbnail": "https://i.ytimg.com/vi/A9_QzXnauME/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A9_QzXnauME",
-        "publishedAt": "2026-06-17T06:48:35+00:00"
+        "videoId": "K7q4R_uHyjE",
+        "thumbnail": "https://i.ytimg.com/vi/K7q4R_uHyjE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=K7q4R_uHyjE",
+        "publishedAt": "2026-06-17T11:35:57+00:00"
       },
       {
         "title": "Le jour où les États-Unis ont coupé l'IA au reste du monde !",
@@ -207,44 +214,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GrapheneOS a été porté sur Android 17",
-        "titleOriginal": "GrapheneOS has been ported to Android 17",
-        "url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
-        "source": "discuss.grapheneos.org",
-        "score": 736,
-        "comments": 340,
-        "hnUrl": "https://news.ycombinator.com/item?id=48561654",
-        "date": "il y a 12 h"
+        "title": "GLM-5.2 est le nouveau modèle de poids ouverts leader sur l'analyse artificielle",
+        "titleOriginal": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+        "source": "artificialanalysis.ai",
+        "score": 281,
+        "comments": 123,
+        "hnUrl": "https://news.ycombinator.com/item?id=48567759",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Exécuter des modèles locaux, c'est bien maintenant",
-        "titleOriginal": "Running local models is good now",
-        "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-        "source": "vickiboykis.com",
-        "score": 1295,
-        "comments": 499,
-        "hnUrl": "https://news.ycombinator.com/item?id=48555993",
-        "date": "il y a 18 h"
+        "title": "RFC 10008 : La nouvelle méthode de requête HTTP",
+        "titleOriginal": "RFC 10008: The new HTTP Query Method",
+        "url": "https://www.rfc-editor.org/info/rfc10008/",
+        "source": "rfc-editor.org",
+        "score": 63,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48568502",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Le livre de jeu du fondateur : Construire une startup native de l'IA",
-        "titleOriginal": "The founder's playbook: Building an AI-native startup",
-        "url": "https://claude.com/blog/the-founders-playbook",
-        "source": "claude.com",
-        "score": 60,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48566832",
-        "date": "il y a 1 h"
+        "title": "Soixante pour cent des consommateurs américains disent que « l'IA » dans les messages de la marque est un refus",
+        "titleOriginal": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "url": "https://wpvip.com/future-of-the-web-2026/",
+        "source": "wpvip.com",
+        "score": 98,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=48569278",
+        "date": "il y a 40 min"
       },
       {
-        "title": "Serveurs IIS humiliants pour le plaisir et la prison",
-        "titleOriginal": "Humiliating IIS servers for fun and jail time",
-        "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-        "source": "mll.sh",
-        "score": 241,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=48563394",
-        "date": "il y a 10 h"
+        "title": "Show HN : Automates cellulaires neuronaux à haute résolution",
+        "titleOriginal": "Show HN: High-Res Neural Cellular Automata",
+        "url": "https://cells2pixels.github.io/",
+        "source": "cells2pixels.github.io",
+        "score": 94,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48567877",
+        "date": "il y a 3 h"
       }
     ]
   },
