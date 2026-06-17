@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-17T16:35:24.921Z",
+  "updatedAt": "2026-06-17T19:21:20.431Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 31,
-      "code": 1,
-      "wind": 1,
-      "humidity": 35
+      "temp": 29,
+      "feelsLike": 29,
+      "code": 0,
+      "wind": 5,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-06-19",
         "code": 3,
         "tmax": 38,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-06-20",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "GeoGuessr",
-        "viewers": 6363,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -211,40 +203,40 @@
         "titleOriginal": "Epic Games announces Lore version control system",
         "url": "https://lore.org/",
         "source": "lore.org",
-        "score": 348,
-        "comments": 176,
+        "score": 648,
+        "comments": 360,
         "hnUrl": "https://news.ycombinator.com/item?id=48571081",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Seuls 16 % des Américains pensent que l'IA aura un impact positif sur la société",
+        "titleOriginal": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+        "source": "techcrunch.com",
+        "score": 311,
+        "comments": 300,
+        "hnUrl": "https://news.ycombinator.com/item?id=48573332",
         "date": "il y a 2 h"
       },
       {
-        "title": "Vous voulez récupérer vos images ? Bien sûr... Ce sera 5 $ !",
-        "titleOriginal": "Want your images back? Sure... That'll be $5!",
-        "url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-        "source": "lutr.dev",
-        "score": 443,
-        "comments": 188,
-        "hnUrl": "https://news.ycombinator.com/item?id=48569954",
+        "title": "Lancement HN : Adam (YC W25) – CAO IA open source",
+        "titleOriginal": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+        "url": "https://github.com/Adam-CAD/CADAM",
+        "source": "github.com",
+        "score": 79,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48572553",
         "date": "il y a 3 h"
       },
       {
-        "title": "Volkswagen a commencé à bloquer les utilisateurs de GrapheneOS",
-        "titleOriginal": "Volkswagen started blocking GrapheneOS users",
-        "url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
-        "source": "discuss.grapheneos.org",
-        "score": 129,
-        "comments": 74,
-        "hnUrl": "https://news.ycombinator.com/item?id=48571526",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "La physicienne et star des médias française perd son doctorat après une enquête sur le plagiat",
-        "titleOriginal": "French physicist and media star loses doctorate after plagiarism investigation",
-        "url": "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
-        "source": "science.org",
-        "score": 41,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48571767",
-        "date": "il y a 1 h"
+        "title": "GLM-5.2 est le nouveau modèle de poids ouverts leader sur l'analyse artificielle",
+        "titleOriginal": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
+        "source": "artificialanalysis.ai",
+        "score": 639,
+        "comments": 332,
+        "hnUrl": "https://news.ycombinator.com/item?id=48567759",
+        "date": "il y a 10 h"
       }
     ]
   },
