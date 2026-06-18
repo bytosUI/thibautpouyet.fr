@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-18T18:40:26.105Z",
+  "updatedAt": "2026-06-18T21:20:50.421Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 34,
-      "code": 2,
-      "wind": 7,
-      "humidity": 30
+      "temp": 25,
+      "feelsLike": 26,
+      "code": 3,
+      "wind": 12,
+      "humidity": 63
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-06-20",
         "code": 3,
-        "tmax": 34,
+        "tmax": 35,
         "tmin": 19
       },
       {
@@ -185,13 +185,13 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 6 sem",
+        "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       },
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 6 sem",
+        "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un site Web qui répertorie les sites Web auxquels soumettre votre site Web",
-        "titleOriginal": "A website that lists websites to submit your website to",
-        "url": "https://www.submission.directory/",
-        "source": "submission.directory",
-        "score": 241,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=48586631",
-        "date": "il y a 3 h"
+        "title": "Noam Shazeer rejoint OpenAI",
+        "titleOriginal": "Noam Shazeer Joins OpenAI",
+        "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+        "source": "twitter.com",
+        "score": 167,
+        "comments": 121,
+        "hnUrl": "https://news.ycombinator.com/item?id=48578913",
+        "date": "il y a 20 h"
       },
       {
         "title": "J'ai trouvé 10 000 dépôts GitHub distribuant des logiciels malveillants de type cheval de Troie",
         "titleOriginal": "I found 10k GitHub repositories distributing Trojan malware",
         "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
         "source": "orchidfiles.com",
-        "score": 364,
-        "comments": 103,
+        "score": 547,
+        "comments": 131,
         "hnUrl": "https://news.ycombinator.com/item?id=48583928",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Le Parlement suisse lève l'interdiction des nouvelles centrales nucléaires",
         "titleOriginal": "Swiss parliament lifts ban on new nuclear power plants",
         "url": "https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html",
         "source": "bluewin.ch",
-        "score": 390,
-        "comments": 227,
+        "score": 584,
+        "comments": 412,
         "hnUrl": "https://news.ycombinator.com/item?id=48585746",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Notes de l'égyptien fatigué dont le travail explique que les humains ont construit les pyramides",
-        "titleOriginal": "Notes from Tired Egyptian Whose Job Is Explaining That Humans Built the Pyramids",
-        "url": "https://www.mcsweeneys.net/articles/notes-from-a-tired-egyptian-guy-whose-job-is-explaining-that-humans-built-the-pyramids",
-        "source": "mcsweeneys.net",
-        "score": 41,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=48552767",
-        "date": "il y a 2 j"
+        "title": "Ubiquiti : NAS d'entreprise, construit sur ZFS",
+        "titleOriginal": "Ubiquiti: Enterprise NAS, Built on ZFS",
+        "url": "https://blog.ui.com/article/introducing-enterprise-nas",
+        "source": "blog.ui.com",
+        "score": 198,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=48585866",
+        "date": "il y a 6 h"
       }
     ]
   },
