@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-18T09:51:37.609Z",
+  "updatedAt": "2026-06-18T12:48:14.399Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 34,
-      "code": 0,
-      "wind": 6,
-      "humidity": 38
+      "temp": 35,
+      "feelsLike": 37,
+      "code": 1,
+      "wind": 5,
+      "humidity": 26
     },
     "forecast": [
       {
         "date": "2026-06-18",
-        "code": 95,
+        "code": 3,
         "tmax": 36,
         "tmin": 18
       },
@@ -39,16 +39,23 @@
   "twitch": {
     "live": [
       {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 6008,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
         "user": "micode",
         "displayName": "Micode",
         "game": "Talk Shows & Podcasts",
-        "viewers": 723,
+        "viewers": 418,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
         "url": "https://twitch.tv/micode"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "nowtechteam",
@@ -60,13 +67,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES MOQUERIES QU'ON N'OUBLIE JAMAIS !",
+        "title": "\"MA SŒUR ME VOIT À LA TÉLÉ MAIS NE ME COMPREND PAS\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "HYLazyp4U74",
-        "thumbnail": "https://i.ytimg.com/vi/HYLazyp4U74/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HYLazyp4U74",
-        "publishedAt": "2026-06-18T09:00:18+00:00"
+        "videoId": "ILXzhyn1zsk",
+        "thumbnail": "https://i.ytimg.com/vi/ILXzhyn1zsk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ILXzhyn1zsk",
+        "publishedAt": "2026-06-18T12:00:37+00:00"
       },
       {
         "title": "Le jour où les États-Unis ont coupé l'IA au reste du monde !",
@@ -181,13 +188,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 4 sem",
+        "time": "il y a 5 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 4 sem",
+        "time": "il y a 5 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -207,44 +214,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les hôpitaux et les universités réaffectent les médicaments à un coût inférieur de 90 %",
+        "titleOriginal": "Hospitals and universities repurposing drugs at 90% lower cost",
+        "url": "https://www.kcl.ac.uk/news/hospitals-and-universities-repurposing-drugs-at-90-lower-cost",
+        "source": "kcl.ac.uk",
+        "score": 66,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48583386",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Midjourney Medical",
         "titleOriginal": "Midjourney Medical",
         "url": "https://www.midjourney.com/medical/blogpost",
         "source": "midjourney.com",
-        "score": 736,
-        "comments": 502,
+        "score": 936,
+        "comments": 650,
         "hnUrl": "https://news.ycombinator.com/item?id=48579650",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "DeepSeek présente Vision",
         "titleOriginal": "DeepSeek Introduces Vision",
         "url": "https://chat.deepseek.com/",
         "source": "chat.deepseek.com",
-        "score": 137,
-        "comments": 64,
+        "score": 223,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=48581458",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Local Qwen n'est pas un opus pire, c'est un outil différent",
-        "titleOriginal": "Local Qwen isn't a worse Opus, it's a different tool",
-        "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
-        "source": "blog.alexellis.io",
-        "score": 213,
-        "comments": 99,
-        "hnUrl": "https://news.ycombinator.com/item?id=48580209",
         "date": "il y a 6 h"
       },
       {
-        "title": "Je veux ton blouson, tes bottes et ta moto.",
-        "titleOriginal": "I need your clothes, your boots, and your motorcycle",
-        "url": "https://rbelmont.mameworld.info/?p=1725",
-        "source": "rbelmont.mameworld.info",
-        "score": 16,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48582464",
-        "date": "il y a 1 h"
+        "title": "Emacs 31 est au coin de la rue : les changements que je conduis quotidiennement",
+        "titleOriginal": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+        "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+        "source": "rahuljuliato.com",
+        "score": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48584135",
+        "date": "il y a 37 min"
       }
     ]
   },
