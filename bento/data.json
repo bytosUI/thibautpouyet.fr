@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-18T00:16:44.673Z",
+  "updatedAt": "2026-06-18T05:14:12.076Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 21,
+      "temp": 18,
+      "feelsLike": 20,
       "code": 1,
-      "wind": 3,
+      "wind": 2,
       "humidity": 83
     },
     "forecast": [
       {
         "date": "2026-06-18",
-        "code": 2,
+        "code": 3,
         "tmax": 36,
         "tmin": 18
       },
@@ -24,29 +24,20 @@
       },
       {
         "date": "2026-06-20",
-        "code": 3,
-        "tmax": 35,
-        "tmin": 20
+        "code": 80,
+        "tmax": 36,
+        "tmin": 19
       },
       {
         "date": "2026-06-21",
         "code": 3,
-        "tmax": 40,
-        "tmin": 22
+        "tmax": 39,
+        "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 97,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,93 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "COMMENT IL A SAUVÉ UN ENFANT QUI AVAIT LA MÊME TÂCHE SUR LE VISAGE QUE LUI",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "tfNtH3fKZYc",
-        "thumbnail": "https://i.ytimg.com/vi/tfNtH3fKZYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tfNtH3fKZYc",
-        "publishedAt": "2026-06-17T14:00:25+00:00"
-      },
-      {
-        "title": "Le jour où les États-Unis ont coupé l'IA au reste du monde !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "IopmeXS-zhU",
-        "thumbnail": "https://i.ytimg.com/vi/IopmeXS-zhU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IopmeXS-zhU",
-        "publishedAt": "2026-06-17T06:30:23+00:00"
-      },
-      {
-        "title": "On devine 29 compotes avec Marine (c’est notre âme sœur)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "_nIMtE65UsI",
-        "thumbnail": "https://i.ytimg.com/vi/_nIMtE65UsI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_nIMtE65UsI",
-        "publishedAt": "2026-06-16T15:22:40+00:00"
-      },
-      {
-        "title": "Plus d'argent : il n'est pas plus heureux",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "5ZrFo7zzEqk",
-        "thumbnail": "https://i.ytimg.com/vi/5ZrFo7zzEqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5ZrFo7zzEqk",
-        "publishedAt": "2026-06-16T08:51:04+00:00"
-      },
-      {
-        "title": "4 mois en Corée et toujours rien… 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "--Ir1LV-4mw",
-        "thumbnail": "https://i.ytimg.com/vi/--Ir1LV-4mw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=--Ir1LV-4mw",
-        "publishedAt": "2026-06-14T16:00:18+00:00"
-      },
-      {
-        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "Mbb12ogBrAE",
-        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
-        "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "ON A FABRIQUÉ CET INCROYABLE BANC DE 6 MÈTRES DE LONG !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "F2sI8CDVbRs",
-        "thumbnail": "https://i.ytimg.com/vi/F2sI8CDVbRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F2sI8CDVbRs",
-        "publishedAt": "2026-05-24T09:55:36+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -207,23 +117,33 @@
   "hackernews": {
     "items": [
       {
+        "title": "Midjourney Medical",
+        "titleOriginal": "Midjourney Medical",
+        "url": "https://www.midjourney.com/medical/blogpost",
+        "source": "midjourney.com",
+        "score": 360,
+        "comments": 287,
+        "hnUrl": "https://news.ycombinator.com/item?id=48579650",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Lore – Système de contrôle de version open source conçu pour l'évolutivité",
         "titleOriginal": "Lore – Open source version control system designed for scalability",
         "url": "https://lore.org/",
         "source": "lore.org",
-        "score": 925,
-        "comments": 503,
+        "score": 1060,
+        "comments": 563,
         "hnUrl": "https://news.ycombinator.com/item?id=48571081",
-        "date": "il y a 9 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Storied Colors – un catalogue de couleurs nommées",
-        "titleOriginal": "Storied Colors – a catalogue of named colors",
-        "url": "https://storiedcolors.com/",
-        "source": "storiedcolors.com",
-        "score": 63,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48577374",
+        "title": "Local Qwen n'est pas un opus pire, c'est un outil différent",
+        "titleOriginal": "Local Qwen isn't a worse Opus, it's a different tool",
+        "url": "https://blog.alexellis.io/local-ai-is-not-opus/",
+        "source": "blog.alexellis.io",
+        "score": 48,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48580209",
         "date": "il y a 2 h"
       },
       {
@@ -231,20 +151,10 @@
         "titleOriginal": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
         "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
         "source": "reuters.com",
-        "score": 315,
-        "comments": 333,
+        "score": 413,
+        "comments": 469,
         "hnUrl": "https://news.ycombinator.com/item?id=48565498",
-        "date": "il y a 20 h"
-      },
-      {
-        "title": "Les documents financiers divulgués montrent qu'OpenAI perd des milliards de dollars par an",
-        "titleOriginal": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-        "source": "arstechnica.com",
-        "score": 207,
-        "comments": 122,
-        "hnUrl": "https://news.ycombinator.com/item?id=48577208",
-        "date": "il y a 2 h"
+        "date": "hier"
       }
     ]
   },
