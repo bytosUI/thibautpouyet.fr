@@ -1,46 +1,54 @@
 {
-  "updatedAt": "2026-06-19T02:14:23.778Z",
+  "updatedAt": "2026-06-19T07:36:34.445Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 22,
-      "code": 3,
-      "wind": 10,
-      "humidity": 75
+      "temp": 25,
+      "feelsLike": 26,
+      "code": 0,
+      "wind": 9,
+      "humidity": 63
     },
     "forecast": [
       {
         "date": "2026-06-19",
         "code": 80,
-        "tmax": 37,
-        "tmin": 21
+        "tmax": 36,
+        "tmin": 20
       },
       {
         "date": "2026-06-20",
         "code": 3,
-        "tmax": 35,
+        "tmax": 36,
         "tmin": 18
       },
       {
         "date": "2026-06-21",
-        "code": 80,
-        "tmax": 38,
+        "code": 3,
+        "tmax": 39,
         "tmin": 21
       },
       {
         "date": "2026-06-22",
-        "code": 3,
-        "tmax": 41,
-        "tmin": 25
+        "code": 1,
+        "tmax": 42,
+        "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 258,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -155,16 +163,16 @@
         "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
-        "title": "The Furious",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg",
-        "url": "https://www.themoviedb.org/movie/1280738"
-      },
-      {
         "title": "Toy Story 5",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "url": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "title": "The Furious",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg",
+        "url": "https://www.themoviedb.org/movie/1280738"
       }
     ]
   },
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "OAuth Zero-Touch pour MCP",
-        "titleOriginal": "Zero-Touch OAuth for MCP",
-        "url": "https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/",
-        "source": "blog.modelcontextprotocol.io",
-        "score": 98,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48592163",
-        "date": "il y a 4 h"
+        "title": "DuckDB Internals : Pourquoi DuckDB est-il rapide ? (Partie 1)",
+        "titleOriginal": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
+        "source": "greybeam.ai",
+        "score": 108,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48553388",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Comment les chemins de fer japonais sont restés un tout en se séparant",
-        "titleOriginal": "How Japan's railways stayed one while splitting apart",
-        "url": "https://arun.is/blog/jr-logo/",
-        "source": "arun.is",
-        "score": 30,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48570730",
-        "date": "hier"
+        "title": "Donc, vous voulez définir un URI bien connu",
+        "titleOriginal": "So You Want to Define a Well-Known URI",
+        "url": "https://mnot.net/blog/2026/well_known_uris",
+        "source": "mnot.net",
+        "score": 24,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48595331",
+        "date": "il y a 1 h"
       },
       {
-        "title": "GLM-5.2 : Le modèle ouvert le plus puissant à ce jour et la réalité brutale de son exécution",
-        "titleOriginal": "GLM-5.2: The Most Powerful Open Model yet and the Brutal Reality of Running It",
-        "url": "https://vettedconsumer.com/glm-5-2-the-most-powerful-open-weight-model-yet-and-the-brutal-reality-of-running-it-locally/",
-        "source": "vettedconsumer.com",
-        "score": 5,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48594012",
-        "date": "il y a 16 min"
+        "title": "Pour étudier le fonctionnement des puces, les chercheurs du MIT ont construit leur propre système d'exploitation",
+        "titleOriginal": "To study how chips work, MIT researchers built their own operating system",
+        "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
+        "source": "news.mit.edu",
+        "score": 150,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48543311",
+        "date": "il y a 3 j"
       },
       {
-        "title": "J'ai trouvé 10 000 dépôts GitHub distribuant des logiciels malveillants de type cheval de Troie",
-        "titleOriginal": "I found 10k GitHub repositories distributing Trojan malware",
-        "url": "https://orchidfiles.com/github-repositories-distributing-malware/",
-        "source": "orchidfiles.com",
-        "score": 664,
-        "comments": 151,
-        "hnUrl": "https://news.ycombinator.com/item?id=48583928",
-        "date": "il y a 14 h"
+        "title": "Gribouille 0.3.0 : Une grammaire graphique pour Typst",
+        "titleOriginal": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
+        "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
+        "source": "mickael.canouil.fr",
+        "score": 52,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48541062",
+        "date": "il y a 3 j"
       }
     ]
   },
