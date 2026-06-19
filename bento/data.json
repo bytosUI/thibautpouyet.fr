@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-19T17:51:05.651Z",
+  "updatedAt": "2026-06-19T19:42:00.229Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 35,
-      "code": 1,
-      "wind": 6,
-      "humidity": 28
+      "temp": 32,
+      "feelsLike": 34,
+      "code": 80,
+      "wind": 3,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-06-20",
-        "code": 3,
-        "tmax": 35,
+        "code": 80,
+        "tmax": 36,
         "tmin": 19
       },
       {
         "date": "2026-06-21",
         "code": 3,
-        "tmax": 38,
-        "tmin": 22
+        "tmax": 39,
+        "tmin": 21
       },
       {
         "date": "2026-06-22",
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 24,
+        "viewers": 99,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -211,40 +211,40 @@
         "titleOriginal": "There Are No Instances in ATProto",
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "source": "overreacted.io",
-        "score": 50,
-        "comments": 31,
+        "score": 182,
+        "comments": 112,
         "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Hyundai achète Boston Dynamics",
+        "titleOriginal": "Hyundai buys Boston Dynamics",
+        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+        "source": "startupfortune.com",
+        "score": 303,
+        "comments": 147,
+        "hnUrl": "https://news.ycombinator.com/item?id=48600312",
+        "date": "il y a 3 h"
       },
       {
         "title": "L'amateur a peut-être craqué Linear A, un puzzle vieux de 120 ans",
         "titleOriginal": "Amateur may have cracked Linear A, a 120-year-old puzzle",
         "url": "https://aiclambake.com/clamtakes/linear-a/",
         "source": "aiclambake.com",
-        "score": 135,
-        "comments": 43,
+        "score": 236,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48600107",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Projet Valhalla, Explained : How a Decade of Work Arrives in JDK 28",
         "titleOriginal": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
         "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
         "source": "jvm-weekly.com",
-        "score": 443,
-        "comments": 249,
+        "score": 486,
+        "comments": 279,
         "hnUrl": "https://news.ycombinator.com/item?id=48595511",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Hyundai achète Boston Dynamics, l'humanoïde Atlas à utiliser à l'usine de véhicules d'ici 2028",
-        "titleOriginal": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
-        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-        "source": "startupfortune.com",
-        "score": 76,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=48600312",
-        "date": "il y a 1 h"
+        "date": "il y a 13 h"
       }
     ]
   },
