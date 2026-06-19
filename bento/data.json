@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-19T15:46:47.115Z",
+  "updatedAt": "2026-06-19T17:51:05.651Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
+      "temp": 34,
       "feelsLike": 35,
-      "code": 3,
-      "wind": 10,
-      "humidity": 23
+      "code": 1,
+      "wind": 6,
+      "humidity": 28
     },
     "forecast": [
       {
@@ -20,18 +20,18 @@
         "date": "2026-06-20",
         "code": 3,
         "tmax": 35,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-06-21",
         "code": 3,
-        "tmax": 39,
-        "tmin": 20
+        "tmax": 38,
+        "tmin": 22
       },
       {
         "date": "2026-06-22",
         "code": 3,
-        "tmax": 41,
+        "tmax": 39,
         "tmin": 20
       }
     ]
@@ -39,22 +39,22 @@
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Thank You For Your Application",
-        "viewers": 6121,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 24,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Il n'y a pas d'instances dans ATProto",
+        "titleOriginal": "There Are No Instances in ATProto",
+        "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+        "source": "overreacted.io",
+        "score": 50,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48599515",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "L'amateur a peut-être craqué Linear A, un puzzle vieux de 120 ans",
+        "titleOriginal": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+        "url": "https://aiclambake.com/clamtakes/linear-a/",
+        "source": "aiclambake.com",
+        "score": 135,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=48600107",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Projet Valhalla, Explained : How a Decade of Work Arrives in JDK 28",
         "titleOriginal": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
         "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
         "source": "jvm-weekly.com",
-        "score": 372,
-        "comments": 209,
+        "score": 443,
+        "comments": 249,
         "hnUrl": "https://news.ycombinator.com/item?id=48595511",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "La courbe en J de la productivité [pdf] (2018)",
-        "titleOriginal": "The Productivity J-Curve [pdf] (2018)",
-        "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
-        "source": "ide.mit.edu",
-        "score": 14,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48548695",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "DuckDB Internals : Pourquoi DuckDB est-il rapide ? (Partie 1)",
-        "titleOriginal": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-        "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
-        "source": "greybeam.ai",
-        "score": 316,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=48553388",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "« No Feigning Surprise »",
-        "titleOriginal": "\"No Feigning Surprise\"",
-        "url": "https://wizardzines.com/comics/surprise/",
-        "source": "wizardzines.com",
-        "score": 52,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=48546093",
-        "date": "il y a 3 j"
+        "title": "Hyundai achète Boston Dynamics, l'humanoïde Atlas à utiliser à l'usine de véhicules d'ici 2028",
+        "titleOriginal": "Hyundai buys Boston Dynamics, Atlas humanoid to be used at vehicle plant by 2028",
+        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+        "source": "startupfortune.com",
+        "score": 76,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48600312",
+        "date": "il y a 1 h"
       }
     ]
   },
