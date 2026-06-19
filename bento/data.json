@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-06-19T21:04:44.623Z",
+  "updatedAt": "2026-06-19T22:29:44.227Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 28,
-      "code": 2,
+      "temp": 22,
+      "feelsLike": 24,
+      "code": 0,
       "wind": 4,
-      "humidity": 55
+      "humidity": 65
     },
     "forecast": [
       {
-        "date": "2026-06-19",
-        "code": 80,
-        "tmax": 36,
-        "tmin": 20
-      },
-      {
         "date": "2026-06-20",
-        "code": 80,
+        "code": 3,
         "tmax": 36,
         "tmin": 19
       },
       {
         "date": "2026-06-21",
-        "code": 3,
-        "tmax": 39,
-        "tmin": 21
+        "code": 2,
+        "tmax": 38,
+        "tmin": 20
       },
       {
         "date": "2026-06-22",
+        "code": 2,
+        "tmax": 38,
+        "tmin": 22
+      },
+      {
+        "date": "2026-06-23",
         "code": 3,
         "tmax": 39,
-        "tmin": 20
+        "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 124,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Hyundai achète Boston Dynamics",
-        "titleOriginal": "Hyundai buys Boston Dynamics",
-        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-        "source": "startupfortune.com",
-        "score": 448,
-        "comments": 226,
-        "hnUrl": "https://news.ycombinator.com/item?id=48600312",
-        "date": "il y a 4 h"
+        "title": "La Norvège impose une interdiction quasi totale de l'IA à l'école primaire",
+        "titleOriginal": "Norway imposes near ban on AI in elementary school",
+        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+        "source": "reuters.com",
+        "score": 161,
+        "comments": 110,
+        "hnUrl": "https://news.ycombinator.com/item?id=48600093",
+        "date": "il y a 6 h"
       },
       {
         "title": "Il n'y a pas d'instances dans ATProto",
         "titleOriginal": "There are no instances in ATProto",
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "source": "overreacted.io",
-        "score": 233,
-        "comments": 146,
+        "score": 274,
+        "comments": 170,
         "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Hyundai achète Boston Dynamics",
+        "titleOriginal": "Hyundai buys Boston Dynamics",
+        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+        "source": "startupfortune.com",
+        "score": 540,
+        "comments": 262,
+        "hnUrl": "https://news.ycombinator.com/item?id=48600312",
+        "date": "il y a 6 h"
       },
       {
         "title": "J'ai utilisé des ondes sonores pour préparer un expresso. Il pourrait réduire la consommation d'énergie de préparation du café de ¾",
         "titleOriginal": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
         "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
         "source": "theconversation.com",
-        "score": 94,
-        "comments": 62,
+        "score": 135,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=48514843",
         "date": "il y a 6 j"
-      },
-      {
-        "title": "Projet Valhalla, Explained : How a Decade of Work Arrives in JDK 28",
-        "titleOriginal": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-        "source": "jvm-weekly.com",
-        "score": 504,
-        "comments": 296,
-        "hnUrl": "https://news.ycombinator.com/item?id=48595511",
-        "date": "il y a 14 h"
       }
     ]
   },
