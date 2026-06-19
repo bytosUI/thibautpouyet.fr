@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-19T22:29:44.227Z",
+  "updatedAt": "2026-06-19T23:38:23.027Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 24,
+      "temp": 20,
+      "feelsLike": 22,
       "code": 0,
       "wind": 4,
-      "humidity": 65
+      "humidity": 72
     },
     "forecast": [
       {
@@ -203,38 +203,38 @@
         "titleOriginal": "Norway imposes near ban on AI in elementary school",
         "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
         "source": "reuters.com",
-        "score": 161,
-        "comments": 110,
+        "score": 287,
+        "comments": 188,
         "hnUrl": "https://news.ycombinator.com/item?id=48600093",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Bobby Prince, compositeur pour Doom, Wolfenstein 3D et Duke Nukem 3D, est décédé",
+        "titleOriginal": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
+        "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
+        "source": "legacy.com",
+        "score": 100,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48602352",
+        "date": "il y a 4 h"
       },
       {
         "title": "Il n'y a pas d'instances dans ATProto",
         "titleOriginal": "There are no instances in ATProto",
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "source": "overreacted.io",
-        "score": 274,
-        "comments": 170,
+        "score": 304,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Hyundai achète Boston Dynamics",
-        "titleOriginal": "Hyundai buys Boston Dynamics",
-        "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-        "source": "startupfortune.com",
-        "score": 540,
-        "comments": 262,
-        "hnUrl": "https://news.ycombinator.com/item?id=48600312",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "J'ai utilisé des ondes sonores pour préparer un expresso. Il pourrait réduire la consommation d'énergie de préparation du café de ¾",
         "titleOriginal": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
         "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
         "source": "theconversation.com",
-        "score": 135,
-        "comments": 81,
+        "score": 157,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48514843",
         "date": "il y a 6 j"
       }
