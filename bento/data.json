@@ -1,64 +1,73 @@
 {
-  "updatedAt": "2026-06-19T07:36:34.445Z",
+  "updatedAt": "2026-06-19T12:01:37.130Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 26,
-      "code": 0,
-      "wind": 9,
-      "humidity": 63
+      "temp": 35,
+      "feelsLike": 37,
+      "code": 2,
+      "wind": 13,
+      "humidity": 33
     },
     "forecast": [
       {
         "date": "2026-06-19",
         "code": 80,
-        "tmax": 36,
+        "tmax": 37,
         "tmin": 20
       },
       {
         "date": "2026-06-20",
         "code": 3,
-        "tmax": 36,
-        "tmin": 18
+        "tmax": 35,
+        "tmin": 19
       },
       {
         "date": "2026-06-21",
         "code": 3,
         "tmax": 39,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-06-22",
-        "code": 1,
-        "tmax": 42,
-        "tmin": 21
+        "code": 3,
+        "tmax": 41,
+        "tmin": 20
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 258,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 797,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "REGARDEZ OÙ PART 20% DE L'EAU POTABLE EN FRANCE !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "sXuoiS9GaYY",
+        "thumbnail": "https://i.ytimg.com/vi/sXuoiS9GaYY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sXuoiS9GaYY",
+        "publishedAt": "2026-06-19T11:00:08+00:00"
+      },
       {
         "title": "Pourquoi Musk et Thiel fuient-ils les États ?",
         "channel": "Silicon Carne 🌶️",
@@ -67,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Sdatt292YrM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Sdatt292YrM",
         "publishedAt": "2026-06-18T18:01:17+00:00"
-      },
-      {
-        "title": "\"C'EST LA VOIX QUI M'A OUVERT LA VOIE\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "eK_Dga1NJzU",
-        "thumbnail": "https://i.ytimg.com/vi/eK_Dga1NJzU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eK_Dga1NJzU",
-        "publishedAt": "2026-06-18T16:00:39+00:00"
       },
       {
         "title": "Tierlist des 365 jours de l’année (Dramas, Polémiques autour de Juillet et Août)",
@@ -207,43 +207,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Projet Valhalla, Explained : How a Decade of Work Arrives in JDK 28",
+        "titleOriginal": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+        "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+        "source": "jvm-weekly.com",
+        "score": 205,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=48595511",
+        "date": "il y a 5 h"
+      },
+      {
         "title": "DuckDB Internals : Pourquoi DuckDB est-il rapide ? (Partie 1)",
         "titleOriginal": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
         "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
         "source": "greybeam.ai",
-        "score": 108,
-        "comments": 45,
+        "score": 214,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=48553388",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Donc, vous voulez définir un URI bien connu",
-        "titleOriginal": "So You Want to Define a Well-Known URI",
-        "url": "https://mnot.net/blog/2026/well_known_uris",
-        "source": "mnot.net",
-        "score": 24,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48595331",
-        "date": "il y a 1 h"
+        "date": "il y a 3 j"
       },
       {
         "title": "Pour étudier le fonctionnement des puces, les chercheurs du MIT ont construit leur propre système d'exploitation",
         "titleOriginal": "To study how chips work, MIT researchers built their own operating system",
         "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
         "source": "news.mit.edu",
-        "score": 150,
-        "comments": 15,
+        "score": 208,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=48543311",
         "date": "il y a 3 j"
       },
       {
-        "title": "Gribouille 0.3.0 : Une grammaire graphique pour Typst",
-        "titleOriginal": "Gribouille 0.3.0: A Grammar of Graphics for Typst",
-        "url": "https://mickael.canouil.fr/posts/2026-06-15-gribouille-0-3/",
-        "source": "mickael.canouil.fr",
-        "score": 52,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48541062",
+        "title": "Le zen et l'art de la recherche en apprentissage automatique",
+        "titleOriginal": "Zen and the Art of Machine Learning Research",
+        "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+        "source": "blog.jxmo.io",
+        "score": 87,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48549118",
         "date": "il y a 3 j"
       }
     ]
