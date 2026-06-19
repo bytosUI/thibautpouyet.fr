@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-19T12:01:37.130Z",
+  "updatedAt": "2026-06-19T15:46:47.115Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
-      "feelsLike": 37,
-      "code": 2,
-      "wind": 13,
-      "humidity": 33
+      "temp": 36,
+      "feelsLike": 35,
+      "code": 3,
+      "wind": 10,
+      "humidity": 23
     },
     "forecast": [
       {
         "date": "2026-06-19",
         "code": 80,
-        "tmax": 37,
+        "tmax": 36,
         "tmin": 20
       },
       {
         "date": "2026-06-20",
         "code": 3,
         "tmax": 35,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-06-21",
         "code": 3,
         "tmax": 39,
-        "tmin": 22
+        "tmin": 20
       },
       {
         "date": "2026-06-22",
@@ -39,20 +39,20 @@
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 797,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Thank You For Your Application",
+        "viewers": 6121,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "REGARDEZ OÙ PART 20% DE L'EAU POTABLE EN FRANCE !",
+        "title": "VOILA COMMENT SAVOIR SI VOUS AVEZ DE L'ARGENT QUI DORT SUR UN COMPTE OUBLIÉ",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "sXuoiS9GaYY",
-        "thumbnail": "https://i.ytimg.com/vi/sXuoiS9GaYY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sXuoiS9GaYY",
-        "publishedAt": "2026-06-19T11:00:08+00:00"
+        "videoId": "JPIkXd4hhZA",
+        "thumbnail": "https://i.ytimg.com/vi/JPIkXd4hhZA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JPIkXd4hhZA",
+        "publishedAt": "2026-06-19T15:00:22+00:00"
       },
       {
         "title": "Pourquoi Musk et Thiel fuient-ils les États ?",
@@ -211,39 +211,39 @@
         "titleOriginal": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
         "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
         "source": "jvm-weekly.com",
-        "score": 205,
-        "comments": 88,
+        "score": 372,
+        "comments": 209,
         "hnUrl": "https://news.ycombinator.com/item?id=48595511",
-        "date": "il y a 5 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "La courbe en J de la productivité [pdf] (2018)",
+        "titleOriginal": "The Productivity J-Curve [pdf] (2018)",
+        "url": "https://ide.mit.edu/sites/default/files/publications/jcurve.pdf",
+        "source": "ide.mit.edu",
+        "score": 14,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48548695",
+        "date": "il y a 3 j"
       },
       {
         "title": "DuckDB Internals : Pourquoi DuckDB est-il rapide ? (Partie 1)",
         "titleOriginal": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
         "url": "https://www.greybeam.ai/blog/duckdb-internals-part-1",
         "source": "greybeam.ai",
-        "score": 214,
-        "comments": 71,
+        "score": 316,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=48553388",
         "date": "il y a 3 j"
       },
       {
-        "title": "Pour étudier le fonctionnement des puces, les chercheurs du MIT ont construit leur propre système d'exploitation",
-        "titleOriginal": "To study how chips work, MIT researchers built their own operating system",
-        "url": "https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610",
-        "source": "news.mit.edu",
-        "score": 208,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48543311",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Le zen et l'art de la recherche en apprentissage automatique",
-        "titleOriginal": "Zen and the Art of Machine Learning Research",
-        "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-        "source": "blog.jxmo.io",
-        "score": 87,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48549118",
+        "title": "« No Feigning Surprise »",
+        "titleOriginal": "\"No Feigning Surprise\"",
+        "url": "https://wizardzines.com/comics/surprise/",
+        "source": "wizardzines.com",
+        "score": 52,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48546093",
         "date": "il y a 3 j"
       }
     ]
