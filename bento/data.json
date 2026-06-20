@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-20T02:50:46.596Z",
+  "updatedAt": "2026-06-20T06:58:00.263Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 20,
-      "code": 1,
-      "wind": 1,
-      "humidity": 80
+      "temp": 22,
+      "feelsLike": 24,
+      "code": 0,
+      "wind": 2,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-06-22",
         "code": 2,
-        "tmax": 38,
-        "tmin": 22
+        "tmax": 39,
+        "tmin": 21
       },
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 39,
+        "tmax": 41,
         "tmin": 21
       }
     ]
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "Pourquoi Musk et Thiel fuient-ils les États ?",
+        "title": "Quand Sanders ET Trump sont d'accord, c'est que la situation est grave !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "_oyySKvcG5w",
-        "thumbnail": "https://i.ytimg.com/vi/_oyySKvcG5w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_oyySKvcG5w",
-        "publishedAt": "2026-06-19T23:30:17+00:00"
+        "videoId": "hjJoSTzmTDc",
+        "thumbnail": "https://i.ytimg.com/vi/hjJoSTzmTDc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hjJoSTzmTDc",
+        "publishedAt": "2026-06-20T06:30:10+00:00"
       },
       {
         "title": "VOILA COMMENT SAVOIR SI VOUS AVEZ DE L'ARGENT QUI DORT SUR UN COMPTE OUBLIÉ",
@@ -199,109 +199,63 @@
   "hackernews": {
     "items": [
       {
-        "title": "Comment nourrir un dictateur",
-        "titleOriginal": "How to feed a dictator",
-        "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
-        "source": "theguardian.com",
-        "score": 59,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48605301",
+        "title": "J'ai stocké un site Web dans un favicon",
+        "titleOriginal": "I Stored a Website in a Favicon",
+        "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+        "source": "timwehrle.de",
+        "score": 49,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48606619",
         "date": "il y a 1 h"
       },
       {
-        "title": "XLibre XServer 25.2.0 publié",
-        "titleOriginal": "XLibre XServer 25.2.0 Released",
-        "url": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
-        "source": "github.com",
-        "score": 11,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48605778",
-        "date": "il y a 21 min"
-      },
-      {
-        "title": "Pensez aux enfants : Comment forcer l'identification réelle pour tout le trafic Internet (2023)",
-        "titleOriginal": "Think of the children: How to force real ID for all internet traffic (2023)",
-        "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
-        "source": "nochan.net",
-        "score": 129,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48602817",
-        "date": "il y a 6 h"
+        "title": "La compression de données expliquée (2012)",
+        "titleOriginal": "Data Compression Explained (2012)",
+        "url": "https://mattmahoney.net/dc/dce.html",
+        "source": "mattmahoney.net",
+        "score": 85,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48562662",
+        "date": "il y a 3 j"
       },
       {
         "title": "Il n'y a pas d'instances dans ATProto",
         "titleOriginal": "There are no instances in ATProto",
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "source": "overreacted.io",
-        "score": 354,
-        "comments": 196,
+        "score": 411,
+        "comments": 212,
         "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 11 h"
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "La découverte qui a changé la façon dont les scientifiques pensent à la mémoire – IBM",
+        "titleOriginal": "The discovery that changed how scientists think about memory – IBM",
+        "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
+        "source": "ibm.com",
+        "score": 26,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48568652",
+        "date": "il y a 2 j"
       }
     ]
   },
   "nba": {
-    "isPlayoffs": true,
-    "resultsDate": "20260613",
-    "results": [
-      {
-        "id": "401859967",
-        "date": "2026-06-14T00:30Z",
-        "isPlayoff": true,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 90,
-          "record": "62-20",
-          "winner": false
-        },
-        "away": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 94,
-          "record": "53-29",
-          "winner": true
-        },
-        "series": {
-          "summary": "NY wins series 4-1",
-          "completed": true,
-          "round": "NBA Finals - Game 5",
-          "winsHome": 1,
-          "winsAway": 4
-        }
-      }
-    ],
-    "standings": null,
-    "playoffs": {
-      "series": [
+    "isPlayoffs": false,
+    "resultsDate": null,
+    "results": [],
+    "standings": {
+      "conferences": [
         {
-          "teamHome": {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png"
-          },
-          "teamAway": {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png"
-          },
-          "winsHome": 1,
-          "winsAway": 4,
-          "summary": "NY wins series 4-1",
-          "completed": true,
-          "round": "NBA Finals - Game 5",
-          "roundLabel": "Finales NBA",
-          "roundOrder": 4,
-          "lastDate": "2026-06-14T00:30Z"
+          "name": "Eastern Conference",
+          "teams": []
+        },
+        {
+          "name": "Western Conference",
+          "teams": []
         }
       ]
-    }
+    },
+    "playoffs": null
   }
 }
