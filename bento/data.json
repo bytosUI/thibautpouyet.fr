@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-06-20T10:09:12.393Z",
+  "updatedAt": "2026-06-20T12:14:03.668Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 32,
+      "temp": 33,
+      "feelsLike": 36,
       "code": 0,
-      "wind": 3,
-      "humidity": 42
+      "wind": 6,
+      "humidity": 34
     },
     "forecast": [
       {
         "date": "2026-06-20",
-        "code": 80,
+        "code": 96,
         "tmax": 35,
         "tmin": 18
       },
@@ -20,7 +20,7 @@
         "date": "2026-06-21",
         "code": 3,
         "tmax": 38,
-        "tmin": 21
+        "tmin": 19
       },
       {
         "date": "2026-06-22",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA FRANCE EST-ELLE AU BORD D'UNE GUERRE CIVILE ?",
+        "title": "MISTRAL PEUT-IL CONCURRENCER CHATGPT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "-9-zrMRsNbE",
-        "thumbnail": "https://i.ytimg.com/vi/-9-zrMRsNbE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-9-zrMRsNbE",
-        "publishedAt": "2026-06-20T09:00:16+00:00"
+        "videoId": "RK5DZirRCtM",
+        "thumbnail": "https://i.ytimg.com/vi/RK5DZirRCtM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RK5DZirRCtM",
+        "publishedAt": "2026-06-20T12:00:19+00:00"
       },
       {
         "title": "Quand Sanders ET Trump sont d'accord, c'est que la situation est grave !",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "CSSQuake",
+        "titleOriginal": "CSSQuake",
+        "url": "https://cssquake.com/",
+        "source": "cssquake.com",
+        "score": 32,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48608223",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "J'ai stocké un site Web dans un favicon",
         "titleOriginal": "I Stored a Website in a Favicon",
         "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
         "source": "timwehrle.de",
-        "score": 132,
-        "comments": 46,
+        "score": 175,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=48606619",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Où trouver les couleurs que votre écran ne peut pas vous montrer",
         "titleOriginal": "Where to Find the Colors Your Screen Can't Show You",
         "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
         "source": "moultano.wordpress.com",
-        "score": 126,
-        "comments": 36,
+        "score": 180,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=48606140",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "La compression de données expliquée (2012)",
-        "titleOriginal": "Data Compression Explained (2012)",
-        "url": "https://mattmahoney.net/dc/dce.html",
-        "source": "mattmahoney.net",
-        "score": 126,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48562662",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Il n'y a pas d'instances dans ATProto",
-        "titleOriginal": "There are no instances in ATProto",
-        "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
-        "source": "overreacted.io",
-        "score": 449,
-        "comments": 227,
-        "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 18 h"
+        "title": "Le SSD SATA II de 16 ans survit à 1 pétaoctet d'écritures, soit 25 fois la note du disque",
+        "titleOriginal": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+        "url": "https://www.tomshardware.com/pc-components/ssds/16-year-old-sata-ii-ssd-survives-1-petabyte-of-writes-25x-over-the-drives-tbw-rating",
+        "source": "tomshardware.com",
+        "score": 14,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48608503",
+        "date": "il y a 30 min"
       }
     ]
   },
