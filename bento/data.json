@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-19T23:38:23.027Z",
+  "updatedAt": "2026-06-20T02:50:46.596Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 22,
-      "code": 0,
-      "wind": 4,
-      "humidity": 72
+      "temp": 19,
+      "feelsLike": 20,
+      "code": 1,
+      "wind": 1,
+      "humidity": 80
     },
     "forecast": [
       {
         "date": "2026-06-20",
         "code": 3,
-        "tmax": 36,
-        "tmin": 19
+        "tmax": 35,
+        "tmin": 18
       },
       {
         "date": "2026-06-21",
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Pourquoi Musk et Thiel fuient-ils les États ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "_oyySKvcG5w",
+        "thumbnail": "https://i.ytimg.com/vi/_oyySKvcG5w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_oyySKvcG5w",
+        "publishedAt": "2026-06-19T23:30:17+00:00"
+      },
+      {
         "title": "VOILA COMMENT SAVOIR SI VOUS AVEZ DE L'ARGENT QUI DORT SUR UN COMPTE OUBLIÉ",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/JPIkXd4hhZA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JPIkXd4hhZA",
         "publishedAt": "2026-06-19T15:00:22+00:00"
-      },
-      {
-        "title": "Pourquoi Musk et Thiel fuient-ils les États ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Sdatt292YrM",
-        "thumbnail": "https://i.ytimg.com/vi/Sdatt292YrM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Sdatt292YrM",
-        "publishedAt": "2026-06-18T18:01:17+00:00"
       },
       {
         "title": "Tierlist des 365 jours de l’année (Dramas, Polémiques autour de Juillet et Août)",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La Norvège impose une interdiction quasi totale de l'IA à l'école primaire",
-        "titleOriginal": "Norway imposes near ban on AI in elementary school",
-        "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-        "source": "reuters.com",
-        "score": 287,
-        "comments": 188,
-        "hnUrl": "https://news.ycombinator.com/item?id=48600093",
-        "date": "il y a 7 h"
+        "title": "Comment nourrir un dictateur",
+        "titleOriginal": "How to feed a dictator",
+        "url": "https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film",
+        "source": "theguardian.com",
+        "score": 59,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48605301",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Bobby Prince, compositeur pour Doom, Wolfenstein 3D et Duke Nukem 3D, est décédé",
-        "titleOriginal": "Bobby Prince, composer for Doom, Wolfenstein 3D, and Duke Nukem 3D, has died",
-        "url": "https://www.legacy.com/legacy/robert-bobby-prince-lll",
-        "source": "legacy.com",
-        "score": 100,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48602352",
-        "date": "il y a 4 h"
+        "title": "XLibre XServer 25.2.0 publié",
+        "titleOriginal": "XLibre XServer 25.2.0 Released",
+        "url": "https://github.com/X11Libre/xserver/wiki/XLibre-XServer-25.2-Changes",
+        "source": "github.com",
+        "score": 11,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48605778",
+        "date": "il y a 21 min"
+      },
+      {
+        "title": "Pensez aux enfants : Comment forcer l'identification réelle pour tout le trafic Internet (2023)",
+        "titleOriginal": "Think of the children: How to force real ID for all internet traffic (2023)",
+        "url": "https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/",
+        "source": "nochan.net",
+        "score": 129,
+        "comments": 70,
+        "hnUrl": "https://news.ycombinator.com/item?id=48602817",
+        "date": "il y a 6 h"
       },
       {
         "title": "Il n'y a pas d'instances dans ATProto",
         "titleOriginal": "There are no instances in ATProto",
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "source": "overreacted.io",
-        "score": 304,
-        "comments": 176,
+        "score": 354,
+        "comments": 196,
         "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "J'ai utilisé des ondes sonores pour préparer un expresso. Il pourrait réduire la consommation d'énergie de préparation du café de ¾",
-        "titleOriginal": "I used sound waves to make espresso. It could cut coffee‑brewing energy use by ¾",
-        "url": "https://theconversation.com/i-used-sound-waves-to-make-espresso-it-could-cut-coffee-brewing-energy-use-by-75-284929",
-        "source": "theconversation.com",
-        "score": 157,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=48514843",
-        "date": "il y a 6 j"
+        "date": "il y a 11 h"
       }
     ]
   },
