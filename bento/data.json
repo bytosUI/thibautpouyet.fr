@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-20T14:39:11.067Z",
+  "updatedAt": "2026-06-20T16:13:56.054Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 35,
-      "feelsLike": 36,
-      "code": 1,
+      "feelsLike": 35,
+      "code": 3,
       "wind": 10,
-      "humidity": 31
+      "humidity": 29
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-06-22",
         "code": 3,
-        "tmax": 38,
+        "tmax": 37,
         "tmin": 23
       },
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 40,
+        "tmax": 39,
         "tmin": 20
       }
     ]
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI VOUS DEVEZ PLACER VOTRE ARGENT SUR UN LIVRET A ?",
+        "title": "1 SDF SUR 2 VIENT DE L'AIDE SOCIALE À L'ENFANCE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "voKgaWx1hXM",
-        "thumbnail": "https://i.ytimg.com/vi/voKgaWx1hXM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=voKgaWx1hXM",
-        "publishedAt": "2026-06-20T14:00:16+00:00"
+        "videoId": "M4Q0FPizjM0",
+        "thumbnail": "https://i.ytimg.com/vi/M4Q0FPizjM0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M4Q0FPizjM0",
+        "publishedAt": "2026-06-20T15:00:27+00:00"
       },
       {
         "title": "Quand Sanders ET Trump sont d'accord, c'est que la situation est grave !",
@@ -203,40 +203,40 @@
         "titleOriginal": "CSSQuake",
         "url": "https://cssquake.com/",
         "source": "cssquake.com",
-        "score": 185,
-        "comments": 37,
+        "score": 274,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48608223",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "J'ai redémarré un Xeon de 10 ans 174 fois pour supprimer 12 drapeaux et gagner 4 tps",
-        "titleOriginal": "I restarted a 10 year old Xeon 174 times to delete 12 flags and gain 4 tps",
-        "url": "https://point.free/blog/delete-12-flags/",
-        "source": "point.free",
-        "score": 8,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48599626",
-        "date": "il y a 23 h"
+        "title": "La pile sociale européenne",
+        "titleOriginal": "The European Social Stack",
+        "url": "https://european.social",
+        "source": "european.social",
+        "score": 44,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48609421",
+        "date": "il y a 1 h"
       },
       {
-        "title": "J'ai stocké un site Web dans un favicon",
-        "titleOriginal": "I Stored a Website in a Favicon",
-        "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-        "source": "timwehrle.de",
-        "score": 221,
-        "comments": 78,
-        "hnUrl": "https://news.ycombinator.com/item?id=48606619",
-        "date": "il y a 9 h"
+        "title": "Le projet d'inversion du jeu DOS \"F-15 Strike Eagle II\" nécessite des pilotes de test DOS",
+        "titleOriginal": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+        "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
+        "source": "neuviemeporte.github.io",
+        "score": 20,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48609766",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Bootimus – Un serveur de démarrage PXE et HTTP autonome",
-        "titleOriginal": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-        "url": "https://bootimus.com",
-        "source": "bootimus.com",
-        "score": 36,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48608255",
-        "date": "il y a 3 h"
+        "title": "Mise à jour de l'interdiction des VPN pour les ménages britanniques alors que le gouvernement examine la « porte d'âge »",
+        "titleOriginal": "VPN ban update for UK households as government looks at 'age-gate'",
+        "url": "https://www.birminghammail.co.uk/news/midlands-news/vpn-ban-update-uk-households-34141063",
+        "source": "birminghammail.co.uk",
+        "score": 70,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=48609385",
+        "date": "il y a 1 h"
       }
     ]
   },
