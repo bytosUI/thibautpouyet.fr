@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-20T06:58:00.263Z",
+  "updatedAt": "2026-06-20T10:09:12.393Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 24,
+      "temp": 29,
+      "feelsLike": 32,
       "code": 0,
-      "wind": 2,
-      "humidity": 70
+      "wind": 3,
+      "humidity": 42
     },
     "forecast": [
       {
         "date": "2026-06-20",
-        "code": 3,
+        "code": 80,
         "tmax": 35,
         "tmin": 18
       },
       {
         "date": "2026-06-21",
-        "code": 2,
+        "code": 3,
         "tmax": 38,
-        "tmin": 20
+        "tmin": 21
       },
       {
         "date": "2026-06-22",
-        "code": 2,
-        "tmax": 39,
-        "tmin": 21
+        "code": 3,
+        "tmax": 38,
+        "tmin": 23
       },
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 41,
-        "tmin": 21
+        "tmax": 40,
+        "tmin": 20
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LA FRANCE EST-ELLE AU BORD D'UNE GUERRE CIVILE ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "-9-zrMRsNbE",
+        "thumbnail": "https://i.ytimg.com/vi/-9-zrMRsNbE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-9-zrMRsNbE",
+        "publishedAt": "2026-06-20T09:00:16+00:00"
+      },
+      {
         "title": "Quand Sanders ET Trump sont d'accord, c'est que la situation est grave !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/hjJoSTzmTDc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hjJoSTzmTDc",
         "publishedAt": "2026-06-20T06:30:10+00:00"
-      },
-      {
-        "title": "VOILA COMMENT SAVOIR SI VOUS AVEZ DE L'ARGENT QUI DORT SUR UN COMPTE OUBLIÉ",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "JPIkXd4hhZA",
-        "thumbnail": "https://i.ytimg.com/vi/JPIkXd4hhZA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JPIkXd4hhZA",
-        "publishedAt": "2026-06-19T15:00:22+00:00"
       },
       {
         "title": "Tierlist des 365 jours de l’année (Dramas, Polémiques autour de Juillet et Août)",
@@ -149,16 +149,16 @@
         "url": "https://www.themoviedb.org/movie/1275779"
       },
       {
-        "title": "The Mandalorian and Grogu",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg",
-        "url": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
         "title": "Toy Story 5",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
         "url": "https://www.themoviedb.org/movie/1084244"
+      },
+      {
+        "title": "The Mandalorian and Grogu",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg",
+        "url": "https://www.themoviedb.org/movie/1228710"
       },
       {
         "title": "The Furious",
@@ -203,18 +203,28 @@
         "titleOriginal": "I Stored a Website in a Favicon",
         "url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
         "source": "timwehrle.de",
-        "score": 49,
-        "comments": 16,
+        "score": 132,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=48606619",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Où trouver les couleurs que votre écran ne peut pas vous montrer",
+        "titleOriginal": "Where to Find the Colors Your Screen Can't Show You",
+        "url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+        "source": "moultano.wordpress.com",
+        "score": 126,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48606140",
+        "date": "il y a 6 h"
       },
       {
         "title": "La compression de données expliquée (2012)",
         "titleOriginal": "Data Compression Explained (2012)",
         "url": "https://mattmahoney.net/dc/dce.html",
         "source": "mattmahoney.net",
-        "score": 85,
-        "comments": 7,
+        "score": 126,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=48562662",
         "date": "il y a 3 j"
       },
@@ -223,20 +233,10 @@
         "titleOriginal": "There are no instances in ATProto",
         "url": "https://overreacted.io/there-are-no-instances-in-atproto/",
         "source": "overreacted.io",
-        "score": 411,
-        "comments": 212,
+        "score": 449,
+        "comments": 227,
         "hnUrl": "https://news.ycombinator.com/item?id=48599515",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "La découverte qui a changé la façon dont les scientifiques pensent à la mémoire – IBM",
-        "titleOriginal": "The discovery that changed how scientists think about memory – IBM",
-        "url": "https://www.ibm.com/think/news/discovery-changed-how-scientists-think-about-memory-kavli-prize",
-        "source": "ibm.com",
-        "score": 26,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48568652",
-        "date": "il y a 2 j"
+        "date": "il y a 18 h"
       }
     ]
   },
