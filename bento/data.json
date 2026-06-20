@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-20T22:02:17.202Z",
+  "updatedAt": "2026-06-20T23:43:08.445Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
-      "code": 2,
-      "wind": 11,
-      "humidity": 71
+      "temp": 21,
+      "feelsLike": 24,
+      "code": 1,
+      "wind": 3,
+      "humidity": 82
     },
     "forecast": [
       {
         "date": "2026-06-21",
         "code": 3,
-        "tmax": 37,
-        "tmin": 19
+        "tmax": 35,
+        "tmin": 20
       },
       {
         "date": "2026-06-22",
-        "code": 1,
+        "code": 0,
         "tmax": 38,
-        "tmin": 22
+        "tmin": 23
       },
       {
         "date": "2026-06-23",
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 143,
+        "viewers": 123,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -207,43 +207,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Livres pré-2022",
+        "titleOriginal": "Pre-2022 Books",
+        "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
+        "source": "notes.lorenzogravina.com",
+        "score": 84,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=48613631",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Pas seulement des livres : louer une machine à coudre à la bibliothèque peut améliorer la démocratie",
+        "titleOriginal": "Not just books: renting a sewing machine from the library can improve democracy",
+        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "source": "bbc.com",
+        "score": 31,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48613755",
+        "date": "il y a 48 min"
+      },
+      {
+        "title": "Epoll vs. Io_uring sous Linux",
+        "titleOriginal": "Epoll vs. Io_uring in Linux",
+        "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
+        "source": "sibexi.co",
+        "score": 15,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48613872",
+        "date": "il y a 35 min"
+      },
+      {
         "title": "La SMPTE rend ses normes librement accessibles",
         "titleOriginal": "SMPTE Makes Its Standards Freely Accessible",
         "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
         "source": "smpte.org",
-        "score": 171,
-        "comments": 53,
+        "score": 208,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=48610827",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "UHF X11 : X11 Conçu pour VisionOS et Apple Vision Pro",
-        "titleOriginal": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-        "url": "https://www.lispm.net/apps/uhf-x11/",
-        "source": "lispm.net",
-        "score": 116,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48610853",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "PostgresBench : un point de référence reproductible pour les services Postgres",
-        "titleOriginal": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-        "url": "https://clickhouse.com/blog/postgresbench",
-        "source": "clickhouse.com",
-        "score": 46,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48611942",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Le projet d'inversion du jeu DOS \"F-15 Strike Eagle II\" nécessite des pilotes de test DOS",
-        "titleOriginal": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
-        "url": "https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html",
-        "source": "neuviemeporte.github.io",
-        "score": 157,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=48609766",
         "date": "il y a 6 h"
       }
     ]
