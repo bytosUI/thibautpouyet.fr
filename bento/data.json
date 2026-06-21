@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-06-20T23:43:08.445Z",
+  "updatedAt": "2026-06-21T03:34:33.128Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 24,
-      "code": 1,
-      "wind": 3,
-      "humidity": 82
+      "temp": 20,
+      "feelsLike": 23,
+      "code": 2,
+      "wind": 0,
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-06-21",
-        "code": 3,
+        "code": 61,
         "tmax": 35,
         "tmin": 20
       },
       {
         "date": "2026-06-22",
-        "code": 0,
-        "tmax": 38,
+        "code": 1,
+        "tmax": 37,
         "tmin": 23
       },
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 123,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -207,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Livres pré-2022",
-        "titleOriginal": "Pre-2022 Books",
-        "url": "https://notes.lorenzogravina.com/musings/pre-2022-books",
-        "source": "notes.lorenzogravina.com",
-        "score": 84,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=48613631",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Pas seulement des livres : louer une machine à coudre à la bibliothèque peut améliorer la démocratie",
-        "titleOriginal": "Not just books: renting a sewing machine from the library can improve democracy",
+        "title": "Louer une machine à coudre à la bibliothèque",
+        "titleOriginal": "Renting a sewing machine from the library",
         "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
         "source": "bbc.com",
-        "score": 31,
-        "comments": 11,
+        "score": 131,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48613755",
-        "date": "il y a 48 min"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Epoll vs. Io_uring sous Linux",
-        "titleOriginal": "Epoll vs. Io_uring in Linux",
+        "title": "Epoll vs. io_uring sous Linux",
+        "titleOriginal": "Epoll vs. io_uring in Linux",
         "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
         "source": "sibexi.co",
-        "score": 15,
-        "comments": 1,
+        "score": 69,
+        "comments": 21,
         "hnUrl": "https://news.ycombinator.com/item?id=48613872",
-        "date": "il y a 35 min"
+        "date": "il y a 4 h"
       },
       {
-        "title": "La SMPTE rend ses normes librement accessibles",
-        "titleOriginal": "SMPTE Makes Its Standards Freely Accessible",
-        "url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-        "source": "smpte.org",
-        "score": 208,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=48610827",
-        "date": "il y a 6 h"
+        "title": "Afficher HN : TownSquare, une minuscule couche de présence pour les sites Web",
+        "titleOriginal": "Show HN: TownSquare, a tiny presence layer for websites",
+        "url": "https://townsquare.cauenapier.com/",
+        "source": "townsquare.cauenapier.com",
+        "score": 92,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48608570",
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Les développeurs ne comprennent pas cors (2019)",
+        "titleOriginal": "Developers don't understand CORS (2019)",
+        "url": "https://fosterelli.co/developers-dont-understand-cors",
+        "source": "fosterelli.co",
+        "score": 26,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48614844",
+        "date": "il y a 1 h"
       }
     ]
   },
