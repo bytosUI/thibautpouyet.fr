@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-21T18:57:51.030Z",
+  "updatedAt": "2026-06-21T20:25:28.826Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 35,
+      "temp": 31,
+      "feelsLike": 33,
       "code": 0,
-      "wind": 6,
-      "humidity": 37
+      "wind": 7,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-06-22",
-        "code": 1,
+        "code": 2,
         "tmax": 37,
         "tmin": 23
       },
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 36,
-        "tmin": 23
+        "tmax": 37,
+        "tmin": 22
       },
       {
         "date": "2026-06-24",
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le burnout est réel dans le monde OSS, déclare John-David Dalton, créateur du Lodash",
-        "titleOriginal": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-        "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
-        "source": "openjsf.org",
-        "score": 59,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=48620462",
-        "date": "il y a 2 h"
+        "title": "JSON-LD expliqué pour les sites Web personnels",
+        "titleOriginal": "JSON-LD Explained for Personal Websites",
+        "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+        "source": "hawksley.dev",
+        "score": 57,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48621517",
+        "date": "il y a 1 h"
       },
       {
         "title": "Préférer la duplication à la mauvaise abstraction (2016)",
         "titleOriginal": "Prefer duplication over the wrong abstraction (2016)",
         "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
         "source": "sandimetz.com",
-        "score": 248,
-        "comments": 168,
+        "score": 332,
+        "comments": 234,
         "hnUrl": "https://news.ycombinator.com/item?id=48620090",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Au-delà de toute raison (RTS inspiré de l'annihilation totale gratuite)",
         "titleOriginal": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
         "url": "https://www.beyondallreason.info",
         "source": "beyondallreason.info",
-        "score": 320,
-        "comments": 177,
+        "score": 360,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=48617990",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "(Comment écrire un interprète (Lisp) (en Python)) (2010)",
         "titleOriginal": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
         "url": "https://norvig.com/lispy.html",
         "source": "norvig.com",
-        "score": 87,
-        "comments": 32,
+        "score": 125,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=48619831",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
