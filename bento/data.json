@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-06-21T21:51:50.685Z",
+  "updatedAt": "2026-06-21T23:07:02.162Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 31,
+      "temp": 26,
+      "feelsLike": 29,
       "code": 0,
-      "wind": 7,
-      "humidity": 56
+      "wind": 3,
+      "humidity": 70
     },
     "forecast": [
       {
-        "date": "2026-06-21",
-        "code": 80,
-        "tmax": 36,
-        "tmin": 20
-      },
-      {
         "date": "2026-06-22",
-        "code": 2,
+        "code": 1,
         "tmax": 37,
-        "tmin": 23
+        "tmin": 22
       },
       {
         "date": "2026-06-23",
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-06-24",
-        "code": 3,
+        "code": 1,
         "tmax": 38,
         "tmin": 21
+      },
+      {
+        "date": "2026-06-25",
+        "code": 3,
+        "tmax": 39,
+        "tmin": 23
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'anatomie d'une organisation native de l'IA",
-        "titleOriginal": "The Anatomy of an AI-Native Org",
-        "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
-        "source": "ajeygore.in",
-        "score": 19,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48622815",
-        "date": "il y a 17 min"
-      },
-      {
-        "title": "JSON-LD expliqué pour les sites Web personnels",
-        "titleOriginal": "JSON-LD Explained for Personal Websites",
-        "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-        "source": "hawksley.dev",
-        "score": 114,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48621517",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Apertus – Modèle de fondation ouverte pour l'IA souveraine",
         "titleOriginal": "Apertus – Open Foundation Model for Sovereign AI",
         "url": "https://apertvs.ai/",
         "source": "apertvs.ai",
-        "score": 12,
-        "comments": 2,
+        "score": 94,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=48622778",
-        "date": "il y a 22 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Mon ancien emploi existait-il uniquement à cause de la fraude ?",
+        "titleOriginal": "Did my old job only exist because of fraud?",
+        "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+        "source": "david.newgas.net",
+        "score": 67,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48622867",
+        "date": "il y a 1 h"
       },
       {
         "title": "Tout est logarithme",
         "titleOriginal": "Everything Is Logarithms",
         "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
         "source": "alexkritchevsky.com",
-        "score": 11,
-        "comments": 0,
+        "score": 62,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=48622626",
-        "date": "il y a 41 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "JSON-LD expliqué pour les sites Web personnels",
+        "titleOriginal": "JSON-LD Explained for Personal Websites",
+        "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+        "source": "hawksley.dev",
+        "score": 129,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=48621517",
+        "date": "il y a 4 h"
       }
     ]
   },
