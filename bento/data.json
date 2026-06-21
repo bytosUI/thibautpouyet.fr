@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-21T03:34:33.128Z",
+  "updatedAt": "2026-06-21T08:24:26.604Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 23,
+      "temp": 25,
+      "feelsLike": 27,
       "code": 2,
-      "wind": 0,
-      "humidity": 89
+      "wind": 5,
+      "humidity": 67
     },
     "forecast": [
       {
         "date": "2026-06-21",
-        "code": 61,
-        "tmax": 35,
+        "code": 80,
+        "tmax": 36,
         "tmin": 20
       },
       {
         "date": "2026-06-22",
-        "code": 1,
-        "tmax": 37,
-        "tmin": 23
+        "code": 2,
+        "tmax": 38,
+        "tmin": 22
       },
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 39,
-        "tmin": 20
+        "tmax": 37,
+        "tmin": 23
       },
       {
         "date": "2026-06-24",
         "code": 3,
-        "tmax": 40,
-        "tmin": 23
+        "tmax": 41,
+        "tmin": 21
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Louer une machine à coudre à la bibliothèque",
-        "titleOriginal": "Renting a sewing machine from the library",
-        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
-        "source": "bbc.com",
-        "score": 131,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=48613755",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Epoll vs. io_uring sous Linux",
-        "titleOriginal": "Epoll vs. io_uring in Linux",
-        "url": "https://sibexi.co/posts/epoll-vs-io_uring/",
-        "source": "sibexi.co",
-        "score": 69,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=48613872",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Afficher HN : TownSquare, une minuscule couche de présence pour les sites Web",
-        "titleOriginal": "Show HN: TownSquare, a tiny presence layer for websites",
-        "url": "https://townsquare.cauenapier.com/",
-        "source": "townsquare.cauenapier.com",
-        "score": 92,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48608570",
-        "date": "il y a 15 h"
+        "title": "Un moteur de jeu voxel 3D écrit en APL",
+        "titleOriginal": "A 3D voxel game engine written in APL",
+        "url": "https://github.com/namgyaaal/avoxelgame",
+        "source": "github.com",
+        "score": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48616713",
+        "date": "il y a 19 min"
       },
       {
         "title": "Les développeurs ne comprennent pas cors (2019)",
         "titleOriginal": "Developers don't understand CORS (2019)",
         "url": "https://fosterelli.co/developers-dont-understand-cors",
         "source": "fosterelli.co",
-        "score": 26,
-        "comments": 7,
+        "score": 163,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=48614844",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Décodage en zigzag avec AVX-512",
+        "titleOriginal": "Zigzag Decoding with AVX-512",
+        "url": "https://zeux.io/2026/06/17/zigzag-decoding-avx512/",
+        "source": "zeux.io",
+        "score": 60,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48573902",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Loupe – Une application iOS qui sensibilise à ce que les applications natives peuvent voir",
+        "titleOriginal": "Loupe – A iOS app that raises awareness about what native apps can see",
+        "url": "https://github.com/mysk-research/loupe",
+        "source": "github.com",
+        "score": 254,
+        "comments": 77,
+        "hnUrl": "https://news.ycombinator.com/item?id=48608645",
+        "date": "il y a 20 h"
       }
     ]
   },
