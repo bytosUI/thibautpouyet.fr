@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-21T20:25:28.826Z",
+  "updatedAt": "2026-06-21T21:51:50.685Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 33,
+      "temp": 28,
+      "feelsLike": 31,
       "code": 0,
       "wind": 7,
-      "humidity": 48
+      "humidity": 56
     },
     "forecast": [
       {
@@ -31,8 +31,8 @@
       {
         "date": "2026-06-24",
         "code": 3,
-        "tmax": 39,
-        "tmin": 20
+        "tmax": 38,
+        "tmin": 21
       }
     ]
   },
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'anatomie d'une organisation native de l'IA",
+        "titleOriginal": "The Anatomy of an AI-Native Org",
+        "url": "https://ajeygore.in/content/the-anatomy-of-an-ai-native-org",
+        "source": "ajeygore.in",
+        "score": 19,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48622815",
+        "date": "il y a 17 min"
+      },
+      {
         "title": "JSON-LD expliqué pour les sites Web personnels",
         "titleOriginal": "JSON-LD Explained for Personal Websites",
         "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
         "source": "hawksley.dev",
-        "score": 57,
-        "comments": 14,
+        "score": 114,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=48621517",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Préférer la duplication à la mauvaise abstraction (2016)",
-        "titleOriginal": "Prefer duplication over the wrong abstraction (2016)",
-        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-        "source": "sandimetz.com",
-        "score": 332,
-        "comments": 234,
-        "hnUrl": "https://news.ycombinator.com/item?id=48620090",
-        "date": "il y a 4 h"
+        "title": "Apertus – Modèle de fondation ouverte pour l'IA souveraine",
+        "titleOriginal": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "source": "apertvs.ai",
+        "score": 12,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48622778",
+        "date": "il y a 22 min"
       },
       {
-        "title": "Au-delà de toute raison (RTS inspiré de l'annihilation totale gratuite)",
-        "titleOriginal": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-        "url": "https://www.beyondallreason.info",
-        "source": "beyondallreason.info",
-        "score": 360,
-        "comments": 207,
-        "hnUrl": "https://news.ycombinator.com/item?id=48617990",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "(Comment écrire un interprète (Lisp) (en Python)) (2010)",
-        "titleOriginal": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-        "url": "https://norvig.com/lispy.html",
-        "source": "norvig.com",
-        "score": 125,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=48619831",
-        "date": "il y a 4 h"
+        "title": "Tout est logarithme",
+        "titleOriginal": "Everything Is Logarithms",
+        "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+        "source": "alexkritchevsky.com",
+        "score": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48622626",
+        "date": "il y a 41 min"
       }
     ]
   },
