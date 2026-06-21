@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-21T17:01:36.803Z",
+  "updatedAt": "2026-06-21T18:57:51.030Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
-      "feelsLike": 36,
+      "temp": 34,
+      "feelsLike": 35,
       "code": 0,
       "wind": 6,
-      "humidity": 31
+      "humidity": 37
     },
     "forecast": [
       {
@@ -199,44 +199,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La duplication de code est beaucoup moins chère que la mauvaise abstraction",
-        "titleOriginal": "Code duplication is far cheaper than the wrong abstraction",
-        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-        "source": "sandimetz.com",
-        "score": 60,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=48620090",
-        "date": "il y a 53 min"
+        "title": "Le burnout est réel dans le monde OSS, déclare John-David Dalton, créateur du Lodash",
+        "titleOriginal": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+        "url": "https://openjsf.org/blog/burnout-is-real-for-open-source-maintainers",
+        "source": "openjsf.org",
+        "score": 59,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48620462",
+        "date": "il y a 2 h"
       },
       {
-        "title": "(Comment écrire un interprète (Lisp) (en Python))",
-        "titleOriginal": "(How to Write a (Lisp) Interpreter (In Python))",
-        "url": "https://norvig.com/lispy.html",
-        "source": "norvig.com",
-        "score": 45,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=48619831",
-        "date": "il y a 1 h"
+        "title": "Préférer la duplication à la mauvaise abstraction (2016)",
+        "titleOriginal": "Prefer duplication over the wrong abstraction (2016)",
+        "url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
+        "source": "sandimetz.com",
+        "score": 248,
+        "comments": 168,
+        "hnUrl": "https://news.ycombinator.com/item?id=48620090",
+        "date": "il y a 2 h"
       },
       {
         "title": "Au-delà de toute raison (RTS inspiré de l'annihilation totale gratuite)",
         "titleOriginal": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
         "url": "https://www.beyondallreason.info",
         "source": "beyondallreason.info",
-        "score": 267,
-        "comments": 134,
+        "score": 320,
+        "comments": 177,
         "hnUrl": "https://news.ycombinator.com/item?id=48617990",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "À qui appartient votre identité ATProto ? Astuce : ce n'est probablement pas vous",
-        "titleOriginal": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-        "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-        "source": "kevinak.se",
-        "score": 97,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=48619140",
-        "date": "il y a 2 h"
+        "title": "(Comment écrire un interprète (Lisp) (en Python)) (2010)",
+        "titleOriginal": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+        "url": "https://norvig.com/lispy.html",
+        "source": "norvig.com",
+        "score": 87,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48619831",
+        "date": "il y a 3 h"
       }
     ]
   },
