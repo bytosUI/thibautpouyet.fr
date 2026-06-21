@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-21T13:21:57.628Z",
+  "updatedAt": "2026-06-21T15:22:22.296Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
+      "temp": 36,
       "feelsLike": 38,
       "code": 0,
-      "wind": 3,
+      "wind": 1,
       "humidity": 29
     },
     "forecast": [
@@ -203,9 +203,19 @@
         "titleOriginal": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
         "url": "https://www.beyondallreason.info",
         "source": "beyondallreason.info",
-        "score": 55,
-        "comments": 21,
+        "score": 195,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=48617990",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "À qui appartient votre identité ATProto ? Astuce : ce n'est probablement pas vous",
+        "titleOriginal": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+        "url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
+        "source": "kevinak.se",
+        "score": 47,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48619140",
         "date": "il y a 1 h"
       },
       {
@@ -213,30 +223,20 @@
         "titleOriginal": "The case against geometric algebra (2024)",
         "url": "https://alexkritchevsky.com/2024/02/28/geometric-algebra.html",
         "source": "alexkritchevsky.com",
-        "score": 49,
-        "comments": 17,
+        "score": 87,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48617782",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Jeux informatiques de base de David Ahl portés en C",
-        "titleOriginal": "David Ahl's Basic Computer Games Ported to C",
-        "url": "https://github.com/proteanthread/bcg",
-        "source": "github.com",
-        "score": 11,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48618226",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Un moteur de jeu voxel 3D écrit en APL",
-        "titleOriginal": "A 3D voxel game engine written in APL",
-        "url": "https://github.com/namgyaaal/avoxelgame",
-        "source": "github.com",
-        "score": 85,
+        "title": "Commodore a fabriqué un téléphone de désintoxication numérique qui n'est pas stupide",
+        "titleOriginal": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+        "url": "https://www.wired.me/story/commodore-made-a-digital-detox-phone-that-isnt-dumb",
+        "source": "wired.me",
+        "score": 19,
         "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48616713",
-        "date": "il y a 5 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=48587619",
+        "date": "il y a 2 j"
       }
     ]
   },
