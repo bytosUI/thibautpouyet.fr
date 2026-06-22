@@ -1,46 +1,54 @@
 {
-  "updatedAt": "2026-06-22T01:59:57.238Z",
+  "updatedAt": "2026-06-22T07:33:42.701Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 26,
-      "code": 0,
-      "wind": 3,
-      "humidity": 81
+      "temp": 27,
+      "feelsLike": 30,
+      "code": 1,
+      "wind": 6,
+      "humidity": 69
     },
     "forecast": [
       {
         "date": "2026-06-22",
         "code": 1,
-        "tmax": 37,
-        "tmin": 22
+        "tmax": 36,
+        "tmin": 21
       },
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 37,
+        "tmax": 36,
         "tmin": 21
       },
       {
         "date": "2026-06-24",
-        "code": 1,
+        "code": 2,
         "tmax": 38,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-06-25",
         "code": 3,
         "tmax": 39,
-        "tmin": 23
+        "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 159,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -149,16 +157,16 @@
         "url": "https://www.themoviedb.org/movie/1084244"
       },
       {
-        "title": "Disclosure Day",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg",
-        "url": "https://www.themoviedb.org/movie/1275779"
-      },
-      {
         "title": "The Mandalorian and Grogu",
         "year": "2026",
         "poster": "https://image.tmdb.org/t/p/w342/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg",
         "url": "https://www.themoviedb.org/movie/1228710"
+      },
+      {
+        "title": "Disclosure Day",
+        "year": "2026",
+        "poster": "https://image.tmdb.org/t/p/w342/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg",
+        "url": "https://www.themoviedb.org/movie/1275779"
       },
       {
         "title": "The Furious",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apertus – Modèle de fondation ouverte pour l'IA souveraine",
-        "titleOriginal": "Apertus – Open Foundation Model for Sovereign AI",
-        "url": "https://apertvs.ai/",
-        "source": "apertvs.ai",
-        "score": 196,
-        "comments": 75,
-        "hnUrl": "https://news.ycombinator.com/item?id=48622778",
-        "date": "il y a 4 h"
+        "title": "Deno Desktop",
+        "titleOriginal": "Deno Desktop",
+        "url": "https://docs.deno.com/runtime/desktop/",
+        "source": "docs.deno.com",
+        "score": 167,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=48626137",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Aidez-moi accidentellement un wigglegram",
+        "titleOriginal": "Help I accidentally a wigglegram",
+        "url": "https://lmao.center/blog/wiggle-accidents/",
+        "source": "lmao.center",
+        "score": 153,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48605561",
+        "date": "il y a 2 j"
       },
       {
         "title": "Mon ancien emploi existait-il uniquement à cause de la fraude ?",
         "titleOriginal": "Did my old job only exist because of fraud?",
         "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
         "source": "david.newgas.net",
-        "score": 223,
-        "comments": 100,
+        "score": 480,
+        "comments": 213,
         "hnUrl": "https://news.ycombinator.com/item?id=48622867",
-        "date": "il y a 4 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "The Doom justifie l'évaluation",
-        "titleOriginal": "The Doom Justifies the Valuation",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/06/21/the-doom-justifies-the-valuation.html",
-        "source": "geohot.github.io",
-        "score": 49,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48624195",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Je me suis trompé sur le scanner à ultrasons Midjourney",
-        "titleOriginal": "I was wrong about the Midjourney ultra-sound scanner",
-        "url": "https://twitter.com/MattZirwas/status/2068365802491834541",
-        "source": "twitter.com",
-        "score": 48,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=48618536",
-        "date": "il y a 13 h"
+        "title": "Apertus – Modèle de fondation ouverte pour l'IA souveraine",
+        "titleOriginal": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "source": "apertvs.ai",
+        "score": 346,
+        "comments": 113,
+        "hnUrl": "https://news.ycombinator.com/item?id=48622778",
+        "date": "il y a 10 h"
       }
     ]
   },
