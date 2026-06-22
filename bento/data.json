@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-22T21:19:11.389Z",
+  "updatedAt": "2026-06-22T22:59:56.156Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 30,
+      "temp": 25,
+      "feelsLike": 27,
       "code": 0,
       "wind": 9,
-      "humidity": 62
+      "humidity": 72
     },
     "forecast": [
       {
-        "date": "2026-06-22",
-        "code": 1,
-        "tmax": 36,
-        "tmin": 21
-      },
-      {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 37,
-        "tmin": 21
+        "tmax": 36,
+        "tmin": 22
       },
       {
         "date": "2026-06-24",
-        "code": 2,
-        "tmax": 39,
-        "tmin": 23
+        "code": 1,
+        "tmax": 38,
+        "tmin": 22
       },
       {
         "date": "2026-06-25",
         "code": 3,
         "tmax": 39,
         "tmin": 22
+      },
+      {
+        "date": "2026-06-26",
+        "code": 3,
+        "tmax": 38,
+        "tmin": 26
       }
     ]
   },
@@ -203,29 +203,29 @@
         "titleOriginal": "Steam Machine launches today",
         "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
         "source": "store.steampowered.com",
-        "score": 822,
-        "comments": 710,
+        "score": 1008,
+        "comments": 891,
         "hnUrl": "https://news.ycombinator.com/item?id=48632884",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Casque Canyon HUD pour la conduite sur route",
-        "titleOriginal": "Canyon HUD helmet for road riding",
-        "url": "https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/",
-        "source": "media-centre.canyon.com",
-        "score": 36,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48609129",
-        "date": "il y a 2 j"
+        "title": "Près de la moitié des applications LG Smart TV contiennent des SDK proxy résidentiels",
+        "titleOriginal": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+        "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+        "source": "spur.us",
+        "score": 95,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=48635954",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Colombie-Britannique, fuseaux horaires et Postgres",
-        "titleOriginal": "British Columbia, Time Zones, and Postgres",
-        "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-        "source": "crunchydata.com",
-        "score": 52,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48634787",
+        "title": "Unsloth GLM-5.2 – Comment fonctionner localement",
+        "titleOriginal": "Unsloth GLM-5.2 – How to Run Locally",
+        "url": "https://unsloth.ai/docs/models/glm-5.2",
+        "source": "unsloth.ai",
+        "score": 46,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48636377",
         "date": "il y a 1 h"
       },
       {
@@ -233,10 +233,10 @@
         "titleOriginal": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
         "url": "https://github.com/dorukkumkumoglu/optocamzero",
         "source": "github.com",
-        "score": 35,
-        "comments": 2,
+        "score": 64,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=48634778",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
