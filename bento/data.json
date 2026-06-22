@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-06-22T13:30:40.248Z",
+  "updatedAt": "2026-06-22T18:10:01.553Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
-      "feelsLike": 37,
-      "code": 1,
+      "temp": 34,
+      "feelsLike": 34,
+      "code": 0,
       "wind": 11,
-      "humidity": 26
+      "humidity": 29
     },
     "forecast": [
       {
         "date": "2026-06-22",
         "code": 1,
-        "tmax": 37,
+        "tmax": 36,
         "tmin": 21
       },
       {
         "date": "2026-06-23",
         "code": 3,
         "tmax": 37,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-06-24",
-        "code": 3,
+        "code": 2,
         "tmax": 38,
         "tmin": 23
       },
@@ -32,14 +32,22 @@
         "date": "2026-06-25",
         "code": 3,
         "tmax": 39,
-        "tmin": 23
+        "tmin": 22
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "EA Sports FC 26",
+        "viewers": 8033,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE BÂTIMENT DE LEGEND EST HANTÉ ?",
+        "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "qioZBpQxNDI",
+        "thumbnail": "https://i.ytimg.com/vi/qioZBpQxNDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qioZBpQxNDI",
+        "publishedAt": "2026-06-22T17:30:01+00:00"
+      },
+      {
+        "title": "On fait chacun un truc gênant... (ft @marinedmusique)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "h2mxmaFHS9o",
+        "thumbnail": "https://i.ytimg.com/vi/h2mxmaFHS9o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h2mxmaFHS9o",
+        "publishedAt": "2026-06-22T15:58:19+00:00"
+      },
+      {
+        "title": "\"JE SAIS IMMÉDIATEMENT SI UN HOMME ME TROMPE\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "lsbdD3pUlRs",
-        "thumbnail": "https://i.ytimg.com/vi/lsbdD3pUlRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lsbdD3pUlRs",
-        "publishedAt": "2026-06-22T13:00:18+00:00"
+        "videoId": "a3Spa9pK0Nc",
+        "thumbnail": "https://i.ytimg.com/vi/a3Spa9pK0Nc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a3Spa9pK0Nc",
+        "publishedAt": "2026-06-22T15:30:00+00:00"
       },
       {
         "title": "ON A RECRUTÉ ce génie et ON À PLAQUÉ la première salle !",
@@ -79,15 +105,6 @@
         "publishedAt": "2026-06-20T06:30:10+00:00"
       },
       {
-        "title": "Tierlist des 365 jours de l’année (Dramas, Polémiques autour de Juillet et Août)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "9EoNehP9KY0",
-        "thumbnail": "https://i.ytimg.com/vi/9EoNehP9KY0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9EoNehP9KY0",
-        "publishedAt": "2026-06-18T15:21:24+00:00"
-      },
-      {
         "title": "Plus d'argent : il n'est pas plus heureux",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -95,15 +112,6 @@
         "thumbnail": "https://i.ytimg.com/vi/5ZrFo7zzEqk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5ZrFo7zzEqk",
         "publishedAt": "2026-06-16T08:51:04+00:00"
-      },
-      {
-        "title": "4 mois en Corée et toujours rien… 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "--Ir1LV-4mw",
-        "thumbnail": "https://i.ytimg.com/vi/--Ir1LV-4mw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=--Ir1LV-4mw",
-        "publishedAt": "2026-06-14T16:00:18+00:00"
       },
       {
         "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
@@ -199,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Machine à vapeur",
+        "titleOriginal": "Steam Machine",
+        "url": "https://store.steampowered.com/hardware/steammachine",
+        "source": "store.steampowered.com",
+        "score": 127,
+        "comments": 105,
+        "hnUrl": "https://news.ycombinator.com/item?id=48632884",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Moebius : modèle de peinture d'image 0,2B avec des performances de niveau 10B",
+        "titleOriginal": "Moebius: 0.2B image inpainting model with 10B-level performance",
+        "url": "https://hustvl.github.io/Moebius/",
+        "source": "hustvl.github.io",
+        "score": 118,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48630171",
+        "date": "il y a 4 h"
+      },
+      {
         "title": "Deno Desktop",
         "titleOriginal": "Deno Desktop",
         "url": "https://docs.deno.com/runtime/desktop/",
         "source": "docs.deno.com",
-        "score": 649,
-        "comments": 239,
+        "score": 875,
+        "comments": 333,
         "hnUrl": "https://news.ycombinator.com/item?id=48626137",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "window.showDirectoryPicker ouvre un tout nouveau monde",
-        "titleOriginal": "window.showDirectoryPicker opens up a whole new world",
-        "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
-        "source": "steveharrison.dev",
-        "score": 14,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48629387",
-        "date": "il y a 48 min"
-      },
-      {
-        "title": "GLM 5.2 vs. Opus",
-        "titleOriginal": "GLM 5.2 vs. Opus",
-        "url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-        "source": "techstackups.com",
-        "score": 235,
-        "comments": 179,
-        "hnUrl": "https://news.ycombinator.com/item?id=48626866",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Le bogue de journalisation Codex peut écrire des TB sur les SSD locaux",
-        "titleOriginal": "Codex logging bug may write TBs to local SSDs",
-        "url": "https://github.com/openai/codex/issues/28224",
-        "source": "github.com",
-        "score": 215,
-        "comments": 123,
-        "hnUrl": "https://news.ycombinator.com/item?id=48626930",
-        "date": "il y a 6 h"
+        "title": "Show HN : Chêne – Remplacement Git conçu pour les agents",
+        "titleOriginal": "Show HN: Oak – Git replacement designed for agents",
+        "url": "https://oak.space/oak/oak",
+        "source": "oak.space",
+        "score": 40,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=48631726",
+        "date": "il y a 2 h"
       }
     ]
   },
