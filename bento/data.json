@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-23T17:13:03.915Z",
+  "updatedAt": "2026-06-23T19:24:26.968Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 34,
+      "temp": 31,
+      "feelsLike": 32,
       "code": 0,
-      "wind": 10,
-      "humidity": 29
+      "wind": 7,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -39,26 +39,35 @@
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 228,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "GeoGuessr",
+        "viewers": 16752,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Microsoft a-t-il dupé tout le monde sur l'IA ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "vAfav7136f8",
+        "thumbnail": "https://i.ytimg.com/vi/vAfav7136f8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vAfav7136f8",
+        "publishedAt": "2026-06-23T18:01:08+00:00"
+      },
       {
         "title": "Carlito maîtrise la ventriloquie et personne n'en parle",
         "channel": "Mcfly et Carlito",
@@ -94,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/f1HqhKuTaAI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=f1HqhKuTaAI",
         "publishedAt": "2026-06-21T09:22:38+00:00"
-      },
-      {
-        "title": "L'IA générale arrive plus vite que prévu, et nous ne sommes pas prêts !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "hjJoSTzmTDc",
-        "thumbnail": "https://i.ytimg.com/vi/hjJoSTzmTDc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hjJoSTzmTDc",
-        "publishedAt": "2026-06-20T06:30:10+00:00"
       },
       {
         "title": "Plus d'argent : il n'est pas plus heureux",
@@ -207,44 +207,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Jerry's Map",
+        "titleOriginal": "Jerry's Map",
+        "url": "http://www.jerrysmap.com/the-map",
+        "source": "jerrysmap.com",
+        "score": 50,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48649435",
+        "date": "il y a 44 min"
+      },
+      {
+        "title": "SWIFT Package Index rejoint Apple",
+        "titleOriginal": "Swift Package Index joins Apple",
+        "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+        "source": "swiftpackageindex.com",
+        "score": 60,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48648779",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "F3",
+        "titleOriginal": "F3",
+        "url": "https://github.com/future-file-format/f3",
+        "source": "github.com",
+        "score": 420,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=48647799",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Afficher HN : Éditeur TikZ – Éditeur WYSIWYG pour les chiffres dans LaTeX",
         "titleOriginal": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
         "url": "https://tikz.dev/editor/",
         "source": "tikz.dev",
-        "score": 197,
-        "comments": 30,
+        "score": 254,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=48645437",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "OCR illimité : analyse d'un coup à long horizon",
-        "titleOriginal": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-        "url": "https://github.com/baidu/Unlimited-OCR",
-        "source": "github.com",
-        "score": 317,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=48643426",
         "date": "il y a 5 h"
-      },
-      {
-        "title": "Espionner les enfants pour les empêcher d'espionner est stupide",
-        "titleOriginal": "Spying on kids to save kids from spying is stupid",
-        "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-        "source": "pluralistic.net",
-        "score": 360,
-        "comments": 230,
-        "hnUrl": "https://news.ycombinator.com/item?id=48645173",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Lift4D : Harmonisation de l'estimation 3D à vue unique pour la reconstruction 4D dans la nature",
-        "titleOriginal": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-        "url": "https://lift4d.github.io/",
-        "source": "lift4d.github.io",
-        "score": 54,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48645721",
-        "date": "il y a 2 h"
       }
     ]
   },
