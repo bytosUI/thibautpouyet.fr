@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-22T22:59:56.156Z",
+  "updatedAt": "2026-06-23T00:15:34.189Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 27,
-      "code": 0,
-      "wind": 9,
-      "humidity": 72
+      "temp": 24,
+      "feelsLike": 26,
+      "code": 2,
+      "wind": 7,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -203,40 +203,40 @@
         "titleOriginal": "Steam Machine launches today",
         "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
         "source": "store.steampowered.com",
-        "score": 1008,
-        "comments": 891,
+        "score": 1103,
+        "comments": 979,
         "hnUrl": "https://news.ycombinator.com/item?id=48632884",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Près de la moitié des applications LG Smart TV contiennent des SDK proxy résidentiels",
-        "titleOriginal": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-        "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
-        "source": "spur.us",
-        "score": 95,
-        "comments": 50,
-        "hnUrl": "https://news.ycombinator.com/item?id=48635954",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Unsloth GLM-5.2 – Comment fonctionner localement",
         "titleOriginal": "Unsloth GLM-5.2 – How to Run Locally",
         "url": "https://unsloth.ai/docs/models/glm-5.2",
         "source": "unsloth.ai",
-        "score": 46,
-        "comments": 14,
+        "score": 114,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=48636377",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Optocam Zero : un appareil photo numérique basé sur Pi Zero fabriqué à l'aide de composants disponibles sur le marché",
         "titleOriginal": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
         "url": "https://github.com/dorukkumkumoglu/optocamzero",
         "source": "github.com",
-        "score": 64,
-        "comments": 15,
+        "score": 81,
+        "comments": 21,
         "hnUrl": "https://news.ycombinator.com/item?id=48634778",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Colombie-Britannique, fuseaux horaires et Postgres",
+        "titleOriginal": "British Columbia, Time Zones, and Postgres",
+        "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
+        "source": "crunchydata.com",
+        "score": 93,
+        "comments": 58,
+        "hnUrl": "https://news.ycombinator.com/item?id=48634787",
+        "date": "il y a 4 h"
       }
     ]
   },
