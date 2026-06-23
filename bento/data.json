@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-23T00:15:34.189Z",
+  "updatedAt": "2026-06-23T04:38:54.599Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 26,
-      "code": 2,
-      "wind": 7,
-      "humidity": 76
+      "temp": 21,
+      "feelsLike": 23,
+      "code": 0,
+      "wind": 5,
+      "humidity": 85
     },
     "forecast": [
       {
         "date": "2026-06-23",
         "code": 3,
-        "tmax": 36,
-        "tmin": 22
+        "tmax": 35,
+        "tmin": 21
       },
       {
         "date": "2026-06-24",
-        "code": 1,
+        "code": 0,
         "tmax": 38,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-06-25",
         "code": 3,
-        "tmax": 39,
-        "tmin": 22
+        "tmax": 38,
+        "tmin": 23
       },
       {
         "date": "2026-06-26",
         "code": 3,
         "tmax": 38,
-        "tmin": 26
+        "tmin": 25
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "qioZBpQxNDI",
-        "thumbnail": "https://i.ytimg.com/vi/qioZBpQxNDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qioZBpQxNDI",
-        "publishedAt": "2026-06-22T17:30:01+00:00"
-      },
-      {
-        "title": "On fait chacun un truc gênant... (ft @marinedmusique)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "h2mxmaFHS9o",
-        "thumbnail": "https://i.ytimg.com/vi/h2mxmaFHS9o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h2mxmaFHS9o",
-        "publishedAt": "2026-06-22T15:58:19+00:00"
-      },
-      {
-        "title": "\"JE SAIS IMMÉDIATEMENT SI UN HOMME ME TROMPE\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "a3Spa9pK0Nc",
-        "thumbnail": "https://i.ytimg.com/vi/a3Spa9pK0Nc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a3Spa9pK0Nc",
-        "publishedAt": "2026-06-22T15:30:00+00:00"
-      },
-      {
-        "title": "ON A RECRUTÉ ce génie et ON À PLAQUÉ la première salle !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f1HqhKuTaAI",
-        "thumbnail": "https://i.ytimg.com/vi/f1HqhKuTaAI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f1HqhKuTaAI",
-        "publishedAt": "2026-06-21T09:22:38+00:00"
-      },
-      {
-        "title": "L'IA générale arrive plus vite que prévu, et nous ne sommes pas prêts !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "hjJoSTzmTDc",
-        "thumbnail": "https://i.ytimg.com/vi/hjJoSTzmTDc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hjJoSTzmTDc",
-        "publishedAt": "2026-06-20T06:30:10+00:00"
-      },
-      {
-        "title": "Plus d'argent : il n'est pas plus heureux",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "5ZrFo7zzEqk",
-        "thumbnail": "https://i.ytimg.com/vi/5ZrFo7zzEqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5ZrFo7zzEqk",
-        "publishedAt": "2026-06-16T08:51:04+00:00"
-      },
-      {
-        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "Mbb12ogBrAE",
-        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
-        "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": [
@@ -203,40 +121,40 @@
         "titleOriginal": "Steam Machine launches today",
         "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
         "source": "store.steampowered.com",
-        "score": 1103,
-        "comments": 979,
+        "score": 1352,
+        "comments": 1218,
         "hnUrl": "https://news.ycombinator.com/item?id=48632884",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "GLM-5.2 – Comment fonctionner localement",
+        "titleOriginal": "GLM-5.2 – How to Run Locally",
+        "url": "https://unsloth.ai/docs/models/glm-5.2",
+        "source": "unsloth.ai",
+        "score": 257,
+        "comments": 118,
+        "hnUrl": "https://news.ycombinator.com/item?id=48636377",
         "date": "il y a 7 h"
       },
       {
-        "title": "Unsloth GLM-5.2 – Comment fonctionner localement",
-        "titleOriginal": "Unsloth GLM-5.2 – How to Run Locally",
-        "url": "https://unsloth.ai/docs/models/glm-5.2",
-        "source": "unsloth.ai",
-        "score": 114,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=48636377",
+        "title": "VibeThinker : modèle param 3B qui bat Opus 4.5 sur le raisonnement avec le nouveau SFT+GRPO",
+        "titleOriginal": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
+        "url": "https://arxiv.org/abs/2606.16140",
+        "source": "arxiv.org",
+        "score": 52,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48639240",
         "date": "il y a 2 h"
       },
       {
-        "title": "Optocam Zero : un appareil photo numérique basé sur Pi Zero fabriqué à l'aide de composants disponibles sur le marché",
-        "titleOriginal": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-        "url": "https://github.com/dorukkumkumoglu/optocamzero",
-        "source": "github.com",
-        "score": 81,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=48634778",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Colombie-Britannique, fuseaux horaires et Postgres",
-        "titleOriginal": "British Columbia, Time Zones, and Postgres",
-        "url": "https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes",
-        "source": "crunchydata.com",
-        "score": 93,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=48634787",
-        "date": "il y a 4 h"
+        "title": "À l'éloge de memcached",
+        "titleOriginal": "In praise of memcached",
+        "url": "https://jchri.st/blog/in-praise-of-memcached/",
+        "source": "jchri.st",
+        "score": 82,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48638886",
+        "date": "il y a 3 h"
       }
     ]
   },
