@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-23T21:13:06.147Z",
+  "updatedAt": "2026-06-23T22:44:59.912Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 30,
+      "temp": 25,
+      "feelsLike": 27,
       "code": 0,
-      "wind": 4,
-      "humidity": 59
+      "wind": 3,
+      "humidity": 69
     },
     "forecast": [
-      {
-        "date": "2026-06-23",
-        "code": 3,
-        "tmax": 34,
-        "tmin": 21
-      },
       {
         "date": "2026-06-24",
         "code": 1,
@@ -24,41 +18,56 @@
       },
       {
         "date": "2026-06-25",
-        "code": 2,
+        "code": 3,
         "tmax": 40,
         "tmin": 22
       },
       {
         "date": "2026-06-26",
-        "code": 80,
+        "code": 3,
         "tmax": 39,
         "tmin": 24
+      },
+      {
+        "date": "2026-06-27",
+        "code": 3,
+        "tmax": 36,
+        "tmin": 23
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "GeoGuessr",
-        "viewers": 16800,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 94,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "PRESNEL KIMPEMBE, FOOTBALLEUR : ARGENT, CAMBRIOLAGES, JALOUSIES... LA FACE CACHÉE DU FOOT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Kg3NY-L9vys",
+        "thumbnail": "https://i.ytimg.com/vi/Kg3NY-L9vys/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Kg3NY-L9vys",
+        "publishedAt": "2026-06-23T20:40:35+00:00"
+      },
       {
         "title": "Microsoft a-t-il dupé tout le monde sur l'IA ?",
         "channel": "Silicon Carne 🌶️",
@@ -76,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/TqAIJUt4dTQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TqAIJUt4dTQ",
         "publishedAt": "2026-06-23T15:46:08+00:00"
-      },
-      {
-        "title": "DISPARU DEPUIS 9 MOIS, IL ATTEND DÉSESPÉRÉMENT UN SIGNE DE SON FILS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "TSlMuYSL4S4",
-        "thumbnail": "https://i.ytimg.com/vi/TSlMuYSL4S4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TSlMuYSL4S4",
-        "publishedAt": "2026-06-23T15:00:06+00:00"
       },
       {
         "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
@@ -143,38 +143,7 @@
     ]
   },
   "films": {
-    "top5": [
-      {
-        "title": "Obsession",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/mDCR1frpUvGfIKksuM440VLb7X9.jpg",
-        "url": "https://www.themoviedb.org/movie/1339713"
-      },
-      {
-        "title": "Toy Story 5",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
-        "url": "https://www.themoviedb.org/movie/1084244"
-      },
-      {
-        "title": "The Mandalorian and Grogu",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/qkH4ntQtO5qnL17RFOvmkNHKpGt.jpg",
-        "url": "https://www.themoviedb.org/movie/1228710"
-      },
-      {
-        "title": "Disclosure Day",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/8GRMeKaDFnuzXBzqGiDMzCFDnwQ.jpg",
-        "url": "https://www.themoviedb.org/movie/1275779"
-      },
-      {
-        "title": "The Furious",
-        "year": "2026",
-        "poster": "https://image.tmdb.org/t/p/w342/94rNmtdyclSnO3OOnVBW2Isy9r0.jpg",
-        "url": "https://www.themoviedb.org/movie/1280738"
-      }
-    ]
+    "top5": []
   },
   "github": {
     "recent": [
@@ -207,44 +176,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "California AB 2047 rend les imprimantes 3D interdites aux étudiants, aux éducateurs, aux entreprises",
+        "titleOriginal": "California AB 2047 makes 3d printers off-limits to students, educators, business",
+        "url": "https://www.the3dprintingnerd.com/ab2047",
+        "source": "the3dprintingnerd.com",
+        "score": 53,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48652184",
+        "date": "il y a 32 min"
+      },
+      {
+        "title": "United Wizards of the Coast reconnu par NLRB",
+        "titleOriginal": "United Wizards of the Coast recognized by NLRB",
+        "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
+        "source": "unitedwizardsofthecoast.com",
+        "score": 47,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48652028",
+        "date": "il y a 47 min"
+      },
+      {
         "title": "Jerry's Map",
         "titleOriginal": "Jerry's Map",
         "url": "http://www.jerrysmap.com/the-map",
         "source": "jerrysmap.com",
-        "score": 188,
-        "comments": 22,
+        "score": 270,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=48649435",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Ne vérifiez pas les adresses e-mail en leur envoyant du spam",
+        "titleOriginal": "Don't verify email addresses by sending spam to them",
+        "url": "https://milek7.pl/mailverifyspam/",
+        "source": "milek7.pl",
+        "score": 97,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48650837",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "SWIFT Package Index rejoint Apple",
-        "titleOriginal": "Swift Package Index joins Apple",
-        "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-        "source": "swiftpackageindex.com",
-        "score": 114,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=48648779",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Anthropic met à jour ses conditions pour vérifier l'âge ou l'identité",
-        "titleOriginal": "Anthropic updates their terms to verify age or identity",
-        "url": "https://www.anthropic.com/legal/privacy",
-        "source": "anthropic.com",
-        "score": 178,
-        "comments": 142,
-        "hnUrl": "https://news.ycombinator.com/item?id=48650311",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "FUTO Swipe – Un nouveau modèle de frappe par balayage",
-        "titleOriginal": "FUTO Swipe – A new swipe typing model",
-        "url": "https://swipe.futo.tech/",
-        "source": "swipe.futo.tech",
-        "score": 96,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=48648619",
-        "date": "il y a 3 h"
       }
     ]
   },
