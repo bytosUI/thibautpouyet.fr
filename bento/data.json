@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-24T12:32:29.768Z",
+  "updatedAt": "2026-06-24T15:31:10.422Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
+      "temp": 38,
       "feelsLike": 40,
       "code": 0,
       "wind": 3,
-      "humidity": 29
+      "humidity": 27
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-06-25",
-        "code": 3,
+        "code": 2,
         "tmax": 40,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-06-26",
@@ -41,14 +41,21 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 5215,
+        "game": "Pro Cycling Manager 26",
+        "viewers": 6353,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 226,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -180,40 +187,40 @@
         "titleOriginal": "We're making Bunny DNS free: because a faster internet won't build itself",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "bunny.net",
-        "score": 312,
-        "comments": 102,
+        "score": 559,
+        "comments": 188,
         "hnUrl": "https://news.ycombinator.com/item?id=48657030",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "RubyLLM : Un cadre Ruby unique et magnifique pour tous les principaux fournisseurs d'IA",
+        "titleOriginal": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
+        "url": "https://rubyllm.com/",
+        "source": "rubyllm.com",
+        "score": 37,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48660711",
+        "date": "il y a 49 min"
+      },
+      {
+        "title": "Show HN : Nub – Une boîte à outils tout-en-un en forme de chignon pour Node.js",
+        "titleOriginal": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
+        "url": "https://github.com/nubjs/nub",
+        "source": "github.com",
+        "score": 32,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48660267",
+        "date": "il y a 1 h"
       },
       {
         "title": "Rapport technique Krea 2",
         "titleOriginal": "Krea 2 Technical Report",
         "url": "https://www.krea.ai/blog/krea-2-technical-report",
         "source": "krea.ai",
-        "score": 19,
-        "comments": 2,
+        "score": 117,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=48646659",
-        "date": "il y a 21 h"
-      },
-      {
-        "title": "Show HN : Rendez votre jeu multijoueur en une seule invite",
-        "titleOriginal": "Show HN: Make your game multiplayer in one prompt",
-        "url": "https://antics.gg/",
-        "source": "antics.gg",
-        "score": 4,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48658544",
-        "date": "il y a 19 min"
-      },
-      {
-        "title": "Les rapports de vulnérabilité ne sont plus spéciaux",
-        "titleOriginal": "Vulnerability reports are not special anymore",
-        "url": "https://words.filippo.io/vuln-reports/",
-        "source": "words.filippo.io",
-        "score": 318,
-        "comments": 174,
-        "hnUrl": "https://news.ycombinator.com/item?id=48653216",
-        "date": "il y a 12 h"
+        "date": "il y a 23 h"
       }
     ]
   },
