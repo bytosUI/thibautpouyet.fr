@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-24T17:49:47.283Z",
+  "updatedAt": "2026-06-24T19:38:34.914Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
-      "feelsLike": 38,
-      "code": 0,
-      "wind": 6,
-      "humidity": 27
+      "temp": 34,
+      "feelsLike": 36,
+      "code": 1,
+      "wind": 8,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 1 h",
+        "time": "il y a 3 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Wrap login useSearchParams in Suspense for static prerender",
-        "time": "il y a 1 h",
+        "time": "il y a 3 h",
         "url": "https://github.com/bytosUI/geekstack/commit/a72df48197586ad55fc480273f854bc951274ef3"
       },
       {
@@ -174,13 +174,13 @@
   "hackernews": {
     "items": [
       {
-        "title": "John Carmack sur les erreurs autour de Quake qui ont ruiné le logiciel id",
-        "titleOriginal": "John Carmack on the mistakes around Quake that ruined id software",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
-        "source": "twitter.com",
-        "score": 292,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=48661825",
+        "title": "OpenAI dévoile sa première puce personnalisée, construite par Broadcom",
+        "titleOriginal": "OpenAI unveils its first custom chip, built by Broadcom",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "source": "techcrunch.com",
+        "score": 203,
+        "comments": 161,
+        "hnUrl": "https://news.ycombinator.com/item?id=48663324",
         "date": "il y a 1 h"
       },
       {
@@ -188,30 +188,30 @@
         "titleOriginal": "RubyLLM: A Ruby framework for all major AI providers",
         "url": "https://rubyllm.com/",
         "source": "rubyllm.com",
-        "score": 204,
-        "comments": 25,
+        "score": 262,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=48660711",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Pour la majeure partie du monde, l'IA open source est la seule voie à suivre",
-        "titleOriginal": "For Most of the World, Open-Source AI Is the Only Way Forward",
-        "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
-        "source": "techstrong.ai",
-        "score": 85,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=48660839",
-        "date": "il y a 2 h"
+        "title": "Thomann intente une action en justice contre Fender",
+        "titleOriginal": "Thomann takes legal action against Fender",
+        "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+        "source": "thomann.de",
+        "score": 24,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48664384",
+        "date": "il y a 30 min"
       },
       {
         "title": "Nous rendons Bunny DNS gratuit",
         "titleOriginal": "We’re making Bunny DNS free",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "bunny.net",
-        "score": 671,
-        "comments": 214,
+        "score": 722,
+        "comments": 233,
         "hnUrl": "https://news.ycombinator.com/item?id=48657030",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       }
     ]
   },
