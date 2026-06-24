@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-06-23T23:52:01.470Z",
+  "updatedAt": "2026-06-24T02:45:04.580Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 26,
-      "code": 0,
+      "temp": 21,
+      "feelsLike": 24,
+      "code": 1,
       "wind": 2,
-      "humidity": 79
+      "humidity": 91
     },
     "forecast": [
       {
         "date": "2026-06-24",
         "code": 1,
         "tmax": 38,
-        "tmin": 21
+        "tmin": 20
       },
       {
         "date": "2026-06-25",
-        "code": 3,
-        "tmax": 40,
-        "tmin": 22
+        "code": 2,
+        "tmax": 39,
+        "tmin": 21
       },
       {
         "date": "2026-06-26",
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 85,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -176,44 +168,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les rapports de vulnérabilité ne sont plus spéciaux",
+        "titleOriginal": "Vulnerability reports are not special anymore",
+        "url": "https://words.filippo.io/vuln-reports/",
+        "source": "words.filippo.io",
+        "score": 92,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48653216",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Jerry's Map",
         "titleOriginal": "Jerry's Map",
         "url": "http://www.jerrysmap.com/the-map",
         "source": "jerrysmap.com",
-        "score": 285,
-        "comments": 41,
+        "score": 342,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=48649435",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "SWIFT Package Index rejoint Apple",
-        "titleOriginal": "Swift Package Index joins Apple",
-        "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-        "source": "swiftpackageindex.com",
-        "score": 157,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=48648779",
-        "date": "il y a 5 h"
+        "title": "Un homme a reçu la voiture de ses rêves de Kevin Mitnick, qu'il a aidé à mettre en prison",
+        "titleOriginal": "A man was gifted his dream car by Kevin Mitnick, who he helped put in prison",
+        "url": "https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison",
+        "source": "thedrive.com",
+        "score": 84,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=48633643",
+        "date": "hier"
       },
       {
         "title": "FUTO Swipe – Un nouveau modèle de frappe par balayage",
         "titleOriginal": "FUTO Swipe – A new swipe typing model",
         "url": "https://swipe.futo.tech/",
         "source": "swipe.futo.tech",
-        "score": 197,
-        "comments": 68,
+        "score": 307,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=48648619",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Impression des éclaboussures gaussiennes",
-        "titleOriginal": "Printing Gaussian Splats",
-        "url": "https://www.patreon.com/DanyBittel/posts/printing-splats-161333338",
-        "source": "patreon.com",
-        "score": 132,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48618481",
-        "date": "il y a 2 j"
+        "date": "il y a 8 h"
       }
     ]
   },
