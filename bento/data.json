@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-24T10:18:08.093Z",
+  "updatedAt": "2026-06-24T12:32:29.768Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 38,
+      "temp": 37,
+      "feelsLike": 40,
       "code": 0,
       "wind": 3,
-      "humidity": 43
+      "humidity": 29
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-06-25",
         "code": 3,
-        "tmax": 39,
+        "tmax": 40,
         "tmin": 21
       },
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 5215,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "PRESNEL KIMPEMBE, FOOTBALLEUR : ARGENT, CAMBRIOLAGES, JALOUSIES... LA FACE CACHÉE DU FOOT",
+        "title": "LE JOUR OÙ IL A CRU PERDRE SON ENFANT, QUI NE PESAIT QUE 800 GRAMMES !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Kg3NY-L9vys",
-        "thumbnail": "https://i.ytimg.com/vi/Kg3NY-L9vys/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kg3NY-L9vys",
-        "publishedAt": "2026-06-24T09:00:06+00:00"
+        "videoId": "biJa18k7YQY",
+        "thumbnail": "https://i.ytimg.com/vi/biJa18k7YQY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=biJa18k7YQY",
+        "publishedAt": "2026-06-24T11:00:10+00:00"
       },
       {
         "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
@@ -70,7 +78,7 @@
         "publishedAt": "2026-06-24T08:08:05+00:00"
       },
       {
-        "title": "La maladie lui a tout pris mais ce qu'il lui reste est l'essentiel !",
+        "title": "Neuralink redonne la parole à des malades aux États-Unis pendant que l'Europe réfléchit encore...",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "EqNm0woYRQ4",
@@ -172,40 +180,40 @@
         "titleOriginal": "We're making Bunny DNS free: because a faster internet won't build itself",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "bunny.net",
-        "score": 81,
-        "comments": 25,
+        "score": 312,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48657030",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Rapport technique Krea 2",
+        "titleOriginal": "Krea 2 Technical Report",
+        "url": "https://www.krea.ai/blog/krea-2-technical-report",
+        "source": "krea.ai",
+        "score": 19,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48646659",
+        "date": "il y a 21 h"
+      },
+      {
+        "title": "Show HN : Rendez votre jeu multijoueur en une seule invite",
+        "titleOriginal": "Show HN: Make your game multiplayer in one prompt",
+        "url": "https://antics.gg/",
+        "source": "antics.gg",
+        "score": 4,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48658544",
+        "date": "il y a 19 min"
       },
       {
         "title": "Les rapports de vulnérabilité ne sont plus spéciaux",
         "titleOriginal": "Vulnerability reports are not special anymore",
         "url": "https://words.filippo.io/vuln-reports/",
         "source": "words.filippo.io",
-        "score": 287,
-        "comments": 154,
+        "score": 318,
+        "comments": 174,
         "hnUrl": "https://news.ycombinator.com/item?id=48653216",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Adaptateur Wi-Fi USB Raspberry Pi Pico W",
-        "titleOriginal": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-        "url": "https://gitlab.com/baiyibai/pico-usb-wifi",
-        "source": "gitlab.com",
-        "score": 141,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=48654676",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Jerry's Map",
-        "titleOriginal": "Jerry's Map",
-        "url": "http://www.jerrysmap.com/the-map",
-        "source": "jerrysmap.com",
-        "score": 474,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=48649435",
-        "date": "il y a 15 h"
+        "date": "il y a 12 h"
       }
     ]
   },
