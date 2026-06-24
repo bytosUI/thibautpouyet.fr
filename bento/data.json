@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-24T21:18:54.861Z",
+  "updatedAt": "2026-06-24T22:47:58.363Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 32,
+      "temp": 27,
+      "feelsLike": 30,
       "code": 1,
-      "wind": 7,
-      "humidity": 55
+      "wind": 4,
+      "humidity": 63
     },
     "forecast": [
-      {
-        "date": "2026-06-24",
-        "code": 1,
-        "tmax": 38,
-        "tmin": 20
-      },
       {
         "date": "2026-06-25",
         "code": 3,
@@ -31,8 +25,14 @@
       {
         "date": "2026-06-27",
         "code": 3,
-        "tmax": 40,
-        "tmin": 24
+        "tmax": 41,
+        "tmin": 23
+      },
+      {
+        "date": "2026-06-28",
+        "code": 80,
+        "tmax": 30,
+        "tmin": 22
       }
     ]
   },
@@ -141,15 +141,15 @@
     "recent": [
       {
         "repo": "bytosUI/geekstack",
-        "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 5 h",
-        "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
+        "message": "v3 — home cross-média (ADN univers) + couche rétention",
+        "time": "il y a 47 min",
+        "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
       },
       {
         "repo": "bytosUI/geekstack",
-        "message": "Wrap login useSearchParams in Suspense for static prerender",
-        "time": "il y a 5 h",
-        "url": "https://github.com/bytosUI/geekstack/commit/a72df48197586ad55fc480273f854bc951274ef3"
+        "message": "Fix /login prerender: split into server page + client card",
+        "time": "il y a 6 h",
+        "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
       },
       {
         "repo": "bytosUI/dailywater",
@@ -178,40 +178,40 @@
         "titleOriginal": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "source": "techcrunch.com",
-        "score": 334,
-        "comments": 240,
+        "score": 414,
+        "comments": 276,
         "hnUrl": "https://news.ycombinator.com/item?id=48663324",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Qualcomm va acquérir Modular",
+        "titleOriginal": "Qualcomm to Acquire Modular",
+        "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+        "source": "reuters.com",
+        "score": 86,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48659798",
+        "date": "il y a 8 h"
       },
       {
         "title": "RubyLLM : Un cadre Ruby pour tous les principaux fournisseurs d'IA",
         "titleOriginal": "RubyLLM: A Ruby framework for all major AI providers",
         "url": "https://rubyllm.com/",
         "source": "rubyllm.com",
-        "score": 295,
-        "comments": 46,
+        "score": 323,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=48660711",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Déploiements sans temps mort avec Docker Compose – Aucun Kubernetes requis",
-        "titleOriginal": "Zero-Downtime Deployments with Docker Compose – No Kubernetes Required",
-        "url": "https://statusdude.com/blog/zero-downtime-docker-compose",
-        "source": "statusdude.com",
-        "score": 25,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48665130",
-        "date": "il y a 58 min"
+        "date": "il y a 8 h"
       },
       {
         "title": "Nous rendons Bunny DNS gratuit",
         "titleOriginal": "We’re making Bunny DNS free",
         "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
         "source": "bunny.net",
-        "score": 774,
-        "comments": 248,
+        "score": 813,
+        "comments": 250,
         "hnUrl": "https://news.ycombinator.com/item?id=48657030",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       }
     ]
   },
