@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-24T15:31:10.422Z",
+  "updatedAt": "2026-06-24T17:49:47.283Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 38,
-      "feelsLike": 40,
+      "temp": 37,
+      "feelsLike": 38,
       "code": 0,
-      "wind": 3,
+      "wind": 6,
       "humidity": 27
     },
     "forecast": [
@@ -18,8 +18,8 @@
       },
       {
         "date": "2026-06-25",
-        "code": 2,
-        "tmax": 40,
+        "code": 3,
+        "tmax": 39,
         "tmin": 22
       },
       {
@@ -37,25 +37,10 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Pro Cycling Manager 26",
-        "viewers": 6353,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 226,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -67,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE JOUR OÙ IL A CRU PERDRE SON ENFANT, QUI NE PESAIT QUE 800 GRAMMES !",
+        "title": "IL SAVAIT D’AVANCE QU’IL ALLAIT GAGNER LA COUPE DU MONDE 2018…",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "biJa18k7YQY",
-        "thumbnail": "https://i.ytimg.com/vi/biJa18k7YQY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=biJa18k7YQY",
-        "publishedAt": "2026-06-24T11:00:10+00:00"
+        "videoId": "pcGG3QGsviE",
+        "thumbnail": "https://i.ytimg.com/vi/pcGG3QGsviE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pcGG3QGsviE",
+        "publishedAt": "2026-06-24T16:15:32+00:00"
+      },
+      {
+        "title": "On crée nos pizzas avec le légendaire Peppe et il doit mettre sa préférée à la carte de son resto !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "KozBZ5IuTTk",
+        "thumbnail": "https://i.ytimg.com/vi/KozBZ5IuTTk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KozBZ5IuTTk",
+        "publishedAt": "2026-06-24T15:33:46+00:00"
       },
       {
         "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
@@ -92,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/EqNm0woYRQ4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EqNm0woYRQ4",
         "publishedAt": "2026-06-24T06:30:06+00:00"
-      },
-      {
-        "title": "Carlito maîtrise la ventriloquie et personne n'en parle",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "TqAIJUt4dTQ",
-        "thumbnail": "https://i.ytimg.com/vi/TqAIJUt4dTQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TqAIJUt4dTQ",
-        "publishedAt": "2026-06-23T15:46:08+00:00"
       },
       {
         "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
@@ -155,6 +140,18 @@
   "github": {
     "recent": [
       {
+        "repo": "bytosUI/geekstack",
+        "message": "Fix /login prerender: split into server page + client card",
+        "time": "il y a 1 h",
+        "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
+      },
+      {
+        "repo": "bytosUI/geekstack",
+        "message": "Wrap login useSearchParams in Suspense for static prerender",
+        "time": "il y a 1 h",
+        "url": "https://github.com/bytosUI/geekstack/commit/a72df48197586ad55fc480273f854bc951274ef3"
+      },
+      {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
         "time": "il y a 5 sem",
@@ -171,56 +168,50 @@
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
         "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
-      },
-      {
-        "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Add NBA bento cells: daily results + standings/playoffs",
-        "time": "il y a 7 sem",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/d4bf68b9951e4549c28eddd050f4e5944feedf33"
       }
     ]
   },
   "hackernews": {
     "items": [
       {
-        "title": "Nous rendons Bunny DNS gratuit : parce qu'un Internet plus rapide ne se construira pas tout seul",
-        "titleOriginal": "We're making Bunny DNS free: because a faster internet won't build itself",
-        "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-        "source": "bunny.net",
-        "score": 559,
-        "comments": 188,
-        "hnUrl": "https://news.ycombinator.com/item?id=48657030",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "RubyLLM : Un cadre Ruby unique et magnifique pour tous les principaux fournisseurs d'IA",
-        "titleOriginal": "RubyLLM: A single, beautiful Ruby framework for all major AI providers",
-        "url": "https://rubyllm.com/",
-        "source": "rubyllm.com",
-        "score": 37,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48660711",
-        "date": "il y a 49 min"
-      },
-      {
-        "title": "Show HN : Nub – Une boîte à outils tout-en-un en forme de chignon pour Node.js",
-        "titleOriginal": "Show HN: Nub – A Bun-like all-in-one toolkit for Node.js",
-        "url": "https://github.com/nubjs/nub",
-        "source": "github.com",
-        "score": 32,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48660267",
+        "title": "John Carmack sur les erreurs autour de Quake qui ont ruiné le logiciel id",
+        "titleOriginal": "John Carmack on the mistakes around Quake that ruined id software",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+        "source": "twitter.com",
+        "score": 292,
+        "comments": 133,
+        "hnUrl": "https://news.ycombinator.com/item?id=48661825",
         "date": "il y a 1 h"
       },
       {
-        "title": "Rapport technique Krea 2",
-        "titleOriginal": "Krea 2 Technical Report",
-        "url": "https://www.krea.ai/blog/krea-2-technical-report",
-        "source": "krea.ai",
-        "score": 117,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48646659",
-        "date": "il y a 23 h"
+        "title": "RubyLLM : Un cadre Ruby pour tous les principaux fournisseurs d'IA",
+        "titleOriginal": "RubyLLM: A Ruby framework for all major AI providers",
+        "url": "https://rubyllm.com/",
+        "source": "rubyllm.com",
+        "score": 204,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48660711",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Pour la majeure partie du monde, l'IA open source est la seule voie à suivre",
+        "titleOriginal": "For Most of the World, Open-Source AI Is the Only Way Forward",
+        "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+        "source": "techstrong.ai",
+        "score": 85,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=48660839",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Nous rendons Bunny DNS gratuit",
+        "titleOriginal": "We’re making Bunny DNS free",
+        "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+        "source": "bunny.net",
+        "score": 671,
+        "comments": 214,
+        "hnUrl": "https://news.ycombinator.com/item?id=48657030",
+        "date": "il y a 8 h"
       }
     ]
   },
