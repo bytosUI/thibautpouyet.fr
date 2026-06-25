@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-06-25T00:04:36.981Z",
+  "updatedAt": "2026-06-25T04:42:08.346Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 29,
+      "temp": 21,
+      "feelsLike": 25,
       "code": 0,
-      "wind": 3,
-      "humidity": 71
+      "wind": 1,
+      "humidity": 91
     },
     "forecast": [
       {
         "date": "2026-06-25",
         "code": 3,
         "tmax": 39,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-06-26",
         "code": 3,
-        "tmax": 37,
+        "tmax": 39,
         "tmin": 23
       },
       {
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-06-28",
-        "code": 80,
+        "code": 61,
         "tmax": 30,
         "tmin": 22
       }
@@ -52,15 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL SAVAIT D’AVANCE QU’IL ALLAIT GAGNER LA COUPE DU MONDE 2018…",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "pcGG3QGsviE",
-        "thumbnail": "https://i.ytimg.com/vi/pcGG3QGsviE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pcGG3QGsviE",
-        "publishedAt": "2026-06-24T16:15:32+00:00"
-      },
-      {
         "title": "On crée nos pizzas avec le légendaire Peppe et il doit mettre sa préférée à la carte de son resto !",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -68,69 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/KozBZ5IuTTk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KozBZ5IuTTk",
         "publishedAt": "2026-06-24T15:33:46+00:00"
-      },
-      {
-        "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "y6In6iZxcaM",
-        "thumbnail": "https://i.ytimg.com/vi/y6In6iZxcaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y6In6iZxcaM",
-        "publishedAt": "2026-06-24T08:08:05+00:00"
-      },
-      {
-        "title": "Neuralink redonne la parole à des malades aux États-Unis pendant que l'Europe réfléchit encore...",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "EqNm0woYRQ4",
-        "thumbnail": "https://i.ytimg.com/vi/EqNm0woYRQ4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EqNm0woYRQ4",
-        "publishedAt": "2026-06-24T06:30:06+00:00"
-      },
-      {
-        "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "qioZBpQxNDI",
-        "thumbnail": "https://i.ytimg.com/vi/qioZBpQxNDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qioZBpQxNDI",
-        "publishedAt": "2026-06-22T17:30:01+00:00"
-      },
-      {
-        "title": "ON A RECRUTÉ ce génie et ON À PLAQUÉ la première salle !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f1HqhKuTaAI",
-        "thumbnail": "https://i.ytimg.com/vi/f1HqhKuTaAI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f1HqhKuTaAI",
-        "publishedAt": "2026-06-21T09:22:38+00:00"
-      },
-      {
-        "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "Mbb12ogBrAE",
-        "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
-        "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -142,13 +70,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "v3 — home cross-média (ADN univers) + couche rétention",
-        "time": "il y a 2 h",
+        "time": "il y a 6 h",
         "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 8 h",
+        "time": "il y a 12 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
       },
       {
@@ -178,40 +106,40 @@
         "titleOriginal": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "source": "techcrunch.com",
-        "score": 464,
-        "comments": 298,
+        "score": 615,
+        "comments": 356,
         "hnUrl": "https://news.ycombinator.com/item?id=48663324",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "PostgreSQL™ est suffisant",
-        "titleOriginal": "PostgreSQL Is Enough",
-        "url": "https://gist.github.com/cpursley/c8fb81fe8a7e5df038158bdfe0f06dbb",
-        "source": "gist.github.com",
-        "score": 65,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=48666433",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Qualcomm va acquérir Modular",
-        "titleOriginal": "Qualcomm to Acquire Modular",
-        "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-        "source": "reuters.com",
-        "score": 115,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48659798",
         "date": "il y a 10 h"
       },
       {
-        "title": "RubyLLM : Un cadre Ruby pour tous les principaux fournisseurs d'IA",
-        "titleOriginal": "RubyLLM: A Ruby framework for all major AI providers",
-        "url": "https://rubyllm.com/",
-        "source": "rubyllm.com",
-        "score": 333,
+        "title": "Anthropic affirme qu'Alibaba a extrait illégalement les capacités du modèle Claude AI",
+        "titleOriginal": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "source": "reuters.com",
+        "score": 177,
+        "comments": 337,
+        "hnUrl": "https://news.ycombinator.com/item?id=48664814",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Extensions syntaxiques proposées par LuaJIT 3.0",
+        "titleOriginal": "LuaJIT 3.0 proposed syntax extensions",
+        "url": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "source": "github.com",
+        "score": 95,
         "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=48660711",
-        "date": "il y a 9 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=48667336",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Cloudflare a lancé OAuth autogéré pour tous",
+        "titleOriginal": "Cloudflare launched self-managed OAuth for all",
+        "url": "https://blog.cloudflare.com/oauth-for-all/",
+        "source": "blog.cloudflare.com",
+        "score": 50,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48668033",
+        "date": "il y a 2 h"
       }
     ]
   },
