@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-06-25T16:19:10.047Z",
+  "updatedAt": "2026-06-25T18:31:00.288Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 40,
-      "feelsLike": 38,
-      "code": 1,
-      "wind": 14,
-      "humidity": 18
+      "temp": 36,
+      "feelsLike": 36,
+      "code": 0,
+      "wind": 8,
+      "humidity": 27
     },
     "forecast": [
       {
         "date": "2026-06-25",
         "code": 3,
-        "tmax": 40,
+        "tmax": 39,
         "tmin": 21
       },
       {
         "date": "2026-06-26",
-        "code": 80,
+        "code": 3,
         "tmax": 40,
-        "tmin": 24
+        "tmin": 23
       },
       {
         "date": "2026-06-27",
         "code": 3,
         "tmax": 40,
-        "tmin": 22
+        "tmin": 23
       },
       {
         "date": "2026-06-28",
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "KIMPEMBE A JOUÉ POUR L'ÉQUIPE NATIONALE DU CONGO",
+        "title": "Pourquoi Musk perd la course aux neurochips ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "ilNnu_jXCl8",
+        "thumbnail": "https://i.ytimg.com/vi/ilNnu_jXCl8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ilNnu_jXCl8",
+        "publishedAt": "2026-06-25T18:01:13+00:00"
+      },
+      {
+        "title": "KIMPEMBE A GARDÉ DES RÉFLEXES DE QUAND IL N'AVAIT PAS D'ARGENT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "QGW-9P2EU9s",
-        "thumbnail": "https://i.ytimg.com/vi/QGW-9P2EU9s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QGW-9P2EU9s",
-        "publishedAt": "2026-06-25T16:00:07+00:00"
+        "videoId": "xU6vXAWGWJg",
+        "thumbnail": "https://i.ytimg.com/vi/xU6vXAWGWJg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xU6vXAWGWJg",
+        "publishedAt": "2026-06-25T18:00:36+00:00"
       },
       {
         "title": "Pour les parents de Bill-Murray et tous les autres : le contrôle parental @YouTube c’est très simple",
@@ -86,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/y6In6iZxcaM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=y6In6iZxcaM",
         "publishedAt": "2026-06-24T08:08:05+00:00"
-      },
-      {
-        "title": "Neuralink redonne la parole à des malades aux États-Unis pendant que l'Europe réfléchit encore...",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "EqNm0woYRQ4",
-        "thumbnail": "https://i.ytimg.com/vi/EqNm0woYRQ4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EqNm0woYRQ4",
-        "publishedAt": "2026-06-24T06:30:06+00:00"
       },
       {
         "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
@@ -142,7 +142,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "v3 — home cross-média (ADN univers) + couche rétention",
-        "time": "il y a 18 h",
+        "time": "il y a 20 h",
         "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Show HN : J'ai créé Google Trends for Hacker News en indexant 18 ans de commentaires",
-        "titleOriginal": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-        "url": "https://hackernewstrends.com",
-        "source": "hackernewstrends.com",
-        "score": 217,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=48673671",
+        "title": "Un parchemin d'Herculanum a été lu pour la première fois",
+        "titleOriginal": "A Herculaneum scroll has been read for the first time",
+        "url": "https://scrollprize.org/firstscroll",
+        "source": "scrollprize.org",
+        "score": 222,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48675179",
         "date": "il y a 2 h"
       },
       {
-        "title": "Ford réengage 350 ingénieurs après que l'IA n'ait pas réussi à préserver son expertise ou à former des juniors",
-        "titleOriginal": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-        "source": "bloomberg.com",
-        "score": 267,
-        "comments": 130,
-        "hnUrl": "https://news.ycombinator.com/item?id=48674446",
-        "date": "il y a 1 h"
+        "title": "IBM lance une technologie de puce inférieure à 1 nanomètre",
+        "titleOriginal": "IBM debuts sub-1 nanometer chip technology",
+        "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+        "source": "newsroom.ibm.com",
+        "score": 88,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=48674967",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Vous ne pouvez pas tester le goût à l'unité",
-        "titleOriginal": "You can't unit test for taste",
-        "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
-        "source": "dev.karltryggvason.com",
-        "score": 149,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48657049",
-        "date": "hier"
+        "title": "Visite guidée EN rack 3D D'ORDINATEUR D'O",
+        "titleOriginal": "Oxide computer 3D rack guided tour",
+        "url": "https://explorer.oxide.computer/",
+        "source": "explorer.oxide.computer",
+        "score": 37,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48631450",
+        "date": "il y a 3 j"
       },
       {
-        "title": "Améliorations de la nouvelle sémantique BitCast et du back-end LLVM de Zig",
-        "titleOriginal": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+        "title": "La nouvelle sémantique bitCast de Zig et les améliorations du back-end LLVM",
+        "titleOriginal": "Zig's new bitCast semantics and LLVM back end improvements",
         "url": "https://ziglang.org/devlog/2026/#2026-06-25",
         "source": "ziglang.org",
-        "score": 62,
-        "comments": 14,
+        "score": 142,
+        "comments": 40,
         "hnUrl": "https://news.ycombinator.com/item?id=48673825",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       }
     ]
   },
