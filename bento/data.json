@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-25T18:31:00.288Z",
+  "updatedAt": "2026-06-25T20:52:32.580Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
-      "feelsLike": 36,
+      "temp": 31,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 8,
-      "humidity": 27
+      "wind": 7,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -19,13 +19,13 @@
       {
         "date": "2026-06-26",
         "code": 3,
-        "tmax": 40,
+        "tmax": 39,
         "tmin": 23
       },
       {
         "date": "2026-06-27",
         "code": 3,
-        "tmax": 40,
+        "tmax": 39,
         "tmin": 23
       },
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 105,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,12 +54,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "BOIRE DE L'ALCOOL EST INTERDIT AU PSG ? KIMPEMBE RÉPOND",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "PYrnNtT7nT8",
+        "thumbnail": "https://i.ytimg.com/vi/PYrnNtT7nT8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PYrnNtT7nT8",
+        "publishedAt": "2026-06-25T19:00:02+00:00"
+      },
       {
         "title": "Pourquoi Musk perd la course aux neurochips ?",
         "channel": "Silicon Carne 🌶️",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/ilNnu_jXCl8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ilNnu_jXCl8",
         "publishedAt": "2026-06-25T18:01:13+00:00"
-      },
-      {
-        "title": "KIMPEMBE A GARDÉ DES RÉFLEXES DE QUAND IL N'AVAIT PAS D'ARGENT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "xU6vXAWGWJg",
-        "thumbnail": "https://i.ytimg.com/vi/xU6vXAWGWJg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xU6vXAWGWJg",
-        "publishedAt": "2026-06-25T18:00:36+00:00"
       },
       {
         "title": "Pour les parents de Bill-Murray et tous les autres : le contrôle parental @YouTube c’est très simple",
@@ -142,7 +150,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "v3 — home cross-média (ADN univers) + couche rétention",
-        "time": "il y a 20 h",
+        "time": "il y a 22 h",
         "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
       },
       {
@@ -174,43 +182,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un parchemin d'Herculanum a été lu pour la première fois",
-        "titleOriginal": "A Herculaneum scroll has been read for the first time",
+        "title": "Un parchemin d'Herculanum entier a été lu pour la première fois",
+        "titleOriginal": "An entire Herculaneum scroll has been read for the first time",
         "url": "https://scrollprize.org/firstscroll",
         "source": "scrollprize.org",
-        "score": 222,
-        "comments": 64,
+        "score": 597,
+        "comments": 145,
         "hnUrl": "https://news.ycombinator.com/item?id=48675179",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "IBM lance une technologie de puce inférieure à 1 nanomètre",
-        "titleOriginal": "IBM debuts sub-1 nanometer chip technology",
-        "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
-        "source": "newsroom.ibm.com",
-        "score": 88,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=48674967",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Visite guidée EN rack 3D D'ORDINATEUR D'O",
         "titleOriginal": "Oxide computer 3D rack guided tour",
         "url": "https://explorer.oxide.computer/",
         "source": "explorer.oxide.computer",
-        "score": 37,
-        "comments": 11,
+        "score": 175,
+        "comments": 78,
         "hnUrl": "https://news.ycombinator.com/item?id=48631450",
         "date": "il y a 3 j"
       },
       {
-        "title": "La nouvelle sémantique bitCast de Zig et les améliorations du back-end LLVM",
-        "titleOriginal": "Zig's new bitCast semantics and LLVM back end improvements",
-        "url": "https://ziglang.org/devlog/2026/#2026-06-25",
-        "source": "ziglang.org",
-        "score": 142,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48673825",
+        "title": "IBM lance une technologie de puce inférieure à 1 nanomètre",
+        "titleOriginal": "IBM debuts sub-1 nanometer chip technology",
+        "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+        "source": "newsroom.ibm.com",
+        "score": 190,
+        "comments": 106,
+        "hnUrl": "https://news.ycombinator.com/item?id=48674967",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Show HN : OpenKnowledge – IA open source - première alternative à Obsidian/Notion",
+        "titleOriginal": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "source": "github.com",
+        "score": 81,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48675435",
         "date": "il y a 4 h"
       }
     ]
