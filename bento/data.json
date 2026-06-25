@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-06-25T08:19:25.842Z",
+  "updatedAt": "2026-06-25T11:12:51.077Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 33,
-      "code": 0,
-      "wind": 6,
-      "humidity": 49
+      "temp": 37,
+      "feelsLike": 39,
+      "code": 3,
+      "wind": 13,
+      "humidity": 29
     },
     "forecast": [
       {
         "date": "2026-06-25",
         "code": 3,
-        "tmax": 39,
+        "tmax": 40,
         "tmin": 21
       },
       {
         "date": "2026-06-26",
         "code": 3,
-        "tmax": 38,
+        "tmax": 39,
         "tmin": 23
       },
       {
@@ -30,28 +30,20 @@
       },
       {
         "date": "2026-06-28",
-        "code": 61,
-        "tmax": 30,
+        "code": 80,
+        "tmax": 29,
         "tmin": 22
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 511,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL A UNE PASSION HORS DU COMMUN ET SURTOUT TRÈS DANGEREUSE !",
+        "title": "On a installé une batterie solaire Zendure sur le chantier ! ☀️🔋",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "SvyIJ4rd4DM",
+        "thumbnail": "https://i.ytimg.com/vi/SvyIJ4rd4DM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SvyIJ4rd4DM",
+        "publishedAt": "2026-06-25T10:56:03+00:00"
+      },
+      {
+        "title": "LES SUPERSTITIONS LES PLUS FOLLES DES JOUEURS DE L'ÉQUIPE DE FRANCE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "6czMK3q4dmI",
-        "thumbnail": "https://i.ytimg.com/vi/6czMK3q4dmI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6czMK3q4dmI",
-        "publishedAt": "2026-06-25T07:25:15+00:00"
+        "videoId": "gIdsh12ST3w",
+        "thumbnail": "https://i.ytimg.com/vi/gIdsh12ST3w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gIdsh12ST3w",
+        "publishedAt": "2026-06-25T10:00:33+00:00"
       },
       {
         "title": "On crée nos pizzas avec le légendaire Peppe et il doit mettre sa préférée à la carte de son resto !",
@@ -105,15 +106,6 @@
         "publishedAt": "2026-06-22T17:30:01+00:00"
       },
       {
-        "title": "ON A RECRUTÉ ce génie et ON À PLAQUÉ la première salle !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f1HqhKuTaAI",
-        "thumbnail": "https://i.ytimg.com/vi/f1HqhKuTaAI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f1HqhKuTaAI",
-        "publishedAt": "2026-06-21T09:22:38+00:00"
-      },
-      {
         "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -150,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "v3 — home cross-média (ADN univers) + couche rétention",
-        "time": "il y a 10 h",
+        "time": "il y a 13 h",
         "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 16 h",
+        "time": "il y a 19 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
       },
       {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Édition progressive de l'émulateur Dolphin 2606",
+        "titleOriginal": "Dolphin Emulator Progress Release 2606",
+        "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+        "source": "dolphin-emu.org",
+        "score": 22,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48671392",
+        "date": "il y a 52 min"
+      },
+      {
         "title": "Half-Life 2 dans un navigateur",
         "titleOriginal": "Half-Life 2 in a Browser",
         "url": "https://hl2.slqnt.dev/",
         "source": "hl2.slqnt.dev",
-        "score": 156,
-        "comments": 47,
+        "score": 290,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=48669534",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Les travailleurs de Wikipédia en Grande-Bretagne établissent une première mondiale en recherchant la reconnaissance syndicale",
-        "titleOriginal": "Wikipedia Workers in Britain set global first by seeking union recognition",
-        "url": "https://utaw.tech/news/wikipedia-recognition",
-        "source": "utaw.tech",
-        "score": 28,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48669932",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Anthropic affirme qu'Alibaba a extrait illégalement les capacités du modèle Claude AI",
         "titleOriginal": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
         "source": "reuters.com",
-        "score": 367,
-        "comments": 622,
+        "score": 455,
+        "comments": 789,
         "hnUrl": "https://news.ycombinator.com/item?id=48664814",
-        "date": "il y a 12 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "OpenAI dévoile sa première puce personnalisée, construite par Broadcom",
         "titleOriginal": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "source": "techcrunch.com",
-        "score": 682,
-        "comments": 379,
+        "score": 714,
+        "comments": 402,
         "hnUrl": "https://news.ycombinator.com/item?id=48663324",
-        "date": "il y a 14 h"
+        "date": "il y a 17 h"
       }
     ]
   },
