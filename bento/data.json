@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-25T13:33:39.829Z",
+  "updatedAt": "2026-06-25T16:19:10.047Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 39,
-      "feelsLike": 39,
+      "temp": 40,
+      "feelsLike": 38,
       "code": 1,
       "wind": 14,
-      "humidity": 19
+      "humidity": 18
     },
     "forecast": [
       {
@@ -19,35 +19,27 @@
       {
         "date": "2026-06-26",
         "code": 80,
-        "tmax": 39,
-        "tmin": 23
+        "tmax": 40,
+        "tmin": 24
       },
       {
         "date": "2026-06-27",
         "code": 3,
-        "tmax": 41,
-        "tmin": 23
+        "tmax": 40,
+        "tmin": 22
       },
       {
         "date": "2026-06-28",
-        "code": 80,
+        "code": 95,
         "tmax": 29,
-        "tmin": 22
+        "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Budgie's Bug Shop",
-        "viewers": 5715,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "DES POLICIERS ARRÊTENT KIMPEMBE POUR PRENDRE UNE PHOTO ?",
+        "title": "KIMPEMBE A JOUÉ POUR L'ÉQUIPE NATIONALE DU CONGO",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "49c4Qv2OOdM",
-        "thumbnail": "https://i.ytimg.com/vi/49c4Qv2OOdM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=49c4Qv2OOdM",
-        "publishedAt": "2026-06-25T13:00:10+00:00"
+        "videoId": "QGW-9P2EU9s",
+        "thumbnail": "https://i.ytimg.com/vi/QGW-9P2EU9s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QGW-9P2EU9s",
+        "publishedAt": "2026-06-25T16:00:07+00:00"
+      },
+      {
+        "title": "Pour les parents de Bill-Murray et tous les autres : le contrôle parental @YouTube c’est très simple",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "k3mW845kPBw",
+        "thumbnail": "https://i.ytimg.com/vi/k3mW845kPBw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k3mW845kPBw",
+        "publishedAt": "2026-06-25T15:31:10+00:00"
       },
       {
         "title": "On a installé une batterie solaire Zendure sur le chantier ! ☀️🔋",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SvyIJ4rd4DM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SvyIJ4rd4DM",
         "publishedAt": "2026-06-25T10:56:03+00:00"
-      },
-      {
-        "title": "On crée nos pizzas avec le légendaire Peppe et il doit mettre sa préférée à la carte de son resto !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "KozBZ5IuTTk",
-        "thumbnail": "https://i.ytimg.com/vi/KozBZ5IuTTk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KozBZ5IuTTk",
-        "publishedAt": "2026-06-24T15:33:46+00:00"
       },
       {
         "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
@@ -150,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "v3 — home cross-média (ADN univers) + couche rétention",
-        "time": "il y a 15 h",
+        "time": "il y a 18 h",
         "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 21 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
       },
       {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les pays sont en concurrence pour voir qui peut effectuer la meilleure surveillance de masse",
-        "titleOriginal": "Countries are competing to see which can carry out mass surveillance the best",
-        "url": "https://mullvad.net/en/why-privacy-matters/state-mass-surveillance",
-        "source": "mullvad.net",
-        "score": 71,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48672764",
-        "date": "il y a 26 min"
+        "title": "Show HN : J'ai créé Google Trends for Hacker News en indexant 18 ans de commentaires",
+        "titleOriginal": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+        "url": "https://hackernewstrends.com",
+        "source": "hackernewstrends.com",
+        "score": 217,
+        "comments": 60,
+        "hnUrl": "https://news.ycombinator.com/item?id=48673671",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Ford réengage 350 ingénieurs après que l'IA n'ait pas réussi à préserver son expertise ou à former des juniors",
+        "titleOriginal": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+        "source": "bloomberg.com",
+        "score": 267,
+        "comments": 130,
+        "hnUrl": "https://news.ycombinator.com/item?id=48674446",
+        "date": "il y a 1 h"
       },
       {
         "title": "Vous ne pouvez pas tester le goût à l'unité",
         "titleOriginal": "You can't unit test for taste",
         "url": "https://dev.karltryggvason.com/you-cant-unit-test-for-taste/",
         "source": "dev.karltryggvason.com",
-        "score": 32,
-        "comments": 6,
+        "score": 149,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48657049",
         "date": "hier"
       },
       {
-        "title": "Apple annonce d'importantes augmentations de prix pour les MacBooks, iPads, plus",
-        "titleOriginal": "Apple announces significant price increases for MacBooks, iPads, more",
-        "url": "https://9to5mac.com/2026/06/25/apple-price-increases-mac-ipad-more/",
-        "source": "9to5mac.com",
-        "score": 76,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=48672732",
-        "date": "il y a 30 min"
-      },
-      {
-        "title": "Half-Life 2 dans un navigateur",
-        "titleOriginal": "Half-Life 2 in a Browser",
-        "url": "https://hl2.slqnt.dev/",
-        "source": "hl2.slqnt.dev",
-        "score": 400,
-        "comments": 152,
-        "hnUrl": "https://news.ycombinator.com/item?id=48669534",
-        "date": "il y a 7 h"
+        "title": "Améliorations de la nouvelle sémantique BitCast et du back-end LLVM de Zig",
+        "titleOriginal": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+        "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+        "source": "ziglang.org",
+        "score": 62,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48673825",
+        "date": "il y a 1 h"
       }
     ]
   },
