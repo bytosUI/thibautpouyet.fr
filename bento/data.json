@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-26T02:49:52.152Z",
+  "updatedAt": "2026-06-26T06:50:46.423Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 26,
-      "code": 2,
-      "wind": 3,
-      "humidity": 66
+      "temp": 26,
+      "feelsLike": 27,
+      "code": 1,
+      "wind": 9,
+      "humidity": 62
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-06-27",
-        "code": 80,
-        "tmax": 38,
-        "tmin": 22
+        "code": 3,
+        "tmax": 39,
+        "tmin": 23
       },
       {
         "date": "2026-06-28",
         "code": 80,
-        "tmax": 30,
+        "tmax": 32,
         "tmin": 24
       },
       {
@@ -37,13 +37,21 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 487,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -51,24 +59,6 @@
   },
   "youtube": {
     "videos": [
-      {
-        "title": "BOIRE DE L'ALCOOL EST INTERDIT AU PSG ? KIMPEMBE RÉPOND",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "PYrnNtT7nT8",
-        "thumbnail": "https://i.ytimg.com/vi/PYrnNtT7nT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PYrnNtT7nT8",
-        "publishedAt": "2026-06-25T19:00:02+00:00"
-      },
-      {
-        "title": "Pourquoi Musk perd la course aux neurochips ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "ilNnu_jXCl8",
-        "thumbnail": "https://i.ytimg.com/vi/ilNnu_jXCl8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ilNnu_jXCl8",
-        "publishedAt": "2026-06-25T18:01:13+00:00"
-      },
       {
         "title": "Pour les parents de Bill-Murray et tous les autres : le contrôle parental @YouTube c’est très simple",
         "channel": "Mcfly et Carlito",
@@ -79,33 +69,6 @@
         "publishedAt": "2026-06-25T15:31:10+00:00"
       },
       {
-        "title": "On a installé une batterie solaire Zendure sur le chantier ! ☀️🔋",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "SvyIJ4rd4DM",
-        "thumbnail": "https://i.ytimg.com/vi/SvyIJ4rd4DM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SvyIJ4rd4DM",
-        "publishedAt": "2026-06-25T10:56:03+00:00"
-      },
-      {
-        "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "y6In6iZxcaM",
-        "thumbnail": "https://i.ytimg.com/vi/y6In6iZxcaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y6In6iZxcaM",
-        "publishedAt": "2026-06-24T08:08:05+00:00"
-      },
-      {
-        "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "qioZBpQxNDI",
-        "thumbnail": "https://i.ytimg.com/vi/qioZBpQxNDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qioZBpQxNDI",
-        "publishedAt": "2026-06-22T17:30:01+00:00"
-      },
-      {
         "title": "Ce vieux passage pourrait changer l’accès à la maison #22",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -113,24 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Mbb12ogBrAE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Mbb12ogBrAE",
         "publishedAt": "2026-06-07T15:17:09+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -174,44 +119,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Livres pour enfants AI, édition body horror",
-        "titleOriginal": "AI children's books, body horror edition",
-        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
-        "source": "lcamtuf.substack.com",
-        "score": 73,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48681250",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Om Malik est décédé",
         "titleOriginal": "Om Malik has died",
         "url": "https://om.co/2026/06/24/1966-2026/",
         "source": "om.co",
-        "score": 532,
-        "comments": 54,
+        "score": 774,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=48678852",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Apple va sauter les puces Mac haut de gamme M6 au profit de la ligne M7 axée sur l'IA",
-        "titleOriginal": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-        "source": "bloomberg.com",
-        "score": 89,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=48676795",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Un parchemin d'Herculanum entier a été lu pour la première fois",
         "titleOriginal": "An entire Herculaneum scroll has been read for the first time",
         "url": "https://scrollprize.org/firstscroll",
         "source": "scrollprize.org",
-        "score": 1016,
-        "comments": 227,
+        "score": 1191,
+        "comments": 250,
         "hnUrl": "https://news.ycombinator.com/item?id=48675179",
-        "date": "il y a 11 h"
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Projet Code-barres Libre",
+        "titleOriginal": "Libre Barcode Project",
+        "url": "https://graphicore.github.io/librebarcode/",
+        "source": "graphicore.github.io",
+        "score": 85,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48681949",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Le module Ethernet 10G de Framework expose la complexité de l'USB-C",
+        "titleOriginal": "Framework's 10G Ethernet module exposes USB-C's complexity",
+        "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+        "source": "jeffgeerling.com",
+        "score": 129,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48681220",
+        "date": "il y a 5 h"
       }
     ]
   },
