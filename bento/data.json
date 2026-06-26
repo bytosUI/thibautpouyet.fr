@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-25T23:50:48.294Z",
+  "updatedAt": "2026-06-26T02:49:52.152Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 27,
-      "code": 3,
-      "wind": 7,
-      "humidity": 51
+      "temp": 24,
+      "feelsLike": 26,
+      "code": 2,
+      "wind": 3,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-06-27",
-        "code": 3,
-        "tmax": 39,
-        "tmin": 23
+        "code": 80,
+        "tmax": 38,
+        "tmin": 22
       },
       {
         "date": "2026-06-28",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Livres pour enfants AI, édition body horror",
+        "titleOriginal": "AI children's books, body horror edition",
+        "url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+        "source": "lcamtuf.substack.com",
+        "score": 73,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48681250",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Om Malik est décédé",
+        "titleOriginal": "Om Malik has died",
+        "url": "https://om.co/2026/06/24/1966-2026/",
+        "source": "om.co",
+        "score": 532,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48678852",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Apple va sauter les puces Mac haut de gamme M6 au profit de la ligne M7 axée sur l'IA",
+        "titleOriginal": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+        "source": "bloomberg.com",
+        "score": 89,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=48676795",
+        "date": "il y a 9 h"
+      },
+      {
         "title": "Un parchemin d'Herculanum entier a été lu pour la première fois",
         "titleOriginal": "An entire Herculaneum scroll has been read for the first time",
         "url": "https://scrollprize.org/firstscroll",
         "source": "scrollprize.org",
-        "score": 870,
-        "comments": 198,
+        "score": 1016,
+        "comments": 227,
         "hnUrl": "https://news.ycombinator.com/item?id=48675179",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "L'ère des « papiers, s'il vous plaît » d'Internet va décimer votre vie privée",
-        "titleOriginal": "The 'papers, please' era of the internet will decimate your privacy",
-        "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
-        "source": "expression.fire.org",
-        "score": 246,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=48679608",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Un-0 : Génération d'images avec des oscillateurs couplés",
-        "titleOriginal": "Un-0: Generating Images with Coupled Oscillators",
-        "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
-        "source": "unconv.ai",
-        "score": 85,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48679007",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Visite guidée EN rack 3D D'ORDINATEUR D'O",
-        "titleOriginal": "Oxide computer 3D rack guided tour",
-        "url": "https://explorer.oxide.computer/",
-        "source": "explorer.oxide.computer",
-        "score": 270,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=48631450",
-        "date": "il y a 3 j"
+        "date": "il y a 11 h"
       }
     ]
   },
