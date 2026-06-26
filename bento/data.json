@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-26T12:30:28.799Z",
+  "updatedAt": "2026-06-26T15:21:04.827Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
-      "feelsLike": 40,
-      "code": 1,
-      "wind": 7,
-      "humidity": 27
+      "temp": 39,
+      "feelsLike": 38,
+      "code": 0,
+      "wind": 11,
+      "humidity": 20
     },
     "forecast": [
       {
@@ -39,18 +39,10 @@
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Just Chatting",
-        "viewers": 1097,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      },
-      {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 0,
+        "game": "Pro Cycling Manager 26",
+        "viewers": 5901,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,6 +52,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -67,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA PIRE QUESTION COQUINE... QUAND THIERRY LHERMITTE A DIT QU'IL L'A FAIT AVEC UNE CHÈVRE",
+        "title": "JEAN-LUC REICHMANN : IL ÉTAIT LA VOIX DES GUIGNOLS !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "_SK7sJnR3gk",
-        "thumbnail": "https://i.ytimg.com/vi/_SK7sJnR3gk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_SK7sJnR3gk",
-        "publishedAt": "2026-06-26T09:58:22+00:00"
+        "videoId": "wHySPT7NFs8",
+        "thumbnail": "https://i.ytimg.com/vi/wHySPT7NFs8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wHySPT7NFs8",
+        "publishedAt": "2026-06-26T15:00:13+00:00"
       },
       {
         "title": "Pourquoi Musk perd la course aux neurochips ?",
@@ -189,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Captcha prouve que vous êtes humain. HATCHA prouve que vous n'êtes pas",
-        "titleOriginal": "Captcha proves you're human. HATCHA proves you're not",
-        "url": "https://github.com/mondaycom/HATCHA",
-        "source": "github.com",
-        "score": 31,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=48685677",
-        "date": "il y a 24 min"
+        "title": "Pourquoi les articles de l'un des physiciens les plus célèbres de l'histoire ont-ils été rétractés ?",
+        "titleOriginal": "Why have papers by one of history's most famous physicists been retracted?",
+        "url": "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+        "source": "science.org",
+        "score": 109,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48686834",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Nous dépendons tous de l'open source. Nous le défendrons ensemble",
-        "titleOriginal": "We All Depend on Open Source. We Will Defend It Together",
-        "url": "https://akrites.org/letter/",
-        "source": "akrites.org",
-        "score": 256,
-        "comments": 124,
-        "hnUrl": "https://news.ycombinator.com/item?id=48682737",
-        "date": "il y a 6 h"
+        "title": "Incident CVE-2026-LGTM",
+        "titleOriginal": "Incident CVE-2026-LGTM",
+        "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+        "source": "nesbitt.io",
+        "score": 180,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48686093",
+        "date": "il y a 2 h"
       },
       {
         "title": "Om Malik est décédé",
         "titleOriginal": "Om Malik has died",
         "url": "https://om.co/2026/06/24/1966-2026/",
         "source": "om.co",
-        "score": 971,
-        "comments": 118,
+        "score": 1119,
+        "comments": 131,
         "hnUrl": "https://news.ycombinator.com/item?id=48678852",
-        "date": "il y a 15 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Un parchemin d'Herculanum entier a été lu pour la première fois",
-        "titleOriginal": "An entire Herculaneum scroll has been read for the first time",
-        "url": "https://scrollprize.org/firstscroll",
-        "source": "scrollprize.org",
-        "score": 1371,
-        "comments": 288,
-        "hnUrl": "https://news.ycombinator.com/item?id=48675179",
-        "date": "il y a 20 h"
+        "title": "Imagerie échographique du cerveau",
+        "titleOriginal": "Ultrasound Imaging of the Brain",
+        "url": "https://alephneuro.com/blog/ultrasound-brain",
+        "source": "alephneuro.com",
+        "score": 50,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48685558",
+        "date": "il y a 3 h"
       }
     ]
   },
