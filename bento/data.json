@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-26T10:19:22.341Z",
+  "updatedAt": "2026-06-26T12:30:28.799Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 37,
+      "temp": 37,
+      "feelsLike": 40,
       "code": 1,
-      "wind": 9,
-      "humidity": 43
+      "wind": 7,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-06-27",
         "code": 3,
-        "tmax": 39,
-        "tmin": 22
+        "tmax": 40,
+        "tmin": 23
       },
       {
         "date": "2026-06-28",
@@ -39,20 +39,27 @@
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
         "game": "Just Chatting",
-        "viewers": 451,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "viewers": 1097,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      },
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -182,44 +189,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Captcha prouve que vous êtes humain. HATCHA prouve que vous n'êtes pas",
+        "titleOriginal": "Captcha proves you're human. HATCHA proves you're not",
+        "url": "https://github.com/mondaycom/HATCHA",
+        "source": "github.com",
+        "score": 31,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=48685677",
+        "date": "il y a 24 min"
+      },
+      {
         "title": "Nous dépendons tous de l'open source. Nous le défendrons ensemble",
         "titleOriginal": "We All Depend on Open Source. We Will Defend It Together",
         "url": "https://akrites.org/letter/",
         "source": "akrites.org",
-        "score": 128,
-        "comments": 53,
+        "score": 256,
+        "comments": 124,
         "hnUrl": "https://news.ycombinator.com/item?id=48682737",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Om Malik est décédé",
         "titleOriginal": "Om Malik has died",
         "url": "https://om.co/2026/06/24/1966-2026/",
         "source": "om.co",
-        "score": 911,
-        "comments": 105,
+        "score": 971,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=48678852",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Un parchemin d'Herculanum entier a été lu pour la première fois",
         "titleOriginal": "An entire Herculaneum scroll has been read for the first time",
         "url": "https://scrollprize.org/firstscroll",
         "source": "scrollprize.org",
-        "score": 1309,
-        "comments": 276,
+        "score": 1371,
+        "comments": 288,
         "hnUrl": "https://news.ycombinator.com/item?id=48675179",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "Projet Code-barres Libre",
-        "titleOriginal": "Libre Barcode Project",
-        "url": "https://graphicore.github.io/librebarcode/",
-        "source": "graphicore.github.io",
-        "score": 155,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=48681949",
-        "date": "il y a 7 h"
+        "date": "il y a 20 h"
       }
     ]
   },
