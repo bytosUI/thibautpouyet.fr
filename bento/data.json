@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-26T22:42:50.123Z",
+  "updatedAt": "2026-06-27T00:00:27.359Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 31,
+      "temp": 26,
+      "feelsLike": 29,
       "code": 0,
-      "wind": 7,
-      "humidity": 64
+      "wind": 8,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 125,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,29 +178,29 @@
         "titleOriginal": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "source": "openai.com",
-        "score": 711,
-        "comments": 435,
+        "score": 771,
+        "comments": 475,
         "hnUrl": "https://news.ycombinator.com/item?id=48689028",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "L'écart entre les LLM à poids ouverts et les LLM à source fermée",
-        "titleOriginal": "The gap between open weights LLMs and closed source LLMs",
-        "url": "https://blog.doubleword.ai/frontier-os-llm",
-        "source": "blog.doubleword.ai",
-        "score": 58,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=48692058",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Une implémentation C++ d'une carte de hachage rapide et d'un ensemble de hachage utilisant le hachage hopscotch",
         "titleOriginal": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
         "url": "https://github.com/Tessil/hopscotch-map",
         "source": "github.com",
-        "score": 29,
-        "comments": 1,
+        "score": 47,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=48692090",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les États-Unis autorisent Anthropic à divulguer Mythos à des « partenaires de confiance »",
+        "titleOriginal": "US allows Anthropic to release Mythos to 'trusted partners'",
+        "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
+        "source": "reuters.com",
+        "score": 101,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=48692995",
         "date": "il y a 1 h"
       },
       {
@@ -216,10 +208,10 @@
         "titleOriginal": "U.S. government will decide who gets to use GPT-5.6",
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "source": "washingtonpost.com",
-        "score": 635,
-        "comments": 796,
+        "score": 744,
+        "comments": 860,
         "hnUrl": "https://news.ycombinator.com/item?id=48690101",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
