@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-27T21:58:49.753Z",
+  "updatedAt": "2026-06-27T23:06:59.219Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 33,
+      "temp": 24,
+      "feelsLike": 25,
       "code": 3,
-      "wind": 7,
-      "humidity": 58
+      "wind": 18,
+      "humidity": 73
     },
     "forecast": [
       {
-        "date": "2026-06-27",
-        "code": 3,
-        "tmax": 40,
-        "tmin": 23
-      },
-      {
         "date": "2026-06-28",
-        "code": 95,
-        "tmax": 32,
-        "tmin": 23
+        "code": 61,
+        "tmax": 33,
+        "tmin": 22
       },
       {
         "date": "2026-06-29",
-        "code": 80,
+        "code": 95,
         "tmax": 28,
         "tmin": 19
       },
       {
         "date": "2026-06-30",
         "code": 3,
-        "tmax": 28,
+        "tmax": 30,
         "tmin": 19
+      },
+      {
+        "date": "2026-07-01",
+        "code": 3,
+        "tmax": 27,
+        "tmin": 18
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 126,
+        "viewers": 119,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 14 min",
+        "time": "il y a 1 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 21 min",
+        "time": "il y a 1 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "IP Crawl: Living atlas of open webcams discovered on the public internet",
         "url": "https://ipcrawl.com/",
         "source": "ipcrawl.com",
-        "score": 126,
-        "comments": 65,
+        "score": 176,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=48700834",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Compte GitHub anonyme abandonnant en masse des 0 jours non divulgués",
         "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
         "url": "https://github.com/bikini/exploitarium",
         "source": "github.com",
-        "score": 548,
-        "comments": 223,
+        "score": 595,
+        "comments": 233,
         "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Show HN : Adrafinil – gardez un Mac à couvercle fermé éveillé uniquement pendant que les agents travaillent",
-        "titleOriginal": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "url": "https://github.com/kageroumado/adrafinil",
-        "source": "github.com",
-        "score": 33,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48701512",
-        "date": "il y a 1 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 499,
-        "comments": 90,
+        "score": 526,
+        "comments": 98,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Show HN : Adrafinil – gardez un Mac à couvercle fermé éveillé uniquement pendant que les agents travaillent",
+        "titleOriginal": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+        "url": "https://github.com/kageroumado/adrafinil",
+        "source": "github.com",
+        "score": 54,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48701512",
+        "date": "il y a 2 h"
       }
     ]
   },
