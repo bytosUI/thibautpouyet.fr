@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-27T14:58:47.524Z",
+  "updatedAt": "2026-06-27T16:08:18.372Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 40,
       "feelsLike": 39,
-      "code": 2,
-      "wind": 16,
+      "code": 1,
+      "wind": 15,
       "humidity": 20
     },
     "forecast": [
@@ -25,14 +25,14 @@
       {
         "date": "2026-06-29",
         "code": 80,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 18
       },
       {
         "date": "2026-06-30",
         "code": 61,
-        "tmax": 29,
-        "tmin": 18
+        "tmax": 28,
+        "tmin": 19
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "UN MORT LUI AVOUE QU'IL AVAIT UNE DOUBLE VIE... SA FAMILLE L'APPREND EN DIRECT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "wjQC6WiTf8s",
+        "thumbnail": "https://i.ytimg.com/vi/wjQC6WiTf8s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wjQC6WiTf8s",
+        "publishedAt": "2026-06-27T15:00:28+00:00"
+      },
+      {
         "title": "Ma fille va adorer 😁",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Rr8F-b95n2Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Rr8F-b95n2Q",
         "publishedAt": "2026-06-27T12:44:33+00:00"
-      },
-      {
-        "title": "ANTOINE DE MAXIMY A DORMI CHEZ DES MILLIERS D'INCONNUS ET UNE SEULE FOIS, ÇA A FINI SOUS LES DRAPS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "yGyB7F-UXx0",
-        "thumbnail": "https://i.ytimg.com/vi/yGyB7F-UXx0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yGyB7F-UXx0",
-        "publishedAt": "2026-06-27T07:00:34+00:00"
       },
       {
         "title": "Mythos et Fable : La vérité cachée derrière le mensonge officiel !",
@@ -148,7 +148,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "source": "github.com",
-        "score": 559,
-        "comments": 218,
+        "score": 605,
+        "comments": 229,
         "hnUrl": "https://news.ycombinator.com/item?id=48696585",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 159,
-        "comments": 43,
+        "score": 228,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Incident de bowling sous les bras de 1981",
+        "titleOriginal": "Underarm Bowling Incident of 1981",
+        "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
+        "source": "en.wikipedia.org",
+        "score": 73,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=48650794",
+        "date": "il y a 3 j"
       },
       {
         "title": "Manuel d'ingénierie Fintech",
         "titleOriginal": "Fintech Engineering Handbook",
         "url": "https://w.pitula.me/fintech-engineering-handbook/",
         "source": "w.pitula.me",
-        "score": 231,
-        "comments": 76,
+        "score": 275,
+        "comments": 99,
         "hnUrl": "https://news.ycombinator.com/item?id=48696982",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Cybersécurité post-Mythos : restez calme et continuez",
-        "titleOriginal": "Post-Mythos Cybersecurity: Keep calm and carry on",
-        "url": "https://cephalosec.com/blog/cybersecurity-in-the-post-mythos-era-keep-calm-and-carry-on/",
-        "source": "cephalosec.com",
-        "score": 14,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48698559",
-        "date": "il y a 35 min"
+        "date": "il y a 5 h"
       }
     ]
   },
