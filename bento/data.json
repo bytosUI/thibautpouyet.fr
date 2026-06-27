@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T17:35:52.606Z",
+  "updatedAt": "2026-06-27T19:12:49.199Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 38,
-      "feelsLike": 38,
+      "temp": 36,
+      "feelsLike": 37,
       "code": 1,
-      "wind": 15,
-      "humidity": 29
+      "wind": 11,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 19,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,40 +186,40 @@
         "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
         "url": "https://github.com/bikini/exploitarium",
         "source": "github.com",
-        "score": 236,
-        "comments": 94,
+        "score": 381,
+        "comments": 156,
         "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 308,
-        "comments": 66,
+        "score": 398,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "L'IA conçoit des puces radio que les humains ne pourraient même pas imaginer",
+        "titleOriginal": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "source": "spectrum.ieee.org",
+        "score": 76,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48660021",
+        "date": "il y a 3 j"
       },
       {
         "title": "DSpark : Le décodage spéculatif accélère l'inférence LLM [pdf]",
         "titleOriginal": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "source": "github.com",
-        "score": 645,
-        "comments": 240,
+        "score": 670,
+        "comments": 267,
         "hnUrl": "https://news.ycombinator.com/item?id=48696585",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Manuel d'ingénierie Fintech",
-        "titleOriginal": "Fintech Engineering Handbook",
-        "url": "https://w.pitula.me/fintech-engineering-handbook/",
-        "source": "w.pitula.me",
-        "score": 324,
-        "comments": 108,
-        "hnUrl": "https://news.ycombinator.com/item?id=48696982",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       }
     ]
   },
