@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T19:12:49.199Z",
+  "updatedAt": "2026-06-27T20:36:27.298Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
-      "feelsLike": 37,
-      "code": 1,
-      "wind": 11,
-      "humidity": 31
+      "temp": 32,
+      "feelsLike": 35,
+      "code": 3,
+      "wind": 7,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 19,
+        "viewers": 109,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -149,15 +149,15 @@
     "recent": [
       {
         "repo": "bytosUI/geekstack",
-        "message": "v3 — home cross-média (ADN univers) + couche rétention",
-        "time": "il y a 2 j",
-        "url": "https://github.com/bytosUI/geekstack/commit/c0ca56b0a70b061c3ed7b1fab2821bdd9cc7bc66"
+        "message": "Promotion de /v3 comme home racine ; suppression de /profile et /v3",
+        "time": "il y a 1 min",
+        "url": "https://github.com/bytosUI/geekstack/commit/5fca4d8db75dbd53569cb2d5540edc8307f0700e"
       },
       {
         "repo": "bytosUI/geekstack",
-        "message": "Fix /login prerender: split into server page + client card",
-        "time": "il y a 3 j",
-        "url": "https://github.com/bytosUI/geekstack/commit/b0163c0487815fcc76f4f0613d453eecc7ee3d99"
+        "message": "Traits identitaires — marqueurs descriptifs dans la persona /v3",
+        "time": "il y a 7 min",
+        "url": "https://github.com/bytosUI/geekstack/commit/57642044bea57b87e78c7345d606ea7e835c623e"
       },
       {
         "repo": "bytosUI/dailywater",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "IP Crawl : Atlas vivant des webcams ouvertes découvertes sur l'internet public",
+        "titleOriginal": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+        "url": "https://ipcrawl.com/",
+        "source": "ipcrawl.com",
+        "score": 47,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48700834",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Compte GitHub anonyme abandonnant en masse des 0 jours non divulgués",
         "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
         "url": "https://github.com/bikini/exploitarium",
         "source": "github.com",
-        "score": 381,
-        "comments": 156,
+        "score": 487,
+        "comments": 188,
         "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 398,
-        "comments": 76,
+        "score": 454,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "L'IA conçoit des puces radio que les humains ne pourraient même pas imaginer",
-        "titleOriginal": "AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
+        "title": "L'IA apprend l '« art obscur » de la conception RFIC",
+        "titleOriginal": "AI learns the “dark art” of RFIC design",
         "url": "https://spectrum.ieee.org/ai-radio-chip-design",
         "source": "spectrum.ieee.org",
-        "score": 76,
-        "comments": 32,
+        "score": 127,
+        "comments": 72,
         "hnUrl": "https://news.ycombinator.com/item?id=48660021",
         "date": "il y a 3 j"
-      },
-      {
-        "title": "DSpark : Le décodage spéculatif accélère l'inférence LLM [pdf]",
-        "titleOriginal": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-        "source": "github.com",
-        "score": 670,
-        "comments": 267,
-        "hnUrl": "https://news.ycombinator.com/item?id=48696585",
-        "date": "il y a 9 h"
       }
     ]
   },
