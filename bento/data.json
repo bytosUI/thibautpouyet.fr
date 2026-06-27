@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-06-27T00:00:27.359Z",
+  "updatedAt": "2026-06-27T04:31:43.729Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 29,
-      "code": 0,
-      "wind": 8,
-      "humidity": 70
+      "temp": 23,
+      "feelsLike": 27,
+      "code": 1,
+      "wind": 3,
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-06-27",
         "code": 3,
-        "tmax": 41,
+        "tmax": 40,
         "tmin": 23
       },
       {
         "date": "2026-06-28",
-        "code": 95,
-        "tmax": 32,
-        "tmin": 24
+        "code": 96,
+        "tmax": 33,
+        "tmin": 23
       },
       {
         "date": "2026-06-29",
         "code": 80,
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 18
       },
       {
         "date": "2026-06-30",
-        "code": 61,
-        "tmax": 29,
+        "code": 3,
+        "tmax": 27,
         "tmin": 18
       }
     ]
@@ -178,40 +178,40 @@
         "titleOriginal": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "source": "openai.com",
-        "score": 771,
-        "comments": 475,
+        "score": 900,
+        "comments": 545,
         "hnUrl": "https://news.ycombinator.com/item?id=48689028",
-        "date": "il y a 6 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Une implémentation C++ d'une carte de hachage rapide et d'un ensemble de hachage utilisant le hachage hopscotch",
-        "titleOriginal": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-        "url": "https://github.com/Tessil/hopscotch-map",
-        "source": "github.com",
-        "score": 47,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48692090",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Les États-Unis autorisent Anthropic à divulguer Mythos à des « partenaires de confiance »",
-        "titleOriginal": "US allows Anthropic to release Mythos to 'trusted partners'",
-        "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26/",
-        "source": "reuters.com",
-        "score": 101,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=48692995",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Le gouvernement américain décidera qui peut utiliser GPT-5.6",
-        "titleOriginal": "U.S. government will decide who gets to use GPT-5.6",
-        "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-        "source": "washingtonpost.com",
-        "score": 744,
-        "comments": 860,
-        "hnUrl": "https://news.ycombinator.com/item?id=48690101",
+        "title": "Pourquoi l'énergie cinétique augmente-t-elle quadratiquement, et non linéairement, avec la vitesse ? (2011)",
+        "titleOriginal": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
+        "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "source": "physics.stackexchange.com",
+        "score": 147,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48692946",
         "date": "il y a 5 h"
+      },
+      {
+        "title": "Les États-Unis permettent à Anthropic de diffuser Mythos AI à des organisations américaines « de confiance »",
+        "titleOriginal": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+        "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "source": "semafor.com",
+        "score": 302,
+        "comments": 304,
+        "hnUrl": "https://news.ycombinator.com/item?id=48692995",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Compression de dégonflage Hellishly Slow Level 13",
+        "titleOriginal": "Hellishly Slow Level 13 Deflate Compression",
+        "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+        "source": "kirill.korins.ky",
+        "score": 18,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48633839",
+        "date": "il y a 4 j"
       }
     ]
   },
