@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T16:08:18.372Z",
+  "updatedAt": "2026-06-27T17:35:52.606Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 40,
-      "feelsLike": 39,
+      "temp": 38,
+      "feelsLike": 38,
       "code": 1,
       "wind": 15,
-      "humidity": 20
+      "humidity": 29
     },
     "forecast": [
       {
@@ -19,18 +19,18 @@
       {
         "date": "2026-06-28",
         "code": 80,
-        "tmax": 32,
-        "tmin": 23
+        "tmax": 31,
+        "tmin": 24
       },
       {
         "date": "2026-06-29",
-        "code": 80,
+        "code": 61,
         "tmax": 28,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-06-30",
-        "code": 61,
+        "code": 3,
         "tmax": 28,
         "tmin": 19
       }
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Le top Disney de l'équipe",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "OJhQdeh6kW4",
+        "thumbnail": "https://i.ytimg.com/vi/OJhQdeh6kW4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OJhQdeh6kW4",
+        "publishedAt": "2026-06-27T16:10:08+00:00"
+      },
       {
         "title": "UN MORT LUI AVOUE QU'IL AVAIT UNE DOUBLE VIE... SA FAMILLE L'APPREND EN DIRECT",
         "channel": "LEGEND",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/mRaDZcWnJJI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mRaDZcWnJJI",
         "publishedAt": "2026-06-27T06:30:17+00:00"
-      },
-      {
-        "title": "Discussion autour du deuil, histoires, conseils et beaucoup d’amour",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "rDjBlHWBF_s",
-        "thumbnail": "https://i.ytimg.com/vi/rDjBlHWBF_s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rDjBlHWBF_s",
-        "publishedAt": "2026-06-26T16:11:56+00:00"
       },
       {
         "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "DSpark : Le décodage spéculatif accélère l'inférence LLM [pdf]",
-        "titleOriginal": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "title": "Compte GitHub anonyme abandonnant en masse des 0 jours non divulgués",
+        "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+        "url": "https://github.com/bikini/exploitarium",
         "source": "github.com",
-        "score": 605,
-        "comments": 229,
-        "hnUrl": "https://news.ycombinator.com/item?id=48696585",
-        "date": "il y a 6 h"
+        "score": 236,
+        "comments": 94,
+        "hnUrl": "https://news.ycombinator.com/item?id=48698617",
+        "date": "il y a 3 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 228,
-        "comments": 54,
+        "score": 308,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Incident de bowling sous les bras de 1981",
-        "titleOriginal": "Underarm Bowling Incident of 1981",
-        "url": "https://en.wikipedia.org/wiki/Underarm_bowling_incident_of_1981",
-        "source": "en.wikipedia.org",
-        "score": 73,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48650794",
-        "date": "il y a 3 j"
+        "title": "DSpark : Le décodage spéculatif accélère l'inférence LLM [pdf]",
+        "titleOriginal": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "source": "github.com",
+        "score": 645,
+        "comments": 240,
+        "hnUrl": "https://news.ycombinator.com/item?id=48696585",
+        "date": "il y a 8 h"
       },
       {
         "title": "Manuel d'ingénierie Fintech",
         "titleOriginal": "Fintech Engineering Handbook",
         "url": "https://w.pitula.me/fintech-engineering-handbook/",
         "source": "w.pitula.me",
-        "score": 275,
-        "comments": 99,
+        "score": 324,
+        "comments": 108,
         "hnUrl": "https://news.ycombinator.com/item?id=48696982",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       }
     ]
   },
