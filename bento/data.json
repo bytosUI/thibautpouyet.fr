@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T10:00:22.524Z",
+  "updatedAt": "2026-06-27T11:51:09.571Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
-      "feelsLike": 37,
-      "code": 0,
-      "wind": 9,
-      "humidity": 33
+      "temp": 39,
+      "feelsLike": 41,
+      "code": 2,
+      "wind": 13,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -19,18 +19,18 @@
       {
         "date": "2026-06-28",
         "code": 80,
-        "tmax": 32,
-        "tmin": 25
+        "tmax": 33,
+        "tmin": 24
       },
       {
         "date": "2026-06-29",
-        "code": 3,
+        "code": 61,
         "tmax": 27,
         "tmin": 18
       },
       {
         "date": "2026-06-30",
-        "code": 3,
+        "code": 61,
         "tmax": 29,
         "tmin": 18
       }
@@ -178,38 +178,38 @@
         "titleOriginal": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "source": "github.com",
-        "score": 68,
-        "comments": 0,
+        "score": 337,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=48696585",
-        "date": "il y a 41 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Manuel d'ingénierie Fintech",
+        "titleOriginal": "Fintech Engineering Handbook",
+        "url": "https://w.pitula.me/fintech-engineering-handbook/",
+        "source": "w.pitula.me",
+        "score": 66,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48696982",
+        "date": "il y a 1 h"
       },
       {
         "title": "Aperçu de GPT‑5.6 sol : un modèle de nouvelle génération",
         "titleOriginal": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "source": "openai.com",
-        "score": 1005,
-        "comments": 627,
+        "score": 1028,
+        "comments": 645,
         "hnUrl": "https://news.ycombinator.com/item?id=48689028",
-        "date": "il y a 16 h"
-      },
-      {
-        "title": "Linux sur du matériel plus ancien : le guide complet de la renaissance",
-        "titleOriginal": "Linux on Older Hardware: The Complete Revival Guide",
-        "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
-        "source": "fosslinux.com",
-        "score": 46,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48668747",
-        "date": "il y a 2 j"
+        "date": "il y a 18 h"
       },
       {
         "title": "L'ère de la radio à ondes longues se terminera par la mise hors tension",
         "titleOriginal": "Long Wave radio era set to end with switch-off",
         "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
         "source": "economist.com",
-        "score": 28,
-        "comments": 46,
+        "score": 55,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=48677564",
         "date": "hier"
       }
