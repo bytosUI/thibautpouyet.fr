@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T11:51:09.571Z",
+  "updatedAt": "2026-06-27T13:21:36.198Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 39,
-      "feelsLike": 41,
+      "temp": 40,
+      "feelsLike": 40,
       "code": 2,
       "wind": 13,
-      "humidity": 26
+      "humidity": 21
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Ma fille va adorer 😁",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "Rr8F-b95n2Q",
+        "thumbnail": "https://i.ytimg.com/vi/Rr8F-b95n2Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rr8F-b95n2Q",
+        "publishedAt": "2026-06-27T12:44:33+00:00"
+      },
+      {
         "title": "ANTOINE DE MAXIMY A DORMI CHEZ DES MILLIERS D'INCONNUS ET UNE SEULE FOIS, ÇA A FINI SOUS LES DRAPS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/rDjBlHWBF_s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rDjBlHWBF_s",
         "publishedAt": "2026-06-26T16:11:56+00:00"
-      },
-      {
-        "title": "On a installé une batterie solaire Zendure sur le chantier ! ☀️🔋",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "SvyIJ4rd4DM",
-        "thumbnail": "https://i.ytimg.com/vi/SvyIJ4rd4DM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SvyIJ4rd4DM",
-        "publishedAt": "2026-06-25T10:56:03+00:00"
       },
       {
         "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Optimisations d'inférence DeepSeek open source avec une génération 60–85% plus rapide [pdf]",
-        "titleOriginal": "DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+        "title": "DSpark : Le décodage spéculatif accélère l'inférence LLM [pdf]",
+        "titleOriginal": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "source": "github.com",
-        "score": 337,
-        "comments": 85,
+        "score": 485,
+        "comments": 168,
         "hnUrl": "https://news.ycombinator.com/item?id=48696585",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Manuel d'ingénierie Fintech",
         "titleOriginal": "Fintech Engineering Handbook",
         "url": "https://w.pitula.me/fintech-engineering-handbook/",
         "source": "w.pitula.me",
-        "score": 66,
-        "comments": 16,
+        "score": 146,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=48696982",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "OpenRA",
+        "titleOriginal": "OpenRA",
+        "url": "https://www.openra.net/",
+        "source": "openra.net",
+        "score": 41,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48697560",
         "date": "il y a 1 h"
       },
       {
-        "title": "Aperçu de GPT‑5.6 sol : un modèle de nouvelle génération",
-        "titleOriginal": "Previewing GPT‑5.6 Sol: a next-generation model",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-        "source": "openai.com",
-        "score": 1028,
-        "comments": 645,
-        "hnUrl": "https://news.ycombinator.com/item?id=48689028",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "L'ère de la radio à ondes longues se terminera par la mise hors tension",
-        "titleOriginal": "Long Wave radio era set to end with switch-off",
-        "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
-        "source": "economist.com",
-        "score": 55,
-        "comments": 66,
-        "hnUrl": "https://news.ycombinator.com/item?id=48677564",
-        "date": "hier"
+        "title": "Si vous ne pouvez pas le tenir, vous ne le possédez pas",
+        "titleOriginal": "If you can't hold it, you don't own it",
+        "url": "https://dervis.de/physical/",
+        "source": "dervis.de",
+        "score": 48,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48697335",
+        "date": "il y a 1 h"
       }
     ]
   },
