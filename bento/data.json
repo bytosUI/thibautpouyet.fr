@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-27T20:36:27.298Z",
+  "updatedAt": "2026-06-27T21:58:49.753Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 35,
+      "temp": 30,
+      "feelsLike": 33,
       "code": 3,
       "wind": 7,
-      "humidity": 46
+      "humidity": 58
     },
     "forecast": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "date": "2026-06-28",
-        "code": 80,
-        "tmax": 31,
-        "tmin": 24
+        "code": 95,
+        "tmax": 32,
+        "tmin": 23
       },
       {
         "date": "2026-06-29",
-        "code": 61,
+        "code": 80,
         "tmax": 28,
         "tmin": 19
       },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 109,
+        "viewers": 126,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -149,15 +149,15 @@
     "recent": [
       {
         "repo": "bytosUI/geekstack",
-        "message": "Promotion de /v3 comme home racine ; suppression de /profile et /v3",
-        "time": "il y a 1 min",
-        "url": "https://github.com/bytosUI/geekstack/commit/5fca4d8db75dbd53569cb2d5540edc8307f0700e"
+        "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
+        "time": "il y a 14 min",
+        "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
-        "message": "Traits identitaires — marqueurs descriptifs dans la persona /v3",
-        "time": "il y a 7 min",
-        "url": "https://github.com/bytosUI/geekstack/commit/57642044bea57b87e78c7345d606ea7e835c623e"
+        "message": "Vague 1 — anniversaires, état calme, 12 personas",
+        "time": "il y a 21 min",
+        "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
         "repo": "bytosUI/dailywater",
@@ -186,40 +186,40 @@
         "titleOriginal": "IP Crawl: Living atlas of open webcams discovered on the public internet",
         "url": "https://ipcrawl.com/",
         "source": "ipcrawl.com",
-        "score": 47,
-        "comments": 23,
+        "score": 126,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=48700834",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Compte GitHub anonyme abandonnant en masse des 0 jours non divulgués",
         "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
         "url": "https://github.com/bikini/exploitarium",
         "source": "github.com",
-        "score": 487,
-        "comments": 188,
+        "score": 548,
+        "comments": 223,
         "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Show HN : Adrafinil – gardez un Mac à couvercle fermé éveillé uniquement pendant que les agents travaillent",
+        "titleOriginal": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+        "url": "https://github.com/kageroumado/adrafinil",
+        "source": "github.com",
+        "score": 33,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48701512",
+        "date": "il y a 1 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 454,
-        "comments": 85,
+        "score": 499,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "L'IA apprend l '« art obscur » de la conception RFIC",
-        "titleOriginal": "AI learns the “dark art” of RFIC design",
-        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-        "source": "spectrum.ieee.org",
-        "score": 127,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48660021",
-        "date": "il y a 3 j"
+        "date": "il y a 9 h"
       }
     ]
   },
