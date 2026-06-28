@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-27T23:06:59.219Z",
+  "updatedAt": "2026-06-28T01:32:10.866Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
-      "feelsLike": 25,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 18,
+      "wind": 2,
       "humidity": 73
     },
     "forecast": [
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 119,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -150,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 1 h",
+        "time": "il y a 3 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 1 h",
+        "time": "il y a 3 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "IP Crawl : Atlas vivant des webcams ouvertes découvertes sur l'internet public",
-        "titleOriginal": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-        "url": "https://ipcrawl.com/",
-        "source": "ipcrawl.com",
-        "score": 176,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=48700834",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Compte GitHub anonyme abandonnant en masse des 0 jours non divulgués",
         "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
         "url": "https://github.com/bikini/exploitarium",
         "source": "github.com",
-        "score": 595,
-        "comments": 233,
+        "score": 662,
+        "comments": 257,
         "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-        "date": "il y a 8 h"
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Choisir un résolveur DNS public",
+        "titleOriginal": "Choosing a Public DNS Resolver",
+        "url": "https://evilbit.de/dns-resolver-guide.html",
+        "source": "evilbit.de",
+        "score": 47,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48702273",
+        "date": "il y a 3 h"
       },
       {
         "title": "OpenRA",
         "titleOriginal": "OpenRA",
         "url": "https://www.openra.net/",
         "source": "openra.net",
-        "score": 526,
-        "comments": 98,
+        "score": 576,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 10 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "Show HN : Adrafinil – gardez un Mac à couvercle fermé éveillé uniquement pendant que les agents travaillent",
-        "titleOriginal": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "url": "https://github.com/kageroumado/adrafinil",
-        "source": "github.com",
-        "score": 54,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48701512",
-        "date": "il y a 2 h"
+        "title": "Amélioration de la sécurité des applications X11 avec LXC",
+        "titleOriginal": "Enhancing X11 Application Security with LXC",
+        "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+        "source": "dobrowolski.dev",
+        "score": 29,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48701936",
+        "date": "il y a 4 h"
       }
     ]
   },
