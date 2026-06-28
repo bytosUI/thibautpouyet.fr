@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T09:39:53.147Z",
+  "updatedAt": "2026-06-28T11:44:05.168Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
-      "code": 61,
-      "wind": 19,
-      "humidity": 66
+      "temp": 27,
+      "feelsLike": 29,
+      "code": 2,
+      "wind": 10,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-06-29",
         "code": 80,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 19
       },
       {
@@ -32,7 +32,7 @@
         "date": "2026-07-01",
         "code": 3,
         "tmax": 26,
-        "tmin": 15
+        "tmin": 17
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "PATRON DU MOSSAD : ATTENTATS DÉJOUÉS, BIPEURS EXPLOSIFS, ÉLIMINATIONS… IL RACONTE EN EXCLUSIVITÉ",
+        "title": "PATRON DU MOSSAD : IL RACONTE LE PREMIER ASSASSINAT AVEC L'IA !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "b2_irBMiZT8",
-        "thumbnail": "https://i.ytimg.com/vi/b2_irBMiZT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b2_irBMiZT8",
-        "publishedAt": "2026-06-28T09:00:06+00:00"
+        "videoId": "R7_E5oXEI7k",
+        "thumbnail": "https://i.ytimg.com/vi/R7_E5oXEI7k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R7_E5oXEI7k",
+        "publishedAt": "2026-06-28T11:00:24+00:00"
       },
       {
         "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 11 h",
+        "time": "il y a 13 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 12 h",
+        "time": "il y a 14 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Marfa Public Radio Puts You to Sleep",
         "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
         "source": "marfapublicradio.org",
-        "score": 224,
-        "comments": 56,
+        "score": 262,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=48703759",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Bashblog – un script bash unique pour créer des blogs",
         "titleOriginal": "Bashblog – a single bash script to create blogs",
         "url": "https://github.com/cfenollosa/bashblog",
         "source": "github.com",
-        "score": 42,
-        "comments": 13,
+        "score": 62,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=48704454",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Guide d'installation du cluster AMD Strix Halo RDMA",
         "titleOriginal": "AMD Strix Halo RDMA Cluster Setup Guide",
         "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
         "source": "github.com",
-        "score": 134,
-        "comments": 39,
+        "score": 157,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=48703258",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Wayfinder Router : routage déterministe des requêtes entre LLM locale et hébergée",
-        "titleOriginal": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-        "url": "https://github.com/itsthelore/wayfinder-router",
-        "source": "github.com",
-        "score": 64,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48704373",
-        "date": "il y a 5 h"
+        "title": "OpenRA",
+        "titleOriginal": "OpenRA",
+        "url": "https://www.openra.net/",
+        "source": "openra.net",
+        "score": 743,
+        "comments": 140,
+        "hnUrl": "https://news.ycombinator.com/item?id=48697560",
+        "date": "il y a 23 h"
       }
     ]
   },
