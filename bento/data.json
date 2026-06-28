@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-28T21:59:35.226Z",
+  "updatedAt": "2026-06-28T23:11:17.877Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 25,
-      "code": 95,
-      "wind": 13,
+      "code": 3,
+      "wind": 6,
       "humidity": 80
     },
     "forecast": [
-      {
-        "date": "2026-06-28",
-        "code": 95,
-        "tmax": 32,
-        "tmin": 22
-      },
       {
         "date": "2026-06-29",
         "code": 95,
@@ -30,6 +24,12 @@
       },
       {
         "date": "2026-07-01",
+        "code": 3,
+        "tmax": 26,
+        "tmin": 15
+      },
+      {
+        "date": "2026-07-02",
         "code": 3,
         "tmax": 26,
         "tmin": 15
@@ -178,40 +178,40 @@
         "titleOriginal": "GLM 5.2 beats Claude in our benchmarks",
         "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
         "source": "semgrep.dev",
-        "score": 174,
-        "comments": 53,
+        "score": 289,
+        "comments": 123,
         "hnUrl": "https://news.ycombinator.com/item?id=48709670",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Un système d'exploitation inspiré de QNX avec des noyaux sélectionnables",
+        "titleOriginal": "A QNX-inspired operating system with selectable kernels",
+        "url": "https://qsoe.net",
+        "source": "qsoe.net",
+        "score": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48712338",
+        "date": "il y a 49 min"
       },
       {
         "title": "5k menus de la collection Buttolph de la New York Public Library (1880-1920)",
         "titleOriginal": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
         "url": "https://pudding.cool/2026/06/menu-story/",
         "source": "pudding.cool",
-        "score": 293,
-        "comments": 78,
+        "score": 304,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=48707763",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "J'ai utilisé Claude Code pour obtenir un deuxième avis sur mon IRM",
         "titleOriginal": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
         "source": "antoine.fi",
-        "score": 256,
-        "comments": 365,
+        "score": 292,
+        "comments": 396,
         "hnUrl": "https://news.ycombinator.com/item?id=48708941",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Prix de la mémoire historique 1960-2026",
-        "titleOriginal": "Historical memory prices 1960-2026",
-        "url": "https://dam.stanford.edu/memory-prices.html",
-        "source": "dam.stanford.edu",
-        "score": 75,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48710092",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       }
     ]
   },
