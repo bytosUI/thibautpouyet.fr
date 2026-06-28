@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T06:12:45.714Z",
+  "updatedAt": "2026-06-28T09:39:53.147Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
+      "temp": 26,
       "feelsLike": 26,
-      "code": 3,
-      "wind": 10,
-      "humidity": 83
+      "code": 61,
+      "wind": 19,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-06-29",
-        "code": 95,
+        "code": 80,
         "tmax": 29,
         "tmin": 19
       },
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "PATRON DU MOSSAD : ATTENTATS DÉJOUÉS, BIPEURS EXPLOSIFS, ÉLIMINATIONS… IL RACONTE EN EXCLUSIVITÉ",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "b2_irBMiZT8",
+        "thumbnail": "https://i.ytimg.com/vi/b2_irBMiZT8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b2_irBMiZT8",
+        "publishedAt": "2026-06-28T09:00:06+00:00"
+      },
+      {
+        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "fcwNWpk0tfk",
+        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
+        "publishedAt": "2026-06-28T07:57:43+00:00"
+      },
+      {
         "title": "Le top Disney de l'équipe",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -59,24 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/OJhQdeh6kW4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OJhQdeh6kW4",
         "publishedAt": "2026-06-27T16:10:08+00:00"
-      },
-      {
-        "title": "UN MORT LUI AVOUE QU'IL AVAIT UNE DOUBLE VIE... SA FAMILLE L'APPREND EN DIRECT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "wjQC6WiTf8s",
-        "thumbnail": "https://i.ytimg.com/vi/wjQC6WiTf8s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wjQC6WiTf8s",
-        "publishedAt": "2026-06-27T15:00:28+00:00"
-      },
-      {
-        "title": "Ma fille va adorer 😁",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Rr8F-b95n2Q",
-        "thumbnail": "https://i.ytimg.com/vi/Rr8F-b95n2Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rr8F-b95n2Q",
-        "publishedAt": "2026-06-27T12:44:33+00:00"
       },
       {
         "title": "Mythos et Fable : La vérité cachée derrière le mensonge officiel !",
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 8 h",
+        "time": "il y a 11 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 8 h",
+        "time": "il y a 12 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -178,29 +178,19 @@
         "titleOriginal": "Marfa Public Radio Puts You to Sleep",
         "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
         "source": "marfapublicradio.org",
-        "score": 133,
-        "comments": 31,
+        "score": 224,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=48703759",
-        "date": "il y a 3 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Wayfinder Router : routage déterministe des requêtes entre LLM locale et hébergée",
-        "titleOriginal": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-        "url": "https://github.com/itsthelore/wayfinder-router",
+        "title": "Bashblog – un script bash unique pour créer des blogs",
+        "titleOriginal": "Bashblog – a single bash script to create blogs",
+        "url": "https://github.com/cfenollosa/bashblog",
         "source": "github.com",
-        "score": 25,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48704373",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Show HN : Decomp Academy – Apprenez à décompiler les jeux GameCube en C correspondant",
-        "titleOriginal": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-        "url": "https://decomp-academy.dev",
-        "source": "decomp-academy.dev",
-        "score": 92,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48703412",
+        "score": 42,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48704454",
         "date": "il y a 4 h"
       },
       {
@@ -208,9 +198,19 @@
         "titleOriginal": "AMD Strix Halo RDMA Cluster Setup Guide",
         "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
         "source": "github.com",
-        "score": 94,
-        "comments": 15,
+        "score": 134,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=48703258",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Wayfinder Router : routage déterministe des requêtes entre LLM locale et hébergée",
+        "titleOriginal": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "source": "github.com",
+        "score": 64,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48704373",
         "date": "il y a 5 h"
       }
     ]
