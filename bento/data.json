@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T19:52:19.309Z",
+  "updatedAt": "2026-06-28T20:55:54.530Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 28,
-      "code": 3,
-      "wind": 17,
-      "humidity": 65
+      "temp": 24,
+      "feelsLike": 26,
+      "code": 95,
+      "wind": 13,
+      "humidity": 74
     },
     "forecast": [
       {
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 22 h",
+        "time": "il y a 23 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 22 h",
+        "time": "il y a 23 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Librepods : AirPods libérés de l'écosystème d'Apple",
+        "titleOriginal": "Librepods: AirPods liberated from Apple's ecosystem",
+        "url": "https://github.com/librepods-org/librepods",
+        "source": "github.com",
+        "score": 140,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48710232",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "5k menus de la collection Buttolph de la New York Public Library (1880-1920)",
         "titleOriginal": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
         "url": "https://pudding.cool/2026/06/menu-story/",
         "source": "pudding.cool",
-        "score": 259,
-        "comments": 69,
+        "score": 283,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=48707763",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "J'ai utilisé Claude Code pour obtenir un deuxième avis sur mon IRM",
         "titleOriginal": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
         "source": "antoine.fi",
-        "score": 162,
-        "comments": 253,
+        "score": 209,
+        "comments": 312,
         "hnUrl": "https://news.ycombinator.com/item?id=48708941",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Le tokenmaxxing est mort, vive le tokenmaxxing",
-        "titleOriginal": "Tokenmaxxing is dead, long live tokenmaxxing",
-        "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
-        "source": "12gramsofcarbon.com",
-        "score": 59,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=48708795",
+        "title": "Semgrep : GLM 5.2 bat Claude dans nos Cyber Benchmarks",
+        "titleOriginal": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "source": "semgrep.dev",
+        "score": 62,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=48709670",
         "date": "il y a 3 h"
-      },
-      {
-        "title": "Travailler autour des dragons avec l'ordinateur portable Lemote Yeeloong et OpenBSD",
-        "titleOriginal": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-        "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
-        "source": "oldvcr.blogspot.com",
-        "score": 56,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48709187",
-        "date": "il y a 2 h"
       }
     ]
   },
