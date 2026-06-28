@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-06-28T01:32:10.866Z",
+  "updatedAt": "2026-06-28T06:12:45.714Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 27,
+      "temp": 23,
+      "feelsLike": 26,
       "code": 3,
-      "wind": 2,
-      "humidity": 73
+      "wind": 10,
+      "humidity": 83
     },
     "forecast": [
       {
         "date": "2026-06-28",
-        "code": 61,
-        "tmax": 33,
+        "code": 80,
+        "tmax": 31,
         "tmin": 22
       },
       {
         "date": "2026-06-29",
         "code": 95,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 19
       },
       {
         "date": "2026-06-30",
         "code": 3,
         "tmax": 30,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-07-01",
         "code": 3,
-        "tmax": 27,
-        "tmin": 18
+        "tmax": 26,
+        "tmin": 15
       }
     ]
   },
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 3 h",
+        "time": "il y a 8 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 3 h",
+        "time": "il y a 8 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Compte GitHub anonyme abandonnant en masse des 0 jours non divulgués",
-        "titleOriginal": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-        "url": "https://github.com/bikini/exploitarium",
-        "source": "github.com",
-        "score": 662,
-        "comments": 257,
-        "hnUrl": "https://news.ycombinator.com/item?id=48698617",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Choisir un résolveur DNS public",
-        "titleOriginal": "Choosing a Public DNS Resolver",
-        "url": "https://evilbit.de/dns-resolver-guide.html",
-        "source": "evilbit.de",
-        "score": 47,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48702273",
+        "title": "La radio publique de Marfa vous endort",
+        "titleOriginal": "Marfa Public Radio Puts You to Sleep",
+        "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "source": "marfapublicradio.org",
+        "score": 133,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48703759",
         "date": "il y a 3 h"
       },
       {
-        "title": "OpenRA",
-        "titleOriginal": "OpenRA",
-        "url": "https://www.openra.net/",
-        "source": "openra.net",
-        "score": 576,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=48697560",
-        "date": "il y a 13 h"
+        "title": "Wayfinder Router : routage déterministe des requêtes entre LLM locale et hébergée",
+        "titleOriginal": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "source": "github.com",
+        "score": 25,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48704373",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Amélioration de la sécurité des applications X11 avec LXC",
-        "titleOriginal": "Enhancing X11 Application Security with LXC",
-        "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-        "source": "dobrowolski.dev",
-        "score": 29,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48701936",
+        "title": "Show HN : Decomp Academy – Apprenez à décompiler les jeux GameCube en C correspondant",
+        "titleOriginal": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+        "url": "https://decomp-academy.dev",
+        "source": "decomp-academy.dev",
+        "score": 92,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48703412",
         "date": "il y a 4 h"
+      },
+      {
+        "title": "Guide d'installation du cluster AMD Strix Halo RDMA",
+        "titleOriginal": "AMD Strix Halo RDMA Cluster Setup Guide",
+        "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "source": "github.com",
+        "score": 94,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48703258",
+        "date": "il y a 5 h"
       }
     ]
   },
