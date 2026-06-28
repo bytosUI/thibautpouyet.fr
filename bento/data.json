@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T18:01:16.967Z",
+  "updatedAt": "2026-06-28T19:52:19.309Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 31,
-      "code": 2,
-      "wind": 10,
-      "humidity": 37
+      "temp": 27,
+      "feelsLike": 28,
+      "code": 3,
+      "wind": 17,
+      "humidity": 65
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-06-29",
-        "code": 63,
-        "tmax": 29,
-        "tmin": 19
+        "code": 95,
+        "tmax": 28,
+        "tmin": 18
       },
       {
         "date": "2026-06-30",
         "code": 3,
-        "tmax": 30,
-        "tmin": 19
+        "tmax": 31,
+        "tmin": 17
       },
       {
         "date": "2026-07-01",
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 20 h",
+        "time": "il y a 22 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 20 h",
+        "time": "il y a 22 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "5k Menus de restaurant, années 1880-1920",
-        "titleOriginal": "5k Restaurant Menus, Years 1880-1920",
-        "url": "https://pudding.cool/2026/06/menu-collection/",
+        "title": "5k menus de la collection Buttolph de la New York Public Library (1880-1920)",
+        "titleOriginal": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+        "url": "https://pudding.cool/2026/06/menu-story/",
         "source": "pudding.cool",
-        "score": 188,
-        "comments": 43,
+        "score": 259,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=48707763",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "J'ai utilisé Claude Code pour obtenir un deuxième avis sur mon IRM",
         "titleOriginal": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
         "source": "antoine.fi",
-        "score": 74,
-        "comments": 88,
+        "score": 162,
+        "comments": 253,
         "hnUrl": "https://news.ycombinator.com/item?id=48708941",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Le tokenmaxxing est mort, vive le tokenmaxxing",
+        "titleOriginal": "Tokenmaxxing is dead, long live tokenmaxxing",
+        "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+        "source": "12gramsofcarbon.com",
+        "score": 59,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48708795",
+        "date": "il y a 3 h"
       },
       {
         "title": "Travailler autour des dragons avec l'ordinateur portable Lemote Yeeloong et OpenBSD",
         "titleOriginal": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
         "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
         "source": "oldvcr.blogspot.com",
-        "score": 29,
-        "comments": 3,
+        "score": 56,
+        "comments": 9,
         "hnUrl": "https://news.ycombinator.com/item?id=48709187",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
-        "titleOriginal": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
-        "url": "https://www.openculture.com/2020/10/daisugi.html",
-        "source": "openculture.com",
-        "score": 44,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48708859",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
