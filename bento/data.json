@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T16:41:44.389Z",
+  "updatedAt": "2026-06-28T18:01:16.967Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
+      "temp": 31,
       "feelsLike": 31,
-      "code": 1,
-      "wind": 13,
-      "humidity": 36
+      "code": 2,
+      "wind": 10,
+      "humidity": 37
     },
     "forecast": [
       {
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 18 h",
+        "time": "il y a 20 h",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 19 h",
+        "time": "il y a 20 h",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Outils de planification du développement du réseau décennal Open Sources de l'UE",
-        "titleOriginal": "EU Open Sources Ten-Year Network Development Planning Tools",
-        "url": "https://github.com/open-energy-transition/open-tyndp",
-        "source": "github.com",
-        "score": 131,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=48707361",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "5k Menus de restaurant, années 1880-1920",
         "titleOriginal": "5k Restaurant Menus, Years 1880-1920",
         "url": "https://pudding.cool/2026/06/menu-collection/",
         "source": "pudding.cool",
-        "score": 106,
-        "comments": 27,
+        "score": 188,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=48707763",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "J'ai utilisé Claude Code pour obtenir un deuxième avis sur mon IRM",
+        "titleOriginal": "I used Claude Code to get a second opinion on my MRI",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "source": "antoine.fi",
+        "score": 74,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=48708941",
         "date": "il y a 1 h"
       },
       {
-        "title": "Daisugi la technique japonaise des arbres hors des arbres, faisant du bois droit exact",
-        "titleOriginal": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood",
-        "url": "https://www.openculture.com/2020/10/daisugi.html",
-        "source": "openculture.com",
-        "score": 12,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48708859",
-        "date": "il y a 12 min"
+        "title": "Travailler autour des dragons avec l'ordinateur portable Lemote Yeeloong et OpenBSD",
+        "titleOriginal": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+        "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+        "source": "oldvcr.blogspot.com",
+        "score": 29,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48709187",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Un moyen d'exclure les problèmes de fichiers sensibles encore ouverts pour OpenAI Codex",
-        "titleOriginal": "A way to exclude sensitive files issue still open for OpenAI Codex",
-        "url": "https://github.com/openai/codex/issues/2847",
-        "source": "github.com",
-        "score": 116,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=48706714",
-        "date": "il y a 4 h"
+        "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+        "titleOriginal": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
+        "url": "https://www.openculture.com/2020/10/daisugi.html",
+        "source": "openculture.com",
+        "score": 44,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48708859",
+        "date": "il y a 1 h"
       }
     ]
   },
