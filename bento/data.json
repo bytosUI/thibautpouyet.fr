@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T20:55:54.530Z",
+  "updatedAt": "2026-06-28T21:59:35.226Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 26,
+      "temp": 23,
+      "feelsLike": 25,
       "code": 95,
       "wind": 13,
-      "humidity": 74
+      "humidity": 80
     },
     "forecast": [
       {
@@ -32,7 +32,7 @@
         "date": "2026-07-01",
         "code": 3,
         "tmax": 26,
-        "tmin": 16
+        "tmin": 15
       }
     ]
   },
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 23 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 23 h",
+        "time": "hier",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Librepods : AirPods libérés de l'écosystème d'Apple",
-        "titleOriginal": "Librepods: AirPods liberated from Apple's ecosystem",
-        "url": "https://github.com/librepods-org/librepods",
-        "source": "github.com",
-        "score": 140,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48710232",
-        "date": "il y a 2 h"
+        "title": "GLM 5.2 bat Claude dans nos benchmarks",
+        "titleOriginal": "GLM 5.2 beats Claude in our benchmarks",
+        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "source": "semgrep.dev",
+        "score": 174,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=48709670",
+        "date": "il y a 4 h"
       },
       {
         "title": "5k menus de la collection Buttolph de la New York Public Library (1880-1920)",
         "titleOriginal": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
         "url": "https://pudding.cool/2026/06/menu-story/",
         "source": "pudding.cool",
-        "score": 283,
-        "comments": 73,
+        "score": 293,
+        "comments": 78,
         "hnUrl": "https://news.ycombinator.com/item?id=48707763",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "J'ai utilisé Claude Code pour obtenir un deuxième avis sur mon IRM",
         "titleOriginal": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
         "source": "antoine.fi",
-        "score": 209,
-        "comments": 312,
+        "score": 256,
+        "comments": 365,
         "hnUrl": "https://news.ycombinator.com/item?id=48708941",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Semgrep : GLM 5.2 bat Claude dans nos Cyber Benchmarks",
-        "titleOriginal": "Semgrep: GLM 5.2 beats Claude in our Cyber Benchmarks",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "source": "semgrep.dev",
-        "score": 62,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=48709670",
+        "title": "Prix de la mémoire historique 1960-2026",
+        "titleOriginal": "Historical memory prices 1960-2026",
+        "url": "https://dam.stanford.edu/memory-prices.html",
+        "source": "dam.stanford.edu",
+        "score": 75,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48710092",
         "date": "il y a 3 h"
       }
     ]
