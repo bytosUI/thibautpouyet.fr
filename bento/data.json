@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-28T23:11:17.877Z",
+  "updatedAt": "2026-06-29T01:35:29.172Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 25,
+      "temp": 21,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 6,
-      "humidity": 80
+      "wind": 14,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-06-30",
         "code": 3,
-        "tmax": 31,
-        "tmin": 17
+        "tmax": 30,
+        "tmin": 18
       },
       {
         "date": "2026-07-01",
@@ -178,40 +178,40 @@
         "titleOriginal": "GLM 5.2 beats Claude in our benchmarks",
         "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
         "source": "semgrep.dev",
-        "score": 289,
-        "comments": 123,
+        "score": 427,
+        "comments": 208,
         "hnUrl": "https://news.ycombinator.com/item?id=48709670",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Le professeur dénonce la fraude massive à l'IA lors d'un examen à Brown",
+        "titleOriginal": "Professor denounces mass AI fraud on an exam at Brown",
+        "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+        "source": "english.elpais.com",
+        "score": 244,
+        "comments": 335,
+        "hnUrl": "https://news.ycombinator.com/item?id=48708991",
+        "date": "il y a 8 h"
       },
       {
         "title": "Un système d'exploitation inspiré de QNX avec des noyaux sélectionnables",
         "titleOriginal": "A QNX-inspired operating system with selectable kernels",
         "url": "https://qsoe.net",
         "source": "qsoe.net",
-        "score": 12,
-        "comments": 0,
+        "score": 34,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=48712338",
-        "date": "il y a 49 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "5k menus de la collection Buttolph de la New York Public Library (1880-1920)",
-        "titleOriginal": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
-        "url": "https://pudding.cool/2026/06/menu-story/",
-        "source": "pudding.cool",
-        "score": 304,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=48707763",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "J'ai utilisé Claude Code pour obtenir un deuxième avis sur mon IRM",
-        "titleOriginal": "I used Claude Code to get a second opinion on my MRI",
-        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "source": "antoine.fi",
-        "score": 292,
-        "comments": 396,
-        "hnUrl": "https://news.ycombinator.com/item?id=48708941",
-        "date": "il y a 6 h"
+        "title": "Distillation des connaissances des modèles grand langage Black-Box",
+        "titleOriginal": "Knowledge Distillation of Black-Box Large Language Models",
+        "url": "https://arxiv.org/abs/2401.07013",
+        "source": "arxiv.org",
+        "score": 48,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48712420",
+        "date": "il y a 3 h"
       }
     ]
   },
