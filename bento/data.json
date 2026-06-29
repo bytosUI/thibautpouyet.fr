@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-29T15:37:20.687Z",
+  "updatedAt": "2026-06-29T18:05:30.722Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 27,
-      "code": 2,
+      "temp": 27,
+      "feelsLike": 26,
+      "code": 0,
       "wind": 13,
-      "humidity": 39
+      "humidity": 40
     },
     "forecast": [
       {
@@ -26,20 +26,28 @@
         "date": "2026-07-01",
         "code": 3,
         "tmax": 26,
-        "tmin": 17
+        "tmin": 16
       },
       {
         "date": "2026-07-02",
-        "code": 3,
-        "tmax": 24,
+        "code": 61,
+        "tmax": 26,
         "tmin": 14
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 6475,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE MOSSAD NE RÉPOND À AUCUNE LOI ?",
+        "title": "PATRON DU MOSSAD : \"IL ME FAUT MOINS DE 5 SEC POUR RENTRER SUR VOTRE TÉLÉPHONE ET TOUT SAVOIR\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "doY6GjppVCw",
-        "thumbnail": "https://i.ytimg.com/vi/doY6GjppVCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=doY6GjppVCw",
-        "publishedAt": "2026-06-29T15:00:39+00:00"
+        "videoId": "0FGF8fuUlTA",
+        "thumbnail": "https://i.ytimg.com/vi/0FGF8fuUlTA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0FGF8fuUlTA",
+        "publishedAt": "2026-06-29T18:00:38+00:00"
+      },
+      {
+        "title": "Karmen fait une nouvelle coupe à Carlito",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "niIHOA8TgKQ",
+        "thumbnail": "https://i.ytimg.com/vi/niIHOA8TgKQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=niIHOA8TgKQ",
+        "publishedAt": "2026-06-29T15:34:57+00:00"
       },
       {
         "title": "Pourquoi il faisait si froid dans la maison ? #23",
@@ -77,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
         "publishedAt": "2026-06-28T07:57:43+00:00"
-      },
-      {
-        "title": "Le top Disney de l'équipe",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "OJhQdeh6kW4",
-        "thumbnail": "https://i.ytimg.com/vi/OJhQdeh6kW4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OJhQdeh6kW4",
-        "publishedAt": "2026-06-27T16:10:08+00:00"
       },
       {
         "title": "Mythos et Fable : La vérité cachée derrière le mensonge officiel !",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Qwen 3.6 27B est l'endroit idéal pour le développement local",
+        "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
+        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "source": "quesma.com",
+        "score": 119,
+        "comments": 72,
+        "hnUrl": "https://news.ycombinator.com/item?id=48721903",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Rocketlab acquiert Iridium",
         "titleOriginal": "Rocketlab acquires Iridium",
         "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
         "source": "investors.rocketlabcorp.com",
-        "score": 54,
-        "comments": 36,
+        "score": 199,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=48719485",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Construire Principia pour Windows XP",
-        "titleOriginal": "Building Principia for Windows XP",
-        "url": "https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/",
-        "source": "voxelmanip.se",
-        "score": 58,
+        "title": "Un shell graphique natif pour SSH",
+        "titleOriginal": "A native graphical shell for SSH",
+        "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+        "source": "probablymarcus.com",
+        "score": 82,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=48720758",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "WATaBoy : JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+        "titleOriginal": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+        "url": "https://humphri.es/blog/WATaBoy/",
+        "source": "humphri.es",
+        "score": 97,
         "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48718995",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Que se passe-t-il lorsque vous exécutez un noyau CUDA ?",
-        "titleOriginal": "What happens when you run a CUDA kernel?",
-        "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
-        "source": "fergusfinn.com",
-        "score": 56,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48718863",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Mag 7 commence à sous-performer [pdf]",
-        "titleOriginal": "Mag 7 starting to underperform [pdf]",
-        "url": "https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf",
-        "source": "apollo.com",
-        "score": 101,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=48719532",
-        "date": "il y a 1 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=48720190",
+        "date": "il y a 3 h"
       }
     ]
   },
