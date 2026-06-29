@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-06-29T21:50:28.776Z",
+  "updatedAt": "2026-06-29T22:51:16.991Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
       "feelsLike": 21,
-      "code": 2,
-      "wind": 10,
-      "humidity": 50
+      "code": 3,
+      "wind": 9,
+      "humidity": 55
     },
     "forecast": [
-      {
-        "date": "2026-06-29",
-        "code": 95,
-        "tmax": 28,
-        "tmin": 18
-      },
       {
         "date": "2026-06-30",
         "code": 3,
@@ -25,29 +19,27 @@
       {
         "date": "2026-07-01",
         "code": 3,
-        "tmax": 26,
-        "tmin": 17
+        "tmax": 27,
+        "tmin": 16
       },
       {
         "date": "2026-07-02",
-        "code": 61,
+        "code": 3,
         "tmax": 26,
+        "tmin": 15
+      },
+      {
+        "date": "2026-07-03",
+        "code": 3,
+        "tmax": 28,
         "tmin": 14
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Scam Line",
-        "viewers": 9904,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Qwen 3.6 27B est l'endroit idéal pour le développement local",
-        "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
-        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-        "source": "quesma.com",
-        "score": 453,
-        "comments": 404,
-        "hnUrl": "https://news.ycombinator.com/item?id=48721903",
-        "date": "il y a 4 h"
-      },
-      {
         "title": ".self : Un nouveau domaine de premier niveau conçu pour prendre en charge l'auto-hébergement",
         "titleOriginal": ".self: A new top-level domain designed to support self-hosting",
         "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
         "source": "hccf.onmy.cloud",
-        "score": 94,
-        "comments": 83,
+        "score": 192,
+        "comments": 124,
         "hnUrl": "https://news.ycombinator.com/item?id=48724230",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Rocketlab acquiert Iridium",
-        "titleOriginal": "Rocketlab acquires Iridium",
-        "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
-        "source": "investors.rocketlabcorp.com",
-        "score": 317,
-        "comments": 190,
-        "hnUrl": "https://news.ycombinator.com/item?id=48719485",
-        "date": "il y a 7 h"
+        "title": "Qwen 3.6 27B est l'endroit idéal pour le développement local",
+        "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
+        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "source": "quesma.com",
+        "score": 504,
+        "comments": 439,
+        "hnUrl": "https://news.ycombinator.com/item?id=48721903",
+        "date": "il y a 5 h"
       },
       {
-        "title": "Ornith-1.0 : modèles open-source auto-améliorants pour le codage agentique",
-        "titleOriginal": "Ornith-1.0: self-improving open-source models for agentic coding",
-        "url": "https://github.com/deepreinforce-ai/Ornith-1",
-        "source": "github.com",
-        "score": 105,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48722052",
-        "date": "il y a 4 h"
+        "title": "Libérez les icônes",
+        "titleOriginal": "Free the Icons",
+        "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+        "source": "weblog.rogueamoeba.com",
+        "score": 65,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48698908",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Est-il déjà sorti ?",
+        "titleOriginal": "Is It Out Yet?",
+        "url": "https://outyet.ai",
+        "source": "outyet.ai",
+        "score": 23,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48725397",
+        "date": "il y a 1 h"
       }
     ]
   },
