@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-29T22:51:16.991Z",
+  "updatedAt": "2026-06-29T23:58:37.169Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 21,
       "feelsLike": 21,
-      "code": 3,
+      "code": 2,
       "wind": 9,
-      "humidity": 55
+      "humidity": 61
     },
     "forecast": [
       {
@@ -178,39 +178,39 @@
         "titleOriginal": ".self: A new top-level domain designed to support self-hosting",
         "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
         "source": "hccf.onmy.cloud",
-        "score": 192,
-        "comments": 124,
+        "score": 246,
+        "comments": 154,
         "hnUrl": "https://news.ycombinator.com/item?id=48724230",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Qwen 3.6 27B est l'endroit idéal pour le développement local",
         "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
         "url": "https://quesma.com/blog/qwen-36-is-awesome/",
         "source": "quesma.com",
-        "score": 504,
-        "comments": 439,
+        "score": 545,
+        "comments": 476,
         "hnUrl": "https://news.ycombinator.com/item?id=48721903",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Libérez les icônes",
         "titleOriginal": "Free the Icons",
         "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
         "source": "weblog.rogueamoeba.com",
-        "score": 65,
-        "comments": 11,
+        "score": 126,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=48698908",
         "date": "il y a 2 j"
       },
       {
-        "title": "Est-il déjà sorti ?",
-        "titleOriginal": "Is It Out Yet?",
-        "url": "https://outyet.ai",
-        "source": "outyet.ai",
-        "score": 23,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48725397",
+        "title": "Les scientifiques trouvent des preuves au niveau moléculaire de deux structures dans l'eau liquide",
+        "titleOriginal": "Scientists find molecular-level evidence for two structures in liquid water",
+        "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+        "source": "phys.org",
+        "score": 36,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48726073",
         "date": "il y a 1 h"
       }
     ]
