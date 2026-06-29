@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-29T20:21:44.324Z",
+  "updatedAt": "2026-06-29T21:50:28.776Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
-      "code": 1,
-      "wind": 11,
-      "humidity": 43
+      "temp": 22,
+      "feelsLike": 21,
+      "code": 2,
+      "wind": 10,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "MECCHA CHAMELEON",
-        "viewers": 14050,
+        "game": "Scam Line",
+        "viewers": 9904,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "hier",
+        "time": "il y a 2 j",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "hier",
+        "time": "il y a 2 j",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -186,39 +186,39 @@
         "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
         "url": "https://quesma.com/blog/qwen-36-is-awesome/",
         "source": "quesma.com",
-        "score": 351,
-        "comments": 285,
+        "score": 453,
+        "comments": 404,
         "hnUrl": "https://news.ycombinator.com/item?id=48721903",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": ".self : Un nouveau domaine de premier niveau conçu pour prendre en charge l'auto-hébergement",
+        "titleOriginal": ".self: A new top-level domain designed to support self-hosting",
+        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+        "source": "hccf.onmy.cloud",
+        "score": 94,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=48724230",
+        "date": "il y a 2 h"
       },
       {
         "title": "Rocketlab acquiert Iridium",
         "titleOriginal": "Rocketlab acquires Iridium",
         "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
         "source": "investors.rocketlabcorp.com",
-        "score": 280,
-        "comments": 161,
+        "score": 317,
+        "comments": 190,
         "hnUrl": "https://news.ycombinator.com/item?id=48719485",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Ornith-1.0 : modèles open-source auto-améliorants pour le codage agentique",
         "titleOriginal": "Ornith-1.0: self-improving open-source models for agentic coding",
         "url": "https://github.com/deepreinforce-ai/Ornith-1",
         "source": "github.com",
-        "score": 71,
-        "comments": 11,
+        "score": 105,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=48722052",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Un shell graphique natif pour SSH",
-        "titleOriginal": "A native graphical shell for SSH",
-        "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
-        "source": "probablymarcus.com",
-        "score": 160,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=48720758",
         "date": "il y a 4 h"
       }
     ]
