@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-30T20:27:04.436Z",
+  "updatedAt": "2026-06-30T21:55:16.406Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 13,
-      "humidity": 53
+      "wind": 8,
+      "humidity": 61
     },
     "forecast": [
       {
@@ -142,13 +142,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Claude Sonnet 5",
         "url": "https://www.anthropic.com/news/claude-sonnet-5",
         "source": "anthropic.com",
-        "score": 559,
-        "comments": 298,
+        "score": 707,
+        "comments": 385,
         "hnUrl": "https://news.ycombinator.com/item?id=48736605",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Claude Code marque stéganographiquement les demandes",
         "titleOriginal": "Claude Code is steganographically marking requests",
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "source": "thereallo.dev",
-        "score": 964,
-        "comments": 256,
+        "score": 1145,
+        "comments": 297,
         "hnUrl": "https://news.ycombinator.com/item?id=48734373",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Claude Science",
-        "titleOriginal": "Claude Science",
-        "url": "https://claude.com/product/claude-science",
-        "source": "claude.com",
-        "score": 223,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=48735770",
-        "date": "il y a 3 h"
+        "title": "J'ai porté Kubernetes sur le navigateur",
+        "titleOriginal": "I ported Kubernetes to the browser",
+        "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+        "source": "ngrok.com",
+        "score": 73,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48738985",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Nano Banana 2 Lite",
-        "titleOriginal": "Nano Banana 2 Lite",
-        "url": "https://deepmind.google/models/gemini-image/flash-lite/",
-        "source": "deepmind.google",
-        "score": 197,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48735444",
-        "date": "il y a 3 h"
+        "title": "Le système de balayage cérébral de Meta lit les phrases de manière non invasive, code open source",
+        "titleOriginal": "Meta's brain-scanning system reads sentences non-invasively, code open source",
+        "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+        "source": "ai.meta.com",
+        "score": 19,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48739466",
+        "date": "il y a 26 min"
       }
     ]
   },
