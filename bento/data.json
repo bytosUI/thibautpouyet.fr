@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-30T11:11:50.821Z",
+  "updatedAt": "2026-06-30T13:19:59.377Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 29,
       "feelsLike": 28,
       "code": 2,
-      "wind": 11,
-      "humidity": 35
+      "wind": 13,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 4876,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FÉMINICIDE : ELLE SE FAIT TIRER DESSUS PAR « L’HOMME PARFAIT »",
+        "title": "« ON A SENTI UNE ODEUR TRÈS FORTE » : ELLE DÉCOUVRE QUE SA MEILLEURE AMIE EST DÉCÉDÉE À 36 ANS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "CWSI2_iSBJY",
-        "thumbnail": "https://i.ytimg.com/vi/CWSI2_iSBJY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CWSI2_iSBJY",
-        "publishedAt": "2026-06-30T10:38:53+00:00"
+        "videoId": "-Ji9YGhGFEo",
+        "thumbnail": "https://i.ytimg.com/vi/-Ji9YGhGFEo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-Ji9YGhGFEo",
+        "publishedAt": "2026-06-30T11:30:13+00:00"
       },
       {
         "title": "Karmen fait une nouvelle coupe à Carlito",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'ambassadeur des États-Unis a demandé à la police belge d'arrêter notre signalement",
+        "titleOriginal": "The US ambassador had Belgian police stop our reporting",
+        "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+        "source": "europeancorrespondent.com",
+        "score": 244,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=48730608",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Les portefeuilles d'identification numériques européens s'appuient sur les services de sécurité de Google et d'Apple",
+        "titleOriginal": "European digital ID wallets rely on safety services of Google and Apple",
+        "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+        "source": "waag.org",
+        "score": 356,
+        "comments": 151,
+        "hnUrl": "https://news.ycombinator.com/item?id=48730729",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Analysez, ne validez pas – dans une langue qui ne veut pas que vous",
+        "titleOriginal": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+        "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+        "source": "cekrem.github.io",
+        "score": 51,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48730818",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Construire un octocoptère personnalisé à partir de zéro sans expérience matérielle préalable",
         "titleOriginal": "Building a custom octocopter from scratch with no prior hardware experience",
         "url": "https://karolina.mgdubiel.com/drone/",
         "source": "karolina.mgdubiel.com",
-        "score": 52,
-        "comments": 13,
+        "score": 119,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=48704289",
         "date": "il y a 2 j"
-      },
-      {
-        "title": "Les portefeuilles d'identification numérique européens sont un cadeau pour Google et Apple",
-        "titleOriginal": "European digital ID wallets are a gift to Google and Apple",
-        "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
-        "source": "waag.org",
-        "score": 25,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48730729",
-        "date": "il y a 35 min"
-      },
-      {
-        "title": "Open Source Low Tech",
-        "titleOriginal": "Open Source Low Tech",
-        "url": "https://opensourcelowtech.org/",
-        "source": "opensourcelowtech.org",
-        "score": 288,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=48683098",
-        "date": "il y a 4 j"
-      },
-      {
-        "title": "Antares atteint la criticité du réacteur Mark-0",
-        "titleOriginal": "Antares Achieves Criticality of Mark-0 Reactor",
-        "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
-        "source": "antaresindustries.com",
-        "score": 22,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48730246",
-        "date": "il y a 1 h"
       }
     ]
   },
