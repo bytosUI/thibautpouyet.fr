@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-06-30T07:58:00.663Z",
+  "updatedAt": "2026-06-30T11:11:50.821Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
-      "code": 3,
-      "wind": 8,
-      "humidity": 61
+      "temp": 28,
+      "feelsLike": 28,
+      "code": 2,
+      "wind": 11,
+      "humidity": 35
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-07-01",
         "code": 3,
-        "tmax": 26,
-        "tmin": 16
+        "tmax": 27,
+        "tmin": 17
       },
       {
         "date": "2026-07-02",
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-07-03",
-        "code": 2,
+        "code": 3,
         "tmax": 27,
-        "tmin": 14
+        "tmin": 13
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "PATRON DU MOSSAD : ONT-ILS VRAIMENT FAIT ASSASSINER DES PRÉSIDENTS ?",
+        "title": "FÉMINICIDE : ELLE SE FAIT TIRER DESSUS PAR « L’HOMME PARFAIT »",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "qnpU-yei-Uc",
-        "thumbnail": "https://i.ytimg.com/vi/qnpU-yei-Uc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qnpU-yei-Uc",
-        "publishedAt": "2026-06-29T20:00:40+00:00"
+        "videoId": "CWSI2_iSBJY",
+        "thumbnail": "https://i.ytimg.com/vi/CWSI2_iSBJY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CWSI2_iSBJY",
+        "publishedAt": "2026-06-30T10:38:53+00:00"
       },
       {
         "title": "Karmen fait une nouvelle coupe à Carlito",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Qwen 3.6 27B est l'endroit idéal pour le développement local",
-        "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
-        "url": "https://quesma.com/blog/qwen-36-is-awesome/",
-        "source": "quesma.com",
-        "score": 873,
-        "comments": 596,
-        "hnUrl": "https://news.ycombinator.com/item?id=48721903",
-        "date": "il y a 14 h"
+        "title": "Construire un octocoptère personnalisé à partir de zéro sans expérience matérielle préalable",
+        "titleOriginal": "Building a custom octocopter from scratch with no prior hardware experience",
+        "url": "https://karolina.mgdubiel.com/drone/",
+        "source": "karolina.mgdubiel.com",
+        "score": 52,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48704289",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Les portefeuilles d'identification numérique européens sont un cadeau pour Google et Apple",
+        "titleOriginal": "European digital ID wallets are a gift to Google and Apple",
+        "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+        "source": "waag.org",
+        "score": 25,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48730729",
+        "date": "il y a 35 min"
       },
       {
         "title": "Open Source Low Tech",
         "titleOriginal": "Open Source Low Tech",
         "url": "https://opensourcelowtech.org/",
         "source": "opensourcelowtech.org",
-        "score": 61,
-        "comments": 11,
+        "score": 288,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48683098",
         "date": "il y a 4 j"
       },
       {
-        "title": ".self : Un nouveau domaine de premier niveau conçu pour prendre en charge l'auto-hébergement",
-        "titleOriginal": ".self: A new top-level domain designed to support self-hosting",
-        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-        "source": "hccf.onmy.cloud",
-        "score": 477,
-        "comments": 271,
-        "hnUrl": "https://news.ycombinator.com/item?id=48724230",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Libérez les icônes",
-        "titleOriginal": "Free the Icons",
-        "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
-        "source": "weblog.rogueamoeba.com",
-        "score": 409,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=48698908",
-        "date": "il y a 2 j"
+        "title": "Antares atteint la criticité du réacteur Mark-0",
+        "titleOriginal": "Antares Achieves Criticality of Mark-0 Reactor",
+        "url": "https://antaresindustries.com/updates/antares-achieves-criticality",
+        "source": "antaresindustries.com",
+        "score": 22,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48730246",
+        "date": "il y a 1 h"
       }
     ]
   },
