@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-06-29T23:58:37.169Z",
+  "updatedAt": "2026-06-30T03:59:49.573Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
+      "temp": 18,
+      "feelsLike": 18,
       "code": 2,
       "wind": 9,
-      "humidity": 61
+      "humidity": 73
     },
     "forecast": [
       {
         "date": "2026-06-30",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 18
       },
       {
         "date": "2026-07-01",
         "code": 3,
-        "tmax": 27,
-        "tmin": 16
-      },
-      {
-        "date": "2026-07-02",
-        "code": 3,
         "tmax": 26,
         "tmin": 15
       },
       {
-        "date": "2026-07-03",
+        "date": "2026-07-02",
         "code": 3,
-        "tmax": 28,
+        "tmax": 25,
+        "tmin": 14
+      },
+      {
+        "date": "2026-07-03",
+        "code": 2,
+        "tmax": 27,
         "tmin": 14
       }
     ]
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "PATRON DU MOSSAD : ONT-ILS VRAIMENT FAIT ASSASSINER DES PRÉSIDENTS ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "qnpU-yei-Uc",
-        "thumbnail": "https://i.ytimg.com/vi/qnpU-yei-Uc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qnpU-yei-Uc",
-        "publishedAt": "2026-06-29T20:00:40+00:00"
-      },
-      {
-        "title": "Karmen fait une nouvelle coupe à Carlito",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "niIHOA8TgKQ",
-        "thumbnail": "https://i.ytimg.com/vi/niIHOA8TgKQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=niIHOA8TgKQ",
-        "publishedAt": "2026-06-29T15:34:57+00:00"
-      },
-      {
-        "title": "Pourquoi il faisait si froid dans la maison ? #23",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "qhgg5foifi0",
-        "thumbnail": "https://i.ytimg.com/vi/qhgg5foifi0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qhgg5foifi0",
-        "publishedAt": "2026-06-28T15:17:12+00:00"
-      },
-      {
-        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "fcwNWpk0tfk",
-        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
-        "publishedAt": "2026-06-28T07:57:43+00:00"
-      },
-      {
-        "title": "Mythos et Fable : La vérité cachée derrière le mensonge officiel !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "mRaDZcWnJJI",
-        "thumbnail": "https://i.ytimg.com/vi/mRaDZcWnJJI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mRaDZcWnJJI",
-        "publishedAt": "2026-06-27T06:30:17+00:00"
-      },
-      {
-        "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "y6In6iZxcaM",
-        "thumbnail": "https://i.ytimg.com/vi/y6In6iZxcaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y6In6iZxcaM",
-        "publishedAt": "2026-06-24T08:08:05+00:00"
-      },
-      {
-        "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "qioZBpQxNDI",
-        "thumbnail": "https://i.ytimg.com/vi/qioZBpQxNDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qioZBpQxNDI",
-        "publishedAt": "2026-06-22T17:30:01+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": ".self : Un nouveau domaine de premier niveau conçu pour prendre en charge l'auto-hébergement",
-        "titleOriginal": ".self: A new top-level domain designed to support self-hosting",
-        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-        "source": "hccf.onmy.cloud",
-        "score": 246,
-        "comments": 154,
-        "hnUrl": "https://news.ycombinator.com/item?id=48724230",
-        "date": "il y a 4 h"
-      },
-      {
         "title": "Qwen 3.6 27B est l'endroit idéal pour le développement local",
         "titleOriginal": "Qwen 3.6 27B is the sweet spot for local development",
         "url": "https://quesma.com/blog/qwen-36-is-awesome/",
         "source": "quesma.com",
-        "score": 545,
-        "comments": 476,
+        "score": 698,
+        "comments": 542,
         "hnUrl": "https://news.ycombinator.com/item?id=48721903",
-        "date": "il y a 6 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": ".self : Un nouveau domaine de premier niveau conçu pour prendre en charge l'auto-hébergement",
+        "titleOriginal": ".self: A new top-level domain designed to support self-hosting",
+        "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+        "source": "hccf.onmy.cloud",
+        "score": 379,
+        "comments": 216,
+        "hnUrl": "https://news.ycombinator.com/item?id=48724230",
+        "date": "il y a 8 h"
       },
       {
         "title": "Libérez les icônes",
         "titleOriginal": "Free the Icons",
         "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
         "source": "weblog.rogueamoeba.com",
-        "score": 126,
-        "comments": 24,
+        "score": 290,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=48698908",
         "date": "il y a 2 j"
       },
       {
-        "title": "Les scientifiques trouvent des preuves au niveau moléculaire de deux structures dans l'eau liquide",
-        "titleOriginal": "Scientists find molecular-level evidence for two structures in liquid water",
-        "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
-        "source": "phys.org",
-        "score": 36,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48726073",
-        "date": "il y a 1 h"
+        "title": "Commutation de contexte sécurisée en mémoire (longjmp, setjmp) dans Fil-C",
+        "titleOriginal": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+        "url": "https://fil-c.org/context_switches",
+        "source": "fil-c.org",
+        "score": 51,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48727177",
+        "date": "il y a 3 h"
       }
     ]
   },
