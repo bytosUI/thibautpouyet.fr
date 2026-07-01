@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-01T01:37:59.312Z",
+  "updatedAt": "2026-07-01T06:21:05.843Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
-      "code": 2,
-      "wind": 9,
-      "humidity": 77
+      "temp": 17,
+      "feelsLike": 15,
+      "code": 1,
+      "wind": 12,
+      "humidity": 59
     },
     "forecast": [
       {
         "date": "2026-07-01",
-        "code": 3,
+        "code": 80,
         "tmax": 26,
         "tmin": 17
       },
       {
         "date": "2026-07-02",
         "code": 3,
-        "tmax": 26,
-        "tmin": 16
+        "tmax": 27,
+        "tmin": 15
       },
       {
         "date": "2026-07-03",
-        "code": 3,
-        "tmax": 27,
-        "tmin": 13
+        "code": 2,
+        "tmax": 28,
+        "tmin": 14
       },
       {
         "date": "2026-07-04",
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Pourquoi Google paie Musk pour faire tourner l'IA ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "xn-VItCcuXo",
-        "thumbnail": "https://i.ytimg.com/vi/xn-VItCcuXo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xn-VItCcuXo",
-        "publishedAt": "2026-06-30T18:01:18+00:00"
-      },
-      {
-        "title": "« L’HOMME PARFAIT » PREND UNE ARME ET TIRE SUR SA FEMME ET SA MEILLEURE AMIE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "NzB9LqF_vlc",
-        "thumbnail": "https://i.ytimg.com/vi/NzB9LqF_vlc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NzB9LqF_vlc",
-        "publishedAt": "2026-06-30T14:00:19+00:00"
-      },
-      {
-        "title": "Karmen fait une nouvelle coupe à Carlito",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "niIHOA8TgKQ",
-        "thumbnail": "https://i.ytimg.com/vi/niIHOA8TgKQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=niIHOA8TgKQ",
-        "publishedAt": "2026-06-29T15:34:57+00:00"
-      },
-      {
-        "title": "Pourquoi il faisait si froid dans la maison ? #23",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "qhgg5foifi0",
-        "thumbnail": "https://i.ytimg.com/vi/qhgg5foifi0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qhgg5foifi0",
-        "publishedAt": "2026-06-28T15:17:12+00:00"
-      },
-      {
-        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "fcwNWpk0tfk",
-        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
-        "publishedAt": "2026-06-28T07:57:43+00:00"
-      },
-      {
-        "title": "Claude Code vs ChatGPT : la différence que personne ne t'explique !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "y6In6iZxcaM",
-        "thumbnail": "https://i.ytimg.com/vi/y6In6iZxcaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y6In6iZxcaM",
-        "publishedAt": "2026-06-24T08:08:05+00:00"
-      },
-      {
-        "title": "🇰🇷🇫🇷 J'ai regardé les Bleus dans un bar à Séoul à 4h du matin",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "qioZBpQxNDI",
-        "thumbnail": "https://i.ytimg.com/vi/qioZBpQxNDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qioZBpQxNDI",
-        "publishedAt": "2026-06-22T17:30:01+00:00"
-      },
-      {
-        "title": "Tout le monde déteste Joyca à juste titre 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "nPyGCIIxjR4",
-        "thumbnail": "https://i.ytimg.com/vi/nPyGCIIxjR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nPyGCIIxjR4",
-        "publishedAt": "2026-05-24T12:50:12+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude Sonnet 5",
-        "titleOriginal": "Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "anthropic.com",
-        "score": 881,
-        "comments": 496,
-        "hnUrl": "https://news.ycombinator.com/item?id=48736605",
-        "date": "il y a 7 h"
-      },
-      {
         "title": "Claude Code marque stéganographiquement les demandes",
         "titleOriginal": "Claude Code is steganographically marking requests",
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "source": "thereallo.dev",
-        "score": 1420,
-        "comments": 403,
+        "score": 1692,
+        "comments": 487,
         "hnUrl": "https://news.ycombinator.com/item?id=48734373",
-        "date": "il y a 9 h"
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "Claude Sonnet 5",
+        "titleOriginal": "Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "source": "anthropic.com",
+        "score": 1032,
+        "comments": 601,
+        "hnUrl": "https://news.ycombinator.com/item?id=48736605",
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Les premiers ovules humains précoces à partir de cellules souches",
+        "titleOriginal": "The first early human eggs from stem cells",
+        "url": "https://www.conception.bio/science-and-updates/the-first-early-human-eggs-from-stem-cells",
+        "source": "conception.bio",
+        "score": 35,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48742483",
+        "date": "il y a 1 h"
       },
       {
         "title": "Google copybara : déplacement de code entre les référentiels",
         "titleOriginal": "Google copybara: moving code between repositories",
         "url": "https://github.com/google/copybara",
         "source": "github.com",
-        "score": 41,
-        "comments": 5,
+        "score": 161,
+        "comments": 20,
         "hnUrl": "https://news.ycombinator.com/item?id=48740698",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Le ministère du Commerce a levé les contrôles à l'exportation sur Claude Fable 5 et Mythos 5",
-        "titleOriginal": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-        "source": "twitter.com",
-        "score": 220,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=48740771",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       }
     ]
   },
