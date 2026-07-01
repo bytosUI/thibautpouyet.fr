@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-01T20:21:33.706Z",
+  "updatedAt": "2026-07-01T21:58:04.365Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 0,
-      "wind": 10,
-      "humidity": 48
+      "wind": 11,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 87,
+        "viewers": 105,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 3 j",
+        "time": "il y a 4 j",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 3 j",
+        "time": "il y a 4 j",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "ZCode: Claude Code from the Makers of GLM",
         "url": "https://zcode.z.ai/cn",
         "source": "zcode.z.ai",
-        "score": 130,
-        "comments": 40,
+        "score": 260,
+        "comments": 138,
         "hnUrl": "https://news.ycombinator.com/item?id=48751752",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Pour la première fois, une cellule construite à partir de zéro se développe et se divise",
         "titleOriginal": "For first time, a cell built from scratch grows and divides",
         "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
         "source": "quantamagazine.org",
-        "score": 563,
-        "comments": 188,
+        "score": 621,
+        "comments": 212,
         "hnUrl": "https://news.ycombinator.com/item?id=48747304",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Ce qu'il faut apprendre pour devenir programmeur graphique",
-        "titleOriginal": "What to Learn to Be a Graphics Programmer",
+        "titleOriginal": "What to learn to be a graphics programmer",
         "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
         "source": "blog.demofox.org",
-        "score": 114,
-        "comments": 45,
+        "score": 166,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=48750710",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Le nouvel encodeur AAC de FFmpeg 9.1",
-        "titleOriginal": "FFmpeg 9.1's new AAC encoder",
-        "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
-        "source": "hydrogenaudio.org",
-        "score": 158,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48747116",
-        "date": "il y a 6 h"
+        "title": "Show HN : Annuaire consultable de plus de 22000 produits issus de coopératives appartenant à des travailleurs",
+        "titleOriginal": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+        "url": "https://www.workerowned.info/",
+        "source": "workerowned.info",
+        "score": 34,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48752905",
+        "date": "il y a 1 h"
       }
     ]
   },
