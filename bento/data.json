@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-01T10:28:00.576Z",
+  "updatedAt": "2026-07-01T13:17:00.295Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 23,
+      "temp": 26,
+      "feelsLike": 25,
       "code": 2,
-      "wind": 13,
-      "humidity": 48
+      "wind": 15,
+      "humidity": 35
     },
     "forecast": [
       {
         "date": "2026-07-01",
         "code": 80,
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 17
       },
       {
         "date": "2026-07-02",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 15
       },
       {
         "date": "2026-07-03",
         "code": 3,
         "tmax": 28,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-07-04",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 6118,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Vous êtes pour ou contre l'IA ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "ovfYtAFYmlg",
+        "thumbnail": "https://i.ytimg.com/vi/ovfYtAFYmlg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ovfYtAFYmlg",
+        "publishedAt": "2026-07-01T11:42:57+00:00"
+      },
+      {
         "title": "La connexion Carlito x PitchAddict c’est quelque chose",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/MTcXWJntKM4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MTcXWJntKM4",
         "publishedAt": "2026-07-01T08:37:28+00:00"
-      },
-      {
-        "title": "Ce que Google a changé va coûter cher à tous les entrepreneurs !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "s-ne1Nwuv64",
-        "thumbnail": "https://i.ytimg.com/vi/s-ne1Nwuv64/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s-ne1Nwuv64",
-        "publishedAt": "2026-07-01T06:51:19+00:00"
       },
       {
         "title": "La Chine ouvre, l'Amérique ferme : l'inversion que personne n'a vu venir !",
@@ -178,40 +186,40 @@
         "titleOriginal": "Asahi Linux 7.1 Progress Report",
         "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
         "source": "asahilinux.org",
-        "score": 27,
-        "comments": 2,
+        "score": 274,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48744518",
-        "date": "il y a 20 min"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Une dose unique de bactérie intestinale dérivée de la grenouille éradique 100 % des tumeurs chez la souris",
+        "titleOriginal": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+        "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+        "source": "thefocalpoints.com",
+        "score": 150,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48744232",
+        "date": "il y a 3 h"
       },
       {
         "title": "Claude Code marque stéganographiquement les demandes",
         "titleOriginal": "Claude Code is steganographically marking requests",
         "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
         "source": "thereallo.dev",
-        "score": 2058,
-        "comments": 596,
+        "score": 2212,
+        "comments": 640,
         "hnUrl": "https://news.ycombinator.com/item?id=48734373",
-        "date": "il y a 18 h"
+        "date": "il y a 21 h"
       },
       {
-        "title": "L'araignée nouvellement découverte construit un piège à ressort pour attraper les fourmis",
-        "titleOriginal": "Newly discovered spider builds spring loaded snare to catch ants",
-        "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
-        "source": "phys.org",
-        "score": 38,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48711052",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Claude Sonnet 5",
-        "titleOriginal": "Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "source": "anthropic.com",
-        "score": 1137,
-        "comments": 672,
-        "hnUrl": "https://news.ycombinator.com/item?id=48736605",
-        "date": "il y a 16 h"
+        "title": "L'Internet avec lequel j'ai grandi n'existe plus",
+        "titleOriginal": "The Internet I Grew Up with Doesn't Exist Anymore",
+        "url": "https://cleberg.net/blog/internet.html",
+        "source": "cleberg.net",
+        "score": 110,
+        "comments": 82,
+        "hnUrl": "https://news.ycombinator.com/item?id=48744655",
+        "date": "il y a 2 h"
       }
     ]
   },
