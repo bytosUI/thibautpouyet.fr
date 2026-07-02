@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-02T20:40:11.981Z",
+  "updatedAt": "2026-07-02T22:02:19.589Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
+      "temp": 19,
+      "feelsLike": 19,
       "code": 0,
-      "wind": 9,
-      "humidity": 59
+      "wind": 8,
+      "humidity": 69
     },
     "forecast": [
-      {
-        "date": "2026-07-02",
-        "code": 3,
-        "tmax": 26,
-        "tmin": 15
-      },
       {
         "date": "2026-07-03",
         "code": 3,
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 32,
         "tmin": 15
+      },
+      {
+        "date": "2026-07-06",
+        "code": 3,
+        "tmax": 34,
+        "tmin": 15
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 6713,
+        "viewers": 6682,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       },
@@ -50,7 +50,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 57,
+        "viewers": 110,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -157,13 +157,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 4 j",
+        "time": "il y a 5 j",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 4 j",
+        "time": "il y a 5 j",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -181,7 +181,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 8 sem",
+        "time": "il y a 9 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       }
     ]
@@ -189,44 +189,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Virginie interdit la vente de données de géolocalisation",
+        "titleOriginal": "Virginia bans sale of geolocation data",
+        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "source": "hunton.com",
+        "score": 112,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48767347",
+        "date": "il y a 58 min"
+      },
+      {
         "title": "Exapunks (2018)",
         "titleOriginal": "Exapunks (2018)",
         "url": "https://www.zachtronics.com/exapunks/",
         "source": "zachtronics.com",
-        "score": 117,
-        "comments": 43,
+        "score": 175,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=48765663",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Depuis Linux 6.9, LUKS suspend a cessé d'effacer les clés de chiffrement de disque de la mémoire",
         "titleOriginal": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
         "url": "https://mathstodon.xyz/@iblech/116769502749142438",
         "source": "mathstodon.xyz",
-        "score": 310,
-        "comments": 158,
+        "score": 352,
+        "comments": 169,
         "hnUrl": "https://news.ycombinator.com/item?id=48763035",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Gestionnaire de base de données cartographiées en mémoire Lightning (LMDB) 1.0",
-        "titleOriginal": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-        "url": "http://www.lmdb.tech/doc/",
-        "source": "lmdb.tech",
-        "score": 13,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48766598",
-        "date": "il y a 38 min"
-      },
-      {
-        "title": "PeerTube est une plateforme vidéo gratuite, décentralisée et fédérée",
-        "titleOriginal": "PeerTube is a free, decentralized and federated video platform",
-        "url": "https://github.com/Chocobozzz/PeerTube",
-        "source": "github.com",
-        "score": 369,
-        "comments": 153,
-        "hnUrl": "https://news.ycombinator.com/item?id=48759634",
-        "date": "il y a 9 h"
+        "title": "Lettre de l'eff à la FTC sur l'ordonnance de consentement X (2 juillet 2026) [pdf]",
+        "titleOriginal": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+        "source": "cdn.arstechnica.net",
+        "score": 69,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48766209",
+        "date": "il y a 2 h"
       }
     ]
   },
