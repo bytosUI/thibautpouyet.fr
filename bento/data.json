@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-02T15:39:00.460Z",
+  "updatedAt": "2026-07-02T17:40:44.591Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 25,
-      "feelsLike": 23,
-      "code": 3,
-      "wind": 19,
-      "humidity": 54
+      "feelsLike": 24,
+      "code": 2,
+      "wind": 16,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-07-05",
         "code": 3,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 15
       }
     ]
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Le CPF a créé une industrie qui pioche dans l'argent public ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "0NYESuzUaNE",
+        "thumbnail": "https://i.ytimg.com/vi/0NYESuzUaNE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0NYESuzUaNE",
+        "publishedAt": "2026-07-02T16:24:56+00:00"
+      },
+      {
         "title": "On déguvine 32 bonbons avec Joyca et Matthieu et le plot twist de fin est magnifique",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/d1n2iv7TosU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=d1n2iv7TosU",
         "publishedAt": "2026-07-02T14:00:10+00:00"
-      },
-      {
-        "title": "Vous êtes pour ou contre l'IA ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "ovfYtAFYmlg",
-        "thumbnail": "https://i.ytimg.com/vi/ovfYtAFYmlg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ovfYtAFYmlg",
-        "publishedAt": "2026-07-01T11:42:57+00:00"
       },
       {
         "title": "La Chine ouvre, l'Amérique ferme : l'inversion que personne n'a vu venir !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Depuis Linux 6.9, LUKS suspend a cessé d'effacer les clés de chiffrement de disque de la mémoire",
+        "titleOriginal": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+        "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "source": "mathstodon.xyz",
+        "score": 186,
+        "comments": 90,
+        "hnUrl": "https://news.ycombinator.com/item?id=48763035",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Lancement HN : Manufact (YC S25) – MCP Cloud",
         "titleOriginal": "Launch HN: Manufact (YC S25) – MCP Cloud",
         "url": "https://manufact.com",
         "source": "manufact.com",
-        "score": 15,
-        "comments": 3,
+        "score": 63,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=48762862",
-        "date": "il y a 27 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Vérification des développeurs Android : la menace se fait passer pour une protection",
         "titleOriginal": "Android Developer Verification: Threat masquerading as protection",
         "url": "https://f-droid.org/2026/07/01/adv-malware.html",
         "source": "f-droid.org",
-        "score": 1201,
-        "comments": 493,
+        "score": 1365,
+        "comments": 564,
         "hnUrl": "https://news.ycombinator.com/item?id=48755965",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Show HN : Mail Memories – Une application de bureau pour sauver des photos de Gmail",
-        "titleOriginal": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
-        "url": "https://mailmemories.com",
-        "source": "mailmemories.com",
-        "score": 26,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48762000",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "L'IA ne peut pas être répertoriée en tant qu'inventeur sur les demandes de brevet, les règles judiciaires les plus strictes du Japon",
-        "titleOriginal": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
-        "source": "japannews.yomiuri.co.jp",
-        "score": 108,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48761536",
-        "date": "il y a 1 h"
+        "title": "PeerTube est une plateforme vidéo gratuite, décentralisée et fédérée",
+        "titleOriginal": "PeerTube is a free, decentralized and federated video platform",
+        "url": "https://github.com/Chocobozzz/PeerTube",
+        "source": "github.com",
+        "score": 172,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=48759634",
+        "date": "il y a 6 h"
       }
     ]
   },
