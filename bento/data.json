@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-02T13:19:11.308Z",
+  "updatedAt": "2026-07-02T15:39:00.460Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 24,
+      "temp": 25,
+      "feelsLike": 23,
       "code": 3,
       "wind": 19,
-      "humidity": 43
+      "humidity": 54
     },
     "forecast": [
       {
         "date": "2026-07-02",
         "code": 3,
-        "tmax": 27,
+        "tmax": 26,
         "tmin": 15
       },
       {
         "date": "2026-07-03",
-        "code": 2,
+        "code": 3,
         "tmax": 28,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-07-04",
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "SON RITUEL AVANT DE PARTIR EN MISSION",
+        "title": "On déguvine 32 bonbons avec Joyca et Matthieu et le plot twist de fin est magnifique",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "k3x_skhZKHE",
+        "thumbnail": "https://i.ytimg.com/vi/k3x_skhZKHE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k3x_skhZKHE",
+        "publishedAt": "2026-07-02T15:23:47+00:00"
+      },
+      {
+        "title": "LA DIFFÉRENCE ENTRE LES OPÉRATIONS SECRÈTES ET DISCRÈTES DANS L’ARMÉE FRANÇAISE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "kEilX3egaxA",
-        "thumbnail": "https://i.ytimg.com/vi/kEilX3egaxA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kEilX3egaxA",
-        "publishedAt": "2026-07-02T13:00:07+00:00"
+        "videoId": "d1n2iv7TosU",
+        "thumbnail": "https://i.ytimg.com/vi/d1n2iv7TosU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d1n2iv7TosU",
+        "publishedAt": "2026-07-02T14:00:10+00:00"
       },
       {
         "title": "Vous êtes pour ou contre l'IA ?",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/ovfYtAFYmlg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ovfYtAFYmlg",
         "publishedAt": "2026-07-01T11:42:57+00:00"
-      },
-      {
-        "title": "La connexion Carlito x PitchAddict c’est quelque chose",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "MTcXWJntKM4",
-        "thumbnail": "https://i.ytimg.com/vi/MTcXWJntKM4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MTcXWJntKM4",
-        "publishedAt": "2026-07-01T08:37:28+00:00"
       },
       {
         "title": "La Chine ouvre, l'Amérique ferme : l'inversion que personne n'a vu venir !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Ce blog est écrit en en-GB",
-        "titleOriginal": "This blog is written in en-GB",
-        "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
-        "source": "shkspr.mobi",
-        "score": 142,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=48760289",
-        "date": "il y a 1 h"
+        "title": "Lancement HN : Manufact (YC S25) – MCP Cloud",
+        "titleOriginal": "Launch HN: Manufact (YC S25) – MCP Cloud",
+        "url": "https://manufact.com",
+        "source": "manufact.com",
+        "score": 15,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48762862",
+        "date": "il y a 27 min"
       },
       {
-        "title": "Vite+ Bêta",
-        "titleOriginal": "Vite+ Beta",
-        "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
-        "source": "voidzero.dev",
-        "score": 72,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=48759761",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Vérification des développeurs Android : la menace déguisée en protection",
-        "titleOriginal": "Android Developer Verification: Threat masquerading as Protection",
+        "title": "Vérification des développeurs Android : la menace se fait passer pour une protection",
+        "titleOriginal": "Android Developer Verification: Threat masquerading as protection",
         "url": "https://f-droid.org/2026/07/01/adv-malware.html",
         "source": "f-droid.org",
-        "score": 942,
-        "comments": 389,
+        "score": 1201,
+        "comments": 493,
         "hnUrl": "https://news.ycombinator.com/item?id=48755965",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Les fausses nouvelles de l'IA se plaignent de la façon dont les fausses nouvelles de l'IA sont la mort des vraies nouvelles",
-        "titleOriginal": "AI fake news complaining about how AI fake news is the death of real news",
-        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-        "source": "niemanlab.org",
-        "score": 20,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48760598",
-        "date": "il y a 38 min"
+        "title": "Show HN : Mail Memories – Une application de bureau pour sauver des photos de Gmail",
+        "titleOriginal": "Show HN: Mail Memories – A desktop app to rescue photos from Gmail",
+        "url": "https://mailmemories.com",
+        "source": "mailmemories.com",
+        "score": 26,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48762000",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "L'IA ne peut pas être répertoriée en tant qu'inventeur sur les demandes de brevet, les règles judiciaires les plus strictes du Japon",
+        "titleOriginal": "AI can't be listed as inventor on patent applications, Japan's top court rules",
+        "url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+        "source": "japannews.yomiuri.co.jp",
+        "score": 108,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48761536",
+        "date": "il y a 1 h"
       }
     ]
   },
