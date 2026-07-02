@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-02T11:29:48.267Z",
+  "updatedAt": "2026-07-02T13:19:11.308Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 26,
-      "feelsLike": 25,
-      "code": 2,
-      "wind": 16,
+      "feelsLike": 24,
+      "code": 3,
+      "wind": 19,
       "humidity": 43
     },
     "forecast": [
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"DONNER LA MORT ÇA MARQUE À VIE\"",
+        "title": "SON RITUEL AVANT DE PARTIR EN MISSION",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "R2TwTpTpqc8",
-        "thumbnail": "https://i.ytimg.com/vi/R2TwTpTpqc8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R2TwTpTpqc8",
-        "publishedAt": "2026-07-02T11:00:33+00:00"
+        "videoId": "kEilX3egaxA",
+        "thumbnail": "https://i.ytimg.com/vi/kEilX3egaxA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kEilX3egaxA",
+        "publishedAt": "2026-07-02T13:00:07+00:00"
       },
       {
         "title": "Vous êtes pour ou contre l'IA ?",
@@ -154,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 6 sem",
+        "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 6 sem",
+        "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un nouveau malware Android de Google",
-        "titleOriginal": "A new Android malware from Google",
+        "title": "Ce blog est écrit en en-GB",
+        "titleOriginal": "This blog is written in en-GB",
+        "url": "https://shkspr.mobi/blog/2026/07/this-blog-is-written-in-en-gb/",
+        "source": "shkspr.mobi",
+        "score": 142,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48760289",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Vite+ Bêta",
+        "titleOriginal": "Vite+ Beta",
+        "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+        "source": "voidzero.dev",
+        "score": 72,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=48759761",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Vérification des développeurs Android : la menace déguisée en protection",
+        "titleOriginal": "Android Developer Verification: Threat masquerading as Protection",
         "url": "https://f-droid.org/2026/07/01/adv-malware.html",
         "source": "f-droid.org",
-        "score": 722,
-        "comments": 287,
+        "score": 942,
+        "comments": 389,
         "hnUrl": "https://news.ycombinator.com/item?id=48755965",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Le code Kimi K2.7 est généralement disponible dans GitHub Copilot",
-        "titleOriginal": "Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-        "source": "github.blog",
-        "score": 188,
-        "comments": 78,
-        "hnUrl": "https://news.ycombinator.com/item?id=48756602",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "La chute de l'économie théorique",
-        "titleOriginal": "The Fall of the Theorem Economy",
-        "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
-        "source": "davidbessis.substack.com",
-        "score": 74,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48758048",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Mes claviers préférés",
-        "titleOriginal": "My Favorite Keyboards",
-        "url": "https://fabiensanglard.net/keyboards/index.html",
-        "source": "fabiensanglard.net",
-        "score": 52,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48714884",
-        "date": "il y a 3 j"
+        "title": "Les fausses nouvelles de l'IA se plaignent de la façon dont les fausses nouvelles de l'IA sont la mort des vraies nouvelles",
+        "titleOriginal": "AI fake news complaining about how AI fake news is the death of real news",
+        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+        "source": "niemanlab.org",
+        "score": 20,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48760598",
+        "date": "il y a 38 min"
       }
     ]
   },
