@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-01T23:17:54.463Z",
+  "updatedAt": "2026-07-02T01:30:21.086Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 0,
-      "wind": 10,
-      "humidity": 68
+      "wind": 7,
+      "humidity": 75
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-07-03",
         "code": 3,
-        "tmax": 27,
-        "tmin": 16
+        "tmax": 28,
+        "tmin": 15
       },
       {
         "date": "2026-07-04",
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 109,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,9 +178,19 @@
         "titleOriginal": "ZCode – Harness for GLM-5.2",
         "url": "https://zcode.z.ai/en",
         "source": "zcode.z.ai",
-        "score": 95,
-        "comments": 173,
+        "score": 181,
+        "comments": 203,
         "hnUrl": "https://news.ycombinator.com/item?id=48753715",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Les dépenses en jetons IA internes Meta Caps après coûts approchent les milliards en 2026",
+        "titleOriginal": "Meta Caps Internal AI Token Spending After Costs Approach Billions in 2026",
+        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+        "source": "mlq.ai",
+        "score": 53,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=48754713",
         "date": "il y a 1 h"
       },
       {
@@ -196,30 +198,20 @@
         "titleOriginal": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
         "url": "https://www.workerowned.info/",
         "source": "workerowned.info",
-        "score": 117,
-        "comments": 21,
+        "score": 204,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=48752905",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Pour la première fois, une cellule construite à partir de zéro se développe et se divise",
         "titleOriginal": "For first time, a cell built from scratch grows and divides",
         "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
         "source": "quantamagazine.org",
-        "score": 665,
-        "comments": 226,
+        "score": 726,
+        "comments": 248,
         "hnUrl": "https://news.ycombinator.com/item?id=48747304",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Ce qu'il faut apprendre pour devenir programmeur graphique",
-        "titleOriginal": "What to learn to be a graphics programmer",
-        "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
-        "source": "blog.demofox.org",
-        "score": 195,
-        "comments": 96,
-        "hnUrl": "https://news.ycombinator.com/item?id=48750710",
-        "date": "il y a 5 h"
+        "date": "il y a 11 h"
       }
     ]
   },
