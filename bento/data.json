@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-03T16:21:30.331Z",
+  "updatedAt": "2026-07-03T17:55:47.664Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 27,
-      "feelsLike": 25,
-      "code": 1,
-      "wind": 15,
-      "humidity": 29
+      "feelsLike": 24,
+      "code": 2,
+      "wind": 13,
+      "humidity": 25
     },
     "forecast": [
       {
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Pro Cycling Manager 26",
-        "viewers": 7340,
+        "game": "Call of Duty: Black Ops 7",
+        "viewers": 7279,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       },
@@ -50,9 +50,17 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "Talk Shows & Podcasts",
-        "viewers": 650,
+        "viewers": 792,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 61,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -60,8 +68,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -189,44 +196,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les marchés sont compétitifs si et seulement si P = NP",
-        "titleOriginal": "Markets are competitive if and only if P = NP",
-        "url": "https://arxiv.org/abs/2602.20415",
-        "source": "arxiv.org",
-        "score": 62,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48776345",
-        "date": "il y a 39 min"
+        "title": "Claude, s'il te plaît, arrête d'essayer de mémoriser des conneries aléatoires",
+        "titleOriginal": "Claude, please stop trying to memorize random crap",
+        "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
+        "source": "12gramsofcarbon.com",
+        "score": 81,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=48776232",
+        "date": "il y a 2 h"
       },
       {
         "title": "Produit mi-cuit",
         "titleOriginal": "Half-Baked Product",
         "url": "https://weli.dev/blog/half-baked-product/",
         "source": "weli.dev",
-        "score": 873,
-        "comments": 262,
+        "score": 994,
+        "comments": 294,
         "hnUrl": "https://news.ycombinator.com/item?id=48772388",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "La vie et l'époque de Maxis, partie 1 : SimEverything",
+        "titleOriginal": "The Life and Times of Maxis, Part 1: SimEverything",
+        "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
+        "source": "filfre.net",
+        "score": 46,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48776525",
+        "date": "il y a 1 h"
       },
       {
         "title": "Jamesob's guide to running SOTA LLMs locally",
         "titleOriginal": "Jamesob's guide to running SOTA LLMs locally",
         "url": "https://github.com/jamesob/local-llm",
         "source": "github.com",
-        "score": 27,
-        "comments": 11,
+        "score": 79,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=48775921",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "PostgreSQL et le tueur OOM : pourquoi nous utilisons une mémoire stricte Overcommit",
-        "titleOriginal": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-        "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
-        "source": "ubicloud.com",
-        "score": 75,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=48774509",
-        "date": "il y a 3 h"
+        "date": "il y a 2 h"
       }
     ]
   },
