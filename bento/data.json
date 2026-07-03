@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-02T23:34:56.186Z",
+  "updatedAt": "2026-07-03T02:27:39.976Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 18,
-      "code": 1,
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 0,
       "wind": 7,
-      "humidity": 78
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-07-03",
         "code": 3,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 15
       },
       {
@@ -37,31 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 3990,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 98,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -193,9 +178,19 @@
         "titleOriginal": "Virginia bans sale of geolocation data",
         "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
         "source": "hunton.com",
-        "score": 299,
-        "comments": 51,
+        "score": 516,
+        "comments": 93,
         "hnUrl": "https://news.ycombinator.com/item?id=48767347",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Une urgence américaine en matière de confidentialité",
+        "titleOriginal": "An American Privacy Emergency",
+        "url": "https://scottaaronson.blog/?p=9902",
+        "source": "scottaaronson.blog",
+        "score": 157,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48768992",
         "date": "il y a 2 h"
       },
       {
@@ -203,30 +198,20 @@
         "titleOriginal": "crustc: entirety of `rustc`, translated to C",
         "url": "https://github.com/FractalFir/crustc",
         "source": "github.com",
-        "score": 28,
-        "comments": 1,
+        "score": 142,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=48768464",
-        "date": "il y a 37 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Exapunks (2018)",
-        "titleOriginal": "Exapunks (2018)",
-        "url": "https://www.zachtronics.com/exapunks/",
-        "source": "zachtronics.com",
-        "score": 205,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=48765663",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "La réalité a une quantité surprenante de détails (2017)",
-        "titleOriginal": "Reality has a surprising amount of detail (2017)",
-        "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
-        "source": "johnsalvatier.org",
-        "score": 78,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48702874",
-        "date": "il y a 4 j"
+        "title": "GitHub est fier d'annoncer que vous pouvez maintenant obtenir votre pension publique sur CD-ROM",
+        "titleOriginal": "GitHub is proud to announce that you can now obtain your public repo on CD-ROM",
+        "url": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl",
+        "source": "forms.cloud.microsoft",
+        "score": 74,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=48768997",
+        "date": "il y a 2 h"
       }
     ]
   },
