@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-03T17:55:47.664Z",
+  "updatedAt": "2026-07-03T19:14:17.903Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 24,
-      "code": 2,
-      "wind": 13,
-      "humidity": 25
+      "temp": 25,
+      "feelsLike": 22,
+      "code": 1,
+      "wind": 14,
+      "humidity": 33
     },
     "forecast": [
       {
@@ -39,35 +39,21 @@
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Call of Duty: Black Ops 7",
-        "viewers": 7279,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 792,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      },
-      {
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 61,
+        "viewers": 94,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam"
     ]
   },
@@ -196,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude, s'il te plaît, arrête d'essayer de mémoriser des conneries aléatoires",
-        "titleOriginal": "Claude, please stop trying to memorize random crap",
-        "url": "https://12gramsofcarbon.com/p/agentics-memorizing-session-transcripts",
-        "source": "12gramsofcarbon.com",
-        "score": 81,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=48776232",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Produit mi-cuit",
-        "titleOriginal": "Half-Baked Product",
-        "url": "https://weli.dev/blog/half-baked-product/",
-        "source": "weli.dev",
-        "score": 994,
-        "comments": 294,
-        "hnUrl": "https://news.ycombinator.com/item?id=48772388",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "La vie et l'époque de Maxis, partie 1 : SimEverything",
-        "titleOriginal": "The Life and Times of Maxis, Part 1: SimEverything",
-        "url": "https://www.filfre.net/2026/07/the-life-and-times-of-maxis-part-1-simeverything/",
-        "source": "filfre.net",
-        "score": 46,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48776525",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Jamesob's guide to running SOTA LLMs locally",
         "titleOriginal": "Jamesob's guide to running SOTA LLMs locally",
         "url": "https://github.com/jamesob/local-llm",
         "source": "github.com",
-        "score": 79,
-        "comments": 29,
+        "score": 131,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=48775921",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Les usines ne sont que des pièces",
+        "titleOriginal": "Factories are just rooms",
+        "url": "https://interconnected.org/home/2026/07/03/factories",
+        "source": "interconnected.org",
+        "score": 90,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48776035",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Chasse à un bug SQLite WAL vieux de 16 ans avec TLA+",
+        "titleOriginal": "Hunting a 16-year-old SQLite WAL bug with TLA+",
+        "url": "https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected",
+        "source": "ubuntu.com",
+        "score": 100,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48730953",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Mon père a aidé à construire la chaîne d'approvisionnement de l'avoine en Amérique du Nord : peut-elle être refaite ?",
+        "titleOriginal": "My dad helped build North America's oat supply chain: Can it be remade?",
+        "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+        "source": "ambrook.com",
+        "score": 55,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48732870",
+        "date": "il y a 3 j"
       }
     ]
   },
