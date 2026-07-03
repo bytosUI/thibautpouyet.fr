@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-03T09:40:50.257Z",
+  "updatedAt": "2026-07-03T12:05:19.818Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 23,
-      "code": 3,
-      "wind": 5,
-      "humidity": 41
+      "temp": 27,
+      "feelsLike": 27,
+      "code": 1,
+      "wind": 12,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -31,18 +31,26 @@
       {
         "date": "2026-07-06",
         "code": 3,
-        "tmax": 33,
-        "tmin": 15
+        "tmax": 32,
+        "tmin": 14
       }
     ]
   },
   "twitch": {
     "live": [
       {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 804,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      },
+      {
         "user": "bastiui",
         "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 352,
+        "viewers": 187,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
         "url": "https://twitch.tv/bastiui"
       }
@@ -52,7 +60,6 @@
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,22 +67,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "CADAVRES, FAUX OUVRIERS, INTERPOL : LES SECRETS DE CE PROMOTEUR IMMOBILIER VONT VOUS CHOQUER !",
+        "title": "LA TECHNIQUE DU FISC POUR RETROUVER LES PISCINES CONSTRUITES SANS AUTORISATION !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "e-Fp28YOgGw",
-        "thumbnail": "https://i.ytimg.com/vi/e-Fp28YOgGw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e-Fp28YOgGw",
-        "publishedAt": "2026-07-03T09:00:06+00:00"
+        "videoId": "BI9n3iCeWSs",
+        "thumbnail": "https://i.ytimg.com/vi/BI9n3iCeWSs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BI9n3iCeWSs",
+        "publishedAt": "2026-07-03T12:00:13+00:00"
       },
       {
-        "title": "Le CPF a créé une industrie qui pioche dans l'argent public ?",
+        "title": "Elle dit merci au Covid ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "0NYESuzUaNE",
-        "thumbnail": "https://i.ytimg.com/vi/0NYESuzUaNE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0NYESuzUaNE",
-        "publishedAt": "2026-07-02T16:24:56+00:00"
+        "videoId": "UFC7ECn70hw",
+        "thumbnail": "https://i.ytimg.com/vi/UFC7ECn70hw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UFC7ECn70hw",
+        "publishedAt": "2026-07-03T09:44:44+00:00"
       },
       {
         "title": "On déguvine 32 bonbons avec Joyca et Matthieu et le plot twist de fin est magnifique",
@@ -182,44 +189,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Produit mi-cuit",
+        "titleOriginal": "Half-Baked Product",
+        "url": "https://weli.dev/blog/half-baked-product/",
+        "source": "weli.dev",
+        "score": 293,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=48772388",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Virginie interdit la vente de données de géolocalisation",
         "titleOriginal": "Virginia bans sale of geolocation data",
         "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
         "source": "hunton.com",
-        "score": 768,
-        "comments": 124,
+        "score": 830,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=48767347",
-        "date": "il y a 12 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "CarPlay est additif",
-        "titleOriginal": "CarPlay Is Additive",
-        "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
-        "source": "caseyliss.com",
-        "score": 292,
-        "comments": 358,
-        "hnUrl": "https://news.ycombinator.com/item?id=48769397",
-        "date": "il y a 8 h"
+        "title": "Erreurs d'armes à feu dans l'écriture de fiction : Édition Handgun",
+        "titleOriginal": "Gun Mistakes in Fiction Writing: Handgun Edition",
+        "url": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition",
+        "source": "swiftsilentdeadly.com",
+        "score": 26,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48773652",
+        "date": "il y a 50 min"
       },
       {
         "title": "Droit au renseignement local",
         "titleOriginal": "Right to Local Intelligence",
         "url": "https://righttointelligence.org/",
         "source": "righttointelligence.org",
-        "score": 241,
-        "comments": 83,
+        "score": 313,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=48768951",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "crustc : totalité de `rustc`, traduit en C",
-        "titleOriginal": "crustc: entirety of `rustc`, translated to C",
-        "url": "https://github.com/FractalFir/crustc",
-        "source": "github.com",
-        "score": 277,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=48768464",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
       }
     ]
   },
