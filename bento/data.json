@@ -1,22 +1,57 @@
 {
-  "updatedAt": "2026-07-03T06:08:30.934Z",
-  "weather": null,
+  "updatedAt": "2026-07-03T09:40:50.257Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 23,
+      "feelsLike": 23,
+      "code": 3,
+      "wind": 5,
+      "humidity": 41
+    },
+    "forecast": [
+      {
+        "date": "2026-07-03",
+        "code": 3,
+        "tmax": 28,
+        "tmin": 15
+      },
+      {
+        "date": "2026-07-04",
+        "code": 0,
+        "tmax": 30,
+        "tmin": 14
+      },
+      {
+        "date": "2026-07-05",
+        "code": 3,
+        "tmax": 30,
+        "tmin": 16
+      },
+      {
+        "date": "2026-07-06",
+        "code": 3,
+        "tmax": 33,
+        "tmin": 15
+      }
+    ]
+  },
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 236,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "viewers": 352,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -31,7 +66,7 @@
         "videoId": "e-Fp28YOgGw",
         "thumbnail": "https://i.ytimg.com/vi/e-Fp28YOgGw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=e-Fp28YOgGw",
-        "publishedAt": "2026-07-02T17:15:35+00:00"
+        "publishedAt": "2026-07-03T09:00:06+00:00"
       },
       {
         "title": "Le CPF a créé une industrie qui pioche dans l'argent public ?",
@@ -147,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le mensonge du marché libre : pourquoi la Suisse a Internet 25 Gbit et l'Amérique ne l'a pas",
-        "titleOriginal": "The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't",
-        "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
-        "source": "stefan.schueller.net",
-        "score": 255,
-        "comments": 150,
-        "hnUrl": "https://news.ycombinator.com/item?id=48770647",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Virginie interdit la vente de données de géolocalisation",
         "titleOriginal": "Virginia bans sale of geolocation data",
         "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
         "source": "hunton.com",
-        "score": 665,
-        "comments": 116,
+        "score": 768,
+        "comments": 124,
         "hnUrl": "https://news.ycombinator.com/item?id=48767347",
-        "date": "il y a 9 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "CarPlay est additif",
         "titleOriginal": "CarPlay Is Additive",
         "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
         "source": "caseyliss.com",
-        "score": 174,
-        "comments": 219,
+        "score": 292,
+        "comments": 358,
         "hnUrl": "https://news.ycombinator.com/item?id=48769397",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Le contrôle des naissances de l'iPhone est-il ? Preuve causale du monopole 2007-2011 d'AT&T [pdf]",
-        "titleOriginal": "Is the iPhone birth control? Causal evidence from AT&T's 2007-2011 monopoly [pdf]",
-        "url": "https://www.nber.org/system/files/working_papers/w35310/w35310.pdf",
-        "source": "nber.org",
-        "score": 54,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48760106",
-        "date": "il y a 18 h"
+        "title": "Droit au renseignement local",
+        "titleOriginal": "Right to Local Intelligence",
+        "url": "https://righttointelligence.org/",
+        "source": "righttointelligence.org",
+        "score": 241,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=48768951",
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "crustc : totalité de `rustc`, traduit en C",
+        "titleOriginal": "crustc: entirety of `rustc`, translated to C",
+        "url": "https://github.com/FractalFir/crustc",
+        "source": "github.com",
+        "score": 277,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48768464",
+        "date": "il y a 10 h"
       }
     ]
   },
