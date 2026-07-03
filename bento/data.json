@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-03T12:05:19.818Z",
+  "updatedAt": "2026-07-03T14:39:12.395Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 27,
-      "code": 1,
-      "wind": 12,
-      "humidity": 31
+      "temp": 28,
+      "feelsLike": 26,
+      "code": 0,
+      "wind": 13,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -39,27 +39,20 @@
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 804,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 187,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Pro Cycling Manager 26",
+        "viewers": 6072,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -193,40 +186,40 @@
         "titleOriginal": "Half-Baked Product",
         "url": "https://weli.dev/blog/half-baked-product/",
         "source": "weli.dev",
-        "score": 293,
-        "comments": 69,
+        "score": 673,
+        "comments": 187,
         "hnUrl": "https://news.ycombinator.com/item?id=48772388",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Virginie interdit la vente de données de géolocalisation",
-        "titleOriginal": "Virginia bans sale of geolocation data",
-        "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
-        "source": "hunton.com",
-        "score": 830,
-        "comments": 129,
-        "hnUrl": "https://news.ycombinator.com/item?id=48767347",
-        "date": "il y a 15 h"
+        "title": "PostgreSQL et le tueur OOM : pourquoi nous utilisons une mémoire stricte Overcommit",
+        "titleOriginal": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+        "url": "https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit",
+        "source": "ubicloud.com",
+        "score": 39,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48774509",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Erreurs d'armes à feu dans l'écriture de fiction : Édition Handgun",
-        "titleOriginal": "Gun Mistakes in Fiction Writing: Handgun Edition",
-        "url": "https://www.swiftsilentdeadly.com/blog/gun-mistakes-in-fiction-writing-handgun-edition",
-        "source": "swiftsilentdeadly.com",
-        "score": 26,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=48773652",
-        "date": "il y a 50 min"
+        "title": "Vanne open source l'écran e-ink de la machine à vapeur afin que vous puissiez faire votre propre",
+        "titleOriginal": "Valve open source the Steam Machine e-ink screen so you can make your own",
+        "url": "https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/",
+        "source": "gamingonlinux.com",
+        "score": 108,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48774518",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Droit au renseignement local",
-        "titleOriginal": "Right to Local Intelligence",
-        "url": "https://righttointelligence.org/",
-        "source": "righttointelligence.org",
-        "score": 313,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=48768951",
-        "date": "il y a 12 h"
+        "title": "Wordgard : le nouvel éditeur de texte enrichi intégré au navigateur du créateur de ProseMirror",
+        "titleOriginal": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+        "url": "https://wordgard.net/",
+        "source": "wordgard.net",
+        "score": 102,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=48772573",
+        "date": "il y a 5 h"
       }
     ]
   },
