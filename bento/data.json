@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-04T20:49:35.370Z",
+  "updatedAt": "2026-07-04T21:53:11.150Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 24,
+      "temp": 23,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 9,
-      "humidity": 51
+      "wind": 11,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 122,
+        "viewers": 139,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 6 j",
+        "time": "il y a 1 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Vague 1 — anniversaires, état calme, 12 personas",
-        "time": "il y a 6 j",
+        "time": "il y a 1 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/25ab1011bf69847df041fd663d4dff9f8b238827"
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
         "source": "github.com",
-        "score": 77,
-        "comments": 39,
+        "score": 176,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=48788283",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Fuite des vidéos privées des créateurs YouTube",
         "titleOriginal": "Leaking YouTube creators' private videos",
         "url": "https://javoriuski.com/post/youtube",
         "source": "javoriuski.com",
-        "score": 345,
-        "comments": 172,
+        "score": 391,
+        "comments": 194,
         "hnUrl": "https://news.ycombinator.com/item?id=48786781",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Google Books (ou similaire) toutes les numérisations de livres – prime de 200 000 $ ( 2025)",
         "titleOriginal": "Google Books (or similar) all book scans – $200k bounty (2025)",
         "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
         "source": "software.annas-archive.gl",
-        "score": 201,
-        "comments": 95,
+        "score": 239,
+        "comments": 121,
         "hnUrl": "https://news.ycombinator.com/item?id=48786838",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Verizon est sur le point de casser nos montres",
         "titleOriginal": "Verizon is About to Break our Watches",
         "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
         "source": "jefftk.com",
-        "score": 77,
-        "comments": 31,
+        "score": 97,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=48787329",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       }
     ]
   },
