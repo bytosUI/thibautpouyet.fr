@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-04T05:58:08.767Z",
+  "updatedAt": "2026-07-04T08:40:23.719Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
+      "temp": 21,
+      "feelsLike": 21,
       "code": 0,
-      "wind": 3,
-      "humidity": 71
+      "wind": 2,
+      "humidity": 39
     },
     "forecast": [
       {
         "date": "2026-07-04",
-        "code": 1,
+        "code": 2,
         "tmax": 30,
         "tmin": 14
       },
@@ -52,22 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "VOUS POUVEZ CONSTRUIRE VOTRE MAISON EN IMPRESSION 3D EN SEULEMENT...4 JOURS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "UKAGW2ckUqk",
-        "thumbnail": "https://i.ytimg.com/vi/UKAGW2ckUqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UKAGW2ckUqk",
-        "publishedAt": "2026-07-03T15:00:02+00:00"
-      },
-      {
-        "title": "Elle dit merci au Covid ?",
+        "title": "La vie standard vous détruira ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "UFC7ECn70hw",
-        "thumbnail": "https://i.ytimg.com/vi/UFC7ECn70hw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UFC7ECn70hw",
-        "publishedAt": "2026-07-03T09:44:44+00:00"
+        "videoId": "UD8q9YdqgjE",
+        "thumbnail": "https://i.ytimg.com/vi/UD8q9YdqgjE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UD8q9YdqgjE",
+        "publishedAt": "2026-07-04T08:35:53+00:00"
+      },
+      {
+        "title": "COMMENT IL A GAGNÉ 2 MILLIONS D'€ EN 24H",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "rzWyot0MLZw",
+        "thumbnail": "https://i.ytimg.com/vi/rzWyot0MLZw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rzWyot0MLZw",
+        "publishedAt": "2026-07-04T08:00:13+00:00"
+      },
+      {
+        "title": "Le Festin Episode Final | Tous les invités réunis pour la première fois !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "eGIlSOp6PnY",
+        "thumbnail": "https://i.ytimg.com/vi/eGIlSOp6PnY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eGIlSOp6PnY",
+        "publishedAt": "2026-07-04T06:30:12+00:00"
       },
       {
         "title": "On déguvine 32 bonbons avec Joyca et Matthieu et le plot twist de fin est magnifique",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/k3x_skhZKHE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=k3x_skhZKHE",
         "publishedAt": "2026-07-02T15:23:47+00:00"
-      },
-      {
-        "title": "La Chine ouvre, l'Amérique ferme : l'inversion que personne n'a vu venir !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Ytj8MTd5AOs",
-        "thumbnail": "https://i.ytimg.com/vi/Ytj8MTd5AOs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ytj8MTd5AOs",
-        "publishedAt": "2026-07-01T06:30:20+00:00"
       },
       {
         "title": "Pourquoi il faisait si froid dans la maison ? #23",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le goulot d'étranglement pourrait être l'air dans la pièce",
+        "titleOriginal": "The bottleneck might be the air in the room",
+        "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+        "source": "blog.mikebowler.ca",
+        "score": 140,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48783117",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Notes de codage authentiques de l'île des Galapagos",
         "titleOriginal": "Agentic coding notes from Galapagos Island",
         "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
         "source": "danluu.com",
-        "score": 34,
-        "comments": 13,
+        "score": 74,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=48782671",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "La performance par dollar devient plus rapide et moins chère",
         "titleOriginal": "Performance per dollar is getting faster and cheaper",
         "url": "https://www.wafer.ai/blog/glm52-amd",
         "source": "wafer.ai",
-        "score": 185,
-        "comments": 52,
+        "score": 229,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=48780417",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Les arbres géants n'ont aucun problème à pomper de l'eau vers les branches supérieures : nouvelles recherches",
-        "titleOriginal": "Giant trees have no trouble pumping water to top branches: new research",
-        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-        "source": "news.exeter.ac.uk",
-        "score": 161,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=48780870",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Leanstral 1.5 : Preuve d'abondance pour tous",
         "titleOriginal": "Leanstral 1.5: Proof abundance for all",
         "url": "https://mistral.ai/news/leanstral-1-5/",
         "source": "mistral.ai",
-        "score": 158,
-        "comments": 35,
+        "score": 214,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=48780801",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       }
     ]
   },
