@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-04T12:02:34.592Z",
+  "updatedAt": "2026-07-04T14:07:41.338Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 30,
       "feelsLike": 28,
       "code": 0,
-      "wind": 7,
-      "humidity": 25
+      "wind": 15,
+      "humidity": 18
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"ILS ONT INVESTI SANS NOUS CONNAÎTRE\"",
+        "title": "IL REFUSE 100 000 EUROS À 24 ANS !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "5Tto2PjQWQM",
-        "thumbnail": "https://i.ytimg.com/vi/5Tto2PjQWQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5Tto2PjQWQM",
-        "publishedAt": "2026-07-04T11:00:08+00:00"
+        "videoId": "5Q_yQIICbWA",
+        "thumbnail": "https://i.ytimg.com/vi/5Q_yQIICbWA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5Q_yQIICbWA",
+        "publishedAt": "2026-07-04T13:00:37+00:00"
       },
       {
         "title": "La vie standard vous détruira ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le goulot d'étranglement pourrait être l'air dans la pièce",
-        "titleOriginal": "The bottleneck might be the air in the room",
-        "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
-        "source": "blog.mikebowler.ca",
-        "score": 373,
-        "comments": 217,
-        "hnUrl": "https://news.ycombinator.com/item?id=48783117",
-        "date": "il y a 5 h"
-      },
-      {
         "title": "Astrophysiciens Puzzle sur le nouvel univers de Webb",
-        "titleOriginal": "Astrophysicists Puzzle over Webb's New Universe",
+        "titleOriginal": "Astrophysicists Puzzle over Webb’s New Universe",
         "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
         "source": "quantamagazine.org",
-        "score": 44,
-        "comments": 14,
+        "score": 89,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=48783948",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Mir Books – Livres de l'ère soviétique",
-        "titleOriginal": "Mir Books – Books from the Soviet Era",
-        "url": "https://mirtitles.org",
-        "source": "mirtitles.org",
-        "score": 101,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=48739018",
+        "title": "La Vespa à 80 ans : pourquoi le scooter italien reste la chose la plus cool sur 2 roues",
+        "titleOriginal": "The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels",
+        "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+        "source": "cbc.ca",
+        "score": 54,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48746327",
         "date": "il y a 3 j"
       },
       {
-        "title": "La performance par dollar devient plus rapide et moins chère",
-        "titleOriginal": "Performance per dollar is getting faster and cheaper",
-        "url": "https://www.wafer.ai/blog/glm52-amd",
-        "source": "wafer.ai",
-        "score": 267,
-        "comments": 95,
-        "hnUrl": "https://news.ycombinator.com/item?id=48780417",
-        "date": "il y a 14 h"
+        "title": "Sorcières de la nuit – régiment d'aviateurs soviétiques entièrement féminin WW2",
+        "titleOriginal": "Night Witches – all-female Soviet aviator regiment WW2",
+        "url": "https://en.wikipedia.org/wiki/Night_Witches",
+        "source": "en.wikipedia.org",
+        "score": 29,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48737068",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Explication de tout ce que vous pouvez voir dans htop/top sur Linux",
+        "titleOriginal": "Explanation of everything you can see in htop/top on Linux",
+        "url": "https://peteris.rocks/blog/htop/",
+        "source": "peteris.rocks",
+        "score": 11,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48784777",
+        "date": "il y a 2 h"
       }
     ]
   },
