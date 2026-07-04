@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-04T15:39:42.948Z",
+  "updatedAt": "2026-07-04T16:58:46.027Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 30,
-      "feelsLike": 28,
+      "feelsLike": 27,
       "code": 0,
-      "wind": 14,
-      "humidity": 21
+      "wind": 15,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-07-07",
-        "code": 2,
-        "tmax": 35,
-        "tmin": 16
+        "code": 3,
+        "tmax": 34,
+        "tmin": 15
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "CETTE VILLA A UNE PIÈCE SECRÈTE COMPLÈTEMENT CACHÉE",
+        "title": "ILS ONT FAILLI FINANCER UN CHÂTEAU PERQUISITIONNÉ PAR INTERPOL",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "BNUwEBN2vZ0",
-        "thumbnail": "https://i.ytimg.com/vi/BNUwEBN2vZ0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BNUwEBN2vZ0",
-        "publishedAt": "2026-07-04T15:00:30+00:00"
+        "videoId": "8ou3mr6RaXI",
+        "thumbnail": "https://i.ytimg.com/vi/8ou3mr6RaXI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8ou3mr6RaXI",
+        "publishedAt": "2026-07-04T16:00:15+00:00"
       },
       {
         "title": "La vie standard vous détruira ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Potential session/cache leakage between workspace instances or consumer accounts",
         "url": "https://github.com/anthropics/claude-code/issues/74066",
         "source": "github.com",
-        "score": 100,
-        "comments": 31,
+        "score": 172,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=48785485",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Explication de tout ce que vous pouvez voir dans htop/top sur Linux",
         "titleOriginal": "Explanation of everything you can see in htop/top on Linux",
         "url": "https://peteris.rocks/blog/htop/",
         "source": "peteris.rocks",
-        "score": 137,
-        "comments": 15,
+        "score": 202,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=48784777",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Astrophysiciens Puzzle sur le nouvel univers de Webb",
-        "titleOriginal": "Astrophysicists Puzzle over Webb’s New Universe",
-        "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
-        "source": "quantamagazine.org",
-        "score": 118,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=48783948",
-        "date": "il y a 6 h"
+        "title": "Petit imprévu.",
+        "titleOriginal": "Curveball",
+        "url": "https://mightyburger.net/projects/curveball/",
+        "source": "mightyburger.net",
+        "score": 9,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48786495",
+        "date": "il y a 42 min"
       },
       {
-        "title": "Ce que les ORM m'ont appris : il suffit d'apprendre SQL (2014)",
-        "titleOriginal": "What ORMs have taught me: just learn SQL (2014)",
-        "url": "https://wozniak.ca/blog/2014/08/03/1/index.html",
-        "source": "wozniak.ca",
-        "score": 17,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48742175",
-        "date": "il y a 3 j"
+        "title": "Windows CE Dreamcast Community Edition (wince-dc)",
+        "titleOriginal": "Windows CE Dreamcast Community Edition (wince-dc)",
+        "url": "https://github.com/maximqaxd/wince-dc",
+        "source": "github.com",
+        "score": 20,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48785840",
+        "date": "il y a 2 h"
       }
     ]
   },
