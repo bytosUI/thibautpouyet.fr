@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-05T06:53:09.483Z",
+  "updatedAt": "2026-07-05T09:38:47.759Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
+      "temp": 24,
+      "feelsLike": 25,
       "code": 2,
-      "wind": 7,
-      "humidity": 74
+      "wind": 8,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ILS ONT FAILLI FINANCER UN CHÂTEAU PERQUISITIONNÉ PAR INTERPOL",
+        "title": "CE SPÉCIALISTE DU SOMMEIL VOUS DONNE TOUS LES SECRETS D’UN SOMMEIL PARFAIT (RÊVES ÉROTIQUES, COUPLE)",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "8ou3mr6RaXI",
-        "thumbnail": "https://i.ytimg.com/vi/8ou3mr6RaXI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8ou3mr6RaXI",
-        "publishedAt": "2026-07-04T16:00:15+00:00"
+        "videoId": "MTVO_fIx4NE",
+        "thumbnail": "https://i.ytimg.com/vi/MTVO_fIx4NE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MTVO_fIx4NE",
+        "publishedAt": "2026-07-05T09:00:06+00:00"
       },
       {
         "title": "La vie standard vous détruira ?",
@@ -178,39 +178,39 @@
         "titleOriginal": "Shadcn/UI now defaults to Base UI instead of Radix",
         "url": "https://ui.shadcn.com/docs/changelog",
         "source": "ui.shadcn.com",
-        "score": 67,
-        "comments": 14,
+        "score": 118,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=48791328",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Command and Conquer Generals porté nativement sur macOS, iPhone, iPad à l'aide de Fable",
-        "titleOriginal": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-        "source": "github.com",
-        "score": 492,
-        "comments": 205,
-        "hnUrl": "https://news.ycombinator.com/item?id=48788283",
-        "date": "il y a 11 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Si vous êtes un bouton, vous avez un emploi",
         "titleOriginal": "If you're a button, you have one job",
         "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
         "source": "unsung.aresluna.org",
-        "score": 122,
-        "comments": 35,
+        "score": 210,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48790689",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Souris : outils d'édition de précision pour les agents de codage IA",
-        "titleOriginal": "Mouse: Precision Editing Tools for AI Coding Agents",
-        "url": "https://hic-ai.com",
-        "source": "hic-ai.com",
-        "score": 16,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48791380",
+        "title": "Command and Conquer Generals porté nativement sur macOS, iPhone, iPad à l'aide de Fable",
+        "titleOriginal": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "source": "github.com",
+        "score": 564,
+        "comments": 230,
+        "hnUrl": "https://news.ycombinator.com/item?id=48788283",
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Apocketlypse",
+        "titleOriginal": "Apocketlypse",
+        "url": "https://0dd.company/galleries/triumph/1.html",
+        "source": "0dd.company",
+        "score": 13,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48792352",
         "date": "il y a 1 h"
       }
     ]
