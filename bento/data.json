@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-07-05T09:38:47.759Z",
+  "updatedAt": "2026-07-05T11:26:52.519Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 25,
-      "code": 2,
-      "wind": 8,
-      "humidity": 56
+      "temp": 26,
+      "feelsLike": 27,
+      "code": 3,
+      "wind": 14,
+      "humidity": 46
     },
     "forecast": [
       {
         "date": "2026-07-05",
         "code": 3,
-        "tmax": 30,
+        "tmax": 29,
         "tmin": 16
       },
       {
         "date": "2026-07-06",
         "code": 3,
         "tmax": 33,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-07-07",
         "code": 3,
-        "tmax": 34,
+        "tmax": 35,
         "tmin": 18
       },
       {
         "date": "2026-07-08",
         "code": 3,
-        "tmax": 31,
-        "tmin": 17
+        "tmax": 33,
+        "tmin": 18
       }
     ]
   },
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "CE SPÉCIALISTE DU SOMMEIL VOUS DONNE TOUS LES SECRETS D’UN SOMMEIL PARFAIT (RÊVES ÉROTIQUES, COUPLE)",
+        "title": "À QUEL ÂGE FAUT-IL S’INQUIÉTER SI SON ENFANT FAIT PIPI AU LIT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "MTVO_fIx4NE",
-        "thumbnail": "https://i.ytimg.com/vi/MTVO_fIx4NE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MTVO_fIx4NE",
-        "publishedAt": "2026-07-05T09:00:06+00:00"
+        "videoId": "gUcxOkzKWM0",
+        "thumbnail": "https://i.ytimg.com/vi/gUcxOkzKWM0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gUcxOkzKWM0",
+        "publishedAt": "2026-07-05T11:00:01+00:00"
       },
       {
-        "title": "La vie standard vous détruira ?",
+        "title": "Est-ce que le SEO est une arnaque ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "UD8q9YdqgjE",
-        "thumbnail": "https://i.ytimg.com/vi/UD8q9YdqgjE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UD8q9YdqgjE",
-        "publishedAt": "2026-07-04T08:35:53+00:00"
+        "videoId": "l9-3iwvfgHE",
+        "thumbnail": "https://i.ytimg.com/vi/l9-3iwvfgHE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l9-3iwvfgHE",
+        "publishedAt": "2026-07-05T09:49:34+00:00"
       },
       {
         "title": "Le Festin Episode Final | Tous les invités réunis pour la première fois !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Ford réengage des ingénieurs humains après que l'IA n'ait pas réussi à correspondre aux contrôles de qualité",
+        "titleOriginal": "Ford rehires human engineers after AI fails to match quality checks",
+        "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
+        "source": "bbc.com",
+        "score": 21,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48793020",
+        "date": "il y a 43 min"
+      },
+      {
         "title": "Shadcn/UI a maintenant par défaut l'interface utilisateur de base au lieu de Radix",
         "titleOriginal": "Shadcn/UI now defaults to Base UI instead of Radix",
         "url": "https://ui.shadcn.com/docs/changelog",
         "source": "ui.shadcn.com",
-        "score": 118,
-        "comments": 35,
+        "score": 150,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=48791328",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Si vous êtes un bouton, vous avez un emploi",
         "titleOriginal": "If you're a button, you have one job",
         "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
         "source": "unsung.aresluna.org",
-        "score": 210,
-        "comments": 101,
+        "score": 248,
+        "comments": 135,
         "hnUrl": "https://news.ycombinator.com/item?id=48790689",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Command and Conquer Generals porté nativement sur macOS, iPhone, iPad à l'aide de Fable",
         "titleOriginal": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
         "source": "github.com",
-        "score": 564,
-        "comments": 230,
+        "score": 588,
+        "comments": 246,
         "hnUrl": "https://news.ycombinator.com/item?id=48788283",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "Apocketlypse",
-        "titleOriginal": "Apocketlypse",
-        "url": "https://0dd.company/galleries/triumph/1.html",
-        "source": "0dd.company",
-        "score": 13,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48792352",
-        "date": "il y a 1 h"
+        "date": "il y a 15 h"
       }
     ]
   },
