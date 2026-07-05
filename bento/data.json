@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-04T23:56:54.658Z",
+  "updatedAt": "2026-07-05T03:19:51.671Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 17,
+      "feelsLike": 17,
       "code": 0,
-      "wind": 9,
-      "humidity": 67
+      "wind": 4,
+      "humidity": 82
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les scientifiques inversent le vieillissement du cerveau, avec un spray nasal",
+        "titleOriginal": "Scientists reverse brain aging, with a nasal spray",
+        "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+        "source": "stories.tamu.edu",
+        "score": 180,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=48790066",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Command and Conquer Generals porté nativement sur macOS, iPhone, iPad à l'aide de Fable",
         "titleOriginal": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
         "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
         "source": "github.com",
-        "score": 299,
-        "comments": 126,
+        "score": 385,
+        "comments": 146,
         "hnUrl": "https://news.ycombinator.com/item?id=48788283",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "GPT-5.5 Le regroupement de jetons de raisonnement du Codex peut entraîner une dégradation des performances",
         "titleOriginal": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
-        "score": 106,
-        "comments": 23,
+        "score": 171,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=48789428",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Google Books (ou similaire) toutes les numérisations de livres – prime de 200 000 $ ( 2025)",
         "titleOriginal": "Google Books (or similar) all book scans – $200k bounty (2025)",
         "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
         "source": "software.annas-archive.gl",
-        "score": 296,
-        "comments": 151,
+        "score": 362,
+        "comments": 195,
         "hnUrl": "https://news.ycombinator.com/item?id=48786838",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Fuite des vidéos privées des créateurs YouTube",
-        "titleOriginal": "Leaking YouTube creators' private videos",
-        "url": "https://javoriuski.com/post/youtube",
-        "source": "javoriuski.com",
-        "score": 445,
-        "comments": 246,
-        "hnUrl": "https://news.ycombinator.com/item?id=48786781",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       }
     ]
   },
