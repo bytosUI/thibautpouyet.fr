@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-05T11:26:52.519Z",
+  "updatedAt": "2026-07-05T12:48:00.842Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
+      "temp": 28,
       "feelsLike": 27,
       "code": 3,
-      "wind": 14,
-      "humidity": 46
+      "wind": 16,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Ford réengage des ingénieurs humains après que l'IA n'ait pas réussi à correspondre aux contrôles de qualité",
-        "titleOriginal": "Ford rehires human engineers after AI fails to match quality checks",
-        "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
-        "source": "bbc.com",
-        "score": 21,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48793020",
-        "date": "il y a 43 min"
-      },
-      {
         "title": "Shadcn/UI a maintenant par défaut l'interface utilisateur de base au lieu de Radix",
         "titleOriginal": "Shadcn/UI now defaults to Base UI instead of Radix",
         "url": "https://ui.shadcn.com/docs/changelog",
         "source": "ui.shadcn.com",
-        "score": 150,
-        "comments": 51,
+        "score": 179,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=48791328",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Si vous êtes un bouton, vous avez un emploi",
         "titleOriginal": "If you're a button, you have one job",
         "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
         "source": "unsung.aresluna.org",
-        "score": 248,
-        "comments": 135,
+        "score": 306,
+        "comments": 155,
         "hnUrl": "https://news.ycombinator.com/item?id=48790689",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Command and Conquer Generals porté nativement sur macOS, iPhone, iPad à l'aide de Fable",
-        "titleOriginal": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-        "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "title": "Invite du système de conception Claude",
+        "titleOriginal": "Claude Design System Prompt",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "source": "github.com",
-        "score": 588,
-        "comments": 246,
-        "hnUrl": "https://news.ycombinator.com/item?id=48788283",
-        "date": "il y a 15 h"
+        "score": 42,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48792399",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Fast Software, le meilleur logiciel (2019)",
+        "titleOriginal": "Fast Software, the Best Software (2019)",
+        "url": "https://craigmod.com/essays/fast_software/",
+        "source": "craigmod.com",
+        "score": 55,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48792008",
+        "date": "il y a 5 h"
       }
     ]
   },
@@ -219,18 +219,7 @@
     "isPlayoffs": false,
     "resultsDate": null,
     "results": [],
-    "standings": {
-      "conferences": [
-        {
-          "name": "Eastern Conference",
-          "teams": []
-        },
-        {
-          "name": "Western Conference",
-          "teams": []
-        }
-      ]
-    },
+    "standings": null,
     "playoffs": null
   }
 }
