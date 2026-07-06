@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-06T18:25:04.140Z",
+  "updatedAt": "2026-07-06T20:21:35.512Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 29,
-      "code": 1,
-      "wind": 12,
-      "humidity": 22
+      "temp": 26,
+      "feelsLike": 26,
+      "code": 0,
+      "wind": 4,
+      "humidity": 37
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-07-08",
-        "code": 3,
+        "code": 2,
         "tmax": 32,
         "tmin": 18
       },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "AMD Ryzen AI Halo – Kit de développement AI de 4 000 $",
-        "titleOriginal": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-        "source": "lttlabs.com",
-        "score": 150,
-        "comments": 123,
-        "hnUrl": "https://news.ycombinator.com/item?id=48805624",
-        "date": "il y a 3 h"
+        "title": "OpenWrt One – Routeur matériel ouvert",
+        "titleOriginal": "OpenWrt One – Open Hardware Router",
+        "url": "https://openwrt.org/toh/openwrt/one",
+        "source": "openwrt.org",
+        "score": 166,
+        "comments": 80,
+        "hnUrl": "https://news.ycombinator.com/item?id=48808482",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Feuille d'aluminium (2021)",
-        "titleOriginal": "Aluminum foil (2021)",
-        "url": "https://dernocua.github.io/notes/aluminum-foil.html",
-        "source": "dernocua.github.io",
-        "score": 174,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48804297",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Kani : Un modèle de vérificateur pour la rouille",
-        "titleOriginal": "Kani: A Model Checker for Rust",
-        "url": "https://arxiv.org/abs/2607.01504",
-        "source": "arxiv.org",
-        "score": 49,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=48806410",
+        "title": "Un espace de travail global dans les modèles linguistiques",
+        "titleOriginal": "A global workspace in language models",
+        "url": "https://www.anthropic.com/research/global-workspace",
+        "source": "anthropic.com",
+        "score": 98,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48808002",
         "date": "il y a 2 h"
       },
       {
-        "title": "Road to Elm 1.0",
-        "titleOriginal": "Road to Elm 1.0",
-        "url": "https://elm-lang.org/news/faster-builds",
-        "source": "elm-lang.org",
-        "score": 244,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=48803364",
-        "date": "il y a 6 h"
+        "title": "CoMaps – Cartes hors ligne FOSS",
+        "titleOriginal": "CoMaps – FOSS Offline Maps",
+        "url": "https://www.comaps.app/",
+        "source": "comaps.app",
+        "score": 43,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48808928",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le prix par million de jetons n'a pas de sens",
+        "titleOriginal": "Price per 1M tokens is meaningless",
+        "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+        "source": "janilowski.pl",
+        "score": 23,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48809542",
+        "date": "il y a 37 min"
       }
     ]
   },
