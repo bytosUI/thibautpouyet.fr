@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-06T08:56:50.987Z",
+  "updatedAt": "2026-07-06T12:45:25.514Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
-      "code": 3,
-      "wind": 7,
-      "humidity": 52
+      "temp": 31,
+      "feelsLike": 32,
+      "code": 0,
+      "wind": 12,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -19,36 +19,28 @@
       {
         "date": "2026-07-07",
         "code": 3,
-        "tmax": 35,
-        "tmin": 18
+        "tmax": 34,
+        "tmin": 17
       },
       {
         "date": "2026-07-08",
-        "code": 2,
+        "code": 3,
         "tmax": 33,
         "tmin": 18
       },
       {
         "date": "2026-07-09",
-        "code": 0,
-        "tmax": 36,
+        "code": 1,
+        "tmax": 35,
         "tmin": 20
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 389,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI DORT-ON MOINS BIEN LES SOIRS DE PLEINE LUNE ?",
+        "title": "TROP DORMIR EST DANGEREUX POUR LA SANTÉ ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "XyvWbKnwANk",
-        "thumbnail": "https://i.ytimg.com/vi/XyvWbKnwANk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XyvWbKnwANk",
-        "publishedAt": "2026-07-06T08:00:11+00:00"
+        "videoId": "rfxrxVEMvxo",
+        "thumbnail": "https://i.ytimg.com/vi/rfxrxVEMvxo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rfxrxVEMvxo",
+        "publishedAt": "2026-07-06T12:30:11+00:00"
+      },
+      {
+        "title": "Son CDI l'a rendu libre ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "x6gdEPQFUvA",
+        "thumbnail": "https://i.ytimg.com/vi/x6gdEPQFUvA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x6gdEPQFUvA",
+        "publishedAt": "2026-07-06T09:16:15+00:00"
       },
       {
         "title": "Léna, Jain, Eva et Adèle dévoilent leur hit de l’été !!!",
@@ -85,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/xQPWe2c9vQ8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xQPWe2c9vQ8",
         "publishedAt": "2026-07-05T17:15:32+00:00"
-      },
-      {
-        "title": "Est-ce que le SEO est une arnaque ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "l9-3iwvfgHE",
-        "thumbnail": "https://i.ytimg.com/vi/l9-3iwvfgHE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l9-3iwvfgHE",
-        "publishedAt": "2026-07-05T09:49:34+00:00"
       },
       {
         "title": "Le Festin Episode Final | Tous les invités réunis pour la première fois !",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Carte en temps réel du réseau ferroviaire britannique",
+        "titleOriginal": "Real-time map of Great Britain's rail network",
+        "url": "https://www.map.signalbox.io",
+        "source": "map.signalbox.io",
+        "score": 179,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=48802535",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Road to Elm 1.0",
+        "titleOriginal": "Road to Elm 1.0",
+        "url": "https://elm-lang.org/news/faster-builds",
+        "source": "elm-lang.org",
+        "score": 45,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48803364",
+        "date": "il y a 57 min"
+      },
+      {
+        "title": "Comment les États-Unis ont conçu leur souveraineté",
+        "titleOriginal": "How the U.S. Engineered Its Sovereignty",
+        "url": "https://spectrum.ieee.org/us-engineered-sovereignty",
+        "source": "spectrum.ieee.org",
+        "score": 28,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48802971",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "GPT-5.6 Sol Ultra sera en Codex",
         "titleOriginal": "GPT-5.6 Sol Ultra will be in Codex",
         "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
         "source": "twitter.com",
-        "score": 270,
-        "comments": 196,
+        "score": 332,
+        "comments": 286,
         "hnUrl": "https://news.ycombinator.com/item?id=48799614",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Has_not_been_viewed_much",
-        "titleOriginal": "Has_not_been_viewed_much",
-        "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-        "source": "iamwillwang.com",
-        "score": 270,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48799155",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Cartes biologiques",
-        "titleOriginal": "Organic Maps",
-        "url": "https://organicmaps.app/",
-        "source": "organicmaps.app",
-        "score": 965,
-        "comments": 290,
-        "hnUrl": "https://news.ycombinator.com/item?id=48794446",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "Générer des modèles 3D paramétriques et manufacturables en quelques secondes",
-        "titleOriginal": "Generate parametric, manufacturable 3D models in seconds",
-        "url": "https://kyrall.com/",
-        "source": "kyrall.com",
-        "score": 18,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48801488",
-        "date": "il y a 1 h"
+        "date": "il y a 11 h"
       }
     ]
   },
