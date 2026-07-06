@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-06T21:53:32.218Z",
+  "updatedAt": "2026-07-06T23:02:02.299Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 0,
-      "wind": 3,
-      "humidity": 53
+      "wind": 2,
+      "humidity": 64
     },
     "forecast": [
-      {
-        "date": "2026-07-06",
-        "code": 3,
-        "tmax": 33,
-        "tmin": 15
-      },
       {
         "date": "2026-07-07",
         "code": 3,
@@ -24,7 +18,7 @@
       },
       {
         "date": "2026-07-08",
-        "code": 2,
+        "code": 3,
         "tmax": 32,
         "tmin": 18
       },
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 35,
         "tmin": 20
+      },
+      {
+        "date": "2026-07-10",
+        "code": 2,
+        "tmax": 36,
+        "tmin": 22
       }
     ]
   },
@@ -178,40 +178,40 @@
         "titleOriginal": "OpenWrt One – Open Hardware Router",
         "url": "https://openwrt.org/toh/openwrt/one",
         "source": "openwrt.org",
-        "score": 270,
-        "comments": 122,
+        "score": 336,
+        "comments": 142,
         "hnUrl": "https://news.ycombinator.com/item?id=48808482",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "CoMaps – Cartes hors ligne FOSS",
         "titleOriginal": "CoMaps – FOSS Offline Maps",
         "url": "https://www.comaps.app/",
         "source": "comaps.app",
-        "score": 163,
-        "comments": 33,
+        "score": 240,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=48808928",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Apprendre à coder en vaut toujours la peine",
-        "titleOriginal": "Learning to code is still worthwhile",
-        "url": "https://stevekrouse.com/learn-to-code",
-        "source": "stevekrouse.com",
-        "score": 48,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48810439",
-        "date": "il y a 53 min"
+        "title": "Avec quel peu d'exercice pouvez-vous vous en tirer ?",
+        "titleOriginal": "How little exercise can you get away with?",
+        "url": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
+        "source": "economist.com",
+        "score": 29,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48811147",
+        "date": "il y a 52 min"
       },
       {
         "title": "Un espace de travail global dans les modèles linguistiques",
         "titleOriginal": "A global workspace in language models",
         "url": "https://www.anthropic.com/research/global-workspace",
         "source": "anthropic.com",
-        "score": 174,
-        "comments": 52,
+        "score": 214,
+        "comments": 72,
         "hnUrl": "https://news.ycombinator.com/item?id=48808002",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
