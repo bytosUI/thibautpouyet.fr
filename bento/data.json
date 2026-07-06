@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-06T20:21:35.512Z",
+  "updatedAt": "2026-07-06T21:53:32.218Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 4,
-      "humidity": 37
+      "wind": 3,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-07-09",
-        "code": 1,
-        "tmax": 34,
-        "tmin": 19
+        "code": 3,
+        "tmax": 35,
+        "tmin": 20
       }
     ]
   },
@@ -178,40 +178,40 @@
         "titleOriginal": "OpenWrt One – Open Hardware Router",
         "url": "https://openwrt.org/toh/openwrt/one",
         "source": "openwrt.org",
-        "score": 166,
-        "comments": 80,
+        "score": 270,
+        "comments": 122,
         "hnUrl": "https://news.ycombinator.com/item?id=48808482",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Un espace de travail global dans les modèles linguistiques",
-        "titleOriginal": "A global workspace in language models",
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "source": "anthropic.com",
-        "score": 98,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48808002",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "CoMaps – Cartes hors ligne FOSS",
         "titleOriginal": "CoMaps – FOSS Offline Maps",
         "url": "https://www.comaps.app/",
         "source": "comaps.app",
-        "score": 43,
-        "comments": 4,
+        "score": 163,
+        "comments": 33,
         "hnUrl": "https://news.ycombinator.com/item?id=48808928",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Le prix par million de jetons n'a pas de sens",
-        "titleOriginal": "Price per 1M tokens is meaningless",
-        "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
-        "source": "janilowski.pl",
-        "score": 23,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48809542",
-        "date": "il y a 37 min"
+        "title": "Apprendre à coder en vaut toujours la peine",
+        "titleOriginal": "Learning to code is still worthwhile",
+        "url": "https://stevekrouse.com/learn-to-code",
+        "source": "stevekrouse.com",
+        "score": 48,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48810439",
+        "date": "il y a 53 min"
+      },
+      {
+        "title": "Un espace de travail global dans les modèles linguistiques",
+        "titleOriginal": "A global workspace in language models",
+        "url": "https://www.anthropic.com/research/global-workspace",
+        "source": "anthropic.com",
+        "score": 174,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=48808002",
+        "date": "il y a 4 h"
       }
     ]
   },
