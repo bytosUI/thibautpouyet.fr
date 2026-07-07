@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-06T23:02:02.299Z",
+  "updatedAt": "2026-07-07T01:14:43.049Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
-      "code": 0,
-      "wind": 2,
-      "humidity": 64
+      "temp": 18,
+      "feelsLike": 18,
+      "code": 3,
+      "wind": 3,
+      "humidity": 72
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "OpenWrt One – Open Hardware Router",
         "url": "https://openwrt.org/toh/openwrt/one",
         "source": "openwrt.org",
-        "score": 336,
-        "comments": 142,
+        "score": 427,
+        "comments": 167,
         "hnUrl": "https://news.ycombinator.com/item?id=48808482",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "La fable est devenue remarquable dans le journal de Tom Riddle de Harry Potter",
+        "titleOriginal": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+        "url": "https://github.com/MaximeRivest/Riddle",
+        "source": "github.com",
+        "score": 109,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48811591",
+        "date": "il y a 2 h"
       },
       {
         "title": "CoMaps – Cartes hors ligne FOSS",
         "titleOriginal": "CoMaps – FOSS Offline Maps",
         "url": "https://www.comaps.app/",
         "source": "comaps.app",
-        "score": 240,
-        "comments": 44,
+        "score": 301,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48808928",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Avec quel peu d'exercice pouvez-vous vous en tirer ?",
-        "titleOriginal": "How little exercise can you get away with?",
-        "url": "https://www.economist.com/science-and-technology/2026/07/03/how-little-exercise-can-you-get-away-with",
-        "source": "economist.com",
-        "score": 29,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=48811147",
-        "date": "il y a 52 min"
-      },
-      {
-        "title": "Un espace de travail global dans les modèles linguistiques",
-        "titleOriginal": "A global workspace in language models",
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "source": "anthropic.com",
-        "score": 214,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48808002",
-        "date": "il y a 5 h"
+        "title": "Comment séquencer votre propre ADN à la maison",
+        "titleOriginal": "How to sequence your own DNA at home",
+        "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+        "source": "bradleywoolf.com",
+        "score": 23,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48812156",
+        "date": "il y a 1 h"
       }
     ]
   },
