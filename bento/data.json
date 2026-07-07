@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-07T15:23:28.053Z",
+  "updatedAt": "2026-07-07T17:31:20.440Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 29,
+      "temp": 31,
+      "feelsLike": 28,
       "code": 2,
-      "wind": 19,
-      "humidity": 17
+      "wind": 16,
+      "humidity": 20
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Pourquoi Trump contrôle l'IA la plus puissante ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "OiZ2HTOhr0s",
+        "thumbnail": "https://i.ytimg.com/vi/OiZ2HTOhr0s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OiZ2HTOhr0s",
+        "publishedAt": "2026-07-07T17:01:18+00:00"
+      },
+      {
         "title": "On parle, on peint, on joue à WARHAMMER avec Alphacast parfait en expert",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -95,15 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/xQPWe2c9vQ8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xQPWe2c9vQ8",
         "publishedAt": "2026-07-05T17:15:32+00:00"
-      },
-      {
-        "title": "Le Festin Episode Final | Tous les invités réunis pour la première fois !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "eGIlSOp6PnY",
-        "thumbnail": "https://i.ytimg.com/vi/eGIlSOp6PnY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eGIlSOp6PnY",
-        "publishedAt": "2026-07-04T06:30:12+00:00"
       },
       {
         "title": "Pourquoi il faisait si froid dans la maison ? #23",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+        "title": "StreetComplete : Réparer OpenStreetMap, une petite quête à la fois",
         "titleOriginal": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
         "url": "https://streetcomplete.app/",
         "source": "streetcomplete.app",
-        "score": 240,
-        "comments": 48,
+        "score": 391,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=48816883",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "A better way to tie your gym shorts. (Or any drawstring) [video]",
+        "title": "Cartographie des logements que vous pouvez acheter auprès du gouvernement américain pour moins de 100 000 $",
+        "titleOriginal": "Mapping homes you can buy from the US government for <$100k",
+        "url": "https://govauctions.app/research/cheapest-homes-in-america",
+        "source": "govauctions.app",
+        "score": 44,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48820274",
+        "date": "il y a 48 min"
+      },
+      {
+        "title": "Une meilleure façon d'attacher votre short de sport. (Ou n'importe quel cordon de serrage) [vidéo]",
         "titleOriginal": "A better way to tie your gym shorts. (Or any drawstring) [video]",
         "url": "https://www.youtube.com/watch?v=3R0Lp86GEBk",
         "source": "youtube.com",
-        "score": 181,
-        "comments": 73,
+        "score": 300,
+        "comments": 119,
         "hnUrl": "https://news.ycombinator.com/item?id=48816956",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "The Revenge of the Philosophy Majors",
-        "titleOriginal": "The Revenge of the Philosophy Majors",
-        "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
-        "source": "nytimes.com",
-        "score": 27,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48818544",
-        "date": "il y a 41 min"
-      },
-      {
-        "title": "98% Isn't Much",
+        "title": "98 %, ce n'est pas grand-chose",
         "titleOriginal": "98% Isn't Much",
         "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
         "source": "whynothugo.nl",
-        "score": 245,
-        "comments": 194,
+        "score": 346,
+        "comments": 245,
         "hnUrl": "https://news.ycombinator.com/item?id=48816959",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       }
     ]
   },
