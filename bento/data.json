@@ -1,24 +1,18 @@
 {
-  "updatedAt": "2026-07-07T21:18:16.695Z",
+  "updatedAt": "2026-07-07T22:35:33.592Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
-      "code": 0,
-      "wind": 7,
-      "humidity": 40
+      "temp": 21,
+      "feelsLike": 20,
+      "code": 1,
+      "wind": 5,
+      "humidity": 50
     },
     "forecast": [
       {
-        "date": "2026-07-07",
-        "code": 3,
-        "tmax": 34,
-        "tmin": 15
-      },
-      {
         "date": "2026-07-08",
-        "code": 2,
+        "code": 1,
         "tmax": 33,
         "tmin": 18
       },
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 35,
         "tmin": 20
+      },
+      {
+        "date": "2026-07-11",
+        "code": 1,
+        "tmax": 36,
+        "tmin": 22
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 112,
+        "viewers": 105,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Toutes les voitures vendues dans l'UE nécessitent maintenant une caméra dirigée vers votre visage",
-        "titleOriginal": "All Cars Sold in the EU Now Require a Camera Aimed at Your Face",
-        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
-        "source": "allaboutcookies.org",
-        "score": 86,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=48823557",
-        "date": "il y a 27 min"
+        "title": "Local, CPU-Friendly, haute qualité TTS (Text-to-Speech) avec Kokoro",
+        "titleOriginal": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
+        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "source": "ariya.io",
+        "score": 177,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=48821576",
+        "date": "il y a 4 h"
       },
       {
         "title": "StreetComplete : Réparer OpenStreetMap, une petite quête à la fois",
         "titleOriginal": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
         "url": "https://streetcomplete.app/",
         "source": "streetcomplete.app",
-        "score": 600,
-        "comments": 138,
+        "score": 641,
+        "comments": 156,
         "hnUrl": "https://news.ycombinator.com/item?id=48816883",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Local, CPU-Friendly, haute qualité TTS (Text-to-Speech) avec Kokoro",
-        "titleOriginal": "Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro",
-        "url": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
-        "source": "ariya.io",
-        "score": 103,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48821576",
-        "date": "il y a 2 h"
+        "title": "Chaque nouvelle voiture vendue dans l'Union européenne doit inclure une caméra de surveillance du conducteur",
+        "titleOriginal": "Every new car sold in the European Union must include a driver monitoring camera",
+        "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+        "source": "allaboutcookies.org",
+        "score": 281,
+        "comments": 341,
+        "hnUrl": "https://news.ycombinator.com/item?id=48823557",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le contrôle du chat 1.0 et 2.0 expliqué",
         "titleOriginal": "Chat Control 1.0 and 2.0 Explained",
         "url": "https://fightchatcontrol.eu/chat-control-overview",
         "source": "fightchatcontrol.eu",
-        "score": 283,
-        "comments": 94,
+        "score": 361,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=48818311",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       }
     ]
   },
