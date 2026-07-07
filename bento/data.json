@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-07T05:31:25.492Z",
+  "updatedAt": "2026-07-07T09:31:55.501Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 17,
+      "temp": 30,
+      "feelsLike": 29,
       "code": 3,
-      "wind": 3,
-      "humidity": 81
+      "wind": 9,
+      "humidity": 30
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-08",
         "code": 2,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 17
       },
       {
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Elle s'en fout de l'argent ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "sjoY3IEUrHM",
+        "thumbnail": "https://i.ytimg.com/vi/sjoY3IEUrHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sjoY3IEUrHM",
+        "publishedAt": "2026-07-07T08:55:26+00:00"
+      },
+      {
+        "title": "BIEN DORMIR VOUS REND PLUS INTELLIGENT ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "tqYteDb4hpc",
+        "thumbnail": "https://i.ytimg.com/vi/tqYteDb4hpc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tqYteDb4hpc",
+        "publishedAt": "2026-07-06T15:00:19+00:00"
+      },
+      {
+        "title": "Léna, Jain, Eva et Adèle dévoilent leur hit de l’été !!!",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Eq1VlKfCwc0",
+        "thumbnail": "https://i.ytimg.com/vi/Eq1VlKfCwc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Eq1VlKfCwc0",
+        "publishedAt": "2026-07-06T03:40:33+00:00"
+      },
+      {
+        "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xQPWe2c9vQ8",
+        "thumbnail": "https://i.ytimg.com/vi/xQPWe2c9vQ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xQPWe2c9vQ8",
+        "publishedAt": "2026-07-05T17:15:32+00:00"
+      },
+      {
+        "title": "Le Festin Episode Final | Tous les invités réunis pour la première fois !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "eGIlSOp6PnY",
+        "thumbnail": "https://i.ytimg.com/vi/eGIlSOp6PnY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eGIlSOp6PnY",
+        "publishedAt": "2026-07-04T06:30:12+00:00"
+      },
+      {
+        "title": "On déguvine 32 bonbons avec Joyca et Matthieu et le plot twist de fin est magnifique",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "k3x_skhZKHE",
+        "thumbnail": "https://i.ytimg.com/vi/k3x_skhZKHE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k3x_skhZKHE",
+        "publishedAt": "2026-07-02T15:23:47+00:00"
+      },
+      {
+        "title": "Pourquoi il faisait si froid dans la maison ? #23",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "qhgg5foifi0",
+        "thumbnail": "https://i.ytimg.com/vi/qhgg5foifi0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qhgg5foifi0",
+        "publishedAt": "2026-06-28T15:17:12+00:00"
+      },
+      {
+        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "fcwNWpk0tfk",
+        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
+        "publishedAt": "2026-06-28T07:57:43+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Fable devenue reMarkable dans le journal de Tom Riddle de Harry Potter",
-        "titleOriginal": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-        "url": "https://github.com/MaximeRivest/Riddle",
-        "source": "github.com",
-        "score": 287,
-        "comments": 159,
-        "hnUrl": "https://news.ycombinator.com/item?id=48811591",
-        "date": "il y a 6 h"
-      },
-      {
         "title": "OpenWrt One – Routeur matériel ouvert",
         "titleOriginal": "OpenWrt One – Open Hardware Router",
         "url": "https://openwrt.org/toh/openwrt/one",
         "source": "openwrt.org",
-        "score": 507,
-        "comments": 207,
+        "score": 608,
+        "comments": 235,
         "hnUrl": "https://news.ycombinator.com/item?id=48808482",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Comment séquencer votre propre ADN à la maison",
-        "titleOriginal": "How to sequence your own DNA at home",
-        "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
-        "source": "bradleywoolf.com",
-        "score": 124,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48812156",
-        "date": "il y a 5 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "CoMaps – Cartes hors ligne FOSS",
         "titleOriginal": "CoMaps – FOSS Offline Maps",
         "url": "https://www.comaps.app/",
         "source": "comaps.app",
-        "score": 396,
-        "comments": 80,
+        "score": 551,
+        "comments": 116,
         "hnUrl": "https://news.ycombinator.com/item?id=48808928",
-        "date": "il y a 10 h"
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "GLM 5.2 et l'effondrement imminent de la marge de l'IA",
+        "titleOriginal": "GLM 5.2 and the coming AI margin collapse",
+        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "source": "martinalderson.com",
+        "score": 407,
+        "comments": 249,
+        "hnUrl": "https://news.ycombinator.com/item?id=48809877",
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Comment séquencer votre propre ADN à la maison",
+        "titleOriginal": "How to sequence your own DNA at home",
+        "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+        "source": "bradleywoolf.com",
+        "score": 208,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=48812156",
+        "date": "il y a 9 h"
       }
     ]
   },
