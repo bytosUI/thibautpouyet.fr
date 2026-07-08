@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-08T16:26:37.311Z",
+  "updatedAt": "2026-07-08T17:58:49.350Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 31,
+      "temp": 31,
+      "feelsLike": 30,
       "code": 0,
       "wind": 14,
-      "humidity": 30
+      "humidity": 34
     },
     "forecast": [
       {
@@ -37,18 +37,10 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 258,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -59,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Pourquoi Midjourney veut scanner l'intérieur de ton corps ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "SRJWw9QaNXQ",
+        "thumbnail": "https://i.ytimg.com/vi/SRJWw9QaNXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SRJWw9QaNXQ",
+        "publishedAt": "2026-07-08T17:02:16+00:00"
+      },
       {
         "title": "FKH - Cyberkinetic (ft Freddy Gladieux, Squeezie, Myd, Pandrezz)",
         "channel": "SQUEEZIE",
@@ -94,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/VXu-b3CgojY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VXu-b3CgojY",
         "publishedAt": "2026-07-08T12:03:03+00:00"
-      },
-      {
-        "title": "Les Labs d'IA vous volent vos données. Palantir révèle tout !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Fg8CNa9xa7w",
-        "thumbnail": "https://i.ytimg.com/vi/Fg8CNa9xa7w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fg8CNa9xa7w",
-        "publishedAt": "2026-07-08T06:30:29+00:00"
       },
       {
         "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Robostral Navigate de Mistral : un modèle de navigation robotique de pointe",
-        "titleOriginal": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-        "url": "https://mistral.ai/news/robostral-navigate/",
-        "source": "mistral.ai",
-        "score": 166,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=48832212",
-        "date": "il y a 2 h"
+        "title": "GPT‑Live",
+        "titleOriginal": "GPT‑Live",
+        "url": "https://openai.com/index/introducing-gpt-live/",
+        "source": "openai.com",
+        "score": 191,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=48834405",
+        "date": "il y a 55 min"
       },
       {
         "title": "Chatto est maintenant Open Source",
         "titleOriginal": "Chatto is now Open Source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hmans.dev",
-        "score": 94,
-        "comments": 19,
+        "score": 277,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=48833116",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Décoder le script bash obscurci sur un t-shirt Uniqlo",
-        "titleOriginal": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-        "source": "tris.sherliker.net",
-        "score": 947,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=48829312",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Cloudflare Meerkat - Consensus distribué à l'échelle mondiale",
-        "titleOriginal": "Cloudflare Meerkat - Globally distributed consensus",
-        "url": "https://blog.cloudflare.com/meerkat-introduction/",
-        "source": "blog.cloudflare.com",
-        "score": 102,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=48831565",
+        "title": "Robostral Navigate de Mistral : un modèle de navigation robotique de pointe",
+        "titleOriginal": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "source": "mistral.ai",
+        "score": 254,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=48832212",
         "date": "il y a 3 h"
+      },
+      {
+        "title": "SWE-1.7 Atteindre près de GPT 5.5 et Opus Intelligence",
+        "titleOriginal": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+        "url": "https://cognition.com/blog/swe-1-7",
+        "source": "cognition.com",
+        "score": 95,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48833866",
+        "date": "il y a 1 h"
       }
     ]
   },
