@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-08T05:34:57.080Z",
+  "updatedAt": "2026-07-08T08:17:08.182Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 17,
-      "code": 1,
-      "wind": 1,
-      "humidity": 69
+      "temp": 24,
+      "feelsLike": 24,
+      "code": 0,
+      "wind": 3,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-07-09",
         "code": 0,
-        "tmax": 34,
-        "tmin": 19
+        "tmax": 33,
+        "tmin": 18
       },
       {
         "date": "2026-07-10",
@@ -37,11 +37,19 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 67,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -52,6 +60,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "Les Labs d'IA vous volent vos données. Palantir révèle tout !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "Fg8CNa9xa7w",
+        "thumbnail": "https://i.ytimg.com/vi/Fg8CNa9xa7w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fg8CNa9xa7w",
+        "publishedAt": "2026-07-08T06:30:29+00:00"
+      },
+      {
+        "title": "On parle, on peint, on joue à WARHAMMER avec Alphacast parfait en expert",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "-ybot6ieI1w",
+        "thumbnail": "https://i.ytimg.com/vi/-ybot6ieI1w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-ybot6ieI1w",
+        "publishedAt": "2026-07-07T15:21:16+00:00"
+      },
+      {
         "title": "IL RACONTE LE JOUR OÙ UN TSUNAMI A RAVAGÉ GRENOBLE ! LORÀNT DEUTSCH",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,6 +85,60 @@
         "thumbnail": "https://i.ytimg.com/vi/s64nxZlVWzo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=s64nxZlVWzo",
         "publishedAt": "2026-07-07T15:00:23+00:00"
+      },
+      {
+        "title": "Elle s'en fout de l'argent ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "sjoY3IEUrHM",
+        "thumbnail": "https://i.ytimg.com/vi/sjoY3IEUrHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sjoY3IEUrHM",
+        "publishedAt": "2026-07-07T08:55:26+00:00"
+      },
+      {
+        "title": "Léna, Jain, Eva et Adèle dévoilent leur hit de l’été !!!",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Eq1VlKfCwc0",
+        "thumbnail": "https://i.ytimg.com/vi/Eq1VlKfCwc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Eq1VlKfCwc0",
+        "publishedAt": "2026-07-06T03:40:33+00:00"
+      },
+      {
+        "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xQPWe2c9vQ8",
+        "thumbnail": "https://i.ytimg.com/vi/xQPWe2c9vQ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xQPWe2c9vQ8",
+        "publishedAt": "2026-07-05T17:15:32+00:00"
+      },
+      {
+        "title": "Pourquoi il faisait si froid dans la maison ? #23",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "qhgg5foifi0",
+        "thumbnail": "https://i.ytimg.com/vi/qhgg5foifi0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qhgg5foifi0",
+        "publishedAt": "2026-06-28T15:17:12+00:00"
+      },
+      {
+        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "fcwNWpk0tfk",
+        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
+        "publishedAt": "2026-06-28T07:57:43+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -102,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "GitLost : Nous avons trompé l'agent d'IA de GitHub en faisant fuiter des dépôts privés",
+        "titleOriginal": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "source": "noma.security",
+        "score": 100,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48827858",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Comment construire un NAS ZFS minimal sans Synology, QNAP, TrueNAS (2024)",
         "titleOriginal": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
         "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
         "source": "neil.computer",
-        "score": 69,
-        "comments": 31,
+        "score": 165,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=48827325",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "The Economist a-t-il toujours tort ?",
-        "titleOriginal": "Is The Economist Always Wrong?",
-        "url": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
-        "source": "economist.com",
-        "score": 97,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=48826703",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Le micrologiciel Tenda (plusieurs versions) contient une porte dérobée d'authentification cachée",
         "titleOriginal": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
         "url": "https://kb.cert.org/vuls/id/213560",
         "source": "kb.cert.org",
-        "score": 110,
-        "comments": 29,
+        "score": 181,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=48825749",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "GAO : DOE exclut prématurément des options moins coûteuses pour le nettoyage nucléaire",
-        "titleOriginal": "GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup",
-        "url": "https://www.gao.gov/products/gao-26-108193",
-        "source": "gao.gov",
-        "score": 167,
-        "comments": 74,
-        "hnUrl": "https://news.ycombinator.com/item?id=48824826",
-        "date": "il y a 7 h"
+        "title": "Copy That Floppy – Guide de Cambridge pour la préservation des données des disquettes fragiles",
+        "titleOriginal": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
+        "url": "https://www.digipres.org/the-floppy-guide/",
+        "source": "digipres.org",
+        "score": 58,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48827092",
+        "date": "il y a 4 h"
       }
     ]
   },
