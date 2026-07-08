@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-07-08T12:16:04.573Z",
+  "updatedAt": "2026-07-08T14:53:52.516Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
+      "temp": 32,
       "feelsLike": 32,
-      "code": 0,
+      "code": 1,
       "wind": 13,
       "humidity": 31
     },
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-07-09",
-        "code": 0,
+        "code": 1,
         "tmax": 33,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-07-10",
@@ -37,10 +37,18 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 264,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,6 +60,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "Est-ce que l'eau est cuite avant de se retrouver en bouteille ?(ft @Joyca et Mathieu)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "14OHJl45_gI",
+        "thumbnail": "https://i.ytimg.com/vi/14OHJl45_gI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=14OHJl45_gI",
+        "publishedAt": "2026-07-08T14:38:43+00:00"
+      },
+      {
+        "title": "« LVMH EST UNE STARTUP DE 200 000 PERSONNES ! »",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "FZzp0WwK9JI",
+        "thumbnail": "https://i.ytimg.com/vi/FZzp0WwK9JI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FZzp0WwK9JI",
+        "publishedAt": "2026-07-08T13:00:17+00:00"
+      },
+      {
         "title": "Tout le monde peut-il vraiment être entrepreneur ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -61,15 +87,6 @@
         "publishedAt": "2026-07-08T12:03:03+00:00"
       },
       {
-        "title": "IL DÎNE AVEC TRUMP LE SOIR DE…SA TENTATIVE D’ASSASSINAT !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "-DXtOD9DMGo",
-        "thumbnail": "https://i.ytimg.com/vi/-DXtOD9DMGo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-DXtOD9DMGo",
-        "publishedAt": "2026-07-08T12:00:04+00:00"
-      },
-      {
         "title": "Les Labs d'IA vous volent vos données. Palantir révèle tout !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -77,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Fg8CNa9xa7w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Fg8CNa9xa7w",
         "publishedAt": "2026-07-08T06:30:29+00:00"
-      },
-      {
-        "title": "On parle, on peint, on joue à WARHAMMER avec Alphacast parfait en expert",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "-ybot6ieI1w",
-        "thumbnail": "https://i.ytimg.com/vi/-ybot6ieI1w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-ybot6ieI1w",
-        "publishedAt": "2026-07-07T15:21:16+00:00"
       },
       {
         "title": "Léna, Jain, Eva et Adèle dévoilent leur hit de l’été !!!",
@@ -178,40 +186,40 @@
         "titleOriginal": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
         "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
         "source": "tris.sherliker.net",
-        "score": 401,
-        "comments": 82,
+        "score": 795,
+        "comments": 146,
         "hnUrl": "https://news.ycombinator.com/item?id=48829312",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Apple augmentera ses dépenses avec Broadcom pour produire des milliards de puces supplémentaires aux États-Unis",
         "titleOriginal": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
         "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
         "source": "apple.com",
+        "score": 155,
+        "comments": 118,
+        "hnUrl": "https://news.ycombinator.com/item?id=48830565",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Robostral Navigate de Mistral : un modèle de navigation robotique de pointe",
+        "titleOriginal": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+        "url": "https://mistral.ai/news/robostral-navigate/",
+        "source": "mistral.ai",
+        "score": 30,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48832212",
+        "date": "il y a 44 min"
+      },
+      {
+        "title": "Cloudflare Meerkat - Consensus distribué à l'échelle mondiale",
+        "titleOriginal": "Cloudflare Meerkat - Globally distributed consensus",
+        "url": "https://blog.cloudflare.com/meerkat-introduction/",
+        "source": "blog.cloudflare.com",
         "score": 38,
         "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48830565",
-        "date": "il y a 45 min"
-      },
-      {
-        "title": "GitLost : Nous avons trompé l'agent d'IA de GitHub en faisant fuiter des dépôts privés",
-        "titleOriginal": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-        "source": "noma.security",
-        "score": 265,
-        "comments": 104,
-        "hnUrl": "https://news.ycombinator.com/item?id=48827858",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Comment construire un NAS ZFS minimal sans Synology, QNAP, TrueNAS (2024)",
-        "titleOriginal": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-        "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
-        "source": "neil.computer",
-        "score": 223,
-        "comments": 149,
-        "hnUrl": "https://news.ycombinator.com/item?id=48827325",
-        "date": "il y a 8 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=48831565",
+        "date": "il y a 1 h"
       }
     ]
   },
