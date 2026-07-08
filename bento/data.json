@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-08T14:53:52.516Z",
+  "updatedAt": "2026-07-08T16:26:37.311Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
-      "feelsLike": 32,
-      "code": 1,
-      "wind": 13,
-      "humidity": 31
+      "feelsLike": 31,
+      "code": 0,
+      "wind": 14,
+      "humidity": 30
     },
     "forecast": [
       {
         "date": "2026-07-08",
         "code": 2,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 16
       },
       {
         "date": "2026-07-09",
-        "code": 1,
+        "code": 0,
         "tmax": 33,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-07-10",
@@ -30,8 +30,8 @@
       },
       {
         "date": "2026-07-11",
-        "code": 3,
-        "tmax": 36,
+        "code": 2,
+        "tmax": 37,
         "tmin": 21
       }
     ]
@@ -42,7 +42,7 @@
         "user": "bastiui",
         "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 264,
+        "viewers": 258,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
         "url": "https://twitch.tv/bastiui"
       }
@@ -59,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "FKH - Cyberkinetic (ft Freddy Gladieux, Squeezie, Myd, Pandrezz)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "mlhGhLjDfUU",
+        "thumbnail": "https://i.ytimg.com/vi/mlhGhLjDfUU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mlhGhLjDfUU",
+        "publishedAt": "2026-07-08T16:08:43+00:00"
+      },
       {
         "title": "Est-ce que l'eau est cuite avant de se retrouver en bouteille ?(ft @Joyca et Mathieu)",
         "channel": "Mcfly et Carlito",
@@ -94,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Fg8CNa9xa7w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Fg8CNa9xa7w",
         "publishedAt": "2026-07-08T06:30:29+00:00"
-      },
-      {
-        "title": "Léna, Jain, Eva et Adèle dévoilent leur hit de l’été !!!",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Eq1VlKfCwc0",
-        "thumbnail": "https://i.ytimg.com/vi/Eq1VlKfCwc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Eq1VlKfCwc0",
-        "publishedAt": "2026-07-06T03:40:33+00:00"
       },
       {
         "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Décoder le script bash obscurci sur un t-shirt Uniqlo",
-        "titleOriginal": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
-        "source": "tris.sherliker.net",
-        "score": 795,
-        "comments": 146,
-        "hnUrl": "https://news.ycombinator.com/item?id=48829312",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Apple augmentera ses dépenses avec Broadcom pour produire des milliards de puces supplémentaires aux États-Unis",
-        "titleOriginal": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-        "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
-        "source": "apple.com",
-        "score": 155,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=48830565",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Robostral Navigate de Mistral : un modèle de navigation robotique de pointe",
         "titleOriginal": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
         "url": "https://mistral.ai/news/robostral-navigate/",
         "source": "mistral.ai",
-        "score": 30,
-        "comments": 1,
+        "score": 166,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=48832212",
-        "date": "il y a 44 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Chatto est maintenant Open Source",
+        "titleOriginal": "Chatto is now Open Source",
+        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "source": "hmans.dev",
+        "score": 94,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=48833116",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Décoder le script bash obscurci sur un t-shirt Uniqlo",
+        "titleOriginal": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "source": "tris.sherliker.net",
+        "score": 947,
+        "comments": 167,
+        "hnUrl": "https://news.ycombinator.com/item?id=48829312",
+        "date": "il y a 7 h"
       },
       {
         "title": "Cloudflare Meerkat - Consensus distribué à l'échelle mondiale",
         "titleOriginal": "Cloudflare Meerkat - Globally distributed consensus",
         "url": "https://blog.cloudflare.com/meerkat-introduction/",
         "source": "blog.cloudflare.com",
-        "score": 38,
-        "comments": 7,
+        "score": 102,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=48831565",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
