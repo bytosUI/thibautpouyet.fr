@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-07-08T08:17:08.182Z",
+  "updatedAt": "2026-07-08T10:33:50.189Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
+      "temp": 30,
+      "feelsLike": 30,
       "code": 0,
-      "wind": 3,
-      "humidity": 44
+      "wind": 8,
+      "humidity": 29
     },
     "forecast": [
       {
         "date": "2026-07-08",
         "code": 2,
-        "tmax": 33,
+        "tmax": 32,
         "tmin": 16
       },
       {
         "date": "2026-07-09",
         "code": 0,
         "tmax": 33,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-07-10",
@@ -30,26 +30,18 @@
       },
       {
         "date": "2026-07-11",
-        "code": 1,
+        "code": 3,
         "tmax": 36,
         "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 67,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -59,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "BERNARD ARNAULT : CONFESSIONS INÉDITES DU PATRON DU LUXE MONDIAL (empire, drames, rumeurs…)",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "npvbkg9EI3U",
+        "thumbnail": "https://i.ytimg.com/vi/npvbkg9EI3U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=npvbkg9EI3U",
+        "publishedAt": "2026-07-08T09:00:06+00:00"
+      },
       {
         "title": "Les Labs d'IA vous volent vos données. Palantir révèle tout !",
         "channel": "Silicon Carne 🌶️",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/-ybot6ieI1w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-ybot6ieI1w",
         "publishedAt": "2026-07-07T15:21:16+00:00"
-      },
-      {
-        "title": "IL RACONTE LE JOUR OÙ UN TSUNAMI A RAVAGÉ GRENOBLE ! LORÀNT DEUTSCH",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "s64nxZlVWzo",
-        "thumbnail": "https://i.ytimg.com/vi/s64nxZlVWzo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s64nxZlVWzo",
-        "publishedAt": "2026-07-07T15:00:23+00:00"
       },
       {
         "title": "Elle s'en fout de l'argent ?",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Décoder le script bash obscurci sur un t-shirt Uniqlo",
+        "titleOriginal": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+        "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "source": "tris.sherliker.net",
+        "score": 145,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=48829312",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "GitLost : Nous avons trompé l'agent d'IA de GitHub en faisant fuiter des dépôts privés",
         "titleOriginal": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
         "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
         "source": "noma.security",
-        "score": 100,
-        "comments": 31,
+        "score": 202,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=48827858",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Comment construire un NAS ZFS minimal sans Synology, QNAP, TrueNAS (2024)",
         "titleOriginal": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
         "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
         "source": "neil.computer",
-        "score": 165,
-        "comments": 89,
+        "score": 204,
+        "comments": 122,
         "hnUrl": "https://news.ycombinator.com/item?id=48827325",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Le micrologiciel Tenda (plusieurs versions) contient une porte dérobée d'authentification cachée",
         "titleOriginal": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
         "url": "https://kb.cert.org/vuls/id/213560",
         "source": "kb.cert.org",
-        "score": 181,
-        "comments": 52,
+        "score": 222,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=48825749",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Copy That Floppy – Guide de Cambridge pour la préservation des données des disquettes fragiles",
-        "titleOriginal": "Copy That Floppy – Cambridge guide for preserving data from fragile floppy disks",
-        "url": "https://www.digipres.org/the-floppy-guide/",
-        "source": "digipres.org",
-        "score": 58,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48827092",
-        "date": "il y a 4 h"
+        "date": "il y a 10 h"
       }
     ]
   },
