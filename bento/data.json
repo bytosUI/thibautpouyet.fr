@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-08T10:33:50.189Z",
+  "updatedAt": "2026-07-08T12:16:04.573Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 30,
+      "temp": 31,
+      "feelsLike": 32,
       "code": 0,
-      "wind": 8,
-      "humidity": 29
+      "wind": 13,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "BERNARD ARNAULT : CONFESSIONS INÉDITES DU PATRON DU LUXE MONDIAL (empire, drames, rumeurs…)",
+        "title": "Tout le monde peut-il vraiment être entrepreneur ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "VXu-b3CgojY",
+        "thumbnail": "https://i.ytimg.com/vi/VXu-b3CgojY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VXu-b3CgojY",
+        "publishedAt": "2026-07-08T12:03:03+00:00"
+      },
+      {
+        "title": "IL DÎNE AVEC TRUMP LE SOIR DE…SA TENTATIVE D’ASSASSINAT !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "npvbkg9EI3U",
-        "thumbnail": "https://i.ytimg.com/vi/npvbkg9EI3U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=npvbkg9EI3U",
-        "publishedAt": "2026-07-08T09:00:06+00:00"
+        "videoId": "-DXtOD9DMGo",
+        "thumbnail": "https://i.ytimg.com/vi/-DXtOD9DMGo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-DXtOD9DMGo",
+        "publishedAt": "2026-07-08T12:00:04+00:00"
       },
       {
         "title": "Les Labs d'IA vous volent vos données. Palantir révèle tout !",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/-ybot6ieI1w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-ybot6ieI1w",
         "publishedAt": "2026-07-07T15:21:16+00:00"
-      },
-      {
-        "title": "Elle s'en fout de l'argent ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "sjoY3IEUrHM",
-        "thumbnail": "https://i.ytimg.com/vi/sjoY3IEUrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sjoY3IEUrHM",
-        "publishedAt": "2026-07-07T08:55:26+00:00"
       },
       {
         "title": "Léna, Jain, Eva et Adèle dévoilent leur hit de l’été !!!",
@@ -178,40 +178,40 @@
         "titleOriginal": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
         "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
         "source": "tris.sherliker.net",
-        "score": 145,
-        "comments": 35,
+        "score": 401,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=48829312",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Apple augmentera ses dépenses avec Broadcom pour produire des milliards de puces supplémentaires aux États-Unis",
+        "titleOriginal": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
+        "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+        "source": "apple.com",
+        "score": 38,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48830565",
+        "date": "il y a 45 min"
       },
       {
         "title": "GitLost : Nous avons trompé l'agent d'IA de GitHub en faisant fuiter des dépôts privés",
         "titleOriginal": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
         "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
         "source": "noma.security",
-        "score": 202,
-        "comments": 80,
+        "score": 265,
+        "comments": 104,
         "hnUrl": "https://news.ycombinator.com/item?id=48827858",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Comment construire un NAS ZFS minimal sans Synology, QNAP, TrueNAS (2024)",
         "titleOriginal": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
         "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
         "source": "neil.computer",
-        "score": 204,
-        "comments": 122,
+        "score": 223,
+        "comments": 149,
         "hnUrl": "https://news.ycombinator.com/item?id=48827325",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Le micrologiciel Tenda (plusieurs versions) contient une porte dérobée d'authentification cachée",
-        "titleOriginal": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-        "url": "https://kb.cert.org/vuls/id/213560",
-        "source": "kb.cert.org",
-        "score": 222,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48825749",
-        "date": "il y a 10 h"
+        "date": "il y a 8 h"
       }
     ]
   },
