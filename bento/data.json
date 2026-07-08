@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-08T21:00:59.152Z",
+  "updatedAt": "2026-07-08T22:30:45.017Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
+      "temp": 23,
+      "feelsLike": 24,
       "code": 0,
-      "wind": 9,
-      "humidity": 51
+      "wind": 8,
+      "humidity": 62
     },
     "forecast": [
-      {
-        "date": "2026-07-08",
-        "code": 2,
-        "tmax": 33,
-        "tmin": 16
-      },
       {
         "date": "2026-07-09",
         "code": 0,
@@ -25,7 +19,7 @@
       {
         "date": "2026-07-10",
         "code": 3,
-        "tmax": 36,
+        "tmax": 35,
         "tmin": 20
       },
       {
@@ -33,6 +27,12 @@
         "code": 2,
         "tmax": 37,
         "tmin": 21
+      },
+      {
+        "date": "2026-07-12",
+        "code": 3,
+        "tmax": 37,
+        "tmin": 22
       }
     ]
   },
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Fable n'est pas un modèle utile",
-        "titleOriginal": "Fable is not a useful model",
-        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
-        "source": "combine-lab.github.io",
-        "score": 49,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=48837162",
-        "date": "il y a 19 min"
-      },
-      {
-        "title": "Chatto est maintenant Open Source",
-        "titleOriginal": "Chatto is now Open Source",
-        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-        "source": "hmans.dev",
-        "score": 528,
-        "comments": 141,
-        "hnUrl": "https://news.ycombinator.com/item?id=48833116",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Cloudflare Drop",
-        "titleOriginal": "Cloudflare Drop",
-        "url": "https://www.cloudflare.com/drop/",
-        "source": "cloudflare.com",
-        "score": 64,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=48836233",
+        "title": "Séparation du signal du bruit dans les évaluations de codage",
+        "titleOriginal": "Separating signal from noise in coding evaluations",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "source": "openai.com",
+        "score": 95,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48837396",
         "date": "il y a 1 h"
       },
       {
-        "title": "SWE-1.7 Atteindre près de GPT 5.5 et Opus Intelligence",
-        "titleOriginal": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-        "url": "https://cognition.com/blog/swe-1-7",
-        "source": "cognition.com",
-        "score": 202,
-        "comments": 108,
-        "hnUrl": "https://news.ycombinator.com/item?id=48833866",
+        "title": "Simulateur FAANG",
+        "titleOriginal": "FAANG Simulator",
+        "url": "https://www.abeyk.com/escape-the-rat-race/",
+        "source": "abeyk.com",
+        "score": 105,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=48836778",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Chatto est maintenant open source",
+        "titleOriginal": "Chatto is now open source",
+        "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "source": "hmans.dev",
+        "score": 613,
+        "comments": 173,
+        "hnUrl": "https://news.ycombinator.com/item?id=48833116",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Grok 4.5",
+        "titleOriginal": "Grok 4.5",
+        "url": "https://x.ai/news/grok-4-5",
+        "source": "x.ai",
+        "score": 376,
+        "comments": 293,
+        "hnUrl": "https://news.ycombinator.com/item?id=48835111",
         "date": "il y a 4 h"
       }
     ]
