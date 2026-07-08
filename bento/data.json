@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-08T17:58:49.350Z",
+  "updatedAt": "2026-07-08T19:39:07.262Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
+      "temp": 29,
+      "feelsLike": 29,
       "code": 0,
-      "wind": 14,
-      "humidity": 34
+      "wind": 9,
+      "humidity": 42
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-10",
         "code": 3,
-        "tmax": 35,
+        "tmax": 36,
         "tmin": 20
       },
       {
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "GPT‑Live",
-        "titleOriginal": "GPT‑Live",
-        "url": "https://openai.com/index/introducing-gpt-live/",
-        "source": "openai.com",
-        "score": 191,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=48834405",
-        "date": "il y a 55 min"
+        "title": "Que savons-nous des microplastiques à l'intérieur de nous ?",
+        "titleOriginal": "What Do We Know About the Microplastics Inside Us?",
+        "url": "https://e360.yale.edu/features/cassandra-rauert-interview",
+        "source": "e360.yale.edu",
+        "score": 98,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=48834898",
+        "date": "il y a 1 h"
       },
       {
         "title": "Chatto est maintenant Open Source",
         "titleOriginal": "Chatto is now Open Source",
         "url": "https://www.hmans.dev/blog/chatto-is-open-source",
         "source": "hmans.dev",
-        "score": 277,
-        "comments": 56,
+        "score": 423,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=48833116",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Robostral Navigate de Mistral : un modèle de navigation robotique de pointe",
         "titleOriginal": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
         "url": "https://mistral.ai/news/robostral-navigate/",
         "source": "mistral.ai",
-        "score": 254,
-        "comments": 59,
+        "score": 319,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=48832212",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "SWE-1.7 Atteindre près de GPT 5.5 et Opus Intelligence",
-        "titleOriginal": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-        "url": "https://cognition.com/blog/swe-1-7",
-        "source": "cognition.com",
-        "score": 95,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=48833866",
+        "title": "Show HN : Microsoft lance Flint, un langage de visualisation pour les agents IA",
+        "titleOriginal": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+        "url": "https://microsoft.github.io/flint-chart/#/",
+        "source": "microsoft.github.io",
+        "score": 72,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=48834924",
         "date": "il y a 1 h"
       }
     ]
