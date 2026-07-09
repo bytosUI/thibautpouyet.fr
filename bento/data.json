@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-09T18:52:41.317Z",
+  "updatedAt": "2026-07-09T20:43:00.020Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
+      "temp": 28,
+      "feelsLike": 27,
       "code": 0,
-      "wind": 9,
-      "humidity": 31
+      "wind": 10,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-07-10",
         "code": 3,
-        "tmax": 35,
+        "tmax": 36,
         "tmin": 20
       },
       {
         "date": "2026-07-11",
         "code": 3,
         "tmax": 36,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-07-12",
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 112,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "GPT-5.6",
         "url": "https://openai.com/index/gpt-5-6/",
         "source": "openai.com",
-        "score": 529,
-        "comments": 348,
+        "score": 739,
+        "comments": 545,
         "hnUrl": "https://news.ycombinator.com/item?id=48849066",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "ChatGPT Work",
-        "titleOriginal": "ChatGPT Work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-        "source": "openai.com",
-        "score": 178,
-        "comments": 62,
-        "hnUrl": "https://news.ycombinator.com/item?id=48849059",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Afficher HN : 18 mots",
         "titleOriginal": "Show HN: 18 Words",
         "url": "https://18words.com/",
         "source": "18words.com",
-        "score": 626,
-        "comments": 233,
+        "score": 694,
+        "comments": 256,
         "hnUrl": "https://news.ycombinator.com/item?id=48845049",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Le Parlement européen donne le feu vert au contrôle du chat 1.0",
         "titleOriginal": "EU Parliament greenlights Chat Control 1.0",
         "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
         "source": "patrick-breyer.de",
-        "score": 639,
-        "comments": 325,
+        "score": 759,
+        "comments": 379,
         "hnUrl": "https://news.ycombinator.com/item?id=48843923",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "La fonctionnalité Apple enfouie transforme un iPhone en téléphone bête parfait pour les enfants",
+        "titleOriginal": "Buried Apple Feature Turns an iPhone into the Perfect Kids' Dumb Phone",
+        "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+        "source": "wired.com",
+        "score": 143,
+        "comments": 100,
+        "hnUrl": "https://news.ycombinator.com/item?id=48803004",
+        "date": "il y a 3 j"
       }
     ]
   },
