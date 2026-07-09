@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-09T14:02:14.350Z",
+  "updatedAt": "2026-07-09T16:59:39.339Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
       "feelsLike": 32,
       "code": 0,
-      "wind": 13,
-      "humidity": 29
+      "wind": 12,
+      "humidity": 30
     },
     "forecast": [
       {
         "date": "2026-07-09",
         "code": 0,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 19
       },
       {
@@ -31,13 +31,22 @@
       {
         "date": "2026-07-12",
         "code": 3,
-        "tmax": 37,
-        "tmin": 22
+        "tmax": 36,
+        "tmin": 21
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 70,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,20 +54,28 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
       {
-        "title": "ON NE SUPPORTE PAS LA RÉUSSITE EN FRANCE ?",
+        "title": "On classe 32 friandises de cinéma avec Florent Bernard & Seb Vaniček (Mcfly n’aime pas le popcorn 🍿)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "Vr9kBC8rG3A",
+        "thumbnail": "https://i.ytimg.com/vi/Vr9kBC8rG3A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vr9kBC8rG3A",
+        "publishedAt": "2026-07-09T16:06:45+00:00"
+      },
+      {
+        "title": "S*XE, POLITIQUE, RELIGION AU TRAVAIL… CE QUE VOUS AVEZ LE DROIT DE FAIRE OU NON AU BUREAU",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Ywjdsrx22to",
-        "thumbnail": "https://i.ytimg.com/vi/Ywjdsrx22to/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ywjdsrx22to",
-        "publishedAt": "2026-07-09T13:00:17+00:00"
+        "videoId": "Eiae_DDreD0",
+        "thumbnail": "https://i.ytimg.com/vi/Eiae_DDreD0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Eiae_DDreD0",
+        "publishedAt": "2026-07-09T15:34:00+00:00"
       },
       {
         "title": "Le GEO, c'est du SEO plus cher ?",
@@ -86,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SRJWw9QaNXQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SRJWw9QaNXQ",
         "publishedAt": "2026-07-08T17:02:16+00:00"
-      },
-      {
-        "title": "Est-ce que l'eau est cuite avant de se retrouver en bouteille ?(ft @Joyca et Mathieu)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "14OHJl45_gI",
-        "thumbnail": "https://i.ytimg.com/vi/14OHJl45_gI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=14OHJl45_gI",
-        "publishedAt": "2026-07-08T14:38:43+00:00"
       },
       {
         "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
@@ -178,40 +186,40 @@
         "titleOriginal": "Show HN: 18 Words",
         "url": "https://18words.com/",
         "source": "18words.com",
-        "score": 136,
-        "comments": 67,
+        "score": 507,
+        "comments": 204,
         "hnUrl": "https://news.ycombinator.com/item?id=48845049",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Le Parlement européen donne le feu vert au contrôle du chat 1.0",
+        "titleOriginal": "EU Parliament greenlights Chat Control 1.0",
+        "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "source": "patrick-breyer.de",
+        "score": 480,
+        "comments": 260,
+        "hnUrl": "https://news.ycombinator.com/item?id=48843923",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Aucune seconde intercalaire ne sera introduite à la fin du mois de décembre 2026",
+        "titleOriginal": "No leap second will be introduced at the end of December 2026",
+        "url": "https://datacenter.iers.org/data/latestVersion/bulletinC.txt",
+        "source": "datacenter.iers.org",
+        "score": 129,
+        "comments": 97,
+        "hnUrl": "https://news.ycombinator.com/item?id=48846281",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Hy3",
+        "titleOriginal": "Hy3",
+        "url": "https://hy.tencent.com/research/hy3",
+        "source": "hy.tencent.com",
+        "score": 86,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=48847552",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "L'épine dorsale de verre : pourquoi la logistique de l'armée se brisera dans la prochaine guerre",
-        "titleOriginal": "The Glass Backbone: Why the Army's Logistics Will Break in the Next War",
-        "url": "https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/",
-        "source": "mwi.westpoint.edu",
-        "score": 42,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=48845442",
-        "date": "il y a 37 min"
-      },
-      {
-        "title": "Les propriétaires de John Deere auront le droit de réparer l'équipement en vertu du règlement de la FTC",
-        "titleOriginal": "John Deere owners will get the right to repair equipment under FTC settlement",
-        "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-        "source": "apnews.com",
-        "score": 1126,
-        "comments": 224,
-        "hnUrl": "https://news.ycombinator.com/item?id=48838876",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Bonnie Tyler, chanteuse de Total Eclipse of the Heart, meurt à 75 ans",
-        "titleOriginal": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
-        "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
-        "source": "bbc.com",
-        "score": 188,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48843438",
-        "date": "il y a 3 h"
       }
     ]
   },
