@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-09T08:04:53.542Z",
+  "updatedAt": "2026-07-09T11:12:59.458Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 25,
+      "temp": 29,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 7,
-      "humidity": 55
+      "wind": 10,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -26,32 +26,24 @@
         "date": "2026-07-11",
         "code": 3,
         "tmax": 36,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-07-12",
         "code": 3,
         "tmax": 37,
-        "tmin": 21
+        "tmin": 22
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 549,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -59,6 +51,24 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "BERNARD ARNAULT JOUE AU TENNIS AVEC ROGER FEDERER",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "-UqtsZ-xfOQ",
+        "thumbnail": "https://i.ytimg.com/vi/-UqtsZ-xfOQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-UqtsZ-xfOQ",
+        "publishedAt": "2026-07-09T11:00:00+00:00"
+      },
+      {
+        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Gjab-wJw7Bo",
+        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
+        "publishedAt": "2026-07-09T09:03:58+00:00"
+      },
       {
         "title": "Pourquoi Midjourney veut scanner l'intérieur de ton corps ?",
         "channel": "Silicon Carne 🌶️",
@@ -69,15 +79,6 @@
         "publishedAt": "2026-07-08T17:02:16+00:00"
       },
       {
-        "title": "FKH - Cyberkinetic (ft Freddy Gladieux, Squeezie, Myd, Pandrezz)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "mlhGhLjDfUU",
-        "thumbnail": "https://i.ytimg.com/vi/mlhGhLjDfUU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mlhGhLjDfUU",
-        "publishedAt": "2026-07-08T16:08:43+00:00"
-      },
-      {
         "title": "Est-ce que l'eau est cuite avant de se retrouver en bouteille ?(ft @Joyca et Mathieu)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -85,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/14OHJl45_gI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=14OHJl45_gI",
         "publishedAt": "2026-07-08T14:38:43+00:00"
-      },
-      {
-        "title": "« LVMH EST UNE STARTUP DE 200 000 PERSONNES ! »",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "FZzp0WwK9JI",
-        "thumbnail": "https://i.ytimg.com/vi/FZzp0WwK9JI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FZzp0WwK9JI",
-        "publishedAt": "2026-07-08T13:00:17+00:00"
       },
       {
         "title": "Tout le monde peut-il vraiment être entrepreneur ?",
@@ -186,40 +178,40 @@
         "titleOriginal": "John Deere owners will get the right to repair equipment under FTC settlement",
         "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
         "source": "apnews.com",
-        "score": 732,
-        "comments": 135,
+        "score": 889,
+        "comments": 173,
         "hnUrl": "https://news.ycombinator.com/item?id=48838876",
-        "date": "il y a 8 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Le venin d'araignée tue les acariens varroa sans nuire aux abeilles mellifères",
         "titleOriginal": "Spider venom kills varroa mites without harming honeybees",
         "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
         "source": "connectsci.au",
-        "score": 81,
-        "comments": 30,
+        "score": 147,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=48841259",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Postgres réécrit dans Rust, passant maintenant 100% des tests de régression de Postgres",
-        "titleOriginal": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
-        "url": "https://github.com/malisper/pgrust",
-        "source": "github.com",
-        "score": 54,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=48841676",
+        "title": "Meta réutilise l'ancienne RAM dans les nouveaux serveurs avec une puce de pont personnalisée",
+        "titleOriginal": "Meta reuses old RAM in new servers with custom bridge chip",
+        "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+        "source": "networkworld.com",
+        "score": 62,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48778956",
+        "date": "il y a 5 j"
+      },
+      {
+        "title": "Mes réflexions sur la réécriture de Bun Rust",
+        "titleOriginal": "My Thoughts on the Bun Rust Rewrite",
+        "url": "https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html",
+        "source": "andrewkelley.me",
+        "score": 82,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=48843352",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Cargo-nextest : 3 fois plus rapide que le test de cargaison, isolation par test, CI de première classe",
-        "titleOriginal": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-        "url": "https://nexte.st/",
-        "source": "nexte.st",
-        "score": 70,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48800596",
-        "date": "il y a 3 j"
       }
     ]
   },
