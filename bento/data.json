@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-09T22:16:33.732Z",
+  "updatedAt": "2026-07-09T23:44:17.940Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 24,
+      "temp": 23,
+      "feelsLike": 23,
       "code": 0,
-      "wind": 10,
-      "humidity": 48
+      "wind": 8,
+      "humidity": 54
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GPT-5.6",
-        "titleOriginal": "GPT-5.6",
-        "url": "https://openai.com/index/gpt-5-6/",
-        "source": "openai.com",
-        "score": 875,
-        "comments": 650,
-        "hnUrl": "https://news.ycombinator.com/item?id=48849066",
-        "date": "il y a 5 h"
-      },
-      {
         "title": "Afficher HN : Obtenir GLM 5.2 en cours d'exécution sur mon ordinateur lent",
         "titleOriginal": "Show HN: Getting GLM 5.2 running on my slow computer",
         "url": "https://github.com/JustVugg/colibri",
         "source": "github.com",
-        "score": 144,
-        "comments": 27,
+        "score": 281,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=48842459",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "GPT-5.6",
+        "titleOriginal": "GPT-5.6",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "source": "openai.com",
+        "score": 964,
+        "comments": 723,
+        "hnUrl": "https://news.ycombinator.com/item?id=48849066",
+        "date": "il y a 6 h"
       },
       {
         "title": "Le Parlement européen donne le feu vert au contrôle du chat 1.0",
         "titleOriginal": "EU Parliament greenlights Chat Control 1.0",
         "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
         "source": "patrick-breyer.de",
-        "score": 858,
-        "comments": 410,
+        "score": 929,
+        "comments": 455,
         "hnUrl": "https://news.ycombinator.com/item?id=48843923",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Afficher HN : 18 mots",
         "titleOriginal": "Show HN: 18 Words",
         "url": "https://18words.com/",
         "source": "18words.com",
-        "score": 743,
-        "comments": 269,
+        "score": 774,
+        "comments": 278,
         "hnUrl": "https://news.ycombinator.com/item?id=48845049",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       }
     ]
   },
