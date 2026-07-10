@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T17:16:05.597Z",
+  "updatedAt": "2026-07-10T18:56:48.511Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 32,
-      "code": 1,
-      "wind": 14,
-      "humidity": 22
+      "temp": 33,
+      "feelsLike": 30,
+      "code": 0,
+      "wind": 12,
+      "humidity": 21
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 78,
+        "viewers": 194,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -96,15 +96,6 @@
         "publishedAt": "2026-07-10T08:29:43+00:00"
       },
       {
-        "title": "Pourquoi Google te donne ça gratuitement ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "HrUuLGv5UOw",
-        "thumbnail": "https://i.ytimg.com/vi/HrUuLGv5UOw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HrUuLGv5UOw",
-        "publishedAt": "2026-07-09T17:00:38+00:00"
-      },
-      {
         "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
@@ -112,6 +103,15 @@
         "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
         "publishedAt": "2026-07-09T09:03:58+00:00"
+      },
+      {
+        "title": "La nouvelle étude qui fait voler en éclats le narratif sur la Jobs Apocalypse !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "Fg8CNa9xa7w",
+        "thumbnail": "https://i.ytimg.com/vi/Fg8CNa9xa7w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fg8CNa9xa7w",
+        "publishedAt": "2026-07-08T06:30:29+00:00"
       },
       {
         "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
@@ -186,40 +186,40 @@
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 99,
-        "comments": 37,
+        "score": 213,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Snails 'Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+        "titleOriginal": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+        "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+        "source": "smithsonianmag.com",
+        "score": 77,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48862252",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "La technologie de « Terminator 2 » – une histoire orale (2017)",
+        "titleOriginal": "The tech of 'Terminator 2' – an oral history (2017)",
+        "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+        "source": "vfxblog.com",
+        "score": 68,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=48862365",
+        "date": "il y a 2 h"
       },
       {
         "title": "Une lettre d'amour aux cartes-éclair",
         "titleOriginal": "A Love Letter to Flashcards",
         "url": "https://lesleylai.info/en/flashcards/",
         "source": "lesleylai.info",
-        "score": 49,
-        "comments": 18,
+        "score": 86,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=48861319",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Les dents des escargots battent la soie d'araignée en tant que matériau le plus solide de la nature",
-        "titleOriginal": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
-        "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-        "source": "smithsonianmag.com",
-        "score": 17,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=48862252",
-        "date": "il y a 38 min"
-      },
-      {
-        "title": "Effondrement de l'âge du bronze tardif",
-        "titleOriginal": "Late Bronze Age Collapse",
-        "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
-        "source": "acoup.blog",
-        "score": 212,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=48858737",
-        "date": "il y a 5 h"
+        "date": "il y a 3 h"
       }
     ]
   },
