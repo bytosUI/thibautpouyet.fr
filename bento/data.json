@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-10T21:33:20.901Z",
+  "updatedAt": "2026-07-10T22:55:38.333Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 25,
+      "temp": 25,
+      "feelsLike": 24,
       "code": 3,
-      "wind": 13,
-      "humidity": 43
+      "wind": 14,
+      "humidity": 42
     },
     "forecast": [
-      {
-        "date": "2026-07-10",
-        "code": 3,
-        "tmax": 35,
-        "tmin": 20
-      },
       {
         "date": "2026-07-11",
         "code": 3,
@@ -30,23 +24,20 @@
       },
       {
         "date": "2026-07-13",
-        "code": 3,
+        "code": 80,
         "tmax": 37,
         "tmin": 22
+      },
+      {
+        "date": "2026-07-14",
+        "code": 3,
+        "tmax": 35,
+        "tmin": 23
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 192,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,29 +178,29 @@
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 352,
-        "comments": 137,
+        "score": 381,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "GPT-5.6, Grok 4.5, Claude et Muse Spark construisent les mêmes 4 applications",
-        "titleOriginal": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-        "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-        "source": "tryai.dev",
-        "score": 33,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=48865093",
-        "date": "il y a 40 min"
+        "title": "GPT-5.6 sol ultra produit la preuve de la Conjecture Cycle Double Cover [pdf]",
+        "titleOriginal": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "source": "cdn.openai.com",
+        "score": 259,
+        "comments": 223,
+        "hnUrl": "https://news.ycombinator.com/item?id=48863490",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Comment le groupe terroriste Boko Haram utilise l'IA frontalière",
-        "titleOriginal": "How the terrorist group Boko Haram uses frontier AI",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "source": "casp.ac",
-        "score": 89,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=48863707",
+        "title": "Apple poursuit OpenAI, accuse d'anciens employés d'avoir volé des secrets commerciaux",
+        "titleOriginal": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "source": "9to5mac.com",
+        "score": 87,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48865019",
         "date": "il y a 2 h"
       },
       {
@@ -216,10 +208,10 @@
         "titleOriginal": "The tech of 'Terminator 2' – an oral history (2017)",
         "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
         "source": "vfxblog.com",
-        "score": 119,
-        "comments": 48,
+        "score": 138,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=48862365",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       }
     ]
   },
