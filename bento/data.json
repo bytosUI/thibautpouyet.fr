@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T15:12:32.524Z",
+  "updatedAt": "2026-07-10T17:16:05.597Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
-      "feelsLike": 33,
-      "code": 2,
-      "wind": 13,
-      "humidity": 20
+      "temp": 34,
+      "feelsLike": 32,
+      "code": 1,
+      "wind": 14,
+      "humidity": 22
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-07-11",
         "code": 3,
         "tmax": 36,
-        "tmin": 21
+        "tmin": 20
       },
       {
         "date": "2026-07-12",
@@ -31,13 +31,22 @@
       {
         "date": "2026-07-13",
         "code": 3,
-        "tmax": 38,
+        "tmax": 37,
         "tmin": 22
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 78,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Écrivez le code comme un humain le maintiendra",
-        "titleOriginal": "Write code like a human will maintain it",
-        "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-        "source": "unstack.io",
-        "score": 121,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=48859701",
+        "title": "QuadRF peut repérer les drones et voir le WiFi à travers mon mur",
+        "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
+        "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+        "source": "jeffgeerling.com",
+        "score": 99,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=48861717",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Une lettre d'amour aux cartes-éclair",
+        "titleOriginal": "A Love Letter to Flashcards",
+        "url": "https://lesleylai.info/en/flashcards/",
+        "source": "lesleylai.info",
+        "score": 49,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=48861319",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Les dents des escargots battent la soie d'araignée en tant que matériau le plus solide de la nature",
+        "titleOriginal": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material",
+        "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+        "source": "smithsonianmag.com",
+        "score": 17,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48862252",
+        "date": "il y a 38 min"
       },
       {
         "title": "Effondrement de l'âge du bronze tardif",
         "titleOriginal": "Late Bronze Age Collapse",
         "url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/",
         "source": "acoup.blog",
-        "score": 132,
-        "comments": 50,
+        "score": 212,
+        "comments": 121,
         "hnUrl": "https://news.ycombinator.com/item?id=48858737",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Les entreprises prospères deviennent aveugles",
-        "titleOriginal": "Successful Companies Go Blind",
-        "url": "https://ianreppel.org/how-successful-companies-go-blind/",
-        "source": "ianreppel.org",
-        "score": 32,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48859678",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "GPT-5.6",
-        "titleOriginal": "GPT-5.6",
-        "url": "https://openai.com/index/gpt-5-6/",
-        "source": "openai.com",
-        "score": 1438,
-        "comments": 1008,
-        "hnUrl": "https://news.ycombinator.com/item?id=48849066",
-        "date": "il y a 22 h"
+        "date": "il y a 5 h"
       }
     ]
   },
