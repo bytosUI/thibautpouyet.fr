@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T02:29:16.244Z",
+  "updatedAt": "2026-07-10T06:26:12.261Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
-      "feelsLike": 21,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 8,
-      "humidity": 55
+      "wind": 6,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -25,25 +25,33 @@
       {
         "date": "2026-07-12",
         "code": 3,
-        "tmax": 37,
+        "tmax": 36,
         "tmin": 22
       },
       {
         "date": "2026-07-13",
         "code": 3,
-        "tmax": 39,
-        "tmin": 24
+        "tmax": 37,
+        "tmin": 22
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 352,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -52,69 +60,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "Pourquoi Google te donne ça gratuitement ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "HrUuLGv5UOw",
-        "thumbnail": "https://i.ytimg.com/vi/HrUuLGv5UOw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HrUuLGv5UOw",
-        "publishedAt": "2026-07-09T17:00:38+00:00"
-      },
-      {
-        "title": "On classe 32 friandises de cinéma avec Florent Bernard & Seb Vaniček (Mcfly n’aime pas le popcorn 🍿)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "Vr9kBC8rG3A",
-        "thumbnail": "https://i.ytimg.com/vi/Vr9kBC8rG3A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vr9kBC8rG3A",
-        "publishedAt": "2026-07-09T16:06:45+00:00"
-      },
-      {
-        "title": "BERNARD ARNAULT POURRAIT-IL SE LANCER EN POLITIQUE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "7JmbNRKvXaI",
-        "thumbnail": "https://i.ytimg.com/vi/7JmbNRKvXaI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7JmbNRKvXaI",
-        "publishedAt": "2026-07-09T15:00:20+00:00"
-      },
-      {
-        "title": "Le GEO, c'est du SEO plus cher ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "ZQRl9C2pB0Q",
-        "thumbnail": "https://i.ytimg.com/vi/ZQRl9C2pB0Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZQRl9C2pB0Q",
-        "publishedAt": "2026-07-09T12:57:42+00:00"
-      },
-      {
-        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Gjab-wJw7Bo",
-        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
-        "publishedAt": "2026-07-09T09:03:58+00:00"
-      },
-      {
-        "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "xQPWe2c9vQ8",
-        "thumbnail": "https://i.ytimg.com/vi/xQPWe2c9vQ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xQPWe2c9vQ8",
-        "publishedAt": "2026-07-05T17:15:32+00:00"
-      },
-      {
-        "title": "Pourquoi il faisait si froid dans la maison ? #23",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "qhgg5foifi0",
-        "thumbnail": "https://i.ytimg.com/vi/qhgg5foifi0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qhgg5foifi0",
-        "publishedAt": "2026-06-28T15:17:12+00:00"
-      },
-      {
         "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -122,15 +67,6 @@
         "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
         "publishedAt": "2026-06-28T07:57:43+00:00"
-      },
-      {
-        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "AA4JBftnGZE",
-        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
-        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -178,40 +114,40 @@
         "titleOriginal": "Show HN: Getting GLM 5.2 running on my slow computer",
         "url": "https://github.com/JustVugg/colibri",
         "source": "github.com",
-        "score": 403,
-        "comments": 104,
+        "score": 536,
+        "comments": 133,
         "hnUrl": "https://news.ycombinator.com/item?id=48842459",
-        "date": "il y a 18 h"
+        "date": "il y a 22 h"
       },
       {
         "title": "Le Parlement européen donne le feu vert au contrôle du chat 1.0",
         "titleOriginal": "EU Parliament greenlights Chat Control 1.0",
         "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
         "source": "patrick-breyer.de",
-        "score": 1018,
-        "comments": 489,
+        "score": 1211,
+        "comments": 575,
         "hnUrl": "https://news.ycombinator.com/item?id=48843923",
-        "date": "il y a 15 h"
+        "date": "il y a 19 h"
       },
       {
-        "title": "GPT-5.6",
-        "titleOriginal": "GPT-5.6",
-        "url": "https://openai.com/index/gpt-5-6/",
-        "source": "openai.com",
-        "score": 1081,
-        "comments": 789,
-        "hnUrl": "https://news.ycombinator.com/item?id=48849066",
-        "date": "il y a 9 h"
+        "title": "Afficher HN : 18 mots",
+        "titleOriginal": "Show HN: 18 Words",
+        "url": "https://18words.com/",
+        "source": "18words.com",
+        "score": 924,
+        "comments": 300,
+        "hnUrl": "https://news.ycombinator.com/item?id=48845049",
+        "date": "il y a 17 h"
       },
       {
-        "title": "Objectif",
-        "titleOriginal": "Focus",
-        "url": "https://boz.com/articles/focus",
-        "source": "boz.com",
-        "score": 23,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48854363",
-        "date": "il y a 1 h"
+        "title": "La simulation de train créée par une seule personne est considérée comme la meilleure jamais réalisée",
+        "titleOriginal": "Train sim created by just one person is being called the best ever made",
+        "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+        "source": "kotaku.com",
+        "score": 442,
+        "comments": 156,
+        "hnUrl": "https://news.ycombinator.com/item?id=48792383",
+        "date": "il y a 4 j"
       }
     ]
   },
