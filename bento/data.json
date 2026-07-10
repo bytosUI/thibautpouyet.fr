@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T18:56:48.511Z",
+  "updatedAt": "2026-07-10T20:21:24.841Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 30,
+      "temp": 29,
+      "feelsLike": 28,
       "code": 0,
-      "wind": 12,
-      "humidity": 21
+      "wind": 8,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-07-11",
         "code": 3,
         "tmax": 36,
-        "tmin": 20
+        "tmin": 21
       },
       {
         "date": "2026-07-12",
         "code": 3,
-        "tmax": 36,
+        "tmax": 35,
         "tmin": 22
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 213,
-        "comments": 77,
+        "score": 293,
+        "comments": 106,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Snails 'Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
-        "titleOriginal": "Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)",
+        "title": "Les dents des escargots battent la soie d'araignée en tant que matériau le plus résistant de la nature (2015)",
+        "titleOriginal": "Snails' teeth beats spider silk as nature's strongest material (2015)",
         "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
         "source": "smithsonianmag.com",
-        "score": 77,
-        "comments": 48,
+        "score": 101,
+        "comments": 68,
         "hnUrl": "https://news.ycombinator.com/item?id=48862252",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "La technologie de « Terminator 2 » – une histoire orale (2017)",
         "titleOriginal": "The tech of 'Terminator 2' – an oral history (2017)",
         "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
         "source": "vfxblog.com",
-        "score": 68,
-        "comments": 27,
+        "score": 97,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=48862365",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Une lettre d'amour aux cartes-éclair",
-        "titleOriginal": "A Love Letter to Flashcards",
-        "url": "https://lesleylai.info/en/flashcards/",
-        "source": "lesleylai.info",
-        "score": 86,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48861319",
-        "date": "il y a 3 h"
+        "title": "GPT-5.6 sol ultra produit la preuve de la Conjecture Cycle Double Cover [pdf]",
+        "titleOriginal": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "source": "cdn.openai.com",
+        "score": 142,
+        "comments": 127,
+        "hnUrl": "https://news.ycombinator.com/item?id=48863490",
+        "date": "il y a 1 h"
       }
     ]
   },
