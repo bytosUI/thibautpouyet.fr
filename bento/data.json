@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-10T06:26:12.261Z",
+  "updatedAt": "2026-07-10T09:59:06.210Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 22,
+      "temp": 30,
+      "feelsLike": 30,
       "code": 0,
-      "wind": 6,
-      "humidity": 60
+      "wind": 12,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-07-13",
         "code": 3,
-        "tmax": 37,
+        "tmax": 38,
         "tmin": 22
       }
     ]
@@ -39,19 +39,26 @@
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Assassin's Creed Black Flag Resynced",
+        "viewers": 4797,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 352,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "viewers": 375,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
-      "domingo",
-      "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,6 +67,69 @@
   "youtube": {
     "videos": [
       {
+        "title": "POLITIQUE, RELIGION AU TRAVAIL… CE QUE VOUS AVEZ LE DROIT DE FAIRE OU NON AU BUREAU",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Eiae_DDreD0",
+        "thumbnail": "https://i.ytimg.com/vi/Eiae_DDreD0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Eiae_DDreD0",
+        "publishedAt": "2026-07-10T09:00:06+00:00"
+      },
+      {
+        "title": "Quels métiers vont disparaître à cause de l'IA ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "nAx7q-QpCnQ",
+        "thumbnail": "https://i.ytimg.com/vi/nAx7q-QpCnQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nAx7q-QpCnQ",
+        "publishedAt": "2026-07-10T08:29:43+00:00"
+      },
+      {
+        "title": "Pourquoi Google te donne ça gratuitement ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "HrUuLGv5UOw",
+        "thumbnail": "https://i.ytimg.com/vi/HrUuLGv5UOw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HrUuLGv5UOw",
+        "publishedAt": "2026-07-09T17:00:38+00:00"
+      },
+      {
+        "title": "On classe 32 friandises de cinéma avec Florent Bernard & Seb Vaniček (Mcfly n’aime pas le popcorn 🍿)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "Vr9kBC8rG3A",
+        "thumbnail": "https://i.ytimg.com/vi/Vr9kBC8rG3A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vr9kBC8rG3A",
+        "publishedAt": "2026-07-09T16:06:45+00:00"
+      },
+      {
+        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Gjab-wJw7Bo",
+        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
+        "publishedAt": "2026-07-09T09:03:58+00:00"
+      },
+      {
+        "title": "Mon appartement à Séoul pour 900€/mois 📦🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xQPWe2c9vQ8",
+        "thumbnail": "https://i.ytimg.com/vi/xQPWe2c9vQ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xQPWe2c9vQ8",
+        "publishedAt": "2026-07-05T17:15:32+00:00"
+      },
+      {
+        "title": "Pourquoi il faisait si froid dans la maison ? #23",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "qhgg5foifi0",
+        "thumbnail": "https://i.ytimg.com/vi/qhgg5foifi0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qhgg5foifi0",
+        "publishedAt": "2026-06-28T15:17:12+00:00"
+      },
+      {
         "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -67,6 +137,15 @@
         "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
         "publishedAt": "2026-06-28T07:57:43+00:00"
+      },
+      {
+        "title": "Tu veux faire des crêpes mais tu n’as plus d’œufs #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "AA4JBftnGZE",
+        "thumbnail": "https://i.ytimg.com/vi/AA4JBftnGZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AA4JBftnGZE",
+        "publishedAt": "2026-05-03T12:58:26+00:00"
       }
     ]
   },
@@ -110,44 +189,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "GPT-5.6",
+        "titleOriginal": "GPT-5.6",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "source": "openai.com",
+        "score": 1274,
+        "comments": 907,
+        "hnUrl": "https://news.ycombinator.com/item?id=48849066",
+        "date": "il y a 16 h"
+      },
+      {
         "title": "Afficher HN : Obtenir GLM 5.2 en cours d'exécution sur mon ordinateur lent",
         "titleOriginal": "Show HN: Getting GLM 5.2 running on my slow computer",
         "url": "https://github.com/JustVugg/colibri",
         "source": "github.com",
-        "score": 536,
-        "comments": 133,
+        "score": 681,
+        "comments": 161,
         "hnUrl": "https://news.ycombinator.com/item?id=48842459",
-        "date": "il y a 22 h"
+        "date": "hier"
       },
       {
         "title": "Le Parlement européen donne le feu vert au contrôle du chat 1.0",
         "titleOriginal": "EU Parliament greenlights Chat Control 1.0",
         "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
         "source": "patrick-breyer.de",
-        "score": 1211,
-        "comments": 575,
+        "score": 1393,
+        "comments": 656,
         "hnUrl": "https://news.ycombinator.com/item?id=48843923",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Afficher HN : 18 mots",
-        "titleOriginal": "Show HN: 18 Words",
-        "url": "https://18words.com/",
-        "source": "18words.com",
-        "score": 924,
-        "comments": 300,
-        "hnUrl": "https://news.ycombinator.com/item?id=48845049",
-        "date": "il y a 17 h"
+        "date": "il y a 22 h"
       },
       {
         "title": "La simulation de train créée par une seule personne est considérée comme la meilleure jamais réalisée",
         "titleOriginal": "Train sim created by just one person is being called the best ever made",
         "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
         "source": "kotaku.com",
-        "score": 442,
-        "comments": 156,
+        "score": 604,
+        "comments": 217,
         "hnUrl": "https://news.ycombinator.com/item?id=48792383",
-        "date": "il y a 4 j"
+        "date": "il y a 5 j"
       }
     ]
   },
