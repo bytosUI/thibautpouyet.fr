@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-10T22:55:38.333Z",
+  "updatedAt": "2026-07-10T23:54:31.694Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 25,
-      "feelsLike": 24,
+      "feelsLike": 23,
       "code": 3,
       "wind": 14,
       "humidity": 42
@@ -178,40 +178,40 @@
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 381,
-        "comments": 150,
+        "score": 406,
+        "comments": 164,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "GPT-5.6 sol ultra produit la preuve de la Conjecture Cycle Double Cover [pdf]",
-        "titleOriginal": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "source": "cdn.openai.com",
-        "score": 259,
-        "comments": 223,
-        "hnUrl": "https://news.ycombinator.com/item?id=48863490",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Apple poursuit OpenAI, accuse d'anciens employés d'avoir volé des secrets commerciaux",
         "titleOriginal": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
         "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
         "source": "9to5mac.com",
-        "score": 87,
-        "comments": 40,
+        "score": 273,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=48865019",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "La relativité d'Einstein régit les liaisons chimiques dans les éléments lourds, selon de nouvelles recherches",
+        "titleOriginal": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+        "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+        "source": "brown.edu",
+        "score": 31,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48866134",
+        "date": "il y a 1 h"
       },
       {
         "title": "La technologie de « Terminator 2 » – une histoire orale (2017)",
         "titleOriginal": "The tech of 'Terminator 2' – an oral history (2017)",
         "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
         "source": "vfxblog.com",
-        "score": 138,
-        "comments": 52,
+        "score": 147,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48862365",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
