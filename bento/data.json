@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-11T11:47:45.228Z",
+  "updatedAt": "2026-07-11T13:05:48.743Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
+      "temp": 35,
       "feelsLike": 34,
       "code": 0,
       "wind": 13,
-      "humidity": 21
+      "humidity": 17
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT DIRE À SON COLLÈGUE QU’IL SENT MAUVAIS ?",
+        "title": "FAUT-IL PARLER POLITIQUE AU BOULOT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "gpW2oFIkTWg",
-        "thumbnail": "https://i.ytimg.com/vi/gpW2oFIkTWg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gpW2oFIkTWg",
-        "publishedAt": "2026-07-11T10:00:37+00:00"
+        "videoId": "nD67w1YCpzk",
+        "thumbnail": "https://i.ytimg.com/vi/nD67w1YCpzk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nD67w1YCpzk",
+        "publishedAt": "2026-07-11T12:00:20+00:00"
       },
       {
         "title": "Le CPF a surtout enrichi des organismes de formation ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Réseautage et Internet, à partir de Premiers principes",
+        "titleOriginal": "Networking and the Internet, from First Principles",
+        "url": "https://fazamhd.com/mental-models/networking/",
+        "source": "fazamhd.com",
+        "score": 35,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48871470",
+        "date": "il y a 35 min"
+      },
+      {
+        "title": "Votre code est rapide – si vous avez de la chance",
+        "titleOriginal": "Your code is fast – if you're lucky",
+        "url": "https://tiki.li/blog/lucky_code.html",
+        "source": "tiki.li",
+        "score": 23,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48870799",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "La relativité d'Einstein régit les liaisons chimiques dans les éléments lourds, selon de nouvelles recherches",
         "titleOriginal": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
         "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
         "source": "brown.edu",
-        "score": 273,
-        "comments": 101,
+        "score": 297,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=48866134",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "QuadRF peut repérer les drones et voir le WiFi à travers mon mur",
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 613,
-        "comments": 201,
+        "score": 628,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Otary – La bibliothèque Python d'images et de géométries a maintenant des tutoriels",
-        "titleOriginal": "Otary – Image and Geometry Python Library Now Has Tutorials",
-        "url": "https://alexandrepoupeau.com/otary/learn/",
-        "source": "alexandrepoupeau.com",
-        "score": 34,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48830556",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Apple poursuit OpenAI, accuse d'anciens employés d'avoir volé des secrets commerciaux",
-        "titleOriginal": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "source": "9to5mac.com",
-        "score": 1156,
-        "comments": 601,
-        "hnUrl": "https://news.ycombinator.com/item?id=48865019",
-        "date": "il y a 15 h"
+        "date": "il y a 21 h"
       }
     ]
   },
