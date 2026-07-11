@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-11T17:50:35.181Z",
+  "updatedAt": "2026-07-11T18:53:34.591Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
+      "temp": 33,
       "feelsLike": 31,
-      "code": 0,
+      "code": 2,
       "wind": 13,
-      "humidity": 16
+      "humidity": 21
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 85,
+        "viewers": 122,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,13 +182,23 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un décor moderne peut fatiguer le cerveau des gens",
-        "titleOriginal": "Modern Decor May Be Straining People's Brains",
-        "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-        "source": "studyfinds.com",
-        "score": 56,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=48873424",
+        "title": "AI 2040 et le culte de l'intelligence",
+        "titleOriginal": "AI 2040 and the Cult of Intelligence",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "source": "geohot.github.io",
+        "score": 69,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48874200",
+        "date": "il y a 49 min"
+      },
+      {
+        "title": "Préférez les tables strictes dans SQLite",
+        "titleOriginal": "Prefer Strict Tables in SQLite",
+        "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "source": "evanhahn.com",
+        "score": 26,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48873940",
         "date": "il y a 1 h"
       },
       {
@@ -196,30 +206,20 @@
         "titleOriginal": "We scaled PgBouncer to 4x throughput",
         "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
         "source": "clickhouse.com",
-        "score": 85,
-        "comments": 12,
+        "score": 118,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=48872874",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
-        "titleOriginal": "The early History of the Singular Value Decomposition (1993) [pdf]",
-        "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
-        "source": "math.ucdavis.edu",
-        "score": 41,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=48872858",
+        "title": "Un décor moderne peut fatiguer le cerveau des gens",
+        "titleOriginal": "Modern Decor May Be Straining People's Brains",
+        "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+        "source": "studyfinds.com",
+        "score": 98,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=48873424",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "Une rameuse américaine effectue un voyage historique en solo de la Californie à Hawaï",
-        "titleOriginal": "Female US rower completes historic solo journey from California to Hawaii",
-        "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-        "source": "theguardian.com",
-        "score": 40,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48873692",
-        "date": "il y a 47 min"
       }
     ]
   },
