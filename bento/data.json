@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-11T10:40:10.509Z",
+  "updatedAt": "2026-07-11T11:47:45.228Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 33,
+      "temp": 34,
+      "feelsLike": 34,
       "code": 0,
       "wind": 13,
-      "humidity": 26
+      "humidity": 21
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Une police que les humains peuvent lire mais que l'IA ne peut pas",
-        "titleOriginal": "A font that humans can read but AI cannot",
-        "url": "https://www.mixfont.com/ghost-font",
-        "source": "mixfont.com",
-        "score": 34,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48870381",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "La relativité d'Einstein régit les liaisons chimiques dans les éléments lourds, selon de nouvelles recherches",
         "titleOriginal": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
         "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
         "source": "brown.edu",
-        "score": 253,
-        "comments": 94,
+        "score": 273,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48866134",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "QuadRF peut repérer les drones et voir le WiFi à travers mon mur",
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 596,
-        "comments": 198,
+        "score": 613,
+        "comments": 201,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 18 h"
+        "date": "il y a 19 h"
       },
       {
         "title": "Otary – La bibliothèque Python d'images et de géométries a maintenant des tutoriels",
         "titleOriginal": "Otary – Image and Geometry Python Library Now Has Tutorials",
         "url": "https://alexandrepoupeau.com/otary/learn/",
         "source": "alexandrepoupeau.com",
-        "score": 21,
+        "score": 34,
         "comments": 0,
         "hnUrl": "https://news.ycombinator.com/item?id=48830556",
-        "date": "il y a 2 j"
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Apple poursuit OpenAI, accuse d'anciens employés d'avoir volé des secrets commerciaux",
+        "titleOriginal": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "source": "9to5mac.com",
+        "score": 1156,
+        "comments": 601,
+        "hnUrl": "https://news.ycombinator.com/item?id=48865019",
+        "date": "il y a 15 h"
       }
     ]
   },
