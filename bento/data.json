@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-11T09:06:03.382Z",
+  "updatedAt": "2026-07-11T10:40:10.509Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 29,
-      "code": 3,
-      "wind": 9,
-      "humidity": 39
+      "temp": 33,
+      "feelsLike": 33,
+      "code": 0,
+      "wind": 13,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -24,14 +24,14 @@
       },
       {
         "date": "2026-07-13",
-        "code": 3,
-        "tmax": 36,
+        "code": 80,
+        "tmax": 35,
         "tmin": 22
       },
       {
         "date": "2026-07-14",
-        "code": 3,
-        "tmax": 37,
+        "code": 80,
+        "tmax": 36,
         "tmin": 23
       }
     ]
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "COMMENT DIRE À SON COLLÈGUE QU’IL SENT MAUVAIS ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "gpW2oFIkTWg",
+        "thumbnail": "https://i.ytimg.com/vi/gpW2oFIkTWg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gpW2oFIkTWg",
+        "publishedAt": "2026-07-11T10:00:37+00:00"
+      },
+      {
         "title": "Le CPF a surtout enrichi des organismes de formation ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/WbkGSxFitXM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WbkGSxFitXM",
         "publishedAt": "2026-07-11T08:25:20+00:00"
-      },
-      {
-        "title": "VOTRE PATRON N’A PAS LE DROIT DE VOUS POSER CES QUESTIONS EN ENTRETIEN D’EMBAUCHE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "A3NvOx8zD10",
-        "thumbnail": "https://i.ytimg.com/vi/A3NvOx8zD10/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A3NvOx8zD10",
-        "publishedAt": "2026-07-11T08:00:12+00:00"
       },
       {
         "title": "On est fan de ce jeu (ft @Joyca et Mathieu)",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Une police que les humains peuvent lire mais que l'IA ne peut pas",
+        "titleOriginal": "A font that humans can read but AI cannot",
+        "url": "https://www.mixfont.com/ghost-font",
+        "source": "mixfont.com",
+        "score": 34,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48870381",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "La relativité d'Einstein régit les liaisons chimiques dans les éléments lourds, selon de nouvelles recherches",
         "titleOriginal": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
         "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
         "source": "brown.edu",
-        "score": 230,
-        "comments": 79,
+        "score": 253,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=48866134",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "QuadRF peut repérer les drones et voir le WiFi à travers mon mur",
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 572,
-        "comments": 192,
+        "score": 596,
+        "comments": 198,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 17 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Apple poursuit OpenAI, accuse d'anciens employés d'avoir volé des secrets commerciaux",
-        "titleOriginal": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-        "source": "9to5mac.com",
-        "score": 1027,
-        "comments": 520,
-        "hnUrl": "https://news.ycombinator.com/item?id=48865019",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Un ventilateur intelligent alimenté par iroh",
-        "titleOriginal": "An iroh powered smart fan",
-        "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
-        "source": "iroh.computer",
-        "score": 101,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48817539",
-        "date": "il y a 3 j"
+        "title": "Otary – La bibliothèque Python d'images et de géométries a maintenant des tutoriels",
+        "titleOriginal": "Otary – Image and Geometry Python Library Now Has Tutorials",
+        "url": "https://alexandrepoupeau.com/otary/learn/",
+        "source": "alexandrepoupeau.com",
+        "score": 21,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48830556",
+        "date": "il y a 2 j"
       }
     ]
   },
