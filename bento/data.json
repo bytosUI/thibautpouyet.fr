@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-11T13:05:48.743Z",
+  "updatedAt": "2026-07-11T14:34:34.185Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 35,
       "feelsLike": 34,
       "code": 0,
-      "wind": 13,
+      "wind": 12,
       "humidity": 17
     },
     "forecast": [
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FAUT-IL PARLER POLITIQUE AU BOULOT ?",
+        "title": "A-T-ON LE DROIT DE BOIRE DE L’ALCOOL AU TRAVAIL ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "nD67w1YCpzk",
-        "thumbnail": "https://i.ytimg.com/vi/nD67w1YCpzk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nD67w1YCpzk",
-        "publishedAt": "2026-07-11T12:00:20+00:00"
+        "videoId": "83lHSoOd294",
+        "thumbnail": "https://i.ytimg.com/vi/83lHSoOd294/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=83lHSoOd294",
+        "publishedAt": "2026-07-11T14:00:20+00:00"
       },
       {
         "title": "Le CPF a surtout enrichi des organismes de formation ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Networking and the Internet, from First Principles",
         "url": "https://fazamhd.com/mental-models/networking/",
         "source": "fazamhd.com",
-        "score": 35,
-        "comments": 10,
+        "score": 109,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=48871470",
-        "date": "il y a 35 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Votre code est rapide – si vous avez de la chance",
         "titleOriginal": "Your code is fast – if you're lucky",
         "url": "https://tiki.li/blog/lucky_code.html",
         "source": "tiki.li",
-        "score": 23,
-        "comments": 0,
+        "score": 70,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=48870799",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "La relativité d'Einstein régit les liaisons chimiques dans les éléments lourds, selon de nouvelles recherches",
         "titleOriginal": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
         "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
         "source": "brown.edu",
-        "score": 297,
-        "comments": 115,
+        "score": 313,
+        "comments": 131,
         "hnUrl": "https://news.ycombinator.com/item?id=48866134",
-        "date": "il y a 14 h"
+        "date": "il y a 16 h"
       },
       {
         "title": "QuadRF peut repérer les drones et voir le WiFi à travers mon mur",
         "titleOriginal": "QuadRF can spot drones and see WiFi through my wall",
         "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
         "source": "jeffgeerling.com",
-        "score": 628,
-        "comments": 207,
+        "score": 647,
+        "comments": 211,
         "hnUrl": "https://news.ycombinator.com/item?id=48861717",
-        "date": "il y a 21 h"
+        "date": "il y a 22 h"
       }
     ]
   },
