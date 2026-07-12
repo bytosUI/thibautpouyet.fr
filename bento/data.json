@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-11T23:23:52.206Z",
+  "updatedAt": "2026-07-12T01:01:46.699Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 24,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 0,
-      "wind": 7,
-      "humidity": 37
+      "wind": 10,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -142,7 +142,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 2 h",
+        "time": "il y a 4 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Arrêtez de me dire de demander à un LLM",
-        "titleOriginal": "Stop Telling Me to Ask an LLM",
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-        "source": "blog.yaelwrites.com",
-        "score": 64,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=48876441",
-        "date": "il y a 55 min"
-      },
-      {
-        "title": "Les battements d'haltérophilie en cours d'exécution pour le contrôle de la glycémie, les chercheurs trouvent",
-        "titleOriginal": "Weightlifting beats running for blood sugar control, researchers find",
-        "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
-        "source": "news.vt.edu",
-        "score": 25,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48876593",
-        "date": "il y a 34 min"
+        "title": "Mesh LLM : informatique IA distribuée sur iroh",
+        "titleOriginal": "Mesh LLM: distributed AI computing on iroh",
+        "url": "https://www.iroh.computer/blog/mesh-llm",
+        "source": "iroh.computer",
+        "score": 59,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48876505",
+        "date": "il y a 2 h"
       },
       {
         "title": "Show HN : Ant – Un environnement d'exécution et un écosystème JavaScript",
         "titleOriginal": "Show HN: Ant – A JavaScript runtime and ecosystem",
         "url": "https://antjs.org",
         "source": "antjs.org",
-        "score": 147,
-        "comments": 64,
+        "score": 167,
+        "comments": 74,
         "hnUrl": "https://news.ycombinator.com/item?id=48875377",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "RISCBoy est une console de jeux portable open-source, conçue à partir de zéro",
+        "titleOriginal": "RISCBoy is an open-source portable games console, designed from scratch",
+        "url": "https://github.com/Wren6991/RISCBoy",
+        "source": "github.com",
+        "score": 49,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48876245",
         "date": "il y a 3 h"
       },
       {
-        "title": "Mesh LLM : informatique IA distribuée sur iroh",
-        "titleOriginal": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "source": "iroh.computer",
-        "score": 14,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48876505",
-        "date": "il y a 44 min"
+        "title": "Les petits caractères qui vous suivent à la porte : les clauses de non-concurrence se répandent",
+        "titleOriginal": "The fine print that follows you out the door: non-compete clauses are spreading",
+        "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
+        "source": "oecdecoscope.blog",
+        "score": 18,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48876578",
+        "date": "il y a 2 h"
       }
     ]
   },
