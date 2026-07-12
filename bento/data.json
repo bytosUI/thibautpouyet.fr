@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-12T18:59:37.043Z",
+  "updatedAt": "2026-07-12T20:07:39.278Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 30,
-      "code": 2,
-      "wind": 13,
-      "humidity": 21
+      "temp": 30,
+      "feelsLike": 28,
+      "code": 0,
+      "wind": 10,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-13",
         "code": 80,
-        "tmax": 34,
+        "tmax": 35,
         "tmin": 22
       },
       {
@@ -142,7 +142,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 22 h",
+        "time": "il y a 23 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "source": "systima.ai",
-        "score": 35,
-        "comments": 9,
+        "score": 186,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=48883275",
-        "date": "il y a 33 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "Anciennes et nouvelles applications, via des agents de codage modernes",
-        "titleOriginal": "Old and new apps, via modern coding agents",
-        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
-        "source": "terrytao.wordpress.com",
-        "score": 340,
-        "comments": 96,
-        "hnUrl": "https://news.ycombinator.com/item?id=48880170",
-        "date": "il y a 7 h"
+        "title": "J'adore les LLM, je déteste le battage médiatique",
+        "titleOriginal": "I love LLMs, I hate hype",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "source": "geohot.github.io",
+        "score": 119,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=48883343",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le vaccin contre le zona peut réduire le risque de démence",
         "titleOriginal": "The shingles vaccine may reduce the risk of dementia",
         "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
         "source": "economist.com",
-        "score": 100,
-        "comments": 73,
+        "score": 148,
+        "comments": 108,
         "hnUrl": "https://news.ycombinator.com/item?id=48881874",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Tu ne veux pas dire éteint ?",
-        "titleOriginal": "Don't you mean extinct?",
-        "url": "https://fabiensanglard.net/extinct/index.html",
-        "source": "fabiensanglard.net",
-        "score": 110,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=48881830",
-        "date": "il y a 3 h"
+        "title": "Anciennes et nouvelles applications, via des agents de codage modernes",
+        "titleOriginal": "Old and new apps, via modern coding agents",
+        "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+        "source": "terrytao.wordpress.com",
+        "score": 361,
+        "comments": 103,
+        "hnUrl": "https://news.ycombinator.com/item?id=48880170",
+        "date": "il y a 8 h"
       }
     ]
   },
