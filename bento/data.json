@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-07-12T09:25:16.955Z",
+  "updatedAt": "2026-07-12T10:51:52.768Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 28,
-      "code": 2,
+      "temp": 33,
+      "feelsLike": 31,
+      "code": 3,
       "wind": 18,
-      "humidity": 28
+      "humidity": 23
     },
     "forecast": [
       {
         "date": "2026-07-12",
         "code": 3,
-        "tmax": 35,
+        "tmax": 36,
         "tmin": 22
       },
       {
         "date": "2026-07-13",
         "code": 80,
-        "tmax": 33,
+        "tmax": 34,
         "tmin": 22
       },
       {
         "date": "2026-07-14",
         "code": 3,
-        "tmax": 36,
-        "tmin": 21
+        "tmax": 37,
+        "tmin": 22
       },
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 33,
+        "tmax": 35,
         "tmin": 24
       }
     ]
@@ -142,7 +142,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 12 h",
+        "time": "il y a 13 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -174,42 +174,42 @@
   "hackernews": {
     "items": [
       {
+        "title": "Vint Cerf, un « père de l'Internet », prend sa retraite",
+        "titleOriginal": "Vint Cerf, a “father of the Internet”, is retiring",
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "source": "techcrunch.com",
+        "score": 83,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=48854168",
+        "date": "il y a 2 j"
+      },
+      {
         "title": "Show HN : Mindwalk – Rejouez les sessions d'agents de codage sur une carte 3D de votre base de code",
         "titleOriginal": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
         "url": "https://github.com/cosmtrek/mindwalk",
         "source": "github.com",
-        "score": 37,
-        "comments": 9,
+        "score": 68,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=48878682",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Mesh LLM : informatique IA distribuée sur iroh",
         "titleOriginal": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "iroh.computer",
-        "score": 251,
-        "comments": 57,
+        "score": 264,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=48876505",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Vint Cerf, un « père de l'Internet », prend sa retraite",
-        "titleOriginal": "Vint Cerf, a “father of the Internet”, is retiring",
-        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-        "source": "techcrunch.com",
-        "score": 55,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=48854168",
-        "date": "il y a 2 j"
+        "date": "il y a 12 h"
       },
       {
         "title": "Protobuf-py : Protobuf pour Python, sans compromis",
         "titleOriginal": "Protobuf-py: Protobuf for Python, without compromises",
         "url": "https://buf.build/blog/protobuf-py",
         "source": "buf.build",
-        "score": 41,
-        "comments": 4,
+        "score": 53,
+        "comments": 8,
         "hnUrl": "https://news.ycombinator.com/item?id=48827058",
         "date": "il y a 4 j"
       }
