@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-12T01:01:46.699Z",
+  "updatedAt": "2026-07-12T04:48:37.216Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 0,
-      "wind": 10,
-      "humidity": 39
+      "wind": 13,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-13",
         "code": 80,
-        "tmax": 34,
+        "tmax": 33,
         "tmin": 22
       },
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 24
       }
     ]
@@ -142,7 +142,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 4 h",
+        "time": "il y a 7 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Nous savons que des fluides simples peuvent s'écouler. Il s'avère que certains peuvent se fracturer",
+        "titleOriginal": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+        "source": "quantamagazine.org",
+        "score": 47,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48877668",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Mesh LLM : informatique IA distribuée sur iroh",
         "titleOriginal": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "iroh.computer",
-        "score": 59,
-        "comments": 17,
+        "score": 163,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=48876505",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Un outil de programmation web pur schéma",
+        "titleOriginal": "A pure scheme web programming tool",
+        "url": "https://goeteia.dev",
+        "source": "goeteia.dev",
+        "score": 52,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48877314",
+        "date": "il y a 3 h"
       },
       {
         "title": "Show HN : Ant – Un environnement d'exécution et un écosystème JavaScript",
         "titleOriginal": "Show HN: Ant – A JavaScript runtime and ecosystem",
         "url": "https://antjs.org",
         "source": "antjs.org",
-        "score": 167,
-        "comments": 74,
+        "score": 214,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=48875377",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "RISCBoy est une console de jeux portable open-source, conçue à partir de zéro",
-        "titleOriginal": "RISCBoy is an open-source portable games console, designed from scratch",
-        "url": "https://github.com/Wren6991/RISCBoy",
-        "source": "github.com",
-        "score": 49,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48876245",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Les petits caractères qui vous suivent à la porte : les clauses de non-concurrence se répandent",
-        "titleOriginal": "The fine print that follows you out the door: non-compete clauses are spreading",
-        "url": "https://oecdecoscope.blog/2026/07/07/the-fine-print-that-follows-you-out-the-door-non-compete-clauses-are-spreading-and-holding-back-growth/",
-        "source": "oecdecoscope.blog",
-        "score": 18,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48876578",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       }
     ]
   },
