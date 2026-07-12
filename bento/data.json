@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-07-12T11:54:30.589Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 34,
-      "feelsLike": 32,
-      "code": 3,
-      "wind": 18,
-      "humidity": 20
-    },
-    "forecast": [
-      {
-        "date": "2026-07-12",
-        "code": 3,
-        "tmax": 36,
-        "tmin": 22
-      },
-      {
-        "date": "2026-07-13",
-        "code": 80,
-        "tmax": 34,
-        "tmin": 22
-      },
-      {
-        "date": "2026-07-14",
-        "code": 3,
-        "tmax": 37,
-        "tmin": 22
-      },
-      {
-        "date": "2026-07-15",
-        "code": 3,
-        "tmax": 35,
-        "tmin": 24
-      }
-    ]
-  },
+  "updatedAt": "2026-07-12T13:07:00.306Z",
+  "weather": null,
   "twitch": {
     "live": [],
     "offline": [
@@ -51,6 +16,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "10 fondateurs IA : leurs paris pour 2026 et leurs peurs !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "YWXgLFFpAhs",
+        "thumbnail": "https://i.ytimg.com/vi/YWXgLFFpAhs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YWXgLFFpAhs",
+        "publishedAt": "2026-07-12T12:35:10+00:00"
+      },
       {
         "title": "IL EXISTE UN CHIEN TOTALEMENT HYPOALLERGÉNIQUE ET TRÈS MIGNON !",
         "channel": "LEGEND",
@@ -86,15 +60,6 @@
         "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
         "publishedAt": "2026-07-10T14:00:13+00:00"
-      },
-      {
-        "title": "Pourquoi Google te donne ça gratuitement ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "HrUuLGv5UOw",
-        "thumbnail": "https://i.ytimg.com/vi/HrUuLGv5UOw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HrUuLGv5UOw",
-        "publishedAt": "2026-07-09T17:00:38+00:00"
       },
       {
         "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
@@ -142,7 +107,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 15 h",
+        "time": "il y a 16 h",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -178,40 +143,40 @@
         "titleOriginal": "Old and new apps, via modern coding agents by Terry Tao",
         "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
         "source": "terrytao.wordpress.com",
-        "score": 14,
-        "comments": 0,
+        "score": 81,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=48880170",
-        "date": "il y a 44 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "Vint Cerf, un « père de l'Internet », prend sa retraite",
-        "titleOriginal": "Vint Cerf, a “father of the Internet”, is retiring",
-        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-        "source": "techcrunch.com",
-        "score": 116,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=48854168",
-        "date": "il y a 2 j"
+        "title": "Diagrammes de séquence Yt-Dlp",
+        "titleOriginal": "Yt-Dlp Sequence Diagrams",
+        "url": "https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video",
+        "source": "app.ilograph.com",
+        "score": 32,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48880384",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Show HN : Mindwalk – Rejouez les sessions d'agents de codage sur une carte 3D de votre base de code",
-        "titleOriginal": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
-        "url": "https://github.com/cosmtrek/mindwalk",
-        "source": "github.com",
-        "score": 83,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48878682",
-        "date": "il y a 6 h"
+        "title": "Ghostel.el : émulateur de terminal alimenté par libghostty",
+        "titleOriginal": "Ghostel.el: Terminal emulator powered by libghostty",
+        "url": "https://dakra.github.io/ghostel/",
+        "source": "dakra.github.io",
+        "score": 59,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48879504",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Mesh LLM : informatique IA distribuée sur iroh",
-        "titleOriginal": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "source": "iroh.computer",
-        "score": 272,
-        "comments": 62,
-        "hnUrl": "https://news.ycombinator.com/item?id=48876505",
-        "date": "il y a 13 h"
+        "title": "Comprendre le langage de programmation Odin",
+        "titleOriginal": "Understanding the Odin Programming Language",
+        "url": "https://odinbook.com/",
+        "source": "odinbook.com",
+        "score": 13,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48880499",
+        "date": "il y a 58 min"
       }
     ]
   },
