@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-13T18:29:03.825Z",
+  "updatedAt": "2026-07-13T19:59:48.184Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 30,
-      "code": 3,
-      "wind": 17,
-      "humidity": 24
+      "temp": 31,
+      "feelsLike": 29,
+      "code": 2,
+      "wind": 12,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-07-14",
         "code": 3,
         "tmax": 35,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 23
       },
       {
@@ -178,19 +178,9 @@
         "titleOriginal": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
         "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
         "source": "get-inscribe.com",
-        "score": 181,
-        "comments": 85,
+        "score": 294,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=48894752",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "L'art et l'ingénierie de Sega CD Silpheed",
-        "titleOriginal": "The art and engineering of Sega CD Silpheed",
-        "url": "https://fabiensanglard.net/silpheed/index.html",
-        "source": "fabiensanglard.net",
-        "score": 140,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=48893639",
         "date": "il y a 3 h"
       },
       {
@@ -198,20 +188,30 @@
         "titleOriginal": "Show HN: Super Dario",
         "url": "https://superdario.pawb.de",
         "source": "superdario.pawb.de",
-        "score": 55,
-        "comments": 9,
+        "score": 233,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48896286",
-        "date": "il y a 35 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "grok Build CLI de xAI télécharge des référentiels Git dans un Google Cloud Bucket",
-        "titleOriginal": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
-        "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
-        "source": "internationalcyberdigest.com",
-        "score": 11,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48896493",
-        "date": "il y a 18 min"
+        "title": "Création et expédition d'applications Mac et iOS sans jamais ouvrir Xcode",
+        "titleOriginal": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+        "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+        "source": "scottwillsey.com",
+        "score": 59,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=48896665",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Les prix réels des modèles frontières. Jetons * Prix, n'est-ce pas ?",
+        "titleOriginal": "The real prices of frontier models. Tokens * Price, right?",
+        "url": "https://playcode.io/blog/real-price-of-frontier-models",
+        "source": "playcode.io",
+        "score": 45,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=48896800",
+        "date": "il y a 1 h"
       }
     ]
   },
