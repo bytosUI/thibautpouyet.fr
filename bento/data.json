@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-13T22:25:00.909Z",
+  "updatedAt": "2026-07-13T23:24:30.598Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 26,
+      "temp": 25,
+      "feelsLike": 25,
       "code": 3,
-      "wind": 11,
-      "humidity": 45
+      "wind": 12,
+      "humidity": 50
     },
     "forecast": [
       {
         "date": "2026-07-14",
         "code": 3,
         "tmax": 35,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-07-15",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Création et expédition d'applications Mac et iOS sans jamais ouvrir Xcode",
-        "titleOriginal": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+        "title": "Créer et expédier des applications Mac et iOS sans jamais ouvrir Xcode",
+        "titleOriginal": "Building and shipping Mac and iOS apps without ever opening Xcode",
         "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
         "source": "scottwillsey.com",
-        "score": 185,
-        "comments": 82,
+        "score": 233,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=48896665",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "« Le village le plus propre d'Asie » interdit les touristes le dimanche",
+        "titleOriginal": "‘Asia's cleanest village’ bans tourists on Sundays",
+        "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
+        "source": "bbc.com",
+        "score": 25,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48899672",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Claude n'est que M. Meeseeks",
+        "titleOriginal": "Claude is just Mr. Meeseeks",
+        "url": "https://github.com/thephw/claude-meseeks",
+        "source": "github.com",
+        "score": 40,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48899529",
+        "date": "il y a 1 h"
       },
       {
         "title": "La nouvelle API SpeechAnalyzer d'Apple, comparée à Whisper et à son prédécesseur",
         "titleOriginal": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
         "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
         "source": "get-inscribe.com",
-        "score": 377,
-        "comments": 163,
+        "score": 399,
+        "comments": 169,
         "hnUrl": "https://news.ycombinator.com/item?id=48894752",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Climate.gov a été détruit. Les données ouvertes l'ont enregistré",
-        "titleOriginal": "Climate.gov was destroyed. Open data saved it",
-        "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
-        "source": "werd.io",
-        "score": 311,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=48897945",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Linux 0.11 réécrit en idiomatique Rust, boots en QEMU",
-        "titleOriginal": "Linux 0.11 rewritten in idiomatic Rust, boots in QEMU",
-        "url": "https://github.com/Poseidon-fan/linux-0.11-rs",
-        "source": "github.com",
-        "score": 41,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=48898134",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       }
     ]
   },
