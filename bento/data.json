@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-13T11:36:23.236Z",
+  "updatedAt": "2026-07-13T14:21:25.212Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 31,
+      "temp": 34,
+      "feelsLike": 32,
       "code": 2,
-      "wind": 18,
-      "humidity": 24
+      "wind": 17,
+      "humidity": 22
     },
     "forecast": [
       {
         "date": "2026-07-13",
-        "code": 80,
+        "code": 3,
         "tmax": 35,
         "tmin": 22
       },
@@ -20,11 +20,11 @@
         "date": "2026-07-14",
         "code": 80,
         "tmax": 36,
-        "tmin": 23
+        "tmin": 22
       },
       {
         "date": "2026-07-15",
-        "code": 3,
+        "code": 80,
         "tmax": 32,
         "tmin": 24
       },
@@ -37,18 +37,10 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 699,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "QUEL EST LE PRIX D’UN CHIEN ?",
+        "title": "CET HOMME FRAPPE SON CHIEN DEVANT LUI :  IL DÉCIDE D’INTERVENIR",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "PEEptkpY5zQ",
-        "thumbnail": "https://i.ytimg.com/vi/PEEptkpY5zQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PEEptkpY5zQ",
-        "publishedAt": "2026-07-13T11:00:20+00:00"
+        "videoId": "wUwUraHJL14",
+        "thumbnail": "https://i.ytimg.com/vi/wUwUraHJL14/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wUwUraHJL14",
+        "publishedAt": "2026-07-13T14:00:03+00:00"
       },
       {
         "title": "Si j’oublie quelque chose, je suis foutu. #24",
@@ -186,40 +178,40 @@
         "titleOriginal": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "source": "raymyers.org",
-        "score": 402,
-        "comments": 187,
+        "score": 879,
+        "comments": 442,
         "hnUrl": "https://news.ycombinator.com/item?id=48889637",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Interrail : 6 379 km et 13 pays sur 7 semaines",
-        "titleOriginal": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-        "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-        "source": "shkspr.mobi",
-        "score": 86,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=48889350",
+        "title": "Un voxel Tokyo en temps réel au Japon – empruntez la ligne Yamanote et étudiez le japonais",
+        "titleOriginal": "A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese",
+        "url": "https://jivx.com/densha",
+        "source": "jivx.com",
+        "score": 121,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=48890959",
         "date": "il y a 3 h"
       },
       {
-        "title": "La physique sociale de la conversation : les modèles de communication comptent",
-        "titleOriginal": "The social physics of conversation: Communication patterns matter",
-        "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
-        "source": "andiroberts.com",
-        "score": 61,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48828576",
-        "date": "il y a 5 j"
+        "title": "Grok a téléchargé mon répertoire d'utilisateurs sur les serveurs de xAI",
+        "titleOriginal": "Grok uploaded my user directory to xAI's servers",
+        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+        "source": "twitter.com",
+        "score": 81,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=48892512",
+        "date": "il y a 41 min"
       },
       {
-        "title": "GhostLock, une pile-UAF qui existe dans toutes les distributions Linux depuis 15 ans",
-        "titleOriginal": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-        "url": "https://nebusec.ai/research/ionstack-part-2/",
-        "source": "nebusec.ai",
-        "score": 299,
-        "comments": 125,
-        "hnUrl": "https://news.ycombinator.com/item?id=48834309",
-        "date": "il y a 4 j"
+        "title": "Afficher HN : DOM-docx – HTML vers natif, documents Word modifiables (mit)",
+        "titleOriginal": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+        "url": "https://github.com/floodtide/dom-docx",
+        "source": "github.com",
+        "score": 43,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=48891267",
+        "date": "il y a 2 h"
       }
     ]
   },
