@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-13T04:56:03.457Z",
+  "updatedAt": "2026-07-13T08:13:56.660Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
-      "code": 2,
-      "wind": 9,
-      "humidity": 52
+      "temp": 28,
+      "feelsLike": 26,
+      "code": 3,
+      "wind": 16,
+      "humidity": 36
     },
     "forecast": [
       {
         "date": "2026-07-13",
-        "code": 80,
+        "code": 3,
         "tmax": 35,
         "tmin": 22
       },
@@ -26,7 +26,7 @@
         "date": "2026-07-15",
         "code": 3,
         "tmax": 32,
-        "tmin": 22
+        "tmin": 23
       },
       {
         "date": "2026-07-16",
@@ -37,10 +37,18 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 446,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LA MEILLEURE RACE DE CHIEN POUR DÉFENDRE VOTRE MAISON",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "oSQux5Pp09g",
+        "thumbnail": "https://i.ytimg.com/vi/oSQux5Pp09g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oSQux5Pp09g",
+        "publishedAt": "2026-07-13T08:00:20+00:00"
+      },
+      {
         "title": "Si j’oublie quelque chose, je suis foutu. #24",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/V8I6hg-4oJ8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V8I6hg-4oJ8",
         "publishedAt": "2026-07-12T15:17:39+00:00"
-      },
-      {
-        "title": "IL EMMÈNE SON CHIEN DANS UNE MAISON HANTÉE POUR TROUVER LE FANTÔME… ET LE TROUVE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "muG8_Fah544",
-        "thumbnail": "https://i.ytimg.com/vi/muG8_Fah544/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=muG8_Fah544",
-        "publishedAt": "2026-07-12T15:00:27+00:00"
       },
       {
         "title": "Mais comment il fait ça ? (ft @victorcolin3656)",
@@ -174,12 +182,32 @@
   "hackernews": {
     "items": [
       {
+        "title": "Réplique de carte son Beavis Ultrasound PnP ISA",
+        "titleOriginal": "Beavis Ultrasound PnP ISA Sound Card Replica",
+        "url": "https://github.com/schlae/BeavisUltrasound",
+        "source": "github.com",
+        "score": 50,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=48888193",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Cursive sans retour en arrière",
+        "titleOriginal": "Backtrack-Free Cursive",
+        "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+        "source": "mmapped.blog",
+        "score": 34,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48888518",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "GhostLock, une pile-UAF qui existe dans toutes les distributions Linux depuis 15 ans",
         "titleOriginal": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
         "url": "https://nebusec.ai/research/ionstack-part-2/",
         "source": "nebusec.ai",
-        "score": 156,
-        "comments": 58,
+        "score": 248,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=48834309",
         "date": "il y a 4 j"
       },
@@ -188,30 +216,10 @@
         "titleOriginal": "Cyberpunk Comics, Manga and Graphic Novels",
         "url": "https://shellzine.net/cyberpunk-comics/",
         "source": "shellzine.net",
-        "score": 126,
-        "comments": 32,
+        "score": 174,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=48885643",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Demandez à HN : Ajouter un indicateur pour les articles générés par l'IA",
-        "titleOriginal": "Ask HN: Add flag for AI-generated articles",
-        "url": "https://news.ycombinator.com/item?id=48886741",
-        "source": "news.ycombinator.com",
-        "score": 248,
-        "comments": 151,
-        "hnUrl": "https://news.ycombinator.com/item?id=48886741",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Émulateurs minuscules",
-        "titleOriginal": "Tiny Emulators",
-        "url": "https://floooh.github.io/tiny8bit-preview/index.html",
-        "source": "floooh.github.io",
-        "score": 180,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=48884395",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       }
     ]
   },
