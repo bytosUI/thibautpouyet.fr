@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T20:06:29.114Z",
+  "updatedAt": "2026-07-14T21:28:56.648Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
-      "code": 3,
+      "temp": 29,
+      "feelsLike": 28,
+      "code": 2,
       "wind": 12,
-      "humidity": 32
+      "humidity": 37
     },
     "forecast": [
       {
@@ -142,7 +142,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 2 j",
+        "time": "il y a 3 j",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -174,13 +174,13 @@
   "hackernews": {
     "items": [
       {
-        "title": "Mesure de la latence d'entrée sur Linux : X11 contre Wayland, VRR et DXVK",
-        "titleOriginal": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-        "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
-        "source": "marco-nett.de",
-        "score": 281,
-        "comments": 159,
-        "hnUrl": "https://news.ycombinator.com/item?id=48909424",
+        "title": "Bonsaï 27B : un modèle de classe 27b qui fonctionne sur un téléphone",
+        "titleOriginal": "Bonsai 27B: A 27B-Class model that runs on a phone",
+        "url": "https://prismml.com/news/bonsai-27b",
+        "source": "prismml.com",
+        "score": 229,
+        "comments": 80,
+        "hnUrl": "https://news.ycombinator.com/item?id=48910545",
         "date": "il y a 3 h"
       },
       {
@@ -188,28 +188,28 @@
         "titleOriginal": "The Tower Keeps Rising",
         "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
         "source": "lucumr.pocoo.org",
-        "score": 180,
-        "comments": 70,
+        "score": 246,
+        "comments": 113,
         "hnUrl": "https://news.ycombinator.com/item?id=48909785",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Bonsaï 27B : un modèle de classe 27b qui fonctionne sur un téléphone",
-        "titleOriginal": "Bonsai 27B: A 27B-Class Model that runs on a phone",
-        "url": "https://prismml.com/news/bonsai-27b",
-        "source": "prismml.com",
-        "score": 116,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48910545",
-        "date": "il y a 2 h"
+        "title": "Curseur 0day : Quand la divulgation complète devient la seule protection restante",
+        "titleOriginal": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+        "source": "mindgard.ai",
+        "score": 107,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=48910676",
+        "date": "il y a 3 h"
       },
       {
         "title": "Votre « application » aurait pu être une page Web (alors je l'ai réparée pour vous)",
         "titleOriginal": "Your 'app' could have been a webpage (so I fixed it for you)",
         "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
         "source": "danq.me",
-        "score": 551,
-        "comments": 380,
+        "score": 619,
+        "comments": 396,
         "hnUrl": "https://news.ycombinator.com/item?id=48869989",
         "date": "il y a 3 j"
       }
