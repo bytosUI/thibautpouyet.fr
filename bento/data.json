@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T14:22:10.944Z",
+  "updatedAt": "2026-07-14T15:54:38.158Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 35,
-      "feelsLike": 33,
-      "code": 2,
-      "wind": 14,
-      "humidity": 25
+      "feelsLike": 34,
+      "code": 3,
+      "wind": 12,
+      "humidity": 24
     },
     "forecast": [
       {
@@ -24,15 +24,15 @@
       },
       {
         "date": "2026-07-16",
-        "code": 61,
-        "tmax": 33,
+        "code": 80,
+        "tmax": 32,
         "tmin": 21
       },
       {
         "date": "2026-07-17",
         "code": 95,
         "tmax": 24,
-        "tmin": 20
+        "tmin": 19
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "On vous présente nos coups de cœur sur Insta",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "NQX8g3vEPzo",
+        "thumbnail": "https://i.ytimg.com/vi/NQX8g3vEPzo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NQX8g3vEPzo",
+        "publishedAt": "2026-07-14T15:22:16+00:00"
+      },
+      {
         "title": "\"CERTAINS AGENTS PAYENT DES PR*STITUÉES POUR RÉCUPÉRER DES JOUEURS\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/PgWBZFMXXxY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PgWBZFMXXxY",
         "publishedAt": "2026-07-14T12:41:37+00:00"
-      },
-      {
-        "title": "On s'affronte en 1V1 sur Warhammer (ft @Alphacast_fr)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "iU-iooS6z14",
-        "thumbnail": "https://i.ytimg.com/vi/iU-iooS6z14/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iU-iooS6z14",
-        "publishedAt": "2026-07-13T17:11:19+00:00"
       },
       {
         "title": "Mes premiers jours dans mon nouvel appartement à Séoul 🇰🇷📦",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Codex commence à chiffrer les invites des sous-agents",
-        "titleOriginal": "Codex starts encrypting sub-agent prompts",
-        "url": "https://github.com/openai/codex/issues/28058",
-        "source": "github.com",
-        "score": 267,
-        "comments": 163,
-        "hnUrl": "https://news.ycombinator.com/item?id=48905028",
-        "date": "il y a 3 h"
+        "title": "Est-ce que nous déchargeons trop de notre pensée sur l'IA ?",
+        "titleOriginal": "Are we offloading too much of our thinking to AI?",
+        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "source": "artfish.ai",
+        "score": 48,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=48908178",
+        "date": "il y a 36 min"
       },
       {
-        "title": "Codex a parcouru le site Web de l'ICM et a découvert la liste des gagnants de la médaille Fields 2026",
-        "titleOriginal": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
-        "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
-        "source": "phemex.com",
-        "score": 103,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48905091",
-        "date": "il y a 2 h"
+        "title": "Show HN : Lignes d'ouverture d'œuvres littéraires célèbres",
+        "titleOriginal": "Show HN: Opening lines of famous literary works",
+        "url": "https://www.verbaprima.com/",
+        "source": "verbaprima.com",
+        "score": 20,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48908271",
+        "date": "il y a 29 min"
       },
       {
-        "title": "Preuve de soins à l'ère de l'IA",
-        "titleOriginal": "Proof of Care in the Age of A.I",
-        "url": "https://jacobfilipp.com/care/",
-        "source": "jacobfilipp.com",
-        "score": 55,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48906125",
+        "title": "La théorie de l'uni-contexte d'Agnes Callard",
+        "titleOriginal": "Agnes Callard’s theory of the uni-context",
+        "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
+        "source": "derekthompson.org",
+        "score": 53,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=48907290",
         "date": "il y a 1 h"
       },
       {
-        "title": "Belle effacement de type avec réflexion C++26",
-        "titleOriginal": "Beautiful Type Erasure with C++26 Reflection",
-        "url": "https://ryanjk5.github.io/posts/rjk-duck/",
-        "source": "ryanjk5.github.io",
-        "score": 35,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48905914",
-        "date": "il y a 1 h"
+        "title": "Votre « application » aurait pu être une page Web (alors je l'ai réparée pour vous)",
+        "titleOriginal": "Your 'app' could have been a webpage (so I fixed it for you)",
+        "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+        "source": "danq.me",
+        "score": 242,
+        "comments": 208,
+        "hnUrl": "https://news.ycombinator.com/item?id=48869989",
+        "date": "il y a 3 j"
       }
     ]
   },
