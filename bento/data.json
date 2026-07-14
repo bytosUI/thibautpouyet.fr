@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T12:06:43.870Z",
+  "updatedAt": "2026-07-14T14:22:10.944Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 35,
-      "code": 3,
-      "wind": 11,
-      "humidity": 29
+      "temp": 35,
+      "feelsLike": 33,
+      "code": 2,
+      "wind": 14,
+      "humidity": 25
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 33,
-        "tmin": 22
+        "tmax": 32,
+        "tmin": 23
       },
       {
         "date": "2026-07-16",
         "code": 61,
         "tmax": 33,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-07-17",
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES MATCHS DE FOOTBALL SONT TRUQUÉS ! CET AGENT DE JOUEURS DÉNONCE",
+        "title": "\"CERTAINS AGENTS PAYENT DES PR*STITUÉES POUR RÉCUPÉRER DES JOUEURS\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "oNaYwSkG5qc",
-        "thumbnail": "https://i.ytimg.com/vi/oNaYwSkG5qc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oNaYwSkG5qc",
-        "publishedAt": "2026-07-14T09:30:02+00:00"
+        "videoId": "tbbetNiPoCQ",
+        "thumbnail": "https://i.ytimg.com/vi/tbbetNiPoCQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tbbetNiPoCQ",
+        "publishedAt": "2026-07-14T13:00:21+00:00"
+      },
+      {
+        "title": "Combien faut-il vraiment gagner pour vivre à l'île Maurice ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "PgWBZFMXXxY",
+        "thumbnail": "https://i.ytimg.com/vi/PgWBZFMXXxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PgWBZFMXXxY",
+        "publishedAt": "2026-07-14T12:41:37+00:00"
       },
       {
         "title": "On s'affronte en 1V1 sur Warhammer (ft @Alphacast_fr)",
@@ -95,15 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/YWXgLFFpAhs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YWXgLFFpAhs",
         "publishedAt": "2026-07-12T12:35:10+00:00"
-      },
-      {
-        "title": "Le CPF a surtout enrichi des organismes de formation ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "WbkGSxFitXM",
-        "thumbnail": "https://i.ytimg.com/vi/WbkGSxFitXM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WbkGSxFitXM",
-        "publishedAt": "2026-07-11T08:25:20+00:00"
       },
       {
         "title": "60 jours pour construire une terrasse géante et un observatoire",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Codex commence à chiffrer les invites, utilise le texte chiffré pour l'inférence à la place",
-        "titleOriginal": "Codex starts encrypting prompts, uses ciphertext for inference instead",
+        "title": "Codex commence à chiffrer les invites des sous-agents",
+        "titleOriginal": "Codex starts encrypting sub-agent prompts",
         "url": "https://github.com/openai/codex/issues/28058",
         "source": "github.com",
-        "score": 89,
-        "comments": 45,
+        "score": 267,
+        "comments": 163,
         "hnUrl": "https://news.ycombinator.com/item?id=48905028",
-        "date": "il y a 45 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Le futur qui vaut la peine d'être construit est humain – Laboratoire Thinking Machines",
-        "titleOriginal": "The Future Worth Building Is Human – Thinking Machines Lab",
-        "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
-        "source": "thinkingmachines.ai",
-        "score": 33,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48904905",
+        "title": "Codex a parcouru le site Web de l'ICM et a découvert la liste des gagnants de la médaille Fields 2026",
+        "titleOriginal": "Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+        "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+        "source": "phemex.com",
+        "score": 103,
+        "comments": 72,
+        "hnUrl": "https://news.ycombinator.com/item?id=48905091",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Preuve de soins à l'ère de l'IA",
+        "titleOriginal": "Proof of Care in the Age of A.I",
+        "url": "https://jacobfilipp.com/care/",
+        "source": "jacobfilipp.com",
+        "score": 55,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48906125",
         "date": "il y a 1 h"
       },
       {
-        "title": "Votre « application » aurait pu être une page Web (je l'ai donc réparée pour vous)",
-        "titleOriginal": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
-        "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
-        "source": "danq.me",
-        "score": 92,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=48869989",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "La grande fatigue numérique : comment l'épuisement professionnel numérique change l'utilisation des médias sociaux",
-        "titleOriginal": "The great digital fatigue: How digital burnout is changing social media use",
-        "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
-        "source": "blog.incogni.com",
-        "score": 28,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48904855",
+        "title": "Belle effacement de type avec réflexion C++26",
+        "titleOriginal": "Beautiful Type Erasure with C++26 Reflection",
+        "url": "https://ryanjk5.github.io/posts/rjk-duck/",
+        "source": "ryanjk5.github.io",
+        "score": 35,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48905914",
         "date": "il y a 1 h"
       }
     ]
