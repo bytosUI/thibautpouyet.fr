@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T15:54:38.158Z",
+  "updatedAt": "2026-07-14T17:08:12.705Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 35,
       "feelsLike": 34,
       "code": 3,
-      "wind": 12,
-      "humidity": 24
+      "wind": 11,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-16",
         "code": 80,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 21
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "On vous présente nos coups de cœur sur Insta",
+        "title": "@marinedmusique Core",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "NQX8g3vEPzo",
-        "thumbnail": "https://i.ytimg.com/vi/NQX8g3vEPzo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NQX8g3vEPzo",
-        "publishedAt": "2026-07-14T15:22:16+00:00"
+        "videoId": "ht0zZxrg8fI",
+        "thumbnail": "https://i.ytimg.com/vi/ht0zZxrg8fI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ht0zZxrg8fI",
+        "publishedAt": "2026-07-14T16:27:46+00:00"
       },
       {
         "title": "\"CERTAINS AGENTS PAYENT DES PR*STITUÉES POUR RÉCUPÉRER DES JOUEURS\"",
@@ -174,33 +174,23 @@
   "hackernews": {
     "items": [
       {
+        "title": "Mesure de la latence d'entrée sur Linux : X11 contre Wayland, VRR et DXVK",
+        "titleOriginal": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+        "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+        "source": "marco-nett.de",
+        "score": 35,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48909424",
+        "date": "il y a 32 min"
+      },
+      {
         "title": "Est-ce que nous déchargeons trop de notre pensée sur l'IA ?",
         "titleOriginal": "Are we offloading too much of our thinking to AI?",
         "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
         "source": "artfish.ai",
-        "score": 48,
-        "comments": 28,
+        "score": 160,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=48908178",
-        "date": "il y a 36 min"
-      },
-      {
-        "title": "Show HN : Lignes d'ouverture d'œuvres littéraires célèbres",
-        "titleOriginal": "Show HN: Opening lines of famous literary works",
-        "url": "https://www.verbaprima.com/",
-        "source": "verbaprima.com",
-        "score": 20,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48908271",
-        "date": "il y a 29 min"
-      },
-      {
-        "title": "La théorie de l'uni-contexte d'Agnes Callard",
-        "titleOriginal": "Agnes Callard’s theory of the uni-context",
-        "url": "https://www.derekthompson.org/p/a-philosophers-one-word-theory-to",
-        "source": "derekthompson.org",
-        "score": 53,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=48907290",
         "date": "il y a 1 h"
       },
       {
@@ -208,10 +198,20 @@
         "titleOriginal": "Your 'app' could have been a webpage (so I fixed it for you)",
         "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
         "source": "danq.me",
-        "score": 242,
-        "comments": 208,
+        "score": 370,
+        "comments": 259,
         "hnUrl": "https://news.ycombinator.com/item?id=48869989",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "Show HN : Lignes d'ouverture d'œuvres littéraires célèbres",
+        "titleOriginal": "Show HN: Opening lines of famous literary works",
+        "url": "https://www.verbaprima.com/",
+        "source": "verbaprima.com",
+        "score": 69,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48908271",
+        "date": "il y a 1 h"
       }
     ]
   },
