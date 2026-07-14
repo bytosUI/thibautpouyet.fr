@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T08:33:23.040Z",
+  "updatedAt": "2026-07-14T10:40:19.678Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 28,
-      "code": 3,
-      "wind": 9,
-      "humidity": 45
+      "temp": 32,
+      "feelsLike": 33,
+      "code": 2,
+      "wind": 4,
+      "humidity": 32
     },
     "forecast": [
       {
@@ -19,12 +19,12 @@
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 22
       },
       {
         "date": "2026-07-16",
-        "code": 3,
+        "code": 61,
         "tmax": 33,
         "tmin": 22
       },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LES MATCHS DE FOOTBALL SONT TRUQUÉS ! CET AGENT DE JOUEURS DÉNONCE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "oNaYwSkG5qc",
+        "thumbnail": "https://i.ytimg.com/vi/oNaYwSkG5qc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oNaYwSkG5qc",
+        "publishedAt": "2026-07-14T09:30:02+00:00"
+      },
+      {
         "title": "On s'affronte en 1V1 sur Warhammer (ft @Alphacast_fr)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/NaLnm48ktBw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NaLnm48ktBw",
         "publishedAt": "2026-07-13T17:00:24+00:00"
-      },
-      {
-        "title": "IL A ÉDUQUÉ UN CHIEN QUI A T*É UN HOMME ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "6zjxCBHjsfU",
-        "thumbnail": "https://i.ytimg.com/vi/6zjxCBHjsfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6zjxCBHjsfU",
-        "publishedAt": "2026-07-13T16:00:04+00:00"
       },
       {
         "title": "Si j’oublie quelque chose, je suis foutu. #24",
@@ -178,40 +178,40 @@
         "titleOriginal": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
         "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
         "source": "tech.supercarblondie.com",
-        "score": 410,
-        "comments": 96,
+        "score": 507,
+        "comments": 126,
         "hnUrl": "https://news.ycombinator.com/item?id=48901569",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "YouTrackDB est une base de données graphique orientée objet à usage général",
-        "titleOriginal": "YouTrackDB is a general-use object-oriented graph database",
-        "url": "https://github.com/JetBrains/youtrackdb",
-        "source": "github.com",
-        "score": 103,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48902026",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "La commande d'historique Git",
-        "titleOriginal": "The Git history command",
-        "url": "https://lalitm.com/post/git-history/",
-        "source": "lalitm.com",
-        "score": 265,
-        "comments": 151,
-        "hnUrl": "https://news.ycombinator.com/item?id=48901010",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Alternative(s) pour exécuter CUDA sur du matériel non-Nvidia",
         "titleOriginal": "Alternative(s) to run CUDA on non-Nvidia hardware",
         "url": "https://www.hpcwire.com/2026/07/09/spectral-compute-aims-to-set-cuda-free-will-it-succeed/",
         "source": "hpcwire.com",
-        "score": 5,
-        "comments": 0,
+        "score": 42,
+        "comments": 20,
         "hnUrl": "https://news.ycombinator.com/item?id=48903715",
-        "date": "il y a 8 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les détaillants d'énergie australiens doivent fournir trois heures d'électricité gratuite pendant la journée",
+        "titleOriginal": "Australian energy retailers must provide three hours of free daytime electricity",
+        "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+        "source": "lenergy.com.au",
+        "score": 113,
+        "comments": 167,
+        "hnUrl": "https://news.ycombinator.com/item?id=48902320",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "La commande git history",
+        "titleOriginal": "The git history command",
+        "url": "https://lalitm.com/post/git-history/",
+        "source": "lalitm.com",
+        "score": 315,
+        "comments": 180,
+        "hnUrl": "https://news.ycombinator.com/item?id=48901010",
+        "date": "il y a 9 h"
       }
     ]
   },
