@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T22:31:14.213Z",
+  "updatedAt": "2026-07-14T23:47:56.029Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 27,
-      "code": 1,
+      "temp": 26,
+      "feelsLike": 26,
+      "code": 3,
       "wind": 8,
-      "humidity": 45
+      "humidity": 51
     },
     "forecast": [
       {
@@ -178,19 +178,29 @@
         "titleOriginal": "Bonsai 27B: A 27B-Class model that runs on a phone",
         "url": "https://prismml.com/news/bonsai-27b",
         "source": "prismml.com",
-        "score": 310,
-        "comments": 105,
+        "score": 360,
+        "comments": 136,
         "hnUrl": "https://news.ycombinator.com/item?id=48910545",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Les mises à jour de la version de Dependabot introduisent le refroidissement du paquet par défaut",
         "titleOriginal": "Dependabot version updates introduce default package cooldown",
         "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
         "source": "github.blog",
-        "score": 32,
-        "comments": 10,
+        "score": 62,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=48913050",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Financer le boom de l'IA : des flux de trésorerie à la dette [pdf]",
+        "titleOriginal": "Financing the AI boom: from cash flows to debt [pdf]",
+        "url": "https://www.bis.org/publ/bisbull120.pdf",
+        "source": "bis.org",
+        "score": 45,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48913443",
         "date": "il y a 1 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "The Tower Keeps Rising",
         "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
         "source": "lucumr.pocoo.org",
-        "score": 281,
-        "comments": 137,
+        "score": 307,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=48909785",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Curseur 0day : Quand la divulgation complète devient la seule protection restante",
-        "titleOriginal": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "source": "mindgard.ai",
-        "score": 168,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=48910676",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       }
     ]
   },
