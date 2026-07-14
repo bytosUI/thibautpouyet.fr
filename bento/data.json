@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-14T00:13:26.607Z",
+  "updatedAt": "2026-07-14T03:43:09.608Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 24,
+      "temp": 23,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 9,
-      "humidity": 52
+      "wind": 5,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 33,
+        "tmax": 34,
         "tmin": 23
       },
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "On s'affronte en 1V1 sur Warhammer (ft @Alphacast_fr)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "iU-iooS6z14",
-        "thumbnail": "https://i.ytimg.com/vi/iU-iooS6z14/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iU-iooS6z14",
-        "publishedAt": "2026-07-13T17:11:19+00:00"
-      },
-      {
-        "title": "Mes premiers jours dans mon nouvel appartement à Séoul 🇰🇷📦",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "NaLnm48ktBw",
-        "thumbnail": "https://i.ytimg.com/vi/NaLnm48ktBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NaLnm48ktBw",
-        "publishedAt": "2026-07-13T17:00:24+00:00"
-      },
-      {
-        "title": "IL A ÉDUQUÉ UN CHIEN QUI A T*É UN HOMME ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "6zjxCBHjsfU",
-        "thumbnail": "https://i.ytimg.com/vi/6zjxCBHjsfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6zjxCBHjsfU",
-        "publishedAt": "2026-07-13T16:00:04+00:00"
-      },
-      {
-        "title": "Si j’oublie quelque chose, je suis foutu. #24",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "V8I6hg-4oJ8",
-        "thumbnail": "https://i.ytimg.com/vi/V8I6hg-4oJ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V8I6hg-4oJ8",
-        "publishedAt": "2026-07-12T15:17:39+00:00"
-      },
-      {
-        "title": "Qui survivra à l'ère agentique ? On a posé la question aux CEO sur place !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "YWXgLFFpAhs",
-        "thumbnail": "https://i.ytimg.com/vi/YWXgLFFpAhs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YWXgLFFpAhs",
-        "publishedAt": "2026-07-12T12:35:10+00:00"
-      },
-      {
-        "title": "Le CPF a surtout enrichi des organismes de formation ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "WbkGSxFitXM",
-        "thumbnail": "https://i.ytimg.com/vi/WbkGSxFitXM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WbkGSxFitXM",
-        "publishedAt": "2026-07-11T08:25:20+00:00"
-      },
-      {
-        "title": "60 jours pour construire une terrasse géante et un observatoire",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "zoSg9cLlGuo",
-        "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
-        "publishedAt": "2026-07-10T14:00:13+00:00"
-      },
-      {
-        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Gjab-wJw7Bo",
-        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
-        "publishedAt": "2026-07-09T09:03:58+00:00"
-      },
-      {
-        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "fcwNWpk0tfk",
-        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
-        "publishedAt": "2026-06-28T07:57:43+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "« Le village le plus propre d'Asie » interdit les touristes le dimanche",
-        "titleOriginal": "‘Asia's cleanest village’ bans tourists on Sundays",
-        "url": "https://www.bbc.com/travel/article/20260625-why-asias-cleanest-village-bans-tourists-on-sundays",
-        "source": "bbc.com",
-        "score": 48,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48899672",
+        "title": "Le Japon développe une méthode pour récupérer jusqu'à 90 % du lithium des batteries de VE usagées",
+        "titleOriginal": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+        "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+        "source": "tech.supercarblondie.com",
+        "score": 49,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48901569",
         "date": "il y a 1 h"
       },
       {
-        "title": "Claude n'est que M. Meeseeks",
-        "titleOriginal": "Claude is just Mr. Meeseeks",
-        "url": "https://github.com/thephw/claude-meseeks",
-        "source": "github.com",
-        "score": 93,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=48899529",
+        "title": "La commande d'historique Git mérite plus d'attention",
+        "titleOriginal": "The Git history command deserves more attention",
+        "url": "https://lalitm.com/post/git-history/",
+        "source": "lalitm.com",
+        "score": 106,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48901010",
         "date": "il y a 2 h"
       },
       {
-        "title": "Créer et expédier des applications Mac et iOS sans jamais ouvrir Xcode",
-        "titleOriginal": "Building and shipping Mac and iOS apps without ever opening Xcode",
-        "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
-        "source": "scottwillsey.com",
-        "score": 258,
-        "comments": 119,
-        "hnUrl": "https://news.ycombinator.com/item?id=48896665",
-        "date": "il y a 5 h"
+        "title": "Principes fondamentaux de la communication sans fil",
+        "titleOriginal": "Fundamentals of Wireless Communication",
+        "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+        "source": "web.stanford.edu",
+        "score": 40,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48901454",
+        "date": "il y a 1 h"
       },
       {
-        "title": "La nouvelle API SpeechAnalyzer d'Apple, comparée à Whisper et à son prédécesseur",
-        "titleOriginal": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-        "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-        "source": "get-inscribe.com",
-        "score": 417,
-        "comments": 173,
-        "hnUrl": "https://news.ycombinator.com/item?id=48894752",
-        "date": "il y a 8 h"
+        "title": "Sur quoi allons-nous travailler ?",
+        "titleOriginal": "What will be left for us to work on?",
+        "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
+        "source": "normaltech.ai",
+        "score": 43,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=48901292",
+        "date": "il y a 1 h"
       }
     ]
   },
