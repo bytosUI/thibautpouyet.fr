@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-15T04:47:39.165Z",
+  "updatedAt": "2026-07-15T07:10:57.337Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 9,
-      "humidity": 54
+      "wind": 10,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -52,6 +52,42 @@
   "youtube": {
     "videos": [
       {
+        "title": "@marinedmusique Core",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ht0zZxrg8fI",
+        "thumbnail": "https://i.ytimg.com/vi/ht0zZxrg8fI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ht0zZxrg8fI",
+        "publishedAt": "2026-07-14T16:27:46+00:00"
+      },
+      {
+        "title": "\"CERTAINS AGENTS PAYENT DES PR*STITUÉES POUR RÉCUPÉRER DES JOUEURS\"",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "tbbetNiPoCQ",
+        "thumbnail": "https://i.ytimg.com/vi/tbbetNiPoCQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tbbetNiPoCQ",
+        "publishedAt": "2026-07-14T13:00:21+00:00"
+      },
+      {
+        "title": "Combien faut-il vraiment gagner pour vivre à l'île Maurice ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "PgWBZFMXXxY",
+        "thumbnail": "https://i.ytimg.com/vi/PgWBZFMXXxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PgWBZFMXXxY",
+        "publishedAt": "2026-07-14T12:41:37+00:00"
+      },
+      {
+        "title": "Mes premiers jours dans mon nouvel appartement à Séoul 🇰🇷📦",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "NaLnm48ktBw",
+        "thumbnail": "https://i.ytimg.com/vi/NaLnm48ktBw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NaLnm48ktBw",
+        "publishedAt": "2026-07-13T17:00:24+00:00"
+      },
+      {
         "title": "Si j’oublie quelque chose, je suis foutu. #24",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -68,6 +104,33 @@
         "thumbnail": "https://i.ytimg.com/vi/YWXgLFFpAhs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YWXgLFFpAhs",
         "publishedAt": "2026-07-12T12:35:10+00:00"
+      },
+      {
+        "title": "60 jours pour construire une terrasse géante et un observatoire",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "zoSg9cLlGuo",
+        "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
+        "publishedAt": "2026-07-10T14:00:13+00:00"
+      },
+      {
+        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Gjab-wJw7Bo",
+        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
+        "publishedAt": "2026-07-09T09:03:58+00:00"
+      },
+      {
+        "title": "42M de vues sur 1 video ça rapporte combien €? - FAQ",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "fcwNWpk0tfk",
+        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
+        "publishedAt": "2026-06-28T07:57:43+00:00"
       }
     ]
   },
@@ -115,40 +178,40 @@
         "titleOriginal": "Jurassic Park computers in excruciating detail",
         "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
         "source": "fabiensanglard.net",
-        "score": 100,
-        "comments": 22,
+        "score": 289,
+        "comments": 63,
         "hnUrl": "https://news.ycombinator.com/item?id=48915709",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "J'ai trompé Claude pour qu'il divulgue vos secrets les plus profonds et les plus sombres",
+        "titleOriginal": "I tricked Claude into leaking your deepest, darkest secrets",
+        "url": "https://www.ayush.digital/blog/the-memory-heist",
+        "source": "ayush.digital",
+        "score": 18,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48916975",
+        "date": "il y a 42 min"
       },
       {
         "title": "Le site Web de Vancouver PD dispose d'un bouton d'échappement rapide qui s'efface de l'historique",
         "titleOriginal": "Vancouver PD website features Quick Escape button that wipes itself from history",
         "url": "https://vpd.ca/",
         "source": "vpd.ca",
-        "score": 190,
-        "comments": 70,
+        "score": 233,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=48914644",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "TS-2026-009 : Gestion non sécurisée des arguments dans Tailscale SSH a autorisé l'accès racine",
         "titleOriginal": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
         "url": "https://tailscale.com/security-bulletins",
         "source": "tailscale.com",
-        "score": 76,
-        "comments": 33,
+        "score": 123,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=48915004",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Bonsaï 27B : un modèle de classe 27b qui fonctionne sur un téléphone",
-        "titleOriginal": "Bonsai 27B: A 27B-Class model that runs on a phone",
-        "url": "https://prismml.com/news/bonsai-27b",
-        "source": "prismml.com",
-        "score": 497,
-        "comments": 184,
-        "hnUrl": "https://news.ycombinator.com/item?id=48910545",
-        "date": "il y a 10 h"
+        "date": "il y a 6 h"
       }
     ]
   },
