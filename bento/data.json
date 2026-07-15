@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-15T07:10:57.337Z",
+  "updatedAt": "2026-07-15T09:26:59.822Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
+      "temp": 26,
+      "feelsLike": 26,
       "code": 3,
       "wind": 10,
-      "humidity": 52
+      "humidity": 47
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-07-16",
-        "code": 80,
+        "code": 3,
         "tmax": 34,
         "tmin": 22
       },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "AT.TENTAT DE NICE : IL ARRÊTE LE CAMION, ELLE PERD SA SŒUR JUMELLE… ILS RACONTENT L’HORREUR",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "E_iHyjkoCQY",
+        "thumbnail": "https://i.ytimg.com/vi/E_iHyjkoCQY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E_iHyjkoCQY",
+        "publishedAt": "2026-07-15T08:34:23+00:00"
+      },
+      {
         "title": "@marinedmusique Core",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/ht0zZxrg8fI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ht0zZxrg8fI",
         "publishedAt": "2026-07-14T16:27:46+00:00"
-      },
-      {
-        "title": "\"CERTAINS AGENTS PAYENT DES PR*STITUÉES POUR RÉCUPÉRER DES JOUEURS\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "tbbetNiPoCQ",
-        "thumbnail": "https://i.ytimg.com/vi/tbbetNiPoCQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tbbetNiPoCQ",
-        "publishedAt": "2026-07-14T13:00:21+00:00"
       },
       {
         "title": "Combien faut-il vraiment gagner pour vivre à l'île Maurice ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Jurassic Park computers in excruciating detail",
         "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
         "source": "fabiensanglard.net",
-        "score": 289,
-        "comments": 63,
+        "score": 420,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48915709",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "RISC-V est inévitable : argumentaire sur l'état de l'Union",
+        "titleOriginal": "RISC-V Is Inevitable: State of the Union Keynote Argues",
+        "url": "https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/",
+        "source": "eetimes.com",
+        "score": 53,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=48916805",
+        "date": "il y a 3 h"
       },
       {
         "title": "J'ai trompé Claude pour qu'il divulgue vos secrets les plus profonds et les plus sombres",
         "titleOriginal": "I tricked Claude into leaking your deepest, darkest secrets",
         "url": "https://www.ayush.digital/blog/the-memory-heist",
         "source": "ayush.digital",
-        "score": 18,
-        "comments": 2,
+        "score": 260,
+        "comments": 112,
         "hnUrl": "https://news.ycombinator.com/item?id=48916975",
-        "date": "il y a 42 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Le site Web de Vancouver PD dispose d'un bouton d'échappement rapide qui s'efface de l'historique",
         "titleOriginal": "Vancouver PD website features Quick Escape button that wipes itself from history",
         "url": "https://vpd.ca/",
         "source": "vpd.ca",
-        "score": 233,
-        "comments": 90,
+        "score": 264,
+        "comments": 105,
         "hnUrl": "https://news.ycombinator.com/item?id=48914644",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "TS-2026-009 : Gestion non sécurisée des arguments dans Tailscale SSH a autorisé l'accès racine",
-        "titleOriginal": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-        "url": "https://tailscale.com/security-bulletins",
-        "source": "tailscale.com",
-        "score": 123,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=48915004",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       }
     ]
   },
