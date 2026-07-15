@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-15T12:49:30.437Z",
+  "updatedAt": "2026-07-15T14:44:07.351Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 32,
-      "code": 3,
-      "wind": 10,
-      "humidity": 31
+      "temp": 32,
+      "feelsLike": 33,
+      "code": 2,
+      "wind": 9,
+      "humidity": 34
     },
     "forecast": [
       {
         "date": "2026-07-15",
         "code": 3,
-        "tmax": 33,
+        "tmax": 32,
         "tmin": 22
       },
       {
         "date": "2026-07-16",
-        "code": 95,
+        "code": 3,
         "tmax": 34,
         "tmin": 21
       },
       {
         "date": "2026-07-17",
-        "code": 3,
+        "code": 80,
         "tmax": 27,
-        "tmin": 20
+        "tmin": 21
       },
       {
         "date": "2026-07-18",
@@ -42,17 +42,9 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 4902,
+        "viewers": 4697,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Rhythm Heaven Groove",
-        "viewers": 323,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
@@ -60,6 +52,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -189,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La régularité du sommeil est un prédicteur plus fort du risque de mortalité que la durée du sommeil",
-        "titleOriginal": "Sleep regularity is a stronger predictor of mortality risk than sleep duration",
+        "title": "La régularité du sommeil est un prédicteur plus fort du risque de mortalité que la durée du sommeil (2023)",
+        "titleOriginal": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
         "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
         "source": "academic.oup.com",
-        "score": 94,
-        "comments": 44,
+        "score": 307,
+        "comments": 141,
         "hnUrl": "https://news.ycombinator.com/item?id=48919363",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Faites payer les gens pour entrer dans votre boîte de réception",
-        "titleOriginal": "Make people pay to get into your inbox",
-        "url": "https://www.captchainbox.com",
-        "source": "captchainbox.com",
-        "score": 20,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48919489",
-        "date": "il y a 50 min"
+        "title": "Les mystères des centres de données Telegram",
+        "titleOriginal": "Mysteries of Telegram Data Centers",
+        "url": "https://dev.moe/en/3025",
+        "source": "dev.moe",
+        "score": 48,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=48920475",
+        "date": "il y a 1 h"
       },
       {
         "title": "Des ordinateurs Jurassic Park dans des détails atroces",
         "titleOriginal": "Jurassic Park computers in excruciating detail",
         "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
         "source": "fabiensanglard.net",
-        "score": 590,
-        "comments": 144,
+        "score": 696,
+        "comments": 171,
         "hnUrl": "https://news.ycombinator.com/item?id=48915709",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Donner la priorité à la santé mentale et pourquoi la communication est si importante",
         "titleOriginal": "Prioritize mental health, and why communication is so important",
         "url": "https://ramones.dev/posts/mental-health/",
         "source": "ramones.dev",
-        "score": 30,
-        "comments": 5,
+        "score": 94,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48919198",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
