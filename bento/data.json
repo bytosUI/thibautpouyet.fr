@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-15T14:44:07.351Z",
+  "updatedAt": "2026-07-15T16:16:03.030Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
-      "feelsLike": 33,
-      "code": 2,
-      "wind": 9,
-      "humidity": 34
+      "feelsLike": 31,
+      "code": 3,
+      "wind": 10,
+      "humidity": 25
     },
     "forecast": [
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-07-17",
         "code": 80,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 21
       },
       {
         "date": "2026-07-18",
         "code": 3,
-        "tmax": 27,
-        "tmin": 15
+        "tmax": 29,
+        "tmin": 16
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 4697,
+        "viewers": 5228,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES CORPS DES VICTIMES DE L’AT.TENTAT DE NICE SE FAISAIENT DÉPOUILLER PAR DES PASSANTS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "EbVzw4L_4Yk",
-        "thumbnail": "https://i.ytimg.com/vi/EbVzw4L_4Yk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EbVzw4L_4Yk",
-        "publishedAt": "2026-07-15T12:00:31+00:00"
-      },
-      {
-        "title": "@marinedmusique Core",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ht0zZxrg8fI",
-        "thumbnail": "https://i.ytimg.com/vi/ht0zZxrg8fI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ht0zZxrg8fI",
-        "publishedAt": "2026-07-14T16:27:46+00:00"
-      },
-      {
-        "title": "Combien faut-il vraiment gagner pour vivre à l'île Maurice ?",
+        "title": "La réalité d’une influenceuse à Maurice.",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "PgWBZFMXXxY",
-        "thumbnail": "https://i.ytimg.com/vi/PgWBZFMXXxY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PgWBZFMXXxY",
-        "publishedAt": "2026-07-14T12:41:37+00:00"
+        "videoId": "a1L_zh-cj9w",
+        "thumbnail": "https://i.ytimg.com/vi/a1L_zh-cj9w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a1L_zh-cj9w",
+        "publishedAt": "2026-07-15T15:17:53+00:00"
+      },
+      {
+        "title": "Carlito oublie de mettre son jeu en pause...",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "fi0J_xMFwMw",
+        "thumbnail": "https://i.ytimg.com/vi/fi0J_xMFwMw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fi0J_xMFwMw",
+        "publishedAt": "2026-07-15T15:01:13+00:00"
+      },
+      {
+        "title": "LE COMMISSAIRE LUI ANNONCE LA MORT DE SA SŒUR JUMELLE… EN LUI FAISANT UNE DEVINETTE !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "DsGfTN1Isxk",
+        "thumbnail": "https://i.ytimg.com/vi/DsGfTN1Isxk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DsGfTN1Isxk",
+        "publishedAt": "2026-07-15T15:00:38+00:00"
       },
       {
         "title": "Mes premiers jours dans mon nouvel appartement à Séoul 🇰🇷📦",
@@ -186,40 +186,40 @@
         "titleOriginal": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
         "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
         "source": "academic.oup.com",
-        "score": 307,
-        "comments": 141,
+        "score": 467,
+        "comments": 222,
         "hnUrl": "https://news.ycombinator.com/item?id=48919363",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "DEA à l'annexe 7-Oh temporaire et substances apparentées pour protéger la sécurité publique",
+        "titleOriginal": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
+        "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
+        "source": "dea.gov",
+        "score": 25,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=48922185",
+        "date": "il y a 58 min"
       },
       {
         "title": "Les mystères des centres de données Telegram",
         "titleOriginal": "Mysteries of Telegram Data Centers",
         "url": "https://dev.moe/en/3025",
         "source": "dev.moe",
-        "score": 48,
-        "comments": 10,
+        "score": 114,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=48920475",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Des ordinateurs Jurassic Park dans des détails atroces",
-        "titleOriginal": "Jurassic Park computers in excruciating detail",
-        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-        "source": "fabiensanglard.net",
-        "score": 696,
-        "comments": 171,
-        "hnUrl": "https://news.ycombinator.com/item?id=48915709",
-        "date": "il y a 11 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Donner la priorité à la santé mentale et pourquoi la communication est si importante",
         "titleOriginal": "Prioritize mental health, and why communication is so important",
         "url": "https://ramones.dev/posts/mental-health/",
         "source": "ramones.dev",
-        "score": 94,
-        "comments": 61,
+        "score": 145,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=48919198",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
