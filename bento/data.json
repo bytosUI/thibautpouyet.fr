@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-15T16:16:03.030Z",
+  "updatedAt": "2026-07-15T17:44:57.730Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
-      "feelsLike": 31,
-      "code": 3,
-      "wind": 10,
-      "humidity": 25
+      "feelsLike": 30,
+      "code": 2,
+      "wind": 14,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -20,13 +20,13 @@
         "date": "2026-07-16",
         "code": 3,
         "tmax": 34,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-07-17",
         "code": 80,
         "tmax": 28,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-07-18",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 5228,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La régularité du sommeil est un prédicteur plus fort du risque de mortalité que la durée du sommeil (2023)",
-        "titleOriginal": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-        "url": "https://academic.oup.com/sleep/article/47/1/zsad253/7280269",
-        "source": "academic.oup.com",
-        "score": 467,
-        "comments": 222,
-        "hnUrl": "https://news.ycombinator.com/item?id=48919363",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "DEA à l'annexe 7-Oh temporaire et substances apparentées pour protéger la sécurité publique",
-        "titleOriginal": "DEA to Temporarily Schedule 7-Oh and Related Substances to Protect Public Safety",
-        "url": "https://www.dea.gov/press-releases/2026/07/01/dea-temporarily-schedule-7-oh-and-related-substances-protect-public",
-        "source": "dea.gov",
-        "score": 25,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=48922185",
-        "date": "il y a 58 min"
+        "title": "Exécution de Gemma 4 26B à 5 jetons/s sur un Xeon de 13 ans sans GPU",
+        "titleOriginal": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+        "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "source": "neomindlabs.com",
+        "score": 61,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=48922434",
+        "date": "il y a 2 h"
       },
       {
         "title": "Les mystères des centres de données Telegram",
         "titleOriginal": "Mysteries of Telegram Data Centers",
         "url": "https://dev.moe/en/3025",
         "source": "dev.moe",
-        "score": 114,
-        "comments": 28,
+        "score": 158,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=48920475",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Donner la priorité à la santé mentale et pourquoi la communication est si importante",
-        "titleOriginal": "Prioritize mental health, and why communication is so important",
-        "url": "https://ramones.dev/posts/mental-health/",
-        "source": "ramones.dev",
-        "score": 145,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=48919198",
-        "date": "il y a 4 h"
+        "title": "Mémoire open source pour les agents de codage, synchronisée sur SSH",
+        "titleOriginal": "Open-source memory for coding agents, synced over SSH",
+        "url": "https://github.com/vshulcz/deja-vu/",
+        "source": "github.com",
+        "score": 32,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48923111",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Afficher HN : misa77 - un codec qui décode 2 fois plus vite que LZ4 (à de meilleurs rapports)",
+        "titleOriginal": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+        "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+        "source": "github.com",
+        "score": 45,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48922838",
+        "date": "il y a 1 h"
       }
     ]
   },
