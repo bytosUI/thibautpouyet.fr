@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-15T19:02:40.662Z",
+  "updatedAt": "2026-07-15T20:30:53.361Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
+      "temp": 28,
+      "feelsLike": 26,
       "code": 3,
-      "wind": 8,
-      "humidity": 28
+      "wind": 9,
+      "humidity": 32
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-07-16",
         "code": 3,
         "tmax": 34,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-07-17",
         "code": 80,
-        "tmax": 28,
+        "tmax": 30,
         "tmin": 22
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Murati's Thinking Machines publie Open-Weights 975B Parameter LLM",
-        "titleOriginal": "Murati's Thinking Machines Releases Open-Weights 975B Parameter LLM",
-        "url": "https://thinkingmachines.ai/inkling/",
-        "source": "thinkingmachines.ai",
-        "score": 79,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48924929",
-        "date": "il y a 48 min"
-      },
-      {
         "title": "Inkling : notre modèle Open-Weights",
         "titleOriginal": "Inkling: Our Open-Weights Model",
         "url": "https://thinkingmachines.ai/news/introducing-inkling/",
         "source": "thinkingmachines.ai",
-        "score": 51,
-        "comments": 8,
+        "score": 262,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=48924912",
-        "date": "il y a 49 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Codex Micro",
-        "titleOriginal": "Codex Micro",
-        "url": "https://openai.com/supply/co-lab/work-louder/",
-        "source": "openai.com",
-        "score": 152,
-        "comments": 128,
-        "hnUrl": "https://news.ycombinator.com/item?id=48923079",
-        "date": "il y a 2 h"
+        "title": "Duskers, le jeu de ligne de commande effrayant, obtient une suite",
+        "titleOriginal": "Duskers, the scary command line game, is getting a sequel",
+        "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+        "source": "elbowgreasegames.substack.com",
+        "score": 33,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=48925888",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Stripe et Advent ont fait une offre conjointe pour acquérir PayPal – sources",
+        "titleOriginal": "Stripe and Advent have made a joint offer to acquire PayPal – sources",
+        "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+        "source": "reuters.com",
+        "score": 193,
+        "comments": 94,
+        "hnUrl": "https://news.ycombinator.com/item?id=48915953",
+        "date": "il y a 16 h"
       },
       {
         "title": "Exécution de Gemma 4 26B à 5 jetons/s sur un Xeon de 13 ans sans GPU",
         "titleOriginal": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
         "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
         "source": "neomindlabs.com",
-        "score": 138,
-        "comments": 71,
+        "score": 174,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=48922434",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
