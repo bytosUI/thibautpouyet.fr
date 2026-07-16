@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-15T23:54:13.372Z",
+  "updatedAt": "2026-07-16T02:05:00.378Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 25,
-      "code": 1,
-      "wind": 2,
-      "humidity": 50
+      "temp": 22,
+      "feelsLike": 23,
+      "code": 0,
+      "wind": 3,
+      "humidity": 60
     },
     "forecast": [
       {
         "date": "2026-07-16",
         "code": 3,
-        "tmax": 34,
+        "tmax": 33,
         "tmin": 21
       },
       {
         "date": "2026-07-17",
-        "code": 3,
+        "code": 80,
         "tmax": 30,
         "tmin": 21
       },
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 84,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "Inkling: Our Open-Weights Model",
         "url": "https://thinkingmachines.ai/news/introducing-inkling/",
         "source": "thinkingmachines.ai",
-        "score": 572,
-        "comments": 141,
+        "score": 699,
+        "comments": 179,
         "hnUrl": "https://news.ycombinator.com/item?id=48924912",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "SQLite devrait avoir des éditions (style Rust)",
         "titleOriginal": "SQLite should have (Rust-style) editions",
         "url": "https://mort.coffee/home/sqlite-editions/",
         "source": "mort.coffee",
-        "score": 52,
-        "comments": 24,
+        "score": 119,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=48928135",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Cadres Métal-Organique, Nouveaux Matériaux Miraculeux de la Chimie",
-        "titleOriginal": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
-        "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
-        "source": "chemistry.berkeley.edu",
-        "score": 18,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=48928313",
-        "date": "il y a 53 min"
+        "date": "il y a 3 h"
       },
       {
         "title": "Grok Build est open source",
         "titleOriginal": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "source": "github.com",
-        "score": 194,
-        "comments": 223,
+        "score": 270,
+        "comments": 313,
         "hnUrl": "https://news.ycombinator.com/item?id=48926590",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "G# – Un langage .NET moderne avec ergonomie Go, Kotlin et Swift",
+        "titleOriginal": "G# – A modern .NET language with Go, Kotlin, and Swift ergonomics",
+        "url": "https://davidobando.github.io/gsharp/",
+        "source": "davidobando.github.io",
+        "score": 21,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48871721",
+        "date": "il y a 4 j"
       }
     ]
   },
