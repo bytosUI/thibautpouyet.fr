@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-16T07:34:27.850Z",
+  "updatedAt": "2026-07-16T10:02:50.197Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 26,
+      "temp": 30,
+      "feelsLike": 32,
       "code": 3,
-      "wind": 4,
-      "humidity": 55
+      "wind": 3,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-18",
         "code": 3,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 17
       },
       {
@@ -37,21 +37,13 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 482,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -59,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "IL TOMBE EN DÉPRESSION APRÈS LE DRAME…ET SE FAIT STOPPER PAR LE RAID",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "WfdTHcAOn7E",
+        "thumbnail": "https://i.ytimg.com/vi/WfdTHcAOn7E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WfdTHcAOn7E",
+        "publishedAt": "2026-07-16T08:49:18+00:00"
+      },
       {
         "title": "La réalité d’une influenceuse à Maurice.",
         "channel": "Darons du Biz",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/fi0J_xMFwMw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fi0J_xMFwMw",
         "publishedAt": "2026-07-15T15:01:13+00:00"
-      },
-      {
-        "title": "LE COMMISSAIRE LUI ANNONCE LA MORT DE SA SŒUR JUMELLE… EN LUI FAISANT UNE DEVINETTE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "DsGfTN1Isxk",
-        "thumbnail": "https://i.ytimg.com/vi/DsGfTN1Isxk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DsGfTN1Isxk",
-        "publishedAt": "2026-07-15T15:00:38+00:00"
       },
       {
         "title": "Mes premiers jours dans mon nouvel appartement à Séoul 🇰🇷📦",
@@ -186,40 +178,40 @@
         "titleOriginal": "The lost joy of music piracy",
         "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
         "source": "pigeonsandplanes.com",
-        "score": 165,
-        "comments": 77,
+        "score": 326,
+        "comments": 175,
         "hnUrl": "https://news.ycombinator.com/item?id=48930454",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Inkling : notre modèle Open-Weights",
         "titleOriginal": "Inkling: Our Open-Weights Model",
         "url": "https://thinkingmachines.ai/news/introducing-inkling/",
         "source": "thinkingmachines.ai",
-        "score": 912,
-        "comments": 222,
+        "score": 977,
+        "comments": 246,
         "hnUrl": "https://news.ycombinator.com/item?id=48924912",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Si vous voulez créer un bouton à partir de zéro, vous devez d'abord créer l'univers",
         "titleOriginal": "If you want to create a button from scratch, you must first create the universe",
         "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
         "source": "madcampos.dev",
-        "score": 78,
-        "comments": 34,
+        "score": 133,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48930136",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "SQLite devrait avoir des éditions (style Rust)",
-        "titleOriginal": "SQLite should have (Rust-style) editions",
-        "url": "https://mort.coffee/home/sqlite-editions/",
-        "source": "mort.coffee",
-        "score": 231,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=48928135",
-        "date": "il y a 8 h"
+        "title": "Démontage : un concentrateur USB 3.0 générique à 7 ports qui n'était pas",
+        "titleOriginal": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+        "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
+        "source": "goughlui.com",
+        "score": 59,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=48883036",
+        "date": "il y a 3 j"
       }
     ]
   },
