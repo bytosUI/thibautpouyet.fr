@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-07-16T10:02:50.197Z",
+  "updatedAt": "2026-07-16T11:58:24.550Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 32,
+      "temp": 32,
+      "feelsLike": 34,
       "code": 3,
       "wind": 3,
-      "humidity": 43
+      "humidity": 31
     },
     "forecast": [
       {
         "date": "2026-07-16",
-        "code": 3,
+        "code": 80,
         "tmax": 34,
         "tmin": 21
       },
       {
         "date": "2026-07-17",
         "code": 80,
-        "tmax": 30,
+        "tmax": 31,
         "tmin": 22
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL TOMBE EN DÉPRESSION APRÈS LE DRAME…ET SE FAIT STOPPER PAR LE RAID",
+        "title": "ELLE DOIT PARTIR DE CHEZ ELLE CAR SES PARENTS ONT L’IMPRESSION DE VOIR SA SŒUR DÉCÉDÉE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "WfdTHcAOn7E",
-        "thumbnail": "https://i.ytimg.com/vi/WfdTHcAOn7E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WfdTHcAOn7E",
-        "publishedAt": "2026-07-16T08:49:18+00:00"
+        "videoId": "iECRg8lGKXg",
+        "thumbnail": "https://i.ytimg.com/vi/iECRg8lGKXg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iECRg8lGKXg",
+        "publishedAt": "2026-07-16T11:00:00+00:00"
       },
       {
         "title": "La réalité d’une influenceuse à Maurice.",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "OnePlus arrête ses activités aux États-Unis et en Europe",
+        "titleOriginal": "OnePlus halts operations in USA and Europe",
+        "url": "https://community.oneplus.com/thread/2170715118587871237",
+        "source": "community.oneplus.com",
+        "score": 87,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48932539",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "La joie perdue du piratage musical",
         "titleOriginal": "The lost joy of music piracy",
         "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
         "source": "pigeonsandplanes.com",
-        "score": 326,
-        "comments": 175,
+        "score": 416,
+        "comments": 261,
         "hnUrl": "https://news.ycombinator.com/item?id=48930454",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Inkling : notre modèle Open-Weights",
         "titleOriginal": "Inkling: Our Open-Weights Model",
         "url": "https://thinkingmachines.ai/news/introducing-inkling/",
         "source": "thinkingmachines.ai",
-        "score": 977,
-        "comments": 246,
+        "score": 1036,
+        "comments": 259,
         "hnUrl": "https://news.ycombinator.com/item?id=48924912",
-        "date": "il y a 15 h"
+        "date": "il y a 17 h"
       },
       {
-        "title": "Si vous voulez créer un bouton à partir de zéro, vous devez d'abord créer l'univers",
-        "titleOriginal": "If you want to create a button from scratch, you must first create the universe",
-        "url": "https://madcampos.dev/blog/2026/07/accessibility-from-scratch/",
-        "source": "madcampos.dev",
-        "score": 133,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=48930136",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Démontage : un concentrateur USB 3.0 générique à 7 ports qui n'était pas",
-        "titleOriginal": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-        "url": "https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/",
-        "source": "goughlui.com",
-        "score": 59,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48883036",
+        "title": "Une belle théorie tombe aux données laides",
+        "titleOriginal": "A Beautiful Theory Falls to Ugly Data",
+        "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
+        "source": "marginalrevolution.com",
+        "score": 28,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48884068",
         "date": "il y a 3 j"
       }
     ]
