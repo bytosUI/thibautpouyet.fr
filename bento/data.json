@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-16T19:58:30.985Z",
+  "updatedAt": "2026-07-16T21:03:43.535Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 26,
       "feelsLike": 28,
       "code": 3,
-      "wind": 6,
-      "humidity": 39
+      "wind": 3,
+      "humidity": 49
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 80,
+        "viewers": 124,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,7 +150,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 4 j",
+        "time": "il y a 5 j",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "Kimi K3 is now live",
         "url": "https://www.kimi.com/en",
         "source": "kimi.com",
-        "score": 649,
-        "comments": 359,
+        "score": 755,
+        "comments": 438,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Microsoft Comic Chat est maintenant open source",
         "titleOriginal": "Microsoft Comic Chat is now open source",
         "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
         "source": "opensource.microsoft.com",
-        "score": 300,
-        "comments": 77,
+        "score": 378,
+        "comments": 86,
         "hnUrl": "https://news.ycombinator.com/item?id=48936426",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Kimi K3 Intelligence, performance et analyse des prix",
+        "titleOriginal": "Kimi K3 Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/kimi-k3",
+        "source": "artificialanalysis.ai",
+        "score": 36,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48939580",
+        "date": "il y a 53 min"
       },
       {
         "title": "Police leurre",
         "titleOriginal": "Decoy Font",
         "url": "https://www.mixfont.com/experiments/decoy-font",
         "source": "mixfont.com",
-        "score": 185,
-        "comments": 68,
+        "score": 255,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=48936584",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "NotebookLM est maintenant Gemini Notebook",
-        "titleOriginal": "NotebookLM is now Gemini Notebook",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-        "source": "blog.google",
-        "score": 114,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=48936451",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
