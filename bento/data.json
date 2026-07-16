@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-07-16T21:03:43.535Z",
+  "updatedAt": "2026-07-16T22:27:27.358Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 26,
-      "feelsLike": 28,
-      "code": 3,
-      "wind": 3,
-      "humidity": 49
+      "feelsLike": 27,
+      "code": 80,
+      "wind": 5,
+      "humidity": 50
     },
     "forecast": [
       {
-        "date": "2026-07-16",
-        "code": 80,
-        "tmax": 33,
-        "tmin": 21
-      },
-      {
         "date": "2026-07-17",
         "code": 80,
-        "tmax": 30,
-        "tmin": 22
+        "tmax": 29,
+        "tmin": 20
       },
       {
         "date": "2026-07-18",
-        "code": 2,
+        "code": 3,
         "tmax": 29,
-        "tmin": 17
+        "tmin": 18
       },
       {
         "date": "2026-07-19",
         "code": 3,
+        "tmax": 25,
+        "tmin": 14
+      },
+      {
+        "date": "2026-07-20",
+        "code": 3,
         "tmax": 24,
-        "tmin": 13
+        "tmin": 12
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 124,
+        "viewers": 134,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -146,80 +146,49 @@
     "top5": []
   },
   "github": {
-    "recent": [
-      {
-        "repo": "bytosUI/geekstack",
-        "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 5 j",
-        "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
-      },
-      {
-        "repo": "bytosUI/geekstack",
-        "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 2 sem",
-        "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
-      },
-      {
-        "repo": "bytosUI/dailywater",
-        "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 9 sem",
-        "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
-      },
-      {
-        "repo": "bytosUI/dailywater",
-        "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 9 sem",
-        "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
-      },
-      {
-        "repo": "bytosUI/thibautpouyet.fr",
-        "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 10 sem",
-        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
-      }
-    ]
+    "recent": []
   },
   "hackernews": {
     "items": [
       {
-        "title": "Kimi K3 est maintenant en ligne",
-        "titleOriginal": "Kimi K3 is now live",
-        "url": "https://www.kimi.com/en",
+        "title": "Kimi K3 : Open Frontier Intelligence",
+        "titleOriginal": "Kimi K3: Open Frontier Intelligence",
+        "url": "https://www.kimi.com/blog/kimi-k3",
         "source": "kimi.com",
-        "score": 755,
-        "comments": 438,
+        "score": 935,
+        "comments": 562,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "LM Studio Bionic : l'agent d'IA pour les modèles ouverts",
+        "titleOriginal": "LM Studio Bionic: the AI agent for open models",
+        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "source": "lmstudio.ai",
+        "score": 77,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48939662",
+        "date": "il y a 2 h"
       },
       {
         "title": "Microsoft Comic Chat est maintenant open source",
         "titleOriginal": "Microsoft Comic Chat is now open source",
         "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
         "source": "opensource.microsoft.com",
-        "score": 378,
-        "comments": 86,
+        "score": 441,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=48936426",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Kimi K3 Intelligence, performance et analyse des prix",
-        "titleOriginal": "Kimi K3 Intelligence, Performance and Price Analysis",
-        "url": "https://artificialanalysis.ai/models/kimi-k3",
-        "source": "artificialanalysis.ai",
-        "score": 36,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=48939580",
-        "date": "il y a 53 min"
+        "date": "il y a 6 h"
       },
       {
         "title": "Police leurre",
         "titleOriginal": "Decoy Font",
         "url": "https://www.mixfont.com/experiments/decoy-font",
         "source": "mixfont.com",
-        "score": 255,
-        "comments": 73,
+        "score": 325,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=48936584",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       }
     ]
   },
