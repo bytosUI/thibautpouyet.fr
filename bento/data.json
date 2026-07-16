@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-16T11:58:24.550Z",
+  "updatedAt": "2026-07-16T13:59:49.365Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 34,
-      "code": 3,
-      "wind": 3,
-      "humidity": 31
+      "temp": 33,
+      "feelsLike": 35,
+      "code": 2,
+      "wind": 1,
+      "humidity": 28
     },
     "forecast": [
       {
         "date": "2026-07-16",
-        "code": 80,
-        "tmax": 34,
+        "code": 3,
+        "tmax": 33,
         "tmin": 21
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ELLE DOIT PARTIR DE CHEZ ELLE CAR SES PARENTS ONT L’IMPRESSION DE VOIR SA SŒUR DÉCÉDÉE !",
+        "title": "ELLE SE SENT COUPABLE D’AVOIR SURVÉCU À L’ATTENTAT DE NICE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "iECRg8lGKXg",
-        "thumbnail": "https://i.ytimg.com/vi/iECRg8lGKXg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iECRg8lGKXg",
-        "publishedAt": "2026-07-16T11:00:00+00:00"
+        "videoId": "4ADVDNjxc8c",
+        "thumbnail": "https://i.ytimg.com/vi/4ADVDNjxc8c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4ADVDNjxc8c",
+        "publishedAt": "2026-07-16T13:00:23+00:00"
       },
       {
         "title": "La réalité d’une influenceuse à Maurice.",
@@ -154,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 8 sem",
+        "time": "il y a 9 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 8 sem",
+        "time": "il y a 9 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "OnePlus halts operations in USA and Europe",
         "url": "https://community.oneplus.com/thread/2170715118587871237",
         "source": "community.oneplus.com",
-        "score": 87,
-        "comments": 45,
+        "score": 221,
+        "comments": 127,
         "hnUrl": "https://news.ycombinator.com/item?id=48932539",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Le satellite météorologique Goes-19 entre en mode d'attente sans échec",
+        "titleOriginal": "Goes-19 weather satellite enters Safe Hold mode",
+        "url": "https://www.spaceweather.gov/news/goes-19-safe-hold",
+        "source": "spaceweather.gov",
+        "score": 15,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48934286",
+        "date": "il y a 29 min"
+      },
+      {
+        "title": "Construisons PlanetScale à partir de zéro : infrastructure",
+        "titleOriginal": "Let's Build PlanetScale from Scratch: Infrastructure",
+        "url": "https://onatm.dev/2026/07/16/homescale-part-1/",
+        "source": "onatm.dev",
+        "score": 44,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=48933303",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "L'action SpaceX efface tous ses gains et glisse en dessous du prix d'introduction en bourse dans le trading intrajournalier",
+        "titleOriginal": "SpaceX stock erases all its gains and slides below IPO price in intraday trading",
+        "url": "https://www.latimes.com/business/story/2026-07-16/spacex-stock-erases-gains-slides-below-ipo-price-in-intraday-trading",
+        "source": "latimes.com",
+        "score": 206,
+        "comments": 149,
+        "hnUrl": "https://news.ycombinator.com/item?id=48933344",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "La joie perdue du piratage musical",
-        "titleOriginal": "The lost joy of music piracy",
-        "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
-        "source": "pigeonsandplanes.com",
-        "score": 416,
-        "comments": 261,
-        "hnUrl": "https://news.ycombinator.com/item?id=48930454",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Inkling : notre modèle Open-Weights",
-        "titleOriginal": "Inkling: Our Open-Weights Model",
-        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-        "source": "thinkingmachines.ai",
-        "score": 1036,
-        "comments": 259,
-        "hnUrl": "https://news.ycombinator.com/item?id=48924912",
-        "date": "il y a 17 h"
-      },
-      {
-        "title": "Une belle théorie tombe aux données laides",
-        "titleOriginal": "A Beautiful Theory Falls to Ugly Data",
-        "url": "https://marginalrevolution.com/marginalrevolution/2026/05/a-beautiful-theory-falls-to-ugly-data.html",
-        "source": "marginalrevolution.com",
-        "score": 28,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48884068",
-        "date": "il y a 3 j"
       }
     ]
   },
