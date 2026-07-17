@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-07-17T00:58:07.773Z",
+  "updatedAt": "2026-07-17T04:08:15.125Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 26,
-      "code": 80,
-      "wind": 3,
-      "humidity": 58
+      "temp": 20,
+      "feelsLike": 22,
+      "code": 3,
+      "wind": 4,
+      "humidity": 82
     },
     "forecast": [
       {
         "date": "2026-07-17",
         "code": 80,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 20
       },
       {
         "date": "2026-07-18",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 18
       },
       {
         "date": "2026-07-19",
         "code": 3,
-        "tmax": 25,
-        "tmin": 14
+        "tmax": 26,
+        "tmin": 13
       },
       {
         "date": "2026-07-20",
         "code": 3,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 12
       }
     ]
@@ -52,15 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA POLICE LE PREND POUR UN TERR*RORISTE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "314mBH_DXtk",
-        "thumbnail": "https://i.ytimg.com/vi/314mBH_DXtk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=314mBH_DXtk",
-        "publishedAt": "2026-07-16T17:00:26+00:00"
-      },
-      {
         "title": "C'est pas une femme libre ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -70,33 +61,6 @@
         "publishedAt": "2026-07-16T16:32:12+00:00"
       },
       {
-        "title": "Vous Payez, Ils Encaissent ! Qui Capte Vraiment la Valeur ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "t7a_GAQpTmA",
-        "thumbnail": "https://i.ytimg.com/vi/t7a_GAQpTmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t7a_GAQpTmA",
-        "publishedAt": "2026-07-16T16:00:04+00:00"
-      },
-      {
-        "title": "LA BATTLE DES PAYS : on déguste les spécialités Polonaises avec Natalka",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "38YzeyCBqes",
-        "thumbnail": "https://i.ytimg.com/vi/38YzeyCBqes/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=38YzeyCBqes",
-        "publishedAt": "2026-07-16T15:22:53+00:00"
-      },
-      {
-        "title": "Mes premiers jours dans mon nouvel appartement à Séoul 🇰🇷📦",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "NaLnm48ktBw",
-        "thumbnail": "https://i.ytimg.com/vi/NaLnm48ktBw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NaLnm48ktBw",
-        "publishedAt": "2026-07-13T17:00:24+00:00"
-      },
-      {
         "title": "Si j’oublie quelque chose, je suis foutu. #24",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -104,33 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/V8I6hg-4oJ8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V8I6hg-4oJ8",
         "publishedAt": "2026-07-12T15:17:39+00:00"
-      },
-      {
-        "title": "60 jours pour construire une terrasse géante et un observatoire",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "zoSg9cLlGuo",
-        "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
-        "publishedAt": "2026-07-10T14:00:13+00:00"
-      },
-      {
-        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Gjab-wJw7Bo",
-        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
-        "publishedAt": "2026-07-09T09:03:58+00:00"
-      },
-      {
-        "title": "FAQ : Argent, Business et Vérité",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "fcwNWpk0tfk",
-        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
-        "publishedAt": "2026-06-28T07:57:43+00:00"
       }
     ]
   },
@@ -178,40 +115,40 @@
         "titleOriginal": "Kimi K3: Open Frontier Intelligence",
         "url": "https://www.kimi.com/blog/kimi-k3",
         "source": "kimi.com",
-        "score": 1120,
-        "comments": 703,
+        "score": 1299,
+        "comments": 813,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "LM Studio Bionic : l'agent d'IA pour les modèles ouverts",
-        "titleOriginal": "LM Studio Bionic: the AI agent for open models",
-        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "source": "lmstudio.ai",
-        "score": 143,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=48939662",
-        "date": "il y a 4 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Microsoft Comic Chat est maintenant open source",
         "titleOriginal": "Microsoft Comic Chat is now open source",
         "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
         "source": "opensource.microsoft.com",
-        "score": 512,
-        "comments": 117,
+        "score": 588,
+        "comments": 126,
         "hnUrl": "https://news.ycombinator.com/item?id=48936426",
-        "date": "il y a 8 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Police leurre",
-        "titleOriginal": "Decoy Font",
-        "url": "https://www.mixfont.com/experiments/decoy-font",
-        "source": "mixfont.com",
-        "score": 379,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=48936584",
-        "date": "il y a 8 h"
+        "title": "Guide de l'ingénieur pour USB Typе-С (2024)",
+        "titleOriginal": "An Engineer's Guide to USB Typе-С (2024)",
+        "url": "https://www.ti.com/lit/eb/slyy228/slyy228.pdf?ts=1759892558029",
+        "source": "ti.com",
+        "score": 27,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48862165",
+        "date": "il y a 6 j"
+      },
+      {
+        "title": "LM Studio Bionic : l'agent d'IA pour les modèles ouverts",
+        "titleOriginal": "LM Studio Bionic: the AI agent for open models",
+        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "source": "lmstudio.ai",
+        "score": 187,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=48939662",
+        "date": "il y a 7 h"
       }
     ]
   },
