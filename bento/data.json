@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-17T09:05:00.555Z",
+  "updatedAt": "2026-07-17T11:04:01.358Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 25,
+      "temp": 26,
+      "feelsLike": 27,
       "code": 3,
       "wind": 9,
-      "humidity": 61
+      "humidity": 55
     },
     "forecast": [
       {
         "date": "2026-07-17",
-        "code": 80,
-        "tmax": 27,
+        "code": 95,
+        "tmax": 28,
         "tmin": 20
       },
       {
@@ -42,21 +42,14 @@
         "user": "bastiui",
         "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 514,
+        "viewers": 555,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
         "url": "https://twitch.tv/bastiui"
-      },
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 132,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
       }
     ],
     "offline": [
       "domingo",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -67,22 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES SECRETS DES MILLIARDAIRES FRANÇAIS : FORTUNES DILAPIDÉES… COMMENT PRÉSERVER SON PATRIMOINE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "WZj9pKAOXEM",
-        "thumbnail": "https://i.ytimg.com/vi/WZj9pKAOXEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WZj9pKAOXEM",
-        "publishedAt": "2026-07-17T09:00:06+00:00"
-      },
-      {
-        "title": "C'est pas une femme libre ?",
+        "title": "La jalousie à la française !",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "u9_zckcJUy4",
-        "thumbnail": "https://i.ytimg.com/vi/u9_zckcJUy4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u9_zckcJUy4",
-        "publishedAt": "2026-07-16T16:32:12+00:00"
+        "videoId": "zpgIIapnISA",
+        "thumbnail": "https://i.ytimg.com/vi/zpgIIapnISA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zpgIIapnISA",
+        "publishedAt": "2026-07-17T10:19:38+00:00"
+      },
+      {
+        "title": "L’HISTOIRE D’UNE FORTUNE PERDUE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "W3rvcj2rBhw",
+        "thumbnail": "https://i.ytimg.com/vi/W3rvcj2rBhw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W3rvcj2rBhw",
+        "publishedAt": "2026-07-17T09:30:07+00:00"
       },
       {
         "title": "Vous Payez, Ils Encaissent ! Qui Capte Vraiment la Valeur ?",
@@ -193,40 +186,40 @@
         "titleOriginal": "EEG shows brain can simultaneous encode two speech streams",
         "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
         "source": "journals.plos.org",
-        "score": 68,
-        "comments": 29,
+        "score": 114,
+        "comments": 67,
         "hnUrl": "https://news.ycombinator.com/item?id=48943745",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Kimi K3 : Open Frontier Intelligence",
         "titleOriginal": "Kimi K3: Open Frontier Intelligence",
         "url": "https://www.kimi.com/blog/kimi-k3",
         "source": "kimi.com",
-        "score": 1589,
-        "comments": 938,
+        "score": 1678,
+        "comments": 987,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "Comment le béton romain a-t-il duré pendant des millénaires ? Une latrine vieille de 1 900 ans offre des indices",
-        "titleOriginal": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-        "source": "smithsonianmag.com",
-        "score": 116,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=48943142",
-        "date": "il y a 5 h"
+        "date": "il y a 20 h"
       },
       {
         "title": "Mise à jour Pebble Mega – Juillet 2026",
         "titleOriginal": "Pebble Mega Update – July 2026",
         "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
         "source": "repebble.com",
-        "score": 103,
-        "comments": 26,
+        "score": 128,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=48943174",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Comment le béton romain a-t-il duré pendant des millénaires ? Une latrine vieille de 1 900 ans offre des indices",
+        "titleOriginal": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+        "source": "smithsonianmag.com",
+        "score": 135,
+        "comments": 104,
+        "hnUrl": "https://news.ycombinator.com/item?id=48943142",
+        "date": "il y a 7 h"
       }
     ]
   },
