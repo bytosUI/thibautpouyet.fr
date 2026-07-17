@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T11:04:01.358Z",
+  "updatedAt": "2026-07-17T12:40:58.375Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 27,
+      "temp": 27,
+      "feelsLike": 28,
       "code": 3,
-      "wind": 9,
-      "humidity": 55
+      "wind": 12,
+      "humidity": 51
     },
     "forecast": [
       {
@@ -39,16 +39,16 @@
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 555,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "viewers": 3060,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'EEG montre que le cerveau peut coder simultanément deux flux vocaux",
-        "titleOriginal": "EEG shows brain can simultaneous encode two speech streams",
-        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-        "source": "journals.plos.org",
-        "score": 114,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=48943745",
-        "date": "il y a 5 h"
+        "title": "Blatant AI slop vient de remporter un grand prix DeepMind Kaggle de 25 000 USD",
+        "titleOriginal": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+        "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+        "source": "kaggle.com",
+        "score": 159,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=48946010",
+        "date": "il y a 1 h"
       },
       {
         "title": "Kimi K3 : Open Frontier Intelligence",
         "titleOriginal": "Kimi K3: Open Frontier Intelligence",
         "url": "https://www.kimi.com/blog/kimi-k3",
         "source": "kimi.com",
-        "score": 1678,
-        "comments": 987,
+        "score": 1745,
+        "comments": 1025,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 20 h"
+        "date": "il y a 21 h"
+      },
+      {
+        "title": "L'EEG montre que le cerveau peut coder simultanément deux flux vocaux",
+        "titleOriginal": "EEG shows brain can simultaneous encode two speech streams",
+        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+        "source": "journals.plos.org",
+        "score": 155,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=48943745",
+        "date": "il y a 6 h"
       },
       {
         "title": "Mise à jour Pebble Mega – Juillet 2026",
         "titleOriginal": "Pebble Mega Update – July 2026",
         "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
         "source": "repebble.com",
-        "score": 128,
-        "comments": 52,
+        "score": 151,
+        "comments": 72,
         "hnUrl": "https://news.ycombinator.com/item?id=48943174",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Comment le béton romain a-t-il duré pendant des millénaires ? Une latrine vieille de 1 900 ans offre des indices",
-        "titleOriginal": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-        "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
-        "source": "smithsonianmag.com",
-        "score": 135,
-        "comments": 104,
-        "hnUrl": "https://news.ycombinator.com/item?id=48943142",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       }
     ]
   },
