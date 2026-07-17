@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T20:00:59.295Z",
+  "updatedAt": "2026-07-17T21:13:28.307Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 13,
-      "humidity": 62
+      "wind": 11,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 111,
+        "viewers": 178,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,7 +150,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 5 j",
+        "time": "il y a 6 j",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le Zilog Z80 a 50 ans",
+        "titleOriginal": "The Zilog Z80 has turned 50",
+        "url": "https://goliath32.com/blog/z80.html",
+        "source": "goliath32.com",
+        "score": 72,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48951461",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 829,
-        "comments": 459,
+        "score": 906,
+        "comments": 489,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Première atmosphère trouvée sur une planète semblable à la Terre dans la zone habitable d'une étoile lointaine",
         "titleOriginal": "First atmosphere found on Earth-like planet in habitable zone of distant star",
         "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
         "source": "bbc.com",
-        "score": 252,
-        "comments": 181,
+        "score": 289,
+        "comments": 200,
         "hnUrl": "https://news.ycombinator.com/item?id=48947560",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Apprendre quelques choses sur l'exécution de SQLite",
         "titleOriginal": "Learning a few things about running SQLite",
         "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
         "source": "jvns.ca",
-        "score": 60,
-        "comments": 9,
+        "score": 93,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=48950122",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Cadre – Serveur Linux X en assemblage",
-        "titleOriginal": "Frame – Linux X server in Assembly",
-        "url": "https://isene.org/2026/07/Frame.html",
-        "source": "isene.org",
-        "score": 94,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=48948597",
-        "date": "il y a 4 h"
+        "date": "il y a 3 h"
       }
     ]
   },
