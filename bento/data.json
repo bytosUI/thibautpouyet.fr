@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T14:28:05.530Z",
+  "updatedAt": "2026-07-17T15:55:49.229Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 27,
       "feelsLike": 27,
       "code": 3,
-      "wind": 17,
-      "humidity": 45
+      "wind": 15,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-19",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 15
       },
       {
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Hold Your King",
-        "viewers": 4769,
+        "game": "Bombanana!",
+        "viewers": 7409,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -59,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Ça vient d’où le Cheesecake ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "isMauXaKDOI",
+        "thumbnail": "https://i.ytimg.com/vi/isMauXaKDOI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=isMauXaKDOI",
+        "publishedAt": "2026-07-17T14:30:19+00:00"
+      },
       {
         "title": "IMMOBILIER : CETTE ERREUR QUE FONT PLUS DE LA MOITIÉ DES FRANÇAIS",
         "channel": "LEGEND",
@@ -85,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/t7a_GAQpTmA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t7a_GAQpTmA",
         "publishedAt": "2026-07-16T16:00:04+00:00"
-      },
-      {
-        "title": "LA BATTLE DES PAYS : on déguste les spécialités Polonaises avec Natalka",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "38YzeyCBqes",
-        "thumbnail": "https://i.ytimg.com/vi/38YzeyCBqes/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=38YzeyCBqes",
-        "publishedAt": "2026-07-16T15:22:53+00:00"
       },
       {
         "title": "Mes premières nuits dans mon appartement à Séoul (vide) ! 🇰🇷📦",
@@ -186,40 +186,40 @@
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 99,
-        "comments": 144,
+        "score": 401,
+        "comments": 276,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "L'affichage couleur multi-primaire émerge en tant que technologie de reproduction des couleurs de nouvelle génération",
-        "titleOriginal": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
-        "url": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
-        "source": "en.ubiresearchnet.com",
-        "score": 29,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=48946895",
+        "title": "Mozilla : l'état de l'IA open source",
+        "titleOriginal": "Mozilla: The state of open source AI",
+        "url": "https://stateofopensource.ai/",
+        "source": "stateofopensource.ai",
+        "score": 107,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=48947825",
         "date": "il y a 1 h"
       },
       {
-        "title": "Minikotlin",
-        "titleOriginal": "Minikotlin",
-        "url": "https://minikotlin.run",
-        "source": "minikotlin.run",
-        "score": 60,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=48946783",
+        "title": "Première atmosphère trouvée sur une planète semblable à la Terre dans la zone habitable d'une étoile lointaine",
+        "titleOriginal": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+        "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+        "source": "bbc.com",
+        "score": 67,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=48947560",
         "date": "il y a 1 h"
       },
       {
-        "title": "Kimi K3 : Open Frontier Intelligence",
-        "titleOriginal": "Kimi K3: Open Frontier Intelligence",
-        "url": "https://www.kimi.com/blog/kimi-k3",
-        "source": "kimi.com",
-        "score": 1834,
-        "comments": 1080,
-        "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 23 h"
+        "title": "Claude Code : Anatomie d'un dysfonctionnement",
+        "titleOriginal": "Claude Code: Anatomy of a Misfeature",
+        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+        "source": "olafalders.com",
+        "score": 50,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=48947776",
+        "date": "il y a 1 h"
       }
     ]
   },
