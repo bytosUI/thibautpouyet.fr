@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-16T23:25:01.980Z",
+  "updatedAt": "2026-07-17T00:58:07.773Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
+      "temp": 24,
       "feelsLike": 26,
-      "code": 3,
-      "wind": 5,
-      "humidity": 51
+      "code": 80,
+      "wind": 3,
+      "humidity": 58
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 114,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -146,49 +138,80 @@
     "top5": []
   },
   "github": {
-    "recent": []
+    "recent": [
+      {
+        "repo": "bytosUI/geekstack",
+        "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
+        "time": "il y a 5 j",
+        "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
+      },
+      {
+        "repo": "bytosUI/geekstack",
+        "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
+        "time": "il y a 2 sem",
+        "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
+      },
+      {
+        "repo": "bytosUI/dailywater",
+        "message": "Prénom personnalisable par utilisateur",
+        "time": "il y a 9 sem",
+        "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
+      },
+      {
+        "repo": "bytosUI/dailywater",
+        "message": "Initial commit: DailyWater PWA",
+        "time": "il y a 9 sem",
+        "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
+      },
+      {
+        "repo": "bytosUI/thibautpouyet.fr",
+        "message": "Optimize NBA hub: cache-buster, memoization, dedup",
+        "time": "il y a 11 sem",
+        "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
+      }
+    ]
   },
   "hackernews": {
     "items": [
-      {
-        "title": "La mise à jour OTA de ma voiture a cassé Android Auto, et c'est un acte d'accusation de logiciel moderne",
-        "titleOriginal": "My car's OTA update broke Android Auto, and it's a indictment of modern software",
-        "url": "https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/",
-        "source": "imdanielkendall.com",
-        "score": 58,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=48941129",
-        "date": "il y a 55 min"
-      },
       {
         "title": "Kimi K3 : Open Frontier Intelligence",
         "titleOriginal": "Kimi K3: Open Frontier Intelligence",
         "url": "https://www.kimi.com/blog/kimi-k3",
         "source": "kimi.com",
-        "score": 1015,
-        "comments": 626,
+        "score": 1120,
+        "comments": 703,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "LM Studio Bionic : l'agent d'IA pour les modèles ouverts",
         "titleOriginal": "LM Studio Bionic: the AI agent for open models",
         "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
         "source": "lmstudio.ai",
-        "score": 107,
-        "comments": 36,
+        "score": 143,
+        "comments": 57,
         "hnUrl": "https://news.ycombinator.com/item?id=48939662",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Microsoft Comic Chat est maintenant open source",
         "titleOriginal": "Microsoft Comic Chat is now open source",
         "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
         "source": "opensource.microsoft.com",
-        "score": 465,
-        "comments": 103,
+        "score": 512,
+        "comments": 117,
         "hnUrl": "https://news.ycombinator.com/item?id=48936426",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Police leurre",
+        "titleOriginal": "Decoy Font",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "source": "mixfont.com",
+        "score": 379,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=48936584",
+        "date": "il y a 8 h"
       }
     ]
   },
