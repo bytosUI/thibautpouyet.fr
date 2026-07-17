@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T17:07:46.036Z",
+  "updatedAt": "2026-07-17T18:32:37.696Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 27,
+      "temp": 25,
+      "feelsLike": 25,
       "code": 2,
-      "wind": 12,
-      "humidity": 38
+      "wind": 11,
+      "humidity": 61
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 573,
-        "comments": 344,
+        "score": 719,
+        "comments": 402,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Mozilla : l'état de l'IA open source",
-        "titleOriginal": "Mozilla: The state of open source AI",
-        "url": "https://stateofopensource.ai/",
-        "source": "stateofopensource.ai",
-        "score": 172,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=48947825",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Première atmosphère trouvée sur une planète semblable à la Terre dans la zone habitable d'une étoile lointaine",
         "titleOriginal": "First atmosphere found on Earth-like planet in habitable zone of distant star",
         "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
         "source": "bbc.com",
-        "score": 116,
-        "comments": 91,
+        "score": 189,
+        "comments": 133,
         "hnUrl": "https://news.ycombinator.com/item?id=48947560",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "A Road to Lisp : Quel Lisp",
-        "titleOriginal": "A Road to Lisp: Which Lisp",
-        "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
-        "source": "scotto.me",
-        "score": 79,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48947455",
-        "date": "il y a 3 h"
+        "title": "Mozilla : l'état de l'IA open source",
+        "titleOriginal": "Mozilla: The state of open source AI",
+        "url": "https://stateofopensource.ai/",
+        "source": "stateofopensource.ai",
+        "score": 232,
+        "comments": 164,
+        "hnUrl": "https://news.ycombinator.com/item?id=48947825",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Kimi K3, et ce que nous pouvons encore apprendre de la référence pélican",
+        "titleOriginal": "Kimi K3, and what we can still learn from the pelican benchmark",
+        "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+        "source": "simonwillison.net",
+        "score": 111,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=48947717",
+        "date": "il y a 4 h"
       }
     ]
   },
