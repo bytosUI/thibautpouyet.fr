@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T18:32:37.696Z",
+  "updatedAt": "2026-07-17T20:00:59.295Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
-      "code": 2,
-      "wind": 11,
-      "humidity": 61
+      "temp": 24,
+      "feelsLike": 24,
+      "code": 3,
+      "wind": 13,
+      "humidity": 62
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-18",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 18
       },
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 111,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,39 +186,39 @@
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 719,
-        "comments": 402,
+        "score": 829,
+        "comments": 459,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Première atmosphère trouvée sur une planète semblable à la Terre dans la zone habitable d'une étoile lointaine",
         "titleOriginal": "First atmosphere found on Earth-like planet in habitable zone of distant star",
         "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
         "source": "bbc.com",
-        "score": 189,
-        "comments": 133,
+        "score": 252,
+        "comments": 181,
         "hnUrl": "https://news.ycombinator.com/item?id=48947560",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Mozilla : l'état de l'IA open source",
-        "titleOriginal": "Mozilla: The state of open source AI",
-        "url": "https://stateofopensource.ai/",
-        "source": "stateofopensource.ai",
-        "score": 232,
-        "comments": 164,
-        "hnUrl": "https://news.ycombinator.com/item?id=48947825",
-        "date": "il y a 4 h"
+        "title": "Apprendre quelques choses sur l'exécution de SQLite",
+        "titleOriginal": "Learning a few things about running SQLite",
+        "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "source": "jvns.ca",
+        "score": 60,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48950122",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Kimi K3, et ce que nous pouvons encore apprendre de la référence pélican",
-        "titleOriginal": "Kimi K3, and what we can still learn from the pelican benchmark",
-        "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-        "source": "simonwillison.net",
-        "score": 111,
-        "comments": 63,
-        "hnUrl": "https://news.ycombinator.com/item?id=48947717",
+        "title": "Cadre – Serveur Linux X en assemblage",
+        "titleOriginal": "Frame – Linux X server in Assembly",
+        "url": "https://isene.org/2026/07/Frame.html",
+        "source": "isene.org",
+        "score": 94,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=48948597",
         "date": "il y a 4 h"
       }
     ]
