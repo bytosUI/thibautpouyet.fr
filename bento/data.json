@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T15:55:49.229Z",
+  "updatedAt": "2026-07-17T17:07:46.036Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
+      "temp": 28,
       "feelsLike": 27,
-      "code": 3,
-      "wind": 15,
-      "humidity": 46
+      "code": 2,
+      "wind": 12,
+      "humidity": 38
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-07-19",
         "code": 3,
         "tmax": 25,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-07-20",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Bombanana!",
-        "viewers": 7409,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "QUI EST L’INFLUENCEUR FRANÇAIS LE PLUS RICHE ? ÇA VA VOUS SURPRENDRE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "wXbWSbpxPh4",
+        "thumbnail": "https://i.ytimg.com/vi/wXbWSbpxPh4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wXbWSbpxPh4",
+        "publishedAt": "2026-07-17T16:00:00+00:00"
+      },
+      {
         "title": "Ça vient d’où le Cheesecake ?",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -67,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/isMauXaKDOI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=isMauXaKDOI",
         "publishedAt": "2026-07-17T14:30:19+00:00"
-      },
-      {
-        "title": "IMMOBILIER : CETTE ERREUR QUE FONT PLUS DE LA MOITIÉ DES FRANÇAIS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "OZde0DPVsK0",
-        "thumbnail": "https://i.ytimg.com/vi/OZde0DPVsK0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OZde0DPVsK0",
-        "publishedAt": "2026-07-17T14:00:30+00:00"
       },
       {
         "title": "La jalousie à la française !",
@@ -186,40 +178,40 @@
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 401,
-        "comments": 276,
+        "score": 573,
+        "comments": 344,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Mozilla : l'état de l'IA open source",
         "titleOriginal": "Mozilla: The state of open source AI",
         "url": "https://stateofopensource.ai/",
         "source": "stateofopensource.ai",
-        "score": 107,
-        "comments": 44,
+        "score": 172,
+        "comments": 112,
         "hnUrl": "https://news.ycombinator.com/item?id=48947825",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Première atmosphère trouvée sur une planète semblable à la Terre dans la zone habitable d'une étoile lointaine",
         "titleOriginal": "First atmosphere found on Earth-like planet in habitable zone of distant star",
         "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
         "source": "bbc.com",
-        "score": 67,
-        "comments": 54,
+        "score": 116,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=48947560",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Claude Code : Anatomie d'un dysfonctionnement",
-        "titleOriginal": "Claude Code: Anatomy of a Misfeature",
-        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
-        "source": "olafalders.com",
-        "score": 50,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=48947776",
-        "date": "il y a 1 h"
+        "title": "A Road to Lisp : Quel Lisp",
+        "titleOriginal": "A Road to Lisp: Which Lisp",
+        "url": "https://scotto.me/blog/2026-07-17-which-lisp/",
+        "source": "scotto.me",
+        "score": 79,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=48947455",
+        "date": "il y a 3 h"
       }
     ]
   },
