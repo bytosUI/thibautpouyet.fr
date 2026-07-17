@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-17T12:40:58.375Z",
+  "updatedAt": "2026-07-17T14:28:05.530Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 28,
+      "temp": 28,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 12,
-      "humidity": 51
+      "wind": 17,
+      "humidity": 45
     },
     "forecast": [
       {
         "date": "2026-07-17",
-        "code": 95,
+        "code": 80,
         "tmax": 28,
         "tmin": 20
       },
       {
         "date": "2026-07-18",
         "code": 3,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 18
       },
       {
         "date": "2026-07-19",
         "code": 3,
         "tmax": 26,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-07-20",
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 3060,
+        "game": "Hold Your King",
+        "viewers": 4769,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "IMMOBILIER : CETTE ERREUR QUE FONT PLUS DE LA MOITIÉ DES FRANÇAIS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "OZde0DPVsK0",
+        "thumbnail": "https://i.ytimg.com/vi/OZde0DPVsK0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OZde0DPVsK0",
+        "publishedAt": "2026-07-17T14:00:30+00:00"
+      },
+      {
         "title": "La jalousie à la française !",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -67,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/zpgIIapnISA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zpgIIapnISA",
         "publishedAt": "2026-07-17T10:19:38+00:00"
-      },
-      {
-        "title": "L’HISTOIRE D’UNE FORTUNE PERDUE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "W3rvcj2rBhw",
-        "thumbnail": "https://i.ytimg.com/vi/W3rvcj2rBhw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W3rvcj2rBhw",
-        "publishedAt": "2026-07-17T09:30:07+00:00"
       },
       {
         "title": "Vous Payez, Ils Encaissent ! Qui Capte Vraiment la Valeur ?",
@@ -182,13 +182,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Blatant AI slop vient de remporter un grand prix DeepMind Kaggle de 25 000 USD",
-        "titleOriginal": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
-        "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
-        "source": "kaggle.com",
-        "score": 159,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=48946010",
+        "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
+        "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "url": "https://news.ycombinator.com/item?id=48945241",
+        "source": "news.ycombinator.com",
+        "score": 99,
+        "comments": 144,
+        "hnUrl": "https://news.ycombinator.com/item?id=48945241",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "L'affichage couleur multi-primaire émerge en tant que technologie de reproduction des couleurs de nouvelle génération",
+        "titleOriginal": "Multi-Primary Color Display Emerges as Next-Gen Color Reproduction Technology",
+        "url": "https://en.ubiresearchnet.com/multi-primary-color-display-technology-2026/",
+        "source": "en.ubiresearchnet.com",
+        "score": 29,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=48946895",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Minikotlin",
+        "titleOriginal": "Minikotlin",
+        "url": "https://minikotlin.run",
+        "source": "minikotlin.run",
+        "score": 60,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48946783",
         "date": "il y a 1 h"
       },
       {
@@ -196,30 +216,10 @@
         "titleOriginal": "Kimi K3: Open Frontier Intelligence",
         "url": "https://www.kimi.com/blog/kimi-k3",
         "source": "kimi.com",
-        "score": 1745,
-        "comments": 1025,
+        "score": 1834,
+        "comments": 1080,
         "hnUrl": "https://news.ycombinator.com/item?id=48935342",
-        "date": "il y a 21 h"
-      },
-      {
-        "title": "L'EEG montre que le cerveau peut coder simultanément deux flux vocaux",
-        "titleOriginal": "EEG shows brain can simultaneous encode two speech streams",
-        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-        "source": "journals.plos.org",
-        "score": 155,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=48943745",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Mise à jour Pebble Mega – Juillet 2026",
-        "titleOriginal": "Pebble Mega Update – July 2026",
-        "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
-        "source": "repebble.com",
-        "score": 151,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48943174",
-        "date": "il y a 8 h"
+        "date": "il y a 23 h"
       }
     ]
   },
