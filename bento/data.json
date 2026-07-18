@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-18T21:11:58.894Z",
+  "updatedAt": "2026-07-18T22:12:42.049Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
+      "temp": 20,
+      "feelsLike": 17,
       "code": 3,
-      "wind": 16,
-      "humidity": 57
+      "wind": 19,
+      "humidity": 55
     },
     "forecast": [
-      {
-        "date": "2026-07-18",
-        "code": 3,
-        "tmax": 28,
-        "tmin": 17
-      },
       {
         "date": "2026-07-19",
         "code": 3,
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 26,
         "tmin": 13
+      },
+      {
+        "date": "2026-07-22",
+        "code": 3,
+        "tmax": 26,
+        "tmin": 14
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 134,
+        "viewers": 130,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -156,7 +156,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 2 sem",
+        "time": "il y a 3 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Reconnaissance vocale et TTS en moins de 500 Ko",
+        "titleOriginal": "Speech Recognition and TTS in less than 500kb",
+        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "source": "github.com",
+        "score": 108,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48911793",
+        "date": "il y a 4 j"
+      },
+      {
         "title": "GPT-5.6 a utilisé une invite pour combler un écart de 30 ans dans l'optimisation convexe",
         "titleOriginal": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "source": "old.reddit.com",
-        "score": 443,
-        "comments": 279,
+        "score": 465,
+        "comments": 296,
         "hnUrl": "https://news.ycombinator.com/item?id=48957779",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Test de vitesse de frappe, mais pour les développeurs",
         "titleOriginal": "Typing Speed Test, but for Developers",
         "url": "https://haxxorwpm.0s.is/",
         "source": "haxxorwpm.0s.is",
-        "score": 31,
-        "comments": 17,
+        "score": 56,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=48961504",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Reconnaissance vocale et TTS en moins de 500 Ko",
-        "titleOriginal": "Speech Recognition and TTS in less than 500kb",
-        "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-        "source": "github.com",
-        "score": 33,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=48911793",
-        "date": "il y a 4 j"
+        "date": "il y a 2 h"
       },
       {
         "title": "Si vous le construisez, ils viendront.",
         "titleOriginal": "If You Build It, They Will Come",
         "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
         "source": "benlandautaylor.com",
-        "score": 150,
-        "comments": 53,
+        "score": 186,
+        "comments": 67,
         "hnUrl": "https://news.ycombinator.com/item?id=48959090",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       }
     ]
   },
