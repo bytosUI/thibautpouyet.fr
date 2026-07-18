@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T09:53:27.598Z",
+  "updatedAt": "2026-07-18T10:57:38.833Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
-      "code": 0,
-      "wind": 7,
-      "humidity": 44
+      "temp": 26,
+      "feelsLike": 26,
+      "code": 1,
+      "wind": 12,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-07-19",
         "code": 3,
-        "tmax": 26,
-        "tmin": 15
+        "tmax": 25,
+        "tmin": 14
       },
       {
         "date": "2026-07-20",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "DANS LES COULISSES DU COMPOSITEUR DERRIÈRE LES PLUS GRANDS FILMS DU MONDE",
+        "title": "TOUS LES ULTRA-RICHES INVESTISSENT EN IMMOBILIER ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "722k5Q5SzP0",
-        "thumbnail": "https://i.ytimg.com/vi/722k5Q5SzP0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=722k5Q5SzP0",
-        "publishedAt": "2026-07-18T09:00:37+00:00"
+        "videoId": "GdzUXtTwmkU",
+        "thumbnail": "https://i.ytimg.com/vi/GdzUXtTwmkU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GdzUXtTwmkU",
+        "publishedAt": "2026-07-18T10:00:20+00:00"
       },
       {
         "title": "Ça vient d’où le Cheesecake ?",
@@ -178,18 +178,28 @@
         "titleOriginal": "Regressive JPEGs",
         "url": "https://maurycyz.com/projects/bad_jpeg/",
         "source": "maurycyz.com",
-        "score": 330,
-        "comments": 30,
+        "score": 381,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=48954851",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Cooccurrences d'articles drôles dans 3,2 MILLIONS de commandes Instacart",
+        "titleOriginal": "Funny item co-occurrences in 3.2M Instacart orders",
+        "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
+        "source": "rogerdickey.com",
+        "score": 12,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48923929",
+        "date": "il y a 2 j"
       },
       {
         "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 1182,
-        "comments": 706,
+        "score": 1205,
+        "comments": 710,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
         "date": "hier"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
         "source": "news.ycombinator.com",
-        "score": 591,
-        "comments": 59,
+        "score": 619,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=48949551",
-        "date": "il y a 16 h"
-      },
-      {
-        "title": "Faire revivre un netbook de 15 ans avec Arch Linux",
-        "titleOriginal": "Reviving a 15-year-old netbook with Arch Linux",
-        "url": "https://parksb.github.io/en/article/41.html",
-        "source": "parksb.github.io",
-        "score": 107,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=48907063",
-        "date": "il y a 3 j"
+        "date": "il y a 18 h"
       }
     ]
   },
