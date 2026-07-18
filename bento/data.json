@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T11:53:00.837Z",
+  "updatedAt": "2026-07-18T13:01:48.721Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
+      "temp": 28,
       "feelsLike": 26,
-      "code": 1,
+      "code": 2,
       "wind": 15,
-      "humidity": 34
+      "humidity": 30
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LES MILLIARDAIRES SONT EN RÉALITÉ TOUS RADINS ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "49mH0m3q0as",
+        "thumbnail": "https://i.ytimg.com/vi/49mH0m3q0as/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=49mH0m3q0as",
+        "publishedAt": "2026-07-18T13:00:06+00:00"
+      },
+      {
         "title": "Les vendeurs de formations sont des escrocs ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/6yzKX3uL5pk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6yzKX3uL5pk",
         "publishedAt": "2026-07-18T11:04:24+00:00"
-      },
-      {
-        "title": "CE QUE TOUS LES MILLIARDAIRES ONT EN COMMUN",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "2DAqd5drJk4",
-        "thumbnail": "https://i.ytimg.com/vi/2DAqd5drJk4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2DAqd5drJk4",
-        "publishedAt": "2026-07-18T11:00:33+00:00"
       },
       {
         "title": "Ça vient d’où le Cheesecake ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "JPEG régressifs",
-        "titleOriginal": "Regressive JPEGs",
-        "url": "https://maurycyz.com/projects/bad_jpeg/",
-        "source": "maurycyz.com",
-        "score": 416,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=48954851",
-        "date": "il y a 8 h"
-      },
-      {
         "title": "LG surveille l'installation silencieuse du logiciel via Windows Update sans consentement",
         "titleOriginal": "LG monitors silently install software through Windows Update without consent",
         "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
         "source": "videocardz.com",
-        "score": 125,
-        "comments": 59,
+        "score": 266,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=48956688",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Ce que l'IA a fait pour le stackoverflow dans un graphique",
-        "titleOriginal": "What AI did to stackoverflow in a graph",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-        "source": "data.stackexchange.com",
-        "score": 8,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=48956949",
-        "date": "il y a 40 min"
+        "title": "JPEG régressifs",
+        "titleOriginal": "Regressive JPEGs",
+        "url": "https://maurycyz.com/projects/bad_jpeg/",
+        "source": "maurycyz.com",
+        "score": 452,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48954851",
+        "date": "il y a 9 h"
       },
       {
-        "title": "Pourquoi les logos des entreprises d'IA ressemblent-ils à des buttholes ?",
-        "titleOriginal": "Why do AI company logos look like buttholes?",
-        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
-        "source": "velvetshark.com",
-        "score": 87,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=48956924",
-        "date": "il y a 46 min"
+        "title": "Fable 5 vs GPT-5.6 Sol sur un problème NP difficile : Est-ce que /objectif aide ?",
+        "titleOriginal": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+        "source": "charlesazam.com",
+        "score": 28,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48956879",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
+        "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+        "url": "https://news.ycombinator.com/item?id=48945241",
+        "source": "news.ycombinator.com",
+        "score": 1223,
+        "comments": 716,
+        "hnUrl": "https://news.ycombinator.com/item?id=48945241",
+        "date": "hier"
       }
     ]
   },
