@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-17T23:21:02.047Z",
+  "updatedAt": "2026-07-18T00:52:46.030Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 20,
-      "feelsLike": 21,
+      "feelsLike": 20,
       "code": 1,
       "wind": 11,
-      "humidity": 79
+      "humidity": 78
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
         "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
         "source": "localnewsmatters.org",
-        "score": 85,
-        "comments": 58,
+        "score": 209,
+        "comments": 133,
         "hnUrl": "https://news.ycombinator.com/item?id=48952880",
-        "date": "il y a 54 min"
-      },
-      {
-        "title": "Le Zilog Z80 a 50 ans",
-        "titleOriginal": "The Zilog Z80 has turned 50",
-        "url": "https://goliath32.com/blog/z80.html",
-        "source": "goliath32.com",
-        "score": 138,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=48951461",
-        "date": "il y a 3 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 985,
-        "comments": 615,
+        "score": 1021,
+        "comments": 636,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Merci HN pour 15 ans de soutien et m'aider à trouver le travail de ma vie",
-        "titleOriginal": "Thanks HN for 15 years of support and helping me find my life's work",
-        "url": "https://news.ycombinator.com/item?id=48949551",
-        "source": "news.ycombinator.com",
-        "score": 195,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=48949551",
-        "date": "il y a 6 h"
+        "title": "Le Zilog Z80 a 50 ans",
+        "titleOriginal": "The Zilog Z80 has turned 50",
+        "url": "https://goliath32.com/blog/z80.html",
+        "source": "goliath32.com",
+        "score": 157,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=48951461",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Le Texas obtient une ordonnance de suspension de nom de domaine pour violation de la loi sur la vérification de l'âge",
+        "titleOriginal": "Texas wins court order to suspend domain name for violating age-verification law",
+        "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+        "source": "texasattorneygeneral.gov",
+        "score": 88,
+        "comments": 72,
+        "hnUrl": "https://news.ycombinator.com/item?id=48952939",
+        "date": "il y a 2 h"
       }
     ]
   },
