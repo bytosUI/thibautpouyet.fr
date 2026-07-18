@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-18T13:01:48.721Z",
+  "updatedAt": "2026-07-18T14:33:22.667Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 28,
-      "feelsLike": 26,
+      "feelsLike": 25,
       "code": 2,
-      "wind": 15,
+      "wind": 20,
       "humidity": 30
     },
     "forecast": [
       {
         "date": "2026-07-18",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 17
       },
       {
@@ -26,7 +26,7 @@
         "date": "2026-07-20",
         "code": 3,
         "tmax": 25,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-07-21",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "LG surveille l'installation silencieuse du logiciel via Windows Update sans consentement",
-        "titleOriginal": "LG monitors silently install software through Windows Update without consent",
-        "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-        "source": "videocardz.com",
-        "score": 266,
-        "comments": 130,
-        "hnUrl": "https://news.ycombinator.com/item?id=48956688",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "JPEG régressifs",
-        "titleOriginal": "Regressive JPEGs",
-        "url": "https://maurycyz.com/projects/bad_jpeg/",
-        "source": "maurycyz.com",
-        "score": 452,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=48954851",
-        "date": "il y a 9 h"
+        "title": "GPT-5.6 a utilisé une invite pour combler un écart de 30 ans dans l'optimisation convexe",
+        "titleOriginal": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "source": "old.reddit.com",
+        "score": 127,
+        "comments": 67,
+        "hnUrl": "https://news.ycombinator.com/item?id=48957779",
+        "date": "il y a 1 h"
       },
       {
         "title": "Fable 5 vs GPT-5.6 Sol sur un problème NP difficile : Est-ce que /objectif aide ?",
         "titleOriginal": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
         "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
         "source": "charlesazam.com",
-        "score": 28,
-        "comments": 13,
+        "score": 80,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=48956879",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
-        "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-        "url": "https://news.ycombinator.com/item?id=48945241",
-        "source": "news.ycombinator.com",
-        "score": 1223,
-        "comments": 716,
-        "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "hier"
+        "title": "Est-ce la fin de la GoPro autrefois puissante ?",
+        "titleOriginal": "Is this the end of the once-mighty GoPro?",
+        "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+        "source": "amateurphotographer.com",
+        "score": 35,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=48916044",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "LG surveille l'installation silencieuse du logiciel via Windows Update sans consentement",
+        "titleOriginal": "LG monitors silently install software through Windows Update without consent",
+        "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+        "source": "videocardz.com",
+        "score": 469,
+        "comments": 239,
+        "hnUrl": "https://news.ycombinator.com/item?id=48956688",
+        "date": "il y a 4 h"
       }
     ]
   },
