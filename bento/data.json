@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T10:57:38.833Z",
+  "updatedAt": "2026-07-18T11:53:00.837Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
+      "temp": 27,
       "feelsLike": 26,
       "code": 1,
-      "wind": 12,
-      "humidity": 36
+      "wind": 15,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "TOUS LES ULTRA-RICHES INVESTISSENT EN IMMOBILIER ?",
+        "title": "Les vendeurs de formations sont des escrocs ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "6yzKX3uL5pk",
+        "thumbnail": "https://i.ytimg.com/vi/6yzKX3uL5pk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6yzKX3uL5pk",
+        "publishedAt": "2026-07-18T11:04:24+00:00"
+      },
+      {
+        "title": "CE QUE TOUS LES MILLIARDAIRES ONT EN COMMUN",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "GdzUXtTwmkU",
-        "thumbnail": "https://i.ytimg.com/vi/GdzUXtTwmkU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GdzUXtTwmkU",
-        "publishedAt": "2026-07-18T10:00:20+00:00"
+        "videoId": "2DAqd5drJk4",
+        "thumbnail": "https://i.ytimg.com/vi/2DAqd5drJk4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2DAqd5drJk4",
+        "publishedAt": "2026-07-18T11:00:33+00:00"
       },
       {
         "title": "Ça vient d’où le Cheesecake ?",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/isMauXaKDOI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=isMauXaKDOI",
         "publishedAt": "2026-07-17T14:30:19+00:00"
-      },
-      {
-        "title": "La jalousie à la française !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "zpgIIapnISA",
-        "thumbnail": "https://i.ytimg.com/vi/zpgIIapnISA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zpgIIapnISA",
-        "publishedAt": "2026-07-17T10:19:38+00:00"
       },
       {
         "title": "Vous Payez, Ils Encaissent ! Qui Capte Vraiment la Valeur ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Regressive JPEGs",
         "url": "https://maurycyz.com/projects/bad_jpeg/",
         "source": "maurycyz.com",
-        "score": 381,
-        "comments": 36,
+        "score": 416,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=48954851",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Cooccurrences d'articles drôles dans 3,2 MILLIONS de commandes Instacart",
-        "titleOriginal": "Funny item co-occurrences in 3.2M Instacart orders",
-        "url": "https://rogerdickey.com/funny-item-co-occurrences-in-3-million-instacart-orders/",
-        "source": "rogerdickey.com",
-        "score": 12,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48923929",
-        "date": "il y a 2 j"
+        "title": "LG surveille l'installation silencieuse du logiciel via Windows Update sans consentement",
+        "titleOriginal": "LG monitors silently install software through Windows Update without consent",
+        "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+        "source": "videocardz.com",
+        "score": 125,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=48956688",
+        "date": "il y a 1 h"
       },
       {
-        "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
-        "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-        "url": "https://news.ycombinator.com/item?id=48945241",
-        "source": "news.ycombinator.com",
-        "score": 1205,
-        "comments": 710,
-        "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "hier"
+        "title": "Ce que l'IA a fait pour le stackoverflow dans un graphique",
+        "titleOriginal": "What AI did to stackoverflow in a graph",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+        "source": "data.stackexchange.com",
+        "score": 8,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48956949",
+        "date": "il y a 40 min"
       },
       {
-        "title": "Merci HN pour 15 ans de soutien et m'aider à trouver le travail de ma vie",
-        "titleOriginal": "Thanks HN for 15 years of support and helping me find my life's work",
-        "url": "https://news.ycombinator.com/item?id=48949551",
-        "source": "news.ycombinator.com",
-        "score": 619,
-        "comments": 66,
-        "hnUrl": "https://news.ycombinator.com/item?id=48949551",
-        "date": "il y a 18 h"
+        "title": "Pourquoi les logos des entreprises d'IA ressemblent-ils à des buttholes ?",
+        "titleOriginal": "Why do AI company logos look like buttholes?",
+        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
+        "source": "velvetshark.com",
+        "score": 87,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48956924",
+        "date": "il y a 46 min"
       }
     ]
   },
