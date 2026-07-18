@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T17:52:09.765Z",
+  "updatedAt": "2026-07-18T18:54:54.463Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 24,
+      "temp": 25,
+      "feelsLike": 23,
       "code": 2,
       "wind": 18,
-      "humidity": 37
+      "humidity": 43
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Au revoir, et merci pour tous les Bikesheds",
+        "titleOriginal": "Goodbye, and Thanks for All the Bikesheds",
+        "url": "https://queue.acm.org/detail.cfm?id=3818307",
+        "source": "queue.acm.org",
+        "score": 73,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=48960155",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "GPT-5.6 a utilisé une invite pour combler un écart de 30 ans dans l'optimisation convexe",
         "titleOriginal": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "source": "old.reddit.com",
-        "score": 323,
-        "comments": 189,
+        "score": 357,
+        "comments": 209,
         "hnUrl": "https://news.ycombinator.com/item?id=48957779",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "REO Trucks I4 4WD Pickup Truck à partir de 21 500 $",
+        "titleOriginal": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
+        "url": "https://reotrucks.com",
+        "source": "reotrucks.com",
+        "score": 21,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=48960607",
+        "date": "il y a 41 min"
       },
       {
         "title": "Gleam Is Now sur Tangled",
         "titleOriginal": "Gleam Is Now on Tangled",
         "url": "https://tangled.org/gleam.run/gleam",
         "source": "tangled.org",
-        "score": 92,
-        "comments": 52,
+        "score": 111,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=48959143",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Configurer votre Mac de rechange pour que Claude Code le contrôle, un guide étape par étape",
-        "titleOriginal": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://ykdojo.github.io/claude-controls-mac/",
-        "source": "ykdojo.github.io",
-        "score": 61,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48959392",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Notre approche de la biorésilience : Isomorphic Labs et Google DeepMind",
-        "titleOriginal": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
-        "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-        "source": "deepmind.google",
-        "score": 22,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=48959297",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
