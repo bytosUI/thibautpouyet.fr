@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T18:54:54.463Z",
+  "updatedAt": "2026-07-18T20:01:47.101Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 23,
-      "code": 2,
-      "wind": 18,
-      "humidity": 43
+      "temp": 23,
+      "feelsLike": 22,
+      "code": 1,
+      "wind": 14,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 118,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Au revoir, et merci pour tous les Bikesheds",
-        "titleOriginal": "Goodbye, and Thanks for All the Bikesheds",
-        "url": "https://queue.acm.org/detail.cfm?id=3818307",
-        "source": "queue.acm.org",
-        "score": 73,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=48960155",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "GPT-5.6 a utilisé une invite pour combler un écart de 30 ans dans l'optimisation convexe",
         "titleOriginal": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "source": "old.reddit.com",
-        "score": 357,
-        "comments": 209,
+        "score": 394,
+        "comments": 243,
         "hnUrl": "https://news.ycombinator.com/item?id=48957779",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "REO Trucks I4 4WD Pickup Truck à partir de 21 500 $",
-        "titleOriginal": "REO Trucks I4 4WD Pickup Truck Starts at $21,500",
-        "url": "https://reotrucks.com",
-        "source": "reotrucks.com",
-        "score": 21,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=48960607",
-        "date": "il y a 41 min"
+        "title": "Le Kimi K3 Moment",
+        "titleOriginal": "The Kimi K3 Moment",
+        "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+        "source": "stephen.bochinski.dev",
+        "score": 87,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=48960218",
+        "date": "il y a 2 h"
       },
       {
         "title": "Gleam Is Now sur Tangled",
         "titleOriginal": "Gleam Is Now on Tangled",
         "url": "https://tangled.org/gleam.run/gleam",
         "source": "tangled.org",
-        "score": 111,
-        "comments": 61,
+        "score": 129,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=48959143",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Au revoir, et merci pour tous les Bikesheds",
+        "titleOriginal": "Goodbye, and Thanks for All the Bikesheds",
+        "url": "https://queue.acm.org/detail.cfm?id=3818307",
+        "source": "queue.acm.org",
+        "score": 126,
+        "comments": 108,
+        "hnUrl": "https://news.ycombinator.com/item?id=48960155",
+        "date": "il y a 2 h"
       }
     ]
   },
