@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T08:02:50.504Z",
+  "updatedAt": "2026-07-18T09:53:27.598Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 20,
+      "temp": 25,
+      "feelsLike": 25,
       "code": 0,
-      "wind": 9,
-      "humidity": 59
+      "wind": 7,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-07-21",
         "code": 3,
-        "tmax": 27,
+        "tmax": 26,
         "tmin": 13
       }
     ]
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "DEVENIR MILLIARDAIRE AVEC LA CRYPTO C’EST POSSIBLE ?",
+        "title": "DANS LES COULISSES DU COMPOSITEUR DERRIÈRE LES PLUS GRANDS FILMS DU MONDE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "dsuyBWWeo68",
-        "thumbnail": "https://i.ytimg.com/vi/dsuyBWWeo68/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dsuyBWWeo68",
-        "publishedAt": "2026-07-18T07:00:04+00:00"
+        "videoId": "722k5Q5SzP0",
+        "thumbnail": "https://i.ytimg.com/vi/722k5Q5SzP0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=722k5Q5SzP0",
+        "publishedAt": "2026-07-18T09:00:37+00:00"
       },
       {
         "title": "Ça vient d’où le Cheesecake ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Regressive JPEGs",
         "url": "https://maurycyz.com/projects/bad_jpeg/",
         "source": "maurycyz.com",
-        "score": 187,
-        "comments": 8,
+        "score": 330,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=48954851",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Faire revivre un netbook de 15 ans avec Arch Linux",
-        "titleOriginal": "Reviving a 15-year-old netbook with Arch Linux",
-        "url": "https://parksb.github.io/en/article/41.html",
-        "source": "parksb.github.io",
-        "score": 81,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48907063",
-        "date": "il y a 3 j"
+        "date": "il y a 6 h"
       },
       {
         "title": "AWS : Données de facturation estimées inexactes – 1,7 milliard $",
         "titleOriginal": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
         "url": "https://news.ycombinator.com/item?id=48945241",
         "source": "news.ycombinator.com",
-        "score": 1152,
-        "comments": 690,
+        "score": 1182,
+        "comments": 706,
         "hnUrl": "https://news.ycombinator.com/item?id=48945241",
-        "date": "il y a 22 h"
+        "date": "hier"
       },
       {
         "title": "Merci HN pour 15 ans de soutien et m'aider à trouver le travail de ma vie",
         "titleOriginal": "Thanks HN for 15 years of support and helping me find my life's work",
         "url": "https://news.ycombinator.com/item?id=48949551",
         "source": "news.ycombinator.com",
-        "score": 539,
-        "comments": 54,
+        "score": 591,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=48949551",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
+      },
+      {
+        "title": "Faire revivre un netbook de 15 ans avec Arch Linux",
+        "titleOriginal": "Reviving a 15-year-old netbook with Arch Linux",
+        "url": "https://parksb.github.io/en/article/41.html",
+        "source": "parksb.github.io",
+        "score": 107,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=48907063",
+        "date": "il y a 3 j"
       }
     ]
   },
