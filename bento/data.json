@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-19T21:13:54.935Z",
+  "updatedAt": "2026-07-19T22:23:28.304Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 16,
-      "code": 3,
-      "wind": 12,
-      "humidity": 45
+      "temp": 17,
+      "feelsLike": 14,
+      "code": 0,
+      "wind": 15,
+      "humidity": 51
     },
     "forecast": [
-      {
-        "date": "2026-07-19",
-        "code": 3,
-        "tmax": 25,
-        "tmin": 14
-      },
       {
         "date": "2026-07-20",
         "code": 3,
@@ -31,8 +25,14 @@
       {
         "date": "2026-07-22",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 13
+      },
+      {
+        "date": "2026-07-23",
+        "code": 3,
+        "tmax": 26,
+        "tmin": 15
       }
     ]
   },
@@ -178,40 +178,40 @@
         "titleOriginal": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
         "url": "https://news.ycombinator.com/item?id=48968606",
         "source": "news.ycombinator.com",
-        "score": 777,
-        "comments": 81,
+        "score": 1009,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=48968606",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Qwen 3.8",
         "titleOriginal": "Qwen 3.8",
         "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
         "source": "twitter.com",
-        "score": 675,
-        "comments": 493,
+        "score": 717,
+        "comments": 508,
         "hnUrl": "https://news.ycombinator.com/item?id=48966120",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "HomeLab #1 : MikroTik comme routeur domestique",
-        "titleOriginal": "HomeLab #1: MikroTik as a Home Router",
-        "url": "https://justsomebody.dev/blog/mikrotik-home-router",
-        "source": "justsomebody.dev",
-        "score": 28,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48970772",
-        "date": "il y a 2 h"
+        "title": "Le Zen de la Programmation Parallèle",
+        "titleOriginal": "The Zen of Parallel Programming",
+        "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+        "source": "smolnero.com",
+        "score": 62,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=48907390",
+        "date": "il y a 5 j"
       },
       {
-        "title": "Minecraft : Java Edition utilise désormais SDL3",
-        "titleOriginal": "Minecraft: Java Edition now uses SDL3",
-        "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
-        "source": "minecraft.net",
-        "score": 226,
-        "comments": 148,
-        "hnUrl": "https://news.ycombinator.com/item?id=48967256",
-        "date": "il y a 9 h"
+        "title": "Show HN : une application de prise de notes et d'organisation basée sur le canevas",
+        "titleOriginal": "Show HN: A canvas-based note taking and organizer app",
+        "url": "https://www.passinote.app/",
+        "source": "passinote.app",
+        "score": 5,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48971847",
+        "date": "il y a 51 min"
       }
     ]
   },
