@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-19T18:57:38.939Z",
+  "updatedAt": "2026-07-19T20:07:09.696Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 20,
-      "code": 3,
-      "wind": 14,
-      "humidity": 34
+      "temp": 21,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 11,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-07-21",
-        "code": 1,
+        "code": 2,
         "tmax": 26,
         "tmin": 13
       },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Qwen 3.8",
-        "titleOriginal": "Qwen 3.8",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "source": "twitter.com",
-        "score": 608,
-        "comments": 445,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966120",
-        "date": "il y a 10 h"
-      },
-      {
         "title": "Show HN : J'ai remplacé un système de centre de bowling de 120 000 $ par 1 600 $ en ESP32",
         "titleOriginal": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
         "url": "https://news.ycombinator.com/item?id=48968606",
         "source": "news.ycombinator.com",
-        "score": 233,
-        "comments": 19,
+        "score": 538,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=48968606",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Qwen 3.8",
+        "titleOriginal": "Qwen 3.8",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "source": "twitter.com",
+        "score": 646,
+        "comments": 469,
+        "hnUrl": "https://news.ycombinator.com/item?id=48966120",
+        "date": "il y a 11 h"
       },
       {
         "title": "HMD Touch 4G",
         "titleOriginal": "HMD Touch 4G",
         "url": "https://www.hmd.com/en_int/hmd-touch-4g",
         "source": "hmd.com",
-        "score": 27,
-        "comments": 28,
+        "score": 43,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=48969983",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Ce que j'ai appris en vendant 2 500 enregistreurs midi : le matériel n'est pas si difficile",
-        "titleOriginal": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-        "source": "chipweinberger.com",
-        "score": 320,
-        "comments": 146,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966713",
-        "date": "il y a 8 h"
+        "title": "Claude Code utilise Bun écrit en rouille maintenant",
+        "titleOriginal": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "source": "simonwillison.net",
+        "score": 308,
+        "comments": 409,
+        "hnUrl": "https://news.ycombinator.com/item?id=48966569",
+        "date": "il y a 10 h"
       }
     ]
   },
