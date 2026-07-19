@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-18T23:23:54.047Z",
+  "updatedAt": "2026-07-19T00:58:08.929Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 16,
+      "temp": 17,
+      "feelsLike": 15,
       "code": 0,
-      "wind": 16,
-      "humidity": 60
+      "wind": 15,
+      "humidity": 68
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Speech Recognition and TTS in less than 500kb",
         "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
         "source": "github.com",
-        "score": 177,
-        "comments": 21,
+        "score": 237,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=48911793",
         "date": "il y a 4 j"
       },
       {
-        "title": "Hardcore IndieWeb : gérez votre propre site Web de manière 100% indépendante pour seulement 0,01 $ / jour",
-        "titleOriginal": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-        "url": "https://www.neatnik.net/hardcore-indieweb",
-        "source": "neatnik.net",
-        "score": 29,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=48962758",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Juger un livre par ses premières pages",
-        "titleOriginal": "Judge a book by its first pages",
-        "url": "https://uncovered.ink",
-        "source": "uncovered.ink",
-        "score": 18,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=48962893",
-        "date": "il y a 1 h"
+        "title": "Titres Amiga classiques, téléchargeables gratuitement",
+        "titleOriginal": "Classic Amiga titles, free to download",
+        "url": "https://amigafreeware.downer.tech/",
+        "source": "amigafreeware.downer.tech",
+        "score": 37,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48962838",
+        "date": "il y a 3 h"
       },
       {
         "title": "GPT-5.6 a utilisé une invite pour combler un écart de 30 ans dans l'optimisation convexe",
         "titleOriginal": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "source": "old.reddit.com",
-        "score": 477,
-        "comments": 306,
+        "score": 489,
+        "comments": 317,
         "hnUrl": "https://news.ycombinator.com/item?id=48957779",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Si vous le construisez, ils viendront.",
+        "titleOriginal": "If You Build It, They Will Come",
+        "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+        "source": "benlandautaylor.com",
+        "score": 259,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=48959090",
+        "date": "il y a 9 h"
       }
     ]
   },
