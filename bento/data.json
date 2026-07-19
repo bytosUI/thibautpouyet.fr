@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-19T10:51:00.975Z",
+  "updatedAt": "2026-07-19T11:51:51.741Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 23,
       "feelsLike": 21,
-      "code": 1,
-      "wind": 12,
-      "humidity": 37
+      "code": 2,
+      "wind": 13,
+      "humidity": 35
     },
     "forecast": [
       {
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "ON COMMENCE LA TRANSFORMATION DU JARDIN ! Ft.@MARVINAtmoss",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "k_NfNR_djKs",
+        "thumbnail": "https://i.ytimg.com/vi/k_NfNR_djKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k_NfNR_djKs",
+        "publishedAt": "2026-07-19T10:54:49+00:00"
+      },
       {
         "title": "Vivre « à la française » à Maurice ?",
         "channel": "Darons du Biz",
@@ -122,15 +131,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
         "publishedAt": "2026-07-09T09:03:58+00:00"
-      },
-      {
-        "title": "FAQ : Argent, Business et Vérité",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "fcwNWpk0tfk",
-        "thumbnail": "https://i.ytimg.com/vi/fcwNWpk0tfk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcwNWpk0tfk",
-        "publishedAt": "2026-06-28T07:57:43+00:00"
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude Code utilise Bun écrit en rouille maintenant",
-        "titleOriginal": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "source": "simonwillison.net",
-        "score": 33,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966569",
-        "date": "il y a 47 min"
+        "title": "Aperçu de Qwen 3.8 Max",
+        "titleOriginal": "Qwen 3.8 Max Preview",
+        "url": "https://www.qwencloud.com/pricing/token-plan",
+        "source": "qwencloud.com",
+        "score": 74,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=48966190",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Qwen3.8 sera bientôt lancé et en open-weight",
-        "titleOriginal": "Qwen3.8 is launching and going open-weight soon",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "source": "twitter.com",
-        "score": 191,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966120",
-        "date": "il y a 2 h"
+        "title": "Qwen 3.8 Max",
+        "titleOriginal": "Qwen 3.8 Max",
+        "url": "https://qwen.ai/home",
+        "source": "qwen.ai",
+        "score": 13,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48966754",
+        "date": "il y a 1 h"
       },
       {
         "title": "Transcribe.cpp",
         "titleOriginal": "Transcribe.cpp",
         "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
         "source": "workshop.cjpais.com",
-        "score": 547,
-        "comments": 113,
+        "score": 565,
+        "comments": 121,
         "hnUrl": "https://news.ycombinator.com/item?id=48963879",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Aperçu de Qwen 3.8 Max",
-        "titleOriginal": "Qwen 3.8 Max Preview",
-        "url": "https://www.qwencloud.com/pricing/token-plan",
-        "source": "qwencloud.com",
-        "score": 14,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966190",
-        "date": "il y a 1 h"
+        "title": "Mélangeur 5.2 LTS",
+        "titleOriginal": "Blender 5.2 LTS",
+        "url": "https://www.blender.org/download/releases/5-2-lts/",
+        "source": "blender.org",
+        "score": 46,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=48911021",
+        "date": "il y a 4 j"
       }
     ]
   },
