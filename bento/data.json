@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-19T14:36:49.952Z",
+  "updatedAt": "2026-07-19T15:52:24.025Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
-      "feelsLike": 22,
+      "feelsLike": 21,
       "code": 3,
-      "wind": 14,
-      "humidity": 28
+      "wind": 16,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-07-22",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 13
       }
     ]
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Minecraft : Java Edition utilise désormais SDL3",
+        "title": "Qwen 3.8",
+        "titleOriginal": "Qwen 3.8",
+        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+        "source": "twitter.com",
+        "score": 405,
+        "comments": 311,
+        "hnUrl": "https://news.ycombinator.com/item?id=48966120",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Minecraft: Java Edition now uses SDL3",
         "titleOriginal": "Minecraft: Java Edition now uses SDL3",
         "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
         "source": "minecraft.net",
-        "score": 71,
-        "comments": 38,
+        "score": 126,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=48967256",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Ce que j'ai appris en vendant 2 500 enregistreurs midi : le matériel n'est pas si difficile",
-        "titleOriginal": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
-        "source": "chipweinberger.com",
-        "score": 157,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966713",
         "date": "il y a 4 h"
       },
       {
-        "title": "Mélangeur 5.2 LTS",
-        "titleOriginal": "Blender 5.2 LTS",
-        "url": "https://www.blender.org/download/releases/5-2/",
-        "source": "blender.org",
-        "score": 142,
-        "comments": 62,
-        "hnUrl": "https://news.ycombinator.com/item?id=48911021",
-        "date": "il y a 4 j"
+        "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "titleOriginal": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+        "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+        "source": "chipweinberger.com",
+        "score": 209,
+        "comments": 104,
+        "hnUrl": "https://news.ycombinator.com/item?id=48966713",
+        "date": "il y a 5 h"
       },
       {
-        "title": "J'ai brûlé tous mes jetons en cherchant comment enregistrer des jetons",
-        "titleOriginal": "I burned all my tokens researching how to save tokens",
-        "url": "https://quesma.com/blog/custom-deep-research-pipeline/",
-        "source": "quesma.com",
-        "score": 58,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=48967355",
+        "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+        "titleOriginal": "Bananas sprout in Rayleigh Garden UK after 15 years",
+        "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+        "source": "bbc.com",
+        "score": 25,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=48968063",
         "date": "il y a 2 h"
       }
     ]
