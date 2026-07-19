@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-19T20:07:09.696Z",
+  "updatedAt": "2026-07-19T21:13:54.935Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 18,
-      "code": 2,
-      "wind": 11,
-      "humidity": 41
+      "temp": 19,
+      "feelsLike": 16,
+      "code": 3,
+      "wind": 12,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
         "url": "https://news.ycombinator.com/item?id=48968606",
         "source": "news.ycombinator.com",
-        "score": 538,
-        "comments": 52,
+        "score": 777,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=48968606",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Qwen 3.8",
         "titleOriginal": "Qwen 3.8",
         "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
         "source": "twitter.com",
-        "score": 646,
-        "comments": 469,
+        "score": 675,
+        "comments": 493,
         "hnUrl": "https://news.ycombinator.com/item?id=48966120",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "HMD Touch 4G",
-        "titleOriginal": "HMD Touch 4G",
-        "url": "https://www.hmd.com/en_int/hmd-touch-4g",
-        "source": "hmd.com",
-        "score": 43,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=48969983",
+        "title": "HomeLab #1 : MikroTik comme routeur domestique",
+        "titleOriginal": "HomeLab #1: MikroTik as a Home Router",
+        "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+        "source": "justsomebody.dev",
+        "score": 28,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=48970772",
         "date": "il y a 2 h"
       },
       {
-        "title": "Claude Code utilise Bun écrit en rouille maintenant",
-        "titleOriginal": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "source": "simonwillison.net",
-        "score": 308,
-        "comments": 409,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966569",
-        "date": "il y a 10 h"
+        "title": "Minecraft : Java Edition utilise désormais SDL3",
+        "titleOriginal": "Minecraft: Java Edition now uses SDL3",
+        "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+        "source": "minecraft.net",
+        "score": 226,
+        "comments": 148,
+        "hnUrl": "https://news.ycombinator.com/item?id=48967256",
+        "date": "il y a 9 h"
       }
     ]
   },
