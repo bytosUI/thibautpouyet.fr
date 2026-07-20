@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-20T18:50:00.886Z",
+  "updatedAt": "2026-07-20T20:17:00.045Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 18,
-      "code": 3,
-      "wind": 16,
-      "humidity": 32
+      "temp": 20,
+      "feelsLike": 17,
+      "code": 2,
+      "wind": 14,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-22",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 13
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "China's open-weights AI strategy is winning",
         "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
         "source": "werd.io",
-        "score": 450,
-        "comments": 377,
+        "score": 620,
+        "comments": 527,
         "hnUrl": "https://news.ycombinator.com/item?id=48979269",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Kimi Work",
+        "titleOriginal": "Kimi Work",
+        "url": "https://www.kimi.com/products/kimi-work",
+        "source": "kimi.com",
+        "score": 151,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=48981703",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Interface utilisateur Jelly : physique du corps mou pour les contrôles de formulaire HTML natifs",
+        "titleOriginal": "Jelly UI: Soft-body physics for native HTML form controls",
+        "url": "https://jelly-ui.com/",
+        "source": "jelly-ui.com",
+        "score": 149,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=48981620",
+        "date": "il y a 3 h"
       },
       {
         "title": "Hacker efface la base de données du registre foncier roumain",
         "titleOriginal": "Hacker wipes Romania's land registry database",
         "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
         "source": "news.risky.biz",
-        "score": 418,
-        "comments": 231,
+        "score": 477,
+        "comments": 262,
         "hnUrl": "https://news.ycombinator.com/item?id=48978605",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Plus de 30 % des nouvelles soumissions ArXiv sont désormais lues comme écrites par l'IA",
-        "titleOriginal": "Over 30% of new ArXiv submissions now read as AI-written",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "source": "unslop.run",
-        "score": 120,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=48981206",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Hyprland 0.55 a annoncé le passage à Lua pour ses fichiers de configuration",
-        "titleOriginal": "Hyprland 0.55 announced the switch to Lua for its config files",
-        "url": "https://hypr.land/news/update55/",
-        "source": "hypr.land",
-        "score": 46,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=48982011",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       }
     ]
   },
