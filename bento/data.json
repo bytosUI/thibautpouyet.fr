@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-20T22:53:46.041Z",
+  "updatedAt": "2026-07-20T23:52:58.397Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 14,
-      "code": 1,
+      "temp": 16,
+      "feelsLike": 13,
+      "code": 0,
       "wind": 11,
-      "humidity": 53
+      "humidity": 58
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "China’s open-weights AI strategy is winning",
         "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
         "source": "werd.io",
-        "score": 860,
-        "comments": 699,
+        "score": 917,
+        "comments": 743,
         "hnUrl": "https://news.ycombinator.com/item?id=48979269",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "Qui a peur des mannequins chinois ?",
+        "titleOriginal": "Who's Afraid of Chinese Models?",
+        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+        "source": "stratechery.com",
+        "score": 122,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=48977128",
+        "date": "il y a 12 h"
       },
       {
         "title": "Kimi Work",
         "titleOriginal": "Kimi Work",
         "url": "https://www.kimi.com/products/kimi-work",
         "source": "kimi.com",
-        "score": 304,
-        "comments": 142,
+        "score": 339,
+        "comments": 162,
         "hnUrl": "https://news.ycombinator.com/item?id=48981703",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Interface utilisateur Jelly : physique du corps mou pour les contrôles de formulaire HTML natifs",
-        "titleOriginal": "Jelly UI: Soft-body physics for native HTML form controls",
-        "url": "https://jelly-ui.com/",
-        "source": "jelly-ui.com",
-        "score": 270,
-        "comments": 110,
-        "hnUrl": "https://news.ycombinator.com/item?id=48981620",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Les mathématiciens humains sont surestimés",
         "titleOriginal": "Human mathematicians are being outcounterexampled",
         "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
         "source": "xenaproject.wordpress.com",
-        "score": 126,
-        "comments": 44,
+        "score": 157,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=48983382",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
