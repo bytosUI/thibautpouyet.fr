@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-20T05:01:55.073Z",
+  "updatedAt": "2026-07-20T08:22:07.142Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 10,
+      "temp": 18,
+      "feelsLike": 15,
       "code": 0,
-      "wind": 9,
-      "humidity": 73
+      "wind": 14,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -37,10 +37,18 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 386,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Les marques françaises, c'est des gros clochards ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "SVkw2upazK8",
+        "thumbnail": "https://i.ytimg.com/vi/SVkw2upazK8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SVkw2upazK8",
+        "publishedAt": "2026-07-20T07:47:32+00:00"
+      },
+      {
         "title": "ON COMMENCE LA TRANSFORMATION DU JARDIN ! Ft.@MARVINAtmoss",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/k_NfNR_djKs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=k_NfNR_djKs",
         "publishedAt": "2026-07-19T10:54:49+00:00"
-      },
-      {
-        "title": "Vivre « à la française » à Maurice ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "q87yjF4s4UE",
-        "thumbnail": "https://i.ytimg.com/vi/q87yjF4s4UE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q87yjF4s4UE",
-        "publishedAt": "2026-07-19T09:42:44+00:00"
       },
       {
         "title": "JÉRÔME KERVIEL BALANCE TOUT : «J'ALLAIS APPUYER SUR LA DÉTENTE DU FUSIL QUAND MON TÉLÉPHONE A SONNÉ»",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "LoRA Speedrun – un classement public de l'horloge murale pour les techniques de réglage fin",
+        "titleOriginal": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+        "url": "https://github.com/Saivineeth147/lora-speedrun",
+        "source": "github.com",
+        "score": 55,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48974325",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Xiaomi-Robotics-1",
+        "titleOriginal": "Xiaomi-Robotics-1",
+        "url": "https://robotics.xiaomi.com/xiaomi-robotics-1.html",
+        "source": "robotics.xiaomi.com",
+        "score": 148,
+        "comments": 80,
+        "hnUrl": "https://news.ycombinator.com/item?id=48974454",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Show HN : J'ai remplacé un système de centre de bowling de 120 000 $ par 1 600 $ en ESP32",
         "titleOriginal": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
         "url": "https://news.ycombinator.com/item?id=48968606",
         "source": "news.ycombinator.com",
-        "score": 1842,
-        "comments": 195,
+        "score": 2178,
+        "comments": 229,
         "hnUrl": "https://news.ycombinator.com/item?id=48968606",
-        "date": "il y a 14 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Moonshine : vous permet de diffuser des jeux depuis votre PC vers n'importe quel appareil exécutant Moonlight",
         "titleOriginal": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
         "url": "https://github.com/hgaiser/moonshine",
         "source": "github.com",
-        "score": 37,
-        "comments": 15,
+        "score": 148,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=48972970",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Claude Code utilise Bun écrit en rouille maintenant",
-        "titleOriginal": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "source": "simonwillison.net",
-        "score": 438,
-        "comments": 601,
-        "hnUrl": "https://news.ycombinator.com/item?id=48966569",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "Claude Fable a produit un contre-exemple à la conjecture jacobienne",
-        "titleOriginal": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-        "source": "xcancel.com",
-        "score": 147,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=48973869",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       }
     ]
   },
