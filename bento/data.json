@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-20T15:26:27.519Z",
+  "updatedAt": "2026-07-20T16:53:48.247Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 19,
       "code": 3,
-      "wind": 21,
-      "humidity": 33
+      "wind": 17,
+      "humidity": 32
     },
     "forecast": [
       {
         "date": "2026-07-20",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 12
       },
       {
@@ -32,7 +32,7 @@
         "date": "2026-07-23",
         "code": 3,
         "tmax": 26,
-        "tmin": 13
+        "tmin": 14
       }
     ]
   },
@@ -178,9 +178,29 @@
         "titleOriginal": "Hacker wipes Romania's land registry database",
         "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
         "source": "news.risky.biz",
-        "score": 214,
-        "comments": 125,
+        "score": 320,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=48978605",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "La stratégie chinoise d'IA en open weight est gagnante",
+        "titleOriginal": "China's open-weights AI strategy is winning",
+        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "source": "werd.io",
+        "score": 168,
+        "comments": 155,
+        "hnUrl": "https://news.ycombinator.com/item?id=48979269",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Corners Don' t Look Like That : Regarding Screenspace Ambient Occlusion (2012)",
+        "titleOriginal": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion (2012)",
+        "url": "https://nothings.org/gamedev/ssao/",
+        "source": "nothings.org",
+        "score": 92,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=48979931",
         "date": "il y a 1 h"
       },
       {
@@ -188,30 +208,10 @@
         "titleOriginal": "We're Squandering LEDs' Potential to Save Our Night Skies",
         "url": "https://spectrum.ieee.org/led-light-pollution",
         "source": "spectrum.ieee.org",
-        "score": 70,
-        "comments": 33,
+        "score": 119,
+        "comments": 74,
         "hnUrl": "https://news.ycombinator.com/item?id=48978350",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "L'IA américaine est verrouillée et propriétaire. Elle perd",
-        "titleOriginal": "American AI is locked down and proprietary. It's losing",
-        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
-        "source": "werd.io",
-        "score": 46,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=48979269",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Simulateur d'aéroport",
-        "titleOriginal": "Airport Simulator",
-        "url": "https://airport.apunen.com/",
-        "source": "airport.apunen.com",
-        "score": 300,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=48976846",
-        "date": "il y a 4 h"
+        "date": "il y a 3 h"
       }
     ]
   },
