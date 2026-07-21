@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-21T16:19:03.102Z",
+  "updatedAt": "2026-07-21T17:51:36.985Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 22,
+      "temp": 25,
+      "feelsLike": 21,
       "code": 0,
-      "wind": 18,
-      "humidity": 28
+      "wind": 15,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-07-22",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 13
       },
       {
         "date": "2026-07-23",
         "code": 3,
         "tmax": 26,
-        "tmin": 14
+        "tmin": 13
       },
       {
         "date": "2026-07-24",
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Un ancien concept fait son retour \"Qui a l'objet piégé ?\"",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "W724vMcIcfc",
+        "thumbnail": "https://i.ytimg.com/vi/W724vMcIcfc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W724vMcIcfc",
+        "publishedAt": "2026-07-21T17:43:37+00:00"
+      },
       {
         "title": "COCA*NE : EN CURE DE DÉSINTOXICATION, ELLE SE DR*GUE ENCORE PLUS",
         "channel": "LEGEND",
@@ -122,15 +131,6 @@
         "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
         "publishedAt": "2026-07-10T14:00:13+00:00"
-      },
-      {
-        "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Gjab-wJw7Bo",
-        "thumbnail": "https://i.ytimg.com/vi/Gjab-wJw7Bo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gjab-wJw7Bo",
-        "publishedAt": "2026-07-09T09:03:58+00:00"
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite et 3.5 Flash Cyber",
-        "titleOriginal": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-        "source": "blog.google",
-        "score": 175,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=48993414",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Longtemps présumé mort, un récif corallien prospère est découvert en Afrique de l'Ouest",
         "titleOriginal": "Long Presumed Dead, a Thriving Coral Reef Is Discovered in West Africa",
         "url": "https://e360.yale.edu/digest/benin-coral-reef",
         "source": "e360.yale.edu",
-        "score": 31,
-        "comments": 0,
+        "score": 120,
+        "comments": 9,
         "hnUrl": "https://news.ycombinator.com/item?id=48993816",
-        "date": "il y a 37 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Apple annule la responsabilité pour ne pas avoir numérisé iCloud pour CSAM",
-        "titleOriginal": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
-        "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-        "source": "blog.ericgoldman.org",
-        "score": 130,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=48992870",
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite et 3.5 Flash Cyber",
+        "titleOriginal": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "source": "blog.google",
+        "score": 346,
+        "comments": 268,
+        "hnUrl": "https://news.ycombinator.com/item?id=48993414",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les 2 400 châteaux du monde",
+        "titleOriginal": "The World's 2,400 Castles",
+        "url": "https://thecastlemap.com/",
+        "source": "thecastlemap.com",
+        "score": 84,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=48994178",
         "date": "il y a 1 h"
       },
       {
-        "title": "PCjs Machines",
-        "titleOriginal": "PCjs Machines",
-        "url": "https://www.pcjs.org/",
-        "source": "pcjs.org",
-        "score": 72,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=48992323",
-        "date": "il y a 2 h"
+        "title": "Les modèles d'IA de Meta alimentent la première vague de projets de mission Genesis",
+        "titleOriginal": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
+        "url": "https://ai.meta.com/blog/genesis-mission-lawrence-berkeley-national-laboratory-segment-anything-dino/?_fb_noscript=1",
+        "source": "ai.meta.com",
+        "score": 24,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=48995074",
+        "date": "il y a 48 min"
       }
     ]
   },
