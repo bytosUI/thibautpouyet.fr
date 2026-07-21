@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-21T20:42:05.213Z",
+  "updatedAt": "2026-07-21T21:59:52.965Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 19,
+      "temp": 19,
+      "feelsLike": 17,
       "code": 0,
       "wind": 9,
-      "humidity": 36
+      "humidity": 44
     },
     "forecast": [
       {
@@ -31,8 +31,8 @@
       {
         "date": "2026-07-24",
         "code": 3,
-        "tmax": 29,
-        "tmin": 14
+        "tmax": 28,
+        "tmin": 13
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "MONTÉE DE L’EXTRÊME DROITE, LFI… MATTHIEU PIGASSE ALERTE SUR L’AVENIR DE LA FRANCE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "fIhP2KZZxLo",
+        "thumbnail": "https://i.ytimg.com/vi/fIhP2KZZxLo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fIhP2KZZxLo",
+        "publishedAt": "2026-07-21T20:04:37+00:00"
+      },
+      {
         "title": "Un ancien concept fait son retour \"Qui a l'objet piégé ?\"",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/W724vMcIcfc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=W724vMcIcfc",
         "publishedAt": "2026-07-21T17:43:37+00:00"
-      },
-      {
-        "title": "COCA*NE : EN CURE DE DÉSINTOXICATION, ELLE SE DR*GUE ENCORE PLUS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "QhP1CLYKCJU",
-        "thumbnail": "https://i.ytimg.com/vi/QhP1CLYKCJU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QhP1CLYKCJU",
-        "publishedAt": "2026-07-21T16:00:20+00:00"
       },
       {
         "title": "Les recos de Carl sont enfin là ! (Et Mcfly ne l’empêche pas)",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "OpenAI et Hugging Face abordent l'incident de sécurité lors de l'évaluation du modèle",
+        "titleOriginal": "OpenAI and Hugging Face address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "source": "openai.com",
+        "score": 359,
+        "comments": 214,
+        "hnUrl": "https://news.ycombinator.com/item?id=48997548",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "FreeInk : écosystème ouvert pour les lecteurs électroniques",
         "titleOriginal": "FreeInk: Open ecosystem for e-readers",
         "url": "https://freeink.org/",
         "source": "freeink.org",
-        "score": 186,
-        "comments": 42,
+        "score": 274,
+        "comments": 63,
         "hnUrl": "https://news.ycombinator.com/item?id=48996318",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "OpenAI et Hugging Face s'associent pour faire face à un incident de sécurité",
-        "titleOriginal": "OpenAI and Hugging Face partner to address security incident",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "source": "openai.com",
-        "score": 99,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=48997548",
-        "date": "il y a 32 min"
+        "title": "Une digestion du contre-exemple de conjecture jacobienne",
+        "titleOriginal": "A digestion of the Jacobian conjecture counterexample",
+        "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+        "source": "terrytao.wordpress.com",
+        "score": 37,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48998362",
+        "date": "il y a 50 min"
       },
       {
         "title": "Gemini 3.6 Flash, 3.5 Flash-Lite et 3.5 Flash Cyber",
         "titleOriginal": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
         "source": "blog.google",
-        "score": 496,
-        "comments": 388,
+        "score": 537,
+        "comments": 433,
         "hnUrl": "https://news.ycombinator.com/item?id=48993414",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Longtemps présumé mort, un récif corallien florissant est découvert en Afrique de l'Ouest",
-        "titleOriginal": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-        "url": "https://e360.yale.edu/digest/benin-coral-reef",
-        "source": "e360.yale.edu",
-        "score": 233,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=48993816",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       }
     ]
   },
