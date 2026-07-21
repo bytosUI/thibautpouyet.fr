@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-21T02:07:39.958Z",
+  "updatedAt": "2026-07-21T05:33:54.768Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 13,
-      "feelsLike": 12,
+      "feelsLike": 11,
       "code": 0,
-      "wind": 9,
-      "humidity": 70
+      "wind": 7,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-07-21",
         "code": 2,
         "tmax": 26,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-07-22",
@@ -31,7 +31,7 @@
       {
         "date": "2026-07-24",
         "code": 3,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 13
       }
     ]
@@ -61,42 +61,6 @@
         "publishedAt": "2026-07-20T17:00:35+00:00"
       },
       {
-        "title": "Mon métier est en train de disparaître sous mes yeux",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "sq-iSYUfILg",
-        "thumbnail": "https://i.ytimg.com/vi/sq-iSYUfILg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sq-iSYUfILg",
-        "publishedAt": "2026-07-20T17:00:13+00:00"
-      },
-      {
-        "title": "@Alphacast_fr connaît TOUS les persos de Warhammer",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "xB57LuVMB3Q",
-        "thumbnail": "https://i.ytimg.com/vi/xB57LuVMB3Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xB57LuVMB3Q",
-        "publishedAt": "2026-07-20T15:05:19+00:00"
-      },
-      {
-        "title": "IL EST CONDAMNÉ À REMBOURSER 5 MILLIARDS D'EUROS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "1Mr1W15dpRQ",
-        "thumbnail": "https://i.ytimg.com/vi/1Mr1W15dpRQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1Mr1W15dpRQ",
-        "publishedAt": "2026-07-20T14:30:13+00:00"
-      },
-      {
-        "title": "Les marques françaises, c'est des gros clochards ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "SVkw2upazK8",
-        "thumbnail": "https://i.ytimg.com/vi/SVkw2upazK8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SVkw2upazK8",
-        "publishedAt": "2026-07-20T07:47:32+00:00"
-      },
-      {
         "title": "ON COMMENCE LA TRANSFORMATION DU JARDIN ! Ft.@MARVINAtmoss",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -104,24 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/k_NfNR_djKs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=k_NfNR_djKs",
         "publishedAt": "2026-07-19T10:54:49+00:00"
-      },
-      {
-        "title": "Si j’oublie quelque chose, je suis foutu. #24",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "V8I6hg-4oJ8",
-        "thumbnail": "https://i.ytimg.com/vi/V8I6hg-4oJ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V8I6hg-4oJ8",
-        "publishedAt": "2026-07-12T15:17:39+00:00"
-      },
-      {
-        "title": "60 jours pour construire une terrasse géante et un observatoire",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "zoSg9cLlGuo",
-        "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
-        "publishedAt": "2026-07-10T14:00:13+00:00"
       },
       {
         "title": "Ils ont vraiment poussé le délire du clip jusqu'au bout 😂",
@@ -174,44 +120,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Jane Street : Incrémental",
+        "titleOriginal": "Jane Street: Incremental",
+        "url": "https://github.com/janestreet/incremental",
+        "source": "github.com",
+        "score": 65,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=48987822",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Qui a peur des mannequins chinois ?",
         "titleOriginal": "Who's afraid of Chinese models?",
         "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
         "source": "stratechery.com",
-        "score": 287,
-        "comments": 183,
+        "score": 472,
+        "comments": 311,
         "hnUrl": "https://news.ycombinator.com/item?id=48977128",
-        "date": "il y a 15 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Kimi Work",
-        "titleOriginal": "Kimi Work",
-        "url": "https://www.kimi.com/products/kimi-work",
-        "source": "kimi.com",
-        "score": 406,
-        "comments": 185,
-        "hnUrl": "https://news.ycombinator.com/item?id=48981703",
-        "date": "il y a 8 h"
+        "title": "Exécuter Doom sur notre processeur personnalisé et devenir viral",
+        "titleOriginal": "Running Doom on Our Custom CPU and Going Viral",
+        "url": "https://www.armaangomes.com/blogs/doom/",
+        "source": "armaangomes.com",
+        "score": 20,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=48987846",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Les mathématiciens humains sont surestimés",
-        "titleOriginal": "Human mathematicians are being outcounterexampled",
-        "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
-        "source": "xenaproject.wordpress.com",
-        "score": 216,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=48983382",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Interface utilisateur Jelly : physique du corps mou pour les contrôles de formulaire HTML natifs",
-        "titleOriginal": "Jelly UI: Soft-body physics for native HTML form controls",
-        "url": "https://jelly-ui.com/",
-        "source": "jelly-ui.com",
-        "score": 351,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=48981620",
-        "date": "il y a 9 h"
+        "title": "Une mosaïque de l'étang Koi fabriquée à partir de 10 livres de déchets d'imprimante 3D",
+        "titleOriginal": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+        "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+        "source": "instructables.com",
+        "score": 19,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=48987831",
+        "date": "il y a 1 h"
       }
     ]
   },
