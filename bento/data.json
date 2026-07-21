@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-21T10:36:34.454Z",
+  "updatedAt": "2026-07-21T12:20:42.831Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 21,
-      "code": 1,
-      "wind": 15,
-      "humidity": 33
+      "temp": 25,
+      "feelsLike": 23,
+      "code": 0,
+      "wind": 18,
+      "humidity": 30
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "JE ME PROSTITUAIS POUR ACHETER MA CONSOMMATION DE COCA*NE",
+        "title": "LES EFFETS DÉSASTREUX DE LA COCA*NE SUR SA PERSONNALITÉ",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "RvFFTuf4yH0",
-        "thumbnail": "https://i.ytimg.com/vi/RvFFTuf4yH0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RvFFTuf4yH0",
-        "publishedAt": "2026-07-21T10:15:31+00:00"
+        "videoId": "avQeRhDDzGU",
+        "thumbnail": "https://i.ytimg.com/vi/avQeRhDDzGU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=avQeRhDDzGU",
+        "publishedAt": "2026-07-21T11:00:00+00:00"
       },
       {
         "title": "Apple porte plainte contre OpenAI | La bataille du device commence !",
@@ -178,40 +178,40 @@
         "titleOriginal": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
         "url": "https://qwen.ai/blog?id=qwen-image-3.0",
         "source": "qwen.ai",
-        "score": 102,
-        "comments": 56,
+        "score": 202,
+        "comments": 98,
         "hnUrl": "https://news.ycombinator.com/item?id=48989701",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "La pénurie croissante de calcul",
+        "titleOriginal": "The Growing Compute Shortage",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/2026/06/growing-compute-shortage",
+        "source": "apollo.com",
+        "score": 47,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=48937252",
+        "date": "il y a 4 j"
       },
       {
         "title": "Incrémentiel – Une bibliothèque pour les calculs incrémentiels",
         "titleOriginal": "Incremental – A library for incremental computations",
         "url": "https://github.com/janestreet/incremental",
         "source": "github.com",
-        "score": 213,
-        "comments": 37,
+        "score": 249,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=48987822",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Qui a peur des mannequins chinois ?",
         "titleOriginal": "Who's afraid of Chinese models?",
         "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
         "source": "stratechery.com",
-        "score": 666,
-        "comments": 470,
+        "score": 721,
+        "comments": 528,
         "hnUrl": "https://news.ycombinator.com/item?id=48977128",
-        "date": "il y a 23 h"
-      },
-      {
-        "title": "Arduino lance des modules Plug-and-Play pour les projets de capteurs à longue portée",
-        "titleOriginal": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-        "url": "https://www.allaboutcircuits.com/news/arduino-launches-plug-and-play-modules-for-long-range-sensor-projects/",
-        "source": "allaboutcircuits.com",
-        "score": 19,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=48954668",
-        "date": "il y a 3 j"
+        "date": "hier"
       }
     ]
   },
