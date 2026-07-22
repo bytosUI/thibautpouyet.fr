@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-22T15:28:14.343Z",
+  "updatedAt": "2026-07-22T16:55:38.453Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 22,
+      "temp": 24,
+      "feelsLike": 21,
       "code": 3,
       "wind": 17,
-      "humidity": 38
+      "humidity": 40
     },
     "forecast": [
       {
@@ -32,23 +32,15 @@
         "date": "2026-07-25",
         "code": 3,
         "tmax": 31,
-        "tmin": 15
+        "tmin": 16
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 296,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE “BOLLORÉ DE GAUCHE” VA-T-IL QUITTER LA FRANCE SI L’EXTRÊME DROITE EST ÉLUE EN 2027 ?",
+        "title": "MATTHIEU PIGASSE AFFIRME QU’ON PEUT RÉGLER LA DETTE FACILEMENT ET VOILÀ POURQUOI !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "PNmadmceOwg",
-        "thumbnail": "https://i.ytimg.com/vi/PNmadmceOwg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PNmadmceOwg",
-        "publishedAt": "2026-07-22T15:00:34+00:00"
+        "videoId": "wUsPwJtj-Dc",
+        "thumbnail": "https://i.ytimg.com/vi/wUsPwJtj-Dc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wUsPwJtj-Dc",
+        "publishedAt": "2026-07-22T16:00:34+00:00"
       },
       {
         "title": "Mcfly Core",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Afficher HN : Bento - Un PowerPoint entier dans un fichier HTML (modifier+afficher+données+collab)",
+        "titleOriginal": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "source": "bento.page",
+        "score": 160,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49008211",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Show HN : HN Hall of Fame – parcourez 3 100 liens légendaires de Hacker News",
+        "titleOriginal": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
+        "url": "https://www.orangecrumbs.com/hall/",
+        "source": "orangecrumbs.com",
+        "score": 61,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49008406",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Faire de ",
+        "titleOriginal": "Making",
+        "url": "https://beej.us/blog/data/ai-making/",
+        "source": "beej.us",
+        "score": 56,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49008440",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Le guide de survie Postgres de la startup",
         "titleOriginal": "The startup's Postgres survival guide",
         "url": "https://hatchet.run/blog/postgres-survival-guide",
         "source": "hatchet.run",
-        "score": 32,
-        "comments": 5,
+        "score": 124,
+        "comments": 53,
         "hnUrl": "https://news.ycombinator.com/item?id=49005787",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "OpenAI et Hugging Face abordent l'incident de sécurité lors de l'évaluation du modèle",
-        "titleOriginal": "OpenAI and Hugging Face address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "source": "openai.com",
-        "score": 1436,
-        "comments": 974,
-        "hnUrl": "https://news.ycombinator.com/item?id=48997548",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "10 REM\"_(C2SLFF4",
-        "titleOriginal": "10 REM\"_(C2SLFF4",
-        "url": "https://beej.us/blog/data/mystery-comment/",
-        "source": "beej.us",
-        "score": 77,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49005329",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Introduction à la vérification formelle avec Lean Partie 1",
-        "titleOriginal": "Introduction to Formal Verification with Lean Part 1",
-        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
-        "source": "hashcloak.com",
-        "score": 159,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=48969200",
-        "date": "il y a 2 j"
+        "date": "il y a 4 h"
       }
     ]
   },
