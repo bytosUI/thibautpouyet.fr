@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-22T00:54:38.647Z",
+  "updatedAt": "2026-07-22T04:13:14.033Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 13,
+      "feelsLike": 12,
       "code": 0,
-      "wind": 11,
-      "humidity": 62
+      "wind": 8,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-07-24",
         "code": 3,
-        "tmax": 28,
-        "tmin": 13
+        "tmax": 29,
+        "tmin": 14
       },
       {
         "date": "2026-07-25",
         "code": 3,
-        "tmax": 32,
+        "tmax": 31,
         "tmin": 15
       }
     ]
@@ -178,19 +178,29 @@
         "titleOriginal": "OpenAI and Hugging Face address security incident during model evaluation",
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "source": "openai.com",
-        "score": 651,
-        "comments": 433,
+        "score": 846,
+        "comments": 592,
         "hnUrl": "https://news.ycombinator.com/item?id=48997548",
-        "date": "il y a 4 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Kimi K3 est compétitif avec Fable ; Kimi K3 et Fable Is SoTA",
         "titleOriginal": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
         "url": "https://fireworks.ai/blog/kimik3-fable",
         "source": "fireworks.ai",
-        "score": 236,
-        "comments": 122,
+        "score": 404,
+        "comments": 244,
         "hnUrl": "https://news.ycombinator.com/item?id=48999291",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "LG va interdire les procurations résidentielles des applications de télévision intelligente",
+        "titleOriginal": "LG to ban residential proxies from smart TV apps",
+        "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+        "source": "krebsonsecurity.com",
+        "score": 73,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49000864",
         "date": "il y a 2 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "FreeInk: Open ecosystem for e-readers",
         "url": "https://freeink.org/",
         "source": "freeink.org",
-        "score": 382,
-        "comments": 92,
+        "score": 453,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=48996318",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Une digestion du contre-exemple de conjecture jacobienne",
-        "titleOriginal": "A digestion of the Jacobian conjecture counterexample",
-        "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-        "source": "terrytao.wordpress.com",
-        "score": 142,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=48998362",
-        "date": "il y a 3 h"
+        "date": "il y a 9 h"
       }
     ]
   },
