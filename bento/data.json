@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-22T16:55:38.453Z",
+  "updatedAt": "2026-07-22T18:05:17.412Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 21,
+      "temp": 23,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 17,
+      "wind": 15,
       "humidity": 40
     },
     "forecast": [
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Conversation ChatGPT de Terrence Tao sur le contre-exemple de conjecture jacobienne",
+        "titleOriginal": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "source": "chatgpt.com",
+        "score": 80,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49010345",
+        "date": "il y a 34 min"
+      },
+      {
         "title": "Afficher HN : Bento - Un PowerPoint entier dans un fichier HTML (modifier+afficher+données+collab)",
         "titleOriginal": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "url": "https://bento.page/slides/",
         "source": "bento.page",
-        "score": 160,
-        "comments": 37,
+        "score": 350,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=49008211",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Show HN : HN Hall of Fame – parcourez 3 100 liens légendaires de Hacker News",
-        "titleOriginal": "Show HN: HN Hall of Fame – browse 3,100 legendary Hacker News links",
-        "url": "https://www.orangecrumbs.com/hall/",
-        "source": "orangecrumbs.com",
-        "score": 61,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49008406",
-        "date": "il y a 1 h"
+        "title": "GigaToken : tokenisation du modèle linguistique 1000 fois plus rapide",
+        "titleOriginal": "GigaToken: ~1000x faster Language model tokenization",
+        "url": "https://github.com/marcelroed/gigatoken/",
+        "source": "github.com",
+        "score": 38,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49010167",
+        "date": "il y a 44 min"
       },
       {
         "title": "Faire de ",
         "titleOriginal": "Making",
         "url": "https://beej.us/blog/data/ai-making/",
         "source": "beej.us",
-        "score": 56,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49008440",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Le guide de survie Postgres de la startup",
-        "titleOriginal": "The startup's Postgres survival guide",
-        "url": "https://hatchet.run/blog/postgres-survival-guide",
-        "source": "hatchet.run",
         "score": 124,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=49005787",
-        "date": "il y a 4 h"
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=49008440",
+        "date": "il y a 2 h"
       }
     ]
   },
