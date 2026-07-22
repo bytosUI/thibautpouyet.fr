@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-22T18:05:17.412Z",
+  "updatedAt": "2026-07-22T19:51:13.358Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 20,
+      "temp": 21,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 15,
-      "humidity": 40
+      "wind": 13,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-24",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 14
       },
       {
@@ -178,19 +178,9 @@
         "titleOriginal": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "source": "chatgpt.com",
-        "score": 80,
-        "comments": 22,
+        "score": 289,
+        "comments": 136,
         "hnUrl": "https://news.ycombinator.com/item?id=49010345",
-        "date": "il y a 34 min"
-      },
-      {
-        "title": "Afficher HN : Bento - Un PowerPoint entier dans un fichier HTML (modifier+afficher+données+collab)",
-        "titleOriginal": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-        "url": "https://bento.page/slides/",
-        "source": "bento.page",
-        "score": 350,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=49008211",
         "date": "il y a 2 h"
       },
       {
@@ -198,19 +188,29 @@
         "titleOriginal": "GigaToken: ~1000x faster Language model tokenization",
         "url": "https://github.com/marcelroed/gigatoken/",
         "source": "github.com",
-        "score": 38,
-        "comments": 2,
+        "score": 165,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49010167",
-        "date": "il y a 44 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Faire de ",
-        "titleOriginal": "Making",
-        "url": "https://beej.us/blog/data/ai-making/",
-        "source": "beej.us",
-        "score": 124,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49008440",
+        "title": "Afficher HN : Bento - Un PowerPoint entier dans un fichier HTML (modifier+afficher+données+collab)",
+        "titleOriginal": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+        "url": "https://bento.page/slides/",
+        "source": "bento.page",
+        "score": 463,
+        "comments": 101,
+        "hnUrl": "https://news.ycombinator.com/item?id=49008211",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Est-ce que AI Labs Pelicanmaxxing ?",
+        "titleOriginal": "Are AI Labs Pelicanmaxxing?",
+        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+        "source": "dylancastillo.co",
+        "score": 133,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=49010129",
         "date": "il y a 2 h"
       }
     ]
