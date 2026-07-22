@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-22T09:55:57.169Z",
+  "updatedAt": "2026-07-22T11:44:47.210Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
-      "code": 0,
-      "wind": 13,
-      "humidity": 47
+      "temp": 23,
+      "feelsLike": 23,
+      "code": 1,
+      "wind": 15,
+      "humidity": 43
     },
     "forecast": [
       {
         "date": "2026-07-22",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 13
       },
       {
         "date": "2026-07-23",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 13
       },
       {
         "date": "2026-07-24",
         "code": 3,
         "tmax": 29,
-        "tmin": 14
+        "tmin": 13
       },
       {
         "date": "2026-07-25",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "MONTÉE DE L’EXTRÊME DROITE, LFI… MATTHIEU PIGASSE ALERTE SUR L’AVENIR DE LA FRANCE",
+        "title": "L’AVIS DU \"BOLLORÉ DE GAUCHE” SUR JEAN-LUC MÉLENCHON ET LFI",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "fIhP2KZZxLo",
-        "thumbnail": "https://i.ytimg.com/vi/fIhP2KZZxLo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fIhP2KZZxLo",
-        "publishedAt": "2026-07-22T09:00:06+00:00"
+        "videoId": "O40CXWbnzPc",
+        "thumbnail": "https://i.ytimg.com/vi/O40CXWbnzPc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O40CXWbnzPc",
+        "publishedAt": "2026-07-22T10:00:39+00:00"
       },
       {
         "title": "Le contenu généré par IA, ça se voit toujours ?",
@@ -178,38 +178,38 @@
         "titleOriginal": "OpenAI and Hugging Face address security incident during model evaluation",
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "source": "openai.com",
-        "score": 1159,
-        "comments": 801,
+        "score": 1253,
+        "comments": 858,
         "hnUrl": "https://news.ycombinator.com/item?id=48997548",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Kimi K3 est compétitif avec Fable ; Kimi K3 et Fable Is SoTA",
         "titleOriginal": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
         "url": "https://fireworks.ai/blog/kimik3-fable",
         "source": "fireworks.ai",
-        "score": 626,
-        "comments": 344,
+        "score": 692,
+        "comments": 368,
         "hnUrl": "https://news.ycombinator.com/item?id=48999291",
-        "date": "il y a 11 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "Code source original de l'ordinateur de guidage Apollo 11 pour les modules de commande et lunaires",
-        "titleOriginal": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-        "url": "https://github.com/chrislgarry/Apollo-11",
-        "source": "github.com",
-        "score": 78,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49002166",
-        "date": "il y a 4 h"
+        "title": "Introduction à la vérification formelle avec Lean Partie 1",
+        "titleOriginal": "Introduction to Formal Verification with Lean Part 1",
+        "url": "https://hashcloak.com/blog/tutorial-introduction-to-formal-verification-with-lean-(part-1)",
+        "source": "hashcloak.com",
+        "score": 56,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=48969200",
+        "date": "il y a 2 j"
       },
       {
         "title": "Intel commence à expédier du silicium EUV à haute teneur en azote",
         "titleOriginal": "Intel Starts Shipping High-NA EUV Silicon",
         "url": "https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv",
         "source": "morethanmoore.substack.com",
-        "score": 67,
-        "comments": 16,
+        "score": 113,
+        "comments": 40,
         "hnUrl": "https://news.ycombinator.com/item?id=48961698",
         "date": "il y a 3 j"
       }
