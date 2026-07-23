@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-23T15:51:08.031Z",
+  "updatedAt": "2026-07-23T17:14:17.292Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 25,
-      "feelsLike": 23,
-      "code": 1,
-      "wind": 14,
-      "humidity": 35
+      "feelsLike": 22,
+      "code": 2,
+      "wind": 17,
+      "humidity": 37
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-24",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 14
       },
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 6304,
+        "viewers": 6562,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "C9tM3hxbfyk",
+        "thumbnail": "https://i.ytimg.com/vi/C9tM3hxbfyk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C9tM3hxbfyk",
+        "publishedAt": "2026-07-23T16:43:59+00:00"
+      },
+      {
         "title": "UNPOPUNIAR OPINIGNON 3 : Bigflo hait les siestes et les comédies musicales",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -67,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/YUwayyNWy1c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YUwayyNWy1c",
         "publishedAt": "2026-07-23T15:22:33+00:00"
-      },
-      {
-        "title": "IL EST MILLIONNAIRE MAIS N'A PAS DE VOITURE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "IzC3bNCnZbE",
-        "thumbnail": "https://i.ytimg.com/vi/IzC3bNCnZbE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IzC3bNCnZbE",
-        "publishedAt": "2026-07-23T15:00:15+00:00"
       },
       {
         "title": "Les Mauriciens, vraiment cool ?",
@@ -182,23 +182,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les fondateurs de startups exhortent Trump à ne pas fermer l'IA chinoise à poids ouvert",
-        "titleOriginal": "Startup founders urge Trump not to shut off Chinese open weight AI",
-        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-        "source": "politico.com",
-        "score": 102,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=49023016",
-        "date": "il y a 32 min"
-      },
-      {
         "title": "Écrire à la main est bon pour le cerveau",
         "titleOriginal": "Writing by hand is good for your brain",
         "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
         "source": "nealstephenson.substack.com",
-        "score": 140,
-        "comments": 40,
+        "score": 355,
+        "comments": 148,
         "hnUrl": "https://news.ycombinator.com/item?id=49022152",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Rendu logiciel en 500 lignes de C++ nu",
+        "titleOriginal": "Software rendering in 500 lines of bare C++",
+        "url": "https://haqr.eu/tinyrenderer/",
+        "source": "haqr.eu",
+        "score": 114,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49022038",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les fondateurs de startups exhortent Trump à ne pas fermer l'IA chinoise à poids ouvert",
+        "titleOriginal": "Startup founders urge Trump not to shut off Chinese open weight AI",
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "source": "politico.com",
+        "score": 278,
+        "comments": 278,
+        "hnUrl": "https://news.ycombinator.com/item?id=49023016",
         "date": "il y a 1 h"
       },
       {
@@ -206,20 +216,10 @@
         "titleOriginal": "Astronomers may have found the first exomoon",
         "url": "https://www.eso.org/public/news/eso2610/",
         "source": "eso.org",
-        "score": 97,
-        "comments": 39,
+        "score": 126,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=49021783",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Rendu logiciel en 500 lignes de C++ nu",
-        "titleOriginal": "Software rendering in 500 lines of bare C++",
-        "url": "https://haqr.eu/tinyrenderer/",
-        "source": "haqr.eu",
-        "score": 57,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49022038",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       }
     ]
   },
