@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-23T01:01:47.909Z",
+  "updatedAt": "2026-07-23T04:47:16.050Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 1,
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 0,
       "wind": 8,
-      "humidity": 72
+      "humidity": 84
     },
     "forecast": [
       {
@@ -30,23 +30,14 @@
       },
       {
         "date": "2026-07-26",
-        "code": 3,
-        "tmax": 26,
+        "code": 61,
+        "tmax": 27,
         "tmin": 18
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 85,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -87,15 +79,6 @@
         "publishedAt": "2026-07-22T07:39:41+00:00"
       },
       {
-        "title": "Qui a bu le Ciao Energy goût vomi ?",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "CXJJC1nJfxU",
-        "thumbnail": "https://i.ytimg.com/vi/CXJJC1nJfxU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CXJJC1nJfxU",
-        "publishedAt": "2026-07-22T05:11:16+00:00"
-      },
-      {
         "title": "Grok 4.5 trois fois moins cher | Apple vs OpenAI | La Chine rattrape SpaceX",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -103,24 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Wyt_ttBPhgo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Wyt_ttBPhgo",
         "publishedAt": "2026-07-20T17:00:35+00:00"
-      },
-      {
-        "title": "Mon métier est en train de disparaître sous mes yeux",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "sq-iSYUfILg",
-        "thumbnail": "https://i.ytimg.com/vi/sq-iSYUfILg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sq-iSYUfILg",
-        "publishedAt": "2026-07-20T17:00:13+00:00"
-      },
-      {
-        "title": "ON COMMENCE LA TRANSFORMATION DU JARDIN ! Ft.@MARVINAtmoss",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "k_NfNR_djKs",
-        "thumbnail": "https://i.ytimg.com/vi/k_NfNR_djKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=k_NfNR_djKs",
-        "publishedAt": "2026-07-19T10:54:49+00:00"
       },
       {
         "title": "Si j’oublie quelque chose, je suis foutu. #24",
@@ -182,44 +147,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "git's –end-of-options Drapeau",
+        "titleOriginal": "git's –end-of-options Flag",
+        "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
+        "source": "nesbitt.io",
+        "score": 40,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=48991882",
+        "date": "hier"
+      },
+      {
+        "title": "Conversation ChatGPT de Terence Tao sur le contre-exemple de conjecture jacobienne",
+        "titleOriginal": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+        "source": "chatgpt.com",
+        "score": 706,
+        "comments": 426,
+        "hnUrl": "https://news.ycombinator.com/item?id=49010345",
+        "date": "il y a 11 h"
+      },
+      {
         "title": "Les livres de non-fiction de qualité sont l'antithèse de l'IA slop",
         "titleOriginal": "Quality non-fiction books are the antithesis of AI slop",
         "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
         "source": "resobscura.substack.com",
-        "score": 122,
-        "comments": 68,
+        "score": 236,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=49007247",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Le mystère de la famille Médicis peut être résolu après plus de 400 ans",
-        "titleOriginal": "Medici family mystery may be solved after more than 400 years",
-        "url": "https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria",
-        "source": "cnn.com",
-        "score": 70,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49014007",
-        "date": "il y a 3 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "GigaToken : tokenisation du modèle linguistique 1000 fois plus rapide",
         "titleOriginal": "GigaToken: ~1000x faster Language model tokenization",
         "url": "https://github.com/marcelroed/gigatoken/",
         "source": "github.com",
-        "score": 344,
-        "comments": 68,
+        "score": 414,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=49010167",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Afficher HN : Bento - Un PowerPoint entier dans un fichier HTML (modifier+afficher+données+collab)",
-        "titleOriginal": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-        "url": "https://bento.page/slides/",
-        "source": "bento.page",
-        "score": 631,
-        "comments": 147,
-        "hnUrl": "https://news.ycombinator.com/item?id=49008211",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
       }
     ]
   },
