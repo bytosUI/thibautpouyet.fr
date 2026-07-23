@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-23T09:59:50.205Z",
+  "updatedAt": "2026-07-23T11:54:43.802Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
-      "code": 1,
-      "wind": 13,
-      "humidity": 45
+      "temp": 22,
+      "feelsLike": 21,
+      "code": 2,
+      "wind": 16,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-24",
         "code": 3,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 14
       },
       {
@@ -37,20 +37,37 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Devil May Cry 5",
+        "viewers": 129,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "IL A ANNONCÉ AU PREMIER MINISTRE GREC QUE SON PAYS ÉTAIT EN FAILLITE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "pG8usx-iLgo",
+        "thumbnail": "https://i.ytimg.com/vi/pG8usx-iLgo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pG8usx-iLgo",
+        "publishedAt": "2026-07-23T11:00:03+00:00"
+      },
       {
         "title": "Les Mauriciens, vraiment cool ?",
         "channel": "Darons du Biz",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/UQOyXSEy7a0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UQOyXSEy7a0",
         "publishedAt": "2026-07-23T09:46:32+00:00"
-      },
-      {
-        "title": "IL PASSE DE PUNK REBELLE À TRAVAILLER À BERCY",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "JAYhAMZKJvE",
-        "thumbnail": "https://i.ytimg.com/vi/JAYhAMZKJvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JAYhAMZKJvE",
-        "publishedAt": "2026-07-23T09:00:25+00:00"
       },
       {
         "title": "Mcfly Core",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le mode Code permet une réduction des coûts de 99,2 % dans nos systèmes",
+        "titleOriginal": "Code mode yields a 99.2% cost reduction in our systems",
+        "url": "https://www.agent-swarm.dev/blog/code-mode-token-savings",
+        "source": "agent-swarm.dev",
+        "score": 47,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49019301",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Escape IntelliJ : LSP Scala et Kotlin sur Emacs Eglot",
         "titleOriginal": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
         "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
         "source": "jointhefreeworld.org",
-        "score": 63,
-        "comments": 21,
+        "score": 87,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=48990219",
-        "date": "hier"
+        "date": "il y a 2 j"
       },
       {
         "title": "Conversation ChatGPT de Terence Tao sur le contre-exemple de conjecture jacobienne",
         "titleOriginal": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
         "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
         "source": "chatgpt.com",
-        "score": 877,
-        "comments": 510,
+        "score": 931,
+        "comments": 537,
         "hnUrl": "https://news.ycombinator.com/item?id=49010345",
-        "date": "il y a 16 h"
+        "date": "il y a 18 h"
       },
       {
         "title": "Cruller : Bun's Zig Runtime, suite sur Zig 0.16",
         "titleOriginal": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
         "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
         "source": "ziggit.dev",
-        "score": 53,
-        "comments": 20,
+        "score": 73,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=49017344",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "git's –end-of-options Drapeau",
-        "titleOriginal": "git's –end-of-options Flag",
-        "url": "https://nesbitt.io/2026/07/21/end-of-options.html",
-        "source": "nesbitt.io",
-        "score": 147,
-        "comments": 72,
-        "hnUrl": "https://news.ycombinator.com/item?id=48991882",
-        "date": "hier"
+        "date": "il y a 6 h"
       }
     ]
   },
