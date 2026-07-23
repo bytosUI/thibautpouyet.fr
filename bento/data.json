@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-23T21:33:59.803Z",
+  "updatedAt": "2026-07-23T22:51:11.325Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 0,
-      "wind": 10,
-      "humidity": 55
+      "wind": 8,
+      "humidity": 64
     },
     "forecast": [
-      {
-        "date": "2026-07-23",
-        "code": 3,
-        "tmax": 25,
-        "tmin": 13
-      },
       {
         "date": "2026-07-24",
         "code": 3,
@@ -33,6 +27,12 @@
         "code": 61,
         "tmax": 24,
         "tmin": 17
+      },
+      {
+        "date": "2026-07-27",
+        "code": 2,
+        "tmax": 27,
+        "tmin": 16
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 135,
+        "viewers": 123,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Écrire à la main est bon pour le cerveau",
-        "titleOriginal": "Writing by hand is good for your brain",
-        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-        "source": "nealstephenson.substack.com",
-        "score": 789,
-        "comments": 397,
-        "hnUrl": "https://news.ycombinator.com/item?id=49022152",
-        "date": "il y a 7 h"
-      },
-      {
         "title": "Un couple paie > 800 000 $ pour une thérapie d'édition de gènes pour leur fille. Elle est décédée.",
         "titleOriginal": "Couple pay >$800k for a gene-editing therapy for their daughter. She died.",
         "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
         "source": "science.org",
-        "score": 35,
-        "comments": 3,
+        "score": 170,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49027892",
-        "date": "il y a 41 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Écrire à la main est bon pour le cerveau",
+        "titleOriginal": "Writing by hand is good for your brain",
+        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "source": "nealstephenson.substack.com",
+        "score": 851,
+        "comments": 428,
+        "hnUrl": "https://news.ycombinator.com/item?id=49022152",
+        "date": "il y a 8 h"
       },
       {
         "title": "Afficher HN : Echo – Résultats de niveau Fable à 1/3 du coût en utilisant des modèles à poids ouvert",
         "titleOriginal": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "source": "news.ycombinator.com",
-        "score": 120,
-        "comments": 59,
+        "score": 162,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=49026810",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Qu'est-il arrivé à TheNumbers.com",
-        "titleOriginal": "What happened to TheNumbers.com",
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "source": "stephenfollows.com",
-        "score": 214,
-        "comments": 95,
-        "hnUrl": "https://news.ycombinator.com/item?id=49024691",
-        "date": "il y a 4 h"
+        "title": "Namecheap a donné mon compte à un tiers non vérifié juste parce qu'il l'a demandé",
+        "titleOriginal": "Namecheap Gave My Account to an Unverified Third Party Just Because They Asked",
+        "url": "https://news.ycombinator.com/item?id=49028037",
+        "source": "news.ycombinator.com",
+        "score": 226,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=49028037",
+        "date": "il y a 1 h"
       }
     ]
   },
