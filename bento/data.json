@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-23T13:43:39.838Z",
+  "updatedAt": "2026-07-23T15:51:08.031Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
-      "code": 3,
-      "wind": 13,
-      "humidity": 37
+      "temp": 25,
+      "feelsLike": 23,
+      "code": 1,
+      "wind": 14,
+      "humidity": 35
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-07-25",
         "code": 3,
-        "tmax": 30,
+        "tmax": 31,
         "tmin": 16
       },
       {
         "date": "2026-07-26",
-        "code": 3,
-        "tmax": 25,
+        "code": 61,
+        "tmax": 24,
         "tmin": 17
       }
     ]
@@ -42,17 +42,9 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 6796,
+        "viewers": 6304,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Devil May Cry 5",
-        "viewers": 260,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
@@ -60,6 +52,7 @@
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -67,13 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "AVANT DE GÉRER LA DETTE DE LA FRANCE, IL VOLAIT DES MOBYLETTES",
+        "title": "UNPOPUNIAR OPINIGNON 3 : Bigflo hait les siestes et les comédies musicales",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "YUwayyNWy1c",
+        "thumbnail": "https://i.ytimg.com/vi/YUwayyNWy1c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YUwayyNWy1c",
+        "publishedAt": "2026-07-23T15:22:33+00:00"
+      },
+      {
+        "title": "IL EST MILLIONNAIRE MAIS N'A PAS DE VOITURE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "I9XpPYxnJ5Q",
-        "thumbnail": "https://i.ytimg.com/vi/I9XpPYxnJ5Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I9XpPYxnJ5Q",
-        "publishedAt": "2026-07-23T13:00:20+00:00"
+        "videoId": "IzC3bNCnZbE",
+        "thumbnail": "https://i.ytimg.com/vi/IzC3bNCnZbE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IzC3bNCnZbE",
+        "publishedAt": "2026-07-23T15:00:15+00:00"
       },
       {
         "title": "Les Mauriciens, vraiment cool ?",
@@ -83,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/UQOyXSEy7a0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UQOyXSEy7a0",
         "publishedAt": "2026-07-23T09:46:32+00:00"
-      },
-      {
-        "title": "Mcfly Core",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "Jjm-uK_86bw",
-        "thumbnail": "https://i.ytimg.com/vi/Jjm-uK_86bw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Jjm-uK_86bw",
-        "publishedAt": "2026-07-22T14:12:01+00:00"
       },
       {
         "title": "Qui a bu le Ciao Energy goût vomi ?",
@@ -189,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La consommation de trésorerie d'Alphabet tire la sonnette d'alarme pour Big Tech alors que les dépenses en IA augmentent",
-        "titleOriginal": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
-        "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
-        "source": "reuters.com",
-        "score": 79,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=49021006",
-        "date": "il y a 33 min"
+        "title": "Les fondateurs de startups exhortent Trump à ne pas fermer l'IA chinoise à poids ouvert",
+        "titleOriginal": "Startup founders urge Trump not to shut off Chinese open weight AI",
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "source": "politico.com",
+        "score": 102,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=49023016",
+        "date": "il y a 32 min"
       },
       {
-        "title": "OpenAI et Anthropic s'unissent contre les risques d'IA à poids ouvert pour leur résultat net",
-        "titleOriginal": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-        "source": "axios.com",
-        "score": 61,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=49020868",
-        "date": "il y a 43 min"
+        "title": "Écrire à la main est bon pour le cerveau",
+        "titleOriginal": "Writing by hand is good for your brain",
+        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "source": "nealstephenson.substack.com",
+        "score": 140,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=49022152",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Recherche d'erreurs de pangramme",
-        "titleOriginal": "Scanning for Pangram Errors",
-        "url": "https://veryfineprint.substack.com/p/scanning-for-pangram-errors",
-        "source": "veryfineprint.substack.com",
-        "score": 20,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=48945139",
-        "date": "il y a 6 j"
+        "title": "Les astronomes ont peut-être trouvé la première exomoon",
+        "titleOriginal": "Astronomers may have found the first exomoon",
+        "url": "https://www.eso.org/public/news/eso2610/",
+        "source": "eso.org",
+        "score": 97,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49021783",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Conversation ChatGPT de Terence Tao sur le contre-exemple de conjecture jacobienne",
-        "titleOriginal": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-        "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-        "source": "chatgpt.com",
-        "score": 990,
-        "comments": 565,
-        "hnUrl": "https://news.ycombinator.com/item?id=49010345",
-        "date": "il y a 20 h"
+        "title": "Rendu logiciel en 500 lignes de C++ nu",
+        "titleOriginal": "Software rendering in 500 lines of bare C++",
+        "url": "https://haqr.eu/tinyrenderer/",
+        "source": "haqr.eu",
+        "score": 57,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49022038",
+        "date": "il y a 1 h"
       }
     ]
   },
