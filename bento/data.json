@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T12:16:05.914Z",
+  "updatedAt": "2026-07-24T14:19:12.090Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
+      "temp": 27,
       "feelsLike": 26,
       "code": 3,
-      "wind": 12,
-      "humidity": 31
+      "wind": 10,
+      "humidity": 28
     },
     "forecast": [
       {
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 1048,
+        "game": "Ludus Magnatus: Gladiator Manager Simulator",
+        "viewers": 5719,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL A LEVÉ 78 MILLIONS D'EUROS POUR SA BOÎTE !",
+        "title": "COMMENT LES APPLIS GRATUITES GAGNENT DE L'ARGENT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "KUjiENIAw4Q",
-        "thumbnail": "https://i.ytimg.com/vi/KUjiENIAw4Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KUjiENIAw4Q",
-        "publishedAt": "2026-07-24T12:00:08+00:00"
+        "videoId": "8d8syPW7r3g",
+        "thumbnail": "https://i.ytimg.com/vi/8d8syPW7r3g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8d8syPW7r3g",
+        "publishedAt": "2026-07-24T14:00:02+00:00"
       },
       {
         "title": "Le sourire des Français vs le sourire des Mauriciens !",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Ma caméra de sécurité a envoyé un jeton d'administration GitHub dans sa page de connexion",
+        "titleOriginal": "My security camera shipped a GitHub admin token in its login page",
+        "url": "https://hhh.hn/hanwha-github-token/",
+        "source": "hhh.hn",
+        "score": 89,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49034292",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Flux 3 X Mimic : la prochaine génération de modèles d'action vidéo",
         "titleOriginal": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
         "url": "https://bfl.ai/blog/flux-3-mimic",
         "source": "bfl.ai",
-        "score": 128,
-        "comments": 11,
+        "score": 207,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49033127",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Flux 3",
-        "titleOriginal": "Flux 3",
-        "url": "https://bfl.ai/blog/flux-3",
-        "source": "bfl.ai",
-        "score": 373,
-        "comments": 94,
-        "hnUrl": "https://news.ycombinator.com/item?id=49031796",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Le cas des MUD à l'époque moderne",
-        "titleOriginal": "The case for MUDs in modern times",
-        "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
-        "source": "andrewzigler.com",
-        "score": 16,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49034217",
-        "date": "il y a 29 min"
+        "date": "il y a 4 h"
       },
       {
         "title": "Il devient de plus en plus difficile de se concentrer chaque jour",
         "titleOriginal": "It's getting harder to focus every day",
         "url": "https://glyphack.com/attention/",
         "source": "glyphack.com",
-        "score": 171,
-        "comments": 92,
+        "score": 346,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=49032660",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "La première fusée développée par le secteur privé en Inde atteint son orbite lors de son lancement spectaculaire",
+        "titleOriginal": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+        "source": "arstechnica.com",
+        "score": 72,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=48973835",
+        "date": "il y a 4 j"
       }
     ]
   },
