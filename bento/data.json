@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-23T23:55:13.476Z",
+  "updatedAt": "2026-07-24T02:08:43.420Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 15,
+      "temp": 15,
+      "feelsLike": 14,
       "code": 0,
-      "wind": 8,
-      "humidity": 66
+      "wind": 7,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-26",
         "code": 61,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 17
       },
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 90,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Écrire à la main est bon pour le cerveau",
-        "titleOriginal": "Writing by hand is good for your brain",
-        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-        "source": "nealstephenson.substack.com",
-        "score": 903,
-        "comments": 450,
-        "hnUrl": "https://news.ycombinator.com/item?id=49022152",
-        "date": "il y a 9 h"
-      },
-      {
         "title": "98.css",
         "titleOriginal": "98.css",
         "url": "https://jdan.github.io/98.css/#status-bar",
         "source": "jdan.github.io",
-        "score": 68,
-        "comments": 6,
+        "score": 230,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=49028927",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Écrire à la main est bon pour le cerveau",
+        "titleOriginal": "Writing by hand is good for your brain",
+        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "source": "nealstephenson.substack.com",
+        "score": 985,
+        "comments": 481,
+        "hnUrl": "https://news.ycombinator.com/item?id=49022152",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Le Visual 6502",
+        "titleOriginal": "The Visual 6502",
+        "url": "http://visual6502.org/JSSim/index.html",
+        "source": "visual6502.org",
+        "score": 44,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49029538",
+        "date": "il y a 2 h"
       },
       {
         "title": "Afficher HN : Echo – Résultats de niveau Fable à 1/3 du coût en utilisant des modèles à poids ouvert",
         "titleOriginal": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "source": "news.ycombinator.com",
-        "score": 184,
-        "comments": 90,
+        "score": 237,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=49026810",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Le moteur à poutre",
-        "titleOriginal": "The Beam Engine",
-        "url": "https://glinscott.github.io/beam-engine/",
-        "source": "glinscott.github.io",
-        "score": 105,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49007221",
-        "date": "hier"
+        "date": "il y a 6 h"
       }
     ]
   },
