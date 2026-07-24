@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T05:34:18.668Z",
+  "updatedAt": "2026-07-24T08:15:50.267Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
-      "code": 1,
-      "wind": 6,
-      "humidity": 81
+      "temp": 20,
+      "feelsLike": 19,
+      "code": 2,
+      "wind": 9,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -37,13 +37,35 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 433,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 333,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 147,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
-      "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -52,6 +74,51 @@
   "youtube": {
     "videos": [
       {
+        "title": "ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "C9tM3hxbfyk",
+        "thumbnail": "https://i.ytimg.com/vi/C9tM3hxbfyk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C9tM3hxbfyk",
+        "publishedAt": "2026-07-23T16:43:59+00:00"
+      },
+      {
+        "title": "UNPOPUNIAR OPINIGNON 3 : Bigflo hait les siestes et les comédies musicales",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "YUwayyNWy1c",
+        "thumbnail": "https://i.ytimg.com/vi/YUwayyNWy1c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YUwayyNWy1c",
+        "publishedAt": "2026-07-23T15:22:33+00:00"
+      },
+      {
+        "title": "Les Mauriciens, vraiment cool ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "UQOyXSEy7a0",
+        "thumbnail": "https://i.ytimg.com/vi/UQOyXSEy7a0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UQOyXSEy7a0",
+        "publishedAt": "2026-07-23T09:46:32+00:00"
+      },
+      {
+        "title": "Qui a bu le Ciao Energy goût vomi ?",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "CXJJC1nJfxU",
+        "thumbnail": "https://i.ytimg.com/vi/CXJJC1nJfxU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CXJJC1nJfxU",
+        "publishedAt": "2026-07-22T05:11:16+00:00"
+      },
+      {
+        "title": "Grok 4.5 trois fois moins cher | Apple vs OpenAI | La Chine rattrape SpaceX",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "Wyt_ttBPhgo",
+        "thumbnail": "https://i.ytimg.com/vi/Wyt_ttBPhgo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wyt_ttBPhgo",
+        "publishedAt": "2026-07-20T17:00:35+00:00"
+      },
+      {
         "title": "Mon métier est en train de disparaître sous mes yeux",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,6 +126,24 @@
         "thumbnail": "https://i.ytimg.com/vi/sq-iSYUfILg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sq-iSYUfILg",
         "publishedAt": "2026-07-20T17:00:13+00:00"
+      },
+      {
+        "title": "ON COMMENCE LA TRANSFORMATION DU JARDIN ! Ft.@MARVINAtmoss",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "k_NfNR_djKs",
+        "thumbnail": "https://i.ytimg.com/vi/k_NfNR_djKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k_NfNR_djKs",
+        "publishedAt": "2026-07-19T10:54:49+00:00"
+      },
+      {
+        "title": "Si j’oublie quelque chose, je suis foutu. #24",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "V8I6hg-4oJ8",
+        "thumbnail": "https://i.ytimg.com/vi/V8I6hg-4oJ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V8I6hg-4oJ8",
+        "publishedAt": "2026-07-12T15:17:39+00:00"
       },
       {
         "title": "60 jours pour construire une terrasse géante et un observatoire",
@@ -111,44 +196,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Flux 3",
+        "titleOriginal": "Flux 3",
+        "url": "https://bfl.ai/blog/flux-3",
+        "source": "bfl.ai",
+        "score": 155,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49031796",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "L'idiome PImpl et la std C++26 : type indirect",
+        "titleOriginal": "The PImpl idiom and the C++26 std:indirect type",
+        "url": "https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/",
+        "source": "mariusbancila.ro",
+        "score": 26,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49032095",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Écrire à la main est bon pour le cerveau",
         "titleOriginal": "Writing by hand is good for your brain",
         "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
         "source": "nealstephenson.substack.com",
-        "score": 1136,
-        "comments": 534,
+        "score": 1261,
+        "comments": 565,
         "hnUrl": "https://news.ycombinator.com/item?id=49022152",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Afficher HN : Echo – Résultats de niveau Fable à 1/3 du coût en utilisant des modèles à poids ouvert",
-        "titleOriginal": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-        "url": "https://news.ycombinator.com/item?id=49026810",
-        "source": "news.ycombinator.com",
-        "score": 301,
-        "comments": 148,
-        "hnUrl": "https://news.ycombinator.com/item?id=49026810",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Le moteur à poutre",
-        "titleOriginal": "The Beam Engine",
-        "url": "https://glinscott.github.io/beam-engine/",
-        "source": "glinscott.github.io",
-        "score": 243,
-        "comments": 66,
-        "hnUrl": "https://news.ycombinator.com/item?id=49007221",
-        "date": "hier"
+        "date": "il y a 17 h"
       },
       {
         "title": "Les fondateurs de startups exhortent le gouvernement américain à ne pas fermer l'IA chinoise à poids ouvert",
         "titleOriginal": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
         "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
         "source": "politico.com",
-        "score": 822,
-        "comments": 711,
+        "score": 895,
+        "comments": 749,
         "hnUrl": "https://news.ycombinator.com/item?id=49023016",
-        "date": "il y a 14 h"
+        "date": "il y a 16 h"
       }
     ]
   },
