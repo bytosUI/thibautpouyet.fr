@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T10:32:29.273Z",
+  "updatedAt": "2026-07-24T12:16:05.914Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
-      "code": 2,
-      "wind": 10,
-      "humidity": 40
+      "temp": 26,
+      "feelsLike": 26,
+      "code": 3,
+      "wind": 12,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -39,16 +39,16 @@
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 359,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "viewers": 1048,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ILS ONT FAIT FORTUNE AVEC DES APPLICATIONS MOBILES TRÈS SIMPLEMENT !",
+        "title": "IL A LEVÉ 78 MILLIONS D'EUROS POUR SA BOÎTE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "C9tM3hxbfyk",
-        "thumbnail": "https://i.ytimg.com/vi/C9tM3hxbfyk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C9tM3hxbfyk",
-        "publishedAt": "2026-07-24T09:00:06+00:00"
+        "videoId": "KUjiENIAw4Q",
+        "thumbnail": "https://i.ytimg.com/vi/KUjiENIAw4Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KUjiENIAw4Q",
+        "publishedAt": "2026-07-24T12:00:08+00:00"
       },
       {
         "title": "Le sourire des Français vs le sourire des Mauriciens !",
@@ -186,40 +186,40 @@
         "titleOriginal": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
         "url": "https://bfl.ai/blog/flux-3-mimic",
         "source": "bfl.ai",
-        "score": 46,
-        "comments": 4,
+        "score": 128,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49033127",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Flux 3",
         "titleOriginal": "Flux 3",
         "url": "https://bfl.ai/blog/flux-3",
         "source": "bfl.ai",
-        "score": 305,
-        "comments": 70,
+        "score": 373,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=49031796",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Rien ne fonctionne et tout le monde est euphorique",
-        "titleOriginal": "Nothing works and everyone is euphoric",
-        "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
-        "source": "ptrchm.com",
-        "score": 64,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=49033004",
-        "date": "il y a 1 h"
+        "title": "Le cas des MUD à l'époque moderne",
+        "titleOriginal": "The case for MUDs in modern times",
+        "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+        "source": "andrewzigler.com",
+        "score": 16,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49034217",
+        "date": "il y a 29 min"
       },
       {
         "title": "Il devient de plus en plus difficile de se concentrer chaque jour",
         "titleOriginal": "It's getting harder to focus every day",
         "url": "https://glyphack.com/attention/",
         "source": "glyphack.com",
-        "score": 39,
-        "comments": 17,
+        "score": 171,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=49032660",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
