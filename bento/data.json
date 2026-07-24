@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T17:24:21.253Z",
+  "updatedAt": "2026-07-24T18:55:21.587Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
+      "temp": 26,
       "feelsLike": 24,
-      "code": 3,
+      "code": 1,
       "wind": 12,
-      "humidity": 27
+      "humidity": 34
     },
     "forecast": [
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 5957,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -184,42 +176,42 @@
       {
         "title": "Claude Opus 5",
         "titleOriginal": "Claude Opus 5",
-        "url": "https://www.anthropic.com/claude-opus-5-system-card",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "anthropic.com",
-        "score": 223,
-        "comments": 105,
+        "score": 657,
+        "comments": 370,
         "hnUrl": "https://news.ycombinator.com/item?id=49038433",
-        "date": "il y a 26 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "À partir du JDK 27, les ingénieurs Oracle cesseront ainsi de maintenir le port macOS/x64",
-        "titleOriginal": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
-        "url": "https://openjdk.org/jeps/541",
-        "source": "openjdk.org",
-        "score": 41,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49038352",
-        "date": "il y a 31 min"
+        "title": "Nvidia, Microsoft, Meta mettent en garde contre la surréglementation des modèles à poids ouvert",
+        "titleOriginal": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+        "source": "cnbc.com",
+        "score": 117,
+        "comments": 98,
+        "hnUrl": "https://news.ycombinator.com/item?id=49035303",
+        "date": "il y a 5 h"
       },
       {
         "title": "Ma caméra de sécurité a envoyé un jeton d'administration GitHub dans sa page de connexion",
         "titleOriginal": "My security camera shipped a GitHub admin token in its login page",
         "url": "https://hhh.hn/hanwha-github-token/",
         "source": "hhh.hn",
-        "score": 337,
-        "comments": 129,
+        "score": 390,
+        "comments": 148,
         "hnUrl": "https://news.ycombinator.com/item?id=49034292",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "La première fusée développée par le secteur privé en Inde atteint son orbite lors de son lancement spectaculaire",
-        "titleOriginal": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "source": "arstechnica.com",
-        "score": 293,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=48973835",
-        "date": "il y a 4 j"
+        "title": "Je suis entré dans YC en le piratant",
+        "titleOriginal": "I got into YC by hacking it",
+        "url": "https://obaid.wtf/jotbook/2026/07/18/how-i-got-into-yc-by-hacking-it.html",
+        "source": "obaid.wtf",
+        "score": 25,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49039448",
+        "date": "il y a 51 min"
       }
     ]
   },
