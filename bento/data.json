@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-07-25T03:45:46.031Z",
+  "updatedAt": "2026-07-25T06:11:32.740Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
-      "feelsLike": 15,
-      "code": 1,
-      "wind": 3,
-      "humidity": 71
+      "feelsLike": 16,
+      "code": 0,
+      "wind": 4,
+      "humidity": 67
     },
     "forecast": [
       {
         "date": "2026-07-25",
         "code": 3,
         "tmax": 30,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-07-26",
-        "code": 3,
+        "code": 80,
         "tmax": 24,
         "tmin": 16
       },
@@ -59,15 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yjOF6WmpO0k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yjOF6WmpO0k",
         "publishedAt": "2026-07-24T16:00:24+00:00"
-      },
-      {
-        "title": "Le sourire des Français vs le sourire des Mauriciens !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "s7Y_E5OYo0k",
-        "thumbnail": "https://i.ytimg.com/vi/s7Y_E5OYo0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s7Y_E5OYo0k",
-        "publishedAt": "2026-07-24T08:07:10+00:00"
       },
       {
         "title": "UNPOPUNIAR OPINIGNON 3 : Bigflo hait les siestes et les comédies musicales",
@@ -178,40 +169,40 @@
         "titleOriginal": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "anthropic.com",
-        "score": 1376,
-        "comments": 745,
+        "score": 1442,
+        "comments": 791,
         "hnUrl": "https://news.ycombinator.com/item?id=49038433",
-        "date": "il y a 10 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "CG et exceptions dans Wasmtime",
+        "titleOriginal": "GC and Exceptions in Wasmtime",
+        "url": "https://bytecodealliance.org/articles/wasmtime-gc",
+        "source": "bytecodealliance.org",
+        "score": 34,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=48981665",
+        "date": "il y a 4 j"
       },
       {
         "title": "Postgres LISTEN/NOTIFY évolue réellement",
         "titleOriginal": "Postgres LISTEN/NOTIFY actually scales",
         "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
         "source": "dbos.dev",
-        "score": 235,
-        "comments": 42,
+        "score": 268,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=49040296",
-        "date": "il y a 8 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Les cachalots soufflent des bulles pour obtenir un sommeil réparateur et vertical",
-        "titleOriginal": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
-        "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
-        "source": "news.st-andrews.ac.uk",
-        "score": 50,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49042751",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "La première fusée développée par le secteur privé en Inde atteint son orbite lors de son premier lancement",
-        "titleOriginal": "India's first privately-developed rocket reaches orbit on debut launch",
-        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "source": "arstechnica.com",
-        "score": 529,
-        "comments": 150,
-        "hnUrl": "https://news.ycombinator.com/item?id=48973835",
-        "date": "il y a 5 j"
+        "title": "Opus 5 est actuellement n °1 du classement Artificial Analysis Intelligence",
+        "titleOriginal": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+        "url": "https://artificialanalysis.ai/models",
+        "source": "artificialanalysis.ai",
+        "score": 224,
+        "comments": 132,
+        "hnUrl": "https://news.ycombinator.com/item?id=49040741",
+        "date": "il y a 10 h"
       }
     ]
   },
