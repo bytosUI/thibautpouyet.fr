@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-25T06:11:32.740Z",
+  "updatedAt": "2026-07-25T08:28:07.931Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
-      "code": 0,
-      "wind": 4,
-      "humidity": 67
+      "temp": 22,
+      "feelsLike": 22,
+      "code": 2,
+      "wind": 5,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -18,8 +18,8 @@
       },
       {
         "date": "2026-07-26",
-        "code": 80,
-        "tmax": 24,
+        "code": 3,
+        "tmax": 25,
         "tmin": 16
       },
       {
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "CRÉER VOTRE APPLICATION EST POSSIBLE EN 15 MINUTES GRÂCE À L'IA",
+        "title": "« Les influenceurs ont la tête vide » : vrai ou faux ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "y8cY3-nvDUQ",
+        "thumbnail": "https://i.ytimg.com/vi/y8cY3-nvDUQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=y8cY3-nvDUQ",
+        "publishedAt": "2026-07-25T08:10:55+00:00"
+      },
+      {
+        "title": "CETTE APPLICATION PERMET D'AIDER LES PERSONNES NON-VOYANTES",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "yjOF6WmpO0k",
-        "thumbnail": "https://i.ytimg.com/vi/yjOF6WmpO0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yjOF6WmpO0k",
-        "publishedAt": "2026-07-24T16:00:24+00:00"
+        "videoId": "oM6Zq9zssew",
+        "thumbnail": "https://i.ytimg.com/vi/oM6Zq9zssew/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oM6Zq9zssew",
+        "publishedAt": "2026-07-25T08:00:38+00:00"
       },
       {
         "title": "UNPOPUNIAR OPINIGNON 3 : Bigflo hait les siestes et les comédies musicales",
@@ -165,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Android pourrait bientôt restreindre l'ADB sur l'appareil",
+        "titleOriginal": "Android May Soon Restrict On-Device ADB",
+        "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "source": "kitsumed.github.io",
+        "score": 83,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49045159",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Claude Opus 5",
         "titleOriginal": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "anthropic.com",
-        "score": 1442,
-        "comments": 791,
+        "score": 1517,
+        "comments": 850,
         "hnUrl": "https://news.ycombinator.com/item?id=49038433",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "CG et exceptions dans Wasmtime",
         "titleOriginal": "GC and Exceptions in Wasmtime",
         "url": "https://bytecodealliance.org/articles/wasmtime-gc",
         "source": "bytecodealliance.org",
-        "score": 34,
-        "comments": 0,
+        "score": 75,
+        "comments": 1,
         "hnUrl": "https://news.ycombinator.com/item?id=48981665",
         "date": "il y a 4 j"
       },
       {
-        "title": "Postgres LISTEN/NOTIFY évolue réellement",
-        "titleOriginal": "Postgres LISTEN/NOTIFY actually scales",
-        "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
-        "source": "dbos.dev",
-        "score": 268,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=49040296",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Opus 5 est actuellement n °1 du classement Artificial Analysis Intelligence",
-        "titleOriginal": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-        "url": "https://artificialanalysis.ai/models",
-        "source": "artificialanalysis.ai",
-        "score": 224,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=49040741",
-        "date": "il y a 10 h"
+        "title": "Hannah Fry remporte le prix Leelavati en 2026 pour la sensibilisation aux mathématiques",
+        "titleOriginal": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+        "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+        "source": "maths.cam.ac.uk",
+        "score": 145,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49043724",
+        "date": "il y a 6 h"
       }
     ]
   },
