@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-25T17:06:50.918Z",
+  "updatedAt": "2026-07-25T18:13:27.382Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 28,
+      "feelsLike": 27,
       "code": 0,
       "wind": 10,
-      "humidity": 32
+      "humidity": 31
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'éolienne est utilisée pour produire de l'engrais « ammoniac vert » zéro carbone",
-        "titleOriginal": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-        "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
-        "source": "energiesmedia.com",
-        "score": 45,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=49048819",
-        "date": "il y a 56 min"
-      },
-      {
         "title": "Boutons volés",
         "titleOriginal": "Stolen Buttons",
         "url": "https://anatolyzenkov.com/stolen-buttons",
         "source": "anatolyzenkov.com",
-        "score": 137,
-        "comments": 35,
+        "score": 230,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=48976262",
         "date": "il y a 5 j"
-      },
-      {
-        "title": "Android pourrait bientôt restreindre l'ADB sur l'appareil",
-        "titleOriginal": "Android May Soon Restrict On-Device ADB",
-        "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "source": "kitsumed.github.io",
-        "score": 677,
-        "comments": 299,
-        "hnUrl": "https://news.ycombinator.com/item?id=49045159",
-        "date": "il y a 10 h"
       },
       {
         "title": "L'IA à poids ouvert a son moment Kubernetes. Ne le gâchons pas",
         "titleOriginal": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
         "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
         "source": "tobi.knaup.me",
-        "score": 43,
-        "comments": 13,
+        "score": 110,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=49048034",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Android pourrait bientôt restreindre l'ADB sur l'appareil",
+        "titleOriginal": "Android May Soon Restrict On-Device ADB",
+        "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "source": "kitsumed.github.io",
+        "score": 713,
+        "comments": 318,
+        "hnUrl": "https://news.ycombinator.com/item?id=49045159",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Bitchat est maintenant sur Radicle",
+        "titleOriginal": "Bitchat Is Now on Radicle",
+        "url": "https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6",
+        "source": "radicle.network",
+        "score": 105,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=49047365",
+        "date": "il y a 4 h"
       }
     ]
   },
