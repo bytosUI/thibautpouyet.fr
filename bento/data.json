@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-24T22:56:38.498Z",
+  "updatedAt": "2026-07-25T00:01:50.379Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 19,
+      "feelsLike": 18,
       "code": 0,
-      "wind": 8,
-      "humidity": 62
+      "wind": 7,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 134,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "anthropic.com",
-        "score": 1155,
-        "comments": 625,
+        "score": 1213,
+        "comments": 661,
         "hnUrl": "https://news.ycombinator.com/item?id=49038433",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Postgres LISTEN/NOTIFY évolue réellement",
         "titleOriginal": "Postgres LISTEN/NOTIFY actually scales",
         "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
         "source": "dbos.dev",
-        "score": 147,
+        "score": 173,
         "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=49040296",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Ma caméra de sécurité a envoyé un jeton d'administration GitHub dans sa page de connexion",
-        "titleOriginal": "My security camera shipped a GitHub admin token in its login page",
-        "url": "https://hhh.hn/hanwha-github-token/",
-        "source": "hhh.hn",
-        "score": 476,
-        "comments": 165,
-        "hnUrl": "https://news.ycombinator.com/item?id=49034292",
-        "date": "il y a 11 h"
+        "title": "Flux en direct SpaceX Starship Flight 13 [vidéo]",
+        "titleOriginal": "SpaceX Starship Flight 13 livestream [video]",
+        "url": "https://www.spacex.com/launches/starship-flight-13",
+        "source": "spacex.com",
+        "score": 41,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=49042528",
+        "date": "il y a 1 h"
       },
       {
-        "title": "La première fusée développée par le secteur privé en Inde atteint son orbite lors de son premier lancement",
-        "titleOriginal": "India's first privately-developed rocket reaches orbit on debut launch",
-        "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
-        "source": "arstechnica.com",
-        "score": 447,
-        "comments": 131,
-        "hnUrl": "https://news.ycombinator.com/item?id=48973835",
-        "date": "il y a 4 j"
+        "title": "Opus 5 est actuellement n °1 du classement Artificial Analysis Intelligence",
+        "titleOriginal": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+        "url": "https://artificialanalysis.ai/models",
+        "source": "artificialanalysis.ai",
+        "score": 85,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49040741",
+        "date": "il y a 4 h"
       }
     ]
   },
