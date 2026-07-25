@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-25T19:41:03.204Z",
+  "updatedAt": "2026-07-25T20:42:46.201Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 26,
+      "temp": 24,
+      "feelsLike": 24,
       "code": 0,
-      "wind": 8,
-      "humidity": 39
+      "wind": 9,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 78,
+        "viewers": 118,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Afficher HN : Bribes.fyi – Savoir avant de partir. Nouvelle fonctionnalité ajoutée",
-        "titleOriginal": "Show HN: Bribes.fyi – Know before you go. New feature added",
-        "url": "https://bribes.fyi/before-you-go",
-        "source": "bribes.fyi",
-        "score": 44,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49050566",
-        "date": "il y a 34 min"
-      },
-      {
         "title": "Boutons volés",
         "titleOriginal": "Stolen Buttons",
         "url": "https://anatolyzenkov.com/stolen-buttons",
         "source": "anatolyzenkov.com",
-        "score": 343,
-        "comments": 79,
+        "score": 411,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=48976262",
         "date": "il y a 5 j"
       },
       {
-        "title": "L'IA à poids ouvert a son moment Kubernetes",
-        "titleOriginal": "Open-weight AI is having its Kubernetes moment",
-        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
-        "source": "tobi.knaup.me",
-        "score": 183,
-        "comments": 125,
-        "hnUrl": "https://news.ycombinator.com/item?id=49048034",
-        "date": "il y a 4 h"
+        "title": "Afficher HN : Proxmox -> Partagez le Bluetooth de votre hôte avec une VM sur le réseau",
+        "titleOriginal": "Show HN: Proxmox -> Share your host's Bluetooth with a VM over the network",
+        "url": "https://github.com/lucid-fabrics/proxmox-bluetooth",
+        "source": "github.com",
+        "score": 20,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49050824",
+        "date": "il y a 1 h"
       },
       {
         "title": "Android pourrait bientôt restreindre l'ADB sur l'appareil",
         "titleOriginal": "Android May Soon Restrict On-Device ADB",
         "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
         "source": "kitsumed.github.io",
-        "score": 755,
-        "comments": 351,
+        "score": 797,
+        "comments": 376,
         "hnUrl": "https://news.ycombinator.com/item?id=49045159",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "L'IA à poids ouvert a son moment Kubernetes",
+        "titleOriginal": "Open-weight AI is having its Kubernetes moment",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "source": "tobi.knaup.me",
+        "score": 224,
+        "comments": 162,
+        "hnUrl": "https://news.ycombinator.com/item?id=49048034",
+        "date": "il y a 5 h"
       }
     ]
   },
