@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-25T22:48:38.477Z",
+  "updatedAt": "2026-07-25T23:54:56.779Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 0,
-      "wind": 6,
-      "humidity": 61
+      "wind": 5,
+      "humidity": 67
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 142,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-        "titleOriginal": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-        "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-        "source": "spectrum.ieee.org",
-        "score": 49,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=49051947",
-        "date": "il y a 1 h"
+        "title": "Ils t'ont fait des fantômes ?",
+        "titleOriginal": "Did They Ghost You?",
+        "url": "https://didtheyghostyou.com/",
+        "source": "didtheyghostyou.com",
+        "score": 190,
+        "comments": 66,
+        "hnUrl": "https://news.ycombinator.com/item?id=49051120",
+        "date": "il y a 3 h"
       },
       {
         "title": "Les nouvelles règles de l'ingénierie contextuelle pour les modèles Claude 5 générations",
         "titleOriginal": "The new rules of context engineering for Claude 5 generation models",
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "source": "claude.com",
-        "score": 86,
-        "comments": 42,
+        "score": 117,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=49051361",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Ils t'ont fait des fantômes ?",
-        "titleOriginal": "Did They Ghost You?",
-        "url": "https://didtheyghostyou.com/",
-        "source": "didtheyghostyou.com",
-        "score": 98,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49051120",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Boutons volés",
         "titleOriginal": "Stolen Buttons",
         "url": "https://anatolyzenkov.com/stolen-buttons",
         "source": "anatolyzenkov.com",
-        "score": 496,
-        "comments": 116,
+        "score": 523,
+        "comments": 122,
         "hnUrl": "https://news.ycombinator.com/item?id=48976262",
         "date": "il y a 5 j"
+      },
+      {
+        "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+        "titleOriginal": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+        "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
+        "source": "spectrum.ieee.org",
+        "score": 84,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49051947",
+        "date": "il y a 2 h"
       }
     ]
   },
