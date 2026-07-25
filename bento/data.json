@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-25T15:59:42.507Z",
+  "updatedAt": "2026-07-25T17:06:50.918Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
+      "temp": 29,
       "feelsLike": 28,
-      "code": 1,
-      "wind": 12,
-      "humidity": 30
+      "code": 0,
+      "wind": 10,
+      "humidity": 32
     },
     "forecast": [
       {
         "date": "2026-07-25",
         "code": 3,
-        "tmax": 31,
+        "tmax": 30,
         "tmin": 15
       },
       {
         "date": "2026-07-26",
-        "code": 3,
-        "tmax": 25,
+        "code": 80,
+        "tmax": 24,
         "tmin": 16
       },
       {
         "date": "2026-07-27",
         "code": 2,
         "tmax": 28,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-07-28",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Android pourrait bientôt restreindre l'ADB sur l'appareil",
-        "titleOriginal": "Android May Soon Restrict On-Device ADB",
-        "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
-        "source": "kitsumed.github.io",
-        "score": 616,
-        "comments": 277,
-        "hnUrl": "https://news.ycombinator.com/item?id=49045159",
-        "date": "il y a 9 h"
+        "title": "L'éolienne est utilisée pour produire de l'engrais « ammoniac vert » zéro carbone",
+        "titleOriginal": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+        "url": "https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/",
+        "source": "energiesmedia.com",
+        "score": 45,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49048819",
+        "date": "il y a 56 min"
       },
       {
         "title": "Boutons volés",
         "titleOriginal": "Stolen Buttons",
         "url": "https://anatolyzenkov.com/stolen-buttons",
         "source": "anatolyzenkov.com",
-        "score": 67,
-        "comments": 20,
+        "score": 137,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=48976262",
         "date": "il y a 5 j"
       },
       {
-        "title": "Mes images sont tramées",
-        "titleOriginal": "My Images Are Dithered",
-        "url": "https://dead.garden/blog/how-my-images-are-dithered.html",
-        "source": "dead.garden",
-        "score": 103,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49006096",
-        "date": "il y a 3 j"
+        "title": "Android pourrait bientôt restreindre l'ADB sur l'appareil",
+        "titleOriginal": "Android May Soon Restrict On-Device ADB",
+        "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+        "source": "kitsumed.github.io",
+        "score": 677,
+        "comments": 299,
+        "hnUrl": "https://news.ycombinator.com/item?id=49045159",
+        "date": "il y a 10 h"
       },
       {
-        "title": "Langues spatiales : écriture de code en 2D",
-        "titleOriginal": "Spatial languages: Writing code in 2D",
-        "url": "https://shukla.io/blog/2026-07/cccx.html",
-        "source": "shukla.io",
-        "score": 45,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49007018",
-        "date": "il y a 3 j"
+        "title": "L'IA à poids ouvert a son moment Kubernetes. Ne le gâchons pas",
+        "titleOriginal": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "source": "tobi.knaup.me",
+        "score": 43,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49048034",
+        "date": "il y a 2 h"
       }
     ]
   },
