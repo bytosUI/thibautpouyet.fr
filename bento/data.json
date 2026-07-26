@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T10:16:30.265Z",
+  "updatedAt": "2026-07-26T11:43:02.991Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 21,
+      "temp": 21,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 18,
-      "humidity": 55
+      "wind": 20,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-07-27",
         "code": 3,
-        "tmax": 28,
+        "tmax": 27,
         "tmin": 16
       },
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "UNE GROTTE VIEILLE DE 2000 ANS AUX MURS PARFAITEMENT LISSES... PERSONNE NE COMPREND",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "TKbPtRqNjK4",
+        "thumbnail": "https://i.ytimg.com/vi/TKbPtRqNjK4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TKbPtRqNjK4",
+        "publishedAt": "2026-07-26T11:00:18+00:00"
+      },
+      {
         "title": "Ce qu'on ne vous montre jamais",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/AzQwMDP5kwc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AzQwMDP5kwc",
         "publishedAt": "2026-07-26T09:40:43+00:00"
-      },
-      {
-        "title": "PYRAMIDES : ET SI TOUT CE QU'ON NOUS A APPRIS ÉTAIT FAUX ? LES SECRETS INCROYABLES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "_neA7v3ulPU",
-        "thumbnail": "https://i.ytimg.com/vi/_neA7v3ulPU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_neA7v3ulPU",
-        "publishedAt": "2026-07-26T09:00:06+00:00"
       },
       {
         "title": "« Les influenceurs ont la tête vide » : vrai ou faux ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
         "url": "https://astral.sh/blog/ruff-v0.16.0",
         "source": "astral.sh",
-        "score": 36,
-        "comments": 2,
+        "score": 91,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=49056112",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Un côlon de coquillage ne fait rien. Utilisez-le quand même",
-        "titleOriginal": "A shell colon does nothing. Use it anyway",
-        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-        "source": "refp.se",
-        "score": 202,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=49047453",
-        "date": "il y a 20 h"
+        "title": "Erreurs élevées pour l'opus 5",
+        "titleOriginal": "Elevated Errors for Opus 5",
+        "url": "https://status.claude.com/incidents/zftg3gqkmv18",
+        "source": "status.claude.com",
+        "score": 38,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49056194",
+        "date": "il y a 2 h"
       },
       {
         "title": "Protections GrapheneOS contre l'extraction de données à partir d'appareils verrouillés",
         "titleOriginal": "GrapheneOS protections against data extraction from locked devices",
         "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
         "source": "discuss.grapheneos.org",
-        "score": 75,
-        "comments": 35,
+        "score": 118,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49055169",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Un radar plan basé sur ESP32 pour mon bureau",
-        "titleOriginal": "An ESP32 based plane radar for my desk",
-        "url": "https://blog.ktz.me/esp32-plane-radar/",
-        "source": "blog.ktz.me",
-        "score": 153,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=49054107",
-        "date": "il y a 7 h"
+        "title": "Un côlon de coquillage ne fait rien. Utilisez-le quand même",
+        "titleOriginal": "A shell colon does nothing. Use it anyway",
+        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+        "source": "refp.se",
+        "score": 233,
+        "comments": 94,
+        "hnUrl": "https://news.ycombinator.com/item?id=49047453",
+        "date": "il y a 22 h"
       }
     ]
   },
