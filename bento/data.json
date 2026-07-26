@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T13:07:44.128Z",
+  "updatedAt": "2026-07-26T14:47:08.811Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 22,
+      "temp": 23,
+      "feelsLike": 21,
       "code": 3,
       "wind": 22,
-      "humidity": 53
+      "humidity": 56
     },
     "forecast": [
       {
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "UNE GROTTE VIEILLE DE 2000 ANS AUX MURS PARFAITEMENT LISSES... PERSONNE NE COMPREND",
+        "title": "« POUR COMMUNIQUER AVEC LES EXTRATERRESTRES IL FAUT UTILISER LES MATHÉMATIQUES »",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "TKbPtRqNjK4",
-        "thumbnail": "https://i.ytimg.com/vi/TKbPtRqNjK4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TKbPtRqNjK4",
-        "publishedAt": "2026-07-26T11:00:18+00:00"
+        "videoId": "f-k1E5hycnA",
+        "thumbnail": "https://i.ytimg.com/vi/f-k1E5hycnA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f-k1E5hycnA",
+        "publishedAt": "2026-07-26T14:00:25+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
       },
       {
         "title": "Ce qu'on ne vous montre jamais",
@@ -86,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/YUwayyNWy1c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YUwayyNWy1c",
         "publishedAt": "2026-07-23T15:22:33+00:00"
-      },
-      {
-        "title": "Qui a bu le Ciao Energy goût vomi ?",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "CXJJC1nJfxU",
-        "thumbnail": "https://i.ytimg.com/vi/CXJJC1nJfxU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CXJJC1nJfxU",
-        "publishedAt": "2026-07-22T05:11:16+00:00"
       },
       {
         "title": "Grok 4.5 trois fois moins cher | Apple vs OpenAI | La Chine rattrape SpaceX",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Troisième drone abattu en trois jours en territoire roumain",
-        "titleOriginal": "Third Drone Shot Down in Three Days in Romanian Territory",
-        "url": "https://english.mapn.ro/",
-        "source": "english.mapn.ro",
-        "score": 65,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=49057248",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Ruff v0.16.0 – Nouvelles mises à jour importantes – 413 règles par défaut contre 59",
         "titleOriginal": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
         "url": "https://astral.sh/blog/ruff-v0.16.0",
         "source": "astral.sh",
-        "score": 156,
-        "comments": 89,
+        "score": 213,
+        "comments": 124,
         "hnUrl": "https://news.ycombinator.com/item?id=49056112",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Cadre d'analyse Go : analyse statique modulaire par l'équipe Go",
+        "titleOriginal": "Go Analysis Framework: modular static analysis by go team",
+        "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
+        "source": "pkg.go.dev",
+        "score": 63,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49057398",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Google divulgue 94,1 milliards de $ en actions SpaceX, marquant une participation de 6 %",
+        "titleOriginal": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+        "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
+        "source": "wsj.com",
+        "score": 127,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49057574",
+        "date": "il y a 2 h"
       },
       {
         "title": "Protections GrapheneOS contre l'extraction de données à partir d'appareils verrouillés",
         "titleOriginal": "GrapheneOS protections against data extraction from locked devices",
         "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
         "source": "discuss.grapheneos.org",
-        "score": 167,
-        "comments": 84,
+        "score": 221,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49055169",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Un côlon de coquillage ne fait rien. Utilisez-le quand même",
-        "titleOriginal": "A shell colon does nothing. Use it anyway",
-        "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
-        "source": "refp.se",
-        "score": 270,
-        "comments": 110,
-        "hnUrl": "https://news.ycombinator.com/item?id=49047453",
-        "date": "il y a 23 h"
+        "date": "il y a 8 h"
       }
     ]
   },
