@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T20:51:22.537Z",
+  "updatedAt": "2026-07-26T21:54:05.592Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
-      "code": 3,
-      "wind": 16,
-      "humidity": 60
+      "temp": 22,
+      "feelsLike": 20,
+      "code": 0,
+      "wind": 15,
+      "humidity": 59
     },
     "forecast": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "date": "2026-07-28",
-        "code": 1,
+        "code": 0,
         "tmax": 33,
         "tmin": 15
       },
       {
         "date": "2026-07-29",
-        "code": 2,
+        "code": 1,
         "tmax": 37,
         "tmin": 19
       }
@@ -52,7 +52,7 @@
   "youtube": {
     "videos": [
       {
-        "title": "Je pensais y arriver en 48h… #25",
+        "title": "48h pour isoler l’étage… #25",
         "channel": "17h17",
         "channelHandle": "17heures17",
         "videoId": "0yEiWv5kEBQ",
@@ -178,40 +178,40 @@
         "titleOriginal": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
         "url": "https://beyondloom.com/decker/",
         "source": "beyondloom.com",
-        "score": 86,
-        "comments": 17,
+        "score": 131,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=49060856",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Le design est un compromis",
-        "titleOriginal": "Design is compromise",
-        "url": "https://stephango.com/design-is-compromise",
-        "source": "stephango.com",
-        "score": 132,
-        "comments": 63,
-        "hnUrl": "https://news.ycombinator.com/item?id=49059367",
-        "date": "il y a 5 h"
+        "title": "Il n'est pas utile de transmettre les détails",
+        "titleOriginal": "It's not empowering to hand off the details",
+        "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+        "source": "davidnicholaswilliams.com",
+        "score": 94,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49060592",
+        "date": "il y a 3 h"
       },
       {
         "title": "Introduction à la conception axée sur les données [pdf]",
         "titleOriginal": "Introduction to Data-Oriented Design [pdf]",
         "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
         "source": "gamedevs.org",
-        "score": 38,
-        "comments": 9,
+        "score": 59,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49060724",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Show HN : CheapSecurity – CCTV légère et auto-hébergée pour les SBC Linux",
-        "titleOriginal": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
-        "url": "https://github.com/gmrandazzo/CheapSecurity",
-        "source": "github.com",
-        "score": 67,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49059398",
-        "date": "il y a 4 h"
+        "title": "Le design est un compromis",
+        "titleOriginal": "Design is compromise",
+        "url": "https://stephango.com/design-is-compromise",
+        "source": "stephango.com",
+        "score": 147,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49059367",
+        "date": "il y a 6 h"
       }
     ]
   },
