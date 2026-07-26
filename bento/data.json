@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T19:44:57.434Z",
+  "updatedAt": "2026-07-26T20:51:22.537Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 23,
       "feelsLike": 22,
       "code": 3,
       "wind": 16,
-      "humidity": 53
+      "humidity": 60
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Londres Gatwick a lancé un service de parking robotisé à l'aéroport",
-        "titleOriginal": "London Gatwick has launched a robotic airport parking service",
-        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-        "source": "aerospaceglobalnews.com",
-        "score": 229,
-        "comments": 173,
-        "hnUrl": "https://news.ycombinator.com/item?id=49058669",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Decker",
-        "titleOriginal": "Decker",
+        "title": "Decker, une plateforme qui s'appuie sur l'héritage d'Hypercard et de macOS classique",
+        "titleOriginal": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
         "url": "https://beyondloom.com/decker/",
         "source": "beyondloom.com",
-        "score": 33,
-        "comments": 6,
+        "score": 86,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49060856",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Le design est un compromis",
         "titleOriginal": "Design is compromise",
         "url": "https://stephango.com/design-is-compromise",
         "source": "stephango.com",
-        "score": 105,
-        "comments": 49,
+        "score": 132,
+        "comments": 63,
         "hnUrl": "https://news.ycombinator.com/item?id=49059367",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Introduction à la conception axée sur les données [pdf]",
+        "titleOriginal": "Introduction to Data-Oriented Design [pdf]",
+        "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+        "source": "gamedevs.org",
+        "score": 38,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49060724",
+        "date": "il y a 2 h"
       },
       {
         "title": "Show HN : CheapSecurity – CCTV légère et auto-hébergée pour les SBC Linux",
         "titleOriginal": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
         "url": "https://github.com/gmrandazzo/CheapSecurity",
         "source": "github.com",
-        "score": 50,
-        "comments": 12,
+        "score": 67,
+        "comments": 13,
         "hnUrl": "https://news.ycombinator.com/item?id=49059398",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
