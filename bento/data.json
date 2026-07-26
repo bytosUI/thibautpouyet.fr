@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T14:47:08.811Z",
+  "updatedAt": "2026-07-26T15:57:26.799Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
-      "feelsLike": 21,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 22,
-      "humidity": 56
+      "wind": 20,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "date": "2026-07-28",
-        "code": 0,
+        "code": 1,
         "tmax": 33,
         "tmin": 15
       },
       {
         "date": "2026-07-29",
-        "code": 1,
+        "code": 2,
         "tmax": 37,
         "tmin": 19
       }
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "« POUR COMMUNIQUER AVEC LES EXTRATERRESTRES IL FAUT UTILISER LES MATHÉMATIQUES »",
+        "title": "Je pensais y arriver en 48h… #25",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "0yEiWv5kEBQ",
+        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
+        "publishedAt": "2026-07-26T15:17:09+00:00"
+      },
+      {
+        "title": "L’HUMANITÉ A CONNU DES PÉRIODES SANS GUERRE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "f-k1E5hycnA",
-        "thumbnail": "https://i.ytimg.com/vi/f-k1E5hycnA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-k1E5hycnA",
-        "publishedAt": "2026-07-26T14:00:25+00:00"
+        "videoId": "BXR5btWfjVY",
+        "thumbnail": "https://i.ytimg.com/vi/BXR5btWfjVY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BXR5btWfjVY",
+        "publishedAt": "2026-07-26T15:00:24+00:00"
       },
       {
         "title": "Impossible de savoir qui va tomber 😧",
@@ -115,15 +124,6 @@
         "publishedAt": "2026-07-20T17:00:13+00:00"
       },
       {
-        "title": "Si j’oublie quelque chose, je suis foutu. #24",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "V8I6hg-4oJ8",
-        "thumbnail": "https://i.ytimg.com/vi/V8I6hg-4oJ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V8I6hg-4oJ8",
-        "publishedAt": "2026-07-12T15:17:39+00:00"
-      },
-      {
         "title": "60 jours pour construire une terrasse géante et un observatoire",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Ruff v0.16.0 – Nouvelles mises à jour importantes – 413 règles par défaut contre 59",
-        "titleOriginal": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
-        "url": "https://astral.sh/blog/ruff-v0.16.0",
-        "source": "astral.sh",
-        "score": 213,
-        "comments": 124,
-        "hnUrl": "https://news.ycombinator.com/item?id=49056112",
-        "date": "il y a 5 h"
+        "title": "Park by Robot à l'aéroport de Londres Gatwick",
+        "titleOriginal": "Park by Robot at London Gatwick Airport",
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
+        "source": "aerospaceglobalnews.com",
+        "score": 52,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49058669",
+        "date": "il y a 1 h"
       },
       {
         "title": "Cadre d'analyse Go : analyse statique modulaire par l'équipe Go",
         "titleOriginal": "Go Analysis Framework: modular static analysis by go team",
         "url": "https://pkg.go.dev/golang.org/x/tools/go/analysis",
         "source": "pkg.go.dev",
-        "score": 63,
+        "score": 94,
         "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49057398",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Google divulgue 94,1 milliards de $ en actions SpaceX, marquant une participation de 6 %",
-        "titleOriginal": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
-        "url": "https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c",
-        "source": "wsj.com",
-        "score": 127,
-        "comments": 63,
-        "hnUrl": "https://news.ycombinator.com/item?id=49057574",
-        "date": "il y a 2 h"
+        "title": "Ruff v0.16.0 – Nouvelles mises à jour importantes – 413 règles par défaut contre 59",
+        "titleOriginal": "Ruff v0.16.0 – Significant new updates – 413 default rules up from 59",
+        "url": "https://astral.sh/blog/ruff-v0.16.0",
+        "source": "astral.sh",
+        "score": 245,
+        "comments": 143,
+        "hnUrl": "https://news.ycombinator.com/item?id=49056112",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Protections GrapheneOS contre l'extraction de données à partir d'appareils verrouillés",
-        "titleOriginal": "GrapheneOS protections against data extraction from locked devices",
-        "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-        "source": "discuss.grapheneos.org",
-        "score": 221,
-        "comments": 115,
-        "hnUrl": "https://news.ycombinator.com/item?id=49055169",
-        "date": "il y a 8 h"
+        "title": "Kill The Cookie Banner",
+        "titleOriginal": "Kill The Cookie Banner",
+        "url": "https://killthecookiebanner.eu/",
+        "source": "killthecookiebanner.eu",
+        "score": 66,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=49057175",
+        "date": "il y a 4 h"
       }
     ]
   },
