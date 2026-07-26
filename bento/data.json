@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-26T17:01:32.281Z",
+  "updatedAt": "2026-07-26T18:30:07.762Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
+      "temp": 24,
       "feelsLike": 23,
-      "code": 3,
+      "code": 1,
       "wind": 16,
-      "humidity": 50
+      "humidity": 52
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Park by Robot at London Gatwick Airport",
         "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
         "source": "aerospaceglobalnews.com",
-        "score": 125,
-        "comments": 67,
+        "score": 197,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=49058669",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "La conception est un compromis",
-        "titleOriginal": "Design Is Compromise",
-        "url": "https://stephango.com/design-is-compromise",
-        "source": "stephango.com",
-        "score": 39,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49059367",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Kill The Cookie Banner",
         "titleOriginal": "Kill The Cookie Banner",
         "url": "https://killthecookiebanner.eu/",
         "source": "killthecookiebanner.eu",
-        "score": 194,
-        "comments": 109,
+        "score": 381,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=49057175",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "La conception est un compromis",
+        "titleOriginal": "Design Is Compromise",
+        "url": "https://stephango.com/design-is-compromise",
+        "source": "stephango.com",
+        "score": 84,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49059367",
+        "date": "il y a 2 h"
       },
       {
         "title": "Show HN : CheapSecurity – CCTV légère et auto-hébergée pour les SBC Linux",
         "titleOriginal": "Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",
         "url": "https://github.com/gmrandazzo/CheapSecurity",
         "source": "github.com",
-        "score": 18,
-        "comments": 2,
+        "score": 34,
+        "comments": 6,
         "hnUrl": "https://news.ycombinator.com/item?id=49059398",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
