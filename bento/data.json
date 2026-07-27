@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-07-27T20:49:13.121Z",
+  "updatedAt": "2026-07-27T22:00:25.988Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 0,
-      "wind": 3,
-      "humidity": 48
+      "wind": 5,
+      "humidity": 56
     },
     "forecast": [
-      {
-        "date": "2026-07-27",
-        "code": 3,
-        "tmax": 26,
-        "tmin": 16
-      },
       {
         "date": "2026-07-28",
         "code": 0,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-07-30",
-        "code": 61,
-        "tmax": 30,
-        "tmin": 25
+        "code": 63,
+        "tmax": 28,
+        "tmin": 22
+      },
+      {
+        "date": "2026-07-31",
+        "code": 3,
+        "tmax": 29,
+        "tmin": 19
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 13073,
+        "viewers": 9767,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -186,8 +186,8 @@
         "titleOriginal": "Watching Go's new garbage collector move through the heap",
         "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
         "source": "theconsensus.dev",
-        "score": 93,
-        "comments": 7,
+        "score": 121,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=49045474",
         "date": "il y a 2 j"
       },
@@ -196,29 +196,29 @@
         "titleOriginal": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
         "url": "https://www.rise-reforming.com",
         "source": "rise-reforming.com",
-        "score": 15,
-        "comments": 2,
+        "score": 41,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=49074817",
-        "date": "il y a 50 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Distributions Python autonomes et hautement portables",
         "titleOriginal": "Self-contained highly-portable Python distributions",
         "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
         "source": "gregoryszorc.com",
-        "score": 46,
-        "comments": 8,
+        "score": 72,
+        "comments": 18,
         "hnUrl": "https://news.ycombinator.com/item?id=49073942",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "La colle adhère aux surfaces antiadhésives et essuie avec de l'éthanol",
-        "titleOriginal": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-        "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
-        "source": "cen.acs.org",
-        "score": 112,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=49020993",
+        "title": "Traçage de rayons de quantités massives de géométrie animée à l'aide de cages tétraédriques",
+        "titleOriginal": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
+        "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+        "source": "gpuopen.com",
+        "score": 41,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49021007",
         "date": "il y a 4 j"
       }
     ]
