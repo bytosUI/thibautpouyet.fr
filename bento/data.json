@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-27T15:57:29.647Z",
+  "updatedAt": "2026-07-27T17:42:12.843Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 24,
-      "code": 2,
-      "wind": 15,
+      "temp": 25,
+      "feelsLike": 23,
+      "code": 0,
+      "wind": 12,
       "humidity": 36
     },
     "forecast": [
@@ -26,7 +26,7 @@
         "date": "2026-07-29",
         "code": 0,
         "tmax": 37,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-07-30",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 9,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES SECRETS DES LIGNES DE NAZCA… À QUOI SERVAIENT-ELLES ?",
+        "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "TPShlk5wEU0",
+        "thumbnail": "https://i.ytimg.com/vi/TPShlk5wEU0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TPShlk5wEU0",
+        "publishedAt": "2026-07-27T16:09:29+00:00"
+      },
+      {
+        "title": "LE SECRET DU SPHINX EN ÉGYPTE QUE PERSONNE NE CONNAÎT !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "dZLWtQxDp5w",
-        "thumbnail": "https://i.ytimg.com/vi/dZLWtQxDp5w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dZLWtQxDp5w",
-        "publishedAt": "2026-07-27T15:00:25+00:00"
+        "videoId": "dOFbyLx0ukg",
+        "thumbnail": "https://i.ytimg.com/vi/dOFbyLx0ukg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dOFbyLx0ukg",
+        "publishedAt": "2026-07-27T16:00:16+00:00"
       },
       {
         "title": "48h pour isoler l’étage… #25",
@@ -115,15 +132,6 @@
         "publishedAt": "2026-07-20T17:00:35+00:00"
       },
       {
-        "title": "Mon métier est en train de disparaître sous mes yeux",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "sq-iSYUfILg",
-        "thumbnail": "https://i.ytimg.com/vi/sq-iSYUfILg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sq-iSYUfILg",
-        "publishedAt": "2026-07-20T17:00:13+00:00"
-      },
-      {
         "title": "60 jours pour construire une terrasse géante et un observatoire",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Rapport technique Kimi-K3 [pdf]",
-        "titleOriginal": "Kimi-K3 Technical Report [pdf]",
-        "url": "https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf",
-        "source": "github.com",
-        "score": 104,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49070985",
-        "date": "il y a 33 min"
-      },
-      {
-        "title": "Sorties de Kimi-K3 sur HuggingFace 7/27",
-        "titleOriginal": "Kimi-K3 Releases on HuggingFace 7/27",
+        "title": "Kimi-K3 sur HuggingFace",
+        "titleOriginal": "Kimi-K3 on HuggingFace",
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "source": "huggingface.co",
-        "score": 833,
-        "comments": 367,
+        "score": 1018,
+        "comments": 414,
         "hnUrl": "https://news.ycombinator.com/item?id=49065752",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "L'ordinateur qui a aidé à gagner la Seconde Guerre mondiale",
-        "titleOriginal": "The Computer That Helped Win World War II",
-        "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
-        "source": "spectrum.ieee.org",
-        "score": 37,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49012309",
+        "title": "Decathlon Allemagne ajoute l'option de paiement Wero au site web decathlon.de",
+        "titleOriginal": "Decathlon Germany adds Wero payment option to decathlon.de website",
+        "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
+        "source": "sgieurope.com",
+        "score": 40,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49072310",
+        "date": "il y a 53 min"
+      },
+      {
+        "title": "La colle adhère aux surfaces antiadhésives et essuie avec de l'éthanol",
+        "titleOriginal": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+        "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+        "source": "cen.acs.org",
+        "score": 65,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=49020993",
         "date": "il y a 4 j"
       },
       {
-        "title": "Suppression de React.js de la base de code et adaptation de Htmx pour l'interactivité de l'interface utilisateur (2023)",
-        "titleOriginal": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
-        "url": "https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/",
-        "source": "misago-project.org",
-        "score": 113,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=49067301",
-        "date": "il y a 5 h"
+        "title": "IAM-Cyber 1",
+        "titleOriginal": "MAI-Cyber 1",
+        "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+        "source": "microsoft.ai",
+        "score": 18,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49072361",
+        "date": "il y a 49 min"
       }
     ]
   },
