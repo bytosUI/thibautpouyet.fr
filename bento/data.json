@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-27T10:24:51.099Z",
+  "updatedAt": "2026-07-27T13:24:00.929Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 26,
+      "feelsLike": 24,
       "code": 2,
-      "wind": 9,
-      "humidity": 48
+      "wind": 14,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA PYRAMIDE DE GIZEH A MIS 25 ANS À CONSTRUIRE",
+        "title": "C’EST L'UN DES OBJETS LES PLUS MYSTÉRIEUX DE L'ÉGYPTE ANTIQUE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Y3r7dqPN3L8",
-        "thumbnail": "https://i.ytimg.com/vi/Y3r7dqPN3L8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y3r7dqPN3L8",
-        "publishedAt": "2026-07-27T10:00:27+00:00"
+        "videoId": "McG0PHjCxmg",
+        "thumbnail": "https://i.ytimg.com/vi/McG0PHjCxmg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=McG0PHjCxmg",
+        "publishedAt": "2026-07-27T13:00:35+00:00"
       },
       {
         "title": "48h pour isoler l’étage… #25",
@@ -178,40 +178,40 @@
         "titleOriginal": "Kimi-K3 Releases on HuggingFace 7/27",
         "url": "https://huggingface.co/moonshotai/Kimi-K3",
         "source": "huggingface.co",
-        "score": 336,
-        "comments": 139,
+        "score": 562,
+        "comments": 256,
         "hnUrl": "https://news.ycombinator.com/item?id=49065752",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "PGSimCity - Fonctionnement de PostgreSQL",
-        "titleOriginal": "PGSimCity - How PostgreSQL Works",
-        "url": "https://nikolays.github.io/PGSimCity/",
-        "source": "nikolays.github.io",
-        "score": 618,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=49063754",
-        "date": "il y a 10 h"
+        "title": "Comment se passe la réécriture du pain dans Rust ?",
+        "titleOriginal": "How is the Bun Rewrite in Rust going?",
+        "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+        "source": "lockwood.dev",
+        "score": 164,
+        "comments": 107,
+        "hnUrl": "https://news.ycombinator.com/item?id=49067854",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Show HN : Trou noir physiquement précis que vous pouvez mettre dans votre chambre",
-        "titleOriginal": "Show HN: Physically accurate black hole you can put in your room",
-        "url": "https://blackhole.plav.in",
-        "source": "blackhole.plav.in",
-        "score": 324,
-        "comments": 98,
-        "hnUrl": "https://news.ycombinator.com/item?id=49021270",
-        "date": "il y a 3 j"
+        "title": "Les entreprises d'IA déchirent des livres rares",
+        "titleOriginal": "AI companies are shredding rare books",
+        "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
+        "source": "xcancel.com",
+        "score": 140,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=49068738",
+        "date": "il y a 51 min"
       },
       {
-        "title": "Scriptc by Vercel : Compilateur TypeScript-to-Native, pas de moteur JavaScript en binaire",
-        "titleOriginal": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-        "url": "https://github.com/vercel-labs/scriptc",
-        "source": "github.com",
-        "score": 185,
-        "comments": 97,
-        "hnUrl": "https://news.ycombinator.com/item?id=49063175",
-        "date": "il y a 11 h"
+        "title": "Erreurs élevées sur Claude Opus 5",
+        "titleOriginal": "Elevated errors on Claude Opus 5",
+        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "source": "status.claude.com",
+        "score": 33,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49068029",
+        "date": "il y a 1 h"
       }
     ]
   },
