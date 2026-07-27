@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-27T22:00:25.988Z",
+  "updatedAt": "2026-07-27T23:32:40.356Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 18,
+      "feelsLike": 18,
       "code": 0,
-      "wind": 5,
-      "humidity": 56
+      "wind": 4,
+      "humidity": 65
     },
     "forecast": [
       {
         "date": "2026-07-28",
         "code": 0,
         "tmax": 32,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-07-29",
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 9767,
+        "viewers": 7245,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Notre position sur les modèles à poids ouverts",
+        "titleOriginal": "Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "source": "anthropic.com",
+        "score": 263,
+        "comments": 293,
+        "hnUrl": "https://news.ycombinator.com/item?id=49076057",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Une alternative à Discord – Echoed",
+        "titleOriginal": "A Discord Alternative – Echoed",
+        "url": "https://echoed.gg/",
+        "source": "echoed.gg",
+        "score": 22,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49076497",
+        "date": "il y a 46 min"
+      },
+      {
+        "title": "DConf 2026 à Londres",
+        "titleOriginal": "DConf 2026 in London",
+        "url": "https://dconf.org/2026/index.html",
+        "source": "dconf.org",
+        "score": 10,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49076840",
+        "date": "il y a 18 min"
+      },
+      {
         "title": "Regarder le nouveau collecteur d'ordures de Go se déplacer dans le tas",
         "titleOriginal": "Watching Go's new garbage collector move through the heap",
         "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
         "source": "theconsensus.dev",
-        "score": 121,
-        "comments": 10,
+        "score": 147,
+        "comments": 16,
         "hnUrl": "https://news.ycombinator.com/item?id=49045474",
         "date": "il y a 2 j"
-      },
-      {
-        "title": "Lancer HN : Rise Reforming (YC S26) – Transformer les gaz résiduaires en produits chimiques de valeur",
-        "titleOriginal": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-        "url": "https://www.rise-reforming.com",
-        "source": "rise-reforming.com",
-        "score": 41,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49074817",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Distributions Python autonomes et hautement portables",
-        "titleOriginal": "Self-contained highly-portable Python distributions",
-        "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-        "source": "gregoryszorc.com",
-        "score": 72,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49073942",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Traçage de rayons de quantités massives de géométrie animée à l'aide de cages tétraédriques",
-        "titleOriginal": "Ray tracing massive amounts of animated geometry using tetrahedral cages",
-        "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
-        "source": "gpuopen.com",
-        "score": 41,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49021007",
-        "date": "il y a 4 j"
       }
     ]
   },
