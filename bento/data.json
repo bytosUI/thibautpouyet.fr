@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-27T19:18:31.168Z",
+  "updatedAt": "2026-07-27T20:49:13.121Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 7,
-      "humidity": 43
+      "wind": 3,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-07-28",
         "code": 0,
         "tmax": 32,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-07-29",
         "code": 0,
-        "tmax": 37,
+        "tmax": 38,
         "tmin": 18
       },
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 13520,
+        "viewers": 13073,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "IAM-Cyber 1",
-        "titleOriginal": "MAI-Cyber 1",
-        "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-        "source": "microsoft.ai",
-        "score": 161,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=49072361",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Regarder le nouveau collecteur d'ordures de Go se déplacer dans le tas",
         "titleOriginal": "Watching Go's new garbage collector move through the heap",
         "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
         "source": "theconsensus.dev",
-        "score": 43,
-        "comments": 0,
+        "score": 93,
+        "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49045474",
         "date": "il y a 2 j"
       },
       {
-        "title": "Kimi-K3 sur HuggingFace",
-        "titleOriginal": "Kimi-K3 on HuggingFace",
-        "url": "https://huggingface.co/moonshotai/Kimi-K3",
-        "source": "huggingface.co",
-        "score": 1131,
-        "comments": 453,
-        "hnUrl": "https://news.ycombinator.com/item?id=49065752",
-        "date": "il y a 13 h"
+        "title": "Lancer HN : Rise Reforming (YC S26) – Transformer les gaz résiduaires en produits chimiques de valeur",
+        "titleOriginal": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
+        "url": "https://www.rise-reforming.com",
+        "source": "rise-reforming.com",
+        "score": 15,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49074817",
+        "date": "il y a 50 min"
       },
       {
-        "title": "Decathlon Allemagne ajoute l'option de paiement Wero au site web decathlon.de",
-        "titleOriginal": "Decathlon Germany adds Wero payment option to decathlon.de website",
-        "url": "https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article",
-        "source": "sgieurope.com",
-        "score": 144,
-        "comments": 112,
-        "hnUrl": "https://news.ycombinator.com/item?id=49072310",
+        "title": "Distributions Python autonomes et hautement portables",
+        "titleOriginal": "Self-contained highly-portable Python distributions",
+        "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+        "source": "gregoryszorc.com",
+        "score": 46,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49073942",
         "date": "il y a 2 h"
+      },
+      {
+        "title": "La colle adhère aux surfaces antiadhésives et essuie avec de l'éthanol",
+        "titleOriginal": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+        "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+        "source": "cen.acs.org",
+        "score": 112,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=49020993",
+        "date": "il y a 4 j"
       }
     ]
   },
