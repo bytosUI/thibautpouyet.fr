@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-07-27T06:23:25.414Z",
+  "updatedAt": "2026-07-27T10:24:51.099Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 17,
-      "code": 1,
-      "wind": 8,
-      "humidity": 77
+      "temp": 23,
+      "feelsLike": 22,
+      "code": 2,
+      "wind": 9,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-07-27",
         "code": 3,
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 16
       },
       {
         "date": "2026-07-28",
         "code": 0,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 15
       },
       {
         "date": "2026-07-29",
-        "code": 0,
+        "code": 1,
         "tmax": 37,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-07-30",
         "code": 3,
-        "tmax": 33,
+        "tmax": 31,
         "tmin": 23
       }
     ]
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LA PYRAMIDE DE GIZEH A MIS 25 ANS À CONSTRUIRE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Y3r7dqPN3L8",
+        "thumbnail": "https://i.ytimg.com/vi/Y3r7dqPN3L8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Y3r7dqPN3L8",
+        "publishedAt": "2026-07-27T10:00:27+00:00"
+      },
+      {
         "title": "48h pour isoler l’étage… #25",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
         "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "L’HUMANITÉ A CONNU DES PÉRIODES SANS GUERRE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "BXR5btWfjVY",
-        "thumbnail": "https://i.ytimg.com/vi/BXR5btWfjVY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BXR5btWfjVY",
-        "publishedAt": "2026-07-26T15:00:24+00:00"
       },
       {
         "title": "Impossible de savoir qui va tomber 😧",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Sorties de Kimi-K3 sur HuggingFace 7/27",
+        "titleOriginal": "Kimi-K3 Releases on HuggingFace 7/27",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3",
+        "source": "huggingface.co",
+        "score": 336,
+        "comments": 139,
+        "hnUrl": "https://news.ycombinator.com/item?id=49065752",
+        "date": "il y a 4 h"
+      },
+      {
         "title": "PGSimCity - Fonctionnement de PostgreSQL",
         "titleOriginal": "PGSimCity - How PostgreSQL Works",
         "url": "https://nikolays.github.io/PGSimCity/",
         "source": "nikolays.github.io",
-        "score": 389,
-        "comments": 41,
+        "score": 618,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=49063754",
-        "date": "il y a 6 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Show HN : Trou noir physiquement précis que vous pouvez mettre dans votre chambre",
         "titleOriginal": "Show HN: Physically accurate black hole you can put in your room",
         "url": "https://blackhole.plav.in",
         "source": "blackhole.plav.in",
-        "score": 204,
-        "comments": 57,
+        "score": 324,
+        "comments": 98,
         "hnUrl": "https://news.ycombinator.com/item?id=49021270",
         "date": "il y a 3 j"
-      },
-      {
-        "title": "Decker, une plateforme qui s'appuie sur l'héritage d'Hypercard et de macOS classique",
-        "titleOriginal": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-        "url": "https://beyondloom.com/decker/",
-        "source": "beyondloom.com",
-        "score": 279,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=49060856",
-        "date": "il y a 12 h"
       },
       {
         "title": "Scriptc by Vercel : Compilateur TypeScript-to-Native, pas de moteur JavaScript en binaire",
         "titleOriginal": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
         "url": "https://github.com/vercel-labs/scriptc",
         "source": "github.com",
-        "score": 100,
-        "comments": 39,
+        "score": 185,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=49063175",
-        "date": "il y a 7 h"
+        "date": "il y a 11 h"
       }
     ]
   },
