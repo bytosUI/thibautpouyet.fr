@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-07-28T02:01:28.401Z",
+  "updatedAt": "2026-07-28T05:28:23.378Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
+      "temp": 15,
+      "feelsLike": 15,
       "code": 0,
-      "wind": 2,
-      "humidity": 69
+      "wind": 1,
+      "humidity": 80
     },
     "forecast": [
       {
         "date": "2026-07-28",
         "code": 0,
         "tmax": 32,
-        "tmin": 15
+        "tmin": 14
       },
       {
         "date": "2026-07-29",
         "code": 0,
-        "tmax": 38,
-        "tmin": 18
+        "tmax": 37,
+        "tmin": 17
       },
       {
         "date": "2026-07-30",
-        "code": 63,
-        "tmax": 26,
-        "tmin": 22
+        "code": 80,
+        "tmax": 28,
+        "tmin": 21
       },
       {
         "date": "2026-07-31",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 19
       }
     ]
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "TPShlk5wEU0",
-        "thumbnail": "https://i.ytimg.com/vi/TPShlk5wEU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TPShlk5wEU0",
-        "publishedAt": "2026-07-27T16:09:29+00:00"
-      },
-      {
-        "title": "LE SECRET DU SPHINX EN ÉGYPTE QUE PERSONNE NE CONNAÎT !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "dOFbyLx0ukg",
-        "thumbnail": "https://i.ytimg.com/vi/dOFbyLx0ukg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dOFbyLx0ukg",
-        "publishedAt": "2026-07-27T16:00:16+00:00"
-      },
-      {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      },
-      {
-        "title": "Ce qu'on ne vous montre jamais",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "AzQwMDP5kwc",
-        "thumbnail": "https://i.ytimg.com/vi/AzQwMDP5kwc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AzQwMDP5kwc",
-        "publishedAt": "2026-07-26T09:40:43+00:00"
-      },
-      {
-        "title": "« Les influenceurs ont la tête vide » : vrai ou faux ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "y8cY3-nvDUQ",
-        "thumbnail": "https://i.ytimg.com/vi/y8cY3-nvDUQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y8cY3-nvDUQ",
-        "publishedAt": "2026-07-25T08:10:55+00:00"
-      },
-      {
-        "title": "UNPOPUNIAR OPINIGNON 3 : Bigflo hait les siestes et les comédies musicales",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "YUwayyNWy1c",
-        "thumbnail": "https://i.ytimg.com/vi/YUwayyNWy1c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YUwayyNWy1c",
-        "publishedAt": "2026-07-23T15:22:33+00:00"
-      },
-      {
-        "title": "Grok 4.5 trois fois moins cher | Apple vs OpenAI | La Chine rattrape SpaceX",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Wyt_ttBPhgo",
-        "thumbnail": "https://i.ytimg.com/vi/Wyt_ttBPhgo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Wyt_ttBPhgo",
-        "publishedAt": "2026-07-20T17:00:35+00:00"
-      },
-      {
-        "title": "60 jours pour construire une terrasse géante et un observatoire",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "zoSg9cLlGuo",
-        "thumbnail": "https://i.ytimg.com/vi/zoSg9cLlGuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zoSg9cLlGuo",
-        "publishedAt": "2026-07-10T14:00:13+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,9 +96,29 @@
         "titleOriginal": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "anthropic.com",
-        "score": 465,
-        "comments": 639,
+        "score": 666,
+        "comments": 932,
         "hnUrl": "https://news.ycombinator.com/item?id=49076057",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "L'utilisation d'un modèle ouvert est étonnamment bonne",
+        "titleOriginal": "Using an open model feels surprisingly good",
+        "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+        "source": "matthewsaltz.com",
+        "score": 144,
+        "comments": 49,
+        "hnUrl": "https://news.ycombinator.com/item?id=49078583",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Un affinement de 500 $ RL d'un modèle ouvert de 9B battant les modèles frontières lors de l'examen du catalogue",
+        "titleOriginal": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "url": "https://fermisense.com/when-machines-take-the-wheel/",
+        "source": "fermisense.com",
+        "score": 87,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49078454",
         "date": "il y a 3 h"
       },
       {
@@ -188,30 +126,10 @@
         "titleOriginal": "Benchmarking Opus 5 on SlopCodeBench",
         "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
         "source": "github.com",
-        "score": 124,
-        "comments": 28,
+        "score": 209,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49076391",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Les astronautes décrivent une sensation « d'observateur » persistante après 6 mois de missions",
-        "titleOriginal": "Astronauts describe persistent 'observer' sensation after 6 month missions",
-        "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
-        "source": "spacedaily.com",
-        "score": 53,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49076900",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "DConf 2026 à Londres",
-        "titleOriginal": "DConf 2026 in London",
-        "url": "https://dconf.org/2026/index.html",
-        "source": "dconf.org",
-        "score": 46,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49076840",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       }
     ]
   },
