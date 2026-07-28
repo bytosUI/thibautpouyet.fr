@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-27T23:32:40.356Z",
+  "updatedAt": "2026-07-28T02:01:28.401Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 18,
+      "temp": 16,
+      "feelsLike": 16,
       "code": 0,
-      "wind": 4,
-      "humidity": 65
+      "wind": 2,
+      "humidity": 69
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-07-30",
         "code": 63,
-        "tmax": 28,
+        "tmax": 26,
         "tmin": 22
       },
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 7245,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -186,40 +178,40 @@
         "titleOriginal": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "anthropic.com",
-        "score": 263,
-        "comments": 293,
+        "score": 465,
+        "comments": 639,
         "hnUrl": "https://news.ycombinator.com/item?id=49076057",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Une alternative à Discord – Echoed",
-        "titleOriginal": "A Discord Alternative – Echoed",
-        "url": "https://echoed.gg/",
-        "source": "echoed.gg",
-        "score": 22,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49076497",
-        "date": "il y a 46 min"
+        "title": "Benchmarking Opus 5 sur SlopCodeBench",
+        "titleOriginal": "Benchmarking Opus 5 on SlopCodeBench",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+        "source": "github.com",
+        "score": 124,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49076391",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Les astronautes décrivent une sensation « d'observateur » persistante après 6 mois de missions",
+        "titleOriginal": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+        "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+        "source": "spacedaily.com",
+        "score": 53,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=49076900",
+        "date": "il y a 2 h"
       },
       {
         "title": "DConf 2026 à Londres",
         "titleOriginal": "DConf 2026 in London",
         "url": "https://dconf.org/2026/index.html",
         "source": "dconf.org",
-        "score": 10,
-        "comments": 0,
+        "score": 46,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49076840",
-        "date": "il y a 18 min"
-      },
-      {
-        "title": "Regarder le nouveau collecteur d'ordures de Go se déplacer dans le tas",
-        "titleOriginal": "Watching Go's new garbage collector move through the heap",
-        "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
-        "source": "theconsensus.dev",
-        "score": 147,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49045474",
-        "date": "il y a 2 j"
+        "date": "il y a 2 h"
       }
     ]
   },
