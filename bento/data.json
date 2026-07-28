@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T12:50:19.176Z",
+  "updatedAt": "2026-07-28T15:15:23.788Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 32,
+      "temp": 32,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 1,
-      "humidity": 26
+      "wind": 7,
+      "humidity": 25
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-07-29",
-        "code": 1,
+        "code": 0,
         "tmax": 37,
-        "tmin": 18
+        "tmin": 17
       },
       {
         "date": "2026-07-30",
@@ -178,40 +178,40 @@
         "titleOriginal": "7.1 Earthquake in Japan",
         "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
         "source": "data.jma.go.jp",
-        "score": 372,
-        "comments": 73,
+        "score": 570,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=49080664",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "À propos du contenu de sécurité de macOS Tahoe 26.6",
-        "titleOriginal": "About the security content of macOS Tahoe 26.6",
-        "url": "https://support.apple.com/en-us/128067",
-        "source": "support.apple.com",
-        "score": 99,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=49081555",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Beyond Zero de Google : la sécurité d'entreprise à l'ère de l'IA",
-        "titleOriginal": "Google's Beyond Zero: Enterprise Security for the AI Era",
-        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
-        "source": "spawn-queue.acm.org",
-        "score": 37,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=49081644",
+        "title": "Le nouveau vaccin contre le VIH montre un succès sans précédent dans l'étude préclinique",
+        "titleOriginal": "New HIV vaccine shows unprecedented success in preclinical study",
+        "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
+        "source": "lji.org",
+        "score": 203,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=49083314",
         "date": "il y a 2 h"
       },
       {
-        "title": "Notre position sur les modèles à poids ouverts",
-        "titleOriginal": "Our position on open-weights models",
-        "url": "https://www.anthropic.com/news/position-open-weights-models",
-        "source": "anthropic.com",
-        "score": 996,
-        "comments": 1460,
-        "hnUrl": "https://news.ycombinator.com/item?id=49076057",
-        "date": "il y a 14 h"
+        "title": "Kimi Linear : une architecture d'attention expressive et efficace",
+        "titleOriginal": "Kimi Linear: An Expressive, Efficient Attention Architecture",
+        "url": "https://arxiv.org/abs/2510.26692",
+        "source": "arxiv.org",
+        "score": 99,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49082022",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Show HN : tale.fyi, nous méritons une maison pour la fiction",
+        "titleOriginal": "Show HN: tale.fyi, we deserve a home for fiction",
+        "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
+        "source": "tale.fyi",
+        "score": 46,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=49083389",
+        "date": "il y a 1 h"
       }
     ]
   },
