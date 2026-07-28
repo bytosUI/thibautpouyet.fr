@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-07-28T15:15:23.788Z",
+  "updatedAt": "2026-07-28T16:57:06.696Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
-      "feelsLike": 31,
+      "feelsLike": 30,
       "code": 0,
-      "wind": 7,
-      "humidity": 25
+      "wind": 10,
+      "humidity": 27
     },
     "forecast": [
       {
         "date": "2026-07-28",
-        "code": 0,
+        "code": 1,
         "tmax": 32,
         "tmin": 14
       },
       {
         "date": "2026-07-29",
-        "code": 0,
+        "code": 1,
         "tmax": 37,
         "tmin": 17
       },
       {
         "date": "2026-07-30",
-        "code": 61,
-        "tmax": 29,
+        "code": 80,
+        "tmax": 28,
         "tmin": 23
       },
       {
         "date": "2026-07-31",
         "code": 3,
-        "tmax": 30,
+        "tmax": 29,
         "tmin": 19
       }
     ]
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "NOUS VIVONS DANS UNE SIMULATION ET NOTRE MONDE N’EXISTE PAS ! IL NOUS EXPLIQUE ET MONTRE SES PREUVES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "f9EzHtSc6nI",
+        "thumbnail": "https://i.ytimg.com/vi/f9EzHtSc6nI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f9EzHtSc6nI",
+        "publishedAt": "2026-07-28T14:31:54+00:00"
+      },
+      {
         "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/TPShlk5wEU0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TPShlk5wEU0",
         "publishedAt": "2026-07-27T16:09:29+00:00"
-      },
-      {
-        "title": "LE SECRET DU SPHINX EN ÉGYPTE QUE PERSONNE NE CONNAÎT !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "dOFbyLx0ukg",
-        "thumbnail": "https://i.ytimg.com/vi/dOFbyLx0ukg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dOFbyLx0ukg",
-        "publishedAt": "2026-07-27T16:00:16+00:00"
       },
       {
         "title": "48h pour isoler l’étage… #25",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "7.1 Tremblement de terre au Japon",
-        "titleOriginal": "7.1 Earthquake in Japan",
-        "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
-        "source": "data.jma.go.jp",
-        "score": 570,
-        "comments": 114,
-        "hnUrl": "https://news.ycombinator.com/item?id=49080664",
-        "date": "il y a 7 h"
+        "title": "Vous auriez pu venir avec Kimi Delta Attention",
+        "titleOriginal": "You Could Have Come Up with Kimi Delta Attention",
+        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
+        "source": "blog.doubleword.ai",
+        "score": 76,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49085909",
+        "date": "il y a 54 min"
       },
       {
-        "title": "Le nouveau vaccin contre le VIH montre un succès sans précédent dans l'étude préclinique",
-        "titleOriginal": "New HIV vaccine shows unprecedented success in preclinical study",
-        "url": "https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/",
-        "source": "lji.org",
-        "score": 203,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=49083314",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Kimi Linear : une architecture d'attention expressive et efficace",
-        "titleOriginal": "Kimi Linear: An Expressive, Efficient Attention Architecture",
-        "url": "https://arxiv.org/abs/2510.26692",
-        "source": "arxiv.org",
-        "score": 99,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49082022",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Show HN : tale.fyi, nous méritons une maison pour la fiction",
-        "titleOriginal": "Show HN: tale.fyi, we deserve a home for fiction",
-        "url": "https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link",
-        "source": "tale.fyi",
+        "title": "Gratification différée – Fier d'être « le dernier à annoncer la nouvelle »",
+        "titleOriginal": "Delayed Gratification – Proud to Be 'Last to Breaking News'",
+        "url": "https://www.slow-journalism.com/",
+        "source": "slow-journalism.com",
         "score": 46,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49083389",
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49085731",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Intérieurs de compilation incrémentielle de Zig",
+        "titleOriginal": "Zig's Incremental Compilation Internals",
+        "url": "https://mlugg.co.uk/posts/incremental-compilation-internals/",
+        "source": "mlugg.co.uk",
+        "score": 48,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49085666",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Comment puis-je créer un profil du code eBPF ?",
+        "titleOriginal": "How Do I Profile eBPF Code?",
+        "url": "https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/",
+        "source": "naveensrinivasan.com",
+        "score": 36,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49085811",
         "date": "il y a 1 h"
       }
     ]
