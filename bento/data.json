@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T08:00:03.900Z",
+  "updatedAt": "2026-07-28T10:41:59.738Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
+      "temp": 27,
+      "feelsLike": 29,
       "code": 0,
       "wind": 3,
-      "humidity": 51
+      "humidity": 33
     },
     "forecast": [
       {
@@ -18,20 +18,20 @@
       },
       {
         "date": "2026-07-29",
-        "code": 0,
+        "code": 1,
         "tmax": 37,
-        "tmin": 17
+        "tmin": 18
       },
       {
         "date": "2026-07-30",
-        "code": 80,
-        "tmax": 28,
-        "tmin": 21
+        "code": 61,
+        "tmax": 29,
+        "tmin": 23
       },
       {
         "date": "2026-07-31",
         "code": 3,
-        "tmax": 28,
+        "tmax": 30,
         "tmin": 19
       }
     ]
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Notre position sur les modèles à poids ouverts",
-        "titleOriginal": "Our position on open-weights models",
-        "url": "https://www.anthropic.com/news/position-open-weights-models",
-        "source": "anthropic.com",
-        "score": 829,
-        "comments": 1194,
-        "hnUrl": "https://news.ycombinator.com/item?id=49076057",
-        "date": "il y a 9 h"
-      },
-      {
         "title": "7.1 Tremblement de terre au Japon",
         "titleOriginal": "7.1 Earthquake in Japan",
         "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
         "source": "data.jma.go.jp",
-        "score": 13,
-        "comments": 0,
+        "score": 233,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49080664",
-        "date": "il y a 15 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Neutrino-1 8B",
-        "titleOriginal": "Neutrino-1 8B",
-        "url": "https://www.fermionresearch.com/models/neutrino-8b/",
-        "source": "fermionresearch.com",
-        "score": 58,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49079490",
-        "date": "il y a 3 h"
+        "title": "À propos du contenu de sécurité de macOS Tahoe 26.6",
+        "titleOriginal": "About the security content of macOS Tahoe 26.6",
+        "url": "https://support.apple.com/en-us/128067",
+        "source": "support.apple.com",
+        "score": 30,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49081555",
+        "date": "il y a 56 min"
       },
       {
-        "title": "Un affinement de 500 $ RL d'un modèle ouvert de 9B battant les modèles frontières lors de l'examen du catalogue",
-        "titleOriginal": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-        "url": "https://fermisense.com/when-machines-take-the-wheel/",
-        "source": "fermisense.com",
-        "score": 146,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49078454",
-        "date": "il y a 5 h"
+        "title": "Que sont même les microservices ?",
+        "titleOriginal": "What Even Are Microservices?",
+        "url": "https://var0.xyz/posts/what-even-are-microservices.html",
+        "source": "var0.xyz",
+        "score": 17,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49081594",
+        "date": "il y a 49 min"
+      },
+      {
+        "title": "Notre position sur les modèles à poids ouverts",
+        "titleOriginal": "Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "source": "anthropic.com",
+        "score": 935,
+        "comments": 1351,
+        "hnUrl": "https://news.ycombinator.com/item?id=49076057",
+        "date": "il y a 12 h"
       }
     ]
   },
