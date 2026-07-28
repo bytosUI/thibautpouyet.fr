@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T10:41:59.738Z",
+  "updatedAt": "2026-07-28T12:50:19.176Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 29,
+      "temp": 30,
+      "feelsLike": 32,
       "code": 0,
-      "wind": 3,
-      "humidity": 33
+      "wind": 1,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "7.1 Earthquake in Japan",
         "url": "https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en",
         "source": "data.jma.go.jp",
-        "score": 233,
-        "comments": 55,
+        "score": 372,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49080664",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "À propos du contenu de sécurité de macOS Tahoe 26.6",
         "titleOriginal": "About the security content of macOS Tahoe 26.6",
         "url": "https://support.apple.com/en-us/128067",
         "source": "support.apple.com",
-        "score": 30,
-        "comments": 14,
+        "score": 99,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49081555",
-        "date": "il y a 56 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Que sont même les microservices ?",
-        "titleOriginal": "What Even Are Microservices?",
-        "url": "https://var0.xyz/posts/what-even-are-microservices.html",
-        "source": "var0.xyz",
-        "score": 17,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49081594",
-        "date": "il y a 49 min"
+        "title": "Beyond Zero de Google : la sécurité d'entreprise à l'ère de l'IA",
+        "titleOriginal": "Google's Beyond Zero: Enterprise Security for the AI Era",
+        "url": "https://spawn-queue.acm.org/doi/10.1145/3819083",
+        "source": "spawn-queue.acm.org",
+        "score": 37,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=49081644",
+        "date": "il y a 2 h"
       },
       {
         "title": "Notre position sur les modèles à poids ouverts",
         "titleOriginal": "Our position on open-weights models",
         "url": "https://www.anthropic.com/news/position-open-weights-models",
         "source": "anthropic.com",
-        "score": 935,
-        "comments": 1351,
+        "score": 996,
+        "comments": 1460,
         "hnUrl": "https://news.ycombinator.com/item?id=49076057",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
       }
     ]
   },
