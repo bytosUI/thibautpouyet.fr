@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T19:59:09.402Z",
+  "updatedAt": "2026-07-28T21:12:24.894Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 28,
-      "code": 0,
-      "wind": 6,
-      "humidity": 31
+      "temp": 26,
+      "feelsLike": 26,
+      "code": 1,
+      "wind": 4,
+      "humidity": 37
     },
     "forecast": [
       {
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Déblocage Casa Grande",
-        "titleOriginal": "Deflock Casa Grande",
-        "url": "https://deflockcg.com/",
-        "source": "deflockcg.com",
-        "score": 182,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=49088148",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Faire un don à GrapheneOS",
-        "titleOriginal": "Donate to GrapheneOS",
-        "url": "https://grapheneos.org/donate",
-        "source": "grapheneos.org",
-        "score": 126,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49088451",
-        "date": "il y a 52 min"
-      },
-      {
         "title": "Rédacteurs de sous-pile, vous avez besoin d'un site Web",
         "titleOriginal": "Substack writers, you need a website",
         "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
         "source": "elizabethtai.com",
-        "score": 156,
-        "comments": 111,
+        "score": 282,
+        "comments": 154,
         "hnUrl": "https://news.ycombinator.com/item?id=49086788",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Une visite guidée de la famille de variantes d'attention linéaire DeltaNet",
-        "titleOriginal": "A walk through of the DeltaNet family of linear attention variants",
-        "url": "https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention",
-        "source": "blog.doubleword.ai",
-        "score": 261,
-        "comments": 110,
-        "hnUrl": "https://news.ycombinator.com/item?id=49085909",
+        "title": "Steel Bank Common Lisp version 2.6.7",
+        "titleOriginal": "Steel Bank Common Lisp version 2.6.7",
+        "url": "https://sbcl.org/all-news.html?2.6.7",
+        "source": "sbcl.org",
+        "score": 139,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49086971",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Aperçu de l'architecture Kimi K3 et notes",
+        "titleOriginal": "Kimi K3 Architecture Overview and Notes",
+        "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
+        "source": "sebastianraschka.com",
+        "score": 203,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49085698",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Le programme de mise à niveau iPhone est remplacé par la mise à niveau Apple",
+        "titleOriginal": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
+        "url": "https://www.apple.com/shop/iphone/iphone-upgrade-program",
+        "source": "apple.com",
+        "score": 84,
+        "comments": 149,
+        "hnUrl": "https://news.ycombinator.com/item?id=49087306",
         "date": "il y a 3 h"
       }
     ]
