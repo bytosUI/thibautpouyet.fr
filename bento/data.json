@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-28T22:32:16.037Z",
+  "updatedAt": "2026-07-28T23:54:47.125Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
-      "code": 1,
-      "wind": 2,
-      "humidity": 45
+      "temp": 22,
+      "feelsLike": 22,
+      "code": 0,
+      "wind": 1,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -174,13 +174,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenAI juste open-source Codex Security",
-        "titleOriginal": "OpenAI just open-sourced Codex Security",
+        "title": "Sécurité Codex",
+        "titleOriginal": "Codex Security",
         "url": "https://github.com/openai/codex-security",
         "source": "github.com",
-        "score": 187,
-        "comments": 37,
+        "score": 286,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=49089755",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Half-Life porté sur Mac OS 9",
+        "titleOriginal": "Half-Life ported to Mac OS 9",
+        "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
+        "source": "mac-classic.com",
+        "score": 104,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49089814",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Afficher HN : J'étais fatigué d'ouvrir 2 onglets pour chaque lien HN, alors j'ai créé un script utilisateur",
+        "titleOriginal": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "url": "https://github.com/twalichiewicz/HNewhere",
+        "source": "github.com",
+        "score": 61,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49090607",
         "date": "il y a 1 h"
       },
       {
@@ -188,30 +208,10 @@
         "titleOriginal": "Substack writers, you need a website",
         "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
         "source": "elizabethtai.com",
-        "score": 347,
-        "comments": 187,
+        "score": 379,
+        "comments": 195,
         "hnUrl": "https://news.ycombinator.com/item?id=49086788",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Half-Life porté sur Mac OS 9",
-        "titleOriginal": "Half-Life ported to Mac OS 9",
-        "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-        "source": "mac-classic.com",
-        "score": 54,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49089814",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Anthropic publie une attaque pratique de récupération de clé sur HAWK-256",
-        "titleOriginal": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-        "url": "https://github.com/anthropics/cryptography-research-demo",
-        "source": "github.com",
-        "score": 23,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49090083",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       }
     ]
   },
