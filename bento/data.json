@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-29T19:51:04.797Z",
+  "updatedAt": "2026-07-29T20:48:17.801Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
+      "temp": 28,
+      "feelsLike": 27,
       "code": 0,
-      "wind": 4,
-      "humidity": 21
+      "wind": 5,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Kimi K3-256k",
         "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
         "source": "kimi.com",
-        "score": 48,
-        "comments": 5,
+        "score": 170,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=49101852",
-        "date": "il y a 25 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
         "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "github.com",
-        "score": 474,
-        "comments": 166,
+        "score": 513,
+        "comments": 179,
         "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Anatomie d'une intrusion d'agent de laboratoire frontalier : chronologie technique de l'incident",
         "titleOriginal": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
         "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
         "source": "huggingface.co",
-        "score": 132,
-        "comments": 72,
+        "score": 184,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=49089500",
-        "date": "il y a 23 h"
+        "date": "hier"
       },
       {
         "title": "Superlogique",
         "titleOriginal": "Superlogical",
         "url": "https://www.superlogical.com/",
         "source": "superlogical.com",
-        "score": 335,
-        "comments": 234,
+        "score": 376,
+        "comments": 256,
         "hnUrl": "https://news.ycombinator.com/item?id=49098965",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
