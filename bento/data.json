@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-29T20:48:17.801Z",
+  "updatedAt": "2026-07-29T21:54:54.774Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 27,
+      "temp": 26,
+      "feelsLike": 25,
       "code": 0,
       "wind": 5,
-      "humidity": 27
+      "humidity": 30
     },
     "forecast": [
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-08-01",
         "code": 3,
-        "tmax": 31,
+        "tmax": 30,
         "tmin": 19
       }
     ]
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Kimi K3-256k",
-        "titleOriginal": "Kimi K3-256k",
-        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "source": "kimi.com",
-        "score": 170,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=49101852",
+        "title": "L'utilisation la plus cool pour le Vision Pro",
+        "titleOriginal": "The coolest use for the Vision Pro",
+        "url": "https://christianselig.com/2026/07/vision-pro-house/",
+        "source": "christianselig.com",
+        "score": 132,
+        "comments": 60,
+        "hnUrl": "https://news.ycombinator.com/item?id=49102774",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Les meilleures startups d'IA publient à peine leurs recherches",
+        "titleOriginal": "AI's top startups are barely publishing their research",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "source": "science.org",
+        "score": 22,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49103285",
+        "date": "il y a 29 min"
       },
       {
         "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
         "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "github.com",
-        "score": 513,
-        "comments": 179,
+        "score": 556,
+        "comments": 191,
         "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Anatomie d'une intrusion d'agent de laboratoire frontalier : chronologie technique de l'incident",
-        "titleOriginal": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
-        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-        "source": "huggingface.co",
-        "score": 184,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=49089500",
-        "date": "hier"
-      },
-      {
-        "title": "Superlogique",
-        "titleOriginal": "Superlogical",
-        "url": "https://www.superlogical.com/",
-        "source": "superlogical.com",
-        "score": 376,
-        "comments": 256,
-        "hnUrl": "https://news.ycombinator.com/item?id=49098965",
-        "date": "il y a 5 h"
+        "title": "Kimi K3-256k",
+        "titleOriginal": "Kimi K3-256k",
+        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
+        "source": "kimi.com",
+        "score": 259,
+        "comments": 71,
+        "hnUrl": "https://news.ycombinator.com/item?id=49101852",
+        "date": "il y a 2 h"
       }
     ]
   },
