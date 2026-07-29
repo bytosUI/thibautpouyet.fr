@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-29T15:27:22.776Z",
+  "updatedAt": "2026-07-29T16:49:25.387Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 37,
-      "feelsLike": 33,
+      "feelsLike": 34,
       "code": 0,
-      "wind": 21,
-      "humidity": 16
+      "wind": 11,
+      "humidity": 15
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-07-30",
-        "code": 95,
-        "tmax": 29,
+        "code": 80,
+        "tmax": 31,
         "tmin": 22
       },
       {
         "date": "2026-07-31",
         "code": 3,
-        "tmax": 28,
-        "tmin": 20
+        "tmax": 30,
+        "tmin": 21
       },
       {
         "date": "2026-08-01",
         "code": 3,
-        "tmax": 29,
-        "tmin": 17
+        "tmax": 31,
+        "tmin": 19
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "VOTRE CONSCIENCE NE VIENT PAS DE VOTRE CERVEAU ET LA SCIENCE COMMENCE À LE PROUVER !",
+        "title": "NOUS VIVONS DANS UNE SIMULATION ET ELON MUSK EN SERAIT L’ORGANISATEUR ! CETTE THÉORIE EXPLIQUÉE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "DSl6s9zF4Bc",
-        "thumbnail": "https://i.ytimg.com/vi/DSl6s9zF4Bc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DSl6s9zF4Bc",
-        "publishedAt": "2026-07-29T15:00:16+00:00"
+        "videoId": "FGxDxj3DiXE",
+        "thumbnail": "https://i.ytimg.com/vi/FGxDxj3DiXE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FGxDxj3DiXE",
+        "publishedAt": "2026-07-29T16:00:03+00:00"
       },
       {
         "title": "50 nuances de gauchisme !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
+        "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "source": "github.com",
+        "score": 192,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49098510",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "KOReader",
         "titleOriginal": "KOReader",
         "url": "https://koreader.rocks/",
         "source": "koreader.rocks",
-        "score": 399,
-        "comments": 133,
+        "score": 486,
+        "comments": 158,
         "hnUrl": "https://news.ycombinator.com/item?id=49095865",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Superlogique – Mitchell Hashimoto",
+        "titleOriginal": "Superlogical – Mitchell Hashimoto",
+        "url": "https://mitchellh.com/writing/superlogical",
+        "source": "mitchellh.com",
+        "score": 58,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49099015",
+        "date": "il y a 1 h"
       },
       {
         "title": "Handbook.md montre que les longs documents de police ne régissent pas de manière fiable les agents",
         "titleOriginal": "Handbook.md shows that long policy documents do not reliably govern agents",
         "url": "https://arxiv.org/abs/2607.25398",
         "source": "arxiv.org",
-        "score": 123,
-        "comments": 78,
+        "score": 184,
+        "comments": 117,
         "hnUrl": "https://news.ycombinator.com/item?id=49096969",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
-        "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "url": "https://github.com/drumih/turbo-fieldfare",
-        "source": "github.com",
-        "score": 26,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 21 min"
-      },
-      {
-        "title": "Expédition de Godot VR et portage vers PSVR2 : un post mortem partiel",
-        "titleOriginal": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
-        "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
-        "source": "claire-blackshaw.com",
-        "score": 35,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096811",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
