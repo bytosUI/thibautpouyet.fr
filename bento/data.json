@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-07-29T13:12:50.610Z",
+  "updatedAt": "2026-07-29T15:27:22.776Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
-      "feelsLike": 36,
+      "temp": 37,
+      "feelsLike": 33,
       "code": 0,
-      "wind": 13,
-      "humidity": 20
+      "wind": 21,
+      "humidity": 16
     },
     "forecast": [
       {
         "date": "2026-07-29",
         "code": 1,
-        "tmax": 38,
+        "tmax": 37,
         "tmin": 17
       },
       {
         "date": "2026-07-30",
-        "code": 80,
-        "tmax": 30,
+        "code": 95,
+        "tmax": 29,
         "tmin": 22
       },
       {
         "date": "2026-07-31",
-        "code": 95,
+        "code": 3,
         "tmax": 28,
         "tmin": 20
       },
@@ -37,18 +37,10 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 458,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "FANTÔMES, MÉDIUMS… POURQUOI CES PHÉNOMÈNES PROUVENT QU’ON VIT DANS UNE SIMULATION ?",
+        "title": "VOTRE CONSCIENCE NE VIENT PAS DE VOTRE CERVEAU ET LA SCIENCE COMMENCE À LE PROUVER !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "64zvOZKhfg4",
-        "thumbnail": "https://i.ytimg.com/vi/64zvOZKhfg4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=64zvOZKhfg4",
-        "publishedAt": "2026-07-29T13:00:24+00:00"
+        "videoId": "DSl6s9zF4Bc",
+        "thumbnail": "https://i.ytimg.com/vi/DSl6s9zF4Bc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DSl6s9zF4Bc",
+        "publishedAt": "2026-07-29T15:00:16+00:00"
       },
       {
-        "title": "Pourquoi il faut quitter la France avant 2027 ?",
+        "title": "50 nuances de gauchisme !",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "jTFoTlO60fc",
-        "thumbnail": "https://i.ytimg.com/vi/jTFoTlO60fc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jTFoTlO60fc",
-        "publishedAt": "2026-07-29T12:40:05+00:00"
+        "videoId": "RQuJ8ZluNIY",
+        "thumbnail": "https://i.ytimg.com/vi/RQuJ8ZluNIY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RQuJ8ZluNIY",
+        "publishedAt": "2026-07-29T14:43:32+00:00"
       },
       {
         "title": "On fait un magnifique château de sable avec Fred qui trouvera une place dans vos cœurs",
@@ -186,39 +178,39 @@
         "titleOriginal": "KOReader",
         "url": "https://koreader.rocks/",
         "source": "koreader.rocks",
-        "score": 148,
-        "comments": 60,
+        "score": 399,
+        "comments": 133,
         "hnUrl": "https://news.ycombinator.com/item?id=49095865",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Handbook.md montre que les longs documents de police ne régissent pas de manière fiable les agents",
+        "titleOriginal": "Handbook.md shows that long policy documents do not reliably govern agents",
+        "url": "https://arxiv.org/abs/2607.25398",
+        "source": "arxiv.org",
+        "score": 123,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=49096969",
         "date": "il y a 2 h"
       },
       {
-        "title": "Les vers IA portés par des documents peuvent se propager automatiquement via Copilot pour Word",
-        "titleOriginal": "Document-borne AI worms can self-propagate through Copilot for Word",
-        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "source": "enklypesalt.com",
-        "score": 87,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096188",
-        "date": "il y a 1 h"
+        "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
+        "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
+        "url": "https://github.com/drumih/turbo-fieldfare",
+        "source": "github.com",
+        "score": 26,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49098510",
+        "date": "il y a 21 min"
       },
       {
-        "title": "Plus d'astuces Tailscale pour votre Kindle jailbreaké",
-        "titleOriginal": "More Tailscale tricks for your jailbroken Kindle",
-        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
-        "source": "tailscale.com",
-        "score": 267,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=49093569",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "SpecForge – Une plate-forme pour la rédaction de spécifications formelles",
-        "titleOriginal": "SpecForge – A Platform for Authoring Formal Specifications",
-        "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
-        "source": "docs.imiron.io",
-        "score": 36,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49095628",
+        "title": "Expédition de Godot VR et portage vers PSVR2 : un post mortem partiel",
+        "titleOriginal": "Shipping Godot VR and Porting to PSVR2: A Partial Post Mortem",
+        "url": "https://www.claire-blackshaw.com/blog/2026/07/shipping-godot-vr-and-porting-to-psvr2-a-partial-post-mortem/",
+        "source": "claire-blackshaw.com",
+        "score": 35,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49096811",
         "date": "il y a 2 h"
       }
     ]
