@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-29T16:49:25.387Z",
+  "updatedAt": "2026-07-29T18:03:04.011Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
-      "feelsLike": 34,
+      "temp": 36,
+      "feelsLike": 35,
       "code": 0,
-      "wind": 11,
-      "humidity": 15
+      "wind": 4,
+      "humidity": 16
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Les phrases légendaires de Fred (ft @chateaux_de_sable)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "VRLHF_xdl4I",
+        "thumbnail": "https://i.ytimg.com/vi/VRLHF_xdl4I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VRLHF_xdl4I",
+        "publishedAt": "2026-07-29T17:16:43+00:00"
+      },
+      {
         "title": "NOUS VIVONS DANS UNE SIMULATION ET ELON MUSK EN SERAIT L’ORGANISATEUR ! CETTE THÉORIE EXPLIQUÉE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/RQuJ8ZluNIY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RQuJ8ZluNIY",
         "publishedAt": "2026-07-29T14:43:32+00:00"
-      },
-      {
-        "title": "On fait un magnifique château de sable avec Fred qui trouvera une place dans vos cœurs",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "rJW00cN-IgQ",
-        "thumbnail": "https://i.ytimg.com/vi/rJW00cN-IgQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rJW00cN-IgQ",
-        "publishedAt": "2026-07-28T17:15:38+00:00"
       },
       {
         "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
@@ -178,40 +178,40 @@
         "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "github.com",
-        "score": 192,
-        "comments": 48,
+        "score": 326,
+        "comments": 95,
         "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Superlogique",
+        "titleOriginal": "Superlogical",
+        "url": "https://www.superlogical.com/",
+        "source": "superlogical.com",
+        "score": 177,
+        "comments": 139,
+        "hnUrl": "https://news.ycombinator.com/item?id=49098965",
+        "date": "il y a 2 h"
       },
       {
         "title": "KOReader",
         "titleOriginal": "KOReader",
         "url": "https://koreader.rocks/",
         "source": "koreader.rocks",
-        "score": 486,
-        "comments": 158,
+        "score": 528,
+        "comments": 168,
         "hnUrl": "https://news.ycombinator.com/item?id=49095865",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Superlogique – Mitchell Hashimoto",
-        "titleOriginal": "Superlogical – Mitchell Hashimoto",
-        "url": "https://mitchellh.com/writing/superlogical",
-        "source": "mitchellh.com",
-        "score": 58,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=49099015",
+        "title": "Keychron annonce le premier micrologiciel open source pour souris de jeu",
+        "titleOriginal": "Keychron announces first open-source firmware for gaming mice",
+        "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
+        "source": "digitalfoundry.net",
+        "score": 48,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=49099715",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Handbook.md montre que les longs documents de police ne régissent pas de manière fiable les agents",
-        "titleOriginal": "Handbook.md shows that long policy documents do not reliably govern agents",
-        "url": "https://arxiv.org/abs/2607.25398",
-        "source": "arxiv.org",
-        "score": 184,
-        "comments": 117,
-        "hnUrl": "https://news.ycombinator.com/item?id=49096969",
-        "date": "il y a 3 h"
       }
     ]
   },
