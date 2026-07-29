@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-07-29T21:54:54.774Z",
+  "updatedAt": "2026-07-29T22:56:21.076Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 25,
+      "temp": 24,
+      "feelsLike": 24,
       "code": 0,
-      "wind": 5,
-      "humidity": 30
+      "wind": 4,
+      "humidity": 40
     },
     "forecast": [
       {
-        "date": "2026-07-29",
-        "code": 1,
-        "tmax": 37,
-        "tmin": 17
-      },
-      {
         "date": "2026-07-30",
-        "code": 80,
-        "tmax": 31,
-        "tmin": 22
+        "code": 95,
+        "tmax": 32,
+        "tmin": 21
       },
       {
         "date": "2026-07-31",
         "code": 3,
         "tmax": 30,
-        "tmin": 20
+        "tmin": 21
       },
       {
         "date": "2026-08-01",
         "code": 3,
         "tmax": 30,
         "tmin": 19
+      },
+      {
+        "date": "2026-08-02",
+        "code": 3,
+        "tmax": 33,
+        "tmin": 17
       }
     ]
   },
@@ -178,40 +178,40 @@
         "titleOriginal": "The coolest use for the Vision Pro",
         "url": "https://christianselig.com/2026/07/vision-pro-house/",
         "source": "christianselig.com",
-        "score": 132,
-        "comments": 60,
+        "score": 232,
+        "comments": 104,
         "hnUrl": "https://news.ycombinator.com/item?id=49102774",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Les meilleures startups d'IA publient à peine leurs recherches",
         "titleOriginal": "AI's top startups are barely publishing their research",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "source": "science.org",
-        "score": 22,
-        "comments": 5,
+        "score": 76,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=49103285",
-        "date": "il y a 29 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
         "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "github.com",
-        "score": 556,
-        "comments": 191,
+        "score": 591,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Kimi K3-256k",
-        "titleOriginal": "Kimi K3-256k",
-        "url": "https://www.kimi.com/code/docs/en/kimi-code/models",
-        "source": "kimi.com",
-        "score": 259,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=49101852",
-        "date": "il y a 2 h"
+        "title": "Superlogique",
+        "titleOriginal": "Superlogical",
+        "url": "https://www.superlogical.com/",
+        "source": "superlogical.com",
+        "score": 454,
+        "comments": 287,
+        "hnUrl": "https://news.ycombinator.com/item?id=49098965",
+        "date": "il y a 7 h"
       }
     ]
   },
