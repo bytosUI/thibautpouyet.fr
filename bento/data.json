@@ -1,55 +1,55 @@
 {
-  "updatedAt": "2026-07-29T08:29:54.728Z",
+  "updatedAt": "2026-07-29T11:03:42.077Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
+      "temp": 34,
+      "feelsLike": 35,
       "code": 0,
-      "wind": 2,
-      "humidity": 41
+      "wind": 7,
+      "humidity": 22
     },
     "forecast": [
       {
         "date": "2026-07-29",
         "code": 1,
-        "tmax": 37,
+        "tmax": 38,
         "tmin": 17
       },
       {
         "date": "2026-07-30",
         "code": 80,
         "tmax": 30,
-        "tmin": 23
+        "tmin": 22
       },
       {
         "date": "2026-07-31",
-        "code": 80,
-        "tmax": 29,
+        "code": 95,
+        "tmax": 28,
         "tmin": 20
       },
       {
         "date": "2026-08-01",
         "code": 3,
         "tmax": 29,
-        "tmin": 16
+        "tmin": 17
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 251,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 226,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -60,6 +60,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "NOUS VIVONS DANS UNE SIMULATION ! ET NOTRE MONDE N’EXISTE PAS !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "JKvdobp_1RM",
+        "thumbnail": "https://i.ytimg.com/vi/JKvdobp_1RM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JKvdobp_1RM",
+        "publishedAt": "2026-07-29T10:00:09+00:00"
+      },
+      {
         "title": "On fait un magnifique château de sable avec Fred qui trouvera une place dans vos cœurs",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -67,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/rJW00cN-IgQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rJW00cN-IgQ",
         "publishedAt": "2026-07-28T17:15:38+00:00"
-      },
-      {
-        "title": "NOUS VIVONS DANS UNE SIMULATION ET NOTRE MONDE N’EXISTE PAS ! IL NOUS EXPLIQUE ET MONTRE SES PREUVES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "f9EzHtSc6nI",
-        "thumbnail": "https://i.ytimg.com/vi/f9EzHtSc6nI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f9EzHtSc6nI",
-        "publishedAt": "2026-07-28T14:31:54+00:00"
       },
       {
         "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
@@ -186,40 +186,40 @@
         "titleOriginal": "More Tailscale tricks for your jailbroken Kindle",
         "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
         "source": "tailscale.com",
-        "score": 144,
-        "comments": 45,
+        "score": 215,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=49093569",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Interfaces utilisateur de la scène de démonstration",
         "titleOriginal": "User Interfaces of the Demo Scene",
         "url": "https://www.datagubbe.se/scenegui/",
         "source": "datagubbe.se",
-        "score": 134,
-        "comments": 22,
+        "score": 224,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=49093434",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "SpecForge – Une plate-forme pour la rédaction de spécifications formelles",
+        "titleOriginal": "SpecForge – A Platform for Authoring Formal Specifications",
+        "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+        "source": "docs.imiron.io",
+        "score": 8,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49095628",
+        "date": "il y a 28 min"
+      },
+      {
+        "title": "SQLite en production : optimisation des couches WAL Mode, Concurrency et VFS",
+        "titleOriginal": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+        "url": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+        "source": "micrologics.org",
+        "score": 77,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49094346",
         "date": "il y a 3 h"
-      },
-      {
-        "title": "Sécurité Codex",
-        "titleOriginal": "Codex Security",
-        "url": "https://github.com/openai/codex-security",
-        "source": "github.com",
-        "score": 487,
-        "comments": 159,
-        "hnUrl": "https://news.ycombinator.com/item?id=49089755",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Afficher HN : J'étais fatigué d'ouvrir 2 onglets pour chaque lien HN, alors j'ai créé un script utilisateur",
-        "titleOriginal": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-        "url": "https://github.com/twalichiewicz/HNewhere",
-        "source": "github.com",
-        "score": 289,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=49090607",
-        "date": "il y a 10 h"
       }
     ]
   },
