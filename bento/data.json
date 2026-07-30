@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-30T07:53:16.889Z",
+  "updatedAt": "2026-07-30T10:18:56.481Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 26,
-      "code": 3,
-      "wind": 15,
-      "humidity": 32
+      "temp": 23,
+      "feelsLike": 23,
+      "code": 95,
+      "wind": 16,
+      "humidity": 68
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-08-01",
         "code": 3,
         "tmax": 30,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-08-02",
@@ -37,21 +37,13 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 513,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,16 +52,25 @@
   "youtube": {
     "videos": [
       {
-        "title": "NOTRE MAQUILLEUSE SORT DE SON CORPS 3 FOIS PAR SEMAINE",
+        "title": "LE SIÈGE D’APPLE AURAIT COÛTÉ 4,1 MILLIARDS DE DOLLARS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "YznRJpkXTtc",
-        "thumbnail": "https://i.ytimg.com/vi/YznRJpkXTtc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YznRJpkXTtc",
-        "publishedAt": "2026-07-30T07:00:00+00:00"
+        "videoId": "xzv_ZgRAbWQ",
+        "thumbnail": "https://i.ytimg.com/vi/xzv_ZgRAbWQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xzv_ZgRAbWQ",
+        "publishedAt": "2026-07-30T10:00:25+00:00"
       },
       {
-        "title": "Moonshot AI vient de faire voler en éclats les valorisations d'Anthropic et OpenAI !",
+        "title": "Il est sûr à 100% de ne jamais revenir en France",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "-LgukwYMzDI",
+        "thumbnail": "https://i.ytimg.com/vi/-LgukwYMzDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-LgukwYMzDI",
+        "publishedAt": "2026-07-30T07:54:26+00:00"
+      },
+      {
+        "title": "Kimi K3 vient de rendre obsolètes les milliards dépensés par OpenAI et Anthropic !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
         "videoId": "Spy42k8fvhU",
@@ -85,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/VRLHF_xdl4I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VRLHF_xdl4I",
         "publishedAt": "2026-07-29T17:16:43+00:00"
-      },
-      {
-        "title": "50 nuances de gauchisme !",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "RQuJ8ZluNIY",
-        "thumbnail": "https://i.ytimg.com/vi/RQuJ8ZluNIY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RQuJ8ZluNIY",
-        "publishedAt": "2026-07-29T14:43:32+00:00"
       },
       {
         "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
@@ -186,40 +178,40 @@
         "titleOriginal": "AI's top startups are barely publishing their research",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "source": "science.org",
-        "score": 402,
-        "comments": 215,
+        "score": 481,
+        "comments": 245,
         "hnUrl": "https://news.ycombinator.com/item?id=49103285",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "L'utilisation la plus cool pour le Vision Pro",
         "titleOriginal": "The coolest use for the Vision Pro",
         "url": "https://christianselig.com/2026/07/vision-pro-house/",
         "source": "christianselig.com",
-        "score": 614,
-        "comments": 242,
+        "score": 678,
+        "comments": 262,
         "hnUrl": "https://news.ycombinator.com/item?id=49102774",
-        "date": "il y a 11 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
         "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "github.com",
-        "score": 761,
-        "comments": 263,
+        "score": 806,
+        "comments": 284,
         "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 16 h"
+        "date": "il y a 19 h"
       },
       {
         "title": "Superlogique",
         "titleOriginal": "Superlogical",
         "url": "https://www.superlogical.com/",
         "source": "superlogical.com",
-        "score": 657,
-        "comments": 397,
+        "score": 706,
+        "comments": 414,
         "hnUrl": "https://news.ycombinator.com/item?id=49098965",
-        "date": "il y a 16 h"
+        "date": "il y a 18 h"
       }
     ]
   },
