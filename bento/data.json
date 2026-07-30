@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-30T17:55:01.501Z",
+  "updatedAt": "2026-07-30T19:16:35.184Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 28,
       "feelsLike": 30,
-      "code": 0,
-      "wind": 8,
-      "humidity": 53
+      "code": 3,
+      "wind": 2,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Faire progresser la frontière prix-performance avec GPT‑5.6",
-        "titleOriginal": "Advancing the price-performance frontier with GPT‑5.6",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-        "source": "openai.com",
-        "score": 119,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=49112867",
-        "date": "il y a 39 min"
-      },
-      {
-        "title": "Gemini Robotics 2 apporte l'intelligence du corps entier aux robots",
-        "titleOriginal": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "source": "deepmind.google",
-        "score": 238,
-        "comments": 242,
-        "hnUrl": "https://news.ycombinator.com/item?id=49111237",
-        "date": "il y a 2 h"
+        "title": "L'UEFA et ses associations nationales ne participeront pas aux compétitions de la FIFA",
+        "titleOriginal": "UEFA and its national associations will not participate in FIFA competitions",
+        "url": "https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--statement-on-behalf-of-uefa-and-its-55-national-associations/",
+        "source": "uefa.com",
+        "score": 115,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49113929",
+        "date": "il y a 35 min"
       },
       {
         "title": "Lisez ceci avant d'acheter ce bâton de streaming TV",
         "titleOriginal": "Read This Before You Buy That TV Streaming Stick",
         "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
         "source": "krebsonsecurity.com",
-        "score": 77,
-        "comments": 25,
+        "score": 173,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=49112744",
-        "date": "il y a 50 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Les physiciens résolvent un mystère de muons. Maintenant, les anciens résultats ne s'additionnent pas",
-        "titleOriginal": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-        "url": "https://www.quantamagazine.org/physicists-solve-a-muon-mystery-now-old-results-dont-add-up-20260729/",
-        "source": "quantamagazine.org",
-        "score": 82,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49111305",
+        "title": "Faire progresser la frontière prix-performance avec GPT‑5.6",
+        "titleOriginal": "Advancing the price-performance frontier with GPT‑5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+        "source": "openai.com",
+        "score": 303,
+        "comments": 190,
+        "hnUrl": "https://news.ycombinator.com/item?id=49112867",
         "date": "il y a 2 h"
+      },
+      {
+        "title": "Gemini Robotics 2 apporte l'intelligence du corps entier aux robots",
+        "titleOriginal": "Gemini Robotics 2 brings whole body intelligence to robots",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+        "source": "deepmind.google",
+        "score": 315,
+        "comments": 295,
+        "hnUrl": "https://news.ycombinator.com/item?id=49111237",
+        "date": "il y a 4 h"
       }
     ]
   },
