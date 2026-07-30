@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-07-30T10:18:56.481Z",
+  "updatedAt": "2026-07-30T12:10:32.945Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
-      "feelsLike": 23,
-      "code": 95,
-      "wind": 16,
+      "feelsLike": 26,
+      "code": 61,
+      "wind": 2,
       "humidity": 68
     },
     "forecast": [
       {
         "date": "2026-07-30",
-        "code": 95,
+        "code": 61,
         "tmax": 29,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-07-31",
         "code": 3,
         "tmax": 30,
-        "tmin": 21
+        "tmin": 20
       },
       {
         "date": "2026-08-01",
         "code": 3,
         "tmax": 30,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-08-02",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE SIÈGE D’APPLE AURAIT COÛTÉ 4,1 MILLIARDS DE DOLLARS",
+        "title": "DES MILLIARDAIRES PAIENT DES SCIENTIFIQUES POUR PROUVER QU’ON VIT DANS UNE SIMULATION",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "xzv_ZgRAbWQ",
-        "thumbnail": "https://i.ytimg.com/vi/xzv_ZgRAbWQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xzv_ZgRAbWQ",
-        "publishedAt": "2026-07-30T10:00:25+00:00"
+        "videoId": "UQsMfd-PT4o",
+        "thumbnail": "https://i.ytimg.com/vi/UQsMfd-PT4o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UQsMfd-PT4o",
+        "publishedAt": "2026-07-30T11:00:35+00:00"
       },
       {
         "title": "Il est sûr à 100% de ne jamais revenir en France",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Gpiozero Flow",
+        "titleOriginal": "Gpiozero Flow",
+        "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
+        "source": "bennuttall.com",
+        "score": 53,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49108048",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le comité directeur du CCG annonce la politique en matière d'IA",
+        "titleOriginal": "GCC steering committee announces AI policy",
+        "url": "https://lwn.net/Articles/1086041/",
+        "source": "lwn.net",
+        "score": 13,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49108685",
+        "date": "il y a 24 min"
+      },
+      {
+        "title": "Carolina Cloud paie SOFR sur les crédits prépayés non utilisés",
+        "titleOriginal": "Carolina Cloud pays SOFR on unused prepaid credits",
+        "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
+        "source": "docs.carolinacloud.io",
+        "score": 27,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49107713",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Les meilleures startups d'IA publient à peine leurs recherches",
         "titleOriginal": "AI's top startups are barely publishing their research",
         "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
         "source": "science.org",
-        "score": 481,
-        "comments": 245,
+        "score": 517,
+        "comments": 266,
         "hnUrl": "https://news.ycombinator.com/item?id=49103285",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "L'utilisation la plus cool pour le Vision Pro",
-        "titleOriginal": "The coolest use for the Vision Pro",
-        "url": "https://christianselig.com/2026/07/vision-pro-house/",
-        "source": "christianselig.com",
-        "score": 678,
-        "comments": 262,
-        "hnUrl": "https://news.ycombinator.com/item?id=49102774",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "Afficher HN : moteur open source exécutant Gemma 4 26B dans 2 Go de RAM sur n'importe quel Mac de la série M",
-        "titleOriginal": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "url": "https://github.com/drumih/turbo-fieldfare",
-        "source": "github.com",
-        "score": 806,
-        "comments": 284,
-        "hnUrl": "https://news.ycombinator.com/item?id=49098510",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Superlogique",
-        "titleOriginal": "Superlogical",
-        "url": "https://www.superlogical.com/",
-        "source": "superlogical.com",
-        "score": 706,
-        "comments": 414,
-        "hnUrl": "https://news.ycombinator.com/item?id=49098965",
-        "date": "il y a 18 h"
+        "date": "il y a 14 h"
       }
     ]
   },
