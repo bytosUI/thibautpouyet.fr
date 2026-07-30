@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-07-30T12:10:32.945Z",
+  "updatedAt": "2026-07-30T14:39:49.349Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 26,
-      "code": 61,
-      "wind": 2,
-      "humidity": 68
+      "temp": 26,
+      "feelsLike": 28,
+      "code": 0,
+      "wind": 9,
+      "humidity": 59
     },
     "forecast": [
       {
         "date": "2026-07-30",
-        "code": 61,
+        "code": 80,
         "tmax": 29,
         "tmin": 22
       },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "DES MILLIARDAIRES PAIENT DES SCIENTIFIQUES POUR PROUVER QU’ON VIT DANS UNE SIMULATION",
+        "title": "CE MÉDIUM REPÈRE UN SOUS-MARIN SOVIÉTIQUE ULTRA-SECRET",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "UQsMfd-PT4o",
-        "thumbnail": "https://i.ytimg.com/vi/UQsMfd-PT4o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UQsMfd-PT4o",
-        "publishedAt": "2026-07-30T11:00:35+00:00"
+        "videoId": "cimU3bLwNPk",
+        "thumbnail": "https://i.ytimg.com/vi/cimU3bLwNPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cimU3bLwNPk",
+        "publishedAt": "2026-07-30T14:00:18+00:00"
       },
       {
         "title": "Il est sûr à 100% de ne jamais revenir en France",
@@ -154,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 10 sem",
+        "time": "il y a 11 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 10 sem",
+        "time": "il y a 11 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Gpiozero Flow",
-        "titleOriginal": "Gpiozero Flow",
-        "url": "https://bennuttall.com/blog/2026/07/gpiozero-flow/",
-        "source": "bennuttall.com",
-        "score": 53,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49108048",
+        "title": "« Les VPN sont des outils techniques légaux », déclare la Cour de justice de l'UE dans une décision historique sur le droit d'auteur",
+        "titleOriginal": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+        "url": "https://remysharp.com/links/2026-07-23-35890312",
+        "source": "remysharp.com",
+        "score": 253,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=49109440",
         "date": "il y a 1 h"
       },
       {
-        "title": "Le comité directeur du CCG annonce la politique en matière d'IA",
-        "titleOriginal": "GCC steering committee announces AI policy",
-        "url": "https://lwn.net/Articles/1086041/",
-        "source": "lwn.net",
-        "score": 13,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49108685",
-        "date": "il y a 24 min"
+        "title": "Les incendies en Europe ne sont que le début",
+        "titleOriginal": "Europe's fires are just the start",
+        "url": "https://economist.com/leaders/2026/07/28/europes-fires-are-just-the-start",
+        "source": "economist.com",
+        "score": 54,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49110085",
+        "date": "il y a 44 min"
       },
       {
-        "title": "Carolina Cloud paie SOFR sur les crédits prépayés non utilisés",
-        "titleOriginal": "Carolina Cloud pays SOFR on unused prepaid credits",
-        "url": "https://docs.carolinacloud.io/organizations/prepaid-interest/",
-        "source": "docs.carolinacloud.io",
-        "score": 27,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49107713",
+        "title": "RFC 8890 – Internet est pour les utilisateurs finaux (2020)",
+        "titleOriginal": "RFC 8890 – The Internet is for End Users (2020)",
+        "url": "https://mnot.net/blog/2020/for_the_users",
+        "source": "mnot.net",
+        "score": 34,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49109474",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Pourquoi les gens n'utilisent-ils pas de méthodes formelles ?",
+        "titleOriginal": "Why Don't People Use Formal Methods?",
+        "url": "https://www.hillelwayne.com/post/why-dont-people-use-formal-methods/",
+        "source": "hillelwayne.com",
+        "score": 48,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49109026",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "Les meilleures startups d'IA publient à peine leurs recherches",
-        "titleOriginal": "AI's top startups are barely publishing their research",
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "source": "science.org",
-        "score": 517,
-        "comments": 266,
-        "hnUrl": "https://news.ycombinator.com/item?id=49103285",
-        "date": "il y a 14 h"
       }
     ]
   },
