@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T18:51:06.350Z",
+  "updatedAt": "2026-07-31T20:16:46.636Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 27,
-      "code": 2,
-      "wind": 9,
-      "humidity": 44
+      "temp": 25,
+      "feelsLike": 25,
+      "code": 3,
+      "wind": 5,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-08-02",
         "code": 3,
-        "tmax": 33,
+        "tmax": 34,
         "tmin": 17
       },
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 221,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,40 +186,40 @@
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 466,
-        "comments": 149,
+        "score": 622,
+        "comments": 162,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Big Food contre les gens",
-        "titleOriginal": "Big Food vs. the People",
-        "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-        "source": "lighthousereports.com",
-        "score": 107,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=49124858",
-        "date": "il y a 2 h"
+        "title": "L'échelle de queue n'a pas arrêté l'intrusion de Hugging Face",
+        "titleOriginal": "Tailscale didn't stop the Hugging Face intrusion",
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "source": "tailscale.com",
+        "score": 93,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49127306",
+        "date": "il y a 1 h"
       },
       {
         "title": "qm",
         "titleOriginal": "qm",
         "url": "https://github.com/yc-software/qm",
         "source": "github.com",
-        "score": 28,
-        "comments": 11,
+        "score": 177,
+        "comments": 45,
         "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-        "date": "il y a 46 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Obtenir 25 Gbit/s Thunderbolt Ethernet sur My Mac Studio",
-        "titleOriginal": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-        "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
-        "source": "jeffgeerling.com",
-        "score": 63,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49125034",
-        "date": "il y a 2 h"
+        "title": "Big Food contre les gens",
+        "titleOriginal": "Big Food vs. the People",
+        "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+        "source": "lighthousereports.com",
+        "score": 126,
+        "comments": 81,
+        "hnUrl": "https://news.ycombinator.com/item?id=49124858",
+        "date": "il y a 4 h"
       }
     ]
   },
