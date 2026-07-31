@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T17:23:44.743Z",
+  "updatedAt": "2026-07-31T18:51:06.350Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 28,
+      "temp": 27,
+      "feelsLike": 27,
       "code": 2,
-      "wind": 11,
-      "humidity": 45
+      "wind": 9,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 295,
-        "comments": 103,
+        "score": 466,
+        "comments": 149,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Big Food contre les gens",
         "titleOriginal": "Big Food vs. the People",
         "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
         "source": "lighthousereports.com",
-        "score": 51,
-        "comments": 13,
+        "score": 107,
+        "comments": 57,
         "hnUrl": "https://news.ycombinator.com/item?id=49124858",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "DeepSeek V4 Flash 0731 Intelligence, performance et analyse des prix",
-        "titleOriginal": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-        "source": "artificialanalysis.ai",
-        "score": 399,
-        "comments": 217,
-        "hnUrl": "https://news.ycombinator.com/item?id=49120299",
-        "date": "il y a 9 h"
+        "title": "qm",
+        "titleOriginal": "qm",
+        "url": "https://github.com/yc-software/qm",
+        "source": "github.com",
+        "score": 28,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49126604",
+        "date": "il y a 46 min"
       },
       {
-        "title": "Mise à jour DeepSeek-V4-Flash",
-        "titleOriginal": "DeepSeek-V4-Flash Update",
-        "url": "https://api-docs.deepseek.com/updates/",
-        "source": "api-docs.deepseek.com",
-        "score": 544,
-        "comments": 261,
-        "hnUrl": "https://news.ycombinator.com/item?id=49119559",
-        "date": "il y a 11 h"
+        "title": "Obtenir 25 Gbit/s Thunderbolt Ethernet sur My Mac Studio",
+        "titleOriginal": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+        "url": "https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/",
+        "source": "jeffgeerling.com",
+        "score": 63,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49125034",
+        "date": "il y a 2 h"
       }
     ]
   },
