@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-07-30T23:31:00.578Z",
+  "updatedAt": "2026-07-31T02:12:56.556Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 25,
+      "temp": 20,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 2,
-      "humidity": 78
+      "wind": 1,
+      "humidity": 87
     },
     "forecast": [
       {
         "date": "2026-07-31",
         "code": 3,
-        "tmax": 29,
+        "tmax": 30,
         "tmin": 20
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'esthétique de l'IA",
+        "titleOriginal": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "source": "blog.jim-nielsen.com",
+        "score": 116,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49117099",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Lisez ceci avant d'acheter ce bâton de streaming TV",
         "titleOriginal": "Read this before you buy that TV streaming stick",
         "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
         "source": "krebsonsecurity.com",
-        "score": 473,
-        "comments": 270,
+        "score": 576,
+        "comments": 340,
         "hnUrl": "https://news.ycombinator.com/item?id=49112744",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "J'ai signalé deux documents de recherche pour de faux auteurs et les deux ont été acceptés comme oraux",
+        "titleOriginal": "I flagged two research papers for fake authors and both were accepted as orals",
+        "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+        "source": "geospatialml.com",
+        "score": 93,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49116721",
+        "date": "il y a 3 h"
       },
       {
         "title": "Compétence de l'agent pour forcer les documents dans ASD-STE100 Anglais technique simplifié",
         "titleOriginal": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
         "url": "https://github.com/AminBlg/SimpleEnglish",
         "source": "github.com",
-        "score": 125,
-        "comments": 45,
+        "score": 210,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=49114639",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Les RP empilées sont maintenant en ligne sur GitHub",
-        "titleOriginal": "Stacked PRs are now live on GitHub",
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
-        "source": "github.blog",
-        "score": 405,
-        "comments": 143,
-        "hnUrl": "https://news.ycombinator.com/item?id=49112232",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Enquêter sur trois incidents du monde réel dans nos évaluations de cybersécurité",
-        "titleOriginal": "Investigating three real-world incidents in our cybersecurity evaluations",
-        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "source": "anthropic.com",
-        "score": 18,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=49116922",
-        "date": "il y a 30 min"
+        "date": "il y a 6 h"
       }
     ]
   },
