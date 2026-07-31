@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T13:12:42.793Z",
+  "updatedAt": "2026-07-31T15:35:38.288Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 29,
+      "temp": 28,
+      "feelsLike": 28,
       "code": 2,
-      "wind": 14,
-      "humidity": 42
+      "wind": 12,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-08-02",
         "code": 3,
         "tmax": 33,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-08-03",
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "ILS PROUVENT QUE DIEU EXISTE...VOICI LES PREUVES SCIENTIFIQUES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Zwi_xEDHHgk",
+        "thumbnail": "https://i.ytimg.com/vi/Zwi_xEDHHgk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zwi_xEDHHgk",
+        "publishedAt": "2026-07-31T15:00:24+00:00"
+      },
+      {
         "title": "Il dit à ses parents de ne pas s'expatrier.",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/PoBOrjzC9zY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PoBOrjzC9zY",
         "publishedAt": "2026-07-31T10:49:12+00:00"
-      },
-      {
-        "title": "LA DETTE DE LA FRANCE EST DE 3 482 MILLIARDS D'EUROS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "zo7Ul_NrR-M",
-        "thumbnail": "https://i.ytimg.com/vi/zo7Ul_NrR-M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zo7Ul_NrR-M",
-        "publishedAt": "2026-07-31T09:00:33+00:00"
       },
       {
         "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La fin d'une époque",
-        "titleOriginal": "The End of an Era",
-        "url": "https://hughhowey.com/the-end-of-an-era/",
-        "source": "hughhowey.com",
-        "score": 113,
-        "comments": 94,
-        "hnUrl": "https://news.ycombinator.com/item?id=49121980",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "DeepSeek V4 Flash 0731 Intelligence, performance et analyse des prix",
         "titleOriginal": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
         "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
         "source": "artificialanalysis.ai",
-        "score": 129,
-        "comments": 50,
+        "score": 331,
+        "comments": 161,
         "hnUrl": "https://news.ycombinator.com/item?id=49120299",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "La conjecture de Maxwell est fausse (GPT 5.6 sol)",
+        "titleOriginal": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
+        "url": "https://arxiv.org/abs/2607.27197",
+        "source": "arxiv.org",
+        "score": 87,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=49121868",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Google a corrigé plus de bugs Chrome en juin qu'au cours des deux dernières années, grâce à l'IA",
+        "titleOriginal": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+        "source": "blog.google",
+        "score": 348,
+        "comments": 302,
+        "hnUrl": "https://news.ycombinator.com/item?id=49120097",
+        "date": "il y a 8 h"
       },
       {
         "title": "La séance que vous ne pouvez pas emporter avec vous",
         "titleOriginal": "The session you cannot take with you",
         "url": "https://earendil.com/posts/session-portability/",
         "source": "earendil.com",
-        "score": 513,
-        "comments": 133,
+        "score": 630,
+        "comments": 173,
         "hnUrl": "https://news.ycombinator.com/item?id=49118781",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "JEP 401 : Objets de valeur (aperçu) fusionnés avec le maître OpenJDK",
-        "titleOriginal": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-        "url": "https://github.com/openjdk/jdk/pull/31120",
-        "source": "github.com",
-        "score": 164,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=49119063",
-        "date": "il y a 8 h"
+        "date": "il y a 11 h"
       }
     ]
   },
