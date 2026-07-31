@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T22:54:27.557Z",
+  "updatedAt": "2026-07-31T23:56:44.826Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
+      "temp": 20,
       "feelsLike": 21,
-      "code": 2,
-      "wind": 11,
-      "humidity": 68
+      "code": 3,
+      "wind": 10,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 169,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,38 +178,38 @@
         "titleOriginal": "Tailscale didn't stop the Hugging Face intrusion",
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "tailscale.com",
-        "score": 309,
-        "comments": 123,
+        "score": 370,
+        "comments": 151,
         "hnUrl": "https://news.ycombinator.com/item?id=49127306",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Ascenseurs",
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 761,
-        "comments": 196,
+        "score": 811,
+        "comments": 208,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "qm",
         "titleOriginal": "qm",
         "url": "https://github.com/yc-software/qm",
         "source": "github.com",
-        "score": 349,
-        "comments": 78,
+        "score": 388,
+        "comments": 88,
         "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Il y a vingt-cinq ans, c'était la cryptographie, aujourd'hui c'est le poids des modèles",
         "titleOriginal": "Twenty-five years ago it was cryptography, today it's model weights",
         "url": "https://weeraman.com/because-we-can/",
         "source": "weeraman.com",
-        "score": 72,
-        "comments": 13,
+        "score": 98,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=49083599",
         "date": "il y a 3 j"
       }
