@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T20:16:46.636Z",
+  "updatedAt": "2026-07-31T21:35:40.011Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
-      "code": 3,
-      "wind": 5,
-      "humidity": 53
+      "temp": 23,
+      "feelsLike": 23,
+      "code": 1,
+      "wind": 7,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 221,
+        "viewers": 220,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Ascenseurs",
-        "titleOriginal": "Elevators",
-        "url": "https://john.fun/elevators",
-        "source": "john.fun",
-        "score": 622,
-        "comments": 162,
-        "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 4 h"
-      },
-      {
         "title": "L'échelle de queue n'a pas arrêté l'intrusion de Hugging Face",
         "titleOriginal": "Tailscale didn't stop the Hugging Face intrusion",
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "tailscale.com",
-        "score": 93,
-        "comments": 39,
+        "score": 228,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=49127306",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Ascenseurs",
+        "titleOriginal": "Elevators",
+        "url": "https://john.fun/elevators",
+        "source": "john.fun",
+        "score": 699,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=49124218",
+        "date": "il y a 6 h"
       },
       {
         "title": "qm",
         "titleOriginal": "qm",
         "url": "https://github.com/yc-software/qm",
         "source": "github.com",
-        "score": 177,
-        "comments": 45,
+        "score": 280,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Big Food contre les gens",
-        "titleOriginal": "Big Food vs. the People",
-        "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
-        "source": "lighthousereports.com",
-        "score": 126,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=49124858",
-        "date": "il y a 4 h"
+        "title": "Proposition Golang : conteneur/: types de collecte génériques",
+        "titleOriginal": "Golang proposal: container/: generic collection types",
+        "url": "https://github.com/golang/go/issues/80590",
+        "source": "github.com",
+        "score": 77,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=49127031",
+        "date": "il y a 2 h"
       }
     ]
   },
