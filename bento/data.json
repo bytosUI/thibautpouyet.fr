@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T15:35:38.288Z",
+  "updatedAt": "2026-07-31T17:23:44.743Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 28,
       "feelsLike": 28,
       "code": 2,
-      "wind": 12,
-      "humidity": 41
+      "wind": 11,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-08-01",
         "code": 3,
-        "tmax": 30,
+        "tmax": 29,
         "tmin": 18
       },
       {
@@ -31,8 +31,8 @@
       {
         "date": "2026-08-03",
         "code": 80,
-        "tmax": 35,
-        "tmin": 20
+        "tmax": 37,
+        "tmin": 21
       }
     ]
   },
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "Faut-il attendre les élections de 2027 avant de s'expatrier ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "1tt4dFB_AKU",
+        "thumbnail": "https://i.ytimg.com/vi/1tt4dFB_AKU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1tt4dFB_AKU",
+        "publishedAt": "2026-07-31T16:30:28+00:00"
+      },
+      {
+        "title": "2 imbéciles discutent des marées",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "pSUR8Si2PsY",
+        "thumbnail": "https://i.ytimg.com/vi/pSUR8Si2PsY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pSUR8Si2PsY",
+        "publishedAt": "2026-07-31T16:07:11+00:00"
+      },
+      {
         "title": "ILS PROUVENT QUE DIEU EXISTE...VOICI LES PREUVES SCIENTIFIQUES",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -61,15 +79,6 @@
         "publishedAt": "2026-07-31T15:00:24+00:00"
       },
       {
-        "title": "Il dit à ses parents de ne pas s'expatrier.",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "PoBOrjzC9zY",
-        "thumbnail": "https://i.ytimg.com/vi/PoBOrjzC9zY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PoBOrjzC9zY",
-        "publishedAt": "2026-07-31T10:49:12+00:00"
-      },
-      {
         "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/F4PbE9QpIy4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F4PbE9QpIy4",
         "publishedAt": "2026-07-31T06:30:27+00:00"
-      },
-      {
-        "title": "Nos abonnés viennent débriefer la saison (on vous aime, merci pour tout)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "WyEs4g3jQjM",
-        "thumbnail": "https://i.ytimg.com/vi/WyEs4g3jQjM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WyEs4g3jQjM",
-        "publishedAt": "2026-07-30T15:22:14+00:00"
       },
       {
         "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Ascenseurs",
+        "titleOriginal": "Elevators",
+        "url": "https://john.fun/elevators",
+        "source": "john.fun",
+        "score": 295,
+        "comments": 103,
+        "hnUrl": "https://news.ycombinator.com/item?id=49124218",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Big Food contre les gens",
+        "titleOriginal": "Big Food vs. the People",
+        "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+        "source": "lighthousereports.com",
+        "score": 51,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49124858",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "DeepSeek V4 Flash 0731 Intelligence, performance et analyse des prix",
         "titleOriginal": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
         "source": "artificialanalysis.ai",
-        "score": 331,
-        "comments": 161,
+        "score": 399,
+        "comments": 217,
         "hnUrl": "https://news.ycombinator.com/item?id=49120299",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "La conjecture de Maxwell est fausse (GPT 5.6 sol)",
-        "titleOriginal": "The Maxwell Conjecture Is False (GPT 5.6 Sol)",
-        "url": "https://arxiv.org/abs/2607.27197",
-        "source": "arxiv.org",
-        "score": 87,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49121868",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Google a corrigé plus de bugs Chrome en juin qu'au cours des deux dernières années, grâce à l'IA",
-        "titleOriginal": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-        "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-        "source": "blog.google",
-        "score": 348,
-        "comments": 302,
-        "hnUrl": "https://news.ycombinator.com/item?id=49120097",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "La séance que vous ne pouvez pas emporter avec vous",
-        "titleOriginal": "The session you cannot take with you",
-        "url": "https://earendil.com/posts/session-portability/",
-        "source": "earendil.com",
-        "score": 630,
-        "comments": 173,
-        "hnUrl": "https://news.ycombinator.com/item?id=49118781",
+        "title": "Mise à jour DeepSeek-V4-Flash",
+        "titleOriginal": "DeepSeek-V4-Flash Update",
+        "url": "https://api-docs.deepseek.com/updates/",
+        "source": "api-docs.deepseek.com",
+        "score": 544,
+        "comments": 261,
+        "hnUrl": "https://news.ycombinator.com/item?id=49119559",
         "date": "il y a 11 h"
       }
     ]
