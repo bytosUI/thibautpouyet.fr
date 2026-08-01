@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-01T20:43:35.629Z",
+  "updatedAt": "2026-08-01T21:49:19.992Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 23,
+      "temp": 23,
+      "feelsLike": 21,
       "code": 2,
-      "wind": 9,
+      "wind": 10,
       "humidity": 40
     },
     "forecast": [
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 136,
+        "viewers": 143,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 2 sem",
+        "time": "il y a 3 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 4 sem",
+        "time": "il y a 5 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Google Actualités n'est plus que le bateau à crevettes de Forrest Gump",
-        "titleOriginal": "Google News is just Forrest Gump's shrimp boat now",
-        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
-        "source": "elgan.com",
-        "score": 144,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=49137681",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Comment Google a contribué à détruire l'adoption des flux RSS (2023)",
         "titleOriginal": "How Google helped destroy adoption of RSS feeds (2023)",
         "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
         "source": "openrss.org",
-        "score": 55,
-        "comments": 12,
+        "score": 187,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=49136821",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Le hachoir à viande fondateur de la Silicon Valley",
+        "titleOriginal": "The Silicon Valley Founder Meat Grinder",
+        "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+        "source": "zaksa.zip",
+        "score": 95,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49138045",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Diátaxis",
+        "titleOriginal": "Diátaxis",
+        "url": "https://diataxis.fr/",
+        "source": "diataxis.fr",
+        "score": 50,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49138188",
+        "date": "il y a 1 h"
       },
       {
         "title": "Postmortem pour Kernel Soundness Bug #14576",
         "titleOriginal": "Postmortem for Kernel Soundness Bug #14576",
         "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
         "source": "leodemoura.github.io",
-        "score": 69,
-        "comments": 27,
+        "score": 84,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=49137060",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "L'art de l'assemblage 64 bits",
-        "titleOriginal": "The Art of 64-bit Assembly",
-        "url": "https://nostarch.com/art-64-bit-assembly-v2",
-        "source": "nostarch.com",
-        "score": 140,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=49134599",
-        "date": "il y a 6 h"
+        "date": "il y a 3 h"
       }
     ]
   },
