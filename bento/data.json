@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-07-31T23:56:44.826Z",
+  "updatedAt": "2026-08-01T02:40:01.226Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 21,
+      "temp": 19,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 10,
-      "humidity": 73
+      "wind": 6,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-08-02",
         "code": 3,
-        "tmax": 34,
+        "tmax": 33,
         "tmin": 17
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'échelle de queue n'a pas arrêté l'intrusion de Hugging Face",
-        "titleOriginal": "Tailscale didn't stop the Hugging Face intrusion",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "tailscale.com",
-        "score": 370,
-        "comments": 151,
-        "hnUrl": "https://news.ycombinator.com/item?id=49127306",
-        "date": "il y a 4 h"
-      },
-      {
         "title": "Ascenseurs",
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 811,
-        "comments": 208,
+        "score": 918,
+        "comments": 227,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "qm – Harnais d'agent multijoueur pour le travail",
+        "titleOriginal": "qm – Multiplayer agent harness for work",
+        "url": "https://github.com/yc-software/qm",
+        "source": "github.com",
+        "score": 475,
+        "comments": 102,
+        "hnUrl": "https://news.ycombinator.com/item?id=49126604",
         "date": "il y a 8 h"
       },
       {
-        "title": "qm",
-        "titleOriginal": "qm",
-        "url": "https://github.com/yc-software/qm",
-        "source": "github.com",
-        "score": 388,
-        "comments": 88,
-        "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-        "date": "il y a 5 h"
+        "title": "Comment exister",
+        "titleOriginal": "How to Exist",
+        "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+        "source": "raptitude.com",
+        "score": 31,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49129990",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Il y a vingt-cinq ans, c'était la cryptographie, aujourd'hui c'est le poids des modèles",
-        "titleOriginal": "Twenty-five years ago it was cryptography, today it's model weights",
-        "url": "https://weeraman.com/because-we-can/",
-        "source": "weeraman.com",
-        "score": 98,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=49083599",
-        "date": "il y a 3 j"
+        "title": "L'absurdité d'Albert Camus",
+        "titleOriginal": "The Absurdity of Albert Camus",
+        "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
+        "source": "historytoday.com",
+        "score": 60,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=49117089",
+        "date": "hier"
       }
     ]
   },
