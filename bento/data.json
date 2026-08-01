@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T18:02:06.663Z",
+  "updatedAt": "2026-08-01T19:41:24.777Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 27,
-      "code": 3,
-      "wind": 9,
-      "humidity": 36
+      "temp": 26,
+      "feelsLike": 25,
+      "code": 1,
+      "wind": 8,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-08-02",
-        "code": 3,
+        "code": 2,
         "tmax": 33,
         "tmin": 17
       },
       {
         "date": "2026-08-03",
         "code": 3,
-        "tmax": 37,
-        "tmin": 20
+        "tmax": 38,
+        "tmin": 21
       },
       {
         "date": "2026-08-04",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 69,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le curseur a supprimé les informations de coût de la page d'utilisation et de l'exportation CSV",
-        "titleOriginal": "Cursor removed cost information from the usage page and CSV export",
-        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-        "source": "forum.cursor.com",
-        "score": 153,
-        "comments": 62,
-        "hnUrl": "https://news.ycombinator.com/item?id=49135257",
-        "date": "il y a 2 h"
+        "title": "NetBSD 11.0 publié",
+        "titleOriginal": "NetBSD 11.0 Released",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
+        "source": "blog.netbsd.org",
+        "score": 94,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49136736",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Postmortem pour Kernel Soundness Bug #14576",
+        "titleOriginal": "Postmortem for Kernel Soundness Bug #14576",
+        "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+        "source": "leodemoura.github.io",
+        "score": 42,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49137060",
+        "date": "il y a 1 h"
       },
       {
         "title": "L'art de l'assemblage 64 bits",
         "titleOriginal": "The Art of 64-bit Assembly",
         "url": "https://nostarch.com/art-64-bit-assembly-v2",
         "source": "nostarch.com",
-        "score": 97,
-        "comments": 48,
+        "score": 124,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=49134599",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Kaisel – Routes as Values. Routeur natif DART 3 pour Flutter",
         "titleOriginal": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
         "url": "https://kaisel.dev/",
         "source": "kaisel.dev",
-        "score": 18,
-        "comments": 0,
+        "score": 30,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=49135985",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Les binaires musl RipGrep segfault occasionnellement lors de très grandes recherches",
-        "titleOriginal": "RipGrep musl binaries occasionally segfault during very-large searches",
-        "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
-        "source": "github.com",
-        "score": 187,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=49133889",
-        "date": "il y a 5 h"
+        "date": "il y a 2 h"
       }
     ]
   },
