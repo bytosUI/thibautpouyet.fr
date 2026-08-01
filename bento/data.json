@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T13:06:16.955Z",
+  "updatedAt": "2026-08-01T14:43:41.082Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 29,
       "feelsLike": 29,
-      "code": 1,
-      "wind": 7,
-      "humidity": 38
+      "code": 3,
+      "wind": 8,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -20,13 +20,13 @@
         "date": "2026-08-02",
         "code": 2,
         "tmax": 34,
-        "tmin": 18
+        "tmin": 17
       },
       {
         "date": "2026-08-03",
         "code": 80,
         "tmax": 36,
-        "tmin": 22
+        "tmin": 21
       },
       {
         "date": "2026-08-04",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SA FAMILLE VIENT DE DÉCÉDER, ELLE DOIT PRENDRE UNE DÉCISION DIFFICILE",
+        "title": "CET ÉLÈVE LA DRAGUE EN CLASSE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "NueHZJ3ZPw8",
-        "thumbnail": "https://i.ytimg.com/vi/NueHZJ3ZPw8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NueHZJ3ZPw8",
-        "publishedAt": "2026-08-01T09:00:00+00:00"
+        "videoId": "WV1jDQuhKAM",
+        "thumbnail": "https://i.ytimg.com/vi/WV1jDQuhKAM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WV1jDQuhKAM",
+        "publishedAt": "2026-08-01T14:00:08+00:00"
       },
       {
         "title": "Les services français sont à l'abandon !",
@@ -178,40 +178,40 @@
         "titleOriginal": "RipGrep musl binaries occasionally segfault during very-large searches",
         "url": "https://github.com/BurntSushi/ripgrep/issues/3494",
         "source": "github.com",
-        "score": 36,
-        "comments": 14,
+        "score": 97,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=49133889",
-        "date": "il y a 31 min"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Un traité de surveillance déguisé : le Canada signe la Convention des Nations Unies sur la cybercriminalité",
+        "titleOriginal": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+        "url": "https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/",
+        "source": "michaelgeist.ca",
+        "score": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49134694",
+        "date": "il y a 23 min"
       },
       {
         "title": "Ascenseurs",
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 1390,
-        "comments": 337,
+        "score": 1452,
+        "comments": 357,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 21 h"
+        "date": "il y a 23 h"
       },
       {
-        "title": "Silex : un langage de visualisation pour l'ère de l'IA",
-        "titleOriginal": "Flint: A Visualization Language for the AI Era",
-        "url": "https://microsoft.github.io/flint-chart/",
-        "source": "microsoft.github.io",
-        "score": 155,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=49130604",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "qm – Harnais d'agent multijoueur pour le travail",
-        "titleOriginal": "qm – Multiplayer agent harness for work",
-        "url": "https://github.com/yc-software/qm",
-        "source": "github.com",
-        "score": 595,
-        "comments": 123,
-        "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-        "date": "il y a 19 h"
+        "title": "Comment repérer l'écriture de l'IA",
+        "titleOriginal": "How to Spot AI Writing",
+        "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+        "source": "economist.com",
+        "score": 11,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49134310",
+        "date": "il y a 1 h"
       }
     ]
   },
