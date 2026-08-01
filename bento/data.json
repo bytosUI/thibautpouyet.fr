@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T02:40:01.226Z",
+  "updatedAt": "2026-08-01T05:50:15.546Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 6,
-      "humidity": 76
+      "temp": 18,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 7,
+      "humidity": 75
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-02",
-        "code": 3,
+        "code": 2,
         "tmax": 33,
         "tmin": 17
       },
@@ -26,7 +26,7 @@
         "date": "2026-08-03",
         "code": 3,
         "tmax": 37,
-        "tmin": 20
+        "tmin": 19
       },
       {
         "date": "2026-08-04",
@@ -51,69 +51,6 @@
   },
   "youtube": {
     "videos": [
-      {
-        "title": "Faut-il attendre les élections de 2027 avant de s'expatrier ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "1tt4dFB_AKU",
-        "thumbnail": "https://i.ytimg.com/vi/1tt4dFB_AKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1tt4dFB_AKU",
-        "publishedAt": "2026-07-31T16:30:28+00:00"
-      },
-      {
-        "title": "2 imbéciles discutent des marées",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "pSUR8Si2PsY",
-        "thumbnail": "https://i.ytimg.com/vi/pSUR8Si2PsY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pSUR8Si2PsY",
-        "publishedAt": "2026-07-31T16:07:11+00:00"
-      },
-      {
-        "title": "ILS PROUVENT QUE DIEU EXISTE...VOICI LES PREUVES SCIENTIFIQUES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Zwi_xEDHHgk",
-        "thumbnail": "https://i.ytimg.com/vi/Zwi_xEDHHgk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zwi_xEDHHgk",
-        "publishedAt": "2026-07-31T15:00:24+00:00"
-      },
-      {
-        "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "F4PbE9QpIy4",
-        "thumbnail": "https://i.ytimg.com/vi/F4PbE9QpIy4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F4PbE9QpIy4",
-        "publishedAt": "2026-07-31T06:30:27+00:00"
-      },
-      {
-        "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "TPShlk5wEU0",
-        "thumbnail": "https://i.ytimg.com/vi/TPShlk5wEU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TPShlk5wEU0",
-        "publishedAt": "2026-07-27T16:09:29+00:00"
-      },
-      {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      },
       {
         "title": "Ce qu'on ne vous montre jamais",
         "channel": "Rachel & Emilien - Rénovation",
@@ -178,40 +115,40 @@
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 918,
-        "comments": 227,
+        "score": 1097,
+        "comments": 262,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 11 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "qm – Harnais d'agent multijoueur pour le travail",
-        "titleOriginal": "qm – Multiplayer agent harness for work",
-        "url": "https://github.com/yc-software/qm",
-        "source": "github.com",
-        "score": 475,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49126604",
-        "date": "il y a 8 h"
+        "title": "Silex : un langage de visualisation pour l'ère de l'IA",
+        "titleOriginal": "Flint: A Visualization Language for the AI Era",
+        "url": "https://microsoft.github.io/flint-chart/",
+        "source": "microsoft.github.io",
+        "score": 49,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49130604",
+        "date": "il y a 3 h"
       },
       {
         "title": "Comment exister",
         "titleOriginal": "How to Exist",
         "url": "https://www.raptitude.com/2026/07/how-to-exist/",
         "source": "raptitude.com",
-        "score": 31,
-        "comments": 7,
+        "score": 108,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49129990",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "L'absurdité d'Albert Camus",
-        "titleOriginal": "The Absurdity of Albert Camus",
-        "url": "https://www.historytoday.com/archive/portrait-author-historian/absurdity-albert-camus",
-        "source": "historytoday.com",
-        "score": 60,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=49117089",
-        "date": "hier"
+        "title": "Le pipeline de développement est un système de production",
+        "titleOriginal": "The development pipeline is a production system",
+        "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+        "source": "sundry.jerryorr.com",
+        "score": 44,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49130726",
+        "date": "il y a 2 h"
       }
     ]
   },
