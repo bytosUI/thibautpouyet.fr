@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T19:41:24.777Z",
+  "updatedAt": "2026-08-01T20:43:35.629Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 25,
-      "code": 1,
-      "wind": 8,
-      "humidity": 39
+      "temp": 25,
+      "feelsLike": 23,
+      "code": 2,
+      "wind": 9,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 69,
+        "viewers": 136,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "NetBSD 11.0 publié",
-        "titleOriginal": "NetBSD 11.0 Released",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "source": "blog.netbsd.org",
-        "score": 94,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49136736",
+        "title": "Google Actualités n'est plus que le bateau à crevettes de Forrest Gump",
+        "titleOriginal": "Google News is just Forrest Gump's shrimp boat now",
+        "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
+        "source": "elgan.com",
+        "score": 144,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=49137681",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Comment Google a contribué à détruire l'adoption des flux RSS (2023)",
+        "titleOriginal": "How Google helped destroy adoption of RSS feeds (2023)",
+        "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+        "source": "openrss.org",
+        "score": 55,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49136821",
+        "date": "il y a 2 h"
       },
       {
         "title": "Postmortem pour Kernel Soundness Bug #14576",
         "titleOriginal": "Postmortem for Kernel Soundness Bug #14576",
         "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
         "source": "leodemoura.github.io",
-        "score": 42,
-        "comments": 15,
+        "score": 69,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49137060",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "L'art de l'assemblage 64 bits",
         "titleOriginal": "The Art of 64-bit Assembly",
         "url": "https://nostarch.com/art-64-bit-assembly-v2",
         "source": "nostarch.com",
-        "score": 124,
-        "comments": 65,
+        "score": 140,
+        "comments": 67,
         "hnUrl": "https://news.ycombinator.com/item?id=49134599",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Kaisel – Routes as Values. Routeur natif DART 3 pour Flutter",
-        "titleOriginal": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-        "url": "https://kaisel.dev/",
-        "source": "kaisel.dev",
-        "score": 30,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49135985",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       }
     ]
   },
