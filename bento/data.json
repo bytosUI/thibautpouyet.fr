@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T10:14:30.970Z",
+  "updatedAt": "2026-08-01T11:40:05.824Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 26,
-      "code": 1,
+      "temp": 27,
+      "feelsLike": 29,
+      "code": 2,
       "wind": 6,
-      "humidity": 51
+      "humidity": 43
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-08-02",
-        "code": 1,
+        "code": 2,
         "tmax": 34,
-        "tmin": 17
+        "tmin": 18
       },
       {
         "date": "2026-08-03",
         "code": 80,
         "tmax": 36,
-        "tmin": 20
+        "tmin": 22
       },
       {
         "date": "2026-08-04",
@@ -178,40 +178,40 @@
         "titleOriginal": "AI doesn't generate working products, that's still your job",
         "url": "https://weeraman.com/the-prototype-isnt-the-product/",
         "source": "weeraman.com",
-        "score": 54,
-        "comments": 32,
+        "score": 136,
+        "comments": 116,
         "hnUrl": "https://news.ycombinator.com/item?id=49132130",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "RamenHaus",
-        "titleOriginal": "RamenHaus",
-        "url": "https://ramen.haus/",
-        "source": "ramen.haus",
-        "score": 72,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49132460",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Ascenseurs",
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 1305,
-        "comments": 320,
+        "score": 1340,
+        "comments": 326,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 18 h"
+        "date": "il y a 20 h"
       },
       {
         "title": "Silex : un langage de visualisation pour l'ère de l'IA",
         "titleOriginal": "Flint: A Visualization Language for the AI Era",
         "url": "https://microsoft.github.io/flint-chart/",
         "source": "microsoft.github.io",
-        "score": 123,
-        "comments": 41,
+        "score": 137,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=49130604",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Comment faire un excellent travail (2023)",
+        "titleOriginal": "How to Do Great Work (2023)",
+        "url": "https://paulgraham.com/greatwork.html",
+        "source": "paulgraham.com",
+        "score": 31,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132289",
+        "date": "il y a 3 h"
       }
     ]
   },
