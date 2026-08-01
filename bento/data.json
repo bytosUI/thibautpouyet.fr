@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-01T08:10:58.393Z",
+  "updatedAt": "2026-08-01T10:14:30.970Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
-      "code": 2,
-      "wind": 9,
-      "humidity": 66
+      "temp": 25,
+      "feelsLike": 26,
+      "code": 1,
+      "wind": 6,
+      "humidity": 51
     },
     "forecast": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "date": "2026-08-03",
-        "code": 3,
-        "tmax": 37,
+        "code": 80,
+        "tmax": 36,
         "tmin": 20
       },
       {
         "date": "2026-08-04",
-        "code": 80,
+        "code": 3,
         "tmax": 30,
         "tmin": 22
       }
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "Faut-il attendre les élections de 2027 avant de s'expatrier ?",
+        "title": "SA FAMILLE VIENT DE DÉCÉDER, ELLE DOIT PRENDRE UNE DÉCISION DIFFICILE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "NueHZJ3ZPw8",
+        "thumbnail": "https://i.ytimg.com/vi/NueHZJ3ZPw8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NueHZJ3ZPw8",
+        "publishedAt": "2026-08-01T09:00:00+00:00"
+      },
+      {
+        "title": "Les services français sont à l'abandon !",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "1tt4dFB_AKU",
-        "thumbnail": "https://i.ytimg.com/vi/1tt4dFB_AKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1tt4dFB_AKU",
-        "publishedAt": "2026-07-31T16:30:28+00:00"
+        "videoId": "ixGPrEp6KcE",
+        "thumbnail": "https://i.ytimg.com/vi/ixGPrEp6KcE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ixGPrEp6KcE",
+        "publishedAt": "2026-08-01T08:47:36+00:00"
       },
       {
         "title": "2 imbéciles discutent des marées",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/pSUR8Si2PsY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pSUR8Si2PsY",
         "publishedAt": "2026-07-31T16:07:11+00:00"
-      },
-      {
-        "title": "ILS PROUVENT QUE DIEU EXISTE...VOICI LES PREUVES SCIENTIFIQUES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Zwi_xEDHHgk",
-        "thumbnail": "https://i.ytimg.com/vi/Zwi_xEDHHgk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zwi_xEDHHgk",
-        "publishedAt": "2026-07-31T15:00:24+00:00"
       },
       {
         "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Dix avancées en mathématiques et en informatique théorique",
-        "titleOriginal": "Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics/",
-        "source": "openai.com",
-        "score": 35,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49132058",
-        "date": "il y a 33 min"
+        "title": "L'IA ne génère pas de produits fonctionnels, c'est toujours votre travail",
+        "titleOriginal": "AI doesn't generate working products, that's still your job",
+        "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+        "source": "weeraman.com",
+        "score": 54,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132130",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "RamenHaus",
+        "titleOriginal": "RamenHaus",
+        "url": "https://ramen.haus/",
+        "source": "ramen.haus",
+        "score": 72,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49132460",
+        "date": "il y a 1 h"
       },
       {
         "title": "Ascenseurs",
         "titleOriginal": "Elevators",
         "url": "https://john.fun/elevators",
         "source": "john.fun",
-        "score": 1229,
-        "comments": 293,
+        "score": 1305,
+        "comments": 320,
         "hnUrl": "https://news.ycombinator.com/item?id=49124218",
-        "date": "il y a 16 h"
+        "date": "il y a 18 h"
       },
       {
         "title": "Silex : un langage de visualisation pour l'ère de l'IA",
         "titleOriginal": "Flint: A Visualization Language for the AI Era",
         "url": "https://microsoft.github.io/flint-chart/",
         "source": "microsoft.github.io",
-        "score": 96,
-        "comments": 31,
+        "score": 123,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=49130604",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Comment exister",
-        "titleOriginal": "How to Exist",
-        "url": "https://www.raptitude.com/2026/07/how-to-exist/",
-        "source": "raptitude.com",
-        "score": 165,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=49129990",
         "date": "il y a 7 h"
       }
     ]
