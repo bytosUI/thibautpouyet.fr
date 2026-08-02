@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-08-02T05:39:41.735Z",
+  "updatedAt": "2026-08-02T08:12:33.779Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 5,
-      "humidity": 57
+      "wind": 7,
+      "humidity": 47
     },
     "forecast": [
       {
         "date": "2026-08-02",
         "code": 1,
-        "tmax": 33,
+        "tmax": 34,
         "tmin": 17
       },
       {
         "date": "2026-08-03",
-        "code": 80,
-        "tmax": 38,
-        "tmin": 20
+        "code": 3,
+        "tmax": 37,
+        "tmin": 21
       },
       {
         "date": "2026-08-04",
-        "code": 80,
-        "tmax": 29,
+        "code": 95,
+        "tmax": 30,
         "tmin": 23
       },
       {
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "b6GrM9RtoEM",
+        "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
+        "publishedAt": "2026-08-02T07:04:19+00:00"
+      },
       {
         "title": "EST-CE QUE LES FRANÇAIS SONT STUPIDES ?",
         "channel": "Darons du Biz",
@@ -115,15 +124,6 @@
         "publishedAt": "2026-07-26T13:11:01+00:00"
       },
       {
-        "title": "Ce qu'on ne vous montre jamais",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "AzQwMDP5kwc",
-        "thumbnail": "https://i.ytimg.com/vi/AzQwMDP5kwc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AzQwMDP5kwc",
-        "publishedAt": "2026-07-26T09:40:43+00:00"
-      },
-      {
         "title": "60 jours pour construire une terrasse géante et un observatoire",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Faire fonctionner Kimi K3 sur MI355X à une meilleure performance par dollar que B300",
-        "titleOriginal": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-        "source": "wafer.ai",
-        "score": 36,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49141073",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Go 1.27 Visite interactive",
         "titleOriginal": "Go 1.27 Interactive Tour",
         "url": "https://victoriametrics.com/blog/go-1-27/index.html",
         "source": "victoriametrics.com",
-        "score": 111,
-        "comments": 30,
+        "score": 183,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49140218",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "MkLinux et le proxénète Apple Workgroup Server 9150",
-        "titleOriginal": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "source": "oldvcr.blogspot.com",
-        "score": 33,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49140702",
-        "date": "il y a 2 h"
+        "title": "Show HN : Je suis un ingénieur Wannabe de 15 ans, c'est une boîte de vitesses cycloïdale que j'ai construite",
+        "titleOriginal": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+        "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+        "source": "github.com",
+        "score": 126,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49140396",
+        "date": "il y a 6 h"
       },
       {
         "title": "Seedance 2.5",
         "titleOriginal": "Seedance 2.5",
         "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
         "source": "seed.bytedance.com",
-        "score": 247,
-        "comments": 121,
+        "score": 313,
+        "comments": 161,
         "hnUrl": "https://news.ycombinator.com/item?id=49138302",
-        "date": "il y a 8 h"
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "MkLinux et le proxénète Apple Workgroup Server 9150",
+        "titleOriginal": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+        "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+        "source": "oldvcr.blogspot.com",
+        "score": 49,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49140702",
+        "date": "il y a 4 h"
       }
     ]
   },
