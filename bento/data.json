@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T11:40:12.143Z",
+  "updatedAt": "2026-08-02T13:07:39.787Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 32,
-      "code": 0,
-      "wind": 7,
-      "humidity": 35
+      "temp": 33,
+      "feelsLike": 34,
+      "code": 1,
+      "wind": 5,
+      "humidity": 30
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "L'extrême droite n'existe pas en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "xEyVgXwfebY",
+        "thumbnail": "https://i.ytimg.com/vi/xEyVgXwfebY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xEyVgXwfebY",
+        "publishedAt": "2026-08-02T13:05:02+00:00"
+      },
+      {
         "title": "ELLE PRENAIT SA PILULE...MAIS PAS DU TOUT COMME IL FALLAIT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
         "publishedAt": "2026-08-02T07:04:19+00:00"
-      },
-      {
-        "title": "EST-CE QUE LES FRANÇAIS SONT STUPIDES ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "Wrayiv6fNoE",
-        "thumbnail": "https://i.ytimg.com/vi/Wrayiv6fNoE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Wrayiv6fNoE",
-        "publishedAt": "2026-08-01T16:00:33+00:00"
       },
       {
         "title": "2 imbéciles discutent des marées",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "La révolution industrielle est-elle un bon précédent pour une croissance explosive aujourd'hui ?",
-        "titleOriginal": "Is the Industrial Revolution a good precedent for explosive growth today?",
-        "url": "https://mattsclancy.github.io/2026/07/27/industrial-revolution-growth.html",
-        "source": "mattsclancy.github.io",
-        "score": 20,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49143053",
+        "title": "Seulement 8,9 % des sites bloquent les robots d'exploration de l'IA, mais 94,8 % ne sont jamais cités dans les réponses de l'IA",
+        "titleOriginal": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
+        "url": "https://website-auditor.io/ai-visibility-index",
+        "source": "website-auditor.io",
+        "score": 30,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=49143630",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Vingt ans de RISC OS Open",
+        "titleOriginal": "Twenty Years of RISC OS Open",
+        "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
+        "source": "riscosopen.org",
+        "score": 12,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49143967",
+        "date": "il y a 31 min"
       },
       {
         "title": "Show HN : Bor – Gestion des politiques open source pour les ordinateurs de bureau Linux",
         "titleOriginal": "Show HN: Bor – Open-source policy management for Linux desktops",
         "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
         "source": "getbor.dev",
-        "score": 35,
-        "comments": 5,
+        "score": 65,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=49142569",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Intelligence artificielle : Ars Notoria et la promesse de la connaissance instantanée",
-        "titleOriginal": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "url": "https://publicdomainreview.org/essay/ars-notoria/",
-        "source": "publicdomainreview.org",
-        "score": 22,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49143001",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Afficher HN : Syncular - synchronisation SQL hors ligne avec les cœurs TypeScript et Rust",
-        "titleOriginal": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
-        "url": "https://github.com/syncular/syncular",
-        "source": "github.com",
-        "score": 19,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49142794",
+        "title": "Meshdiff – comparer visuellement deux versions STL dans le navigateur, côté client",
+        "titleOriginal": "Meshdiff – visually compare two STL versions in the browser, client-side",
+        "url": "https://meshdiff.com/",
+        "source": "meshdiff.com",
+        "score": 54,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49143479",
         "date": "il y a 1 h"
       }
     ]
