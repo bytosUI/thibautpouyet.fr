@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T17:56:44.053Z",
+  "updatedAt": "2026-08-02T19:07:16.603Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 33,
-      "feelsLike": 32,
-      "code": 2,
-      "wind": 7,
-      "humidity": 26
+      "temp": 32,
+      "feelsLike": 31,
+      "code": 1,
+      "wind": 9,
+      "humidity": 30
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 5700,
+        "viewers": 6835,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -59,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Derrière les masques : ce que cache la stratégie Mistral !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "o32gdBnBHCw",
+        "thumbnail": "https://i.ytimg.com/vi/o32gdBnBHCw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o32gdBnBHCw",
+        "publishedAt": "2026-08-02T18:00:15+00:00"
+      },
       {
         "title": "UN PÈRE DÉCÈDE EN ALLANT À L’ACCOUCHEMENT DE SA FEMME",
         "channel": "LEGEND",
@@ -94,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/pSUR8Si2PsY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pSUR8Si2PsY",
         "publishedAt": "2026-07-31T16:07:11+00:00"
-      },
-      {
-        "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "F4PbE9QpIy4",
-        "thumbnail": "https://i.ytimg.com/vi/F4PbE9QpIy4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F4PbE9QpIy4",
-        "publishedAt": "2026-07-31T06:30:27+00:00"
       },
       {
         "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Comment les mots que nous enseignons aux apprenants de langue anglaise ont changé",
-        "titleOriginal": "How the words we teach English language learners changed",
-        "url": "https://pudding.cool/2026/07/essential-words/",
-        "source": "pudding.cool",
-        "score": 100,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=49145590",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Show HN : Kakehashi – Espace utilisateur expérimental pour exécuter des binaires macOS sur Linux ARM",
         "titleOriginal": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
         "url": "https://github.com/wie-project/kakehashi",
         "source": "github.com",
-        "score": 32,
-        "comments": 14,
+        "score": 74,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=49145937",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Pélican de Karpathy",
-        "titleOriginal": "Karpathy’s Pelican",
-        "url": "https://twitter.com/karpathy/status/2083749667410727319",
-        "source": "twitter.com",
-        "score": 114,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=49140998",
-        "date": "il y a 13 h"
+        "title": "Les développeurs sont attachés aux outils car les outils encodent la confiance",
+        "titleOriginal": "Developers are attached to tools because tools encode trust",
+        "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+        "source": "stackoverflow.blog",
+        "score": 44,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49097961",
+        "date": "il y a 4 j"
       },
       {
-        "title": "Vingt ans de RISC OS Open",
-        "titleOriginal": "Twenty Years of RISC OS Open",
-        "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
-        "source": "riscosopen.org",
-        "score": 103,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49143967",
-        "date": "il y a 5 h"
+        "title": "Afficher HN : NixOS-DGX-Spark – Nix et NixOS sur le DGX Spark",
+        "titleOriginal": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+        "url": "https://github.com/graham33/nixos-dgx-spark",
+        "source": "github.com",
+        "score": 37,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49146267",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Enracinement, analyse du micrologiciel et informations d'identification persistantes de TP-Link TL-841N",
+        "titleOriginal": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+        "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+        "source": "blog.juni-mp4.com",
+        "score": 38,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49145883",
+        "date": "il y a 2 h"
       }
     ]
   },
