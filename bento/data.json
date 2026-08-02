@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T15:56:05.043Z",
+  "updatedAt": "2026-08-02T16:54:48.655Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 33,
       "feelsLike": 33,
-      "code": 0,
-      "wind": 8,
-      "humidity": 27
+      "code": 2,
+      "wind": 7,
+      "humidity": 25
     },
     "forecast": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "date": "2026-08-03",
-        "code": 80,
+        "code": 3,
         "tmax": 38,
         "tmin": 20
       },
       {
         "date": "2026-08-04",
-        "code": 95,
+        "code": 96,
         "tmax": 32,
         "tmin": 22
       },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Comment les mots que nous enseignons aux apprenants de langue anglaise ont changé",
+        "titleOriginal": "How the words we teach English language learners changed",
+        "url": "https://pudding.cool/2026/07/essential-words/",
+        "source": "pudding.cool",
+        "score": 61,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=49145590",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Pélican de Karpathy",
+        "titleOriginal": "Karpathy’s Pelican",
+        "url": "https://twitter.com/karpathy/status/2083749667410727319",
+        "source": "twitter.com",
+        "score": 38,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49140998",
+        "date": "il y a 12 h"
+      },
+      {
         "title": "Vingt ans de RISC OS Open",
         "titleOriginal": "Twenty Years of RISC OS Open",
         "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
         "source": "riscosopen.org",
-        "score": 79,
-        "comments": 11,
+        "score": 92,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49143967",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "F* : Un langage de programmation polyvalent axé sur la preuve",
         "titleOriginal": "F*: A general-purpose proof-oriented programming language",
         "url": "https://fstar-lang.org/",
         "source": "fstar-lang.org",
-        "score": 60,
-        "comments": 17,
+        "score": 76,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49143925",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Meshdiff – comparer visuellement deux versions STL dans le navigateur, côté client",
-        "titleOriginal": "Meshdiff – visually compare two STL versions in the browser, client-side",
-        "url": "https://meshdiff.com/",
-        "source": "meshdiff.com",
-        "score": 113,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49143479",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Show HN : Bor – Gestion des politiques open source pour les ordinateurs de bureau Linux",
-        "titleOriginal": "Show HN: Bor – Open-source policy management for Linux desktops",
-        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-        "source": "getbor.dev",
-        "score": 120,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49142569",
-        "date": "il y a 6 h"
       }
     ]
   },
