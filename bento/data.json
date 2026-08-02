@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T08:12:33.779Z",
+  "updatedAt": "2026-08-02T10:12:49.327Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 28,
+      "feelsLike": 29,
       "code": 0,
       "wind": 7,
-      "humidity": 47
+      "humidity": 40
     },
     "forecast": [
       {
@@ -26,11 +26,11 @@
         "date": "2026-08-04",
         "code": 95,
         "tmax": 30,
-        "tmin": 23
+        "tmin": 21
       },
       {
         "date": "2026-08-05",
-        "code": 61,
+        "code": 3,
         "tmax": 28,
         "tmin": 21
       }
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "SAGE-FEMME : LES HISTOIRES LES PLUS FOLLES VÉCUES EN SALLE D’ACCOUCHEMENT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "O8sAw7ujIxg",
+        "thumbnail": "https://i.ytimg.com/vi/O8sAw7ujIxg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O8sAw7ujIxg",
+        "publishedAt": "2026-08-02T09:00:06+00:00"
+      },
+      {
         "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Wrayiv6fNoE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Wrayiv6fNoE",
         "publishedAt": "2026-08-01T16:00:33+00:00"
-      },
-      {
-        "title": "CET ÉLÈVE LA DRAGUE EN CLASSE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "WV1jDQuhKAM",
-        "thumbnail": "https://i.ytimg.com/vi/WV1jDQuhKAM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WV1jDQuhKAM",
-        "publishedAt": "2026-08-01T14:00:08+00:00"
       },
       {
         "title": "2 imbéciles discutent des marées",
@@ -178,40 +178,40 @@
         "titleOriginal": "Go 1.27 Interactive Tour",
         "url": "https://victoriametrics.com/blog/go-1-27/index.html",
         "source": "victoriametrics.com",
-        "score": 183,
-        "comments": 55,
+        "score": 216,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=49140218",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Show HN : Je suis un ingénieur Wannabe de 15 ans, c'est une boîte de vitesses cycloïdale que j'ai construite",
         "titleOriginal": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
         "url": "https://github.com/tom-ilan/cycloidal_gearbox",
         "source": "github.com",
-        "score": 126,
-        "comments": 23,
+        "score": 168,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=49140396",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Afficher HN : Syncular - synchronisation SQL hors ligne avec les cœurs TypeScript et Rust",
+        "titleOriginal": "Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores",
+        "url": "https://github.com/syncular/syncular",
+        "source": "github.com",
+        "score": 3,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49142794",
+        "date": "il y a 24 min"
       },
       {
         "title": "Seedance 2.5",
         "titleOriginal": "Seedance 2.5",
         "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
         "source": "seed.bytedance.com",
-        "score": 313,
-        "comments": 161,
+        "score": 343,
+        "comments": 184,
         "hnUrl": "https://news.ycombinator.com/item?id=49138302",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "MkLinux et le proxénète Apple Workgroup Server 9150",
-        "titleOriginal": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-        "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
-        "source": "oldvcr.blogspot.com",
-        "score": 49,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49140702",
-        "date": "il y a 4 h"
+        "date": "il y a 13 h"
       }
     ]
   },
