@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-02T13:07:39.787Z",
+  "updatedAt": "2026-08-02T14:45:52.049Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 33,
-      "feelsLike": 34,
+      "feelsLike": 33,
       "code": 1,
-      "wind": 5,
-      "humidity": 30
+      "wind": 10,
+      "humidity": 28
     },
     "forecast": [
       {
         "date": "2026-08-02",
-        "code": 1,
-        "tmax": 34,
+        "code": 2,
+        "tmax": 33,
         "tmin": 17
       },
       {
         "date": "2026-08-03",
-        "code": 3,
-        "tmax": 37,
-        "tmin": 21
+        "code": 80,
+        "tmax": 38,
+        "tmin": 20
       },
       {
         "date": "2026-08-04",
-        "code": 96,
-        "tmax": 29,
-        "tmin": 21
+        "code": 95,
+        "tmax": 30,
+        "tmin": 22
       },
       {
         "date": "2026-08-05",
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "UN PÈRE DÉCÈDE EN ALLANT À L’ACCOUCHEMENT DE SA FEMME",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "XI9QspQtYDk",
+        "thumbnail": "https://i.ytimg.com/vi/XI9QspQtYDk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XI9QspQtYDk",
+        "publishedAt": "2026-08-02T14:00:15+00:00"
+      },
+      {
         "title": "L'extrême droite n'existe pas en France ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/xEyVgXwfebY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xEyVgXwfebY",
         "publishedAt": "2026-08-02T13:05:02+00:00"
-      },
-      {
-        "title": "ELLE PRENAIT SA PILULE...MAIS PAS DU TOUT COMME IL FALLAIT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "wFl2QNWnRCI",
-        "thumbnail": "https://i.ytimg.com/vi/wFl2QNWnRCI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wFl2QNWnRCI",
-        "publishedAt": "2026-08-02T11:00:21+00:00"
       },
       {
         "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Seulement 8,9 % des sites bloquent les robots d'exploration de l'IA, mais 94,8 % ne sont jamais cités dans les réponses de l'IA",
-        "titleOriginal": "Only 8.9% of sites block AI crawlers, but 94.8% are never cited in AI answers",
-        "url": "https://website-auditor.io/ai-visibility-index",
-        "source": "website-auditor.io",
-        "score": 30,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49143630",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Vingt ans de RISC OS Open",
         "titleOriginal": "Twenty Years of RISC OS Open",
         "url": "https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open",
         "source": "riscosopen.org",
-        "score": 12,
-        "comments": 1,
+        "score": 50,
+        "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49143967",
-        "date": "il y a 31 min"
-      },
-      {
-        "title": "Show HN : Bor – Gestion des politiques open source pour les ordinateurs de bureau Linux",
-        "titleOriginal": "Show HN: Bor – Open-source policy management for Linux desktops",
-        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
-        "source": "getbor.dev",
-        "score": 65,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49142569",
-        "date": "il y a 4 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Meshdiff – comparer visuellement deux versions STL dans le navigateur, côté client",
         "titleOriginal": "Meshdiff – visually compare two STL versions in the browser, client-side",
         "url": "https://meshdiff.com/",
         "source": "meshdiff.com",
-        "score": 54,
-        "comments": 6,
+        "score": 91,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49143479",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "F* : Un langage de programmation polyvalent axé sur la preuve",
+        "titleOriginal": "F*: A general-purpose proof-oriented programming language",
+        "url": "https://fstar-lang.org/",
+        "source": "fstar-lang.org",
+        "score": 24,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49143925",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Show HN : Bor – Gestion des politiques open source pour les ordinateurs de bureau Linux",
+        "titleOriginal": "Show HN: Bor – Open-source policy management for Linux desktops",
+        "url": "https://getbor.dev/blog/2026-08-02-bor-v080-release/",
+        "source": "getbor.dev",
+        "score": 99,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=49142569",
+        "date": "il y a 5 h"
       }
     ]
   },
