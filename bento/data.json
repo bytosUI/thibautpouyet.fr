@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T02:11:42.517Z",
+  "updatedAt": "2026-08-02T05:39:41.735Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
-      "code": 1,
+      "temp": 17,
+      "feelsLike": 16,
+      "code": 0,
       "wind": 5,
-      "humidity": 50
+      "humidity": 57
     },
     "forecast": [
       {
@@ -20,17 +20,17 @@
         "date": "2026-08-03",
         "code": 80,
         "tmax": 38,
-        "tmin": 21
+        "tmin": 20
       },
       {
         "date": "2026-08-04",
-        "code": 95,
-        "tmax": 30,
+        "code": 80,
+        "tmax": 29,
         "tmin": 23
       },
       {
         "date": "2026-08-05",
-        "code": 3,
+        "code": 61,
         "tmax": 28,
         "tmin": 21
       }
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Faire fonctionner Kimi K3 sur MI355X à une meilleure performance par dollar que B300",
+        "titleOriginal": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+        "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+        "source": "wafer.ai",
+        "score": 36,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49141073",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Go 1.27 Visite interactive",
         "titleOriginal": "Go 1.27 Interactive Tour",
         "url": "https://victoriametrics.com/blog/go-1-27/index.html",
         "source": "victoriametrics.com",
-        "score": 18,
-        "comments": 1,
+        "score": 111,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=49140218",
-        "date": "il y a 35 min"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "MkLinux et le proxénète Apple Workgroup Server 9150",
+        "titleOriginal": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+        "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+        "source": "oldvcr.blogspot.com",
+        "score": 33,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49140702",
+        "date": "il y a 2 h"
       },
       {
         "title": "Seedance 2.5",
         "titleOriginal": "Seedance 2.5",
         "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
         "source": "seed.bytedance.com",
-        "score": 184,
-        "comments": 85,
+        "score": 247,
+        "comments": 121,
         "hnUrl": "https://news.ycombinator.com/item?id=49138302",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Diátaxis",
-        "titleOriginal": "Diátaxis",
-        "url": "https://diataxis.fr/",
-        "source": "diataxis.fr",
-        "score": 200,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49138188",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Les conseils financiers de l'IA sont étonnamment bons, surtout si vous posez les bonnes questions",
-        "titleOriginal": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "source": "mitsloan.mit.edu",
-        "score": 168,
-        "comments": 122,
-        "hnUrl": "https://news.ycombinator.com/item?id=49139102",
-        "date": "il y a 3 h"
+        "date": "il y a 8 h"
       }
     ]
   },
