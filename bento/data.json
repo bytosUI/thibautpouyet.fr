@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-02T20:27:02.454Z",
+  "updatedAt": "2026-08-02T21:24:18.461Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 28,
-      "code": 3,
-      "wind": 8,
-      "humidity": 36
+      "temp": 27,
+      "feelsLike": 27,
+      "code": 1,
+      "wind": 7,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -174,22 +174,32 @@
   "hackernews": {
     "items": [
       {
+        "title": "Manie de l'IA : des tulipes aux jetons",
+        "titleOriginal": "AI Mania: From Tulips to Tokens",
+        "url": "https://seanhelvey.com/tools-and-their-tools/",
+        "source": "seanhelvey.com",
+        "score": 18,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49148159",
+        "date": "il y a 35 min"
+      },
+      {
         "title": "Pélican de Karpathy",
         "titleOriginal": "Karpathy’s Pelican",
         "url": "https://twitter.com/karpathy/status/2083749667410727319",
         "source": "twitter.com",
-        "score": 245,
-        "comments": 187,
+        "score": 289,
+        "comments": 230,
         "hnUrl": "https://news.ycombinator.com/item?id=49140998",
-        "date": "il y a 16 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Show HN : Kakehashi – Espace utilisateur expérimental pour exécuter des binaires macOS sur Linux ARM",
         "titleOriginal": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
         "url": "https://github.com/wie-project/kakehashi",
         "source": "github.com",
-        "score": 106,
-        "comments": 26,
+        "score": 123,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49145937",
         "date": "il y a 4 h"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "Note-Taking and Personal Knowledge Management",
         "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
         "source": "unattributed.cc",
-        "score": 24,
-        "comments": 0,
+        "score": 49,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49084324",
         "date": "il y a 5 j"
-      },
-      {
-        "title": "Les développeurs sont attachés aux outils car les outils encodent la confiance",
-        "titleOriginal": "Developers are attached to tools because tools encode trust",
-        "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-        "source": "stackoverflow.blog",
-        "score": 75,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=49097961",
-        "date": "il y a 4 j"
       }
     ]
   },
