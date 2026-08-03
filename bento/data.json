@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-03T17:23:22.391Z",
+  "updatedAt": "2026-08-03T19:03:48.564Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 26,
-      "feelsLike": 25,
+      "feelsLike": 28,
       "code": 3,
-      "wind": 18,
-      "humidity": 50
+      "wind": 9,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ELLE ACCOUCHE EN FOU RIRE, SOUS GAZ HILARANT",
+        "title": "POURQUOI IL EST CONTRE L’ACCOUCHEMENT À DOMICILE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "q_DFEcdo_Qo",
-        "thumbnail": "https://i.ytimg.com/vi/q_DFEcdo_Qo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q_DFEcdo_Qo",
-        "publishedAt": "2026-08-03T17:00:05+00:00"
+        "videoId": "Z3RkIo-mDjw",
+        "thumbnail": "https://i.ytimg.com/vi/Z3RkIo-mDjw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z3RkIo-mDjw",
+        "publishedAt": "2026-08-03T18:00:21+00:00"
       },
       {
         "title": "J'ai pris une mamie de 80 ans en stop… c'est une légende de Jeju 🇰🇷",
@@ -97,15 +97,6 @@
         "publishedAt": "2026-08-03T07:30:33+00:00"
       },
       {
-        "title": "Derrière les masques : ce que cache la stratégie Mistral !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "o32gdBnBHCw",
-        "thumbnail": "https://i.ytimg.com/vi/o32gdBnBHCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o32gdBnBHCw",
-        "publishedAt": "2026-08-02T18:00:15+00:00"
-      },
-      {
         "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -113,6 +104,15 @@
         "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
         "publishedAt": "2026-08-02T07:04:19+00:00"
+      },
+      {
+        "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "F4PbE9QpIy4",
+        "thumbnail": "https://i.ytimg.com/vi/F4PbE9QpIy4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F4PbE9QpIy4",
+        "publishedAt": "2026-07-31T06:30:27+00:00"
       },
       {
         "title": "48h pour isoler l’étage… #25",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "CVE critique émis pour la vulnérabilité à la SQLite hallucinée",
-        "titleOriginal": "Critical CVE issued for hallucinated SQLite vulnerability",
-        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "source": "research.jfrog.com",
-        "score": 623,
-        "comments": 240,
-        "hnUrl": "https://news.ycombinator.com/item?id=49154332",
-        "date": "il y a 5 h"
+        "title": "Dix avancées en mathématiques et en informatique théorique",
+        "titleOriginal": "Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics/",
+        "source": "openai.com",
+        "score": 138,
+        "comments": 431,
+        "hnUrl": "https://news.ycombinator.com/item?id=49157930",
+        "date": "il y a 2 h"
       },
       {
         "title": "Devtools doit être open source",
         "titleOriginal": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source",
         "source": "blog.exe.dev",
-        "score": 188,
-        "comments": 66,
+        "score": 322,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=49156111",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Prise en charge de MiniMax H3 Day-0 dans ComfyUI : poids ouverts, audio natif et vidéo 2K",
-        "titleOriginal": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-        "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-        "source": "blog.comfy.org",
-        "score": 150,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=49155629",
-        "date": "il y a 3 h"
+        "title": "Célébration des 45 ans de Kermit avec la première nouvelle version de C-Kermit en 15 ans",
+        "titleOriginal": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+        "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+        "source": "changelog.complete.org",
+        "score": 59,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49158474",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Quel est le plus grand projet logiciel que l'IA puisse réaliser seule ?",
-        "titleOriginal": "What's the largest software project AI can complete on its own?",
-        "url": "https://epoch.ai/MirrorCode",
-        "source": "epoch.ai",
-        "score": 32,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49157786",
-        "date": "il y a 1 h"
+        "title": "L'éolien et le solaire dépassent pour la première fois les combustibles fossiles en Allemagne",
+        "titleOriginal": "Wind and solar overtake fossil fuels in Germany for the first time",
+        "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
+        "source": "intellinews.com",
+        "score": 199,
+        "comments": 103,
+        "hnUrl": "https://news.ycombinator.com/item?id=49155359",
+        "date": "il y a 5 h"
       }
     ]
   },
