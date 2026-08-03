@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-08-03T19:03:48.564Z",
+  "updatedAt": "2026-08-03T20:42:11.044Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 28,
+      "temp": 25,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 9,
-      "humidity": 57
+      "wind": 3,
+      "humidity": 67
     },
     "forecast": [
       {
         "date": "2026-08-03",
-        "code": 61,
+        "code": 80,
         "tmax": 38,
         "tmin": 20
       },
       {
         "date": "2026-08-04",
-        "code": 95,
-        "tmax": 30,
-        "tmin": 22
+        "code": 80,
+        "tmax": 28,
+        "tmin": 21
       },
       {
         "date": "2026-08-05",
         "code": 3,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 21
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI IL EST CONTRE L’ACCOUCHEMENT À DOMICILE ?",
+        "title": "MAMAN OU BÉBÉ : QUI SAUVE-T-ON S’IL FAUT CHOISIR ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Z3RkIo-mDjw",
-        "thumbnail": "https://i.ytimg.com/vi/Z3RkIo-mDjw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z3RkIo-mDjw",
-        "publishedAt": "2026-08-03T18:00:21+00:00"
+        "videoId": "5yMKuxc4rMc",
+        "thumbnail": "https://i.ytimg.com/vi/5yMKuxc4rMc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5yMKuxc4rMc",
+        "publishedAt": "2026-08-03T19:00:01+00:00"
       },
       {
         "title": "J'ai pris une mamie de 80 ans en stop… c'est une légende de Jeju 🇰🇷",
@@ -97,6 +97,15 @@
         "publishedAt": "2026-08-03T07:30:33+00:00"
       },
       {
+        "title": "Derrière les masques : ce que cache la stratégie Mistral !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "o32gdBnBHCw",
+        "thumbnail": "https://i.ytimg.com/vi/o32gdBnBHCw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o32gdBnBHCw",
+        "publishedAt": "2026-08-02T18:00:15+00:00"
+      },
+      {
         "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -104,15 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
         "publishedAt": "2026-08-02T07:04:19+00:00"
-      },
-      {
-        "title": "Information contrôlée : la France bascule dans l'autoritarisme !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "F4PbE9QpIy4",
-        "thumbnail": "https://i.ytimg.com/vi/F4PbE9QpIy4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F4PbE9QpIy4",
-        "publishedAt": "2026-07-31T06:30:27+00:00"
       },
       {
         "title": "48h pour isoler l’étage… #25",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "DDoS contre l'infrastructure informatique du gouvernement norvégien – état",
+        "titleOriginal": "DDoS against Norwegian government IT infrastructure – status",
+        "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
+        "source": "status.digdir.no",
+        "score": 47,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49160631",
+        "date": "il y a 45 min"
+      },
+      {
         "title": "Dix avancées en mathématiques et en informatique théorique",
         "titleOriginal": "Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics/",
         "source": "openai.com",
-        "score": 138,
-        "comments": 431,
+        "score": 275,
+        "comments": 533,
         "hnUrl": "https://news.ycombinator.com/item?id=49157930",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Devtools doit être open source",
         "titleOriginal": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source",
         "source": "blog.exe.dev",
-        "score": 322,
-        "comments": 118,
+        "score": 404,
+        "comments": 139,
         "hnUrl": "https://news.ycombinator.com/item?id=49156111",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Célébration des 45 ans de Kermit avec la première nouvelle version de C-Kermit en 15 ans",
-        "titleOriginal": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-        "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-        "source": "changelog.complete.org",
-        "score": 59,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49158474",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "L'éolien et le solaire dépassent pour la première fois les combustibles fossiles en Allemagne",
-        "titleOriginal": "Wind and solar overtake fossil fuels in Germany for the first time",
-        "url": "https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/",
-        "source": "intellinews.com",
-        "score": 199,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=49155359",
-        "date": "il y a 5 h"
+        "title": "L'effet Dunning-Kruger n'est probablement pas réel",
+        "titleOriginal": "The Dunning-Kruger Effect Is Probably Not Real",
+        "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real",
+        "source": "mcgill.ca",
+        "score": 31,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49160437",
+        "date": "il y a 1 h"
       }
     ]
   },
