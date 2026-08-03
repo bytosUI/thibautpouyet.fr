@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-03T15:23:28.851Z",
+  "updatedAt": "2026-08-03T17:23:22.391Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
-      "feelsLike": 36,
-      "code": 96,
-      "wind": 13,
-      "humidity": 32
+      "temp": 26,
+      "feelsLike": 25,
+      "code": 3,
+      "wind": 18,
+      "humidity": 50
     },
     "forecast": [
       {
         "date": "2026-08-03",
-        "code": 96,
+        "code": 61,
         "tmax": 38,
         "tmin": 20
       },
       {
         "date": "2026-08-04",
-        "code": 61,
-        "tmax": 28,
+        "code": 95,
+        "tmax": 30,
         "tmin": 22
       },
       {
@@ -52,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "« IL ÉJAC*LE SUR LE NOMBRIL DE SA FEMME POUR AVOIR UN ENFANT »",
+        "title": "ELLE ACCOUCHE EN FOU RIRE, SOUS GAZ HILARANT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Kxd34QYnU4c",
-        "thumbnail": "https://i.ytimg.com/vi/Kxd34QYnU4c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kxd34QYnU4c",
-        "publishedAt": "2026-08-03T14:00:14+00:00"
+        "videoId": "q_DFEcdo_Qo",
+        "thumbnail": "https://i.ytimg.com/vi/q_DFEcdo_Qo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q_DFEcdo_Qo",
+        "publishedAt": "2026-08-03T17:00:05+00:00"
+      },
+      {
+        "title": "J'ai pris une mamie de 80 ans en stop… c'est une légende de Jeju 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "ejJwV-dpmDY",
+        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
+        "publishedAt": "2026-08-03T16:00:11+00:00"
+      },
+      {
+        "title": "Oli raconte son pire date",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "noO7FOK3tYE",
+        "thumbnail": "https://i.ytimg.com/vi/noO7FOK3tYE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=noO7FOK3tYE",
+        "publishedAt": "2026-08-03T15:29:18+00:00"
       },
       {
         "title": "Pourquoi il vaut mieux fuir la France si tu réussis",
@@ -95,24 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
         "publishedAt": "2026-08-02T07:04:19+00:00"
-      },
-      {
-        "title": "2 imbéciles discutent des marées",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "pSUR8Si2PsY",
-        "thumbnail": "https://i.ytimg.com/vi/pSUR8Si2PsY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pSUR8Si2PsY",
-        "publishedAt": "2026-07-31T16:07:11+00:00"
-      },
-      {
-        "title": "Vivre en Corée du Sud : argent, visa & expatriation | FAQ 50k",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "TPShlk5wEU0",
-        "thumbnail": "https://i.ytimg.com/vi/TPShlk5wEU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TPShlk5wEU0",
-        "publishedAt": "2026-07-27T16:09:29+00:00"
       },
       {
         "title": "48h pour isoler l’étage… #25",
@@ -178,40 +178,40 @@
         "titleOriginal": "Critical CVE issued for hallucinated SQLite vulnerability",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "source": "research.jfrog.com",
-        "score": 444,
-        "comments": 144,
+        "score": 623,
+        "comments": 240,
         "hnUrl": "https://news.ycombinator.com/item?id=49154332",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Devtools doit être open source",
         "titleOriginal": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source",
         "source": "blog.exe.dev",
-        "score": 57,
-        "comments": 12,
+        "score": 188,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=49156111",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Prise en charge de MiniMax H3 Day-0 dans ComfyUI : poids ouverts, audio natif et vidéo 2K",
         "titleOriginal": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
         "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
         "source": "blog.comfy.org",
-        "score": 91,
-        "comments": 38,
+        "score": 150,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=49155629",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Ne soyez pas un substitut de viande",
-        "titleOriginal": "Don't be a meat proxy",
-        "url": "https://gruhn.me/blog/2026-08-03/",
-        "source": "gruhn.me",
-        "score": 1244,
-        "comments": 521,
-        "hnUrl": "https://news.ycombinator.com/item?id=49151933",
-        "date": "il y a 8 h"
+        "title": "Quel est le plus grand projet logiciel que l'IA puisse réaliser seule ?",
+        "titleOriginal": "What's the largest software project AI can complete on its own?",
+        "url": "https://epoch.ai/MirrorCode",
+        "source": "epoch.ai",
+        "score": 32,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49157786",
+        "date": "il y a 1 h"
       }
     ]
   },
