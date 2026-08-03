@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-03T22:02:44.578Z",
+  "updatedAt": "2026-08-03T23:33:39.872Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 23,
       "feelsLike": 26,
       "code": 3,
-      "wind": 4,
-      "humidity": 74
+      "wind": 2,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-08-04",
         "code": 80,
         "tmax": 28,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-08-05",
         "code": 3,
-        "tmax": 29,
+        "tmax": 28,
         "tmin": 21
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "LLMs reward expertise",
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
         "source": "seangoedecke.com",
-        "score": 115,
-        "comments": 39,
+        "score": 273,
+        "comments": 116,
         "hnUrl": "https://news.ycombinator.com/item?id=49161518",
-        "date": "il y a 48 min"
+        "date": "il y a 2 h"
       },
       {
         "title": "Dix avancées en mathématiques et en informatique théorique",
         "titleOriginal": "Ten advances in mathematics and theoretical computer science",
         "url": "https://openai.com/index/ten-advances-in-mathematics/",
         "source": "openai.com",
-        "score": 347,
-        "comments": 632,
+        "score": 383,
+        "comments": 672,
         "hnUrl": "https://news.ycombinator.com/item?id=49157930",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Windows XP 2002 pour l'Itanium : rage débridée",
+        "titleOriginal": "Windows XP 2002 for the Itanium: Unbridled rage",
+        "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+        "source": "virtuallyfun.com",
+        "score": 32,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49162086",
+        "date": "il y a 1 h"
       },
       {
         "title": "Devtools doit être open source",
         "titleOriginal": "Devtools must be open source",
         "url": "https://blog.exe.dev/devtools-must-be-open-source",
         "source": "blog.exe.dev",
-        "score": 438,
-        "comments": 157,
+        "score": 465,
+        "comments": 171,
         "hnUrl": "https://news.ycombinator.com/item?id=49156111",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "200 millisecondes",
-        "titleOriginal": "200 Milliseconds",
-        "url": "https://200ms.thenodebook.com",
-        "source": "200ms.thenodebook.com",
-        "score": 100,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49132992",
-        "date": "il y a 2 j"
+        "date": "il y a 9 h"
       }
     ]
   },
