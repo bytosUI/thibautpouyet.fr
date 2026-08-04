@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-08-04T15:21:54.384Z",
+  "updatedAt": "2026-08-04T17:10:58.909Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 30,
       "feelsLike": 31,
-      "code": 2,
-      "wind": 13,
-      "humidity": 47
+      "code": 1,
+      "wind": 10,
+      "humidity": 45
     },
     "forecast": [
       {
         "date": "2026-08-04",
         "code": 80,
-        "tmax": 31,
+        "tmax": 30,
         "tmin": 21
       },
       {
         "date": "2026-08-05",
         "code": 3,
         "tmax": 29,
-        "tmin": 21
+        "tmin": 22
       },
       {
         "date": "2026-08-06",
         "code": 3,
         "tmax": 25,
-        "tmin": 17
+        "tmin": 16
       },
       {
         "date": "2026-08-07",
-        "code": 1,
-        "tmax": 28,
-        "tmin": 10
+        "code": 3,
+        "tmax": 27,
+        "tmin": 11
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT RETROUVE-T-ON LA PERSONNE QUI A DÉCLENCHÉ UN INCENDIE ?",
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "TONY PARKER : DÉCÈS DE SON PÈRE, COUPLE, VIE AUX USA, CARRIÈRE… SES ANECDOTES LES PLUS FOLLES",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "qxEVfPZupjQ",
-        "thumbnail": "https://i.ytimg.com/vi/qxEVfPZupjQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qxEVfPZupjQ",
-        "publishedAt": "2026-08-04T13:00:05+00:00"
+        "videoId": "ZEL4y02SWVk",
+        "thumbnail": "https://i.ytimg.com/vi/ZEL4y02SWVk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZEL4y02SWVk",
+        "publishedAt": "2026-08-04T14:35:23+00:00"
       },
       {
         "title": "Convoqué par la police... pour une blague",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
         "publishedAt": "2026-08-03T16:00:11+00:00"
-      },
-      {
-        "title": "Oli raconte son pire date",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "noO7FOK3tYE",
-        "thumbnail": "https://i.ytimg.com/vi/noO7FOK3tYE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=noO7FOK3tYE",
-        "publishedAt": "2026-08-03T15:29:18+00:00"
       },
       {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Show HN : algorithme simple et espace colorimétrique pour générer des tons de peau variés",
+        "titleOriginal": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+        "url": "https://toneyalexander.github.io/inclusive-color-space/",
+        "source": "toneyalexander.github.io",
+        "score": 158,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49170165",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "\"There Will Come Soft Rains\" de Ray Bradbury se déroule aujourd'hui (2026-08-04)",
         "titleOriginal": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
         "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
         "source": "short-stories.co",
-        "score": 312,
-        "comments": 121,
+        "score": 447,
+        "comments": 199,
         "hnUrl": "https://news.ycombinator.com/item?id=49166491",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "FFmpeg 9.0",
-        "titleOriginal": "FFmpeg 9.0",
-        "url": "https://jbkempf.com/blog/2026/ffmpeg-9.0/",
-        "source": "jbkempf.com",
-        "score": 17,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49169783",
-        "date": "il y a 32 min"
+        "title": "When AI Benchmarks Plateau : A Systematic Study of Benchmark Saturation",
+        "titleOriginal": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+        "url": "https://arxiv.org/abs/2602.16763",
+        "source": "arxiv.org",
+        "score": 22,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49170915",
+        "date": "il y a 1 h"
       },
       {
         "title": "Flash DeepSeek V4 sur un seul AMD MI300X",
         "titleOriginal": "DeepSeek V4 Flash on a Single AMD MI300X",
         "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
         "source": "github.com",
-        "score": 228,
-        "comments": 54,
+        "score": 276,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=49166386",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Compétences d'agent qui apportent des normes de codage d'équipe à Claude Code et Codex",
-        "titleOriginal": "Agent skills that bring team coding standards to Claude Code and Codex",
-        "url": "https://github.com/tikalk/adlc-team-skills",
-        "source": "github.com",
-        "score": 27,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49169640",
-        "date": "il y a 43 min"
+        "date": "il y a 7 h"
       }
     ]
   },
