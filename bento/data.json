@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-04T20:49:08.855Z",
+  "updatedAt": "2026-08-04T22:06:37.871Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 27,
+      "temp": 25,
+      "feelsLike": 25,
       "code": 1,
-      "wind": 7,
-      "humidity": 49
+      "wind": 9,
+      "humidity": 50
     },
     "forecast": [
-      {
-        "date": "2026-08-04",
-        "code": 80,
-        "tmax": 30,
-        "tmin": 21
-      },
       {
         "date": "2026-08-05",
         "code": 3,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-08-07",
-        "code": 3,
+        "code": 1,
         "tmax": 27,
-        "tmin": 11
+        "tmin": 12
+      },
+      {
+        "date": "2026-08-08",
+        "code": 3,
+        "tmax": 32,
+        "tmin": 13
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Show HN : algorithme simple et espace colorimétrique pour générer des tons de peau variés",
-        "titleOriginal": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-        "url": "https://toneyalexander.github.io/inclusive-color-space/",
-        "source": "toneyalexander.github.io",
-        "score": 364,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=49170165",
-        "date": "il y a 5 h"
-      },
-      {
         "title": "Mistral's Shieldstral : modèle de poids ouverts 3B pour la modération multimodale",
         "titleOriginal": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "mistral.ai",
-        "score": 125,
-        "comments": 38,
+        "score": 222,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49171268",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Waymo – Dallas Ouvert à tous",
-        "titleOriginal": "Waymo – Dallas Open to All",
+        "title": "Show HN : algorithme simple et espace colorimétrique pour générer des tons de peau variés",
+        "titleOriginal": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+        "url": "https://toneyalexander.github.io/inclusive-color-space/",
+        "source": "toneyalexander.github.io",
+        "score": 416,
+        "comments": 85,
+        "hnUrl": "https://news.ycombinator.com/item?id=49170165",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "En mémoire de ma femme, Elise Cawley, avec des remerciements pour 36 merveilleuses années",
+        "titleOriginal": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+        "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+        "source": "writings.stephenwolfram.com",
+        "score": 546,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49173165",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Waymo à Dallas",
+        "titleOriginal": "Waymo in Dallas",
         "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
         "source": "waymo.com",
-        "score": 113,
-        "comments": 98,
+        "score": 173,
+        "comments": 184,
         "hnUrl": "https://news.ycombinator.com/item?id=49172836",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Pourquoi certaines personnes tondent une pelouse mieux que d'autres",
-        "titleOriginal": "Why some people mow a lawn better than others",
-        "url": "https://pudding.cool/2026/06/mow/",
-        "source": "pudding.cool",
-        "score": 101,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=49172550",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
