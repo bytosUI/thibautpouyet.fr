@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-04T07:59:01.536Z",
+  "updatedAt": "2026-08-04T10:43:25.751Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 25,
+      "temp": 26,
+      "feelsLike": 28,
       "code": 3,
-      "wind": 8,
-      "humidity": 76
+      "wind": 10,
+      "humidity": 70
     },
     "forecast": [
       {
         "date": "2026-08-04",
         "code": 80,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 21
       },
       {
         "date": "2026-08-05",
         "code": 3,
         "tmax": 29,
-        "tmin": 20
+        "tmin": 21
       },
       {
         "date": "2026-08-06",
@@ -37,14 +37,22 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Sovereign Tower",
+        "viewers": 171,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -52,16 +60,25 @@
   "youtube": {
     "videos": [
       {
-        "title": "MAMAN OU BÉBÉ : QUI SAUVE-T-ON S’IL FAUT CHOISIR ?",
+        "title": "INCENDIES EN GIRONDE : \"ON S'EST SENTIS IMPUISSANTS MAIS ON A SAUVÉ DES VIES\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "5yMKuxc4rMc",
-        "thumbnail": "https://i.ytimg.com/vi/5yMKuxc4rMc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5yMKuxc4rMc",
-        "publishedAt": "2026-08-03T19:00:01+00:00"
+        "videoId": "HbxLGyta9wM",
+        "thumbnail": "https://i.ytimg.com/vi/HbxLGyta9wM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HbxLGyta9wM",
+        "publishedAt": "2026-08-04T10:00:12+00:00"
       },
       {
-        "title": "J'ai pris une mamie de 80 ans en stop… c'est une légende de Jeju 🇰🇷",
+        "title": "Convoqué par la police... pour une blague",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "NXJgUhSVkJc",
+        "thumbnail": "https://i.ytimg.com/vi/NXJgUhSVkJc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NXJgUhSVkJc",
+        "publishedAt": "2026-08-04T09:08:14+00:00"
+      },
+      {
+        "title": "Nos premières vacances en Corée 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
         "videoId": "ejJwV-dpmDY",
@@ -77,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/noO7FOK3tYE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=noO7FOK3tYE",
         "publishedAt": "2026-08-03T15:29:18+00:00"
-      },
-      {
-        "title": "Pourquoi il vaut mieux fuir la France si tu réussis",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "SgyOUf32YuI",
-        "thumbnail": "https://i.ytimg.com/vi/SgyOUf32YuI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SgyOUf32YuI",
-        "publishedAt": "2026-08-03T08:23:26+00:00"
       },
       {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "FFmpeg 9.0",
+        "titleOriginal": "FFmpeg 9.0",
+        "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+        "source": "github.com",
+        "score": 130,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49166202",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Flash DeepSeek V4 sur un seul AMD MI300X",
+        "titleOriginal": "DeepSeek V4 Flash on a Single AMD MI300X",
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+        "source": "github.com",
+        "score": 15,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49166386",
+        "date": "il y a 42 min"
+      },
+      {
+        "title": "Bending Spoons fait sa première acquisition post-IPO avec une offre Airtable de 1,3 milliard de $",
+        "titleOriginal": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+        "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+        "source": "live.euronext.com",
+        "score": 35,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49166182",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Les LLM récompensent l'expertise",
         "titleOriginal": "LLMs reward expertise",
         "url": "https://www.seangoedecke.com/llms-reward-expertise/",
         "source": "seangoedecke.com",
-        "score": 827,
-        "comments": 346,
+        "score": 980,
+        "comments": 416,
         "hnUrl": "https://news.ycombinator.com/item?id=49161518",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "Show HN : Exécutez un Qwen 80B en 4,3 Go de RAM sur un Mac et un 35B sur un iPhone",
-        "titleOriginal": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-        "url": "https://github.com/leonickson1/Swiftlet",
-        "source": "github.com",
-        "score": 143,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=49158333",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "La civilisation amazonienne avait estimé à 3 millions le nombre de personnes dans 3 % de la superficie forestière",
-        "titleOriginal": "Amazonian civilization had estimated 3M people in 3% of forest area",
-        "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-        "source": "science.org",
-        "score": 126,
-        "comments": 97,
-        "hnUrl": "https://news.ycombinator.com/item?id=49099336",
-        "date": "il y a 5 j"
-      },
-      {
-        "title": "Dix avancées en mathématiques et en informatique théorique",
-        "titleOriginal": "Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics/",
-        "source": "openai.com",
-        "score": 524,
-        "comments": 802,
-        "hnUrl": "https://news.ycombinator.com/item?id=49157930",
-        "date": "il y a 15 h"
+        "date": "il y a 13 h"
       }
     ]
   },
