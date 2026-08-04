@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-04T22:06:37.871Z",
+  "updatedAt": "2026-08-04T23:31:04.015Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
-      "code": 1,
-      "wind": 9,
-      "humidity": 50
+      "temp": 24,
+      "feelsLike": 24,
+      "code": 0,
+      "wind": 8,
+      "humidity": 59
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'IA alimente plus de la moitié de la cybercriminalité en Afrique alors que les escroqueries augmentent – Interpol",
+        "titleOriginal": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+        "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+        "source": "africanews.com",
+        "score": 88,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49175826",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Gwern reties de l'écriture à plein temps au lancement de Guardian Angel Inc",
+        "titleOriginal": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
+        "url": "https://twitter.com/i/status/2084739205071343837",
+        "source": "twitter.com",
+        "score": 57,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=49174900",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Mistral's Shieldstral : modèle de poids ouverts 3B pour la modération multimodale",
         "titleOriginal": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
         "url": "https://mistral.ai/news/shieldstral/",
         "source": "mistral.ai",
-        "score": 222,
-        "comments": 54,
+        "score": 278,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=49171268",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Show HN : algorithme simple et espace colorimétrique pour générer des tons de peau variés",
-        "titleOriginal": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-        "url": "https://toneyalexander.github.io/inclusive-color-space/",
-        "source": "toneyalexander.github.io",
-        "score": 416,
-        "comments": 85,
-        "hnUrl": "https://news.ycombinator.com/item?id=49170165",
         "date": "il y a 6 h"
       },
       {
-        "title": "En mémoire de ma femme, Elise Cawley, avec des remerciements pour 36 merveilleuses années",
-        "titleOriginal": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-        "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-        "source": "writings.stephenwolfram.com",
-        "score": 546,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=49173165",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Waymo à Dallas",
-        "titleOriginal": "Waymo in Dallas",
-        "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-        "source": "waymo.com",
-        "score": 173,
-        "comments": 184,
-        "hnUrl": "https://news.ycombinator.com/item?id=49172836",
-        "date": "il y a 3 h"
+        "title": "DuckDB – Outils électriques de données pour votre ordinateur portable, maintenant dans Clojure (2023)",
+        "titleOriginal": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
+        "url": "https://techascent.com/blog/just-ducking-around.html",
+        "source": "techascent.com",
+        "score": 16,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49175924",
+        "date": "il y a 1 h"
       }
     ]
   },
