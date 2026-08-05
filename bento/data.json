@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T18:24:05.696Z",
+  "updatedAt": "2026-08-05T20:05:56.797Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 25,
+      "temp": 24,
+      "feelsLike": 22,
       "code": 0,
-      "wind": 16,
-      "humidity": 32
+      "wind": 11,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -20,11 +20,11 @@
         "date": "2026-08-06",
         "code": 3,
         "tmax": 26,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-08-07",
-        "code": 2,
+        "code": 1,
         "tmax": 27,
         "tmin": 14
       },
@@ -178,40 +178,40 @@
         "titleOriginal": "Discovery Loop",
         "url": "https://www.discoveryloop.com/",
         "source": "discoveryloop.com",
-        "score": 227,
-        "comments": 101,
+        "score": 376,
+        "comments": 226,
         "hnUrl": "https://news.ycombinator.com/item?id=49184960",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Qwen 3.0 Image Pro",
-        "titleOriginal": "Qwen 3.0 Image Pro",
-        "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-        "source": "qwencloud.com",
-        "score": 162,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=49183850",
         "date": "il y a 3 h"
       },
       {
-        "title": "Modifications apportées aux équipes Google DeepMind",
-        "titleOriginal": "Changes to Google DeepMind teams",
+        "title": "Zed DeltaDB",
+        "titleOriginal": "Zed DeltaDB",
+        "url": "https://zed.dev/deltadb",
+        "source": "zed.dev",
+        "score": 100,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49187256",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Vaincre le GPT-5.6 sol lors de la récupération avec des modèles ouverts 100 fois moins chers",
+        "titleOriginal": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+        "source": "neon.com",
+        "score": 81,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49186762",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Changements chez Google DeepMind : Demis Hassabis de PDG à président, Jeff Dean quitte",
+        "titleOriginal": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
         "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
         "source": "blog.google",
-        "score": 78,
-        "comments": 59,
+        "score": 224,
+        "comments": 393,
         "hnUrl": "https://news.ycombinator.com/item?id=49184755",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Oracle vient de réduire de moitié ses limites de BRAS toujours libres",
-        "titleOriginal": "Oracle Just Halved Its Always Free ARM Limits",
-        "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-        "source": "cnelecar.com",
-        "score": 118,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=49183750",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
