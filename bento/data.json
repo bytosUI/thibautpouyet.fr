@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T15:10:16.067Z",
+  "updatedAt": "2026-08-05T16:59:02.335Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 26,
-      "code": 2,
-      "wind": 22,
-      "humidity": 31
+      "feelsLike": 27,
+      "code": 1,
+      "wind": 11,
+      "humidity": 30
     },
     "forecast": [
       {
@@ -19,19 +19,19 @@
       {
         "date": "2026-08-06",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 16
       },
       {
         "date": "2026-08-07",
-        "code": 3,
+        "code": 2,
         "tmax": 27,
-        "tmin": 13
+        "tmin": 14
       },
       {
         "date": "2026-08-08",
         "code": 3,
-        "tmax": 32,
+        "tmax": 31,
         "tmin": 12
       }
     ]
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Cloudflare OS : une plateforme ouverte pour les agents, les applications et le travail",
-        "titleOriginal": "Cloudflare OS: an open platform for agents, apps, and work",
-        "url": "https://blog.cloudflare.com/cloudflare-os/",
-        "source": "blog.cloudflare.com",
-        "score": 129,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=49182996",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Ne pas embaucher d'ingénieurs juniors ne résoudra pas le problème que vous pensez avoir",
-        "titleOriginal": "Not hiring junior engineers won't solve the problem you think you have",
-        "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
-        "source": "franciscotrindade.me",
-        "score": 34,
+        "title": "Qwen 3.0 Image Pro",
+        "titleOriginal": "Qwen 3.0 Image Pro",
+        "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
+        "source": "qwencloud.com",
+        "score": 101,
         "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49182957",
-        "date": "il y a 1 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=49183850",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Citations d'Aristote sur la vertu, la connaissance et le bonheur",
-        "titleOriginal": "Aristotle quotes on virtue, knowledge, and happiness",
-        "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-        "source": "campion.edu.au",
-        "score": 27,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49183115",
-        "date": "il y a 1 h"
+        "title": "Boucle de découverte",
+        "titleOriginal": "Discovery Loop",
+        "url": "https://www.discoveryloop.com/",
+        "source": "discoveryloop.com",
+        "score": 40,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49184960",
+        "date": "il y a 39 min"
       },
       {
-        "title": "Construire un harnais agentique avancé",
-        "titleOriginal": "Building an Advanced Agentic Harness",
-        "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-        "source": "data4sci.com",
-        "score": 19,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49182946",
-        "date": "il y a 1 h"
+        "title": "Demis Hassabis, PDG de Google DeepMind, démissionne",
+        "titleOriginal": "Google DeepMind CEO Demis Hassabis is stepping down",
+        "url": "https://www.axios.com/2026/08/05/google-deepmind-demis-hassabis-ai",
+        "source": "axios.com",
+        "score": 199,
+        "comments": 116,
+        "hnUrl": "https://news.ycombinator.com/item?id=49184757",
+        "date": "il y a 53 min"
+      },
+      {
+        "title": "Oracle vient de réduire de moitié ses limites de BRAS toujours libres",
+        "titleOriginal": "Oracle Just Halved Its Always Free ARM Limits",
+        "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
+        "source": "cnelecar.com",
+        "score": 61,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49183750",
+        "date": "il y a 2 h"
       }
     ]
   },
