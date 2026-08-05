@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-05T01:58:48.190Z",
+  "updatedAt": "2026-08-05T05:18:35.108Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 23,
+      "temp": 21,
+      "feelsLike": 22,
       "code": 2,
-      "wind": 6,
-      "humidity": 66
+      "wind": 11,
+      "humidity": 72
     },
     "forecast": [
       {
         "date": "2026-08-05",
         "code": 3,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 21
       },
       {
@@ -24,14 +24,14 @@
       },
       {
         "date": "2026-08-07",
-        "code": 1,
+        "code": 3,
         "tmax": 27,
         "tmin": 12
       },
       {
         "date": "2026-08-08",
         "code": 3,
-        "tmax": 32,
+        "tmax": 34,
         "tmin": 13
       }
     ]
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "TONY PARKER : DÉCÈS DE SON PÈRE, COUPLE, VIE AUX USA, CARRIÈRE… SES ANECDOTES LES PLUS FOLLES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ZEL4y02SWVk",
-        "thumbnail": "https://i.ytimg.com/vi/ZEL4y02SWVk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZEL4y02SWVk",
-        "publishedAt": "2026-08-04T14:35:23+00:00"
-      },
-      {
-        "title": "Convoqué par la police... pour une blague",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "NXJgUhSVkJc",
-        "thumbnail": "https://i.ytimg.com/vi/NXJgUhSVkJc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NXJgUhSVkJc",
-        "publishedAt": "2026-08-04T09:08:14+00:00"
-      },
-      {
-        "title": "Nos premières vacances en Corée 🇰🇷 (4 jours à Jeju)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ejJwV-dpmDY",
-        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
-        "publishedAt": "2026-08-03T16:00:11+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Derrière les masques : ce que cache la stratégie Mistral !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "o32gdBnBHCw",
-        "thumbnail": "https://i.ytimg.com/vi/o32gdBnBHCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o32gdBnBHCw",
-        "publishedAt": "2026-08-02T18:00:15+00:00"
-      },
-      {
-        "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "b6GrM9RtoEM",
-        "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
-        "publishedAt": "2026-08-02T07:04:19+00:00"
-      },
-      {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,40 +96,40 @@
         "titleOriginal": "libexpat now funded by the City of Munich for up to 6 months",
         "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
         "source": "blog.hartwork.org",
-        "score": 122,
-        "comments": 4,
+        "score": 228,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49176606",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Huit mythes sur le génie logiciel et GenAI",
         "titleOriginal": "Eight Myths on Software Engineering and GenAI",
         "url": "https://queue.acm.org/detail.cfm?id=3807963",
         "source": "queue.acm.org",
-        "score": 61,
-        "comments": 25,
+        "score": 140,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=49176830",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Le minimalisme de Pi est son avantage",
         "titleOriginal": "Pi's Minimalism Is Its Advantage",
         "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
         "source": "earendil.com",
-        "score": 105,
-        "comments": 29,
+        "score": 209,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=49176038",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Je prends ma retraite de l'écriture à temps plein (et du pseudonyme) pour lancer Guardian Angel",
-        "titleOriginal": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-        "url": "https://twitter.com/gwern/status/2084739205071343837",
-        "source": "twitter.com",
-        "score": 172,
-        "comments": 85,
-        "hnUrl": "https://news.ycombinator.com/item?id=49174900",
-        "date": "il y a 5 h"
+        "title": "MCP apatride a repris mon intérêt",
+        "titleOriginal": "Stateless MCP has recaptured my interest",
+        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+        "source": "simonwillison.net",
+        "score": 31,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49131438",
+        "date": "il y a 3 j"
       }
     ]
   },
