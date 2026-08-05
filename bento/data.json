@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T12:49:11.524Z",
+  "updatedAt": "2026-08-05T15:10:16.067Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
+      "temp": 29,
       "feelsLike": 26,
       "code": 2,
-      "wind": 18,
-      "humidity": 43
+      "wind": 22,
+      "humidity": 31
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE JOUR OÙ ÉRIC JUDOR ET LE FRÈRE DE TONY PARKER SE FONT ARRÊTER VIOLEMMENT PAR LA POLICE AUX USA",
+        "title": "CHAQUE TYPE DE PERSONNALITÉ A UNE COULEUR ! DÉCOUVREZ LA VÔTRE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "aJmxI--efPA",
-        "thumbnail": "https://i.ytimg.com/vi/aJmxI--efPA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aJmxI--efPA",
-        "publishedAt": "2026-08-05T12:00:37+00:00"
+        "videoId": "VPz2DWfCvvY",
+        "thumbnail": "https://i.ytimg.com/vi/VPz2DWfCvvY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VPz2DWfCvvY",
+        "publishedAt": "2026-08-05T15:00:02+00:00"
       },
       {
         "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Poste : Les LLM ne peuvent pas sauter",
-        "titleOriginal": "Position: LLMs Can't Jump",
-        "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
-        "source": "openreview.net",
-        "score": 69,
+        "title": "Cloudflare OS : une plateforme ouverte pour les agents, les applications et le travail",
+        "titleOriginal": "Cloudflare OS: an open platform for agents, apps, and work",
+        "url": "https://blog.cloudflare.com/cloudflare-os/",
+        "source": "blog.cloudflare.com",
+        "score": 129,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=49182996",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Ne pas embaucher d'ingénieurs juniors ne résoudra pas le problème que vous pensez avoir",
+        "titleOriginal": "Not hiring junior engineers won't solve the problem you think you have",
+        "url": "https://franciscotrindade.me/blog/the-kids-are-alright/",
+        "source": "franciscotrindade.me",
+        "score": 34,
         "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49181083",
+        "hnUrl": "https://news.ycombinator.com/item?id=49182957",
         "date": "il y a 1 h"
       },
       {
-        "title": "Three Six Mafia – Données sur « 6/6/6 dating » (2024)",
-        "titleOriginal": "Three Six Mafia – Data about \"6/6/6 dating\" (2024)",
-        "url": "https://divingintheshallowend.com/three-six-mafia/",
-        "source": "divingintheshallowend.com",
-        "score": 58,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49181678",
-        "date": "il y a 42 min"
-      },
-      {
-        "title": "Accident d'avion civil au Nouveau-Mexique lié au blocage du GPS militaire",
-        "titleOriginal": "Civilian plane crash in New Mexico tied to military GPS blocking",
-        "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
-        "source": "wired.com",
-        "score": 123,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=49181099",
+        "title": "Citations d'Aristote sur la vertu, la connaissance et le bonheur",
+        "titleOriginal": "Aristotle quotes on virtue, knowledge, and happiness",
+        "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
+        "source": "campion.edu.au",
+        "score": 27,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49183115",
         "date": "il y a 1 h"
       },
       {
-        "title": "MCP apatride a repris mon intérêt",
-        "titleOriginal": "Stateless MCP has recaptured my interest",
-        "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-        "source": "simonwillison.net",
-        "score": 291,
-        "comments": 150,
-        "hnUrl": "https://news.ycombinator.com/item?id=49131438",
-        "date": "il y a 4 j"
+        "title": "Construire un harnais agentique avancé",
+        "titleOriginal": "Building an Advanced Agentic Harness",
+        "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
+        "source": "data4sci.com",
+        "score": 19,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49182946",
+        "date": "il y a 1 h"
       }
     ]
   },
