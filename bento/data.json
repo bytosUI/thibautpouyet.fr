@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-05T08:00:16.361Z",
+  "updatedAt": "2026-08-05T10:43:45.833Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 23,
-      "code": 0,
-      "wind": 14,
-      "humidity": 59
+      "temp": 26,
+      "feelsLike": 25,
+      "code": 3,
+      "wind": 19,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -31,34 +31,43 @@
       {
         "date": "2026-08-08",
         "code": 3,
-        "tmax": 34,
-        "tmin": 13
+        "tmax": 32,
+        "tmin": 12
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 889,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Turnip Mountain",
+        "viewers": 156,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
       "domingo",
       "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "TONY PARKER RETROUVE SON PÈRE MORT D'UNE CRISE CARDIAQUE CHEZ LUI",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "OQIox4swbNQ",
+        "thumbnail": "https://i.ytimg.com/vi/OQIox4swbNQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OQIox4swbNQ",
+        "publishedAt": "2026-08-05T10:00:02+00:00"
+      },
       {
         "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
         "channel": "Mcfly et Carlito",
@@ -67,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
         "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "TONY PARKER : DÉCÈS DE SON PÈRE, COUPLE, VIE AUX USA, CARRIÈRE… SES ANECDOTES LES PLUS FOLLES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ZEL4y02SWVk",
-        "thumbnail": "https://i.ytimg.com/vi/ZEL4y02SWVk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZEL4y02SWVk",
-        "publishedAt": "2026-08-04T14:35:23+00:00"
       },
       {
         "title": "Convoqué par la police... pour une blague",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Helsinki Hacker News Meetup",
+        "titleOriginal": "Helsinki Hacker News Meetup",
+        "url": "https://calpaterson.com/helsinki-hn.html",
+        "source": "calpaterson.com",
+        "score": 36,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49180407",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "MCP apatride a repris mon intérêt",
         "titleOriginal": "Stateless MCP has recaptured my interest",
         "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
         "source": "simonwillison.net",
-        "score": 140,
-        "comments": 72,
+        "score": 233,
+        "comments": 120,
         "hnUrl": "https://news.ycombinator.com/item?id=49131438",
         "date": "il y a 4 j"
       },
       {
-        "title": "L'âge d'or de la crème glacée britannique",
-        "titleOriginal": "The Golden Age of British Ice Cream",
-        "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-        "source": "vittlesmagazine.com",
-        "score": 44,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49172784",
-        "date": "il y a 13 h"
+        "title": "« La gravité vaut la peine d'être posée »",
+        "titleOriginal": "“Gravity is worth asking about”",
+        "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+        "source": "unsung.aresluna.org",
+        "score": 98,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=49105978",
+        "date": "il y a 6 j"
       },
       {
         "title": "Le minimalisme de Pi est son avantage",
         "titleOriginal": "Pi's Minimalism Is Its Advantage",
         "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
         "source": "earendil.com",
-        "score": 312,
-        "comments": 120,
+        "score": 383,
+        "comments": 163,
         "hnUrl": "https://news.ycombinator.com/item?id=49176038",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "« La gravité vaut la peine d'être posée. »",
-        "titleOriginal": "\"Gravity is worth asking about.\"",
-        "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-        "source": "unsung.aresluna.org",
-        "score": 23,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49105978",
-        "date": "il y a 6 j"
+        "date": "il y a 12 h"
       }
     ]
   },
