@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-06T02:02:48.224Z",
+  "updatedAt": "2026-08-06T05:30:49.972Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 17,
       "feelsLike": 17,
-      "code": 1,
+      "code": 3,
       "wind": 4,
-      "humidity": 67
+      "humidity": 69
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-07",
-        "code": 0,
+        "code": 3,
         "tmax": 27,
         "tmin": 14
       },
@@ -31,7 +31,7 @@
       {
         "date": "2026-08-09",
         "code": 3,
-        "tmax": 32,
+        "tmax": 34,
         "tmin": 14
       }
     ]
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Elon Musk explique sa vision du futur : qu'est-ce qui nous attend dans 10 ans !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "nDocZ2cVuDg",
-        "thumbnail": "https://i.ytimg.com/vi/nDocZ2cVuDg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nDocZ2cVuDg",
-        "publishedAt": "2026-08-05T18:00:11+00:00"
-      },
-      {
-        "title": "CHAQUE TYPE DE PERSONNALITÉ A UNE COULEUR ! DÉCOUVREZ LA VÔTRE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "VPz2DWfCvvY",
-        "thumbnail": "https://i.ytimg.com/vi/VPz2DWfCvvY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VPz2DWfCvvY",
-        "publishedAt": "2026-08-05T15:00:02+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "Convoqué par la police... pour une blague",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "NXJgUhSVkJc",
-        "thumbnail": "https://i.ytimg.com/vi/NXJgUhSVkJc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NXJgUhSVkJc",
-        "publishedAt": "2026-08-04T09:08:14+00:00"
-      },
-      {
-        "title": "Nos premières vacances en Corée 🇰🇷 (4 jours à Jeju)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ejJwV-dpmDY",
-        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
-        "publishedAt": "2026-08-03T16:00:11+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "b6GrM9RtoEM",
-        "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
-        "publishedAt": "2026-08-02T07:04:19+00:00"
-      },
-      {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Nashville utilise un domaine éminent pour bloquer le centre de données près du zoo",
+        "titleOriginal": "Nashville uses eminent domain to block data center near zoo",
+        "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+        "source": "costar.com",
+        "score": 158,
+        "comments": 165,
+        "hnUrl": "https://news.ycombinator.com/item?id=49191624",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Boucle de découverte",
         "titleOriginal": "Discovery Loop",
         "url": "https://www.discoveryloop.com/",
         "source": "discoveryloop.com",
-        "score": 601,
-        "comments": 384,
+        "score": 666,
+        "comments": 417,
         "hnUrl": "https://news.ycombinator.com/item?id=49184960",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Zed DeltaDB",
-        "titleOriginal": "Zed DeltaDB",
-        "url": "https://zed.dev/deltadb",
-        "source": "zed.dev",
-        "score": 305,
-        "comments": 156,
-        "hnUrl": "https://news.ycombinator.com/item?id=49187256",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Les cartes de titre dans Blade Runner sont incroyables",
-        "titleOriginal": "The title cards in Blade Runner are amazing",
-        "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-        "source": "randsinrepose.com",
-        "score": 144,
-        "comments": 63,
-        "hnUrl": "https://news.ycombinator.com/item?id=49189287",
-        "date": "il y a 4 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Changements chez Google DeepMind : Demis Hassabis de PDG à président, Jeff Dean quitte",
         "titleOriginal": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
         "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
         "source": "blog.google",
-        "score": 479,
-        "comments": 594,
+        "score": 566,
+        "comments": 638,
         "hnUrl": "https://news.ycombinator.com/item?id=49184755",
-        "date": "il y a 9 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Zed DeltaDB",
+        "titleOriginal": "Zed DeltaDB",
+        "url": "https://zed.dev/deltadb",
+        "source": "zed.dev",
+        "score": 351,
+        "comments": 187,
+        "hnUrl": "https://news.ycombinator.com/item?id=49187256",
+        "date": "il y a 10 h"
       }
     ]
   },
