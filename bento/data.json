@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-07T00:37:50.363Z",
+  "updatedAt": "2026-08-07T03:45:32.625Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 13,
+      "feelsLike": 12,
       "code": 0,
-      "wind": 8,
-      "humidity": 57
+      "wind": 5,
+      "humidity": 70
     },
     "forecast": [
       {
         "date": "2026-08-07",
-        "code": 0,
-        "tmax": 27,
+        "code": 3,
+        "tmax": 26,
         "tmin": 13
       },
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "COACH EN NBA OU AVEC L'ASVEL EN EUROPE ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "KU4ww-4rTtc",
-        "thumbnail": "https://i.ytimg.com/vi/KU4ww-4rTtc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KU4ww-4rTtc",
-        "publishedAt": "2026-08-06T16:00:16+00:00"
-      },
-      {
-        "title": "Pronostic pour la présidentielle de 2027 ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "zGNgz1ZTNbY",
-        "thumbnail": "https://i.ytimg.com/vi/zGNgz1ZTNbY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zGNgz1ZTNbY",
-        "publishedAt": "2026-08-06T07:43:26+00:00"
-      },
-      {
-        "title": "Elon Musk explique sa vision du futur : qu'est-ce qui nous attend dans 10 ans !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "nDocZ2cVuDg",
-        "thumbnail": "https://i.ytimg.com/vi/nDocZ2cVuDg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nDocZ2cVuDg",
-        "publishedAt": "2026-08-05T18:00:11+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "Nos premières vacances en Corée 🇰🇷 (4 jours à Jeju)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ejJwV-dpmDY",
-        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
-        "publishedAt": "2026-08-03T16:00:11+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "LE AVANT/APRÉS LE PLUS FOU DE CETTE RÉNOVATION GRÂCE A CET ENDUIT EFFET PIERRE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "b6GrM9RtoEM",
-        "thumbnail": "https://i.ytimg.com/vi/b6GrM9RtoEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6GrM9RtoEM",
-        "publishedAt": "2026-08-02T07:04:19+00:00"
-      },
-      {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,40 +96,40 @@
         "titleOriginal": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "source": "theregister.com",
-        "score": 319,
-        "comments": 251,
+        "score": 445,
+        "comments": 343,
         "hnUrl": "https://news.ycombinator.com/item?id=49201970",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Des pirates m'ont traqué en détournant une montre intelligente pour enfants",
+        "titleOriginal": "Hackers Stalked Me by Hijacking a Smartwatch for Kids",
+        "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+        "source": "wired.com",
+        "score": 18,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49204060",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Les scientifiques découvrent l'instabilité de Kelvin-Helmholtz à la surface du Soleil",
-        "titleOriginal": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-        "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-        "source": "nso.edu",
-        "score": 126,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=49184355",
-        "date": "hier"
-      },
-      {
-        "title": "Accueillant le gouvernement népalais d'avoir été pionné",
-        "titleOriginal": "Welcoming the Nepalese Government to Have I Been Pwned",
-        "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-        "source": "troyhunt.com",
-        "score": 64,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49203105",
-        "date": "il y a 2 h"
       },
       {
         "title": "Mario rencontre Pareto",
         "titleOriginal": "Mario Meets Pareto",
         "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
         "source": "mayerowitz.io",
-        "score": 851,
-        "comments": 147,
+        "score": 924,
+        "comments": 151,
         "hnUrl": "https://news.ycombinator.com/item?id=49195231",
-        "date": "il y a 13 h"
+        "date": "il y a 16 h"
+      },
+      {
+        "title": "Les scientifiques découvrent l'instabilité de Kelvin-Helmholtz à la surface du Soleil",
+        "titleOriginal": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+        "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+        "source": "nso.edu",
+        "score": 164,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49184355",
+        "date": "hier"
       }
     ]
   },
