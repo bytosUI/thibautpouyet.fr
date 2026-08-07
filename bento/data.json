@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-07T19:26:39.649Z",
+  "updatedAt": "2026-08-07T20:04:54.578Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 21,
+      "temp": 23,
+      "feelsLike": 20,
       "code": 0,
-      "wind": 7,
-      "humidity": 23
+      "wind": 8,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 48,
+        "viewers": 102,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,19 +186,29 @@
         "titleOriginal": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "arcprize.org",
-        "score": 130,
-        "comments": 76,
+        "score": 186,
+        "comments": 120,
         "hnUrl": "https://news.ycombinator.com/item?id=49214008",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Assembly Hall of Shame",
         "titleOriginal": "Assembly Hall of Shame",
         "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "source": "github.com",
-        "score": 61,
-        "comments": 10,
+        "score": 89,
+        "comments": 23,
         "hnUrl": "https://news.ycombinator.com/item?id=49214098",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les bases de données ont fait baisser les dépenses de codage de l'IA de 70 %",
+        "titleOriginal": "Databricks drove down AI coding spend 70%",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+        "source": "databricks.com",
+        "score": 52,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=49214468",
         "date": "il y a 1 h"
       },
       {
@@ -206,19 +216,9 @@
         "titleOriginal": "Oracle bans AI-generated code from OpenJDK",
         "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
         "source": "app.dealroom.co",
-        "score": 207,
-        "comments": 133,
+        "score": 234,
+        "comments": 163,
         "hnUrl": "https://news.ycombinator.com/item?id=49213754",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Répondre à la prochaine frontière des cybercapacités critiques",
-        "titleOriginal": "Responding to the next frontier of critical cyber capabilities",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-        "source": "openai.com",
-        "score": 96,
-        "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=49213029",
         "date": "il y a 2 h"
       }
     ]
