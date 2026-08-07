@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-07T23:03:20.783Z",
+  "updatedAt": "2026-08-07T23:56:41.327Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 16,
+      "temp": 17,
+      "feelsLike": 15,
       "code": 0,
       "wind": 8,
       "humidity": 49
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 152,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,18 +178,18 @@
         "titleOriginal": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "arcprize.org",
-        "score": 366,
-        "comments": 224,
+        "score": 403,
+        "comments": 243,
         "hnUrl": "https://news.ycombinator.com/item?id=49214008",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Assembly Hall of Shame",
         "titleOriginal": "Assembly Hall of Shame",
         "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "source": "github.com",
-        "score": 206,
-        "comments": 45,
+        "score": 225,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=49214098",
         "date": "il y a 5 h"
       },
@@ -206,20 +198,20 @@
         "titleOriginal": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
         "url": "https://ancientlibrary.net/",
         "source": "ancientlibrary.net",
-        "score": 109,
-        "comments": 39,
+        "score": 126,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49214770",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Que se passe-t-il si toute une classe de travailleurs perd confiance dans leur carrière",
         "titleOriginal": "What happens if an entire class of workers loses faith in their careers",
         "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
         "source": "noemamag.com",
-        "score": 314,
-        "comments": 448,
+        "score": 359,
+        "comments": 492,
         "hnUrl": "https://news.ycombinator.com/item?id=49209539",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       }
     ]
   },
