@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-07T12:50:59.035Z",
+  "updatedAt": "2026-08-07T14:08:24.238Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
+      "temp": 26,
       "feelsLike": 24,
       "code": 0,
-      "wind": 13,
-      "humidity": 27
+      "wind": 11,
+      "humidity": 24
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-08-09",
-        "code": 3,
+        "code": 61,
         "tmax": 33,
         "tmin": 17
       },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "VOUS NE SUPPORTEZ PLUS VOS COLLÈGUES ? VOILÀ LA SOLUTION",
+        "title": "COMMENT DES ARAIGNÉES PEUVENT RENTRER DANS NOS OREILLES LA NUIT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "dxAgmOdT08w",
-        "thumbnail": "https://i.ytimg.com/vi/dxAgmOdT08w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dxAgmOdT08w",
-        "publishedAt": "2026-08-07T12:00:16+00:00"
+        "videoId": "OB_DMOsIi4E",
+        "thumbnail": "https://i.ytimg.com/vi/OB_DMOsIi4E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OB_DMOsIi4E",
+        "publishedAt": "2026-08-07T13:00:13+00:00"
       },
       {
         "title": "Quel média va influencer la présidentielle 2027 ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
         "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
         "source": "bbc.com",
-        "score": 339,
-        "comments": 303,
+        "score": 542,
+        "comments": 499,
         "hnUrl": "https://news.ycombinator.com/item?id=49208314",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "L'économie américaine a perdu 23 000 emplois en juillet, un renversement soudain",
+        "titleOriginal": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+        "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
+        "source": "nbcnews.com",
+        "score": 108,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=49209546",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le tribunal du Nouveau-Mexique ordonne à Meta de payer 567 millions de $ pour les préjudices causés à la santé mentale des enfants",
         "titleOriginal": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
         "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
         "source": "theguardian.com",
-        "score": 393,
-        "comments": 244,
+        "score": 447,
+        "comments": 257,
         "hnUrl": "https://news.ycombinator.com/item?id=49204352",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "AMD acquiert Taalas pour augmenter les performances d'inférence en gravant des modèles en silicium",
         "titleOriginal": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "source": "theregister.com",
-        "score": 736,
-        "comments": 548,
+        "score": 751,
+        "comments": 573,
         "hnUrl": "https://news.ycombinator.com/item?id=49201970",
-        "date": "il y a 16 h"
-      },
-      {
-        "title": "Le goût est tout ce qui reste",
-        "titleOriginal": "Taste Is All That's Left",
-        "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-        "source": "notashelf.dev",
-        "score": 497,
-        "comments": 363,
-        "hnUrl": "https://news.ycombinator.com/item?id=49199346",
-        "date": "il y a 19 h"
+        "date": "il y a 17 h"
       }
     ]
   },
