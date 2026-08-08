@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T10:59:30.967Z",
+  "updatedAt": "2026-08-08T11:33:35.350Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 27,
-      "code": 0,
+      "temp": 29,
+      "feelsLike": 29,
+      "code": 1,
       "wind": 7,
-      "humidity": 26
+      "humidity": 24
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Portes dérobées matérielles dans certains processeurs x86",
-        "titleOriginal": "Hardware backdoors in some x86 CPUs",
-        "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-        "source": "github.com",
-        "score": 118,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=49219508",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Un physicien a truqué la roue de son hamster pour le télécharger sur Strava",
         "titleOriginal": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
         "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
         "source": "runnersworld.com",
-        "score": 225,
-        "comments": 46,
+        "score": 244,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=49189457",
         "date": "il y a 2 j"
+      },
+      {
+        "title": "Portes dérobées matérielles dans certains processeurs x86",
+        "titleOriginal": "Hardware backdoors in some x86 CPUs",
+        "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+        "source": "github.com",
+        "score": 140,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=49219508",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Le nouveau centre de données Amazon devrait avoir la centrale électrique la plus polluante des États-Unis",
+        "titleOriginal": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+        "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+        "source": "nytimes.com",
+        "score": 67,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49220350",
+        "date": "il y a 1 h"
       },
       {
         "title": "DeepSeek V4 Flash 0731",
         "titleOriginal": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "arcprize.org",
-        "score": 645,
-        "comments": 389,
+        "score": 652,
+        "comments": 396,
         "hnUrl": "https://news.ycombinator.com/item?id=49214008",
         "date": "il y a 17 h"
-      },
-      {
-        "title": "Le ministère américain de l'Énergie lance l'initiative Genesis Open Models",
-        "titleOriginal": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-        "url": "https://genesisopenmodels.anl.gov/",
-        "source": "genesisopenmodels.anl.gov",
-        "score": 241,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=49216946",
-        "date": "il y a 12 h"
       }
     ]
   },
