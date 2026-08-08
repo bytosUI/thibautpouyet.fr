@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T14:26:04.797Z",
+  "updatedAt": "2026-08-08T14:57:25.173Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 31,
       "feelsLike": 30,
       "code": 0,
-      "wind": 4,
-      "humidity": 19
+      "wind": 2,
+      "humidity": 18
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "A domain can now say it is for sale, in DNS",
         "url": "https://specification.website/spec/foundations/for-sale-dns/",
         "source": "specification.website",
-        "score": 23,
-        "comments": 5,
+        "score": 58,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=49221668",
-        "date": "il y a 59 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Le modèle WeatherNext de DeepMind réalise des cyclones de prévision révolutionnaires",
         "titleOriginal": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
         "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "source": "deepmind.google",
-        "score": 154,
-        "comments": 44,
+        "score": 174,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=49220126",
         "date": "il y a 5 h"
-      },
-      {
-        "title": "Un physicien a truqué la roue de son hamster pour le télécharger sur Strava",
-        "titleOriginal": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-        "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-        "source": "runnersworld.com",
-        "score": 321,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=49189457",
-        "date": "il y a 2 j"
       },
       {
         "title": "Émulateur informatique FDS Voyager 1",
         "titleOriginal": "Voyager 1 FDS Computer Emulator",
         "url": "https://zaneham.github.io/voyager-fds-emulator/",
         "source": "zaneham.github.io",
-        "score": 5,
-        "comments": 0,
+        "score": 17,
+        "comments": 1,
         "hnUrl": "https://news.ycombinator.com/item?id=49221679",
-        "date": "il y a 57 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "N'utilisez pas votre téléphone pendant que vous faites caca",
+        "titleOriginal": "Don't use your phone while you poop",
+        "url": "https://nate.spot/no-phone-while-poop/",
+        "source": "nate.spot",
+        "score": 51,
+        "comments": 53,
+        "hnUrl": "https://news.ycombinator.com/item?id=49221939",
+        "date": "il y a 51 min"
       }
     ]
   },
