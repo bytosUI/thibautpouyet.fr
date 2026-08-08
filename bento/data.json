@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T17:23:32.126Z",
+  "updatedAt": "2026-08-08T17:55:26.537Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
+      "temp": 30,
       "feelsLike": 28,
       "code": 0,
-      "wind": 8,
-      "humidity": 19
+      "wind": 7,
+      "humidity": 20
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "A domain can now say it is for sale, in DNS",
         "url": "https://specification.website/spec/foundations/for-sale-dns/",
         "source": "specification.website",
-        "score": 172,
-        "comments": 81,
+        "score": 201,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=49221668",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Fastmail offre la région de données de l'UE",
+        "titleOriginal": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "source": "fastmail.com",
+        "score": 58,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49223082",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Bloqueur de flux LinkedIn",
+        "titleOriginal": "LinkedIn Feed Blocker",
+        "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+        "source": "github.com",
+        "score": 24,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=49223475",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le modèle WeatherNext de DeepMind réalise des cyclones de prévision révolutionnaires",
         "titleOriginal": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
         "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
         "source": "deepmind.google",
-        "score": 265,
-        "comments": 84,
+        "score": 286,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=49220126",
         "date": "il y a 8 h"
-      },
-      {
-        "title": "Chronologie de l'attaque accidentelle d'OpenAI contre Hugging Face",
-        "titleOriginal": "Timeline of the OpenAI accidental attack against Hugging Face",
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "source": "simonwillison.net",
-        "score": 167,
-        "comments": 183,
-        "hnUrl": "https://news.ycombinator.com/item?id=49220609",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Les mauvaises publicités hilarantes de Gateway 2000 dans les années 90 (Partie II)",
-        "titleOriginal": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-        "url": "https://buttondown.com/suchbadtechads/archive/gateway-2000-part-2/",
-        "source": "buttondown.com",
-        "score": 59,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49221220",
-        "date": "il y a 4 h"
       }
     ]
   },
