@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T11:33:35.350Z",
+  "updatedAt": "2026-08-08T12:35:23.612Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 29,
-      "code": 1,
-      "wind": 7,
-      "humidity": 24
+      "temp": 30,
+      "feelsLike": 30,
+      "code": 0,
+      "wind": 6,
+      "humidity": 23
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ENTENDRE LE MOT \"ACOUPHÈNE\" PEUT DÉCLENCHER UN ACOUPHÈNE ?",
+        "title": "CE GESTE SIMPLE PEUT-IL RENDRE SOURD ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "duvROyutFdo",
-        "thumbnail": "https://i.ytimg.com/vi/duvROyutFdo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=duvROyutFdo",
-        "publishedAt": "2026-08-08T10:00:39+00:00"
+        "videoId": "SrmC6QmBlRc",
+        "thumbnail": "https://i.ytimg.com/vi/SrmC6QmBlRc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SrmC6QmBlRc",
+        "publishedAt": "2026-08-08T12:00:11+00:00"
       },
       {
         "title": "La dette française, c'est foutu ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un physicien a truqué la roue de son hamster pour le télécharger sur Strava",
-        "titleOriginal": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-        "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-        "source": "runnersworld.com",
-        "score": 244,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49189457",
-        "date": "il y a 2 j"
+        "title": "L'URSS en 100 photographies",
+        "titleOriginal": "The USSR in 100 Photographs",
+        "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+        "source": "trinixy.ru",
+        "score": 32,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49221041",
+        "date": "il y a 27 min"
+      },
+      {
+        "title": "Le modèle WeatherNext de DeepMind réalise des cyclones de prévision révolutionnaires",
+        "titleOriginal": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+        "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+        "source": "deepmind.google",
+        "score": 35,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49220126",
+        "date": "il y a 3 h"
       },
       {
         "title": "Portes dérobées matérielles dans certains processeurs x86",
         "titleOriginal": "Hardware backdoors in some x86 CPUs",
         "url": "https://github.com/xoreaxeaxeax/rosenbridge",
         "source": "github.com",
-        "score": 140,
-        "comments": 44,
+        "score": 167,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49219508",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Le nouveau centre de données Amazon devrait avoir la centrale électrique la plus polluante des États-Unis",
-        "titleOriginal": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
-        "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-        "source": "nytimes.com",
-        "score": 67,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49220350",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "DeepSeek V4 Flash 0731",
-        "titleOriginal": "DeepSeek V4 Flash 0731",
-        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "source": "arcprize.org",
-        "score": 652,
-        "comments": 396,
-        "hnUrl": "https://news.ycombinator.com/item?id=49214008",
-        "date": "il y a 17 h"
+        "title": "Un physicien a truqué la roue de son hamster pour le télécharger sur Strava",
+        "titleOriginal": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+        "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+        "source": "runnersworld.com",
+        "score": 265,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=49189457",
+        "date": "il y a 2 j"
       }
     ]
   },
