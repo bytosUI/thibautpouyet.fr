@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T20:57:02.293Z",
+  "updatedAt": "2026-08-08T21:28:34.955Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 24,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 0,
       "wind": 2,
-      "humidity": 30
+      "humidity": 32
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 163,
+        "viewers": 184,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
         "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
         "source": "mezha.net",
-        "score": 296,
-        "comments": 142,
+        "score": 340,
+        "comments": 164,
         "hnUrl": "https://news.ycombinator.com/item?id=49224294",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Fastmail offre la région de données de l'UE",
         "titleOriginal": "Fastmail offers EU data region",
         "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
         "source": "fastmail.com",
-        "score": 225,
-        "comments": 104,
+        "score": 249,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49223082",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Bloqueur de flux LinkedIn",
-        "titleOriginal": "LinkedIn Feed Blocker",
-        "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
-        "source": "github.com",
-        "score": 123,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=49223475",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "« Le code n'a jamais été la partie difficile » est une insulte à tous les programmeurs",
         "titleOriginal": "\"Code was never the hard part\" is an insult to all programmers",
         "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
         "source": "blog.senko.net",
-        "score": 321,
-        "comments": 224,
+        "score": 362,
+        "comments": 247,
         "hnUrl": "https://news.ycombinator.com/item?id=49222189",
         "date": "il y a 6 h"
+      },
+      {
+        "title": "Bloqueur de flux LinkedIn",
+        "titleOriginal": "LinkedIn Feed Blocker",
+        "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+        "source": "github.com",
+        "score": 135,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=49223475",
+        "date": "il y a 4 h"
       }
     ]
   },
