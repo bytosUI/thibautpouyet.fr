@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-08T22:24:45.737Z",
+  "updatedAt": "2026-08-08T22:55:51.423Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 21,
       "feelsLike": 21,
-      "code": 0,
+      "code": 1,
       "wind": 3,
-      "humidity": 37
+      "humidity": 44
     },
     "forecast": [
       {
         "date": "2026-08-09",
-        "code": 61,
-        "tmax": 29,
+        "code": 3,
+        "tmax": 32,
         "tmin": 16
       },
       {
         "date": "2026-08-10",
-        "code": 1,
+        "code": 45,
         "tmax": 33,
         "tmin": 17
       },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 185,
+        "viewers": 163,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
         "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
         "source": "mezha.net",
-        "score": 403,
-        "comments": 190,
+        "score": 432,
+        "comments": 204,
         "hnUrl": "https://news.ycombinator.com/item?id=49224294",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "« Le code n'a jamais été la partie difficile » est une insulte à tous les programmeurs",
-        "titleOriginal": "\"Code was never the hard part\" is an insult to all programmers",
-        "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
-        "source": "blog.senko.net",
-        "score": 463,
-        "comments": 306,
-        "hnUrl": "https://news.ycombinator.com/item?id=49222189",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Fastmail offre la région de données de l'UE",
-        "titleOriginal": "Fastmail offers EU data region",
-        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-        "source": "fastmail.com",
-        "score": 273,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=49223082",
-        "date": "il y a 6 h"
       },
       {
         "title": "Le Maryland ferme davantage le parc d'État de Cunningham Falls après la deuxième attaque de castor",
         "titleOriginal": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
         "url": "https://news.maryland.gov/dnr/2026/08/05/dnr-closes-additional-areas-of-cunningham-falls-state-park-following-second-beaver-attack/",
         "source": "news.maryland.gov",
-        "score": 34,
-        "comments": 12,
+        "score": 48,
+        "comments": 16,
         "hnUrl": "https://news.ycombinator.com/item?id=49225918",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Fastmail offre la région de données de l'UE",
+        "titleOriginal": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "source": "fastmail.com",
+        "score": 285,
+        "comments": 129,
+        "hnUrl": "https://news.ycombinator.com/item?id=49223082",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Carte interactive open source pour l'éclipse solaire totale du 12 août",
+        "titleOriginal": "Open-source interactive map for the Aug 12 total solar eclipse",
+        "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+        "source": "eclipsefan.org",
+        "score": 58,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49225139",
+        "date": "il y a 3 h"
       }
     ]
   },
