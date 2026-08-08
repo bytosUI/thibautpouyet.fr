@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-07T23:56:41.327Z",
+  "updatedAt": "2026-08-08T01:23:56.644Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 15,
+      "temp": 16,
+      "feelsLike": 14,
       "code": 0,
-      "wind": 8,
-      "humidity": 49
+      "wind": 5,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "arcprize.org",
-        "score": 403,
-        "comments": 243,
+        "score": 450,
+        "comments": 266,
         "hnUrl": "https://news.ycombinator.com/item?id=49214008",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Le ministère américain de l'Énergie lance l'initiative Genesis Open Models",
+        "titleOriginal": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+        "url": "https://genesisopenmodels.anl.gov/",
+        "source": "genesisopenmodels.anl.gov",
+        "score": 78,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49216946",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les laboratoires d'IA devraient-ils être traités comme les propriétaires d'animaux dangereux ?",
+        "titleOriginal": "Should AI labs be treated like the owners of dangerous animals?",
+        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+        "source": "economist.com",
+        "score": 24,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49217629",
+        "date": "il y a 1 h"
       },
       {
         "title": "Assembly Hall of Shame",
         "titleOriginal": "Assembly Hall of Shame",
         "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
         "source": "github.com",
-        "score": 225,
-        "comments": 46,
+        "score": 247,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49214098",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Ancienne bibliothèque – 1 060 textes grecs/latins, cliquez sur n'importe quel mot pour l'analyser",
-        "titleOriginal": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-        "url": "https://ancientlibrary.net/",
-        "source": "ancientlibrary.net",
-        "score": 126,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49214770",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Que se passe-t-il si toute une classe de travailleurs perd confiance dans leur carrière",
-        "titleOriginal": "What happens if an entire class of workers loses faith in their careers",
-        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-        "source": "noemamag.com",
-        "score": 359,
-        "comments": 492,
-        "hnUrl": "https://news.ycombinator.com/item?id=49209539",
-        "date": "il y a 11 h"
+        "date": "il y a 7 h"
       }
     ]
   },
