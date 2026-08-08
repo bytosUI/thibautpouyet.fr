@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-08T05:38:11.091Z",
+  "updatedAt": "2026-08-08T06:41:18.801Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
+      "temp": 15,
+      "feelsLike": 14,
       "code": 0,
-      "wind": 4,
-      "humidity": 70
+      "wind": 5,
+      "humidity": 63
     },
     "forecast": [
       {
@@ -50,35 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "COMMENT DES ARAIGNÉES PEUVENT RENTRER DANS NOS OREILLES LA NUIT ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "OB_DMOsIi4E",
-        "thumbnail": "https://i.ytimg.com/vi/OB_DMOsIi4E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OB_DMOsIi4E",
-        "publishedAt": "2026-08-07T13:00:13+00:00"
-      },
-      {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -124,40 +96,40 @@
         "titleOriginal": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
         "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
         "source": "space.com",
-        "score": 139,
-        "comments": 18,
+        "score": 174,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49218179",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "L'équipe principale de Nixpkgs a été dissoute",
         "titleOriginal": "The Nixpkgs core team has disbanded",
         "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
         "source": "discourse.nixos.org",
-        "score": 215,
-        "comments": 94,
+        "score": 253,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=49217993",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Un physicien a monté la roue de hamster de son animal de compagnie sur Strava. Il court loin tous les soirs",
+        "titleOriginal": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+        "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+        "source": "runnersworld.com",
+        "score": 92,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49189457",
+        "date": "il y a 2 j"
       },
       {
         "title": "DeepSeek V4 Flash 0731",
         "titleOriginal": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "source": "arcprize.org",
-        "score": 539,
-        "comments": 322,
+        "score": 561,
+        "comments": 336,
         "hnUrl": "https://news.ycombinator.com/item?id=49214008",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Le ministère américain de l'Énergie lance l'initiative Genesis Open Models",
-        "titleOriginal": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-        "url": "https://genesisopenmodels.anl.gov/",
-        "source": "genesisopenmodels.anl.gov",
-        "score": 178,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=49216946",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
       }
     ]
   },
