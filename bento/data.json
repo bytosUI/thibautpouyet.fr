@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T15:01:43.506Z",
+  "updatedAt": "2026-08-09T15:55:32.909Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 29,
+      "feelsLike": 30,
       "code": 0,
       "wind": 7,
-      "humidity": 42
+      "humidity": 40
     },
     "forecast": [
       {
@@ -32,7 +32,7 @@
         "date": "2026-08-12",
         "code": 0,
         "tmax": 35,
-        "tmin": 17
+        "tmin": 18
       }
     ]
   },
@@ -51,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Des toilettes dans le salon ?",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
       {
         "title": "IL DORT DANS SON CAVEAU FAMILIAL POUR PASSER LA NUIT AVEC SON FRÈRE DÉCÉDÉ",
         "channel": "LEGEND",
@@ -115,15 +124,6 @@
         "publishedAt": "2026-08-03T07:30:33+00:00"
       },
       {
-        "title": "48h pour isoler l’étage… #25",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "0yEiWv5kEBQ",
-        "thumbnail": "https://i.ytimg.com/vi/0yEiWv5kEBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0yEiWv5kEBQ",
-        "publishedAt": "2026-07-26T15:17:09+00:00"
-      },
-      {
         "title": "Impossible de savoir qui va tomber 😧",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
@@ -178,19 +178,29 @@
         "titleOriginal": "Mea Culpa – Dark Hours",
         "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
         "source": "blog.terrygodier.com",
-        "score": 136,
-        "comments": 59,
+        "score": 215,
+        "comments": 96,
         "hnUrl": "https://news.ycombinator.com/item?id=49231154",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Show HN : Une version du système Project Oberon fonctionnant sur RISC-V au lieu de RISC-5",
         "titleOriginal": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
         "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
         "source": "github.com",
-        "score": 29,
-        "comments": 5,
+        "score": 47,
+        "comments": 13,
         "hnUrl": "https://news.ycombinator.com/item?id=49230891",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "John C. Lilly sur l'intelligence à l'état solide et l'élimination de l'homme (1978)",
+        "titleOriginal": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+        "url": "https://kibotronics.net/unlisted/lilly-machines/",
+        "source": "kibotronics.net",
+        "score": 22,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49231397",
         "date": "il y a 2 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "There Are Magic Hexagons of Every Order",
         "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
         "source": "gukov.dev",
-        "score": 118,
+        "score": 132,
         "comments": 20,
         "hnUrl": "https://news.ycombinator.com/item?id=49229174",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Uber SubmitQueue : une file d'attente de fusion spéculative haute performance",
-        "titleOriginal": "Uber SubmitQueue: a high-performance speculative merge queue",
-        "url": "https://github.com/uber/submitqueue/",
-        "source": "github.com",
-        "score": 39,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49138084",
-        "date": "il y a 1 sem"
+        "date": "il y a 8 h"
       }
     ]
   },
