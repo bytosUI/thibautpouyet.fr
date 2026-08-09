@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T07:49:22.188Z",
+  "updatedAt": "2026-08-09T08:34:40.799Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 3,
-      "wind": 1,
-      "humidity": 45
+      "wind": 3,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Présidentielle 2027 : Bardella VS Le Pen",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "yZlSC8Ya-ZU",
+        "thumbnail": "https://i.ytimg.com/vi/yZlSC8Ya-ZU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yZlSC8Ya-ZU",
+        "publishedAt": "2026-08-09T08:04:09+00:00"
+      },
+      {
         "title": "ILS ONT UNE ÉGLISE ET UNE PRISON COMME CLIENTS ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SE_oZO8y0VA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SE_oZO8y0VA",
         "publishedAt": "2026-08-08T17:00:07+00:00"
-      },
-      {
-        "title": "La dette française, c'est foutu ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "8j818HtoffY",
-        "thumbnail": "https://i.ytimg.com/vi/8j818HtoffY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8j818HtoffY",
-        "publishedAt": "2026-08-08T08:21:44+00:00"
       },
       {
         "title": "Elon Musk explique sa vision du futur : qu'est-ce qui nous attend dans 10 ans !",
@@ -178,28 +178,28 @@
         "titleOriginal": "Microsoft Word for Windows 1.1a, Native X64 Port",
         "url": "https://github.com/jmarshall23/msword",
         "source": "github.com",
-        "score": 39,
-        "comments": 13,
+        "score": 51,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49228663",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Mon serveur est un téléphone maintenant",
         "titleOriginal": "My server is a phone now",
         "url": "https://seg6.space/posts/phone-server/",
         "source": "seg6.space",
-        "score": 276,
-        "comments": 106,
+        "score": 304,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=49226636",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Os8088 : un système d'exploitation puissant de type Mac pour IBM XT, 286, 386",
         "titleOriginal": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
         "url": "https://os8088.com/",
         "source": "os8088.com",
-        "score": 146,
-        "comments": 67,
+        "score": 151,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49226923",
         "date": "il y a 8 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "Melatonin impairs morning cognition in healthy young adults (2023)",
         "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
         "source": "academic.oup.com",
-        "score": 88,
-        "comments": 41,
+        "score": 107,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=49227365",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
