@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-09T08:34:40.799Z",
+  "updatedAt": "2026-08-09T09:32:58.219Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
-      "feelsLike": 23,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 3,
-      "humidity": 36
+      "wind": 11,
+      "humidity": 38
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "SORCIER : MAGIE NOIRE ET DÉMONS, IL DORT DANS LE CAVEAU FAMILIAL… CE QU’IL A FAIT DE PLUS FOU",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "s_agW0cfmog",
+        "thumbnail": "https://i.ytimg.com/vi/s_agW0cfmog/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s_agW0cfmog",
+        "publishedAt": "2026-08-09T09:00:06+00:00"
+      },
+      {
         "title": "Présidentielle 2027 : Bardella VS Le Pen",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yZlSC8Ya-ZU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yZlSC8Ya-ZU",
         "publishedAt": "2026-08-09T08:04:09+00:00"
-      },
-      {
-        "title": "ILS ONT UNE ÉGLISE ET UNE PRISON COMME CLIENTS ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "SE_oZO8y0VA",
-        "thumbnail": "https://i.ytimg.com/vi/SE_oZO8y0VA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SE_oZO8y0VA",
-        "publishedAt": "2026-08-08T17:00:07+00:00"
       },
       {
         "title": "Elon Musk explique sa vision du futur : qu'est-ce qui nous attend dans 10 ans !",
@@ -178,40 +178,40 @@
         "titleOriginal": "Microsoft Word for Windows 1.1a, Native X64 Port",
         "url": "https://github.com/jmarshall23/msword",
         "source": "github.com",
-        "score": 51,
-        "comments": 17,
+        "score": 65,
+        "comments": 21,
         "hnUrl": "https://news.ycombinator.com/item?id=49228663",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Mon serveur est un téléphone maintenant",
         "titleOriginal": "My server is a phone now",
         "url": "https://seg6.space/posts/phone-server/",
         "source": "seg6.space",
-        "score": 304,
-        "comments": 114,
+        "score": 325,
+        "comments": 124,
         "hnUrl": "https://news.ycombinator.com/item?id=49226636",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Os8088 : un système d'exploitation puissant de type Mac pour IBM XT, 286, 386",
         "titleOriginal": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
         "url": "https://os8088.com/",
         "source": "os8088.com",
-        "score": 151,
-        "comments": 73,
+        "score": 165,
+        "comments": 86,
         "hnUrl": "https://news.ycombinator.com/item?id=49226923",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "La mélatonine altère la cognition matinale chez les jeunes adultes en bonne santé (2023)",
         "titleOriginal": "Melatonin impairs morning cognition in healthy young adults (2023)",
         "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
         "source": "academic.oup.com",
-        "score": 107,
-        "comments": 61,
+        "score": 119,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=49227365",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       }
     ]
   },
