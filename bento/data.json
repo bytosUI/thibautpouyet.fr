@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-08-09T15:55:32.909Z",
+  "updatedAt": "2026-08-09T16:28:37.893Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 30,
+      "temp": 31,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 7,
-      "humidity": 40
+      "wind": 6,
+      "humidity": 32
     },
     "forecast": [
       {
         "date": "2026-08-09",
         "code": 61,
-        "tmax": 30,
+        "tmax": 31,
         "tmin": 16
       },
       {
         "date": "2026-08-10",
-        "code": 2,
+        "code": 1,
         "tmax": 33,
         "tmin": 19
       },
@@ -52,7 +52,7 @@
   "youtube": {
     "videos": [
       {
-        "title": "Des toilettes dans le salon ?",
+        "title": "Des toilettes dans le salon ? #26",
         "channel": "17h17",
         "channelHandle": "17heures17",
         "videoId": "JhkdfqxG25I",
@@ -178,40 +178,40 @@
         "titleOriginal": "Mea Culpa – Dark Hours",
         "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
         "source": "blog.terrygodier.com",
-        "score": 215,
-        "comments": 96,
+        "score": 256,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=49231154",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Show HN : Une version du système Project Oberon fonctionnant sur RISC-V au lieu de RISC-5",
         "titleOriginal": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
         "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
         "source": "github.com",
-        "score": 47,
-        "comments": 13,
+        "score": 52,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49230891",
         "date": "il y a 3 h"
+      },
+      {
+        "title": "La Silicon Valley interprète mal la science-fiction et sape la démocratie",
+        "titleOriginal": "Silicon Valley misreads science fiction and undermines democracy",
+        "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+        "source": "techcrunch.com",
+        "score": 62,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49232221",
+        "date": "il y a 1 h"
       },
       {
         "title": "John C. Lilly sur l'intelligence à l'état solide et l'élimination de l'homme (1978)",
         "titleOriginal": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
         "url": "https://kibotronics.net/unlisted/lilly-machines/",
         "source": "kibotronics.net",
-        "score": 22,
-        "comments": 7,
+        "score": 30,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=49231397",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "Il existe des hexagones magiques de chaque ordre",
-        "titleOriginal": "There Are Magic Hexagons of Every Order",
-        "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-        "source": "gukov.dev",
-        "score": 132,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49229174",
-        "date": "il y a 8 h"
       }
     ]
   },
