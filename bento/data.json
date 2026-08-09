@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-09T19:27:55.121Z",
+  "updatedAt": "2026-08-09T19:57:44.969Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 31,
+      "temp": 28,
+      "feelsLike": 28,
       "code": 1,
-      "wind": 1,
+      "wind": 3,
       "humidity": 36
     },
     "forecast": [
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-08-10",
-        "code": 1,
+        "code": 2,
         "tmax": 33,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-08-11",
         "code": 0,
-        "tmax": 32,
+        "tmax": 33,
         "tmin": 17
       },
       {
@@ -52,7 +52,7 @@
   "youtube": {
     "videos": [
       {
-        "title": "Des toilettes dans le salon #26",
+        "title": "Je détruis enfin la salle de bain #26",
         "channel": "17h17",
         "channelHandle": "17heures17",
         "videoId": "JhkdfqxG25I",
@@ -174,42 +174,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "Dire non",
-        "titleOriginal": "Saying No",
-        "url": "https://rozumem.xyz/posts/19",
-        "source": "rozumem.xyz",
-        "score": 18,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49234379",
-        "date": "il y a 36 min"
-      },
-      {
-        "title": "Demandez à HN : Sur quoi travaillez-vous ? (Août 2026)",
-        "titleOriginal": "Ask HN: What are you working on? (August 2026)",
-        "url": "https://news.ycombinator.com/item?id=49233423",
-        "source": "news.ycombinator.com",
-        "score": 64,
-        "comments": 227,
-        "hnUrl": "https://news.ycombinator.com/item?id=49233423",
-        "date": "il y a 2 h"
+        "title": "Comment j'utilise les LLM pour apprendre des sujets complexes",
+        "titleOriginal": "How I use LLMs to learn complex topics",
+        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+        "source": "laurentiugabriel.github.io",
+        "score": 48,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49234675",
+        "date": "il y a 40 min"
       },
       {
         "title": "Mea Culpa – Heures sombres",
         "titleOriginal": "Mea Culpa – Dark Hours",
         "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
         "source": "blog.terrygodier.com",
-        "score": 434,
-        "comments": 197,
+        "score": 447,
+        "comments": 202,
         "hnUrl": "https://news.ycombinator.com/item?id=49231154",
         "date": "il y a 6 h"
+      },
+      {
+        "title": "Demandez à HN : Sur quoi travaillez-vous ? (Août 2026)",
+        "titleOriginal": "Ask HN: What are you working on? (August 2026)",
+        "url": "https://news.ycombinator.com/item?id=49233423",
+        "source": "news.ycombinator.com",
+        "score": 79,
+        "comments": 297,
+        "hnUrl": "https://news.ycombinator.com/item?id=49233423",
+        "date": "il y a 2 h"
       },
       {
         "title": "OpenChamber : un environnement de développement authentique",
         "titleOriginal": "OpenChamber: An Agentic Development Environment",
         "url": "https://openchamber.dev/",
         "source": "openchamber.dev",
-        "score": 38,
-        "comments": 23,
+        "score": 50,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49233448",
         "date": "il y a 2 h"
       }
