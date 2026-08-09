@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-09T21:56:36.499Z",
+  "updatedAt": "2026-08-09T22:28:06.624Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
+      "temp": 23,
+      "feelsLike": 24,
       "code": 1,
-      "wind": 3,
-      "humidity": 45
+      "wind": 2,
+      "humidity": 59
     },
     "forecast": [
-      {
-        "date": "2026-08-09",
-        "code": 61,
-        "tmax": 31,
-        "tmin": 16
-      },
       {
         "date": "2026-08-10",
         "code": 2,
@@ -24,15 +18,21 @@
       },
       {
         "date": "2026-08-11",
-        "code": 0,
-        "tmax": 33,
-        "tmin": 17
+        "code": 1,
+        "tmax": 32,
+        "tmin": 16
       },
       {
         "date": "2026-08-12",
         "code": 3,
         "tmax": 35,
         "tmin": 18
+      },
+      {
+        "date": "2026-08-13",
+        "code": 2,
+        "tmax": 38,
+        "tmin": 21
       }
     ]
   },
@@ -178,9 +178,29 @@
         "titleOriginal": "How I use LLMs to learn complex topics",
         "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
         "source": "laurentiugabriel.github.io",
-        "score": 204,
-        "comments": 108,
+        "score": 242,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=49234675",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "La Renaissance du hacker",
+        "titleOriginal": "The Hacker's Renaissance",
+        "url": "https://phrack.org/issues/72/19#article",
+        "source": "phrack.org",
+        "score": 40,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49235378",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "La principale façon dont j'ai vu les gens devenir idéologiquement fous (2025)",
+        "titleOriginal": "The main way I've seen people turn ideologically crazy (2025)",
+        "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+        "source": "blog.andymasley.com",
+        "score": 36,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49235349",
         "date": "il y a 2 h"
       },
       {
@@ -188,30 +208,10 @@
         "titleOriginal": "New Zealand lost its music media, and what we're building to replace it",
         "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
         "source": "propelmusic.co.nz",
-        "score": 20,
-        "comments": 5,
+        "score": 28,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=49235641",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Demandez à HN : Sur quoi travaillez-vous ? (Août 2026)",
-        "titleOriginal": "Ask HN: What are you working on? (August 2026)",
-        "url": "https://news.ycombinator.com/item?id=49233423",
-        "source": "news.ycombinator.com",
-        "score": 131,
-        "comments": 481,
-        "hnUrl": "https://news.ycombinator.com/item?id=49233423",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Dire non",
-        "titleOriginal": "Saying No",
-        "url": "https://rozumem.xyz/posts/19",
-        "source": "rozumem.xyz",
-        "score": 98,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=49234379",
-        "date": "il y a 3 h"
       }
     ]
   },
