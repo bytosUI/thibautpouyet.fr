@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-10T14:52:45.684Z",
+  "updatedAt": "2026-08-10T15:54:55.661Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
       "feelsLike": 31,
-      "code": 1,
-      "wind": 10,
-      "humidity": 27
+      "code": 0,
+      "wind": 11,
+      "humidity": 26
     },
     "forecast": [
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-08-12",
         "code": 0,
-        "tmax": 34,
+        "tmax": 35,
         "tmin": 18
       },
       {
         "date": "2026-08-13",
         "code": 2,
         "tmax": 38,
-        "tmin": 19
+        "tmin": 20
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SORCIER : IL EST CAPABLE DE NE PAS CLIGNER DES YEUX PENDANT 1H30",
+        "title": "COMBIEN Y A-T-IL DE SORCIERS EN FRANCE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "X-HWP2YsSF4",
-        "thumbnail": "https://i.ytimg.com/vi/X-HWP2YsSF4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=X-HWP2YsSF4",
-        "publishedAt": "2026-08-10T14:00:06+00:00"
+        "videoId": "NnGtjM2FltI",
+        "thumbnail": "https://i.ytimg.com/vi/NnGtjM2FltI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NnGtjM2FltI",
+        "publishedAt": "2026-08-10T15:00:34+00:00"
       },
       {
         "title": "Un expat' ne reviendra jamais vivre en France ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Mars Bar de 1991 trouvé – et il est 20g plus grand que celui d'aujourd' hui",
+        "titleOriginal": "Mars Bar from 1991 found – and it's 20g bigger than today's",
+        "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
+        "source": "bbc.com",
+        "score": 35,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=49245023",
+        "date": "il y a 22 min"
+      },
+      {
         "title": "Meta Muse Glimmer – modèle de codage local de poids ouverts 30B",
         "titleOriginal": "Meta Muse Glimmer – open weights 30B local coding model",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
         "source": "research.meta.ai",
-        "score": 483,
-        "comments": 249,
+        "score": 605,
+        "comments": 321,
         "hnUrl": "https://news.ycombinator.com/item?id=49241679",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Notes de version de Squeak/Smalltalk 6.1",
         "titleOriginal": "Squeak/Smalltalk 6.1 Release Notes",
         "url": "https://squeak.org/release_notes/6.1/",
         "source": "squeak.org",
-        "score": 62,
-        "comments": 15,
+        "score": 86,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=49242653",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Noms de bateau 50k",
         "titleOriginal": "50k Boat Names",
         "url": "https://www.beautifulpublicdata.com/boat-names/",
         "source": "beautifulpublicdata.com",
-        "score": 60,
-        "comments": 30,
+        "score": 82,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49243029",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Bacs à sable Docker – Bacs à sable jetables et isolés pour les agents IA",
-        "titleOriginal": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-        "url": "https://www.docker.com/products/docker-sandboxes/",
-        "source": "docker.com",
-        "score": 393,
-        "comments": 253,
-        "hnUrl": "https://news.ycombinator.com/item?id=49239751",
-        "date": "il y a 8 h"
+        "date": "il y a 2 h"
       }
     ]
   },
