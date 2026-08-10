@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-10T16:48:02.498Z",
+  "updatedAt": "2026-08-10T17:46:29.320Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 31,
-      "feelsLike": 30,
+      "feelsLike": 29,
       "code": 0,
       "wind": 11,
-      "humidity": 30
+      "humidity": 29
     },
     "forecast": [
       {
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 4346,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SORCIER : IL UTILISE LA MAGIE NOIRE POUR ÊTRE PLUS BEAU",
+        "title": "IL A CASSÉ LE GENOU D'UNE PERSONNE EN LUI LANÇANT UN SORT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "I3kEfzAlGts",
-        "thumbnail": "https://i.ytimg.com/vi/I3kEfzAlGts/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I3kEfzAlGts",
-        "publishedAt": "2026-08-10T16:00:08+00:00"
+        "videoId": "36mnmMQNX-0",
+        "thumbnail": "https://i.ytimg.com/vi/36mnmMQNX-0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=36mnmMQNX-0",
+        "publishedAt": "2026-08-10T17:00:28+00:00"
       },
       {
         "title": "Un expat' ne reviendra jamais vivre en France ?",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Tremblement de terre de magnitude 7,4 – 5 km S de San José del Palmar, Colombie",
-        "titleOriginal": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-        "source": "earthquake.usgs.gov",
-        "score": 41,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49245251",
-        "date": "il y a 58 min"
-      },
-      {
-        "title": "Meta Muse Glimmer – modèle de codage local de poids ouverts 30B",
-        "titleOriginal": "Meta Muse Glimmer – open weights 30B local coding model",
+        "title": "Muse Glimmer : modèle de paramètre 30b optimisé pour les flux de travail des agents locaux toujours actifs",
+        "titleOriginal": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
         "source": "research.meta.ai",
-        "score": 671,
-        "comments": 373,
+        "score": 746,
+        "comments": 410,
         "hnUrl": "https://news.ycombinator.com/item?id=49241679",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Mars Bar de 1991 trouvé – et il est 20g plus grand que celui d'aujourd' hui",
-        "titleOriginal": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-        "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-        "source": "bbc.com",
-        "score": 134,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=49245023",
+        "title": "Afficher HN : Ante, un agent de codage dans un seul binaire qui fonctionne hors ligne",
+        "titleOriginal": "Show HN: Ante, a coding agent in a single binary that runs offline",
+        "url": "https://github.com/AntigmaLabs/ante",
+        "source": "github.com",
+        "score": 58,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49245437",
         "date": "il y a 1 h"
       },
       {
-        "title": "Exploiter le mode de gestion du système avec une très longue interruption",
-        "titleOriginal": "Exploiting System Management Mode with a very long interrupt",
-        "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-        "source": "github.com",
-        "score": 15,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49245491",
-        "date": "il y a 44 min"
+        "title": "Sonic Pi v5",
+        "titleOriginal": "Sonic Pi v5",
+        "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+        "source": "patreon.com",
+        "score": 63,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49208296",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Lancement HN : Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+        "titleOriginal": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+        "url": "https://www.stoaexchange.com",
+        "source": "stoaexchange.com",
+        "score": 20,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49246057",
+        "date": "il y a 1 h"
       }
     ]
   },
