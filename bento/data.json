@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-10T11:03:33.283Z",
+  "updatedAt": "2026-08-10T12:07:00.895Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
-      "feelsLike": 30,
+      "temp": 31,
+      "feelsLike": 32,
       "code": 0,
-      "wind": 9,
+      "wind": 10,
       "humidity": 28
     },
     "forecast": [
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SORCIER : IL A APPRIS LA MAGIE NOIRE SUR LE DARK NET",
+        "title": "SORCIER : IL FAIT APPEL À UN DÉMON POUR AIDER UNE TOXICOMANE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "EXn8qZbU0a4",
-        "thumbnail": "https://i.ytimg.com/vi/EXn8qZbU0a4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EXn8qZbU0a4",
-        "publishedAt": "2026-08-10T10:00:33+00:00"
+        "videoId": "t6CpiFFLDjE",
+        "thumbnail": "https://i.ytimg.com/vi/t6CpiFFLDjE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t6CpiFFLDjE",
+        "publishedAt": "2026-08-10T11:00:14+00:00"
       },
       {
         "title": "Un expat' ne reviendra jamais vivre en France ?",
@@ -178,40 +178,40 @@
         "titleOriginal": "Meta Muse Glimmer – open weights 30B local coding model",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
         "source": "research.meta.ai",
-        "score": 66,
-        "comments": 14,
+        "score": 199,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=49241679",
-        "date": "il y a 53 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Bacs à sable Docker – Bacs à sable jetables et isolés pour les agents IA",
         "titleOriginal": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "url": "https://www.docker.com/products/docker-sandboxes/",
         "source": "docker.com",
-        "score": 246,
-        "comments": 151,
+        "score": 291,
+        "comments": 168,
         "hnUrl": "https://news.ycombinator.com/item?id=49239751",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Qu'est-il arrivé à HackerOne ?",
-        "titleOriginal": "What Happened to HackerOne?",
-        "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-        "source": "blog.teknogeek.io",
-        "score": 253,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=49238561",
-        "date": "il y a 8 h"
+        "title": "L'optimisation des appels de queue en C est relativement récente",
+        "titleOriginal": "Tail-call optimization in C is relatively recent",
+        "url": "https://lwn.net/Articles/1034703/",
+        "source": "lwn.net",
+        "score": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49242297",
+        "date": "il y a 32 min"
       },
       {
-        "title": "Interprètes d'appel de queue en rouille – Jimmy Ostler",
-        "titleOriginal": "Tail-Call Interpreters in Rust – Jimmy Ostler",
-        "url": "https://lordgoati.us/blog/tail-call/",
-        "source": "lordgoati.us",
-        "score": 23,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49209132",
-        "date": "il y a 2 j"
+        "title": "Parce que ce n'est pas assez amusant : pourquoi les langues échouent",
+        "titleOriginal": "Because It's Not Fun Enough: why languages fail",
+        "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+        "source": "bytecode.news",
+        "score": 10,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49242245",
+        "date": "il y a 39 min"
       }
     ]
   },
