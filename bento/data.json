@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-10T22:31:00.185Z",
+  "updatedAt": "2026-08-10T23:29:09.004Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 22,
+      "feelsLike": 21,
       "code": 0,
-      "wind": 11,
-      "humidity": 50
+      "wind": 9,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -174,42 +174,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "Comment Claude marque le contenu généré par l'IA",
-        "titleOriginal": "How Claude marks AI-generated content",
-        "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-        "source": "support.claude.com",
-        "score": 45,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=49250109",
-        "date": "il y a 54 min"
-      },
-      {
         "title": "Muse Glimmer : modèle de paramètre 30b optimisé pour les flux de travail des agents locaux toujours actifs",
         "titleOriginal": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
         "source": "research.meta.ai",
-        "score": 958,
-        "comments": 541,
+        "score": 983,
+        "comments": 557,
         "hnUrl": "https://news.ycombinator.com/item?id=49241679",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Mark Zuckerberg attaque les rivaux de l'IA « fermés » alors que Meta revient aux modèles ouverts",
+        "titleOriginal": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "source": "ft.com",
+        "score": 323,
+        "comments": 348,
+        "hnUrl": "https://news.ycombinator.com/item?id=49243880",
+        "date": "il y a 9 h"
       },
       {
         "title": "Rust SIMD sur le GPU",
         "titleOriginal": "Rust SIMD on the GPU",
         "url": "https://www.vectorware.com/blog/simd-on-gpu/",
         "source": "vectorware.com",
-        "score": 87,
-        "comments": 40,
+        "score": 102,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49247477",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Sonic Pi v5",
         "titleOriginal": "Sonic Pi v5",
         "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
         "source": "patreon.com",
-        "score": 262,
-        "comments": 69,
+        "score": 280,
+        "comments": 74,
         "hnUrl": "https://news.ycombinator.com/item?id=49208296",
         "date": "il y a 3 j"
       }
