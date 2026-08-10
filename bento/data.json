@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-10T20:35:22.815Z",
+  "updatedAt": "2026-08-10T21:35:38.319Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 25,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 0,
-      "wind": 11,
-      "humidity": 41
+      "wind": 12,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Funnel Runners",
-        "viewers": 6043,
+        "viewers": 4767,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "L'Illinois vient d'adopter une loi qui met Linux sur le crochet pour la vérification de l'âge",
+        "titleOriginal": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+        "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+        "source": "linuxstans.com",
+        "score": 128,
+        "comments": 118,
+        "hnUrl": "https://news.ycombinator.com/item?id=49249150",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Muse Glimmer : modèle de paramètre 30b optimisé pour les flux de travail des agents locaux toujours actifs",
         "titleOriginal": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
         "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
         "source": "research.meta.ai",
-        "score": 899,
-        "comments": 508,
+        "score": 934,
+        "comments": 522,
         "hnUrl": "https://news.ycombinator.com/item?id=49241679",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Sonic Pi v5",
-        "titleOriginal": "Sonic Pi v5",
-        "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-        "source": "patreon.com",
-        "score": 209,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=49208296",
-        "date": "il y a 3 j"
+        "title": "Show HN : Needle2: 14MB agentic LLM pour téléphones, wearables, smart home et robots",
+        "titleOriginal": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "source": "cactuscompute.com",
+        "score": 38,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49246804",
+        "date": "il y a 4 h"
       },
       {
         "title": "Rust SIMD sur le GPU",
         "titleOriginal": "Rust SIMD on the GPU",
         "url": "https://www.vectorware.com/blog/simd-on-gpu/",
         "source": "vectorware.com",
-        "score": 46,
-        "comments": 24,
+        "score": 70,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=49247477",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Mark Zuckerberg attaque les rivaux de l'IA « fermés » alors que Meta revient aux modèles ouverts",
-        "titleOriginal": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-        "source": "ft.com",
-        "score": 204,
-        "comments": 258,
-        "hnUrl": "https://news.ycombinator.com/item?id=49243880",
-        "date": "il y a 6 h"
+        "date": "il y a 3 h"
       }
     ]
   },
