@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-10T08:22:59.831Z",
+  "updatedAt": "2026-08-10T09:55:45.191Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
+      "temp": 28,
+      "feelsLike": 28,
       "code": 0,
-      "wind": 1,
-      "humidity": 40
+      "wind": 6,
+      "humidity": 32
     },
     "forecast": [
       {
@@ -32,7 +32,7 @@
         "date": "2026-08-13",
         "code": 2,
         "tmax": 38,
-        "tmin": 20
+        "tmin": 19
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "SORCIER : IL UTILISE LA MAGIE NOIRE POUR RECONQUÉRIR SON EX",
+        "title": "SORCIER : PEUT-ON T*ER UNE PERSONNE AVEC LA MAGIE NOIRE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "z83b-FMftA4",
-        "thumbnail": "https://i.ytimg.com/vi/z83b-FMftA4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z83b-FMftA4",
-        "publishedAt": "2026-08-10T08:00:26+00:00"
+        "videoId": "DvbCrCoNdGs",
+        "thumbnail": "https://i.ytimg.com/vi/DvbCrCoNdGs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DvbCrCoNdGs",
+        "publishedAt": "2026-08-10T09:00:14+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
       },
       {
         "title": "Je détruis enfin la salle de bain #26",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/95OYzOIAkTY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=95OYzOIAkTY",
         "publishedAt": "2026-08-09T11:23:24+00:00"
-      },
-      {
-        "title": "Présidentielle 2027 : Bardella VS Le Pen",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "yZlSC8Ya-ZU",
-        "thumbnail": "https://i.ytimg.com/vi/yZlSC8Ya-ZU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yZlSC8Ya-ZU",
-        "publishedAt": "2026-08-09T08:04:09+00:00"
       },
       {
         "title": "Elon Musk explique sa vision du futur : qu'est-ce qui nous attend dans 10 ans !",
@@ -178,40 +178,40 @@
         "titleOriginal": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "url": "https://www.docker.com/products/docker-sandboxes/",
         "source": "docker.com",
-        "score": 134,
-        "comments": 81,
+        "score": 201,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=49239751",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Qu'est-il arrivé à HackerOne ?",
         "titleOriginal": "What Happened to HackerOne?",
         "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
         "source": "blog.teknogeek.io",
-        "score": 196,
-        "comments": 77,
+        "score": 229,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=49238561",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "La grande industrie de la délocalisation des Philippines se développe malgré l'IA",
-        "titleOriginal": "The Philippines' big offshoring industry is growing despite AI",
-        "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-        "source": "economist.com",
-        "score": 41,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49239226",
-        "date": "il y a 3 h"
+        "title": "Interprètes d'appel de queue en rouille – Jimmy Ostler",
+        "titleOriginal": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+        "url": "https://lordgoati.us/blog/tail-call/",
+        "source": "lordgoati.us",
+        "score": 13,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49209132",
+        "date": "il y a 2 j"
       },
       {
         "title": "Exécutez Android ARM64 VR APKs sur Apple Vision Pro",
         "titleOriginal": "Run Android ARM64 VR APKs on Apple Vision Pro",
         "url": "https://github.com/shinyquagsire23/Klepton",
         "source": "github.com",
-        "score": 57,
-        "comments": 6,
+        "score": 78,
+        "comments": 8,
         "hnUrl": "https://news.ycombinator.com/item?id=49238818",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       }
     ]
   },
