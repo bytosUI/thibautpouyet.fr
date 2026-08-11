@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-11T09:28:35.336Z",
+  "updatedAt": "2026-08-11T10:25:08.164Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
+      "temp": 28,
+      "feelsLike": 29,
       "code": 0,
-      "wind": 9,
-      "humidity": 46
+      "wind": 10,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-08-14",
-        "code": 2,
+        "code": 3,
         "tmax": 38,
-        "tmin": 23
+        "tmin": 21
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SORCIER : IL A DÉJÀ VU UN DÉMON QUI LE REGARDAIT DROIT DANS LES YEUX",
+        "title": "AU COEUR D'UN RITUEL C*ANNIBALE EN INDE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "yVy3AeF_HO4",
-        "thumbnail": "https://i.ytimg.com/vi/yVy3AeF_HO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yVy3AeF_HO4",
-        "publishedAt": "2026-08-10T18:00:26+00:00"
+        "videoId": "o0DYEA0-Jvo",
+        "thumbnail": "https://i.ytimg.com/vi/o0DYEA0-Jvo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o0DYEA0-Jvo",
+        "publishedAt": "2026-08-11T10:00:20+00:00"
       },
       {
         "title": "Un expat' ne reviendra jamais vivre en France ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La France interdit les appels de télémarketing non sollicités",
+        "titleOriginal": "France to ban unsolicited telemarketing calls",
+        "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+        "source": "lemonde.fr",
+        "score": 159,
+        "comments": 102,
+        "hnUrl": "https://news.ycombinator.com/item?id=49254880",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "H3-metal – Inférence native MiniMax-H3 pour Apple Silicon",
         "titleOriginal": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
         "url": "https://github.com/antirez/h3.c",
         "source": "github.com",
-        "score": 253,
-        "comments": 41,
+        "score": 280,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=49252179",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Alors que l'IA mange le web, la mémoire collective d'Internet disparaît",
         "titleOriginal": "As AI eats the web, the internet’s collective memory is disappearing",
         "url": "https://thewalrus.ca/google-search-is-dying/",
         "source": "thewalrus.ca",
-        "score": 274,
-        "comments": 266,
+        "score": 311,
+        "comments": 310,
         "hnUrl": "https://news.ycombinator.com/item?id=49250836",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "La France interdit les appels de télémarketing non sollicités",
-        "titleOriginal": "France to ban unsolicited telemarketing calls",
-        "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-        "source": "lemonde.fr",
-        "score": 64,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49254880",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Régime de poulet 6,0",
-        "titleOriginal": "Chicken Scheme 6.0",
-        "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-        "source": "code.call-cc.org",
-        "score": 187,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49251702",
-        "date": "il y a 9 h"
+        "title": "Le métro de Londres commence à scanner le visage des passagers",
+        "titleOriginal": "London Underground begins scanning passengers' faces",
+        "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
+        "source": "btp.police.uk",
+        "score": 10,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49255496",
+        "date": "il y a 45 min"
       }
     ]
   },
