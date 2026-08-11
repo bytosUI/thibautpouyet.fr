@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-11T13:51:04.984Z",
+  "updatedAt": "2026-08-11T14:52:49.495Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
-      "feelsLike": 32,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 11,
-      "humidity": 29
+      "wind": 13,
+      "humidity": 28
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 6402,
+        "viewers": 6989,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "England set to be one of the first countries to eliminate hepatitis C",
         "url": "https://www.bbc.com/news/articles/c75gk620r22o",
         "source": "bbc.com",
-        "score": 66,
-        "comments": 29,
+        "score": 157,
+        "comments": 86,
         "hnUrl": "https://news.ycombinator.com/item?id=49257377",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "La France interdit les appels de télémarketing non sollicités",
         "titleOriginal": "France to ban unsolicited telemarketing calls",
         "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
         "source": "lemonde.fr",
-        "score": 567,
-        "comments": 315,
+        "score": 686,
+        "comments": 357,
         "hnUrl": "https://news.ycombinator.com/item?id=49254880",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Alors que l'IA mange le web, la mémoire collective d'Internet disparaît",
         "titleOriginal": "As AI eats the web, the internet’s collective memory is disappearing",
         "url": "https://thewalrus.ca/google-search-is-dying/",
         "source": "thewalrus.ca",
-        "score": 499,
-        "comments": 575,
+        "score": 571,
+        "comments": 656,
         "hnUrl": "https://news.ycombinator.com/item?id=49250836",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       },
       {
-        "title": "H3-metal – Inférence native MiniMax-H3 pour Apple Silicon",
-        "titleOriginal": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-        "url": "https://github.com/antirez/h3.c",
-        "source": "github.com",
-        "score": 348,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=49252179",
-        "date": "il y a 12 h"
+        "title": "L'activité risquée de Nvidia",
+        "titleOriginal": "Nvidia's Risky Business",
+        "url": "https://stratechery.com/2026/nvidias-risky-business/",
+        "source": "stratechery.com",
+        "score": 73,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49255710",
+        "date": "il y a 4 h"
       }
     ]
   },
