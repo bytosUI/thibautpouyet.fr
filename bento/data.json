@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-11T02:33:24.774Z",
+  "updatedAt": "2026-08-11T04:14:53.331Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
+      "temp": 18,
+      "feelsLike": 18,
       "code": 0,
-      "wind": 7,
-      "humidity": 70
+      "wind": 6,
+      "humidity": 74
     },
     "forecast": [
       {
@@ -24,14 +24,14 @@
       },
       {
         "date": "2026-08-13",
-        "code": 2,
-        "tmax": 38,
+        "code": 1,
+        "tmax": 37,
         "tmin": 20
       },
       {
         "date": "2026-08-14",
         "code": 2,
-        "tmax": 37,
+        "tmax": 38,
         "tmin": 23
       }
     ]
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -102,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La guerre britannique contre l'anonymat est arrivée en Amérique",
+        "title": "The UK's War on Anonymity Has Come to America",
         "titleOriginal": "The UK's War on Anonymity Has Come to America",
         "url": "https://www.effort.news/uk-lobby",
         "source": "effort.news",
-        "score": 237,
-        "comments": 161,
+        "score": 393,
+        "comments": 260,
         "hnUrl": "https://news.ycombinator.com/item?id=49251411",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+        "titleOriginal": "Antirez/h3.c: MiniMax H3 inference engine for Mac computers",
+        "url": "https://github.com/antirez/h3.c",
+        "source": "github.com",
+        "score": 93,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49252179",
         "date": "il y a 2 h"
       },
       {
-        "title": "Régime de poulet 6,0",
+        "title": "Chicken Scheme 6.0",
         "titleOriginal": "Chicken Scheme 6.0",
         "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
         "source": "code.call-cc.org",
-        "score": 57,
-        "comments": 5,
+        "score": 98,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49251702",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Afficher HN : Faites défiler tous les états 43252003274489856000 Rubik's Cube",
-        "titleOriginal": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-        "url": "https://everycube.alen.is/",
-        "source": "everycube.alen.is",
-        "score": 79,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49251179",
         "date": "il y a 3 h"
       },
       {
-        "title": "Le « miracle mécanique » qui a ruiné la vie de Mark Twain",
-        "titleOriginal": "The “mechanical miracle” that ruined Mark Twain’s life",
-        "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-        "source": "resobscura.substack.com",
-        "score": 57,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49184220",
-        "date": "il y a 5 j"
+        "title": "Recycle – Floppydisks",
+        "titleOriginal": "Recycle – Floppydisks",
+        "url": "https://www.floppydisk.com/recycle",
+        "source": "floppydisk.com",
+        "score": 28,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49252462",
+        "date": "il y a 2 h"
       }
     ]
   },
