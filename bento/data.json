@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-11T10:25:08.164Z",
+  "updatedAt": "2026-08-11T11:12:29.328Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 29,
+      "temp": 29,
+      "feelsLike": 30,
       "code": 0,
       "wind": 10,
-      "humidity": 40
+      "humidity": 36
     },
     "forecast": [
       {
         "date": "2026-08-11",
-        "code": 1,
+        "code": 0,
         "tmax": 32,
         "tmin": 18
       },
@@ -178,8 +178,8 @@
         "titleOriginal": "France to ban unsolicited telemarketing calls",
         "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
         "source": "lemonde.fr",
-        "score": 159,
-        "comments": 102,
+        "score": 241,
+        "comments": 149,
         "hnUrl": "https://news.ycombinator.com/item?id=49254880",
         "date": "il y a 2 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
         "url": "https://github.com/antirez/h3.c",
         "source": "github.com",
-        "score": 280,
-        "comments": 58,
+        "score": 294,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=49252179",
         "date": "il y a 9 h"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "As AI eats the web, the internet’s collective memory is disappearing",
         "url": "https://thewalrus.ca/google-search-is-dying/",
         "source": "thewalrus.ca",
-        "score": 311,
-        "comments": 310,
+        "score": 336,
+        "comments": 374,
         "hnUrl": "https://news.ycombinator.com/item?id=49250836",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Le métro de Londres commence à scanner le visage des passagers",
-        "titleOriginal": "London Underground begins scanning passengers' faces",
-        "url": "https://www.btp.police.uk/news/btp/news/england/btp-expands-live-facial-recognition-lfr-trial-into-london-underground-stations/",
-        "source": "btp.police.uk",
-        "score": 10,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49255496",
-        "date": "il y a 45 min"
+        "title": "Pour sauver C, nous devons sauver ABI",
+        "titleOriginal": "To Save C, We Must Save ABI",
+        "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
+        "source": "thephd.dev",
+        "score": 61,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49219679",
+        "date": "il y a 3 j"
       }
     ]
   },
