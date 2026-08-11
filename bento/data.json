@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-11T19:57:42.957Z",
+  "updatedAt": "2026-08-11T20:44:43.663Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 26,
+      "temp": 27,
+      "feelsLike": 25,
       "code": 0,
       "wind": 9,
-      "humidity": 26
+      "humidity": 30
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Nvidia Nemotron 3.5 Lightning et Nemo Switchyard",
-        "titleOriginal": "Nvidia Nemotron 3.5 lightning and Nemo Switchyard",
+        "title": "Chantier Nvidia Nemotron 3.5 Lightning et NeMo",
+        "titleOriginal": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
         "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
         "source": "blogs.nvidia.com",
-        "score": 16,
-        "comments": 2,
+        "score": 74,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=49263340",
-        "date": "il y a 21 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le cerveau est peut-être sur le point d'avoir son moment ozempique",
+        "titleOriginal": "The brain may be about to have its Ozempic moment",
+        "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+        "source": "economist.com",
+        "score": 39,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49263658",
+        "date": "il y a 43 min"
+      },
+      {
+        "title": "La compression est une prédiction",
+        "titleOriginal": "Compression Is Prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "source": "ngrok.com",
+        "score": 47,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49263497",
+        "date": "il y a 54 min"
       },
       {
         "title": "Mojo 1.0",
         "titleOriginal": "Mojo 1.0",
         "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
         "source": "modular.com",
-        "score": 115,
-        "comments": 56,
+        "score": 166,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49261128",
         "date": "il y a 3 h"
-      },
-      {
-        "title": "Comment nous obtenions des emplois : une histoire de petites annonces dans les journaux",
-        "titleOriginal": "How we used to get jobs: A newspaper classifieds story",
-        "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-        "source": "ironicsans.ghost.io",
-        "score": 40,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49262211",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Voler les traces de raisonnement des API LLM propriétaires",
-        "titleOriginal": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "url": "https://stolen-thoughts.com/",
-        "source": "stolen-thoughts.com",
-        "score": 347,
-        "comments": 131,
-        "hnUrl": "https://news.ycombinator.com/item?id=49257876",
-        "date": "il y a 6 h"
       }
     ]
   },
