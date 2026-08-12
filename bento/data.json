@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-08-12T21:39:19.626Z",
+  "updatedAt": "2026-08-12T22:34:11.611Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 25,
+      "temp": 26,
+      "feelsLike": 24,
       "code": 0,
-      "wind": 10,
-      "humidity": 24
+      "wind": 8,
+      "humidity": 26
     },
     "forecast": [
       {
-        "date": "2026-08-12",
-        "code": 0,
-        "tmax": 36,
-        "tmin": 19
+        "date": "2026-08-13",
+        "code": 1,
+        "tmax": 38,
+        "tmin": 20
       },
       {
-        "date": "2026-08-13",
-        "code": 0,
+        "date": "2026-08-14",
+        "code": 3,
         "tmax": 38,
         "tmin": 21
       },
       {
-        "date": "2026-08-14",
-        "code": 2,
-        "tmax": 39,
-        "tmin": 21
+        "date": "2026-08-15",
+        "code": 80,
+        "tmax": 37,
+        "tmin": 23
       },
       {
-        "date": "2026-08-15",
-        "code": 3,
-        "tmax": 35,
+        "date": "2026-08-16",
+        "code": 80,
+        "tmax": 27,
         "tmin": 21
       }
     ]
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 27,
+        "viewers": 98,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 601,
-        "comments": 215,
+        "score": 641,
+        "comments": 227,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Delta",
         "titleOriginal": "Delta",
         "url": "https://zed.dev/blog/introducing-delta",
         "source": "zed.dev",
-        "score": 246,
-        "comments": 83,
+        "score": 294,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=49276574",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Corruption de la base de données de traces à l'échelle Tailscale vers un bogue de restauration WAL SQLite 16y/o",
         "titleOriginal": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "tailscale.com",
-        "score": 660,
-        "comments": 105,
+        "score": 695,
+        "comments": 112,
         "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Qwen3.8-2.4T",
         "titleOriginal": "Qwen3.8-2.4T",
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "source": "huggingface.co",
-        "score": 383,
-        "comments": 79,
+        "score": 423,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=49273478",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
