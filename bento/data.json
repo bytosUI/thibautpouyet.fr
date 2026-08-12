@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-12T15:28:12.934Z",
+  "updatedAt": "2026-08-12T16:26:08.978Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 36,
       "feelsLike": 34,
       "code": 0,
-      "wind": 9,
+      "wind": 10,
       "humidity": 20
     },
     "forecast": [
@@ -24,8 +24,8 @@
       },
       {
         "date": "2026-08-14",
-        "code": 2,
-        "tmax": 38,
+        "code": 3,
+        "tmax": 39,
         "tmin": 21
       },
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 3431,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "CE PÈRE, QUI A PERDU LA GARDE DE SA FILLE, A CACHÉ UNE PUCE GPS POUR LA LOCALISER",
+        "title": "FAMILLE D'ACCUEIL : L'HISTOIRE D'UNE PETITE FILLE QUI HANTAIT SA MAISON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "cBQ1CYPFv4U",
-        "thumbnail": "https://i.ytimg.com/vi/cBQ1CYPFv4U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cBQ1CYPFv4U",
-        "publishedAt": "2026-08-12T13:00:25+00:00"
+        "videoId": "RY3oTbE8CSg",
+        "thumbnail": "https://i.ytimg.com/vi/RY3oTbE8CSg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RY3oTbE8CSg",
+        "publishedAt": "2026-08-12T16:00:07+00:00"
       },
       {
         "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les recherches de lecteurs de plaques d'immatriculation devraient nécessiter un mandat",
-        "titleOriginal": "License Plate Reader Searches Should Require a Warrant",
-        "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-        "source": "andrewpwheeler.com",
-        "score": 126,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49273165",
-        "date": "il y a 44 min"
+        "title": "Corruption de la base de données de traces à l'échelle Tailscale vers un bogue de restauration WAL SQLite 16y/o",
+        "titleOriginal": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+        "source": "tailscale.com",
+        "score": 234,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49272832",
+        "date": "il y a 2 h"
       },
       {
         "title": "Webcams Eclipse 2026",
         "titleOriginal": "2026 Eclipse Webcams",
         "url": "https://jonty.github.io/2026_eclipse_webcams/",
         "source": "jonty.github.io",
-        "score": 310,
-        "comments": 71,
+        "score": 350,
+        "comments": 78,
         "hnUrl": "https://news.ycombinator.com/item?id=49270953",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Nécrologie : Le développeur d'AmigaDOS, le Dr Tim King, est décédé",
-        "titleOriginal": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
+        "title": "Tim King, développeur AmigaDOS, est décédé",
+        "titleOriginal": "Tim King, AmigaDOS developer, has died",
         "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
         "source": "amiga-news.de",
-        "score": 66,
-        "comments": 13,
+        "score": 88,
+        "comments": 18,
         "hnUrl": "https://news.ycombinator.com/item?id=49272655",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Corruption de la base de données de traces à l'échelle Tailscale vers un bogue de restauration WAL SQLite 16y/o",
-        "titleOriginal": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "source": "tailscale.com",
-        "score": 76,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 1 h"
+        "title": "Quelqu'un exécute des analyses de vulnérabilité de masse, usurpant des robots IA comme ClaudeBot",
+        "titleOriginal": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "url": "https://knownagents.com/insights",
+        "source": "knownagents.com",
+        "score": 85,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49272569",
+        "date": "il y a 2 h"
       }
     ]
   },
