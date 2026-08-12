@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-12T03:35:20.947Z",
+  "updatedAt": "2026-08-12T05:26:42.999Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
+      "temp": 19,
       "feelsLike": 18,
       "code": 0,
-      "wind": 4,
-      "humidity": 38
+      "wind": 2,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -31,8 +31,8 @@
       {
         "date": "2026-08-15",
         "code": 3,
-        "tmax": 34,
-        "tmin": 23
+        "tmax": 35,
+        "tmin": 22
       }
     ]
   },
@@ -96,40 +96,40 @@
         "titleOriginal": "Compression is prediction",
         "url": "https://ngrok.com/blog/compression-is-prediction",
         "source": "ngrok.com",
-        "score": 315,
-        "comments": 132,
+        "score": 398,
+        "comments": 158,
         "hnUrl": "https://news.ycombinator.com/item?id=49263497",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Génération en monde ouvert WorldClaw Agentic 3D à grande échelle",
-        "titleOriginal": "WorldClaw Agentic 3D open-world generation at scale",
-        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-        "source": "tencent-hunyuan.github.io",
-        "score": 153,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=49265051",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Chantier Nvidia Nemotron 3.5 Lightning et NeMo",
-        "titleOriginal": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-        "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-        "source": "blogs.nvidia.com",
-        "score": 192,
-        "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=49263340",
-        "date": "il y a 7 h"
+        "title": "La police la plus travaillée de Manhattan (2025)",
+        "titleOriginal": "The hardest working font in Manhattan (2025)",
+        "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+        "source": "aresluna.org",
+        "score": 87,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49201953",
+        "date": "il y a 5 j"
       },
       {
         "title": "Le secret vital caché dans le sang bleu d'un crabe en fer à cheval",
         "titleOriginal": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
         "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
         "source": "whdh.com",
-        "score": 18,
-        "comments": 1,
+        "score": 48,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=49266921",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Génération en monde ouvert WorldClaw Agentic 3D à grande échelle",
+        "titleOriginal": "WorldClaw Agentic 3D open-world generation at scale",
+        "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+        "source": "tencent-hunyuan.github.io",
+        "score": 176,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49265051",
+        "date": "il y a 7 h"
       }
     ]
   },
