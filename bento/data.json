@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-12T11:42:04.546Z",
+  "updatedAt": "2026-08-12T12:55:49.568Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 32,
-      "feelsLike": 32,
+      "temp": 34,
+      "feelsLike": 34,
       "code": 0,
       "wind": 10,
       "humidity": 22
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ELLE ACCUEILLE UNE PETITE FILLE... ET FINIT PAR L'ADOPTER",
+        "title": "FAMILLE D'ACCUEIL : ELLE TOUCHE 6 000 € POUR ACCUEILLIR DES ENFANTS DE L'AIDE SOCIALE À L'ENFANCE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Bue1eMZ8Z-w",
-        "thumbnail": "https://i.ytimg.com/vi/Bue1eMZ8Z-w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bue1eMZ8Z-w",
-        "publishedAt": "2026-08-12T11:00:18+00:00"
+        "videoId": "p_-dPD2EZ-E",
+        "thumbnail": "https://i.ytimg.com/vi/p_-dPD2EZ-E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p_-dPD2EZ-E",
+        "publishedAt": "2026-08-12T12:00:20+00:00"
       },
       {
         "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Webcams Eclipse 2026",
+        "titleOriginal": "2026 Eclipse Webcams",
+        "url": "https://jonty.github.io/2026_eclipse_webcams/",
+        "source": "jonty.github.io",
+        "score": 85,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49270953",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Dans quel type de mathématiques les LLM sont-ils bons ?",
         "titleOriginal": "What sort of maths are LLMs good at?",
         "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
         "source": "gowers.wordpress.com",
-        "score": 82,
-        "comments": 18,
+        "score": 118,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=49270022",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Show HN : Woxi - Réimplémentation du langage open source Mathematica / Wolfram",
         "titleOriginal": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
         "url": "https://woxi.ad-si.com",
         "source": "woxi.ad-si.com",
-        "score": 66,
-        "comments": 1,
+        "score": 106,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=49270040",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "LinkedIn CringeBot 3000",
         "titleOriginal": "LinkedIn CringeBot 3000",
         "url": "https://www.cringebot3000.com/",
         "source": "cringebot3000.com",
-        "score": 254,
-        "comments": 98,
+        "score": 341,
+        "comments": 137,
         "hnUrl": "https://news.ycombinator.com/item?id=49268564",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Simulateur de carte de train néerlandais",
-        "titleOriginal": "Dutch Train Map Simulator",
-        "url": "https://spoorkaart.zaza.dev",
-        "source": "spoorkaart.zaza.dev",
-        "score": 54,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=49269641",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       }
     ]
   },
