@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-12T18:25:50.246Z",
+  "updatedAt": "2026-08-12T19:35:28.501Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 32,
+      "temp": 31,
+      "feelsLike": 29,
       "code": 0,
-      "wind": 12,
-      "humidity": 19
+      "wind": 11,
+      "humidity": 21
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 328,
-        "comments": 107,
+        "score": 447,
+        "comments": 156,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Zed : Delta",
+        "titleOriginal": "Zed: Delta",
+        "url": "https://zed.dev/blog/introducing-delta",
+        "source": "zed.dev",
+        "score": 121,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=49276574",
+        "date": "il y a 1 h"
       },
       {
         "title": "Corruption de la base de données de traces à l'échelle Tailscale vers un bogue de restauration WAL SQLite 16y/o",
         "titleOriginal": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "tailscale.com",
-        "score": 452,
-        "comments": 72,
+        "score": 535,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=49272832",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Qwen3.8-2.4T",
+        "titleOriginal": "Qwen3.8-2.4T",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+        "source": "huggingface.co",
+        "score": 274,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=49273478",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Grok 4.6 de SpaceXAI obtient 61 points sur l'indice d'intelligence de l'analyse artificielle",
-        "titleOriginal": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-        "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-        "source": "artificialanalysis.ai",
-        "score": 129,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=49275385",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Webcams Eclipse 2026",
-        "titleOriginal": "2026 Eclipse Webcams",
-        "url": "https://jonty.github.io/2026_eclipse_webcams/",
-        "source": "jonty.github.io",
-        "score": 386,
-        "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=49270953",
-        "date": "il y a 6 h"
       }
     ]
   },
