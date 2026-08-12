@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-12T20:36:51.668Z",
+  "updatedAt": "2026-08-12T21:39:19.626Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 27,
+      "temp": 28,
+      "feelsLike": 25,
       "code": 0,
-      "wind": 11,
-      "humidity": 23
+      "wind": 10,
+      "humidity": 24
     },
     "forecast": [
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 27,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,40 +186,40 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 520,
-        "comments": 189,
+        "score": 601,
+        "comments": 215,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Delta",
         "titleOriginal": "Delta",
         "url": "https://zed.dev/blog/introducing-delta",
         "source": "zed.dev",
-        "score": 177,
-        "comments": 68,
+        "score": 246,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=49276574",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Corruption de la base de données de traces à l'échelle Tailscale vers un bogue de restauration WAL SQLite 16y/o",
         "titleOriginal": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "tailscale.com",
-        "score": 587,
-        "comments": 95,
+        "score": 660,
+        "comments": 105,
         "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Qwen3.8-2.4T",
         "titleOriginal": "Qwen3.8-2.4T",
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "source": "huggingface.co",
-        "score": 326,
-        "comments": 76,
+        "score": 383,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=49273478",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       }
     ]
   },
