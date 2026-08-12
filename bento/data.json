@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-12T01:22:50.507Z",
+  "updatedAt": "2026-08-12T03:35:20.947Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
+      "temp": 20,
+      "feelsLike": 18,
       "code": 0,
       "wind": 4,
-      "humidity": 34
+      "humidity": 38
     },
     "forecast": [
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "h8XqoqlhvRI",
-        "thumbnail": "https://i.ytimg.com/vi/h8XqoqlhvRI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h8XqoqlhvRI",
-        "publishedAt": "2026-08-11T18:00:39+00:00"
-      },
-      {
-        "title": "PSY : SES 3 CONSEILS POUR QU'UN COUPLE DURE (TENDRESSE, ACTION, ADMIRATION)",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "QikKQEyjO8M",
-        "thumbnail": "https://i.ytimg.com/vi/QikKQEyjO8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QikKQEyjO8M",
-        "publishedAt": "2026-08-11T13:00:20+00:00"
-      },
-      {
-        "title": "Un expat' ne reviendra jamais vivre en France ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "OKEx1QYExAs",
-        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
-        "publishedAt": "2026-08-10T08:26:03+00:00"
-      },
-      {
-        "title": "Je détruis enfin la salle de bain #26",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "JhkdfqxG25I",
-        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
-        "publishedAt": "2026-08-09T15:17:07+00:00"
-      },
-      {
-        "title": "ON a CONSTRUIT nos futurs BUREAUX… en CARTON !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "95OYzOIAkTY",
-        "thumbnail": "https://i.ytimg.com/vi/95OYzOIAkTY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=95OYzOIAkTY",
-        "publishedAt": "2026-08-09T11:23:24+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "Nos premières vacances en Corée 🇰🇷 (4 jours à Jeju)",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ejJwV-dpmDY",
-        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
-        "publishedAt": "2026-08-03T16:00:11+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,33 +92,23 @@
   "hackernews": {
     "items": [
       {
-        "title": "La CFTC déclare l'urgence du marché, ordonne à Kalshi de continuer à opérer à New York",
-        "titleOriginal": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
-        "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
-        "source": "cftc.gov",
-        "score": 87,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49266277",
-        "date": "il y a 1 h"
+        "title": "La compression est une prédiction",
+        "titleOriginal": "Compression is prediction",
+        "url": "https://ngrok.com/blog/compression-is-prediction",
+        "source": "ngrok.com",
+        "score": 315,
+        "comments": 132,
+        "hnUrl": "https://news.ycombinator.com/item?id=49263497",
+        "date": "il y a 7 h"
       },
       {
         "title": "Génération en monde ouvert WorldClaw Agentic 3D à grande échelle",
         "titleOriginal": "WorldClaw Agentic 3D open-world generation at scale",
         "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
         "source": "tencent-hunyuan.github.io",
-        "score": 107,
-        "comments": 38,
+        "score": 153,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=49265051",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "La compression est une prédiction",
-        "titleOriginal": "Compression is prediction",
-        "url": "https://ngrok.com/blog/compression-is-prediction",
-        "source": "ngrok.com",
-        "score": 242,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49263497",
         "date": "il y a 5 h"
       },
       {
@@ -208,10 +116,20 @@
         "titleOriginal": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
         "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
         "source": "blogs.nvidia.com",
-        "score": 176,
-        "comments": 89,
+        "score": 192,
+        "comments": 100,
         "hnUrl": "https://news.ycombinator.com/item?id=49263340",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Le secret vital caché dans le sang bleu d'un crabe en fer à cheval",
+        "titleOriginal": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+        "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+        "source": "whdh.com",
+        "score": 18,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49266921",
+        "date": "il y a 1 h"
       }
     ]
   },
