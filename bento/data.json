@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-11T23:33:17.522Z",
+  "updatedAt": "2026-08-12T01:22:50.507Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 0,
-      "wind": 7,
-      "humidity": 35
+      "wind": 4,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La CFTC déclare l'urgence du marché, ordonne à Kalshi de continuer à opérer à New York",
+        "titleOriginal": "CFTC declares market emergency, orders Kalshi to continue to operate in New York",
+        "url": "https://www.cftc.gov/PressRoom/PressReleases/9281-26",
+        "source": "cftc.gov",
+        "score": 87,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49266277",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Génération en monde ouvert WorldClaw Agentic 3D à grande échelle",
         "titleOriginal": "WorldClaw Agentic 3D open-world generation at scale",
         "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
         "source": "tencent-hunyuan.github.io",
-        "score": 51,
-        "comments": 16,
+        "score": 107,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=49265051",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "La compression est une prédiction",
         "titleOriginal": "Compression is prediction",
         "url": "https://ngrok.com/blog/compression-is-prediction",
         "source": "ngrok.com",
-        "score": 190,
-        "comments": 81,
+        "score": 242,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49263497",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Chantier Nvidia Nemotron 3.5 Lightning et NeMo",
         "titleOriginal": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
         "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
         "source": "blogs.nvidia.com",
-        "score": 150,
-        "comments": 78,
+        "score": 176,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=49263340",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Mojo 1.0",
-        "titleOriginal": "Mojo 1.0",
-        "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-        "source": "modular.com",
-        "score": 250,
-        "comments": 114,
-        "hnUrl": "https://news.ycombinator.com/item?id=49261128",
-        "date": "il y a 6 h"
+        "date": "il y a 5 h"
       }
     ]
   },
