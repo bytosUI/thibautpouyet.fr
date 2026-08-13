@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-13T15:29:37.603Z",
+  "updatedAt": "2026-08-13T16:26:42.914Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 38,
       "feelsLike": 37,
       "code": 0,
-      "wind": 3,
+      "wind": 2,
       "humidity": 18
     },
     "forecast": [
@@ -25,14 +25,14 @@
       {
         "date": "2026-08-15",
         "code": 3,
-        "tmax": 37,
+        "tmax": 35,
         "tmin": 23
       },
       {
         "date": "2026-08-16",
-        "code": 95,
-        "tmax": 28,
-        "tmin": 21
+        "code": 3,
+        "tmax": 30,
+        "tmin": 20
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FAMILLE D'ACCUEIL : ELLE A EU LE PLUS JEUNE FUGUEUR DE FRANCE",
+        "title": "FAMILLE D'ACCUEIL : J'AI APPRIS QU'UN HOMME POUVAIT ÊTRE NI ALCOOLIQUE NI VIOLENT\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "h1leVy7raCU",
-        "thumbnail": "https://i.ytimg.com/vi/h1leVy7raCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h1leVy7raCU",
-        "publishedAt": "2026-08-13T15:00:38+00:00"
+        "videoId": "J-yjko6F8o0",
+        "thumbnail": "https://i.ytimg.com/vi/J-yjko6F8o0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J-yjko6F8o0",
+        "publishedAt": "2026-08-13T16:00:32+00:00"
       },
       {
         "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
@@ -178,40 +178,40 @@
         "titleOriginal": "DeepSeek Harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "source": "github.com",
-        "score": 253,
-        "comments": 108,
+        "score": 351,
+        "comments": 154,
         "hnUrl": "https://news.ycombinator.com/item?id=49285244",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "DRAM spaghettifiante",
-        "titleOriginal": "Spaghettifying DRAM",
-        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "source": "github.com",
-        "score": 103,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49286341",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Gloomberb",
         "titleOriginal": "Gloomberb",
         "url": "https://gloom.sh/",
         "source": "gloom.sh",
-        "score": 110,
-        "comments": 36,
+        "score": 192,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49285982",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Heart Aerospace termine le premier vol du plus grand avion électrique",
-        "titleOriginal": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-        "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-        "source": "heartaerospace.com",
-        "score": 46,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49286270",
-        "date": "il y a 1 h"
+        "title": "Deutsche Bank devient la première banque de compensation en yuan étranger en Europe",
+        "titleOriginal": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+        "source": "tradersunion.com",
+        "score": 286,
+        "comments": 303,
+        "hnUrl": "https://news.ycombinator.com/item?id=49284774",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "DRAM spaghettifiante",
+        "titleOriginal": "Spaghettifying DRAM",
+        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+        "source": "github.com",
+        "score": 176,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49286341",
+        "date": "il y a 2 h"
       }
     ]
   },
