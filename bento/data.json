@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T10:56:32.841Z",
+  "updatedAt": "2026-08-13T11:43:08.716Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 33,
+      "temp": 35,
+      "feelsLike": 36,
       "code": 0,
       "wind": 4,
-      "humidity": 17
+      "humidity": 16
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "ChatGPT Desktop (Codex Desktop) for Linux",
         "url": "https://openai.com/codex/",
         "source": "openai.com",
-        "score": 168,
-        "comments": 90,
+        "score": 198,
+        "comments": 121,
         "hnUrl": "https://news.ycombinator.com/item?id=49281916",
         "date": "il y a 6 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "The lattice of sets of natural numbers is rich",
         "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
         "source": "jdh.hamkins.org",
-        "score": 23,
-        "comments": 0,
+        "score": 35,
+        "comments": 1,
         "hnUrl": "https://news.ycombinator.com/item?id=49243687",
         "date": "il y a 2 j"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 944,
-        "comments": 390,
+        "score": 956,
+        "comments": 403,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 18 h"
+        "date": "il y a 19 h"
       },
       {
         "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
         "titleOriginal": "Tracking down the 16-year-old WAL-reset SQLite bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "tailscale.com",
-        "score": 1056,
-        "comments": 198,
+        "score": 1075,
+        "comments": 201,
         "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 20 h"
+        "date": "il y a 21 h"
       }
     ]
   },
