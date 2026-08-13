@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T11:43:08.716Z",
+  "updatedAt": "2026-08-13T12:56:51.259Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 35,
-      "feelsLike": 36,
+      "temp": 37,
+      "feelsLike": 37,
       "code": 0,
-      "wind": 4,
-      "humidity": 16
+      "wind": 2,
+      "humidity": 14
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FAMILLE D'ACCUEIL : CET ENFANT DE 4 ANS N'AVAIT JAMAIS DORMI DANS UN LIT",
+        "title": "À 5 ANS, SON PETIT DÉJ C'EST DES CHIPS ET DES KNACKI",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "0YjRbWwMw_w",
-        "thumbnail": "https://i.ytimg.com/vi/0YjRbWwMw_w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0YjRbWwMw_w",
-        "publishedAt": "2026-08-13T10:00:22+00:00"
+        "videoId": "CNMvFfBvM0k",
+        "thumbnail": "https://i.ytimg.com/vi/CNMvFfBvM0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CNMvFfBvM0k",
+        "publishedAt": "2026-08-13T12:00:39+00:00"
       },
       {
         "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
@@ -154,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 12 sem",
+        "time": "il y a 13 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 12 sem",
+        "time": "il y a 13 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,22 +174,32 @@
   "hackernews": {
     "items": [
       {
+        "title": "Deutsche Bank devient la première banque de compensation en yuan étranger en Europe",
+        "titleOriginal": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
+        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+        "source": "tradersunion.com",
+        "score": 83,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=49284774",
+        "date": "il y a 46 min"
+      },
+      {
         "title": "ChatGPT Desktop (Codex Desktop) pour Linux",
         "titleOriginal": "ChatGPT Desktop (Codex Desktop) for Linux",
         "url": "https://openai.com/codex/",
         "source": "openai.com",
-        "score": 198,
-        "comments": 121,
+        "score": 251,
+        "comments": 164,
         "hnUrl": "https://news.ycombinator.com/item?id=49281916",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Le réseau d'ensembles d'entiers naturels est riche",
         "titleOriginal": "The lattice of sets of natural numbers is rich",
         "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
         "source": "jdh.hamkins.org",
-        "score": 35,
-        "comments": 1,
+        "score": 55,
+        "comments": 8,
         "hnUrl": "https://news.ycombinator.com/item?id=49243687",
         "date": "il y a 2 j"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 956,
-        "comments": 403,
+        "score": 971,
+        "comments": 419,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-        "titleOriginal": "Tracking down the 16-year-old WAL-reset SQLite bug",
-        "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-        "source": "tailscale.com",
-        "score": 1075,
-        "comments": 201,
-        "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 21 h"
+        "date": "il y a 20 h"
       }
     ]
   },
