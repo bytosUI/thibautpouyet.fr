@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T20:35:37.477Z",
+  "updatedAt": "2026-08-13T21:38:42.086Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
+      "temp": 29,
+      "feelsLike": 28,
       "code": 0,
-      "wind": 8,
-      "humidity": 26
+      "wind": 7,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Machine Party",
-        "viewers": 5849,
+        "game": "Liar's Bar",
+        "viewers": 5271,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       },
@@ -50,7 +50,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 186,
+        "viewers": 131,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -181,7 +181,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 14 sem",
+        "time": "il y a 15 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       }
     ]
@@ -193,39 +193,39 @@
         "titleOriginal": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "blog.google",
-        "score": 408,
-        "comments": 241,
+        "score": 471,
+        "comments": 282,
         "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Accélération GPT-5.6 sol ultra-rapide",
         "titleOriginal": "Accelerating GPT-5.6 Sol Ultrafast",
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "source": "cerebras.ai",
-        "score": 229,
-        "comments": 80,
+        "score": 291,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=49289844",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "NP-Overrated",
+        "titleOriginal": "NP-Overrated",
+        "url": "https://gruhn.me/blog/2026-08-13/",
+        "source": "gruhn.me",
+        "score": 57,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49291268",
+        "date": "il y a 1 h"
       },
       {
         "title": "Donkey.bas a 45 ans – 131 lignée de Glory",
         "titleOriginal": "Donkey.bas is 45 Years Old – 131 line of Glory",
         "url": "https://donkeybas.com/",
         "source": "donkeybas.com",
-        "score": 109,
-        "comments": 40,
+        "score": 137,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=49289465",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Mistral OCR 4.1",
-        "titleOriginal": "Mistral OCR 4.1",
-        "url": "https://docs.mistral.ai/models/ocr-4-1",
-        "source": "docs.mistral.ai",
-        "score": 168,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49288889",
         "date": "il y a 3 h"
       }
     ]
