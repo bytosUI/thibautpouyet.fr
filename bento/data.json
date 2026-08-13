@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T05:29:55.472Z",
+  "updatedAt": "2026-08-13T06:58:34.149Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 23,
+      "feelsLike": 21,
       "code": 0,
-      "wind": 3,
-      "humidity": 39
+      "wind": 5,
+      "humidity": 35
     },
     "forecast": [
       {
@@ -96,40 +96,40 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 831,
-        "comments": 327,
+        "score": 868,
+        "comments": 349,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Corruption de la base de données de traces à l'échelle Tailscale vers un bogue de restauration WAL SQLite 16y/o",
-        "titleOriginal": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+        "title": "Nous avons retrouvé le bogue SQLite de réinitialisation WAL vieux de 16 ans",
+        "titleOriginal": "We tracked down the 16-year-old WAL-reset SQLite bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "tailscale.com",
-        "score": 911,
-        "comments": 177,
+        "score": 962,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       },
       {
         "title": "Delta",
         "titleOriginal": "Delta",
         "url": "https://zed.dev/blog/introducing-delta",
         "source": "zed.dev",
-        "score": 471,
-        "comments": 162,
+        "score": 506,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=49276574",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Qwen3.8-2.4T",
         "titleOriginal": "Qwen3.8-2.4T",
         "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
         "source": "huggingface.co",
-        "score": 558,
-        "comments": 128,
+        "score": 580,
+        "comments": 134,
         "hnUrl": "https://news.ycombinator.com/item?id=49273478",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
       }
     ]
   },
