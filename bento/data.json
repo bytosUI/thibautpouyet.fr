@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-13T16:26:42.914Z",
+  "updatedAt": "2026-08-13T17:27:37.920Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 38,
-      "feelsLike": 37,
+      "temp": 37,
+      "feelsLike": 36,
       "code": 0,
-      "wind": 2,
-      "humidity": 18
+      "wind": 3,
+      "humidity": 17
     },
     "forecast": [
       {
         "date": "2026-08-13",
-        "code": 2,
+        "code": 1,
         "tmax": 38,
         "tmin": 20
       },
       {
         "date": "2026-08-14",
         "code": 2,
-        "tmax": 39,
-        "tmin": 22
+        "tmax": 38,
+        "tmin": 21
       },
       {
         "date": "2026-08-15",
-        "code": 3,
+        "code": 80,
         "tmax": 35,
-        "tmin": 23
+        "tmin": 24
       },
       {
         "date": "2026-08-16",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Harnais DeepSeek",
-        "titleOriginal": "DeepSeek Harness",
-        "url": "https://github.com/deepseek-ai/deepseek-harness",
-        "source": "github.com",
-        "score": 351,
-        "comments": 154,
-        "hnUrl": "https://news.ycombinator.com/item?id=49285244",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Gloomberb",
-        "titleOriginal": "Gloomberb",
-        "url": "https://gloom.sh/",
-        "source": "gloom.sh",
-        "score": 192,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=49285982",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Deutsche Bank devient la première banque de compensation en yuan étranger en Europe",
-        "titleOriginal": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-        "source": "tradersunion.com",
-        "score": 286,
-        "comments": 303,
-        "hnUrl": "https://news.ycombinator.com/item?id=49284774",
-        "date": "il y a 4 h"
-      },
-      {
         "title": "DRAM spaghettifiante",
         "titleOriginal": "Spaghettifying DRAM",
         "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
         "source": "github.com",
-        "score": 176,
-        "comments": 47,
+        "score": 259,
+        "comments": 72,
         "hnUrl": "https://news.ycombinator.com/item?id=49286341",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Venez pour ENIAC, séjournez pour UNIVAC et Skeduflo",
+        "titleOriginal": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+        "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+        "source": "uniqueatpenn.wordpress.com",
+        "score": 40,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49258428",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Flash Gemini 3.7",
+        "titleOriginal": "Gemini 3.7 Flash",
+        "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+        "source": "ai.google.dev",
+        "score": 14,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49289112",
+        "date": "il y a 4 min"
+      },
+      {
+        "title": "Aperçu du développeur DeepSeek Harness",
+        "titleOriginal": "DeepSeek Harness developer preview",
+        "url": "https://deepseek.com/harness/en/",
+        "source": "deepseek.com",
+        "score": 400,
+        "comments": 185,
+        "hnUrl": "https://news.ycombinator.com/item?id=49285244",
+        "date": "il y a 4 h"
       }
     ]
   },
