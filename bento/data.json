@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T06:58:34.149Z",
+  "updatedAt": "2026-08-13T08:22:53.136Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 21,
+      "temp": 26,
+      "feelsLike": 24,
       "code": 0,
-      "wind": 5,
-      "humidity": 35
+      "wind": 7,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-08-14",
         "code": 2,
         "tmax": 39,
-        "tmin": 21
+        "tmin": 20
       },
       {
         "date": "2026-08-15",
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "FAMILLE D'ACCUEIL : ELLE RACONTE LA CRISE D'UN ENFANT SCHIZOPHRÈNE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "FaA0khRTs0E",
+        "thumbnail": "https://i.ytimg.com/vi/FaA0khRTs0E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FaA0khRTs0E",
+        "publishedAt": "2026-08-13T08:00:30+00:00"
+      },
+      {
+        "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "h8XqoqlhvRI",
+        "thumbnail": "https://i.ytimg.com/vi/h8XqoqlhvRI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h8XqoqlhvRI",
+        "publishedAt": "2026-08-11T18:00:39+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Je détruis enfin la salle de bain #26",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
+      {
+        "title": "ON a CONSTRUIT nos futurs BUREAUX… en CARTON !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "95OYzOIAkTY",
+        "thumbnail": "https://i.ytimg.com/vi/95OYzOIAkTY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=95OYzOIAkTY",
+        "publishedAt": "2026-08-09T11:23:24+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Nos premières vacances en Corée 🇰🇷 (4 jours à Jeju)",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "ejJwV-dpmDY",
+        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
+        "publishedAt": "2026-08-03T16:00:11+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -96,40 +178,40 @@
         "titleOriginal": "DeepSeek V4 Pro 0813",
         "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
         "source": "openrouter.ai",
-        "score": 868,
-        "comments": 349,
+        "score": 897,
+        "comments": 363,
         "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 14 h"
+        "date": "il y a 16 h"
+      },
+      {
+        "title": "Champignon derrière les hallucinations « minuscules » identifiées",
+        "titleOriginal": "Mushroom behind 'tiny people' hallucinations identified",
+        "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+        "source": "phys.org",
+        "score": 111,
+        "comments": 71,
+        "hnUrl": "https://news.ycombinator.com/item?id=49218040",
+        "date": "il y a 5 j"
       },
       {
         "title": "Nous avons retrouvé le bogue SQLite de réinitialisation WAL vieux de 16 ans",
         "titleOriginal": "We tracked down the 16-year-old WAL-reset SQLite bug",
         "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
         "source": "tailscale.com",
-        "score": 962,
-        "comments": 183,
+        "score": 1008,
+        "comments": 188,
         "hnUrl": "https://news.ycombinator.com/item?id=49272832",
-        "date": "il y a 16 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Delta",
-        "titleOriginal": "Delta",
-        "url": "https://zed.dev/blog/introducing-delta",
-        "source": "zed.dev",
-        "score": 506,
-        "comments": 176,
-        "hnUrl": "https://news.ycombinator.com/item?id=49276574",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Qwen3.8-2.4T",
-        "titleOriginal": "Qwen3.8-2.4T",
-        "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-        "source": "huggingface.co",
-        "score": 580,
-        "comments": 134,
-        "hnUrl": "https://news.ycombinator.com/item?id=49273478",
-        "date": "il y a 15 h"
+        "title": "ChatGPT Desktop (Codex Desktop) pour Linux",
+        "titleOriginal": "ChatGPT Desktop (Codex Desktop) for Linux",
+        "url": "https://openai.com/codex/",
+        "source": "openai.com",
+        "score": 47,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49281916",
+        "date": "il y a 3 h"
       }
     ]
   },
