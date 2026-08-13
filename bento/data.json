@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-13T17:27:37.920Z",
+  "updatedAt": "2026-08-13T18:27:15.479Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
-      "feelsLike": 36,
+      "temp": 36,
+      "feelsLike": 34,
       "code": 0,
-      "wind": 3,
+      "wind": 11,
       "humidity": 17
     },
     "forecast": [
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 4333,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -51,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "CÔ R’CULE PÔ !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "RmxI1gx-zNs",
+        "thumbnail": "https://i.ytimg.com/vi/RmxI1gx-zNs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RmxI1gx-zNs",
+        "publishedAt": "2026-08-13T18:26:37+00:00"
+      },
       {
         "title": "FAMILLE D'ACCUEIL : J'AI APPRIS QU'UN HOMME POUVAIT ÊTRE NI ALCOOLIQUE NI VIOLENT\"",
         "channel": "LEGEND",
@@ -86,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
         "publishedAt": "2026-08-09T15:17:07+00:00"
-      },
-      {
-        "title": "ON a CONSTRUIT nos futurs BUREAUX… en CARTON !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "95OYzOIAkTY",
-        "thumbnail": "https://i.ytimg.com/vi/95OYzOIAkTY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=95OYzOIAkTY",
-        "publishedAt": "2026-08-09T11:23:24+00:00"
       },
       {
         "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Flash Gemini 3.7",
+        "titleOriginal": "Gemini 3.7 Flash",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+        "source": "blog.google",
+        "score": 199,
+        "comments": 134,
+        "hnUrl": "https://news.ycombinator.com/item?id=49289112",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Mistral OCR 4.1",
+        "titleOriginal": "Mistral OCR 4.1",
+        "url": "https://docs.mistral.ai/models/ocr-4-1",
+        "source": "docs.mistral.ai",
+        "score": 81,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49288889",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "DRAM spaghettifiante",
         "titleOriginal": "Spaghettifying DRAM",
         "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
         "source": "github.com",
-        "score": 259,
-        "comments": 72,
+        "score": 310,
+        "comments": 93,
         "hnUrl": "https://news.ycombinator.com/item?id=49286341",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Venez pour ENIAC, séjournez pour UNIVAC et Skeduflo",
-        "titleOriginal": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-        "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-        "source": "uniqueatpenn.wordpress.com",
-        "score": 40,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49258428",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Flash Gemini 3.7",
-        "titleOriginal": "Gemini 3.7 Flash",
-        "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
-        "source": "ai.google.dev",
-        "score": 14,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 4 min"
-      },
-      {
-        "title": "Aperçu du développeur DeepSeek Harness",
-        "titleOriginal": "DeepSeek Harness developer preview",
-        "url": "https://deepseek.com/harness/en/",
-        "source": "deepseek.com",
-        "score": 400,
-        "comments": 185,
-        "hnUrl": "https://news.ycombinator.com/item?id=49285244",
         "date": "il y a 4 h"
+      },
+      {
+        "title": "Choisissez la technologie ennuyeuse (2015)",
+        "titleOriginal": "Choose Boring Technology (2015)",
+        "url": "https://mcfunley.com/choose-boring-technology",
+        "source": "mcfunley.com",
+        "score": 38,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49289512",
+        "date": "il y a 39 min"
       }
     ]
   },
