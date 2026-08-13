@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T18:27:15.479Z",
+  "updatedAt": "2026-08-13T19:34:11.921Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 36,
-      "feelsLike": 34,
-      "code": 0,
-      "wind": 11,
-      "humidity": 17
+      "temp": 33,
+      "feelsLike": 32,
+      "code": 1,
+      "wind": 8,
+      "humidity": 22
     },
     "forecast": [
       {
@@ -41,10 +41,18 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 4333,
+        "game": "Shift at Midnight",
+        "viewers": 5859,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 44,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,8 +61,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -186,40 +193,40 @@
         "titleOriginal": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "blog.google",
-        "score": 199,
-        "comments": 134,
+        "score": 314,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Mistral OCR 4.1",
-        "titleOriginal": "Mistral OCR 4.1",
-        "url": "https://docs.mistral.ai/models/ocr-4-1",
-        "source": "docs.mistral.ai",
-        "score": 81,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49288889",
+        "title": "Accélération GPT-5.6 sol ultra-rapide",
+        "titleOriginal": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "source": "cerebras.ai",
+        "score": 140,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49289844",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "DRAM spaghettifiante",
-        "titleOriginal": "Spaghettifying DRAM",
-        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-        "source": "github.com",
-        "score": 310,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=49286341",
-        "date": "il y a 4 h"
       },
       {
         "title": "Choisissez la technologie ennuyeuse (2015)",
         "titleOriginal": "Choose Boring Technology (2015)",
         "url": "https://mcfunley.com/choose-boring-technology",
         "source": "mcfunley.com",
-        "score": 38,
-        "comments": 13,
+        "score": 105,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49289512",
-        "date": "il y a 39 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Donkey.bas a 45 ans – 131 lignée de Glory",
+        "titleOriginal": "Donkey.bas is 45 Years Old – 131 line of Glory",
+        "url": "https://donkeybas.com/",
+        "source": "donkeybas.com",
+        "score": 70,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49289465",
+        "date": "il y a 1 h"
       }
     ]
   },
