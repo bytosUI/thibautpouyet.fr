@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-13T12:56:51.259Z",
+  "updatedAt": "2026-08-13T14:21:05.034Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
-      "feelsLike": 37,
+      "temp": 38,
+      "feelsLike": 38,
       "code": 0,
       "wind": 2,
-      "humidity": 14
+      "humidity": 17
     },
     "forecast": [
       {
         "date": "2026-08-13",
-        "code": 1,
+        "code": 2,
         "tmax": 38,
         "tmin": 20
       },
       {
         "date": "2026-08-14",
-        "code": 3,
+        "code": 2,
         "tmax": 39,
-        "tmin": 20
+        "tmin": 22
       },
       {
         "date": "2026-08-15",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "À 5 ANS, SON PETIT DÉJ C'EST DES CHIPS ET DES KNACKI",
+        "title": "FAMILLE D'ACCUEIL : UN PÈRE TOMBE FOU AMOUREUX D'ELLE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "CNMvFfBvM0k",
-        "thumbnail": "https://i.ytimg.com/vi/CNMvFfBvM0k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CNMvFfBvM0k",
-        "publishedAt": "2026-08-13T12:00:39+00:00"
+        "videoId": "oNCF_uVLptM",
+        "thumbnail": "https://i.ytimg.com/vi/oNCF_uVLptM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oNCF_uVLptM",
+        "publishedAt": "2026-08-13T14:00:03+00:00"
       },
       {
         "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Deutsche Bank devient la première banque de compensation en yuan étranger en Europe",
-        "titleOriginal": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
-        "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-        "source": "tradersunion.com",
-        "score": 83,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49284774",
-        "date": "il y a 46 min"
+        "title": "Harnais DeepSeek",
+        "titleOriginal": "DeepSeek Harness",
+        "url": "https://github.com/deepseek-ai/deepseek-harness",
+        "source": "github.com",
+        "score": 115,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=49285244",
+        "date": "il y a 1 h"
       },
       {
-        "title": "ChatGPT Desktop (Codex Desktop) pour Linux",
-        "titleOriginal": "ChatGPT Desktop (Codex Desktop) for Linux",
-        "url": "https://openai.com/codex/",
-        "source": "openai.com",
-        "score": 251,
-        "comments": 164,
-        "hnUrl": "https://news.ycombinator.com/item?id=49281916",
-        "date": "il y a 8 h"
+        "title": "Choisir un modèle d'IA : une invite, 11 modèles, différents résultats",
+        "titleOriginal": "Choosing an AI model: one prompt, 11 models, different results",
+        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+        "source": "netlify.com",
+        "score": 63,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=49285327",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Le réseau d'ensembles d'entiers naturels est riche",
-        "titleOriginal": "The lattice of sets of natural numbers is rich",
-        "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
-        "source": "jdh.hamkins.org",
-        "score": 55,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49243687",
-        "date": "il y a 2 j"
+        "title": "Afficher HN : MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+        "titleOriginal": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
+        "url": "https://github.com/fellowgeek/mcp-memory",
+        "source": "github.com",
+        "score": 6,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49286073",
+        "date": "il y a 23 min"
       },
       {
-        "title": "DeepSeek V4 Pro 0813",
-        "titleOriginal": "DeepSeek V4 Pro 0813",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "source": "openrouter.ai",
-        "score": 971,
-        "comments": 419,
-        "hnUrl": "https://news.ycombinator.com/item?id=49274600",
-        "date": "il y a 20 h"
+        "title": "Mes règles d'utilisation des feuilles de calcul",
+        "titleOriginal": "My Rules for Using Spreadsheets",
+        "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
+        "source": "leancrew.com",
+        "score": 20,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49285268",
+        "date": "il y a 1 h"
       }
     ]
   },
