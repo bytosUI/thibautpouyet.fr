@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T14:21:05.034Z",
+  "updatedAt": "2026-08-13T15:29:37.603Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 38,
-      "feelsLike": 38,
+      "feelsLike": 37,
       "code": 0,
-      "wind": 2,
-      "humidity": 17
+      "wind": 3,
+      "humidity": 18
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FAMILLE D'ACCUEIL : UN PÈRE TOMBE FOU AMOUREUX D'ELLE",
+        "title": "FAMILLE D'ACCUEIL : ELLE A EU LE PLUS JEUNE FUGUEUR DE FRANCE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "oNCF_uVLptM",
-        "thumbnail": "https://i.ytimg.com/vi/oNCF_uVLptM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oNCF_uVLptM",
-        "publishedAt": "2026-08-13T14:00:03+00:00"
+        "videoId": "h1leVy7raCU",
+        "thumbnail": "https://i.ytimg.com/vi/h1leVy7raCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h1leVy7raCU",
+        "publishedAt": "2026-08-13T15:00:38+00:00"
       },
       {
         "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
@@ -178,39 +178,39 @@
         "titleOriginal": "DeepSeek Harness",
         "url": "https://github.com/deepseek-ai/deepseek-harness",
         "source": "github.com",
-        "score": 115,
-        "comments": 46,
+        "score": 253,
+        "comments": 108,
         "hnUrl": "https://news.ycombinator.com/item?id=49285244",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Choisir un modèle d'IA : une invite, 11 modèles, différents résultats",
-        "titleOriginal": "Choosing an AI model: one prompt, 11 models, different results",
-        "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-        "source": "netlify.com",
-        "score": 63,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=49285327",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Afficher HN : MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-        "titleOriginal": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
-        "url": "https://github.com/fellowgeek/mcp-memory",
+        "title": "DRAM spaghettifiante",
+        "titleOriginal": "Spaghettifying DRAM",
+        "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
         "source": "github.com",
-        "score": 6,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49286073",
-        "date": "il y a 23 min"
+        "score": 103,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49286341",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Mes règles d'utilisation des feuilles de calcul",
-        "titleOriginal": "My Rules for Using Spreadsheets",
-        "url": "https://leancrew.com/all-this/2026/08/my-rules-for-using-spreadsheets/",
-        "source": "leancrew.com",
-        "score": 20,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49285268",
+        "title": "Gloomberb",
+        "titleOriginal": "Gloomberb",
+        "url": "https://gloom.sh/",
+        "source": "gloom.sh",
+        "score": 110,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=49285982",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Heart Aerospace termine le premier vol du plus grand avion électrique",
+        "titleOriginal": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+        "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+        "source": "heartaerospace.com",
+        "score": 46,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49286270",
         "date": "il y a 1 h"
       }
     ]
