@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-14T21:47:51.166Z",
+  "updatedAt": "2026-08-14T22:16:16.643Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 29,
-      "code": 2,
+      "feelsLike": 28,
+      "code": 1,
       "wind": 3,
-      "humidity": 28
+      "humidity": 30
     },
     "forecast": [
-      {
-        "date": "2026-08-14",
-        "code": 3,
-        "tmax": 38,
-        "tmin": 21
-      },
       {
         "date": "2026-08-15",
         "code": 80,
@@ -31,8 +25,14 @@
       {
         "date": "2026-08-17",
         "code": 3,
-        "tmax": 27,
-        "tmin": 16
+        "tmax": 26,
+        "tmin": 18
+      },
+      {
+        "date": "2026-08-18",
+        "code": 3,
+        "tmax": 30,
+        "tmin": 17
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 178,
+        "viewers": 170,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 724,
-        "comments": 460,
+        "score": 744,
+        "comments": 480,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Une étude établit un lien entre la consommation de café et la santé métabolique et les hormones sexuelles",
-        "titleOriginal": "Study links coffee consumption to metabolic health and sex hormones",
-        "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
-        "source": "oulu.fi",
-        "score": 27,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49304368",
+        "title": "Tout est sur le point de « s'assombrir »",
+        "titleOriginal": "Everything is about to \"go dark\"",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "source": "blog.cryptographyengineering.com",
+        "score": 67,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49304447",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Sept livres que je garde près de moi parce que je les aime",
-        "titleOriginal": "Seven books I keep close because I love them",
-        "url": "https://blog.plover.com/2026/08/02/",
-        "source": "blog.plover.com",
-        "score": 267,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=49299675",
-        "date": "il y a 6 h"
       },
       {
         "title": "RustDesk prend désormais en charge un véritable accès à distance sans surveillance sur Wayland",
         "titleOriginal": "RustDesk now supports true unattended remote access on Wayland",
         "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "rustdesk.com",
-        "score": 172,
-        "comments": 80,
+        "score": 179,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49300759",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Pourquoi l'Opus 5 est-il moins agréable à travailler ?",
+        "titleOriginal": "Why does Opus 5 feel worse to work with?",
+        "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+        "source": "mun-logadan.github.io",
+        "score": 681,
+        "comments": 629,
+        "hnUrl": "https://news.ycombinator.com/item?id=49296740",
+        "date": "il y a 12 h"
       }
     ]
   },
