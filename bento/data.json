@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-14T21:19:16.754Z",
+  "updatedAt": "2026-08-14T21:47:51.166Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
+      "temp": 29,
       "feelsLike": 29,
       "code": 2,
-      "wind": 4,
+      "wind": 3,
       "humidity": 28
     },
     "forecast": [
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 183,
+        "viewers": 178,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,38 +186,38 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 686,
-        "comments": 444,
+        "score": 724,
+        "comments": 460,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
         "date": "il y a 6 h"
+      },
+      {
+        "title": "Une étude établit un lien entre la consommation de café et la santé métabolique et les hormones sexuelles",
+        "titleOriginal": "Study links coffee consumption to metabolic health and sex hormones",
+        "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+        "source": "oulu.fi",
+        "score": 27,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49304368",
+        "date": "il y a 1 h"
       },
       {
         "title": "Sept livres que je garde près de moi parce que je les aime",
         "titleOriginal": "Seven books I keep close because I love them",
         "url": "https://blog.plover.com/2026/08/02/",
         "source": "blog.plover.com",
-        "score": 250,
-        "comments": 107,
+        "score": 267,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=49299675",
         "date": "il y a 6 h"
-      },
-      {
-        "title": "Risque anthropique août 2026 [pdf]",
-        "titleOriginal": "Anthropic Risk August 2026 [pdf]",
-        "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
-        "source": "www-cdn.anthropic.com",
-        "score": 39,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49303540",
-        "date": "il y a 1 h"
       },
       {
         "title": "RustDesk prend désormais en charge un véritable accès à distance sans surveillance sur Wayland",
         "titleOriginal": "RustDesk now supports true unattended remote access on Wayland",
         "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "rustdesk.com",
-        "score": 161,
-        "comments": 75,
+        "score": 172,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=49300759",
         "date": "il y a 5 h"
       }
