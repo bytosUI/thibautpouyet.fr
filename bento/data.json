@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T17:25:47.703Z",
+  "updatedAt": "2026-08-14T18:23:19.338Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
+      "temp": 36,
       "feelsLike": 34,
       "code": 2,
-      "wind": 10,
-      "humidity": 14
+      "wind": 7,
+      "humidity": 15
     },
     "forecast": [
       {
@@ -178,39 +178,39 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 228,
-        "comments": 183,
+        "score": 376,
+        "comments": 280,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Le comte Binface reçoit plus d'un quart des voix à l'élection partielle de Clacton",
+        "titleOriginal": "Count Binface receives over a quarter of votes in Clacton by-election",
+        "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
+        "source": "bbc.com",
+        "score": 131,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49301260",
+        "date": "il y a 1 h"
       },
       {
         "title": "Sept livres que je garde près de moi parce que je les aime",
         "titleOriginal": "Seven books I keep close because I love them",
         "url": "https://blog.plover.com/2026/08/02/",
         "source": "blog.plover.com",
-        "score": 122,
-        "comments": 42,
+        "score": 165,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=49299675",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "RustDesk prend désormais en charge un véritable accès à distance sans surveillance sur Wayland",
         "titleOriginal": "RustDesk now supports true unattended remote access on Wayland",
         "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "rustdesk.com",
-        "score": 45,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49300759",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Présentation de Toast 1",
-        "titleOriginal": "Introducing Toast 1",
-        "url": "https://www.mixedbread.com/blog/toast-1",
-        "source": "mixedbread.com",
         "score": 84,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=49299746",
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49300759",
         "date": "il y a 2 h"
       }
     ]
