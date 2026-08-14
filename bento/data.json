@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T19:26:43.281Z",
+  "updatedAt": "2026-08-14T20:02:38.886Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
-      "feelsLike": 32,
-      "code": 3,
-      "wind": 5,
-      "humidity": 17
+      "temp": 32,
+      "feelsLike": 31,
+      "code": 2,
+      "wind": 6,
+      "humidity": 22
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-08-15",
-        "code": 3,
+        "code": 80,
         "tmax": 38,
         "tmin": 23
       },
       {
         "date": "2026-08-16",
-        "code": 61,
-        "tmax": 30,
-        "tmin": 20
+        "code": 95,
+        "tmax": 32,
+        "tmin": 22
       },
       {
         "date": "2026-08-17",
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 59,
+        "viewers": 160,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,28 +186,28 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 525,
-        "comments": 353,
+        "score": 579,
+        "comments": 381,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Le comte Binface reçoit plus d'un quart des voix à l'élection partielle de Clacton",
         "titleOriginal": "Count Binface receives over a quarter of votes in Clacton by-election",
         "url": "https://www.bbc.com/news/articles/ce97mm3vvemo",
         "source": "bbc.com",
-        "score": 288,
-        "comments": 190,
+        "score": 350,
+        "comments": 244,
         "hnUrl": "https://news.ycombinator.com/item?id=49301260",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Sept livres que je garde près de moi parce que je les aime",
         "titleOriginal": "Seven books I keep close because I love them",
         "url": "https://blog.plover.com/2026/08/02/",
         "source": "blog.plover.com",
-        "score": 198,
-        "comments": 89,
+        "score": 213,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=49299675",
         "date": "il y a 4 h"
       },
@@ -216,8 +216,8 @@
         "titleOriginal": "RustDesk now supports true unattended remote access on Wayland",
         "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
         "source": "rustdesk.com",
-        "score": 115,
-        "comments": 49,
+        "score": 132,
+        "comments": 53,
         "hnUrl": "https://news.ycombinator.com/item?id=49300759",
         "date": "il y a 3 h"
       }
