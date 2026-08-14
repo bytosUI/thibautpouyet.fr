@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T11:39:56.174Z",
+  "updatedAt": "2026-08-14T12:52:57.951Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 37,
-      "feelsLike": 35,
+      "temp": 38,
+      "feelsLike": 36,
       "code": 0,
-      "wind": 11,
-      "humidity": 14
+      "wind": 13,
+      "humidity": 16
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "INSPECTEUR DE L'URSSAF, IL A DÛ ÉTOUFFER UNE AFFAIRE AVEC UN HOMME POLITIQUE",
+        "title": "LE MÉTIER LE MIEUX PAYÉ EN 2026 EST...",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "kvBQRbAqX_E",
-        "thumbnail": "https://i.ytimg.com/vi/kvBQRbAqX_E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kvBQRbAqX_E",
-        "publishedAt": "2026-08-14T11:00:31+00:00"
+        "videoId": "H52K4hK-GpU",
+        "thumbnail": "https://i.ytimg.com/vi/H52K4hK-GpU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H52K4hK-GpU",
+        "publishedAt": "2026-08-14T12:00:21+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,40 +178,40 @@
         "titleOriginal": "GLM-5.3: Frontier coding with emergent cyber capabilities",
         "url": "https://z.ai/blog/glm-5.3",
         "source": "z.ai",
-        "score": 573,
-        "comments": 282,
+        "score": 650,
+        "comments": 317,
         "hnUrl": "https://news.ycombinator.com/item?id=49294997",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Pour l'amour de Dieu, arrêtez d'utiliser les limites du processeur dans Kubernetes",
-        "titleOriginal": "For the love of god stop using CPU limits in Kubernetes",
-        "url": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-        "source": "github.com",
-        "score": 35,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49296939",
-        "date": "il y a 58 min"
+        "date": "il y a 7 h"
       },
       {
         "title": "Mise à jour des prix de pointe/hors pointe DeepSeek",
         "titleOriginal": "DeepSeek peak/off-peak pricing update",
         "url": "https://api-docs.deepseek.com/news/news260813/",
         "source": "api-docs.deepseek.com",
-        "score": 48,
-        "comments": 15,
+        "score": 86,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=49296627",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Ne classifiez pas, hallucinez !",
+        "titleOriginal": "Don't classify, hallucinate!",
+        "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+        "source": "softwaredoug.com",
+        "score": 20,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49249523",
+        "date": "il y a 3 j"
       },
       {
         "title": "Flash Gemini 3.7",
         "titleOriginal": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "blog.google",
-        "score": 873,
-        "comments": 445,
+        "score": 892,
+        "comments": 451,
         "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 18 h"
+        "date": "il y a 19 h"
       }
     ]
   },
