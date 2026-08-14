@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T23:15:50.813Z",
+  "updatedAt": "2026-08-14T23:45:18.842Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 27,
-      "feelsLike": 27,
+      "feelsLike": 26,
       "code": 2,
       "wind": 3,
-      "humidity": 35
+      "humidity": 36
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 799,
-        "comments": 521,
+        "score": 823,
+        "comments": 541,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
         "date": "il y a 8 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Going Dark, and the era of law enforcement hacking",
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "source": "blog.cryptographyengineering.com",
-        "score": 117,
-        "comments": 81,
+        "score": 137,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=49304447",
         "date": "il y a 2 h"
       },
@@ -198,18 +198,18 @@
         "titleOriginal": "RISC-V: They should have known better",
         "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
         "source": "dmitry.gr",
-        "score": 18,
-        "comments": 1,
+        "score": 43,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49305492",
-        "date": "il y a 37 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Pourquoi l'Opus 5 est-il moins agréable à travailler ?",
         "titleOriginal": "Why does Opus 5 feel worse to work with?",
         "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
         "source": "mun-logadan.github.io",
-        "score": 727,
-        "comments": 662,
+        "score": 740,
+        "comments": 681,
         "hnUrl": "https://news.ycombinator.com/item?id=49296740",
         "date": "il y a 13 h"
       }
