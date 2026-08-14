@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T14:12:46.201Z",
+  "updatedAt": "2026-08-14T15:13:52.237Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 38,
-      "feelsLike": 36,
-      "code": 0,
-      "wind": 14,
-      "humidity": 16
+      "feelsLike": 37,
+      "code": 1,
+      "wind": 7,
+      "humidity": 17
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Chaque putain de site Web",
+        "titleOriginal": "Every Fucking Website",
+        "url": "https://lxe.github.io/everywebsite/",
+        "source": "lxe.github.io",
+        "score": 129,
+        "comments": 66,
+        "hnUrl": "https://news.ycombinator.com/item?id=49299222",
+        "date": "il y a 42 min"
+      },
+      {
         "title": "GLM-5.3 : Codage frontalier avec cyber-capacités émergentes",
         "titleOriginal": "GLM-5.3: Frontier coding with emergent cyber capabilities",
         "url": "https://z.ai/blog/glm-5.3",
         "source": "z.ai",
-        "score": 746,
-        "comments": 378,
+        "score": 821,
+        "comments": 426,
         "hnUrl": "https://news.ycombinator.com/item?id=49294997",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Mise à jour des prix de pointe/hors pointe DeepSeek",
-        "titleOriginal": "DeepSeek peak/off-peak pricing update",
-        "url": "https://api-docs.deepseek.com/news/news260813/",
-        "source": "api-docs.deepseek.com",
-        "score": 130,
-        "comments": 68,
-        "hnUrl": "https://news.ycombinator.com/item?id=49296627",
-        "date": "il y a 4 h"
+        "title": "En Australie, un boom de la batterie domestique a permis de réduire de moitié les prix de gros de l'électricité",
+        "titleOriginal": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+        "url": "https://e360.yale.edu/digest/australia-home-batteries",
+        "source": "e360.yale.edu",
+        "score": 112,
+        "comments": 66,
+        "hnUrl": "https://news.ycombinator.com/item?id=49298910",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Ne classifiez pas, hallucinez !",
-        "titleOriginal": "Don't classify, hallucinate!",
-        "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-        "source": "softwaredoug.com",
-        "score": 72,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49249523",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Flash Gemini 3.7",
-        "titleOriginal": "Gemini 3.7 Flash",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "source": "blog.google",
-        "score": 913,
-        "comments": 460,
-        "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 20 h"
+        "title": "Quand le génie échoue : l'arrogance intellectuelle des laboratoires d'IA",
+        "titleOriginal": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "source": "weightythoughts.com",
+        "score": 17,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49299282",
+        "date": "il y a 39 min"
       }
     ]
   },
