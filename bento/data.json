@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-13T23:35:11.234Z",
+  "updatedAt": "2026-08-14T01:24:05.145Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 25,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 0,
-      "wind": 3,
-      "humidity": 32
+      "wind": 4,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 136,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Flash Gemini 3.7",
+        "title": "Gemini 3.7 Flash",
         "titleOriginal": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "blog.google",
-        "score": 549,
-        "comments": 315,
+        "score": 610,
+        "comments": 340,
         "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Accélération GPT-5.6 sol ultra-rapide",
+        "title": "Bluesky Protocol Services",
+        "titleOriginal": "Bluesky Protocol Services",
+        "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+        "source": "atproto.com",
+        "score": 50,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49293324",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "titleOriginal": "Accelerating GPT-5.6 Sol Ultrafast",
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "source": "cerebras.ai",
-        "score": 375,
-        "comments": 148,
+        "score": 414,
+        "comments": 172,
         "hnUrl": "https://news.ycombinator.com/item?id=49289844",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "NP-Overrated",
-        "titleOriginal": "NP-Overrated",
-        "url": "https://gruhn.me/blog/2026-08-13/",
-        "source": "gruhn.me",
-        "score": 103,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=49291268",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Comprendre est le nouveau goulot d'étranglement",
-        "titleOriginal": "Understanding is the new bottleneck",
-        "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-        "source": "geoffreylitt.com",
-        "score": 143,
-        "comments": 74,
-        "hnUrl": "https://news.ycombinator.com/item?id=49290299",
-        "date": "il y a 4 h"
+        "title": "How AI text watermarking works",
+        "titleOriginal": "How AI text watermarking works",
+        "url": "https://declaude.org/watermarking/",
+        "source": "declaude.org",
+        "score": 67,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49292932",
+        "date": "il y a 2 h"
       }
     ]
   },
