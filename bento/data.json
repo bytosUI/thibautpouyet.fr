@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T16:13:14.849Z",
+  "updatedAt": "2026-08-14T17:25:47.703Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 38,
-      "feelsLike": 36,
-      "code": 1,
-      "wind": 9,
-      "humidity": 17
+      "temp": 37,
+      "feelsLike": 34,
+      "code": 2,
+      "wind": 10,
+      "humidity": 14
     },
     "forecast": [
       {
@@ -24,9 +24,9 @@
       },
       {
         "date": "2026-08-16",
-        "code": 95,
+        "code": 61,
         "tmax": 30,
-        "tmin": 21
+        "tmin": 20
       },
       {
         "date": "2026-08-17",
@@ -174,33 +174,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Every Fucking Website (2020)",
-        "titleOriginal": "Every Fucking Website (2020)",
-        "url": "https://lxe.github.io/everywebsite/",
-        "source": "lxe.github.io",
-        "score": 405,
-        "comments": 222,
-        "hnUrl": "https://news.ycombinator.com/item?id=49299222",
-        "date": "il y a 1 h"
+        "title": "Qwen 3.8 27B",
+        "titleOriginal": "Qwen 3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "source": "huggingface.co",
+        "score": 228,
+        "comments": 183,
+        "hnUrl": "https://news.ycombinator.com/item?id=49299605",
+        "date": "il y a 2 h"
       },
       {
         "title": "Sept livres que je garde près de moi parce que je les aime",
         "titleOriginal": "Seven books I keep close because I love them",
         "url": "https://blog.plover.com/2026/08/02/",
         "source": "blog.plover.com",
-        "score": 44,
-        "comments": 18,
+        "score": 122,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=49299675",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Quand le génie échoue : l'arrogance intellectuelle des laboratoires d'IA",
-        "titleOriginal": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
-        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
-        "source": "weightythoughts.com",
-        "score": 108,
-        "comments": 85,
-        "hnUrl": "https://news.ycombinator.com/item?id=49299282",
+        "title": "RustDesk prend désormais en charge un véritable accès à distance sans surveillance sur Wayland",
+        "titleOriginal": "RustDesk now supports true unattended remote access on Wayland",
+        "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+        "source": "rustdesk.com",
+        "score": 45,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49300759",
         "date": "il y a 1 h"
       },
       {
@@ -208,10 +208,10 @@
         "titleOriginal": "Introducing Toast 1",
         "url": "https://www.mixedbread.com/blog/toast-1",
         "source": "mixedbread.com",
-        "score": 45,
-        "comments": 12,
+        "score": 84,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=49299746",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
