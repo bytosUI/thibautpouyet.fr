@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-14T06:53:38.318Z",
+  "updatedAt": "2026-08-14T08:10:01.439Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 23,
+      "temp": 27,
+      "feelsLike": 26,
       "code": 0,
       "wind": 4,
-      "humidity": 45
+      "humidity": 38
     },
     "forecast": [
       {
         "date": "2026-08-14",
         "code": 3,
-        "tmax": 38,
+        "tmax": 37,
         "tmin": 21
       },
       {
@@ -37,11 +37,19 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 108,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -50,7 +58,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "CÔ R’CULE PÔ !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "RmxI1gx-zNs",
+        "thumbnail": "https://i.ytimg.com/vi/RmxI1gx-zNs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RmxI1gx-zNs",
+        "publishedAt": "2026-08-13T18:26:37+00:00"
+      },
+      {
+        "title": "FAMILLE D'ACCUEIL : J'AI APPRIS QU'UN HOMME POUVAIT ÊTRE NI ALCOOLIQUE NI VIOLENT\"",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "J-yjko6F8o0",
+        "thumbnail": "https://i.ytimg.com/vi/J-yjko6F8o0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J-yjko6F8o0",
+        "publishedAt": "2026-08-13T16:00:32+00:00"
+      },
+      {
+        "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "h8XqoqlhvRI",
+        "thumbnail": "https://i.ytimg.com/vi/h8XqoqlhvRI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h8XqoqlhvRI",
+        "publishedAt": "2026-08-11T18:00:39+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Je détruis enfin la salle de bain #26",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Nos premières vacances en Corée 🇰🇷 (4 jours à Jeju)",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "ejJwV-dpmDY",
+        "thumbnail": "https://i.ytimg.com/vi/ejJwV-dpmDY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ejJwV-dpmDY",
+        "publishedAt": "2026-08-03T16:00:11+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GLM-5.3 : Codage frontalier avec des cyber-capacités émergentes",
-        "titleOriginal": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
+        "title": "GLM-5.3 : Codage frontalier avec cyber-capacités émergentes",
+        "titleOriginal": "GLM-5.3: Frontier coding with emergent cyber capabilities",
         "url": "https://z.ai/blog/glm-5.3",
         "source": "z.ai",
-        "score": 214,
-        "comments": 73,
+        "score": 332,
+        "comments": 120,
         "hnUrl": "https://news.ycombinator.com/item?id=49294997",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Flash Gemini 3.7",
         "titleOriginal": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "blog.google",
-        "score": 769,
-        "comments": 404,
+        "score": 788,
+        "comments": 423,
         "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "Accélération GPT-5.6 sol ultra-rapide",
         "titleOriginal": "Accelerating GPT-5.6 Sol Ultrafast",
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "source": "cerebras.ai",
-        "score": 542,
-        "comments": 225,
+        "score": 558,
+        "comments": 233,
         "hnUrl": "https://news.ycombinator.com/item?id=49289844",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Bonjour, moi. Cela fait un moment",
         "titleOriginal": "Hello, me. It's been a while",
         "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
         "source": "themech.net",
-        "score": 147,
-        "comments": 59,
+        "score": 178,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=49290166",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       }
     ]
   },
