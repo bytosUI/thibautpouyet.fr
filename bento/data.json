@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-14T05:27:40.185Z",
+  "updatedAt": "2026-08-14T06:53:38.318Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
+      "temp": 23,
+      "feelsLike": 23,
       "code": 0,
-      "wind": 3,
-      "humidity": 51
+      "wind": 4,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -96,40 +96,40 @@
         "titleOriginal": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
         "url": "https://z.ai/blog/glm-5.3",
         "source": "z.ai",
-        "score": 19,
-        "comments": 1,
+        "score": 214,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49294997",
-        "date": "il y a 7 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Flash Gemini 3.7",
         "titleOriginal": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "source": "blog.google",
-        "score": 718,
-        "comments": 393,
+        "score": 769,
+        "comments": 404,
         "hnUrl": "https://news.ycombinator.com/item?id=49289112",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Accélération GPT-5.6 sol ultra-rapide",
         "titleOriginal": "Accelerating GPT-5.6 Sol Ultrafast",
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "source": "cerebras.ai",
-        "score": 508,
-        "comments": 210,
+        "score": 542,
+        "comments": 225,
         "hnUrl": "https://news.ycombinator.com/item?id=49289844",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Bonjour, moi. Cela fait un moment",
         "titleOriginal": "Hello, me. It's been a while",
         "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
         "source": "themech.net",
-        "score": 96,
-        "comments": 48,
+        "score": 147,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=49290166",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
       }
     ]
   },
