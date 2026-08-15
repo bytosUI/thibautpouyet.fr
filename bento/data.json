@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-15T11:14:13.731Z",
+  "updatedAt": "2026-08-15T11:42:48.158Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 31,
       "feelsLike": 31,
       "code": 3,
-      "wind": 9,
+      "wind": 10,
       "humidity": 33
     },
     "forecast": [
@@ -178,18 +178,18 @@
         "titleOriginal": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "conic.al",
-        "score": 188,
-        "comments": 101,
+        "score": 211,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49307592",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Qwen 3.8 27B",
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 1170,
-        "comments": 704,
+        "score": 1182,
+        "comments": 707,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
         "date": "il y a 20 h"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
         "url": "https://uecker.codeberg.page/2026-07-14.html",
         "source": "uecker.codeberg.page",
-        "score": 22,
-        "comments": 1,
+        "score": 27,
+        "comments": 2,
         "hnUrl": "https://news.ycombinator.com/item?id=49308685",
         "date": "il y a 3 h"
       },
       {
-        "title": "La beauté mathématique des courbes hyperbézier",
-        "titleOriginal": "The mathematical beauty of hyperbezier curves",
-        "url": "https://linebender.org/blog/hyperbezier/",
-        "source": "linebender.org",
-        "score": 14,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49237183",
-        "date": "il y a 5 j"
+        "title": "Going Dark, et l'ère du piratage des forces de l'ordre",
+        "titleOriginal": "Going Dark, and the era of law enforcement hacking",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+        "source": "blog.cryptographyengineering.com",
+        "score": 358,
+        "comments": 161,
+        "hnUrl": "https://news.ycombinator.com/item?id=49304447",
+        "date": "il y a 14 h"
       }
     ]
   },
