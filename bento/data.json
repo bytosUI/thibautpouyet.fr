@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T23:14:04.652Z",
+  "updatedAt": "2026-08-15T23:42:32.362Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 26,
       "code": 3,
       "wind": 8,
-      "humidity": 47
+      "humidity": 48
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 164,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,23 +174,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "La graisse abdominale prédit mieux le risque de maladie cardiaque que l'IMC",
-        "titleOriginal": "Abdominal fat predicts heart disease risk better than BMI",
-        "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-        "source": "acc.org",
-        "score": 70,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49314403",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Les ingénieurs feront tout pour éviter d'apprendre de l'histoire",
         "titleOriginal": "Engineers will do anything to avoid learning from history",
         "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
         "source": "horn.gg",
-        "score": 51,
-        "comments": 24,
+        "score": 93,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=49314744",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "La graisse abdominale prédit mieux le risque de maladie cardiaque que l'IMC",
+        "titleOriginal": "Abdominal fat predicts heart disease risk better than BMI",
+        "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "source": "acc.org",
+        "score": 90,
+        "comments": 58,
+        "hnUrl": "https://news.ycombinator.com/item?id=49314403",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Bede Liu, un pionnier du traitement numérique du signal, est décédé",
+        "titleOriginal": "Bede Liu, a digital signal processing pioneer, has died",
+        "url": "https://spectrum.ieee.org/digital-signal-processing",
+        "source": "spectrum.ieee.org",
+        "score": 34,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49314615",
         "date": "il y a 1 h"
       },
       {
@@ -206,20 +208,10 @@
         "titleOriginal": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 312,
-        "comments": 212,
+        "score": 318,
+        "comments": 219,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
         "date": "il y a 7 h"
-      },
-      {
-        "title": "Bede Liu, un pionnier du traitement numérique du signal, est décédé",
-        "titleOriginal": "Bede Liu, a digital signal processing pioneer, has died",
-        "url": "https://spectrum.ieee.org/digital-signal-processing",
-        "source": "spectrum.ieee.org",
-        "score": 24,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49314615",
-        "date": "il y a 1 h"
       }
     ]
   },
