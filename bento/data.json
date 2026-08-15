@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T07:50:17.060Z",
+  "updatedAt": "2026-08-15T08:19:56.579Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
+      "temp": 27,
+      "feelsLike": 27,
       "code": 2,
-      "wind": 11,
-      "humidity": 45
+      "wind": 12,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL A TENTÉ DE FAIRE CONNAÎTRE SON ENTREPRISE EN FAISANT DE LA PUB SUR... P*RNHUB",
+        "title": "IL RACONTE LES CONTRÔLES SURPRISES DE L'URSSAF",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "vsVomHrajrw",
-        "thumbnail": "https://i.ytimg.com/vi/vsVomHrajrw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vsVomHrajrw",
-        "publishedAt": "2026-08-14T13:00:21+00:00"
+        "videoId": "V_53gqCOh5o",
+        "thumbnail": "https://i.ytimg.com/vi/V_53gqCOh5o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V_53gqCOh5o",
+        "publishedAt": "2026-08-15T08:00:06+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,40 +178,40 @@
         "titleOriginal": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "conic.al",
-        "score": 77,
-        "comments": 20,
+        "score": 99,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=49307592",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Qwen 3.8 27B",
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 1090,
-        "comments": 676,
+        "score": 1110,
+        "comments": 686,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 16 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Going Dark, et l'ère du piratage des forces de l'ordre",
         "titleOriginal": "Going Dark, and the era of law enforcement hacking",
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "source": "blog.cryptographyengineering.com",
-        "score": 317,
-        "comments": 143,
+        "score": 324,
+        "comments": 144,
         "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Tremblement de terre de magnitude 7,7 – 68 km au nord-ouest d'Ende, Indonésie",
-        "titleOriginal": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-        "source": "earthquake.usgs.gov",
-        "score": 179,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=49306577",
-        "date": "il y a 6 h"
+        "title": "Un appareil de la taille d'une pièce peut pirater un Boeing 737",
+        "titleOriginal": "Coin-sized device can hack a Boeing 737",
+        "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+        "source": "wired.com",
+        "score": 57,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49282951",
+        "date": "il y a 2 j"
       }
     ]
   },
