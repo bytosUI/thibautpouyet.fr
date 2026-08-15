@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-15T21:43:01.703Z",
+  "updatedAt": "2026-08-15T22:14:57.859Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 27,
-      "feelsLike": 28,
+      "feelsLike": 27,
       "code": 3,
       "wind": 7,
-      "humidity": 46
+      "humidity": 47
     },
     "forecast": [
-      {
-        "date": "2026-08-15",
-        "code": 80,
-        "tmax": 34,
-        "tmin": 22
-      },
       {
         "date": "2026-08-16",
         "code": 80,
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-08-18",
-        "code": 3,
-        "tmax": 28,
-        "tmin": 19
+        "code": 61,
+        "tmax": 27,
+        "tmin": 18
+      },
+      {
+        "date": "2026-08-19",
+        "code": 63,
+        "tmax": 21,
+        "tmin": 17
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 160,
+        "viewers": 168,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -156,7 +156,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 6 sem",
+        "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 272,
-        "comments": 184,
+        "score": 291,
+        "comments": 194,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "L'IA ne surpasse pas les mathématiciens. Il ne se souvient plus d'eux",
-        "titleOriginal": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "source": "davidepiffer.com",
-        "score": 299,
-        "comments": 259,
-        "hnUrl": "https://news.ycombinator.com/item?id=49312845",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Cultiver un état d'esprit où naissent de nouvelles idées (2023)",
         "titleOriginal": "Cultivating a state of mind where new ideas are born (2023)",
         "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
         "source": "henrikkarlsson.xyz",
-        "score": 15,
-        "comments": 3,
+        "score": 32,
+        "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49314235",
-        "date": "il y a 48 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "Le test à domicile pour les tiques infectées pourrait améliorer le diagnostic de la maladie de Lyme",
-        "titleOriginal": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "source": "smithsonianmag.com",
-        "score": 179,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49310682",
-        "date": "il y a 7 h"
+        "title": "Bede Liu, un pionnier du traitement numérique du signal, est décédé",
+        "titleOriginal": "Bede Liu, a digital signal processing pioneer, has died",
+        "url": "https://spectrum.ieee.org/digital-signal-processing",
+        "source": "spectrum.ieee.org",
+        "score": 8,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49314615",
+        "date": "il y a 29 min"
+      },
+      {
+        "title": "La graisse abdominale prédit mieux le risque de maladie cardiaque que l'IMC",
+        "titleOriginal": "Abdominal fat predicts heart disease risk better than BMI",
+        "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+        "source": "acc.org",
+        "score": 15,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49314403",
+        "date": "il y a 1 h"
       }
     ]
   },
