@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-15T10:16:33.183Z",
+  "updatedAt": "2026-08-15T10:46:02.084Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 30,
+      "temp": 31,
+      "feelsLike": 31,
       "code": 3,
-      "wind": 6,
-      "humidity": 38
+      "wind": 9,
+      "humidity": 33
     },
     "forecast": [
       {
         "date": "2026-08-15",
-        "code": 61,
-        "tmax": 34,
+        "code": 3,
+        "tmax": 33,
         "tmin": 22
       },
       {
         "date": "2026-08-16",
         "code": 80,
         "tmax": 31,
-        "tmin": 22
+        "tmin": 23
       },
       {
         "date": "2026-08-17",
@@ -178,40 +178,40 @@
         "titleOriginal": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "conic.al",
-        "score": 155,
-        "comments": 82,
+        "score": 169,
+        "comments": 93,
         "hnUrl": "https://news.ycombinator.com/item?id=49307592",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Qwen 3.8 27B",
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 1147,
-        "comments": 698,
+        "score": 1156,
+        "comments": 700,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
         "date": "il y a 19 h"
       },
       {
-        "title": "Going Dark, et l'ère du piratage des forces de l'ordre",
-        "titleOriginal": "Going Dark, and the era of law enforcement hacking",
-        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "source": "blog.cryptographyengineering.com",
-        "score": 345,
-        "comments": 155,
-        "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-        "date": "il y a 13 h"
+        "title": "Utilisation des fonctions imbriquées de GCC avec des pointeurs larges et sans trampolines II",
+        "titleOriginal": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+        "url": "https://uecker.codeberg.page/2026-07-14.html",
+        "source": "uecker.codeberg.page",
+        "score": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49308685",
+        "date": "il y a 2 h"
       },
       {
-        "title": "En 1962, le programme de missiles de l'Égypte a perdu son scientifique clé sans laisser de trace",
-        "titleOriginal": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
-        "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-        "source": "popularmechanics.com",
-        "score": 38,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49271382",
-        "date": "il y a 2 j"
+        "title": "Show HN : Eigendrum - Dessinez n'importe quelle forme et entendez ce que cela ressemble à un tambour",
+        "titleOriginal": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
+        "url": "https://baselashraf81.github.io/eigendrum/",
+        "source": "baselashraf81.github.io",
+        "score": 16,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49246366",
+        "date": "il y a 4 j"
       }
     ]
   },
