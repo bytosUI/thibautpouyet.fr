@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-15T11:42:48.158Z",
+  "updatedAt": "2026-08-15T12:25:55.370Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
+      "temp": 32,
       "feelsLike": 31,
       "code": 3,
-      "wind": 10,
+      "wind": 11,
       "humidity": 33
     },
     "forecast": [
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FAIRE SES FACTURES SUR WORD OU EXCEL EST ILLÉGAL ?",
+        "title": "QUE RISQUE UN SALARIÉ QUI TRAVAILLE AU BLACK ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "SUC1MSVr7bo",
-        "thumbnail": "https://i.ytimg.com/vi/SUC1MSVr7bo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SUC1MSVr7bo",
-        "publishedAt": "2026-08-15T11:00:26+00:00"
+        "videoId": "XnAz3RuYBjY",
+        "thumbnail": "https://i.ytimg.com/vi/XnAz3RuYBjY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XnAz3RuYBjY",
+        "publishedAt": "2026-08-15T12:00:39+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Recherche automatique avec codex : comment j'ai obtenu un noyau 232x plus rapide",
+        "titleOriginal": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+        "url": "https://sankalp.bearblog.dev/autoresearch/",
+        "source": "sankalp.bearblog.dev",
+        "score": 33,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49309549",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "L'autre Sean Byrne n'existe pas",
         "titleOriginal": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "conic.al",
-        "score": 211,
-        "comments": 102,
+        "score": 238,
+        "comments": 117,
         "hnUrl": "https://news.ycombinator.com/item?id=49307592",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Qwen 3.8 27B",
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 1182,
-        "comments": 707,
+        "score": 1198,
+        "comments": 716,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 20 h"
+        "date": "il y a 21 h"
       },
       {
-        "title": "Utilisation des fonctions imbriquées de GCC avec des pointeurs larges et sans trampolines II",
-        "titleOriginal": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-        "url": "https://uecker.codeberg.page/2026-07-14.html",
-        "source": "uecker.codeberg.page",
-        "score": 27,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49308685",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Going Dark, et l'ère du piratage des forces de l'ordre",
-        "titleOriginal": "Going Dark, and the era of law enforcement hacking",
-        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-        "source": "blog.cryptographyengineering.com",
-        "score": 358,
-        "comments": 161,
-        "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-        "date": "il y a 14 h"
+        "title": "La beauté mathématique des courbes hyperbézier",
+        "titleOriginal": "The mathematical beauty of hyperbezier curves",
+        "url": "https://linebender.org/blog/hyperbezier/",
+        "source": "linebender.org",
+        "score": 34,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49237183",
+        "date": "il y a 5 j"
       }
     ]
   },
