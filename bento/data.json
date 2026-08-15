@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:46:02.084Z",
+  "updatedAt": "2026-08-15T11:14:13.731Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "INSPECTEUR À L'URSSAF : LORS D'UN CONTRÔLE, IL DÉCOUVRE 30 OUVRIERS CLANDESTINS ENTASSÉS",
+        "title": "FAIRE SES FACTURES SUR WORD OU EXCEL EST ILLÉGAL ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "2C4xRDdeFDc",
-        "thumbnail": "https://i.ytimg.com/vi/2C4xRDdeFDc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2C4xRDdeFDc",
-        "publishedAt": "2026-08-15T10:00:06+00:00"
+        "videoId": "SUC1MSVr7bo",
+        "thumbnail": "https://i.ytimg.com/vi/SUC1MSVr7bo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SUC1MSVr7bo",
+        "publishedAt": "2026-08-15T11:00:26+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,8 +178,8 @@
         "titleOriginal": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "conic.al",
-        "score": 169,
-        "comments": 93,
+        "score": 188,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=49307592",
         "date": "il y a 6 h"
       },
@@ -188,30 +188,30 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 1156,
-        "comments": 700,
+        "score": 1170,
+        "comments": 704,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 19 h"
+        "date": "il y a 20 h"
       },
       {
         "title": "Utilisation des fonctions imbriquées de GCC avec des pointeurs larges et sans trampolines II",
         "titleOriginal": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
         "url": "https://uecker.codeberg.page/2026-07-14.html",
         "source": "uecker.codeberg.page",
-        "score": 12,
-        "comments": 0,
+        "score": 22,
+        "comments": 1,
         "hnUrl": "https://news.ycombinator.com/item?id=49308685",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Show HN : Eigendrum - Dessinez n'importe quelle forme et entendez ce que cela ressemble à un tambour",
-        "titleOriginal": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
-        "url": "https://baselashraf81.github.io/eigendrum/",
-        "source": "baselashraf81.github.io",
-        "score": 16,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49246366",
-        "date": "il y a 4 j"
+        "title": "La beauté mathématique des courbes hyperbézier",
+        "titleOriginal": "The mathematical beauty of hyperbezier curves",
+        "url": "https://linebender.org/blog/hyperbezier/",
+        "source": "linebender.org",
+        "score": 14,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49237183",
+        "date": "il y a 5 j"
       }
     ]
   },
