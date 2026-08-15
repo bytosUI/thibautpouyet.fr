@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-15T04:02:04.299Z",
+  "updatedAt": "2026-08-15T04:54:58.997Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 23,
       "feelsLike": 22,
-      "code": 3,
+      "code": 2,
       "wind": 11,
-      "humidity": 42
+      "humidity": 50
     },
     "forecast": [
       {
         "date": "2026-08-15",
         "code": 3,
-        "tmax": 36,
-        "tmin": 23
+        "tmax": 35,
+        "tmin": 22
       },
       {
         "date": "2026-08-16",
-        "code": 3,
-        "tmax": 32,
+        "code": 95,
+        "tmax": 30,
         "tmin": 22
       },
       {
@@ -50,26 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "CÔ R’CULE PÔ !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "RmxI1gx-zNs",
-        "thumbnail": "https://i.ytimg.com/vi/RmxI1gx-zNs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RmxI1gx-zNs",
-        "publishedAt": "2026-08-13T18:26:37+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -115,18 +96,18 @@
         "titleOriginal": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
         "source": "earthquake.usgs.gov",
-        "score": 124,
-        "comments": 22,
+        "score": 142,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49306577",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Qwen 3.8 27B",
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 970,
-        "comments": 623,
+        "score": 992,
+        "comments": 641,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
         "date": "il y a 13 h"
       },
@@ -135,18 +116,18 @@
         "titleOriginal": "Going Dark, and the era of law enforcement hacking",
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "source": "blog.cryptographyengineering.com",
-        "score": 245,
-        "comments": 128,
+        "score": 259,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Le trackball Ploopy A+ est là",
         "titleOriginal": "The Ploopy A+ Trackball Is Here",
         "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
         "source": "blog.ploopy.co",
-        "score": 52,
-        "comments": 30,
+        "score": 63,
+        "comments": 31,
         "hnUrl": "https://news.ycombinator.com/item?id=49306443",
         "date": "il y a 3 h"
       }
