@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T15:14:17.330Z",
+  "updatedAt": "2026-08-15T15:43:14.457Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 34,
       "feelsLike": 33,
       "code": 3,
-      "wind": 13,
-      "humidity": 30
+      "wind": 14,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Auto-research with codex: How I achieved a 232x Faster Kernel",
         "url": "https://sankalp.bearblog.dev/autoresearch/",
         "source": "sankalp.bearblog.dev",
-        "score": 170,
-        "comments": 50,
+        "score": 190,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=49309549",
         "date": "il y a 4 h"
+      },
+      {
+        "title": "Le premier test à domicile pour les tiques infectées pourrait améliorer le diagnostic de la maladie de Lyme",
+        "titleOriginal": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "source": "smithsonianmag.com",
+        "score": 20,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49310682",
+        "date": "il y a 1 h"
       },
       {
         "title": "Writergate : Révision de l'interface E/S Zig",
         "titleOriginal": "Writergate: Zig I/O Interface Overhaul",
         "url": "https://alexrios.me/blog/writergate/",
         "source": "alexrios.me",
-        "score": 21,
-        "comments": 4,
+        "score": 30,
+        "comments": 9,
         "hnUrl": "https://news.ycombinator.com/item?id=49310623",
         "date": "il y a 1 h"
       },
       {
-        "title": "GenRec : Vers une recommandation LLM-Native chez Netflix",
-        "titleOriginal": "GenRec: Towards LLM-Native Recommendation at Netflix",
-        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-        "source": "netflixtechblog.com",
-        "score": 27,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49310177",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Travailler avec l'IA ressemble plus à du leadership qu'à du codage",
-        "titleOriginal": "Working with AI Feels More Like Leadership Than Coding",
-        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "source": "allen.bargi.org",
-        "score": 66,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=49309451",
-        "date": "il y a 4 h"
+        "title": "L'autre Sean Byrne n'existe pas",
+        "titleOriginal": "The other Sean Byrne doesn't exist",
+        "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+        "source": "conic.al",
+        "score": 297,
+        "comments": 144,
+        "hnUrl": "https://news.ycombinator.com/item?id=49307592",
+        "date": "il y a 11 h"
       }
     ]
   },
