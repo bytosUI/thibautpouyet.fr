@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T19:43:19.864Z",
+  "updatedAt": "2026-08-15T20:15:16.754Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
+      "temp": 29,
       "feelsLike": 30,
       "code": 3,
-      "wind": 10,
-      "humidity": 37
+      "wind": 7,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 85,
+        "viewers": 113,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'IA ne surpasse pas les mathématiciens. Il ne se souvient plus d'eux",
-        "titleOriginal": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "source": "davidepiffer.com",
-        "score": 170,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=49312845",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Le sémaglutide est lié à un risque de démence prédit à 5 ans inférieur de 26 %",
         "titleOriginal": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 194,
-        "comments": 129,
+        "score": 216,
+        "comments": 144,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Le premier test à domicile pour les tiques infectées pourrait améliorer le diagnostic de la maladie de Lyme",
-        "titleOriginal": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
-        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "source": "smithsonianmag.com",
-        "score": 149,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=49310682",
-        "date": "il y a 5 h"
+        "title": "L'IA ne surpasse pas les mathématiciens. Il ne se souvient plus d'eux",
+        "titleOriginal": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "source": "davidepiffer.com",
+        "score": 213,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=49312845",
+        "date": "il y a 2 h"
       },
       {
         "title": "Alors, comment se porte l'AI Drug Discovery, vraiment ?",
         "titleOriginal": "So How Is AI Drug Discovery Doing, Really?",
         "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
         "source": "science.org",
-        "score": 12,
-        "comments": 5,
+        "score": 28,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49313367",
-        "date": "il y a 30 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le premier test à domicile pour les tiques infectées pourrait améliorer le diagnostic de la maladie de Lyme",
+        "titleOriginal": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+        "source": "smithsonianmag.com",
+        "score": 156,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49310682",
+        "date": "il y a 6 h"
       }
     ]
   },
