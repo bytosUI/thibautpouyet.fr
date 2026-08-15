@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-15T09:47:59.895Z",
+  "updatedAt": "2026-08-15T10:16:33.183Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 29,
+      "feelsLike": 30,
       "code": 3,
       "wind": 6,
       "humidity": 38
@@ -26,13 +26,13 @@
         "date": "2026-08-17",
         "code": 3,
         "tmax": 26,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-08-18",
-        "code": 3,
-        "tmax": 30,
-        "tmin": 16
+        "code": 61,
+        "tmax": 29,
+        "tmin": 17
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "QUELLES SONT LES MEILLEURES TECHNIQUES POUR SURVIVRE EN PLEINE NATURE ?",
+        "title": "INSPECTEUR À L'URSSAF : LORS D'UN CONTRÔLE, IL DÉCOUVRE 30 OUVRIERS CLANDESTINS ENTASSÉS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "aaTJ0TefCFk",
-        "thumbnail": "https://i.ytimg.com/vi/aaTJ0TefCFk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aaTJ0TefCFk",
-        "publishedAt": "2026-08-15T09:00:12+00:00"
+        "videoId": "2C4xRDdeFDc",
+        "thumbnail": "https://i.ytimg.com/vi/2C4xRDdeFDc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2C4xRDdeFDc",
+        "publishedAt": "2026-08-15T10:00:06+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,8 +178,8 @@
         "titleOriginal": "The other Sean Byrne doesn't exist",
         "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
         "source": "conic.al",
-        "score": 142,
-        "comments": 71,
+        "score": 155,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=49307592",
         "date": "il y a 5 h"
       },
@@ -188,28 +188,28 @@
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 1139,
-        "comments": 695,
+        "score": 1147,
+        "comments": 698,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 18 h"
+        "date": "il y a 19 h"
       },
       {
         "title": "Going Dark, et l'ère du piratage des forces de l'ordre",
         "titleOriginal": "Going Dark, and the era of law enforcement hacking",
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "source": "blog.cryptographyengineering.com",
-        "score": 340,
-        "comments": 149,
+        "score": 345,
+        "comments": 155,
         "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "En 1962, le programme de missiles de l'Égypte a perdu son scientifique clé sans laisser de trace",
         "titleOriginal": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
         "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
         "source": "popularmechanics.com",
-        "score": 36,
-        "comments": 8,
+        "score": 38,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49271382",
         "date": "il y a 2 j"
       }
