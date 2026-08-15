@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:16:04.470Z",
+  "updatedAt": "2026-08-15T14:46:08.635Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 34,
       "code": 3,
       "wind": 13,
-      "humidity": 31
+      "humidity": 30
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Auto-research with codex: How I achieved a 232x Faster Kernel",
         "url": "https://sankalp.bearblog.dev/autoresearch/",
         "source": "sankalp.bearblog.dev",
-        "score": 120,
-        "comments": 38,
+        "score": 153,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=49309549",
         "date": "il y a 3 h"
       },
       {
-        "title": "Suivi en direct de la circulation dans le détroit d'Ormuz",
-        "titleOriginal": "Strait of Hormuz Live Traffic Tracking",
-        "url": "https://hormuz.now/",
-        "source": "hormuz.now",
-        "score": 21,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49310170",
-        "date": "il y a 1 h"
+        "title": "Travailler avec l'IA ressemble plus à du leadership qu'à du codage",
+        "titleOriginal": "Working with AI Feels More Like Leadership Than Coding",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "source": "allen.bargi.org",
+        "score": 55,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49309451",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Writergate : Révision de l'interface E/S Zig",
+        "titleOriginal": "Writergate: Zig I/O Interface Overhaul",
+        "url": "https://alexrios.me/blog/writergate/",
+        "source": "alexrios.me",
+        "score": 7,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49310623",
+        "date": "il y a 46 min"
       },
       {
         "title": "GenRec : Vers une recommandation LLM-Native chez Netflix",
         "titleOriginal": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
         "source": "netflixtechblog.com",
-        "score": 16,
-        "comments": 13,
+        "score": 23,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49310177",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "L'autre Sean Byrne n'existe pas",
-        "titleOriginal": "The other Sean Byrne doesn't exist",
-        "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-        "source": "conic.al",
-        "score": 269,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=49307592",
-        "date": "il y a 9 h"
       }
     ]
   },
