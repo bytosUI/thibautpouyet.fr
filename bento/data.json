@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T16:48:14.583Z",
+  "updatedAt": "2026-08-15T17:15:16.130Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 34,
+      "temp": 33,
       "feelsLike": 32,
-      "code": 1,
-      "wind": 10,
-      "humidity": 25
+      "code": 3,
+      "wind": 11,
+      "humidity": 27
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
         "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
         "source": "smithsonianmag.com",
-        "score": 70,
-        "comments": 24,
+        "score": 86,
+        "comments": 33,
         "hnUrl": "https://news.ycombinator.com/item?id=49310682",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Le prix d'un hot-dog Costco a augmenté",
-        "titleOriginal": "The price of a Costco hot dog has gone up",
-        "url": "https://sina.bio/posts/costco-hotdog.html",
-        "source": "sina.bio",
-        "score": 25,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49311685",
-        "date": "il y a 46 min"
+        "title": "Le sémaglutide est lié à un risque de démence prédit à 5 ans inférieur de 26 %",
+        "titleOriginal": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+        "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+        "source": "alz-journals.onlinelibrary.wiley.com",
+        "score": 22,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49311651",
+        "date": "il y a 1 h"
       },
       {
         "title": "Recherche automatique avec codex : comment j'ai obtenu un noyau 232x plus rapide",
         "titleOriginal": "Auto-research with codex: How I achieved a 232x Faster Kernel",
         "url": "https://sankalp.bearblog.dev/autoresearch/",
         "source": "sankalp.bearblog.dev",
-        "score": 230,
-        "comments": 65,
+        "score": 246,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=49309549",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "L'IA peut maintenant concevoir des virus fonctionnels. Devrions-nous nous inquiéter ?",
-        "titleOriginal": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "url": "https://spectrum.ieee.org/ai-designed-virus",
-        "source": "spectrum.ieee.org",
-        "score": 42,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=49311445",
-        "date": "il y a 1 h"
+        "title": "RISC-V : Ils auraient dû mieux savoir",
+        "titleOriginal": "RISC-V: They Should Have Known Better",
+        "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+        "source": "dmitry.gr",
+        "score": 45,
+        "comments": 203,
+        "hnUrl": "https://news.ycombinator.com/item?id=49298035",
+        "date": "hier"
       }
     ]
   },
