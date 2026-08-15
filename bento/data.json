@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-15T19:17:35.521Z",
+  "updatedAt": "2026-08-15T19:43:19.864Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 30,
       "feelsLike": 30,
       "code": 3,
-      "wind": 11,
+      "wind": 10,
       "humidity": 37
     },
     "forecast": [
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 39,
+        "viewers": 85,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,8 +186,8 @@
         "titleOriginal": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
         "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
         "source": "davidepiffer.com",
-        "score": 119,
-        "comments": 82,
+        "score": 170,
+        "comments": 132,
         "hnUrl": "https://news.ycombinator.com/item?id=49312845",
         "date": "il y a 1 h"
       },
@@ -196,8 +196,8 @@
         "titleOriginal": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 183,
-        "comments": 110,
+        "score": 194,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
         "date": "il y a 3 h"
       },
@@ -206,20 +206,20 @@
         "titleOriginal": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
         "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
         "source": "smithsonianmag.com",
-        "score": 141,
+        "score": 149,
         "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49310682",
         "date": "il y a 5 h"
       },
       {
-        "title": "RISC-V : Ils auraient dû mieux savoir",
-        "titleOriginal": "RISC-V: They Should Have Known Better",
-        "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-        "source": "dmitry.gr",
-        "score": 115,
-        "comments": 245,
-        "hnUrl": "https://news.ycombinator.com/item?id=49298035",
-        "date": "hier"
+        "title": "Alors, comment se porte l'AI Drug Discovery, vraiment ?",
+        "titleOriginal": "So How Is AI Drug Discovery Doing, Really?",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "source": "science.org",
+        "score": 12,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49313367",
+        "date": "il y a 30 min"
       }
     ]
   },
