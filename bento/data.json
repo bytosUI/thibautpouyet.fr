@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-15T14:46:08.635Z",
+  "updatedAt": "2026-08-15T15:14:17.330Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 34,
-      "feelsLike": 34,
+      "feelsLike": 33,
       "code": 3,
       "wind": 13,
       "humidity": 30
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ELLE LE QUITTE POUR SON AMANT ET PART AVEC LES COTISATIONS URSSAF",
+        "title": "IL ENVOIE UNE CAPTURE D'ÉCRAN D'UN FILM X SANS FAIRE EXPRÈS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "D0axZRzor0s",
-        "thumbnail": "https://i.ytimg.com/vi/D0axZRzor0s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D0axZRzor0s",
-        "publishedAt": "2026-08-15T14:00:05+00:00"
+        "videoId": "1mVDs0ETG_s",
+        "thumbnail": "https://i.ytimg.com/vi/1mVDs0ETG_s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1mVDs0ETG_s",
+        "publishedAt": "2026-08-15T15:00:32+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,19 +178,9 @@
         "titleOriginal": "Auto-research with codex: How I achieved a 232x Faster Kernel",
         "url": "https://sankalp.bearblog.dev/autoresearch/",
         "source": "sankalp.bearblog.dev",
-        "score": 153,
-        "comments": 46,
+        "score": 170,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=49309549",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Travailler avec l'IA ressemble plus à du leadership qu'à du codage",
-        "titleOriginal": "Working with AI Feels More Like Leadership Than Coding",
-        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "source": "allen.bargi.org",
-        "score": 55,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49309451",
         "date": "il y a 4 h"
       },
       {
@@ -198,20 +188,30 @@
         "titleOriginal": "Writergate: Zig I/O Interface Overhaul",
         "url": "https://alexrios.me/blog/writergate/",
         "source": "alexrios.me",
-        "score": 7,
-        "comments": 0,
+        "score": 21,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=49310623",
-        "date": "il y a 46 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "GenRec : Vers une recommandation LLM-Native chez Netflix",
         "titleOriginal": "GenRec: Towards LLM-Native Recommendation at Netflix",
         "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
         "source": "netflixtechblog.com",
-        "score": 23,
-        "comments": 27,
+        "score": 27,
+        "comments": 33,
         "hnUrl": "https://news.ycombinator.com/item?id=49310177",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Travailler avec l'IA ressemble plus à du leadership qu'à du codage",
+        "titleOriginal": "Working with AI Feels More Like Leadership Than Coding",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+        "source": "allen.bargi.org",
+        "score": 66,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49309451",
+        "date": "il y a 4 h"
       }
     ]
   },
