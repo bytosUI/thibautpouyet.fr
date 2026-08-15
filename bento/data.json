@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-15T02:10:41.436Z",
+  "updatedAt": "2026-08-15T03:11:49.288Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 23,
-      "code": 2,
+      "code": 3,
       "wind": 3,
-      "humidity": 49
+      "humidity": 50
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
         "source": "earthquake.usgs.gov",
-        "score": 40,
-        "comments": 2,
+        "score": 86,
+        "comments": 16,
         "hnUrl": "https://news.ycombinator.com/item?id=49306577",
-        "date": "il y a 56 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Qwen 3.8 27B",
         "titleOriginal": "Qwen 3.8 27B",
         "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
         "source": "huggingface.co",
-        "score": 914,
-        "comments": 597,
+        "score": 946,
+        "comments": 616,
         "hnUrl": "https://news.ycombinator.com/item?id=49299605",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Going Dark, et l'ère du piratage des forces de l'ordre",
         "titleOriginal": "Going Dark, and the era of law enforcement hacking",
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
         "source": "blog.cryptographyengineering.com",
-        "score": 211,
-        "comments": 122,
+        "score": 234,
+        "comments": 126,
         "hnUrl": "https://news.ycombinator.com/item?id=49304447",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Le trackball Ploopy A+ est là",
         "titleOriginal": "The Ploopy A+ Trackball Is Here",
         "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
         "source": "blog.ploopy.co",
-        "score": 20,
-        "comments": 9,
+        "score": 36,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=49306443",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
