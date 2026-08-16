@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-16T16:48:31.343Z",
+  "updatedAt": "2026-08-16T17:14:23.112Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 29,
+      "temp": 30,
+      "feelsLike": 28,
       "code": 2,
       "wind": 20,
       "humidity": 34
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude : Invites système",
+        "title": "Claude: System Prompts",
         "titleOriginal": "Claude: System Prompts",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "source": "platform.claude.com",
-        "score": 255,
-        "comments": 129,
+        "score": 289,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=49319556",
         "date": "il y a 4 h"
       },
       {
-        "title": "L'économie de la revente de crédits d'IA",
+        "title": "The AI Credit Resale Economy",
         "titleOriginal": "The AI Credit Resale Economy",
         "url": "https://vectoral.com/blog/who-are-the-token-brokers",
         "source": "vectoral.com",
-        "score": 85,
-        "comments": 26,
+        "score": 100,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=49320611",
         "date": "il y a 2 h"
       },
       {
-        "title": "Unité 1 du réacteur nucléaire de St Lucie à l'arrêt manuel, 3 barres de contrôle tombent dans le cœur",
+        "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
         "titleOriginal": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
         "url": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
         "source": "wptv.com",
-        "score": 46,
-        "comments": 16,
+        "score": 57,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49320856",
         "date": "il y a 1 h"
       },
       {
-        "title": "Firefox pour iOS dispose désormais d'un bloqueur de publicités natif",
-        "titleOriginal": "Firefox for iOS now has a native adblocker",
-        "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
-        "source": "support.mozilla.org",
-        "score": 233,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=49319633",
-        "date": "il y a 3 h"
+        "title": "Anton Chekhov played at love most of his life",
+        "titleOriginal": "Anton Chekhov played at love most of his life",
+        "url": "https://commonreader.wustl.edu/winning-and-losing-at-the-great-game-of-intimacy/",
+        "source": "commonreader.wustl.edu",
+        "score": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49306021",
+        "date": "hier"
       }
     ]
   },
