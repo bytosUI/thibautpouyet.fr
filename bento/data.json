@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-16T04:06:53.903Z",
+  "updatedAt": "2026-08-16T04:58:42.494Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 24,
-      "code": 80,
-      "wind": 5,
-      "humidity": 64
+      "temp": 22,
+      "feelsLike": 23,
+      "code": 3,
+      "wind": 6,
+      "humidity": 71
     },
     "forecast": [
       {
         "date": "2026-08-16",
-        "code": 80,
+        "code": 3,
         "tmax": 32,
         "tmin": 22
       },
       {
         "date": "2026-08-17",
-        "code": 61,
-        "tmax": 28,
-        "tmin": 20
+        "code": 3,
+        "tmax": 29,
+        "tmin": 21
       },
       {
         "date": "2026-08-18",
@@ -178,18 +178,28 @@
         "titleOriginal": "Asus Bike Booster",
         "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
         "source": "asus.com",
-        "score": 176,
-        "comments": 89,
+        "score": 216,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=49268580",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "Les pages d'accueil personnelles excentriques des créateurs de langages de programmation",
+        "titleOriginal": "The quirky personal homepages of programming language creators",
+        "url": "https://breck.lol/plMakers.html",
+        "source": "breck.lol",
+        "score": 12,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49316888",
+        "date": "il y a 34 min"
       },
       {
         "title": "E/S asynchrones dans DuckDB : Travail, Thread, Travail",
         "titleOriginal": "Asynchronous I/O in DuckDB: Work, Thread, Work",
         "url": "https://duckdb.org/2026/07/31/asynchronous-io",
         "source": "duckdb.org",
-        "score": 57,
-        "comments": 3,
+        "score": 79,
+        "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49243061",
         "date": "il y a 5 j"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 376,
-        "comments": 266,
+        "score": 386,
+        "comments": 269,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
         "date": "il y a 12 h"
-      },
-      {
-        "title": "Show HN : Mic Drop, un jeu de karaoké multijoueur en temps réel",
-        "titleOriginal": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-        "url": "https://www.micdrop.gg/",
-        "source": "micdrop.gg",
-        "score": 28,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49315742",
-        "date": "il y a 3 h"
       }
     ]
   },
