@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T03:26:15.550Z",
+  "updatedAt": "2026-08-16T04:06:53.903Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 24,
       "code": 80,
-      "wind": 6,
-      "humidity": 61
+      "wind": 5,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-08-18",
         "code": 61,
-        "tmax": 27,
+        "tmax": 26,
         "tmin": 18
       },
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "Asus Bike Booster",
         "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
         "source": "asus.com",
-        "score": 143,
-        "comments": 71,
+        "score": 176,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=49268580",
         "date": "il y a 3 j"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Asynchronous I/O in DuckDB: Work, Thread, Work",
         "url": "https://duckdb.org/2026/07/31/asynchronous-io",
         "source": "duckdb.org",
-        "score": 43,
-        "comments": 2,
+        "score": 57,
+        "comments": 3,
         "hnUrl": "https://news.ycombinator.com/item?id=49243061",
         "date": "il y a 5 j"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 366,
-        "comments": 256,
+        "score": 376,
+        "comments": 266,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Show HN : Mic Drop, un jeu de karaoké multijoueur en temps réel",
         "titleOriginal": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
         "url": "https://www.micdrop.gg/",
         "source": "micdrop.gg",
-        "score": 23,
-        "comments": 12,
+        "score": 28,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49315742",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
