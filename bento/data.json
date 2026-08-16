@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T00:57:38.127Z",
+  "updatedAt": "2026-08-16T02:20:41.678Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
+      "temp": 24,
+      "feelsLike": 24,
       "code": 3,
       "wind": 7,
-      "humidity": 52
+      "humidity": 55
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-17",
-        "code": 3,
+        "code": 61,
         "tmax": 28,
         "tmin": 20
       },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Asus Bike Booster",
+        "titleOriginal": "Asus Bike Booster",
+        "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+        "source": "asus.com",
+        "score": 90,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49268580",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "E/S asynchrones dans DuckDB : Travail, Thread, Travail",
+        "titleOriginal": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+        "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+        "source": "duckdb.org",
+        "score": 17,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49243061",
+        "date": "il y a 5 j"
+      },
+      {
         "title": "Sémaglutide lié à un risque de démence prédit plus faible",
         "titleOriginal": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 339,
-        "comments": 235,
+        "score": 355,
+        "comments": 250,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Cultiver un état d'esprit où naissent de nouvelles idées (2023)",
-        "titleOriginal": "Cultivating a state of mind where new ideas are born (2023)",
-        "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-        "source": "henrikkarlsson.xyz",
-        "score": 69,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49314235",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "L'IA dans la découverte de médicaments – ce qu'elle est, où nous en sommes et la voie à suivre",
-        "titleOriginal": "AI in drug discovery – what it is, where we stand and the path forward",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "science.org",
-        "score": 81,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49313367",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Le test à domicile pour les tiques infectées pourrait améliorer le diagnostic de la maladie de Lyme",
-        "titleOriginal": "At-home test for infected ticks could improve Lyme Disease diagnosis",
-        "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-        "source": "smithsonianmag.com",
-        "score": 207,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=49310682",
         "date": "il y a 10 h"
+      },
+      {
+        "title": "Show HN : Mic Drop, un jeu de karaoké multijoueur en temps réel",
+        "titleOriginal": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+        "url": "https://www.micdrop.gg/",
+        "source": "micdrop.gg",
+        "score": 9,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49315742",
+        "date": "il y a 1 h"
       }
     ]
   },
