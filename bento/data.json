@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T11:42:52.565Z",
+  "updatedAt": "2026-08-16T12:27:36.493Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 30,
+      "temp": 31,
       "feelsLike": 32,
-      "code": 1,
-      "wind": 10,
-      "humidity": 46
+      "code": 2,
+      "wind": 12,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "STÉPHANE ALLIX : IL PENSE QU'IL ÉTAIT UN SOLDAT ALLEMAND SS DANS SA VIE ANTÉRIEURE",
+        "title": "SORTIR DE SON CORPS EST ACCESSIBLE À TOUS ! VOILÀ COMMENT Y ARRIVER !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "llXPACuH7lM",
-        "thumbnail": "https://i.ytimg.com/vi/llXPACuH7lM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=llXPACuH7lM",
-        "publishedAt": "2026-08-16T11:00:21+00:00"
+        "videoId": "RN028nArcPc",
+        "thumbnail": "https://i.ytimg.com/vi/RN028nArcPc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RN028nArcPc",
+        "publishedAt": "2026-08-16T12:00:31+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,8 +178,8 @@
         "titleOriginal": "Asus Bike Booster",
         "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
         "source": "asus.com",
-        "score": 445,
-        "comments": 292,
+        "score": 469,
+        "comments": 306,
         "hnUrl": "https://news.ycombinator.com/item?id=49268580",
         "date": "il y a 4 j"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Superconducting monolayer cuprate with a single CuO2 plane",
         "url": "https://www.nature.com/articles/s41586-026-10857-1",
         "source": "nature.com",
-        "score": 21,
-        "comments": 4,
+        "score": 26,
+        "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49277153",
         "date": "il y a 3 j"
       },
@@ -198,17 +198,17 @@
         "titleOriginal": "Patterns and problems in emerging multi-agent systems",
         "url": "https://www.anthropic.com/research/multiagent-systems",
         "source": "anthropic.com",
-        "score": 113,
-        "comments": 56,
+        "score": 123,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49316271",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "E/S asynchrones dans DuckDB : Travail, Thread, Travail",
         "titleOriginal": "Asynchronous I/O in DuckDB: Work, Thread, Work",
         "url": "https://duckdb.org/2026/07/31/asynchronous-io",
         "source": "duckdb.org",
-        "score": 181,
+        "score": 188,
         "comments": 21,
         "hnUrl": "https://news.ycombinator.com/item?id=49243061",
         "date": "il y a 5 j"
