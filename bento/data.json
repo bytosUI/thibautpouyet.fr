@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T10:16:48.868Z",
+  "updatedAt": "2026-08-16T10:46:58.232Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 28,
-      "feelsLike": 30,
+      "feelsLike": 31,
       "code": 0,
-      "wind": 9,
-      "humidity": 52
+      "wind": 10,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-17",
-        "code": 61,
+        "code": 80,
         "tmax": 28,
         "tmin": 20
       },
@@ -178,8 +178,8 @@
         "titleOriginal": "Asus Bike Booster",
         "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
         "source": "asus.com",
-        "score": 400,
-        "comments": 255,
+        "score": 417,
+        "comments": 268,
         "hnUrl": "https://news.ycombinator.com/item?id=49268580",
         "date": "il y a 4 j"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Asynchronous I/O in DuckDB: Work, Thread, Work",
         "url": "https://duckdb.org/2026/07/31/asynchronous-io",
         "source": "duckdb.org",
-        "score": 161,
-        "comments": 17,
+        "score": 167,
+        "comments": 19,
         "hnUrl": "https://news.ycombinator.com/item?id=49243061",
         "date": "il y a 5 j"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "Superconducting monolayer cuprate with a single CuO2 plane",
         "url": "https://www.nature.com/articles/s41586-026-10857-1",
         "source": "nature.com",
-        "score": 4,
+        "score": 8,
         "comments": 1,
         "hnUrl": "https://news.ycombinator.com/item?id=49277153",
         "date": "il y a 3 j"
       },
       {
-        "title": "Impulse Tracker",
-        "titleOriginal": "Impulse Tracker",
-        "url": "https://ovidem.com/impulsetracker/",
-        "source": "ovidem.com",
-        "score": 18,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49270279",
-        "date": "il y a 3 j"
+        "title": "Modèles et problèmes dans les systèmes multi-agents émergents",
+        "titleOriginal": "Patterns and problems in emerging multi-agent systems",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "anthropic.com",
+        "score": 95,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49316271",
+        "date": "il y a 8 h"
       }
     ]
   },
