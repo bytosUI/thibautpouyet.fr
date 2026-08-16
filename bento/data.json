@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T04:58:42.494Z",
+  "updatedAt": "2026-08-16T05:31:19.593Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
       "feelsLike": 23,
-      "code": 3,
-      "wind": 6,
-      "humidity": 71
+      "code": 1,
+      "wind": 5,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -174,31 +174,31 @@
   "hackernews": {
     "items": [
       {
-        "title": "Asus Bike Booster",
-        "titleOriginal": "Asus Bike Booster",
-        "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
-        "source": "asus.com",
-        "score": 216,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=49268580",
-        "date": "il y a 3 j"
-      },
-      {
         "title": "Les pages d'accueil personnelles excentriques des créateurs de langages de programmation",
         "titleOriginal": "The quirky personal homepages of programming language creators",
         "url": "https://breck.lol/plMakers.html",
         "source": "breck.lol",
-        "score": 12,
-        "comments": 3,
+        "score": 33,
+        "comments": 9,
         "hnUrl": "https://news.ycombinator.com/item?id=49316888",
-        "date": "il y a 34 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Asus Bike Booster",
+        "titleOriginal": "Asus Bike Booster",
+        "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+        "source": "asus.com",
+        "score": 237,
+        "comments": 127,
+        "hnUrl": "https://news.ycombinator.com/item?id=49268580",
+        "date": "il y a 3 j"
       },
       {
         "title": "E/S asynchrones dans DuckDB : Travail, Thread, Travail",
         "titleOriginal": "Asynchronous I/O in DuckDB: Work, Thread, Work",
         "url": "https://duckdb.org/2026/07/31/asynchronous-io",
         "source": "duckdb.org",
-        "score": 79,
+        "score": 88,
         "comments": 7,
         "hnUrl": "https://news.ycombinator.com/item?id=49243061",
         "date": "il y a 5 j"
@@ -208,10 +208,10 @@
         "titleOriginal": "Semaglutide linked to lower predicted dementia risk",
         "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
         "source": "alz-journals.onlinelibrary.wiley.com",
-        "score": 386,
-        "comments": 269,
+        "score": 393,
+        "comments": 273,
         "hnUrl": "https://news.ycombinator.com/item?id=49311651",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       }
     ]
   },
