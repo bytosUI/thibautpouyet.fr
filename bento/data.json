@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-16T14:46:20.197Z",
+  "updatedAt": "2026-08-16T15:15:31.661Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 32,
       "feelsLike": 31,
       "code": 1,
-      "wind": 12,
-      "humidity": 35
+      "wind": 15,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -178,38 +178,38 @@
         "titleOriginal": "Claude: System Prompts",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "source": "platform.claude.com",
-        "score": 118,
-        "comments": 56,
+        "score": 161,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=49319556",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "L'économie de la revente de crédits d'IA",
+        "titleOriginal": "The AI Credit Resale Economy",
+        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "source": "vectoral.com",
+        "score": 12,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49320611",
+        "date": "il y a 30 min"
       },
       {
         "title": "Firefox pour iOS dispose désormais d'un bloqueur de publicités natif",
         "titleOriginal": "Firefox for iOS now has a native adblocker",
         "url": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
         "source": "support.mozilla.org",
-        "score": 87,
-        "comments": 27,
+        "score": 123,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=49319633",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Une attaque SAT sur le problème d'algèbre du lycée de Tarski",
-        "titleOriginal": "A SAT Attack on Tarski's High School Algebra Problem",
-        "url": "https://arxiv.org/abs/2608.08421",
-        "source": "arxiv.org",
-        "score": 32,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49268565",
-        "date": "il y a 4 j"
+        "date": "il y a 2 h"
       },
       {
         "title": "Est-ce que quelqu'un exécute Postgres sans PgBouncer ?",
         "titleOriginal": "Does anyone run Postgres without PgBouncer?",
         "url": "https://brandur.org/fragments/postgres-without-pgbouncer",
         "source": "brandur.org",
-        "score": 58,
-        "comments": 23,
+        "score": 72,
+        "comments": 31,
         "hnUrl": "https://news.ycombinator.com/item?id=49277952",
         "date": "il y a 3 j"
       }
