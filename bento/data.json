@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T07:00:52.160Z",
+  "updatedAt": "2026-08-17T08:05:39.635Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
-      "feelsLike": 21,
-      "code": 61,
-      "wind": 9,
-      "humidity": 64
+      "feelsLike": 20,
+      "code": 95,
+      "wind": 12,
+      "humidity": 67
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL RACONTE L'EXPÉRIENCE DE MORT IMMINENTE LA PLUS DOCUMENTÉE DE L'HISTOIRE",
+        "title": "SOUS L'EMPRISE DE LA DR*GUE, IL VOIT SON FRÈRE DÉCÉDÉ",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "qIhbJ9HIurU",
-        "thumbnail": "https://i.ytimg.com/vi/qIhbJ9HIurU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qIhbJ9HIurU",
-        "publishedAt": "2026-08-16T13:00:23+00:00"
+        "videoId": "CNzZJJRK4UU",
+        "thumbnail": "https://i.ytimg.com/vi/CNzZJJRK4UU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CNzZJJRK4UU",
+        "publishedAt": "2026-08-17T08:00:04+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,19 +178,29 @@
         "titleOriginal": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "source": "simonwillison.net",
-        "score": 323,
-        "comments": 132,
+        "score": 387,
+        "comments": 172,
         "hnUrl": "https://news.ycombinator.com/item?id=49324985",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "La vie et la mort du fichier direct [pdf]",
-        "titleOriginal": "The Life and Death of Direct File [pdf]",
-        "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
-        "source": "ischool.berkeley.edu",
-        "score": 171,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=49325185",
+        "title": "Development Update",
+        "titleOriginal": "GIMP Development Update",
+        "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
+        "source": "gimp.org",
+        "score": 81,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49326156",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Sur la réglementation et la messagerie de l'IA",
+        "titleOriginal": "On A.I. regulation and messaging",
+        "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+        "source": "twitter.com",
+        "score": 17,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49325789",
         "date": "il y a 6 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "A third world engineer responds to “RISC-V: They should have known better”",
         "url": "https://rvembedded.com/blog_post/12/",
         "source": "rvembedded.com",
-        "score": 461,
-        "comments": 237,
+        "score": 483,
+        "comments": 252,
         "hnUrl": "https://news.ycombinator.com/item?id=49321717",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "AGI-64 apporte Sierra Adventures au Commodore 64",
-        "titleOriginal": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-        "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-        "source": "meanhamster.com",
-        "score": 64,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49325714",
-        "date": "il y a 5 h"
+        "date": "il y a 15 h"
       }
     ]
   },
