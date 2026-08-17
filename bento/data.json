@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T17:53:52.501Z",
+  "updatedAt": "2026-08-17T18:30:08.525Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 26,
+      "temp": 26,
+      "feelsLike": 25,
       "code": 3,
-      "wind": 17,
-      "humidity": 39
+      "wind": 16,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "COINCÉ 127 H SOUS UN ROCHER, IL A SURVÉCU GRÂCE À UNE VISION DE LUI SANS UN BRAS ET AVEC UN ENFANT",
+        "title": "UNE PERSONNE SUR CINQ VIT UNE EXPÉRIENCE DE MORT IMMINENTE…",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "zRX7a84EJmg",
-        "thumbnail": "https://i.ytimg.com/vi/zRX7a84EJmg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zRX7a84EJmg",
-        "publishedAt": "2026-08-17T17:00:05+00:00"
+        "videoId": "tez0Tk-6tqw",
+        "thumbnail": "https://i.ytimg.com/vi/tez0Tk-6tqw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tez0Tk-6tqw",
+        "publishedAt": "2026-08-17T18:00:17+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,8 +178,8 @@
         "titleOriginal": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
         "source": "duckdb.org",
-        "score": 296,
-        "comments": 47,
+        "score": 341,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49330781",
         "date": "il y a 4 h"
       },
@@ -188,30 +188,30 @@
         "titleOriginal": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "source": "wiz.io",
-        "score": 166,
-        "comments": 80,
+        "score": 194,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=49331423",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Lancement HN : Speko (YC S26) – OpenRouter pour l'IA vocale",
-        "titleOriginal": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-        "url": "https://speko.ai/",
-        "source": "speko.ai",
-        "score": 51,
-        "comments": 21,
-        "hnUrl": "https://news.ycombinator.com/item?id=49332751",
-        "date": "il y a 2 h"
+        "title": "Qwen3.8 27B marque 52 sur l'analyse artificielle",
+        "titleOriginal": "Qwen3.8 27B scores 52 on Artificial Analysis",
+        "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+        "source": "artificialanalysis.ai",
+        "score": 44,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49334544",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Comment désactiver ou éviter l'IA intrusive",
-        "titleOriginal": "How to disable or avoid intrusive AI",
-        "url": "https://www.librarian.net/notoai/",
-        "source": "librarian.net",
-        "score": 130,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=49331220",
-        "date": "il y a 3 h"
+        "title": "Incident avec Github.com",
+        "titleOriginal": "Incident with Github.com",
+        "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+        "source": "githubstatus.com",
+        "score": 263,
+        "comments": 736,
+        "hnUrl": "https://news.ycombinator.com/item?id=49330597",
+        "date": "il y a 4 h"
       }
     ]
   },
