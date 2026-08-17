@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T11:19:59.575Z",
+  "updatedAt": "2026-08-17T11:48:40.226Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
+      "temp": 26,
       "feelsLike": 25,
       "code": 3,
-      "wind": 5,
-      "humidity": 47
+      "wind": 10,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -178,38 +178,38 @@
         "titleOriginal": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "source": "simonwillison.net",
-        "score": 532,
-        "comments": 257,
+        "score": 557,
+        "comments": 263,
         "hnUrl": "https://news.ycombinator.com/item?id=49324985",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Le courrier électronique auto-hébergé continue de décliner fortement",
+        "titleOriginal": "Self hosted email continues to steeply decline",
+        "url": "https://labs.ripe.net/author/artem-berezin/two-providers-a-stubborn-plateau-and-a-very-long-tail-email-in-the-tranco-top-1m/",
+        "source": "labs.ripe.net",
+        "score": 12,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49328911",
+        "date": "il y a 1 h"
       },
       {
         "title": "Sur la réglementation et la messagerie de l'IA",
         "titleOriginal": "On A.I. regulation and messaging",
         "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
         "source": "twitter.com",
-        "score": 82,
-        "comments": 154,
+        "score": 103,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=49325789",
         "date": "il y a 9 h"
-      },
-      {
-        "title": "La persistance du scandale du « col Q »",
-        "titleOriginal": "The continuing \"Q collar\" scandal",
-        "url": "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/",
-        "source": "statmodeling.stat.columbia.edu",
-        "score": 27,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49296495",
-        "date": "il y a 3 j"
       },
       {
         "title": "L'adultération du texte « filigrane » d'Anthropic chez Claude est une perversion de l'écriture",
         "titleOriginal": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
         "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
         "source": "daringfireball.net",
-        "score": 327,
-        "comments": 324,
+        "score": 351,
+        "comments": 339,
         "hnUrl": "https://news.ycombinator.com/item?id=49324087",
         "date": "il y a 13 h"
       }
