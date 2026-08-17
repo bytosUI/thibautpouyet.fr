@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T15:19:19.906Z",
+  "updatedAt": "2026-08-17T15:48:09.281Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 27,
-      "feelsLike": 26,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 9,
-      "humidity": 40
+      "wind": 6,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "Apple's App Tracking Transparency treated its own apps better than rivals",
         "url": "https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html",
         "source": "bundeskartellamt.de",
-        "score": 97,
-        "comments": 31,
+        "score": 134,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=49331222",
         "date": "il y a 1 h"
       },
@@ -188,18 +188,18 @@
         "titleOriginal": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
         "source": "duckdb.org",
-        "score": 101,
-        "comments": 8,
+        "score": 154,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49330781",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Le copilote GitHub généré par l'IA « Autofix » a permis de compromettre l'IJR de Snowflake",
         "titleOriginal": "AI-Generated GitHub Copilot \"Autofix\" Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "source": "wiz.io",
-        "score": 39,
-        "comments": 15,
+        "score": 65,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=49331423",
         "date": "il y a 1 h"
       },
@@ -208,8 +208,8 @@
         "titleOriginal": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
         "source": "blog.roboflow.com",
-        "score": 143,
-        "comments": 72,
+        "score": 153,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49329575",
         "date": "il y a 3 h"
       }
