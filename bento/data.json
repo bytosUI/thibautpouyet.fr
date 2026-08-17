@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:19:48.268Z",
+  "updatedAt": "2026-08-17T21:48:20.100Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 23,
       "code": 2,
       "wind": 9,
-      "humidity": 55
+      "humidity": 56
     },
     "forecast": [
       {
@@ -41,8 +41,8 @@
       {
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
-        "game": "Wind Runners",
-        "viewers": 161,
+        "game": "SPRAWL zero",
+        "viewers": 191,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "GPU Offload in Rust: Portable, Safe, and Fast",
         "url": "https://arxiv.org/abs/2608.13759",
         "source": "arxiv.org",
-        "score": 92,
-        "comments": 18,
+        "score": 107,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=49334991",
         "date": "il y a 3 h"
-      },
-      {
-        "title": "L'Inde a ouvert la voie à la facturation de frais aux commerçants sur les transactions UPI",
-        "titleOriginal": "India has paved the way for charging merchants a fee on UPI transactions",
-        "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-        "source": "bbc.com",
-        "score": 53,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=49336304",
-        "date": "il y a 1 h"
       },
       {
         "title": "Un aperçu de DuckDB v2.0",
         "titleOriginal": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
         "source": "duckdb.org",
-        "score": 462,
-        "comments": 76,
+        "score": 475,
+        "comments": 78,
         "hnUrl": "https://news.ycombinator.com/item?id=49330781",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "AI ;DR (AI ; N'a pas lu)",
         "titleOriginal": "AI;DR (AI; Didn't Read)",
         "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
         "source": "rickmanelius.com",
-        "score": 293,
-        "comments": 172,
+        "score": 358,
+        "comments": 211,
         "hnUrl": "https://news.ycombinator.com/item?id=49336573",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Le copilote GitHub généré par l'IA « Autofix » a permis de compromettre le Jira de Snowflake",
+        "titleOriginal": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "source": "wiz.io",
+        "score": 279,
+        "comments": 115,
+        "hnUrl": "https://news.ycombinator.com/item?id=49331423",
+        "date": "il y a 7 h"
       }
     ]
   },
