@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T10:55:29.382Z",
+  "updatedAt": "2026-08-17T11:19:59.575Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 25,
       "feelsLike": 25,
       "code": 3,
-      "wind": 3,
-      "humidity": 51
+      "wind": 5,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SPÉCIALISTE DES EMI : \"LA MORT EST SANS DANGER\"",
+        "title": "ELLES VOIENT LEUR MÈRE DÉCÉDÉE DANSER DANS LE SALON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "k0G7HSWGrt4",
-        "thumbnail": "https://i.ytimg.com/vi/k0G7HSWGrt4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=k0G7HSWGrt4",
-        "publishedAt": "2026-08-17T10:00:13+00:00"
+        "videoId": "V1lbGfmnQZI",
+        "thumbnail": "https://i.ytimg.com/vi/V1lbGfmnQZI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V1lbGfmnQZI",
+        "publishedAt": "2026-08-17T11:00:25+00:00"
       },
       {
         "title": "CÔ R’CULE PÔ !",
@@ -178,8 +178,8 @@
         "titleOriginal": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "source": "simonwillison.net",
-        "score": 518,
-        "comments": 246,
+        "score": 532,
+        "comments": 257,
         "hnUrl": "https://news.ycombinator.com/item?id=49324985",
         "date": "il y a 11 h"
       },
@@ -188,28 +188,28 @@
         "titleOriginal": "On A.I. regulation and messaging",
         "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
         "source": "twitter.com",
-        "score": 71,
-        "comments": 128,
+        "score": 82,
+        "comments": 154,
         "hnUrl": "https://news.ycombinator.com/item?id=49325789",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Un ingénieur du tiers monde répond à « RISC-V : ils auraient dû mieux savoir »",
-        "titleOriginal": "A third world engineer responds to “RISC-V: They should have known better”",
-        "url": "https://rvembedded.com/blog_post/12/",
-        "source": "rvembedded.com",
-        "score": 524,
-        "comments": 270,
-        "hnUrl": "https://news.ycombinator.com/item?id=49321717",
-        "date": "il y a 17 h"
+        "title": "La persistance du scandale du « col Q »",
+        "titleOriginal": "The continuing \"Q collar\" scandal",
+        "url": "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/",
+        "source": "statmodeling.stat.columbia.edu",
+        "score": 27,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49296495",
+        "date": "il y a 3 j"
       },
       {
         "title": "L'adultération du texte « filigrane » d'Anthropic chez Claude est une perversion de l'écriture",
         "titleOriginal": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
         "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
         "source": "daringfireball.net",
-        "score": 305,
-        "comments": 302,
+        "score": 327,
+        "comments": 324,
         "hnUrl": "https://news.ycombinator.com/item?id=49324087",
         "date": "il y a 13 h"
       }
