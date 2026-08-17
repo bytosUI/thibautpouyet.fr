@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T05:58:31.651Z",
+  "updatedAt": "2026-08-17T07:00:52.160Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
+      "temp": 21,
       "feelsLike": 21,
-      "code": 3,
-      "wind": 6,
-      "humidity": 67
+      "code": 61,
+      "wind": 9,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
         "source": "simonwillison.net",
-        "score": 258,
-        "comments": 110,
+        "score": 323,
+        "comments": 132,
         "hnUrl": "https://news.ycombinator.com/item?id=49324985",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "La vie et la mort du fichier direct [pdf]",
         "titleOriginal": "The Life and Death of Direct File [pdf]",
         "url": "https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf",
         "source": "ischool.berkeley.edu",
-        "score": 151,
-        "comments": 69,
+        "score": 171,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=49325185",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Un ingénieur du tiers monde répond à « RISC-V : ils auraient dû mieux savoir »",
+        "titleOriginal": "A third world engineer responds to “RISC-V: They should have known better”",
+        "url": "https://rvembedded.com/blog_post/12/",
+        "source": "rvembedded.com",
+        "score": 461,
+        "comments": 237,
+        "hnUrl": "https://news.ycombinator.com/item?id=49321717",
+        "date": "il y a 13 h"
       },
       {
         "title": "AGI-64 apporte Sierra Adventures au Commodore 64",
         "titleOriginal": "AGI-64 Brings Sierra Adventures to the Commodore 64",
         "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
         "source": "meanhamster.com",
-        "score": 51,
-        "comments": 4,
+        "score": 64,
+        "comments": 9,
         "hnUrl": "https://news.ycombinator.com/item?id=49325714",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Un ingénieur du tiers monde répond à « RISC-V : Ils auraient dû savoir mieux »",
-        "titleOriginal": "A third world engineer responds to ”RISC-V: They should have known better“",
-        "url": "https://rvembedded.com/blog_post/12/",
-        "source": "rvembedded.com",
-        "score": 437,
-        "comments": 231,
-        "hnUrl": "https://news.ycombinator.com/item?id=49321717",
-        "date": "il y a 12 h"
+        "date": "il y a 5 h"
       }
     ]
   },
