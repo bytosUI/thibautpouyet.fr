@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T20:18:47.404Z",
+  "updatedAt": "2026-08-17T20:51:25.955Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
       "feelsLike": 24,
       "code": 3,
-      "wind": 10,
-      "humidity": 49
+      "wind": 9,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "Nocturne",
-        "viewers": 162,
+        "viewers": 151,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -182,42 +182,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "AI ;DR (AI ; N'a pas lu)",
-        "titleOriginal": "AI;DR (AI; Didn't Read)",
-        "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-        "source": "rickmanelius.com",
-        "score": 119,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=49336573",
-        "date": "il y a 31 min"
+        "title": "Déchargement du GPU dans la rouille : portable, sûr et rapide",
+        "titleOriginal": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "source": "arxiv.org",
+        "score": 72,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49334991",
+        "date": "il y a 2 h"
       },
       {
         "title": "Un aperçu de DuckDB v2.0",
         "titleOriginal": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
         "source": "duckdb.org",
-        "score": 423,
-        "comments": 67,
+        "score": 445,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=49330781",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Déchargement du GPU dans la rouille : portable, sûr et rapide",
-        "titleOriginal": "GPU Offload in Rust: Portable, Safe, and Fast",
-        "url": "https://arxiv.org/abs/2608.13759",
-        "source": "arxiv.org",
-        "score": 51,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49334991",
-        "date": "il y a 2 h"
+        "title": "L'Inde a ouvert la voie à la facturation de frais aux commerçants sur les transactions UPI",
+        "titleOriginal": "India has paved the way for charging merchants a fee on UPI transactions",
+        "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+        "source": "bbc.com",
+        "score": 33,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49336304",
+        "date": "il y a 1 h"
       },
       {
         "title": "Le copilote GitHub généré par l'IA « Autofix » a permis de compromettre le Jira de Snowflake",
         "titleOriginal": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "source": "wiz.io",
-        "score": 251,
-        "comments": 111,
+        "score": 261,
+        "comments": 112,
         "hnUrl": "https://news.ycombinator.com/item?id=49331423",
         "date": "il y a 6 h"
       }
