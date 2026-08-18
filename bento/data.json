@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T02:12:34.270Z",
+  "updatedAt": "2026-08-18T03:21:09.266Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 18,
       "feelsLike": 19,
-      "code": 1,
+      "code": 0,
       "wind": 8,
-      "humidity": 73
+      "humidity": 79
     },
     "forecast": [
       {
@@ -52,15 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "J'ai offert un menu à un café en Corée ! 🇰🇷☕",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "xQ_eTrcN8_4",
-        "thumbnail": "https://i.ytimg.com/vi/xQ_eTrcN8_4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xQ_eTrcN8_4",
-        "publishedAt": "2026-08-17T19:15:41+00:00"
-      },
-      {
         "title": "UNE PERSONNE SUR CINQ VIT UNE EXPÉRIENCE DE MORT IMMINENTE…",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -95,42 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
         "publishedAt": "2026-08-10T08:26:03+00:00"
-      },
-      {
-        "title": "Je détruis enfin la salle de bain #26",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "JhkdfqxG25I",
-        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
-        "publishedAt": "2026-08-09T15:17:07+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
       }
     ]
   },
@@ -178,40 +133,40 @@
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 239,
-        "comments": 162,
+        "score": 282,
+        "comments": 203,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Quake Shareware, un CD-ROM un peu trop plein",
         "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
         "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "source": "fabiensanglard.net",
-        "score": 153,
-        "comments": 69,
+        "score": 184,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=49338328",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "GPT-5.6 Prix sol réduit de 50 %",
         "titleOriginal": "GPT-5.6 Sol Pricing Cut by 50%",
         "url": "https://openrouter.ai/openai/gpt-5.6-sol",
         "source": "openrouter.ai",
-        "score": 136,
-        "comments": 63,
+        "score": 187,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=49337602",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Un aperçu de DuckDB v2.0",
         "titleOriginal": "A Preview of DuckDB v2.0",
         "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
         "source": "duckdb.org",
-        "score": 546,
-        "comments": 97,
+        "score": 561,
+        "comments": 100,
         "hnUrl": "https://news.ycombinator.com/item?id=49330781",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       }
     ]
   },
