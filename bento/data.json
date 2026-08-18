@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T05:53:07.425Z",
+  "updatedAt": "2026-08-18T06:32:52.105Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
+      "temp": 19,
       "feelsLike": 19,
       "code": 3,
-      "wind": 6,
-      "humidity": 81
+      "wind": 8,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -37,13 +37,21 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 270,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -96,40 +104,40 @@
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 372,
-        "comments": 249,
+        "score": 396,
+        "comments": 268,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "GPT-5.6 Prix sol réduit de 50 %",
         "titleOriginal": "GPT-5.6 Sol Pricing Cut by 50%",
         "url": "https://openrouter.ai/openai/gpt-5.6-sol",
         "source": "openrouter.ai",
-        "score": 298,
-        "comments": 152,
+        "score": 331,
+        "comments": 171,
         "hnUrl": "https://news.ycombinator.com/item?id=49337602",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Quake Shareware, un CD-ROM un peu trop plein",
         "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
         "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "source": "fabiensanglard.net",
-        "score": 252,
-        "comments": 109,
+        "score": 274,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49338328",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Le squelette brisé est le premier décès confirmé du trébuchet",
-        "titleOriginal": "Shattered skeleton is first confirmed death from trebuchet",
-        "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-        "source": "science.org",
-        "score": 40,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49285139",
-        "date": "il y a 4 j"
+        "title": "Le Benchmarkpocalypse",
+        "titleOriginal": "The Benchmarkpocalypse",
+        "url": "https://danluu.com/benchpocalypse/",
+        "source": "danluu.com",
+        "score": 56,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49340299",
+        "date": "il y a 4 h"
       }
     ]
   },
