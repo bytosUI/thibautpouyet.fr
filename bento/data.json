@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T06:32:52.105Z",
+  "updatedAt": "2026-08-18T07:32:41.179Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 8,
-      "humidity": 77
+      "wind": 13,
+      "humidity": 72
     },
     "forecast": [
       {
@@ -37,28 +37,102 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 270,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "J'ai vibecodé un site à un café coréen ! 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xQ_eTrcN8_4",
+        "thumbnail": "https://i.ytimg.com/vi/xQ_eTrcN8_4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xQ_eTrcN8_4",
+        "publishedAt": "2026-08-17T19:15:41+00:00"
+      },
+      {
+        "title": "UNE PERSONNE SUR CINQ VIT UNE EXPÉRIENCE DE MORT IMMINENTE…",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "tez0Tk-6tqw",
+        "thumbnail": "https://i.ytimg.com/vi/tez0Tk-6tqw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tez0Tk-6tqw",
+        "publishedAt": "2026-08-17T18:00:17+00:00"
+      },
+      {
+        "title": "CÔ R’CULE PÔ !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "RmxI1gx-zNs",
+        "thumbnail": "https://i.ytimg.com/vi/RmxI1gx-zNs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RmxI1gx-zNs",
+        "publishedAt": "2026-08-13T18:26:37+00:00"
+      },
+      {
+        "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "h8XqoqlhvRI",
+        "thumbnail": "https://i.ytimg.com/vi/h8XqoqlhvRI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h8XqoqlhvRI",
+        "publishedAt": "2026-08-11T18:00:39+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Je détruis enfin la salle de bain #26",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -104,40 +178,40 @@
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 396,
-        "comments": 268,
+        "score": 429,
+        "comments": 290,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "GPT-5.6 Prix sol réduit de 50 %",
         "titleOriginal": "GPT-5.6 Sol Pricing Cut by 50%",
         "url": "https://openrouter.ai/openai/gpt-5.6-sol",
         "source": "openrouter.ai",
-        "score": 331,
-        "comments": 171,
+        "score": 373,
+        "comments": 208,
         "hnUrl": "https://news.ycombinator.com/item?id=49337602",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Quake Shareware, un CD-ROM un peu trop plein",
         "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
         "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "source": "fabiensanglard.net",
-        "score": 274,
-        "comments": 115,
+        "score": 296,
+        "comments": 127,
         "hnUrl": "https://news.ycombinator.com/item?id=49338328",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Le Benchmarkpocalypse",
         "titleOriginal": "The Benchmarkpocalypse",
         "url": "https://danluu.com/benchpocalypse/",
         "source": "danluu.com",
-        "score": 56,
-        "comments": 7,
+        "score": 73,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49340299",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
