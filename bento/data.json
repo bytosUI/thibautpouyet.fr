@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T23:16:03.641Z",
+  "updatedAt": "2026-08-18T23:44:25.610Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
       "feelsLike": 22,
       "code": 0,
-      "wind": 5,
-      "humidity": 76
+      "wind": 4,
+      "humidity": 78
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
         "url": "https://github.com/DenisSergeevitch/desktop-fly",
         "source": "github.com",
-        "score": 42,
-        "comments": 9,
+        "score": 67,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49353221",
         "date": "il y a 1 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Being ambitious and being a dad",
         "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
         "source": "nicholascharriere.com",
-        "score": 129,
-        "comments": 55,
+        "score": 173,
+        "comments": 79,
         "hnUrl": "https://news.ycombinator.com/item?id=49321298",
         "date": "il y a 2 j"
       },
@@ -198,19 +198,19 @@
         "titleOriginal": "The Amazon tax",
         "url": "https://seths.blog/2026/08/the-amazon-tax/",
         "source": "seths.blog",
-        "score": 817,
-        "comments": 502,
+        "score": 839,
+        "comments": 508,
         "hnUrl": "https://news.ycombinator.com/item?id=49345263",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "GLM-5.3 Critères d'analyse artificielle",
-        "titleOriginal": "GLM-5.3 Artificial Analysis Benchmarks",
-        "url": "https://artificialanalysis.ai/models/glm-5-3",
-        "source": "artificialanalysis.ai",
-        "score": 23,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49353407",
+        "title": "fx : Agent de codage minuscule, ouvert et natif.",
+        "titleOriginal": "fx :Tiny, open, native coding agent.",
+        "url": "https://fx.sh",
+        "source": "fx.sh",
+        "score": 50,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49353339",
         "date": "il y a 1 h"
       }
     ]
