@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-18T21:45:40.025Z",
+  "updatedAt": "2026-08-18T22:16:21.168Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
       "feelsLike": 23,
       "code": 2,
-      "wind": 6,
-      "humidity": 71
+      "wind": 7,
+      "humidity": 72
     },
     "forecast": [
-      {
-        "date": "2026-08-18",
-        "code": 3,
-        "tmax": 27,
-        "tmin": 18
-      },
       {
         "date": "2026-08-19",
         "code": 80,
@@ -31,28 +25,26 @@
       {
         "date": "2026-08-21",
         "code": 3,
+        "tmax": 24,
+        "tmin": 16
+      },
+      {
+        "date": "2026-08-22",
+        "code": 45,
         "tmax": 23,
-        "tmin": 17
+        "tmin": 12
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Normal Golf Game",
-        "viewers": 118,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -186,8 +178,8 @@
         "titleOriginal": "Beware Management Consultants",
         "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
         "source": "about.iceland.co.uk",
-        "score": 313,
-        "comments": 48,
+        "score": 357,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=49351324",
         "date": "il y a 2 h"
       },
@@ -196,30 +188,30 @@
         "titleOriginal": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
         "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
         "source": "cdn.kuber.studio",
-        "score": 29,
-        "comments": 10,
+        "score": 56,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=49352806",
-        "date": "il y a 31 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Les entreprises promeuvent les employés incompétents auprès de la direction pour limiter les dommages qu'ils peuvent causer",
+        "titleOriginal": "Companies promote incompetent employees to management tolimit damage they can do",
+        "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+        "source": "lawsofsoftwareengineering.com",
+        "score": 27,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49352794",
+        "date": "il y a 1 h"
       },
       {
         "title": "Turbovec – TurboQuant de Google pour la recherche vectorielle dans Rust",
         "titleOriginal": "Turbovec – Google's TurboQuant for vector search in Rust",
         "url": "https://github.com/RyanCodrai/turbovec",
         "source": "github.com",
-        "score": 166,
-        "comments": 21,
+        "score": 178,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=49349898",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "L'AMAZONE :",
-        "titleOriginal": "The Amazon tax",
-        "url": "https://seths.blog/2026/08/the-amazon-tax/",
-        "source": "seths.blog",
-        "score": 742,
-        "comments": 466,
-        "hnUrl": "https://news.ycombinator.com/item?id=49345263",
-        "date": "il y a 8 h"
+        "date": "il y a 4 h"
       }
     ]
   },
