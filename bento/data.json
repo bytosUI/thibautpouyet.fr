@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T20:16:33.605Z",
+  "updatedAt": "2026-08-18T20:47:20.653Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
-      "feelsLike": 25,
+      "feelsLike": 24,
       "code": 2,
-      "wind": 6,
-      "humidity": 65
+      "wind": 4,
+      "humidity": 67
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "Fallen Tear: The Ascension",
-        "viewers": 139,
+        "viewers": 173,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -186,18 +186,18 @@
         "titleOriginal": "Beware Management Consultants",
         "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
         "source": "about.iceland.co.uk",
-        "score": 44,
-        "comments": 11,
+        "score": 151,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49351324",
-        "date": "il y a 46 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Turbovec – TurboQuant de Google pour la recherche vectorielle dans Rust",
         "titleOriginal": "Turbovec – Google's TurboQuant for vector search in Rust",
         "url": "https://github.com/RyanCodrai/turbovec",
         "source": "github.com",
-        "score": 111,
-        "comments": 14,
+        "score": 132,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49349898",
         "date": "il y a 2 h"
       },
@@ -206,20 +206,20 @@
         "titleOriginal": "The Amazon tax",
         "url": "https://seths.blog/2026/08/the-amazon-tax/",
         "source": "seths.blog",
-        "score": 645,
-        "comments": 435,
+        "score": 680,
+        "comments": 444,
         "hnUrl": "https://news.ycombinator.com/item?id=49345263",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "La Norvège devrait acheter OpenAI",
-        "titleOriginal": "Norway Should Buy OpenAI",
-        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-        "source": "onethousandmeans.com",
-        "score": 103,
-        "comments": 96,
-        "hnUrl": "https://news.ycombinator.com/item?id=49351330",
-        "date": "il y a 46 min"
+        "title": "Comment IKEA trouve-t-elle des noms pour ses produits ?",
+        "titleOriginal": "How does IKEA come up with names for its products?",
+        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+        "source": "ikea.com",
+        "score": 136,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=49349984",
+        "date": "il y a 2 h"
       }
     ]
   },
