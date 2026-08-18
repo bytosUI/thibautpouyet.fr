@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T05:00:40.366Z",
+  "updatedAt": "2026-08-18T05:53:07.425Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
-      "feelsLike": 18,
-      "code": 2,
+      "feelsLike": 19,
+      "code": 3,
       "wind": 6,
-      "humidity": 83
+      "humidity": 81
     },
     "forecast": [
       {
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -106,29 +96,29 @@
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 331,
-        "comments": 236,
+        "score": 372,
+        "comments": 249,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Quake Shareware, un CD-ROM un peu trop plein",
-        "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
-        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-        "source": "fabiensanglard.net",
-        "score": 225,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49338328",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "GPT-5.6 Prix sol réduit de 50 %",
         "titleOriginal": "GPT-5.6 Sol Pricing Cut by 50%",
         "url": "https://openrouter.ai/openai/gpt-5.6-sol",
         "source": "openrouter.ai",
-        "score": 257,
-        "comments": 136,
+        "score": 298,
+        "comments": 152,
         "hnUrl": "https://news.ycombinator.com/item?id=49337602",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Quake Shareware, un CD-ROM un peu trop plein",
+        "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
+        "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+        "source": "fabiensanglard.net",
+        "score": 252,
+        "comments": 109,
+        "hnUrl": "https://news.ycombinator.com/item?id=49338328",
         "date": "il y a 7 h"
       },
       {
@@ -136,8 +126,8 @@
         "titleOriginal": "Shattered skeleton is first confirmed death from trebuchet",
         "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
         "source": "science.org",
-        "score": 33,
-        "comments": 14,
+        "score": 40,
+        "comments": 23,
         "hnUrl": "https://news.ycombinator.com/item?id=49285139",
         "date": "il y a 4 j"
       }
