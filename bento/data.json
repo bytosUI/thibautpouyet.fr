@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T13:37:21.337Z",
+  "updatedAt": "2026-08-18T14:26:20.099Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 25,
       "code": 3,
       "wind": 19,
-      "humidity": 40
+      "humidity": 41
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Utiliser le réseau ferroviaire comme un scanner à plat",
+        "title": "Using the railway network as a flatbed scanner",
         "titleOriginal": "Using the railway network as a flatbed scanner",
         "url": "https://philo.gay/linecam/",
         "source": "philo.gay",
-        "score": 49,
-        "comments": 6,
+        "score": 115,
+        "comments": 20,
         "hnUrl": "https://news.ycombinator.com/item?id=49344825",
-        "date": "il y a 53 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "Linux 7.3 améliore les performances lors de l'épuisement de la vRAM",
+        "title": "The Amazon Tax",
+        "titleOriginal": "The Amazon Tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "source": "seths.blog",
+        "score": 43,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49345263",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Linux 7.3 improves performance when running out of vRAM",
         "titleOriginal": "Linux 7.3 improves performance when running out of vRAM",
         "url": "https://pixelcluster.dev/VRAM-Overcommit/",
         "source": "pixelcluster.dev",
-        "score": 311,
-        "comments": 99,
+        "score": 342,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=49342719",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Apprendre à mon enfant à coder avec une BOUE MODERNE",
-        "titleOriginal": "Teaching my kid to code with a modern MUD",
-        "url": "https://tau.dev/2026/08/07/canon",
-        "source": "tau.dev",
-        "score": 53,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49272631",
-        "date": "il y a 5 j"
-      },
-      {
-        "title": "Google achète aux enchères les données de la compagnie aérienne Spirit écrasées, car l'IA",
-        "titleOriginal": "Google buys crashed airline Spirit's data at auction, because AI",
-        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-        "source": "theregister.com",
-        "score": 260,
-        "comments": 152,
-        "hnUrl": "https://news.ycombinator.com/item?id=49343559",
-        "date": "il y a 3 h"
+        "title": "Fixing a Bricked Framework Laptop",
+        "titleOriginal": "Fixing a Bricked Framework Laptop",
+        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+        "source": "quantum5.ca",
+        "score": 45,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49345220",
+        "date": "il y a 1 h"
       }
     ]
   },
