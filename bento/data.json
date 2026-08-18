@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-18T04:05:13.462Z",
+  "updatedAt": "2026-08-18T05:00:40.366Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 18,
-      "code": 0,
-      "wind": 7,
+      "code": 2,
+      "wind": 6,
       "humidity": 83
     },
     "forecast": [
@@ -52,31 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "J'ai offert un menu à un café en Corée ! 🇰🇷☕",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "xQ_eTrcN8_4",
-        "thumbnail": "https://i.ytimg.com/vi/xQ_eTrcN8_4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xQ_eTrcN8_4",
-        "publishedAt": "2026-08-17T19:15:41+00:00"
-      },
-      {
-        "title": "La physique quantique prouve que rien n'existe si vous ne le regardez pas !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "h8XqoqlhvRI",
-        "thumbnail": "https://i.ytimg.com/vi/h8XqoqlhvRI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h8XqoqlhvRI",
-        "publishedAt": "2026-08-11T18:00:39+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
       }
     ]
   },
@@ -124,28 +106,28 @@
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 299,
-        "comments": 222,
+        "score": 331,
+        "comments": 236,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Quake Shareware, un CD-ROM un peu trop plein",
         "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
         "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "source": "fabiensanglard.net",
-        "score": 201,
-        "comments": 85,
+        "score": 225,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49338328",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "GPT-5.6 Prix sol réduit de 50 %",
         "titleOriginal": "GPT-5.6 Sol Pricing Cut by 50%",
         "url": "https://openrouter.ai/openai/gpt-5.6-sol",
         "source": "openrouter.ai",
-        "score": 218,
-        "comments": 124,
+        "score": 257,
+        "comments": 136,
         "hnUrl": "https://news.ycombinator.com/item?id=49337602",
         "date": "il y a 7 h"
       },
@@ -154,8 +136,8 @@
         "titleOriginal": "Shattered skeleton is first confirmed death from trebuchet",
         "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
         "source": "science.org",
-        "score": 25,
-        "comments": 9,
+        "score": 33,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49285139",
         "date": "il y a 4 j"
       }
