@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T10:25:12.709Z",
+  "updatedAt": "2026-08-18T10:54:26.045Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 22,
       "code": 3,
       "wind": 18,
-      "humidity": 56
+      "humidity": 55
     },
     "forecast": [
       {
@@ -178,18 +178,18 @@
         "titleOriginal": "Linux 7.3 improves performance when running out of vRAM",
         "url": "https://pixelcluster.dev/VRAM-Overcommit/",
         "source": "pixelcluster.dev",
-        "score": 130,
-        "comments": 15,
+        "score": 165,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49342719",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Comment Bluesky dessine son logo sur les captures d'écran",
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 529,
-        "comments": 351,
+        "score": 539,
+        "comments": 356,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
         "date": "il y a 12 h"
       },
@@ -198,18 +198,18 @@
         "titleOriginal": "Rethinking Database Programming",
         "url": "https://acadia.engineering/blog/rethinking-database-programming",
         "source": "acadia.engineering",
-        "score": 51,
-        "comments": 10,
+        "score": 66,
+        "comments": 13,
         "hnUrl": "https://news.ycombinator.com/item?id=49342530",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "GPT-5.6 Prix sol réduit de 50 %",
         "titleOriginal": "GPT-5.6 Sol Pricing Cut by 50%",
         "url": "https://openrouter.ai/openai/gpt-5.6-sol",
         "source": "openrouter.ai",
-        "score": 451,
-        "comments": 281,
+        "score": 466,
+        "comments": 292,
         "hnUrl": "https://news.ycombinator.com/item?id=49337602",
         "date": "il y a 13 h"
       }
