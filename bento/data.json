@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-18T19:07:24.911Z",
+  "updatedAt": "2026-08-18T19:47:16.203Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 26,
+      "temp": 24,
+      "feelsLike": 25,
       "code": 3,
-      "wind": 8,
-      "humidity": 59
+      "wind": 7,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-08-19",
-        "code": 96,
-        "tmax": 25,
-        "tmin": 18
+        "code": 80,
+        "tmax": 26,
+        "tmin": 19
       },
       {
         "date": "2026-08-20",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 17
       },
       {
@@ -41,8 +41,8 @@
       {
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
-        "game": "MONOWAVE",
-        "viewers": 95,
+        "game": "Sniper Dan",
+        "viewers": 130,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La Norvège devrait acheter OpenAI",
+        "titleOriginal": "Norway Should Buy OpenAI",
+        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+        "source": "onethousandmeans.com",
+        "score": 41,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49351330",
+        "date": "il y a 16 min"
+      },
+      {
         "title": "Turbovec – TurboQuant de Google pour la recherche vectorielle dans Rust",
         "titleOriginal": "Turbovec – Google's TurboQuant for vector search in Rust",
         "url": "https://github.com/RyanCodrai/turbovec",
         "source": "github.com",
-        "score": 43,
-        "comments": 8,
+        "score": 88,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49349898",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Comment IKEA trouve-t-elle des noms pour ses produits ?",
-        "titleOriginal": "How does IKEA come up with names for its products?",
-        "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-        "source": "ikea.com",
-        "score": 52,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=49349984",
-        "date": "il y a 55 min"
       },
       {
         "title": "Utiliser le réseau ferroviaire comme un scanner à plat",
         "titleOriginal": "Using the railway network as a flatbed scanner",
         "url": "https://philo.gay/linecam/",
         "source": "philo.gay",
-        "score": 306,
+        "score": 320,
         "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49344825",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Fixation d'un ordinateur portable Framework en briques",
-        "titleOriginal": "Fixing a bricked Framework laptop",
-        "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-        "source": "quantum5.ca",
-        "score": 253,
-        "comments": 163,
-        "hnUrl": "https://news.ycombinator.com/item?id=49345220",
-        "date": "il y a 5 h"
+        "title": "L'AMAZONE :",
+        "titleOriginal": "The Amazon tax",
+        "url": "https://seths.blog/2026/08/the-amazon-tax/",
+        "source": "seths.blog",
+        "score": 617,
+        "comments": 420,
+        "hnUrl": "https://news.ycombinator.com/item?id=49345263",
+        "date": "il y a 6 h"
       }
     ]
   },
