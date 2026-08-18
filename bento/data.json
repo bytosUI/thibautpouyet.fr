@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-17T23:44:54.131Z",
+  "updatedAt": "2026-08-18T00:54:01.088Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 2,
       "wind": 9,
-      "humidity": 60
+      "humidity": 69
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "How Bluesky draws its logo on screenshots",
         "url": "https://timmarinin.net/2026/bluesky-screenshots/",
         "source": "timmarinin.net",
-        "score": 110,
-        "comments": 86,
+        "score": 177,
+        "comments": 129,
         "hnUrl": "https://news.ycombinator.com/item?id=49338459",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Quake Shareware, un CD-ROM un peu trop plein",
         "titleOriginal": "Quake Shareware, a CD-ROM just a little too full",
         "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
         "source": "fabiensanglard.net",
-        "score": 75,
-        "comments": 30,
+        "score": 114,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49338328",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Déchargement du GPU dans la rouille : portable, sûr et rapide",
-        "titleOriginal": "GPU Offload in Rust: Portable, Safe, and Fast",
-        "url": "https://arxiv.org/abs/2608.13759",
-        "source": "arxiv.org",
-        "score": 144,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49334991",
-        "date": "il y a 5 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Caméra principale de travail Fairphone 6 et PostmarketOS",
         "titleOriginal": "Fairphone 6 and PostmarketOS working main camera",
         "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
         "source": "catcrafts.net",
-        "score": 45,
-        "comments": 11,
+        "score": 72,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49338285",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Déchargement du GPU dans la rouille : portable, sûr et rapide",
+        "titleOriginal": "GPU Offload in Rust: Portable, Safe, and Fast",
+        "url": "https://arxiv.org/abs/2608.13759",
+        "source": "arxiv.org",
+        "score": 152,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49334991",
+        "date": "il y a 6 h"
       }
     ]
   },
