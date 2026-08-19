@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T05:00:40.405Z",
+  "updatedAt": "2026-08-19T05:54:26.275Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 21,
+      "temp": 21,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 9,
-      "humidity": 79
+      "wind": 10,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -96,40 +96,40 @@
         "titleOriginal": "Meta's blockbuster trial draws parallels to big tobacco",
         "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
         "source": "economist.com",
-        "score": 115,
-        "comments": 78,
+        "score": 153,
+        "comments": 108,
         "hnUrl": "https://news.ycombinator.com/item?id=49355825",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "OpenLogi",
         "titleOriginal": "OpenLogi",
         "url": "https://openlogi.org/en",
         "source": "openlogi.org",
-        "score": 156,
-        "comments": 33,
+        "score": 235,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49355606",
         "date": "il y a 3 h"
+      },
+      {
+        "title": "Trébuchet supersonique [vidéo]",
+        "titleOriginal": "Supersonic Trebuchet [video]",
+        "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+        "source": "youtube.com",
+        "score": 34,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49306207",
+        "date": "il y a 4 j"
       },
       {
         "title": "Palomar : Un registre de mathématiques vérifiées Lean",
         "titleOriginal": "Palomar: A registry of Lean verified mathematics",
         "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
         "source": "terrytao.wordpress.com",
-        "score": 40,
-        "comments": 4,
+        "score": 55,
+        "comments": 6,
         "hnUrl": "https://news.ycombinator.com/item?id=49355968",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Cerebras CS-4",
-        "titleOriginal": "Cerebras CS-4",
-        "url": "https://www.cerebras.ai/cs4",
-        "source": "cerebras.ai",
-        "score": 157,
-        "comments": 109,
-        "hnUrl": "https://news.ycombinator.com/item?id=49354949",
-        "date": "il y a 4 h"
+        "date": "il y a 3 h"
       }
     ]
   },
