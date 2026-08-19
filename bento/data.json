@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T17:21:14.655Z",
+  "updatedAt": "2026-08-19T17:48:35.772Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -178,8 +178,8 @@
         "titleOriginal": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
         "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
         "source": "shkspr.mobi",
-        "score": 227,
-        "comments": 141,
+        "score": 305,
+        "comments": 184,
         "hnUrl": "https://news.ycombinator.com/item?id=49363433",
         "date": "il y a 1 h"
       },
@@ -188,30 +188,30 @@
         "titleOriginal": "A joke domain purchase turned in geopolitical warfare",
         "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "source": "sprocketfox.io",
-        "score": 364,
-        "comments": 47,
+        "score": 404,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49360015",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Géolocalisation d'un îlot aléatoire à l'aide de la géométrie et de la programmation CUDA",
         "titleOriginal": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
         "source": "yassa9.github.io",
-        "score": 258,
-        "comments": 50,
+        "score": 276,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=49360545",
         "date": "il y a 5 h"
       },
       {
-        "title": "Lancement HN : OneCLI (YC S26) – Harnais d'agent bac à sable OSS pour les équipes",
-        "titleOriginal": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "url": "https://github.com/onecli/onecli",
-        "source": "github.com",
-        "score": 14,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49363710",
-        "date": "il y a 52 min"
+        "title": "Ornith-1.5 : De l'auto-échafaudage à l'auto-amélioration",
+        "titleOriginal": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
+        "url": "https://ornith.ai/ornith_1_5.html",
+        "source": "ornith.ai",
+        "score": 73,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49362401",
+        "date": "il y a 2 h"
       }
     ]
   },
