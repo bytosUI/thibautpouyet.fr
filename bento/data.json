@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-19T00:54:35.807Z",
+  "updatedAt": "2026-08-19T02:15:45.458Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 21,
-      "code": 2,
+      "temp": 20,
+      "feelsLike": 22,
+      "code": 3,
       "wind": 4,
-      "humidity": 85
+      "humidity": 81
     },
     "forecast": [
       {
         "date": "2026-08-19",
         "code": 80,
-        "tmax": 29,
-        "tmin": 19
+        "tmax": 30,
+        "tmin": 20
       },
       {
         "date": "2026-08-20",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Un nouveau document montre que 37 % des travailleurs aux États-Unis ont vu les salaires réels baisser de 2021 à 2024 [pdf]",
+        "titleOriginal": "New paper shows that 37% of workers in US saw real wages decline from 2021-2024 [pdf]",
+        "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+        "source": "bfi.uchicago.edu",
+        "score": 95,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49355142",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Cerebras CS-4",
+        "titleOriginal": "Cerebras CS-4",
+        "url": "https://www.cerebras.ai/cs4",
+        "source": "cerebras.ai",
+        "score": 59,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49354949",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Une mouche des fruits en 3D sur un ordinateur de bureau macOS alimenté par le véritable connectome FlyWire",
         "titleOriginal": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
         "url": "https://github.com/DenisSergeevitch/desktop-fly",
         "source": "github.com",
-        "score": 120,
-        "comments": 30,
+        "score": 166,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=49353221",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Solo – un chargeur .so pour les binaires Linux statiques",
-        "titleOriginal": "Solo – a .so loader for static Linux binaries",
-        "url": "https://github.com/pg83/solo",
-        "source": "github.com",
-        "score": 19,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49354613",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "L'AMAZONE :",
         "titleOriginal": "The Amazon tax",
         "url": "https://seths.blog/2026/08/the-amazon-tax/",
         "source": "seths.blog",
-        "score": 895,
-        "comments": 525,
+        "score": 951,
+        "comments": 547,
         "hnUrl": "https://news.ycombinator.com/item?id=49345263",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Show HN : Architecture interactive et animée de tous les modèles HuggingFace",
-        "titleOriginal": "Show HN: Interactive, animated architecture of any HuggingFace models",
-        "url": "https://modelmap.cc",
-        "source": "modelmap.cc",
-        "score": 19,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49354664",
-        "date": "il y a 56 min"
+        "date": "il y a 12 h"
       }
     ]
   },
