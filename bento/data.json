@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T10:54:51.030Z",
+  "updatedAt": "2026-08-19T11:19:24.514Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 26,
+      "temp": 28,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 20,
-      "humidity": 47
+      "wind": 22,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "PILOTE MIRACULÉ : « J’AI VU LA MORT VENIR CHERCHER MON COPILOTE »",
+        "title": "MORT ÉCRASÉ PAR UN CAMION, PUIS REVENU À LA VIE, IL RACONTE CE QU’IL A VU",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "2MKBNOetwYg",
-        "thumbnail": "https://i.ytimg.com/vi/2MKBNOetwYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2MKBNOetwYg",
-        "publishedAt": "2026-08-19T10:00:19+00:00"
+        "videoId": "vUzvYXhjGsI",
+        "thumbnail": "https://i.ytimg.com/vi/vUzvYXhjGsI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vUzvYXhjGsI",
+        "publishedAt": "2026-08-19T11:00:06+00:00"
       },
       {
         "title": "Cloud, IA, Énergie : des Frenchies contre l’empire américain !",
@@ -178,18 +178,28 @@
         "titleOriginal": "OpenLogi",
         "url": "https://openlogi.org/en",
         "source": "openlogi.org",
-        "score": 764,
-        "comments": 218,
+        "score": 805,
+        "comments": 225,
         "hnUrl": "https://news.ycombinator.com/item?id=49355606",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "Air Theremin – un navigateur dans lequel vous jouez en agitant votre webcam",
+        "titleOriginal": "Air Theremin – a browser theremin you play by waving at your webcam",
+        "url": "https://theremin.bizibah.com/",
+        "source": "theremin.bizibah.com",
+        "score": 21,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49359425",
+        "date": "il y a 1 h"
       },
       {
         "title": "Cerebras CS-4",
         "titleOriginal": "Cerebras CS-4",
         "url": "https://www.cerebras.ai/cs4",
         "source": "cerebras.ai",
-        "score": 295,
-        "comments": 203,
+        "score": 305,
+        "comments": 204,
         "hnUrl": "https://news.ycombinator.com/item?id=49354949",
         "date": "il y a 10 h"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "The Two Factions of C++ (2024)",
         "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
         "source": "herecomesthemoon.net",
-        "score": 36,
-        "comments": 23,
+        "score": 41,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=49318311",
         "date": "il y a 3 j"
-      },
-      {
-        "title": "Être ambitieux et être papa",
-        "titleOriginal": "Being ambitious and being a dad",
-        "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-        "source": "nicholascharriere.com",
-        "score": 535,
-        "comments": 343,
-        "hnUrl": "https://news.ycombinator.com/item?id=49321298",
-        "date": "il y a 2 j"
       }
     ]
   },
