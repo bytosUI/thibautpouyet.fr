@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T13:38:50.542Z",
+  "updatedAt": "2026-08-19T14:26:23.051Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 30,
       "feelsLike": 28,
       "code": 2,
-      "wind": 28,
+      "wind": 27,
       "humidity": 41
     },
     "forecast": [
@@ -178,9 +178,19 @@
         "titleOriginal": "GrapheneOS in 2027 available on high-end Motorola phones",
         "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
         "source": "grapheneos.social",
-        "score": 201,
-        "comments": 103,
+        "score": 276,
+        "comments": 156,
         "hnUrl": "https://news.ycombinator.com/item?id=49360242",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "PostgreSQL pour tout",
+        "titleOriginal": "PostgreSQL for Everything",
+        "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+        "source": "raphaelbauer.com",
+        "score": 54,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=49361279",
         "date": "il y a 1 h"
       },
       {
@@ -188,29 +198,19 @@
         "titleOriginal": "Geolocating a random island using geometry and CUDA programming",
         "url": "https://yassa9.github.io/osint/gralhix-004/",
         "source": "yassa9.github.io",
-        "score": 70,
-        "comments": 15,
+        "score": 111,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49360545",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "OpenLogi",
-        "titleOriginal": "OpenLogi",
-        "url": "https://openlogi.org/en",
-        "source": "openlogi.org",
-        "score": 1053,
-        "comments": 302,
-        "hnUrl": "https://news.ycombinator.com/item?id=49355606",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Air Theremin – un navigateur dans lequel vous jouez en agitant votre webcam",
-        "titleOriginal": "Air Theremin – a browser theremin you play by waving at your webcam",
-        "url": "https://theremin.bizibah.com/",
-        "source": "theremin.bizibah.com",
-        "score": 101,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=49359425",
+        "title": "Un achat de domaine de plaisanterie transformé en guerre géopolitique",
+        "titleOriginal": "A joke domain purchase turned in geopolitical warfare",
+        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+        "source": "sprocketfox.io",
+        "score": 107,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49360015",
         "date": "il y a 3 h"
       }
     ]
