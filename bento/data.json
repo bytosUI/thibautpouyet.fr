@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T11:48:40.967Z",
+  "updatedAt": "2026-08-19T12:34:27.757Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
       "feelsLike": 27,
       "code": 3,
-      "wind": 23,
-      "humidity": 43
+      "wind": 24,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -30,8 +30,8 @@
       },
       {
         "date": "2026-08-22",
-        "code": 45,
-        "tmax": 22,
+        "code": 3,
+        "tmax": 23,
         "tmin": 13
       }
     ]
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "MORT ÉCRASÉ PAR UN CAMION, PUIS REVENU À LA VIE, IL RACONTE CE QU’IL A VU",
+        "title": "UNE MAIN GÉANTE L’A RAMENÉ À LA VIE EN REPOUSSANT SON ÂME DANS SON CORPS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "vUzvYXhjGsI",
-        "thumbnail": "https://i.ytimg.com/vi/vUzvYXhjGsI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vUzvYXhjGsI",
-        "publishedAt": "2026-08-19T11:00:06+00:00"
+        "videoId": "UWvsbb8wzaE",
+        "thumbnail": "https://i.ytimg.com/vi/UWvsbb8wzaE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UWvsbb8wzaE",
+        "publishedAt": "2026-08-19T12:00:23+00:00"
       },
       {
         "title": "Cloud, IA, Énergie : des Frenchies contre l’empire américain !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "GrapheneOS en 2027 disponible sur les téléphones Motorola haut de gamme",
+        "titleOriginal": "GrapheneOS in 2027 available on high-end Motorola phones",
+        "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+        "source": "grapheneos.social",
+        "score": 66,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49360242",
+        "date": "il y a 47 min"
+      },
+      {
         "title": "OpenLogi",
         "titleOriginal": "OpenLogi",
         "url": "https://openlogi.org/en",
         "source": "openlogi.org",
-        "score": 873,
-        "comments": 241,
+        "score": 966,
+        "comments": 260,
         "hnUrl": "https://news.ycombinator.com/item?id=49355606",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Air Theremin – un navigateur dans lequel vous jouez en agitant votre webcam",
         "titleOriginal": "Air Theremin – a browser theremin you play by waving at your webcam",
         "url": "https://theremin.bizibah.com/",
         "source": "theremin.bizibah.com",
-        "score": 44,
-        "comments": 17,
+        "score": 67,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=49359425",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Cerebras CS-4",
         "titleOriginal": "Cerebras CS-4",
         "url": "https://www.cerebras.ai/cs4",
         "source": "cerebras.ai",
-        "score": 317,
-        "comments": 207,
+        "score": 341,
+        "comments": 213,
         "hnUrl": "https://news.ycombinator.com/item?id=49354949",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Les deux factions de C++ (2024)",
-        "titleOriginal": "The Two Factions of C++ (2024)",
-        "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
-        "source": "herecomesthemoon.net",
-        "score": 43,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=49318311",
-        "date": "il y a 3 j"
+        "date": "il y a 12 h"
       }
     ]
   },
