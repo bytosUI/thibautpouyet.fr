@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T19:01:35.460Z",
+  "updatedAt": "2026-08-19T19:47:42.291Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 20,
       "feelsLike": 22,
-      "code": 3,
-      "wind": 19,
-      "humidity": 80
+      "code": 95,
+      "wind": 14,
+      "humidity": 88
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-08-20",
         "code": 3,
         "tmax": 25,
-        "tmin": 17
+        "tmin": 16
       },
       {
         "date": "2026-08-21",
         "code": 80,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 16
       },
       {
@@ -37,14 +37,22 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Blood in the Panopticon",
+        "viewers": 105,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -174,13 +182,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Openrouter rejoint Stripe",
-        "titleOriginal": "Openrouter is joining Stripe",
+        "title": "OpenRouter rejoint Stripe",
+        "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 180,
-        "comments": 126,
+        "score": 262,
+        "comments": 170,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Go 1.27",
+        "titleOriginal": "Go 1.27",
+        "url": "https://go.dev/blog/go1.27",
+        "source": "go.dev",
+        "score": 145,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49365405",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Unsloth Dynamic 3.0 GGUFs",
+        "titleOriginal": "Unsloth Dynamic 3.0 GGUFs",
+        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+        "source": "unsloth.ai",
+        "score": 36,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49365443",
         "date": "il y a 1 h"
       },
       {
@@ -188,30 +216,10 @@
         "titleOriginal": "A joke domain purchase turned in geopolitical warfare",
         "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "source": "sprocketfox.io",
-        "score": 491,
-        "comments": 66,
+        "score": 552,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=49360015",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Géolocalisation d'un îlot aléatoire à l'aide de la géométrie et de la programmation CUDA",
-        "titleOriginal": "Geolocating a random island using geometry and CUDA programming",
-        "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "source": "yassa9.github.io",
-        "score": 313,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=49360545",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Ornith-1.5 : De l'auto-échafaudage à l'auto-amélioration",
-        "titleOriginal": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-        "url": "https://ornith.ai/ornith_1_5.html",
-        "source": "ornith.ai",
-        "score": 109,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49362401",
-        "date": "il y a 4 h"
+        "date": "il y a 8 h"
       }
     ]
   },
