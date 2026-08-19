@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-19T22:49:13.803Z",
+  "updatedAt": "2026-08-19T23:17:18.687Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 18,
       "feelsLike": 19,
-      "code": 3,
-      "wind": 12,
+      "code": 2,
+      "wind": 11,
       "humidity": 85
     },
     "forecast": [
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 94,
+        "viewers": 96,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,12 +182,12 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenRouter is joining Stripe",
+        "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 507,
-        "comments": 282,
+        "score": 533,
+        "comments": 292,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
         "date": "il y a 5 h"
       },
@@ -196,28 +196,28 @@
         "titleOriginal": "Go 1.27",
         "url": "https://go.dev/blog/go1.27",
         "source": "go.dev",
-        "score": 368,
-        "comments": 80,
+        "score": 383,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=49365405",
         "date": "il y a 4 h"
       },
       {
-        "title": "Unsloth Dynamic 3.0 GGUFs",
-        "titleOriginal": "Unsloth Dynamic 3.0 GGUFs",
-        "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-        "source": "unsloth.ai",
-        "score": 146,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=49365443",
-        "date": "il y a 4 h"
+        "title": "Anthropic refuse de soutenir Agents.md",
+        "titleOriginal": "Anthropic Refuses to Support Agents.md",
+        "url": "https://github.com/anthropics/claude-code/issues/6235",
+        "source": "github.com",
+        "score": 65,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49367350",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+        "title": "Google a remplacé les balises Git pour certains codes sources par l'obtention via Google Drive",
         "titleOriginal": "Google replaced Git tags for certain source code with obtaining via Google Drive",
         "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
         "source": "grapheneos.social",
-        "score": 199,
-        "comments": 59,
+        "score": 225,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=49364745",
         "date": "il y a 5 h"
       }
