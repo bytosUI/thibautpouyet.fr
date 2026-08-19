@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T16:55:06.180Z",
+  "updatedAt": "2026-08-19T17:21:14.655Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 28,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 22,
-      "humidity": 41
+      "wind": 20,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "EMI : ON LUI DONNE UNE MISSION POUR REVENIR À LA VIE",
+        "title": "EMI : HALLUCINATION DU CERVEAU OU VRAI PHÉNOMÈNE SURNATUREL ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Z6Xsdik2Dt8",
-        "thumbnail": "https://i.ytimg.com/vi/Z6Xsdik2Dt8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z6Xsdik2Dt8",
-        "publishedAt": "2026-08-19T13:00:27+00:00"
+        "videoId": "5G-OblEpLRQ",
+        "thumbnail": "https://i.ytimg.com/vi/5G-OblEpLRQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5G-OblEpLRQ",
+        "publishedAt": "2026-08-19T17:00:09+00:00"
       },
       {
         "title": "Cloud, IA, Énergie : des Frenchies contre l’empire américain !",
@@ -178,29 +178,29 @@
         "titleOriginal": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
         "url": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
         "source": "shkspr.mobi",
-        "score": 144,
-        "comments": 83,
+        "score": 227,
+        "comments": 141,
         "hnUrl": "https://news.ycombinator.com/item?id=49363433",
-        "date": "il y a 47 min"
-      },
-      {
-        "title": "Géolocalisation d'un îlot aléatoire à l'aide de la géométrie et de la programmation CUDA",
-        "titleOriginal": "Geolocating a random island using geometry and CUDA programming",
-        "url": "https://yassa9.github.io/osint/gralhix-004/",
-        "source": "yassa9.github.io",
-        "score": 237,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=49360545",
-        "date": "il y a 4 h"
+        "date": "il y a 1 h"
       },
       {
         "title": "Un achat de domaine de plaisanterie transformé en guerre géopolitique",
         "titleOriginal": "A joke domain purchase turned in geopolitical warfare",
         "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
         "source": "sprocketfox.io",
-        "score": 324,
-        "comments": 43,
+        "score": 364,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=49360015",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Géolocalisation d'un îlot aléatoire à l'aide de la géométrie et de la programmation CUDA",
+        "titleOriginal": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
+        "source": "yassa9.github.io",
+        "score": 258,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=49360545",
         "date": "il y a 5 h"
       },
       {
@@ -208,10 +208,10 @@
         "titleOriginal": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
         "source": "github.com",
-        "score": 8,
-        "comments": 0,
+        "score": 14,
+        "comments": 2,
         "hnUrl": "https://news.ycombinator.com/item?id=49363710",
-        "date": "il y a 26 min"
+        "date": "il y a 52 min"
       }
     ]
   },
