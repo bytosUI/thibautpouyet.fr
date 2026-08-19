@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-19T12:34:27.757Z",
+  "updatedAt": "2026-08-19T13:38:50.542Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 29,
-      "feelsLike": 27,
-      "code": 3,
-      "wind": 24,
-      "humidity": 40
+      "temp": 30,
+      "feelsLike": 28,
+      "code": 2,
+      "wind": 28,
+      "humidity": 41
     },
     "forecast": [
       {
         "date": "2026-08-19",
         "code": 80,
-        "tmax": 31,
+        "tmax": 30,
         "tmin": 20
       },
       {
         "date": "2026-08-20",
         "code": 3,
-        "tmax": 26,
-        "tmin": 18
+        "tmax": 25,
+        "tmin": 17
       },
       {
         "date": "2026-08-21",
         "code": 3,
         "tmax": 24,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-08-22",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "UNE MAIN GÉANTE L’A RAMENÉ À LA VIE EN REPOUSSANT SON ÂME DANS SON CORPS",
+        "title": "EMI : ON LUI DONNE UNE MISSION POUR REVENIR À LA VIE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "UWvsbb8wzaE",
-        "thumbnail": "https://i.ytimg.com/vi/UWvsbb8wzaE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UWvsbb8wzaE",
-        "publishedAt": "2026-08-19T12:00:23+00:00"
+        "videoId": "Z6Xsdik2Dt8",
+        "thumbnail": "https://i.ytimg.com/vi/Z6Xsdik2Dt8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z6Xsdik2Dt8",
+        "publishedAt": "2026-08-19T13:00:27+00:00"
       },
       {
         "title": "Cloud, IA, Énergie : des Frenchies contre l’empire américain !",
@@ -178,40 +178,40 @@
         "titleOriginal": "GrapheneOS in 2027 available on high-end Motorola phones",
         "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
         "source": "grapheneos.social",
-        "score": 66,
-        "comments": 13,
+        "score": 201,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=49360242",
-        "date": "il y a 47 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Géolocalisation d'un îlot aléatoire à l'aide de la géométrie et de la programmation CUDA",
+        "titleOriginal": "Geolocating a random island using geometry and CUDA programming",
+        "url": "https://yassa9.github.io/osint/gralhix-004/",
+        "source": "yassa9.github.io",
+        "score": 70,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49360545",
+        "date": "il y a 1 h"
       },
       {
         "title": "OpenLogi",
         "titleOriginal": "OpenLogi",
         "url": "https://openlogi.org/en",
         "source": "openlogi.org",
-        "score": 966,
-        "comments": 260,
+        "score": 1053,
+        "comments": 302,
         "hnUrl": "https://news.ycombinator.com/item?id=49355606",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Air Theremin – un navigateur dans lequel vous jouez en agitant votre webcam",
         "titleOriginal": "Air Theremin – a browser theremin you play by waving at your webcam",
         "url": "https://theremin.bizibah.com/",
         "source": "theremin.bizibah.com",
-        "score": 67,
-        "comments": 37,
+        "score": 101,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=49359425",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Cerebras CS-4",
-        "titleOriginal": "Cerebras CS-4",
-        "url": "https://www.cerebras.ai/cs4",
-        "source": "cerebras.ai",
-        "score": 341,
-        "comments": 213,
-        "hnUrl": "https://news.ycombinator.com/item?id=49354949",
-        "date": "il y a 12 h"
+        "date": "il y a 3 h"
       }
     ]
   },
