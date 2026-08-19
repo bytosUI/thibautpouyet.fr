@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T11:19:24.514Z",
+  "updatedAt": "2026-08-19T11:48:40.967Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 29,
       "feelsLike": 27,
       "code": 3,
-      "wind": 22,
-      "humidity": 45
+      "wind": 23,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "OpenLogi",
         "url": "https://openlogi.org/en",
         "source": "openlogi.org",
-        "score": 805,
-        "comments": 225,
+        "score": 873,
+        "comments": 241,
         "hnUrl": "https://news.ycombinator.com/item?id=49355606",
         "date": "il y a 9 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Air Theremin – a browser theremin you play by waving at your webcam",
         "url": "https://theremin.bizibah.com/",
         "source": "theremin.bizibah.com",
-        "score": 21,
-        "comments": 8,
+        "score": 44,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49359425",
         "date": "il y a 1 h"
       },
@@ -198,18 +198,18 @@
         "titleOriginal": "Cerebras CS-4",
         "url": "https://www.cerebras.ai/cs4",
         "source": "cerebras.ai",
-        "score": 305,
-        "comments": 204,
+        "score": 317,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=49354949",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Les deux factions de C++ (2024)",
         "titleOriginal": "The Two Factions of C++ (2024)",
         "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
         "source": "herecomesthemoon.net",
-        "score": 41,
-        "comments": 30,
+        "score": 43,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=49318311",
         "date": "il y a 3 j"
       }
