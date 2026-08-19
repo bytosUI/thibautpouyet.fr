@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-19T19:47:42.291Z",
+  "updatedAt": "2026-08-19T20:19:33.436Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 20,
-      "feelsLike": 22,
+      "feelsLike": 21,
       "code": 95,
       "wind": 14,
       "humidity": 88
@@ -42,7 +42,7 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "Blood in the Panopticon",
-        "viewers": 105,
+        "viewers": 108,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -186,8 +186,8 @@
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 262,
-        "comments": 170,
+        "score": 316,
+        "comments": 192,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
         "date": "il y a 2 h"
       },
@@ -196,8 +196,8 @@
         "titleOriginal": "Go 1.27",
         "url": "https://go.dev/blog/go1.27",
         "source": "go.dev",
-        "score": 145,
-        "comments": 19,
+        "score": 205,
+        "comments": 31,
         "hnUrl": "https://news.ycombinator.com/item?id=49365405",
         "date": "il y a 1 h"
       },
@@ -206,20 +206,20 @@
         "titleOriginal": "Unsloth Dynamic 3.0 GGUFs",
         "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
         "source": "unsloth.ai",
-        "score": 36,
-        "comments": 6,
+        "score": 57,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49365443",
         "date": "il y a 1 h"
       },
       {
-        "title": "Un achat de domaine de plaisanterie transformé en guerre géopolitique",
-        "titleOriginal": "A joke domain purchase turned in geopolitical warfare",
-        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-        "source": "sprocketfox.io",
-        "score": 552,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=49360015",
-        "date": "il y a 8 h"
+        "title": "Pixel 11 Pro Fold se sent comme la fin d'une ère",
+        "titleOriginal": "Pixel 11 Pro Fold feels like the end of an era",
+        "url": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+        "source": "theverge.com",
+        "score": 17,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49366264",
+        "date": "il y a 35 min"
       }
     ]
   },
