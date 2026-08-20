@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T13:41:00.621Z",
+  "updatedAt": "2026-08-20T14:29:38.373Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 25,
       "feelsLike": 22,
-      "code": 3,
-      "wind": 17,
-      "humidity": 43
+      "code": 2,
+      "wind": 18,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "EMI : SON FRÈRE A ÉTÉ TRAUMATISÉ APRÈS L'AVOIR VU MORT",
+        "title": "LA 1ÈRE FOIS QU'IL REPILOTE APRÈS SON CRASH D'AVION",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "WhgDfcxzKTY",
-        "thumbnail": "https://i.ytimg.com/vi/WhgDfcxzKTY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WhgDfcxzKTY",
-        "publishedAt": "2026-08-20T13:00:03+00:00"
+        "videoId": "dHprI0O7_CI",
+        "thumbnail": "https://i.ytimg.com/vi/dHprI0O7_CI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dHprI0O7_CI",
+        "publishedAt": "2026-08-20T14:00:09+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -79,7 +79,7 @@
         "publishedAt": "2026-08-18T16:01:59+00:00"
       },
       {
-        "title": "J'ai vibecodé un site à un café coréen ! 🇰🇷",
+        "title": "J'ai offert un site à un café coréen (gratuitement) ! 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
         "videoId": "xQ_eTrcN8_4",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Malicious Rust Crate Arrayref exécute une charge utile au moment de la construction",
+        "titleOriginal": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "source": "safedep.io",
+        "score": 92,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49374269",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Ne collez pas l'IA, s'il vous plaît",
         "titleOriginal": "Don't Paste the AI, please",
         "url": "https://dontpastetheai.com/",
         "source": "dontpastetheai.com",
-        "score": 733,
-        "comments": 363,
+        "score": 862,
+        "comments": 436,
         "hnUrl": "https://news.ycombinator.com/item?id=49371857",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
         "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "blog.laserphile.com",
-        "score": 271,
-        "comments": 84,
+        "score": 337,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=49372583",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Show HN : J'ai formé un modèle de 125 M pour compléter automatiquement le piano sur l'appareil",
         "titleOriginal": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "source": "simedw.com",
-        "score": 87,
-        "comments": 27,
+        "score": 153,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=49373456",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Malicious Rust Crate Arrayref exécute une charge utile au moment de la construction",
-        "titleOriginal": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-        "source": "safedep.io",
-        "score": 15,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49374269",
-        "date": "il y a 17 min"
+        "date": "il y a 2 h"
       }
     ]
   },
