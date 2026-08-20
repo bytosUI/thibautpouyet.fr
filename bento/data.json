@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T23:20:04.789Z",
+  "updatedAt": "2026-08-20T23:48:29.227Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
-      "feelsLike": 20,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 1,
-      "humidity": 79
+      "wind": 3,
+      "humidity": 81
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 117,
+        "viewers": 101,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,18 +186,18 @@
         "titleOriginal": "The August 17 outage, and the work ahead",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "source": "github.blog",
-        "score": 215,
-        "comments": 257,
+        "score": 246,
+        "comments": 289,
         "hnUrl": "https://news.ycombinator.com/item?id=49378957",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Droits du consommateur",
         "titleOriginal": "Consumer Rights Wiki",
         "url": "https://consumerrights.wiki/w/Main_Page",
         "source": "consumerrights.wiki",
-        "score": 164,
-        "comments": 10,
+        "score": 180,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49378243",
         "date": "il y a 5 h"
       },
@@ -206,8 +206,8 @@
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 502,
-        "comments": 240,
+        "score": 517,
+        "comments": 245,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
       },
@@ -216,8 +216,8 @@
         "titleOriginal": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
         "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
         "source": "blog.curiousquail.com",
-        "score": 611,
-        "comments": 117,
+        "score": 706,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=49379550",
         "date": "il y a 3 h"
       }
