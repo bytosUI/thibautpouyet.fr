@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T09:27:17.698Z",
+  "updatedAt": "2026-08-20T09:59:42.789Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
+      "temp": 21,
       "feelsLike": 19,
       "code": 3,
-      "wind": 16,
-      "humidity": 64
+      "wind": 18,
+      "humidity": 58
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "Don't Paste the AI, please",
         "url": "https://dontpastetheai.com/",
         "source": "dontpastetheai.com",
-        "score": 126,
-        "comments": 65,
+        "score": 194,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49371857",
         "date": "il y a 1 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "devblogs.microsoft.com",
-        "score": 152,
-        "comments": 66,
+        "score": 166,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=49371006",
         "date": "il y a 3 h"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 836,
-        "comments": 437,
+        "score": 842,
+        "comments": 441,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       },
       {
         "title": "Les virages sont meilleurs que les radians (2022)",
         "titleOriginal": "Turns are Better than Radians (2022)",
         "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
         "source": "computerenhance.com",
-        "score": 200,
-        "comments": 92,
+        "score": 209,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=49369408",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       }
     ]
   },
