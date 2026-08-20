@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T04:05:41.042Z",
+  "updatedAt": "2026-08-20T05:02:38.823Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
-      "feelsLike": 17,
-      "code": 3,
-      "wind": 7,
-      "humidity": 92
+      "feelsLike": 16,
+      "code": 2,
+      "wind": 8,
+      "humidity": 94
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-21",
-        "code": 80,
+        "code": 95,
         "tmax": 24,
         "tmin": 16
       },
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -102,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenRouter rejoint Stripe",
+        "title": "OpenRouter is joining Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 710,
-        "comments": 365,
+        "score": 744,
+        "comments": 371,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Error by AI scribe during medical appointment leaves patient devastated",
+        "titleOriginal": "Error by AI scribe during medical appointment leaves patient devastated",
+        "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+        "source": "abc.net.au",
+        "score": 52,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49294441",
+        "date": "il y a 6 j"
       },
       {
         "title": "Go 1.27",
         "titleOriginal": "Go 1.27",
         "url": "https://go.dev/blog/go1.27",
         "source": "go.dev",
-        "score": 502,
-        "comments": 132,
+        "score": 527,
+        "comments": 136,
         "hnUrl": "https://news.ycombinator.com/item?id=49365405",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Les virages sont meilleurs que les radians",
-        "titleOriginal": "Turns are Better than Radians",
+        "title": "Turns are Better than Radians (2022)",
+        "titleOriginal": "Turns are Better than Radians (2022)",
         "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
         "source": "computerenhance.com",
-        "score": 43,
-        "comments": 24,
+        "score": 77,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=49369408",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Un moyen plus rapide de calculer le jour de la semaine",
-        "titleOriginal": "A faster way to calculate the day of the week",
-        "url": "https://www.benjoffe.com/fast-day-of-week",
-        "source": "benjoffe.com",
-        "score": 41,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=49323795",
-        "date": "il y a 3 j"
+        "date": "il y a 3 h"
       }
     ]
   },
