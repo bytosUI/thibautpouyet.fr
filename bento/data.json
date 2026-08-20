@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T19:11:17.048Z",
+  "updatedAt": "2026-08-20T19:53:53.454Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 21,
       "feelsLike": 21,
       "code": 3,
-      "wind": 5,
-      "humidity": 51
+      "wind": 3,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 32,
+        "viewers": 103,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,12 +182,22 @@
   "hackernews": {
     "items": [
       {
+        "title": "Une étude scientifique révèle que les vidéos TikTok désactivent les principales régions cognitives du cerveau",
+        "titleOriginal": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+        "url": "https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/",
+        "source": "rathbiotaclan.com",
+        "score": 120,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49378630",
+        "date": "il y a 59 min"
+      },
+      {
         "title": "I like 'em thick : des excuses à mes professeurs d'anglais",
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 344,
-        "comments": 155,
+        "score": 390,
+        "comments": 184,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
       },
@@ -196,30 +206,20 @@
         "titleOriginal": "I should have loved biology",
         "url": "https://jsomers.net/i-should-have-loved-biology/",
         "source": "jsomers.net",
-        "score": 60,
-        "comments": 23,
+        "score": 95,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=49377853",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
-        "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-        "source": "blog.laserphile.com",
-        "score": 723,
-        "comments": 240,
-        "hnUrl": "https://news.ycombinator.com/item?id=49372583",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "HTML peut le faire",
-        "titleOriginal": "HTML Can Do That",
-        "url": "https://chrisburnell.com/html-can-do-that/",
-        "source": "chrisburnell.com",
-        "score": 367,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49362689",
-        "date": "hier"
+        "title": "La panne du 17 août et les travaux à venir",
+        "titleOriginal": "The August 17 outage, and the work ahead",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "source": "github.blog",
+        "score": 30,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49378957",
+        "date": "il y a 31 min"
       }
     ]
   },
