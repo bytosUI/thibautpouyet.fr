@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T18:30:11.432Z",
+  "updatedAt": "2026-08-20T19:11:17.048Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 22,
+      "feelsLike": 21,
       "code": 3,
-      "wind": 9,
-      "humidity": 46
+      "wind": 5,
+      "humidity": 51
     },
     "forecast": [
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 32,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,40 +186,40 @@
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 301,
-        "comments": 133,
+        "score": 344,
+        "comments": 155,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
+      },
+      {
+        "title": "J'aurais dû aimer la biologie",
+        "titleOriginal": "I should have loved biology",
+        "url": "https://jsomers.net/i-should-have-loved-biology/",
+        "source": "jsomers.net",
+        "score": 60,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49377853",
+        "date": "il y a 1 h"
       },
       {
         "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
         "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "blog.laserphile.com",
-        "score": 692,
-        "comments": 228,
+        "score": 723,
+        "comments": 240,
         "hnUrl": "https://news.ycombinator.com/item?id=49372583",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "HTML peut le faire",
         "titleOriginal": "HTML Can Do That",
         "url": "https://chrisburnell.com/html-can-do-that/",
         "source": "chrisburnell.com",
-        "score": 320,
-        "comments": 89,
+        "score": 367,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49362689",
         "date": "hier"
-      },
-      {
-        "title": "Linux 7.2",
-        "titleOriginal": "Linux 7.2",
-        "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-        "source": "igalia.com",
-        "score": 66,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49376265",
-        "date": "il y a 2 h"
       }
     ]
   },
