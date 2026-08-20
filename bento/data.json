@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T12:35:54.708Z",
+  "updatedAt": "2026-08-20T13:41:00.621Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
-      "feelsLike": 21,
-      "code": 2,
-      "wind": 21,
-      "humidity": 42
+      "feelsLike": 22,
+      "code": 3,
+      "wind": 17,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"SI LE COEUR S'ARRÊTE, LE CERVEAU NE SURVIT QUE 12 SECONDES\"",
+        "title": "EMI : SON FRÈRE A ÉTÉ TRAUMATISÉ APRÈS L'AVOIR VU MORT",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "OyyhLtL8nWM",
-        "thumbnail": "https://i.ytimg.com/vi/OyyhLtL8nWM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OyyhLtL8nWM",
-        "publishedAt": "2026-08-20T12:00:38+00:00"
+        "videoId": "WhgDfcxzKTY",
+        "thumbnail": "https://i.ytimg.com/vi/WhgDfcxzKTY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WhgDfcxzKTY",
+        "publishedAt": "2026-08-20T13:00:03+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -154,7 +154,7 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 13 sem",
+        "time": "il y a 14 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Don't Paste the AI, please",
         "url": "https://dontpastetheai.com/",
         "source": "dontpastetheai.com",
-        "score": 574,
-        "comments": 275,
+        "score": 733,
+        "comments": 363,
         "hnUrl": "https://news.ycombinator.com/item?id=49371857",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
         "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "blog.laserphile.com",
-        "score": 177,
-        "comments": 50,
+        "score": 271,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49372583",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Windows fait ressortir le test de Rorschach chez tout le monde (2003)",
-        "titleOriginal": "Windows brings out the Rorschach test in everyone (2003)",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-        "source": "devblogs.microsoft.com",
-        "score": 249,
-        "comments": 94,
-        "hnUrl": "https://news.ycombinator.com/item?id=49371006",
-        "date": "il y a 6 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Show HN : J'ai formé un modèle de 125 M pour compléter automatiquement le piano sur l'appareil",
         "titleOriginal": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "source": "simedw.com",
-        "score": 18,
-        "comments": 6,
+        "score": 87,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49373456",
-        "date": "il y a 31 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Malicious Rust Crate Arrayref exécute une charge utile au moment de la construction",
+        "titleOriginal": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+        "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+        "source": "safedep.io",
+        "score": 15,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49374269",
+        "date": "il y a 17 min"
       }
     ]
   },
