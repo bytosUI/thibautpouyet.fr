@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T07:36:02.142Z",
+  "updatedAt": "2026-08-20T08:30:45.708Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
-      "code": 2,
-      "wind": 14,
-      "humidity": 82
+      "temp": 19,
+      "feelsLike": 18,
+      "code": 3,
+      "wind": 15,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "nowtechteam",
         "displayName": "NowtechTeam",
         "game": "Just Chatting",
-        "viewers": 584,
+        "viewers": 590,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
         "url": "https://twitch.tv/nowtechteam"
       }
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "EMI : HALLUCINATION DU CERVEAU OU VRAI PHÉNOMÈNE SURNATUREL ?",
+        "title": "5 À 10% DE LA POPULATION A VÉCU UNE EXPÉRIENCE DE MORT IMMINENTE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "5G-OblEpLRQ",
-        "thumbnail": "https://i.ytimg.com/vi/5G-OblEpLRQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5G-OblEpLRQ",
-        "publishedAt": "2026-08-19T17:00:09+00:00"
+        "videoId": "GJv0s4FWSoQ",
+        "thumbnail": "https://i.ytimg.com/vi/GJv0s4FWSoQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GJv0s4FWSoQ",
+        "publishedAt": "2026-08-20T08:00:19+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -186,18 +186,18 @@
         "titleOriginal": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "devblogs.microsoft.com",
-        "score": 64,
-        "comments": 13,
+        "score": 113,
+        "comments": 45,
         "hnUrl": "https://news.ycombinator.com/item?id=49371006",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 807,
-        "comments": 413,
+        "score": 827,
+        "comments": 422,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
         "date": "il y a 14 h"
       },
@@ -206,18 +206,18 @@
         "titleOriginal": "Turns are Better than Radians (2022)",
         "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
         "source": "computerenhance.com",
-        "score": 163,
-        "comments": 70,
+        "score": 187,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=49369408",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Go 1.27",
         "titleOriginal": "Go 1.27",
         "url": "https://go.dev/blog/go1.27",
         "source": "go.dev",
-        "score": 600,
-        "comments": 159,
+        "score": 616,
+        "comments": 169,
         "hnUrl": "https://news.ycombinator.com/item?id=49365405",
         "date": "il y a 13 h"
       }
