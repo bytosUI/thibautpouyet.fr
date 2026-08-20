@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T09:59:42.789Z",
+  "updatedAt": "2026-08-20T10:36:40.804Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 19,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 3,
       "wind": 18,
-      "humidity": 58
+      "humidity": 54
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ÉCRASÉ PAR UN CAMION, IL A ÉTÉ OPÉRÉ PLUS DE 40H",
+        "title": "PILOTE D'AVION, IL RACONTE LES DERNIÈRES SECONDES AVANT LE CRASH",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "EHX4QQY0K3I",
-        "thumbnail": "https://i.ytimg.com/vi/EHX4QQY0K3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EHX4QQY0K3I",
-        "publishedAt": "2026-08-20T09:00:27+00:00"
+        "videoId": "H1TiqL_rIGA",
+        "thumbnail": "https://i.ytimg.com/vi/H1TiqL_rIGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H1TiqL_rIGA",
+        "publishedAt": "2026-08-20T10:00:38+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,40 +178,40 @@
         "titleOriginal": "Don't Paste the AI, please",
         "url": "https://dontpastetheai.com/",
         "source": "dontpastetheai.com",
-        "score": 194,
-        "comments": 102,
+        "score": 288,
+        "comments": 153,
         "hnUrl": "https://news.ycombinator.com/item?id=49371857",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Windows fait ressortir le test de Rorschach chez tout le monde",
         "titleOriginal": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "devblogs.microsoft.com",
-        "score": 166,
-        "comments": 70,
+        "score": 187,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=49371006",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 842,
-        "comments": 441,
+        "score": 848,
+        "comments": 443,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 16 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Les virages sont meilleurs que les radians (2022)",
         "titleOriginal": "Turns are Better than Radians (2022)",
         "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
         "source": "computerenhance.com",
-        "score": 209,
-        "comments": 97,
+        "score": 215,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49369408",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       }
     ]
   },
