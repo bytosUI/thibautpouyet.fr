@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T05:02:38.823Z",
+  "updatedAt": "2026-08-20T05:55:14.175Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 16,
       "code": 2,
-      "wind": 8,
-      "humidity": 94
+      "wind": 7,
+      "humidity": 92
     },
     "forecast": [
       {
@@ -92,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenRouter is joining Stripe",
+        "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 744,
-        "comments": 371,
+        "score": 769,
+        "comments": 385,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 11 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Error by AI scribe during medical appointment leaves patient devastated",
-        "titleOriginal": "Error by AI scribe during medical appointment leaves patient devastated",
-        "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
-        "source": "abc.net.au",
-        "score": 52,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49294441",
-        "date": "il y a 6 j"
+        "title": "Les virages sont meilleurs que les radians (2022)",
+        "titleOriginal": "Turns are Better than Radians (2022)",
+        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+        "source": "computerenhance.com",
+        "score": 107,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49369408",
+        "date": "il y a 4 h"
       },
       {
         "title": "Go 1.27",
         "titleOriginal": "Go 1.27",
         "url": "https://go.dev/blog/go1.27",
         "source": "go.dev",
-        "score": 527,
-        "comments": 136,
+        "score": 553,
+        "comments": 140,
         "hnUrl": "https://news.ycombinator.com/item?id=49365405",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Turns are Better than Radians (2022)",
-        "titleOriginal": "Turns are Better than Radians (2022)",
-        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "source": "computerenhance.com",
-        "score": 77,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=49369408",
-        "date": "il y a 3 h"
+        "title": "L'erreur commise par AI scribe lors du rendez-vous médical laisse le patient dévasté",
+        "titleOriginal": "Error by AI scribe during medical appointment leaves patient devastated",
+        "url": "https://www.abc.net.au/news/2026-08-14/ai-medical-scribe-error-leaves-patient-devastated/107031672",
+        "source": "abc.net.au",
+        "score": 109,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=49294441",
+        "date": "il y a 6 j"
       }
     ]
   },
