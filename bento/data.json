@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T14:29:38.373Z",
+  "updatedAt": "2026-08-20T15:06:10.537Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 25,
       "feelsLike": 22,
       "code": 2,
-      "wind": 18,
-      "humidity": 41
+      "wind": 21,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA 1ÈRE FOIS QU'IL REPILOTE APRÈS SON CRASH D'AVION",
+        "title": "EMI : LA PHRASE D'UN AMBULANCIER LUI A SAUVÉ LA VIE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "dHprI0O7_CI",
-        "thumbnail": "https://i.ytimg.com/vi/dHprI0O7_CI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dHprI0O7_CI",
-        "publishedAt": "2026-08-20T14:00:09+00:00"
+        "videoId": "IUe4mowbjMY",
+        "thumbnail": "https://i.ytimg.com/vi/IUe4mowbjMY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IUe4mowbjMY",
+        "publishedAt": "2026-08-20T15:00:13+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,28 +178,28 @@
         "titleOriginal": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
         "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
         "source": "safedep.io",
-        "score": 92,
-        "comments": 34,
+        "score": 153,
+        "comments": 106,
         "hnUrl": "https://news.ycombinator.com/item?id=49374269",
         "date": "il y a 1 h"
       },
       {
-        "title": "Ne collez pas l'IA, s'il vous plaît",
-        "titleOriginal": "Don't Paste the AI, please",
-        "url": "https://dontpastetheai.com/",
-        "source": "dontpastetheai.com",
-        "score": 862,
-        "comments": 436,
-        "hnUrl": "https://news.ycombinator.com/item?id=49371857",
-        "date": "il y a 6 h"
+        "title": "Factures de hausses de récolte de 1500 % après avoir été achetées par Bending Spoons",
+        "titleOriginal": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+        "url": "https://www.bbc.com/news/articles/clyq011414eo",
+        "source": "bbc.com",
+        "score": 57,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49374920",
+        "date": "il y a 47 min"
       },
       {
         "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
         "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "blog.laserphile.com",
-        "score": 337,
-        "comments": 111,
+        "score": 392,
+        "comments": 128,
         "hnUrl": "https://news.ycombinator.com/item?id=49372583",
         "date": "il y a 4 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "source": "simedw.com",
-        "score": 153,
-        "comments": 36,
+        "score": 203,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=49373456",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
