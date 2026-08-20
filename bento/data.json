@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T08:30:45.708Z",
+  "updatedAt": "2026-08-20T09:27:17.698Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 15,
-      "humidity": 73
+      "wind": 16,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -37,21 +37,13 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 590,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "5 À 10% DE LA POPULATION A VÉCU UNE EXPÉRIENCE DE MORT IMMINENTE",
+        "title": "ÉCRASÉ PAR UN CAMION, IL A ÉTÉ OPÉRÉ PLUS DE 40H",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "GJv0s4FWSoQ",
-        "thumbnail": "https://i.ytimg.com/vi/GJv0s4FWSoQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GJv0s4FWSoQ",
-        "publishedAt": "2026-08-20T08:00:19+00:00"
+        "videoId": "EHX4QQY0K3I",
+        "thumbnail": "https://i.ytimg.com/vi/EHX4QQY0K3I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EHX4QQY0K3I",
+        "publishedAt": "2026-08-20T09:00:27+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Ne collez pas l'IA, s'il vous plaît",
+        "titleOriginal": "Don't Paste the AI, please",
+        "url": "https://dontpastetheai.com/",
+        "source": "dontpastetheai.com",
+        "score": 126,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49371857",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Windows fait ressortir le test de Rorschach chez tout le monde",
         "titleOriginal": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "devblogs.microsoft.com",
-        "score": 113,
-        "comments": 45,
+        "score": 152,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=49371006",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 827,
-        "comments": 422,
+        "score": 836,
+        "comments": 437,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Les virages sont meilleurs que les radians (2022)",
         "titleOriginal": "Turns are Better than Radians (2022)",
         "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
         "source": "computerenhance.com",
-        "score": 187,
-        "comments": 82,
+        "score": 200,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=49369408",
         "date": "il y a 7 h"
-      },
-      {
-        "title": "Go 1.27",
-        "titleOriginal": "Go 1.27",
-        "url": "https://go.dev/blog/go1.27",
-        "source": "go.dev",
-        "score": 616,
-        "comments": 169,
-        "hnUrl": "https://news.ycombinator.com/item?id=49365405",
-        "date": "il y a 13 h"
       }
     ]
   },
