@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-19T23:44:59.108Z",
+  "updatedAt": "2026-08-20T00:54:43.030Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 19,
+      "temp": 17,
+      "feelsLike": 18,
       "code": 2,
-      "wind": 11,
-      "humidity": 86
+      "wind": 8,
+      "humidity": 87
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 74,
+        "viewers": 62,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "La police de Gardner interrompt les caméras Flock alors que les lecteurs de plaques d'immatriculation font l'objet d'un examen minu",
+        "titleOriginal": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+        "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+        "source": "kmbc.com",
+        "score": 64,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49368625",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 557,
-        "comments": 305,
+        "score": 607,
+        "comments": 323,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Go 1.27",
         "titleOriginal": "Go 1.27",
         "url": "https://go.dev/blog/go1.27",
         "source": "go.dev",
-        "score": 398,
-        "comments": 91,
+        "score": 424,
+        "comments": 103,
         "hnUrl": "https://news.ycombinator.com/item?id=49365405",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Google a remplacé les balises Git pour certains codes sources par l'obtention via Google Drive",
         "titleOriginal": "Google replaced Git tags for certain source code with obtaining via Google Drive",
         "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
         "source": "grapheneos.social",
-        "score": 242,
-        "comments": 88,
+        "score": 277,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=49364745",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Déverrouillage d'un Cricut Maker de déchets électroniques verrouillé/désactivé",
-        "titleOriginal": "Unlocking a locked/deactivated e-waste Cricut Maker",
-        "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-        "source": "sprocketfox.io",
-        "score": 112,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49365841",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       }
     ]
   },
