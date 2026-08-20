@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T11:20:34.938Z",
+  "updatedAt": "2026-08-20T11:50:51.789Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 20,
       "code": 3,
-      "wind": 19,
-      "humidity": 50
+      "wind": 20,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -178,18 +178,18 @@
         "titleOriginal": "Don't Paste the AI, please",
         "url": "https://dontpastetheai.com/",
         "source": "dontpastetheai.com",
-        "score": 378,
-        "comments": 189,
+        "score": 460,
+        "comments": 222,
         "hnUrl": "https://news.ycombinator.com/item?id=49371857",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
         "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "blog.laserphile.com",
-        "score": 67,
-        "comments": 21,
+        "score": 111,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=49372583",
         "date": "il y a 1 h"
       },
@@ -198,8 +198,8 @@
         "titleOriginal": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "devblogs.microsoft.com",
-        "score": 211,
-        "comments": 85,
+        "score": 228,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=49371006",
         "date": "il y a 5 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 861,
-        "comments": 444,
+        "score": 876,
+        "comments": 449,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
-        "date": "il y a 17 h"
+        "date": "il y a 18 h"
       }
     ]
   },
