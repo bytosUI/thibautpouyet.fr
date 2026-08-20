@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T17:22:47.698Z",
+  "updatedAt": "2026-08-20T17:54:34.749Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
       "feelsLike": 22,
       "code": 2,
-      "wind": 16,
-      "humidity": 39
+      "wind": 14,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 204,
-        "comments": 67,
+        "score": 261,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
         "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
         "source": "blog.laserphile.com",
-        "score": 625,
-        "comments": 210,
+        "score": 662,
+        "comments": 217,
         "hnUrl": "https://news.ycombinator.com/item?id=49372583",
         "date": "il y a 7 h"
       },
@@ -198,8 +198,8 @@
         "titleOriginal": "HTML Can Do That",
         "url": "https://chrisburnell.com/html-can-do-that/",
         "source": "chrisburnell.com",
-        "score": 233,
-        "comments": 56,
+        "score": 274,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49362689",
         "date": "hier"
       },
@@ -208,8 +208,8 @@
         "titleOriginal": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "source": "simedw.com",
-        "score": 332,
-        "comments": 79,
+        "score": 353,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49373456",
         "date": "il y a 5 h"
       }
