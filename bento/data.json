@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T21:21:44.561Z",
+  "updatedAt": "2026-08-20T21:52:11.662Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 20,
       "feelsLike": 20,
       "code": 3,
-      "wind": 8,
-      "humidity": 64
+      "wind": 7,
+      "humidity": 68
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 134,
+        "viewers": 143,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -182,13 +182,13 @@
   "hackernews": {
     "items": [
       {
-        "title": "Show HN : Huzzah – une nouvelle approche du codage avec l'IA",
-        "titleOriginal": "Show HN: Huzzah – a novel approach to coding with AI",
-        "url": "https://www.danielvaughn.dev/posts/huzzah/",
-        "source": "danielvaughn.dev",
-        "score": 113,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=49378768",
+        "title": "La panne du 17 août et les travaux à venir",
+        "titleOriginal": "The August 17 outage, and the work ahead",
+        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+        "source": "github.blog",
+        "score": 131,
+        "comments": 139,
+        "hnUrl": "https://news.ycombinator.com/item?id=49378957",
         "date": "il y a 2 h"
       },
       {
@@ -196,30 +196,30 @@
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 446,
-        "comments": 219,
+        "score": 468,
+        "comments": 225,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
-      },
-      {
-        "title": "J'aurais dû aimer la biologie (2020)",
-        "titleOriginal": "I should have loved biology (2020)",
-        "url": "https://jsomers.net/i-should-have-loved-biology/",
-        "source": "jsomers.net",
-        "score": 142,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=49377853",
-        "date": "il y a 3 h"
       },
       {
         "title": "Droits du consommateur",
         "titleOriginal": "Consumer Rights Wiki",
         "url": "https://consumerrights.wiki/w/Main_Page",
         "source": "consumerrights.wiki",
-        "score": 87,
-        "comments": 1,
+        "score": 111,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=49378243",
         "date": "il y a 3 h"
+      },
+      {
+        "title": "J'aurais dû aimer la biologie (2020)",
+        "titleOriginal": "I should have loved biology (2020)",
+        "url": "https://jsomers.net/i-should-have-loved-biology/",
+        "source": "jsomers.net",
+        "score": 151,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49377853",
+        "date": "il y a 4 h"
       }
     ]
   },
