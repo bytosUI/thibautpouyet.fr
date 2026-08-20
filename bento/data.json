@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-20T10:36:40.804Z",
+  "updatedAt": "2026-08-20T11:20:34.938Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 23,
       "feelsLike": 20,
       "code": 3,
-      "wind": 18,
-      "humidity": 54
+      "wind": 19,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "PILOTE D'AVION, IL RACONTE LES DERNIÈRES SECONDES AVANT LE CRASH",
+        "title": "ÉCRASÉ PAR UN CAMION À 13 ANS, LE CHAUFFEUR NE S'EST JAMAIS EXCUSÉ",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "H1TiqL_rIGA",
-        "thumbnail": "https://i.ytimg.com/vi/H1TiqL_rIGA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H1TiqL_rIGA",
-        "publishedAt": "2026-08-20T10:00:38+00:00"
+        "videoId": "V99FN-6fU-k",
+        "thumbnail": "https://i.ytimg.com/vi/V99FN-6fU-k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V99FN-6fU-k",
+        "publishedAt": "2026-08-20T11:00:29+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,40 +178,40 @@
         "titleOriginal": "Don't Paste the AI, please",
         "url": "https://dontpastetheai.com/",
         "source": "dontpastetheai.com",
-        "score": 288,
-        "comments": 153,
+        "score": 378,
+        "comments": 189,
         "hnUrl": "https://news.ycombinator.com/item?id=49371857",
         "date": "il y a 2 h"
+      },
+      {
+        "title": "AliExpress exécute une empreinte WebAudio silencieuse qui brise le multipoint Bluetooth",
+        "titleOriginal": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+        "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+        "source": "blog.laserphile.com",
+        "score": 67,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=49372583",
+        "date": "il y a 1 h"
       },
       {
         "title": "Windows fait ressortir le test de Rorschach chez tout le monde",
         "titleOriginal": "Windows brings out the Rorschach test in everyone",
         "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
         "source": "devblogs.microsoft.com",
-        "score": 187,
-        "comments": 80,
+        "score": 211,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=49371006",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "OpenRouter rejoint Stripe",
         "titleOriginal": "OpenRouter is joining Stripe",
         "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
         "source": "openrouter.ai",
-        "score": 848,
-        "comments": 443,
+        "score": 861,
+        "comments": 444,
         "hnUrl": "https://news.ycombinator.com/item?id=49364559",
         "date": "il y a 17 h"
-      },
-      {
-        "title": "Les virages sont meilleurs que les radians (2022)",
-        "titleOriginal": "Turns are Better than Radians (2022)",
-        "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-        "source": "computerenhance.com",
-        "score": 215,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49369408",
-        "date": "il y a 9 h"
       }
     ]
   },
