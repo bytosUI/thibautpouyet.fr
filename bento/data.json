@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T11:50:29.279Z",
+  "updatedAt": "2026-08-21T12:34:42.472Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
-      "code": 3,
-      "wind": 4,
-      "humidity": 62
+      "temp": 20,
+      "feelsLike": 20,
+      "code": 63,
+      "wind": 5,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL FAUT MANGER 300 G DE VIANDE PAR JOUR POUR ÊTRE EN BONNE SANTÉ SELON CE MÉDECIN",
+        "title": "IL A ÉTÉ VÉGÉTARIEN 9 MOIS...SES ANALYSES SANGUINES L'ONT OBLIGÉ À REMANGER DE LA VIANDE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "aIWYpJMHAyE",
-        "thumbnail": "https://i.ytimg.com/vi/aIWYpJMHAyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aIWYpJMHAyE",
-        "publishedAt": "2026-08-21T11:00:29+00:00"
+        "videoId": "DDsH1jo7lUc",
+        "thumbnail": "https://i.ytimg.com/vi/DDsH1jo7lUc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DDsH1jo7lUc",
+        "publishedAt": "2026-08-21T12:00:12+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,40 +178,40 @@
         "titleOriginal": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "source": "api-docs.deepseek.com",
-        "score": 118,
-        "comments": 23,
+        "score": 162,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=49386163",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les entreprises d'IA détruisent les livres physiques – analysons les livres rares avant qu'il ne soit trop tard",
+        "titleOriginal": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.pk/blog/physical-destruction.html",
+        "source": "annas-archive.pk",
+        "score": 110,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=49385994",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Architecture du système de base TigerBeetle : Déconstruction de l'ingénierie de performance",
+        "titleOriginal": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+        "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+        "source": "ixuvo.com",
+        "score": 26,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49386659",
+        "date": "il y a 51 min"
       },
       {
         "title": "Le trésor perdu des pirates de Sid Meier",
         "titleOriginal": "The Lost Treasure of Sid Meier's Pirates",
         "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
         "source": "remapradio.com",
-        "score": 122,
-        "comments": 58,
+        "score": 141,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=49384896",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Petites astuces Web natives qui méritent d'être rappelées",
-        "titleOriginal": "Small, native web tricks worth remembering",
-        "url": "https://htmlcat.net/",
-        "source": "htmlcat.net",
-        "score": 56,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49385860",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Nous avons reconstruit la pile MicroVM Linux sur Apple Silicon",
-        "titleOriginal": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-        "url": "https://encore.dev/blog/firecracker-apple-silicon",
-        "source": "encore.dev",
-        "score": 94,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=49384716",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
