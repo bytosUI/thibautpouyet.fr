@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T21:17:48.522Z",
+  "updatedAt": "2026-08-21T21:46:48.422Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 16,
       "feelsLike": 16,
       "code": 3,
-      "wind": 10,
-      "humidity": 73
+      "wind": 6,
+      "humidity": 74
     },
     "forecast": [
       {
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-08-24",
-        "code": 80,
+        "code": 3,
         "tmax": 26,
         "tmin": 13
       }
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 131,
+        "viewers": 135,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,18 +186,18 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 304,
-        "comments": 103,
+        "score": 319,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Banc du crime",
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 358,
-        "comments": 163,
+        "score": 381,
+        "comments": 175,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
         "date": "il y a 6 h"
       },
@@ -206,20 +206,20 @@
         "titleOriginal": "Scientists release biggest 2D map of the universe",
         "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "source": "newscenter.lbl.gov",
-        "score": 75,
-        "comments": 26,
+        "score": 90,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49392200",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Petites impressions : une semaine d'utilisation du Codex plus que Claude",
-        "titleOriginal": "Quick impressions: A week of using Codex more than Claude",
-        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "source": "allaboutcoding.ghinda.com",
-        "score": 43,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=49393051",
-        "date": "il y a 1 h"
+        "title": "Accusations de crime pour un citoyen qui supprime des données téléphoniques à la frontière américaine",
+        "titleOriginal": "Felony charges for citizen deleting phone data at US Border",
+        "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+        "source": "nytimes.com",
+        "score": 307,
+        "comments": 395,
+        "hnUrl": "https://news.ycombinator.com/item?id=49386895",
+        "date": "il y a 9 h"
       }
     ]
   },
