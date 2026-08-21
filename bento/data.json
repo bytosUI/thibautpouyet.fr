@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-21T10:22:56.681Z",
+  "updatedAt": "2026-08-21T10:55:47.991Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
       "feelsLike": 21,
-      "code": 61,
-      "wind": 4,
-      "humidity": 62
+      "code": 3,
+      "wind": 5,
+      "humidity": 60
     },
     "forecast": [
       {
         "date": "2026-08-21",
         "code": 96,
         "tmax": 22,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-08-22",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "ON VOUS A MENTI DEPUIS TOUJOURS : LA VIANDE N’EST PAS MAUVAISE POUR LA SANTÉ !",
+        "title": "AVOIR DES AMIS PERMET DE VIVRE PLUS LONGTEMPS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "_wNh9CMs2LY",
-        "thumbnail": "https://i.ytimg.com/vi/_wNh9CMs2LY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_wNh9CMs2LY",
-        "publishedAt": "2026-08-21T09:00:06+00:00"
+        "videoId": "YlW5TVFrQLc",
+        "thumbnail": "https://i.ytimg.com/vi/YlW5TVFrQLc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YlW5TVFrQLc",
+        "publishedAt": "2026-08-21T09:30:09+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,18 +178,28 @@
         "titleOriginal": "The Lost Treasure of Sid Meier's Pirates",
         "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
         "source": "remapradio.com",
-        "score": 85,
-        "comments": 31,
+        "score": 100,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=49384896",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "titleOriginal": "DeepSeek-v4-flash-vision-exp",
+        "url": "https://api-docs.deepseek.com/guides/vision/",
+        "source": "api-docs.deepseek.com",
+        "score": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49386163",
+        "date": "il y a 21 min"
       },
       {
         "title": "Nous avons reconstruit la pile MicroVM Linux sur Apple Silicon",
         "titleOriginal": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
         "url": "https://encore.dev/blog/firecracker-apple-silicon",
         "source": "encore.dev",
-        "score": 73,
-        "comments": 36,
+        "score": 80,
+        "comments": 39,
         "hnUrl": "https://news.ycombinator.com/item?id=49384716",
         "date": "il y a 3 h"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "Small, native web tricks worth remembering",
         "url": "https://htmlcat.net/",
         "source": "htmlcat.net",
-        "score": 14,
-        "comments": 1,
+        "score": 25,
+        "comments": 8,
         "hnUrl": "https://news.ycombinator.com/item?id=49385860",
-        "date": "il y a 37 min"
-      },
-      {
-        "title": "La panne du 17 août",
-        "titleOriginal": "The August 17 outage",
-        "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-        "source": "github.blog",
-        "score": 533,
-        "comments": 592,
-        "hnUrl": "https://news.ycombinator.com/item?id=49378957",
-        "date": "il y a 15 h"
+        "date": "il y a 1 h"
       }
     ]
   },
