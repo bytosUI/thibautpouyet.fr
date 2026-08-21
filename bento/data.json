@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T10:55:47.991Z",
+  "updatedAt": "2026-08-21T11:21:03.864Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "AVOIR DES AMIS PERMET DE VIVRE PLUS LONGTEMPS",
+        "title": "IL FAUT MANGER 300 G DE VIANDE PAR JOUR POUR ÊTRE EN BONNE SANTÉ SELON CE MÉDECIN",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "YlW5TVFrQLc",
-        "thumbnail": "https://i.ytimg.com/vi/YlW5TVFrQLc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YlW5TVFrQLc",
-        "publishedAt": "2026-08-21T09:30:09+00:00"
+        "videoId": "aIWYpJMHAyE",
+        "thumbnail": "https://i.ytimg.com/vi/aIWYpJMHAyE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aIWYpJMHAyE",
+        "publishedAt": "2026-08-21T11:00:29+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -174,33 +174,23 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le trésor perdu des pirates de Sid Meier",
-        "titleOriginal": "The Lost Treasure of Sid Meier's Pirates",
-        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-        "source": "remapradio.com",
-        "score": 100,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49384896",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "DeepSeek-v4-flash-vision-exp",
         "titleOriginal": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "source": "api-docs.deepseek.com",
-        "score": 11,
-        "comments": 0,
+        "score": 75,
+        "comments": 8,
         "hnUrl": "https://news.ycombinator.com/item?id=49386163",
-        "date": "il y a 21 min"
+        "date": "il y a 47 min"
       },
       {
-        "title": "Nous avons reconstruit la pile MicroVM Linux sur Apple Silicon",
-        "titleOriginal": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-        "url": "https://encore.dev/blog/firecracker-apple-silicon",
-        "source": "encore.dev",
-        "score": 80,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=49384716",
+        "title": "Le trésor perdu des pirates de Sid Meier",
+        "titleOriginal": "The Lost Treasure of Sid Meier's Pirates",
+        "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+        "source": "remapradio.com",
+        "score": 108,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49384896",
         "date": "il y a 3 h"
       },
       {
@@ -208,10 +198,20 @@
         "titleOriginal": "Small, native web tricks worth remembering",
         "url": "https://htmlcat.net/",
         "source": "htmlcat.net",
-        "score": 25,
-        "comments": 8,
+        "score": 39,
+        "comments": 11,
         "hnUrl": "https://news.ycombinator.com/item?id=49385860",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Nous avons reconstruit la pile MicroVM Linux sur Apple Silicon",
+        "titleOriginal": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+        "url": "https://encore.dev/blog/firecracker-apple-silicon",
+        "source": "encore.dev",
+        "score": 84,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49384716",
+        "date": "il y a 4 h"
       }
     ]
   },
