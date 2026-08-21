@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T08:33:08.450Z",
+  "updatedAt": "2026-08-21T09:30:21.796Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
+      "temp": 20,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 7,
-      "humidity": 69
+      "wind": 6,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -37,28 +37,13 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 392,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      },
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 167,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
+      "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -67,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "EMI : LA PHRASE D'UN AMBULANCIER LUI A SAUVÉ LA VIE",
+        "title": "ON VOUS A MENTI DEPUIS TOUJOURS : LA VIANDE N’EST PAS MAUVAISE POUR LA SANTÉ !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "IUe4mowbjMY",
-        "thumbnail": "https://i.ytimg.com/vi/IUe4mowbjMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IUe4mowbjMY",
-        "publishedAt": "2026-08-20T15:00:13+00:00"
+        "videoId": "_wNh9CMs2LY",
+        "thumbnail": "https://i.ytimg.com/vi/_wNh9CMs2LY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_wNh9CMs2LY",
+        "publishedAt": "2026-08-21T09:00:06+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -193,38 +178,38 @@
         "titleOriginal": "The Lost Treasure of Sid Meier's Pirates",
         "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
         "source": "remapradio.com",
-        "score": 32,
-        "comments": 8,
+        "score": 61,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49384896",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Nous avons reconstruit la pile MicroVM Linux sur Apple Silicon",
         "titleOriginal": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
         "url": "https://encore.dev/blog/firecracker-apple-silicon",
         "source": "encore.dev",
-        "score": 35,
-        "comments": 4,
+        "score": 55,
+        "comments": 20,
         "hnUrl": "https://news.ycombinator.com/item?id=49384716",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "La panne du 17 août",
         "titleOriginal": "The August 17 outage",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "source": "github.blog",
-        "score": 492,
-        "comments": 561,
+        "score": 518,
+        "comments": 582,
         "hnUrl": "https://news.ycombinator.com/item?id=49378957",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "I like 'em thick : des excuses à mes professeurs d'anglais",
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 716,
-        "comments": 292,
+        "score": 729,
+        "comments": 298,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
       }
