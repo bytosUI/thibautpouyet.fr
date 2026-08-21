@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-21T19:06:26.715Z",
+  "updatedAt": "2026-08-21T19:45:59.159Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 18,
-      "code": 1,
-      "wind": 3,
+      "code": 3,
+      "wind": 4,
       "humidity": 72
     },
     "forecast": [
@@ -20,7 +20,7 @@
         "date": "2026-08-22",
         "code": 3,
         "tmax": 23,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-08-23",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 81,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,39 +186,39 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 156,
-        "comments": 63,
+        "score": 208,
+        "comments": 82,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Kagi a ajouté un paramètre pour supprimer les liens payants des résultats de recherche",
-        "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
-        "url": "https://kagi.com/changelog#11296",
-        "source": "kagi.com",
-        "score": 788,
-        "comments": 278,
-        "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-        "date": "il y a 5 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Banc du crime",
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 190,
-        "comments": 85,
+        "score": 246,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "J'ai accidentellement enregistré des centaines de milliers d'appels téléphoniques vers des bases militaires",
-        "titleOriginal": "I accidentally logged hundreds of thousands of phone calls to military bases",
-        "url": "https://lina.sh/blog/hijacking-e164-arpa",
-        "source": "lina.sh",
-        "score": 267,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49387570",
+        "title": "Les scientifiques publient la plus grande carte 2D de l'univers",
+        "titleOriginal": "Scientists release biggest 2D map of the universe",
+        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "source": "newscenter.lbl.gov",
+        "score": 34,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49392200",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Kagi a ajouté un paramètre pour supprimer les liens payants des résultats de recherche",
+        "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "source": "kagi.com",
+        "score": 821,
+        "comments": 284,
+        "hnUrl": "https://news.ycombinator.com/item?id=49388154",
         "date": "il y a 5 h"
       }
     ]
