@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T19:45:59.159Z",
+  "updatedAt": "2026-08-21T20:18:36.947Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 18,
       "code": 3,
-      "wind": 4,
-      "humidity": 72
+      "wind": 5,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 81,
+        "viewers": 108,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,8 +186,8 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 208,
-        "comments": 82,
+        "score": 237,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
         "date": "il y a 3 h"
       },
@@ -196,18 +196,18 @@
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 246,
-        "comments": 115,
+        "score": 291,
+        "comments": 135,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Les scientifiques publient la plus grande carte 2D de l'univers",
         "titleOriginal": "Scientists release biggest 2D map of the universe",
         "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "source": "newscenter.lbl.gov",
-        "score": 34,
-        "comments": 6,
+        "score": 53,
+        "comments": 13,
         "hnUrl": "https://news.ycombinator.com/item?id=49392200",
         "date": "il y a 1 h"
       },
@@ -216,10 +216,10 @@
         "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
         "url": "https://kagi.com/changelog#11296",
         "source": "kagi.com",
-        "score": 821,
-        "comments": 284,
+        "score": 847,
+        "comments": 295,
         "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       }
     ]
   },
