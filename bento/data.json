@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T02:23:13.311Z",
+  "updatedAt": "2026-08-21T03:28:48.292Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 17,
-      "feelsLike": 19,
+      "feelsLike": 18,
       "code": 3,
-      "wind": 1,
-      "humidity": 87
+      "wind": 4,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "EMI : LA PHRASE D'UN AMBULANCIER LUI A SAUVÉ LA VIE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "IUe4mowbjMY",
-        "thumbnail": "https://i.ytimg.com/vi/IUe4mowbjMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IUe4mowbjMY",
-        "publishedAt": "2026-08-20T15:00:13+00:00"
-      },
-      {
-        "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "5sOrpHSDxMY",
-        "thumbnail": "https://i.ytimg.com/vi/5sOrpHSDxMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5sOrpHSDxMY",
-        "publishedAt": "2026-08-18T18:00:03+00:00"
-      },
-      {
-        "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "ur-N6-IG1VA",
-        "thumbnail": "https://i.ytimg.com/vi/ur-N6-IG1VA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ur-N6-IG1VA",
-        "publishedAt": "2026-08-18T16:01:59+00:00"
-      },
-      {
-        "title": "J'ai offert un site à un café coréen (gratuitement) ! 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "xQ_eTrcN8_4",
-        "thumbnail": "https://i.ytimg.com/vi/xQ_eTrcN8_4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xQ_eTrcN8_4",
-        "publishedAt": "2026-08-17T19:15:41+00:00"
-      },
-      {
-        "title": "Un expat' ne reviendra jamais vivre en France ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "OKEx1QYExAs",
-        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
-        "publishedAt": "2026-08-10T08:26:03+00:00"
-      },
-      {
-        "title": "Je détruis enfin la salle de bain #26",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "JhkdfqxG25I",
-        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
-        "publishedAt": "2026-08-09T15:17:07+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le droit d'auteur ne protège pas le contenu généré par l'IA dans l'UE",
-        "titleOriginal": "Copyright does not protect AI-generated content in EU",
-        "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-        "source": "mathstodon.xyz",
-        "score": 123,
-        "comments": 104,
-        "hnUrl": "https://news.ycombinator.com/item?id=49382041",
-        "date": "il y a 2 h"
+        "title": "Les entreprises d'IA détruisent les livres physiques – analysons les livres rares avant qu'il ne soit trop tard",
+        "titleOriginal": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.gl/blog/physical-destruction.html",
+        "source": "annas-archive.gl",
+        "score": 33,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49383026",
+        "date": "il y a 50 min"
       },
       {
-        "title": "La panne du 17 août et les travaux à venir",
-        "titleOriginal": "The August 17 outage, and the work ahead",
+        "title": "La panne du 17 août",
+        "titleOriginal": "The August 17 outage",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "source": "github.blog",
-        "score": 339,
-        "comments": 375,
+        "score": 372,
+        "comments": 419,
         "hnUrl": "https://news.ycombinator.com/item?id=49378957",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "C'est un signe des temps qu'Amazon appelle cette utilisation équitable",
-        "titleOriginal": "It is a sign of the times that Amazon gets to call this fair use",
-        "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-        "source": "observationalepidemiology.blogspot.com",
-        "score": 53,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=49382200",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Droits du consommateur",
-        "titleOriginal": "Consumer Rights Wiki",
-        "url": "https://consumerrights.wiki/w/Main_Page",
-        "source": "consumerrights.wiki",
-        "score": 230,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49378243",
         "date": "il y a 8 h"
+      },
+      {
+        "title": "I like 'em thick : des excuses à mes professeurs d'anglais",
+        "titleOriginal": "I like 'em thick: an apology to my English teachers",
+        "url": "https://www.experimental-history.com/p/i-like-em-thick",
+        "source": "experimental-history.com",
+        "score": 600,
+        "comments": 264,
+        "hnUrl": "https://news.ycombinator.com/item?id=49347543",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Il n'y a plus de petite équipe logicielle",
+        "titleOriginal": "There's no such thing as a small software team anymore",
+        "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+        "source": "jacob.gold",
+        "score": 34,
+        "comments": 62,
+        "hnUrl": "https://news.ycombinator.com/item?id=49382152",
+        "date": "il y a 3 h"
       }
     ]
   },
