@@ -1,52 +1,8 @@
 {
-  "updatedAt": "2026-08-21T23:17:32.405Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 3,
-      "wind": 7,
-      "humidity": 85
-    },
-    "forecast": [
-      {
-        "date": "2026-08-22",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 13
-      },
-      {
-        "date": "2026-08-23",
-        "code": 3,
-        "tmax": 24,
-        "tmin": 12
-      },
-      {
-        "date": "2026-08-24",
-        "code": 3,
-        "tmax": 26,
-        "tmin": 13
-      },
-      {
-        "date": "2026-08-25",
-        "code": 95,
-        "tmax": 27,
-        "tmin": 18
-      }
-    ]
-  },
+  "updatedAt": "2026-08-21T23:46:25.856Z",
+  "weather": null,
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 123,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +10,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,18 +143,18 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 369,
-        "comments": 125,
+        "score": 380,
+        "comments": 134,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Banc du crime",
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 446,
-        "comments": 205,
+        "score": 460,
+        "comments": 213,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
         "date": "il y a 8 h"
       },
@@ -206,8 +163,8 @@
         "titleOriginal": "Felony charges for citizen deleting phone data at US Border",
         "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
         "source": "nytimes.com",
-        "score": 436,
-        "comments": 581,
+        "score": 476,
+        "comments": 640,
         "hnUrl": "https://news.ycombinator.com/item?id=49386895",
         "date": "il y a 11 h"
       },
@@ -216,10 +173,10 @@
         "titleOriginal": "Scientists release biggest 2D map of the universe",
         "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
         "source": "newscenter.lbl.gov",
-        "score": 118,
-        "comments": 37,
+        "score": 126,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=49392200",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
