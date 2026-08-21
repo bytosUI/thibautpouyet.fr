@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-21T21:46:48.422Z",
+  "updatedAt": "2026-08-21T22:17:31.458Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 16,
-      "code": 3,
-      "wind": 6,
-      "humidity": 74
+      "code": 2,
+      "wind": 5,
+      "humidity": 76
     },
     "forecast": [
-      {
-        "date": "2026-08-21",
-        "code": 80,
-        "tmax": 21,
-        "tmin": 16
-      },
       {
         "date": "2026-08-22",
         "code": 3,
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 26,
         "tmin": 13
+      },
+      {
+        "date": "2026-08-25",
+        "code": 95,
+        "tmax": 27,
+        "tmin": 18
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 135,
+        "viewers": 138,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -186,8 +186,8 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 319,
-        "comments": 110,
+        "score": 339,
+        "comments": 116,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
         "date": "il y a 5 h"
       },
@@ -196,30 +196,30 @@
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 381,
-        "comments": 175,
+        "score": 404,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Les scientifiques publient la plus grande carte 2D de l'univers",
-        "titleOriginal": "Scientists release biggest 2D map of the universe",
-        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-        "source": "newscenter.lbl.gov",
-        "score": 90,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49392200",
-        "date": "il y a 3 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Accusations de crime pour un citoyen qui supprime des données téléphoniques à la frontière américaine",
         "titleOriginal": "Felony charges for citizen deleting phone data at US Border",
         "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
         "source": "nytimes.com",
-        "score": 307,
-        "comments": 395,
+        "score": 350,
+        "comments": 444,
         "hnUrl": "https://news.ycombinator.com/item?id=49386895",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Les scientifiques publient la plus grande carte 2D de l'univers",
+        "titleOriginal": "Scientists release biggest 2D map of the universe",
+        "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+        "source": "newscenter.lbl.gov",
+        "score": 100,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=49392200",
+        "date": "il y a 3 h"
       }
     ]
   },
