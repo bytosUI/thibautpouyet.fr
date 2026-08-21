@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T05:56:26.623Z",
+  "updatedAt": "2026-08-21T06:40:29.526Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 17,
       "code": 3,
-      "wind": 3,
-      "humidity": 91
+      "wind": 4,
+      "humidity": 85
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "nowtechteam",
         "displayName": "NowtechTeam",
         "game": "Just Chatting",
-        "viewers": 7,
+        "viewers": 424,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
         "url": "https://twitch.tv/nowtechteam"
       }
@@ -58,17 +58,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -114,40 +104,40 @@
         "titleOriginal": "Codex on AWS bedrock bug causing 10x charges",
         "url": "https://github.com/openai/codex/issues/37674",
         "source": "github.com",
-        "score": 70,
-        "comments": 18,
+        "score": 93,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49383326",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "La panne du 17 août",
         "titleOriginal": "The August 17 outage",
         "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
         "source": "github.blog",
-        "score": 430,
-        "comments": 481,
+        "score": 444,
+        "comments": 511,
         "hnUrl": "https://news.ycombinator.com/item?id=49378957",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "I like 'em thick : des excuses à mes professeurs d'anglais",
         "titleOriginal": "I like 'em thick: an apology to my English teachers",
         "url": "https://www.experimental-history.com/p/i-like-em-thick",
         "source": "experimental-history.com",
-        "score": 654,
-        "comments": 274,
+        "score": 671,
+        "comments": 278,
         "hnUrl": "https://news.ycombinator.com/item?id=49347543",
         "date": "il y a 2 j"
       },
       {
-        "title": "HTML peut le faire",
-        "titleOriginal": "HTML Can Do That",
-        "url": "https://chrisburnell.com/html-can-do-that/",
-        "source": "chrisburnell.com",
-        "score": 669,
-        "comments": 175,
-        "hnUrl": "https://news.ycombinator.com/item?id=49362689",
-        "date": "hier"
+        "title": "L'expérience religieuse de Philip K. Dick par R. Crumb (1986)",
+        "titleOriginal": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+        "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+        "source": "philipdick.com",
+        "score": 12,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49384224",
+        "date": "il y a 1 h"
       }
     ]
   },
