@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T18:28:00.806Z",
+  "updatedAt": "2026-08-21T19:06:26.715Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 18,
       "code": 1,
-      "wind": 5,
-      "humidity": 67
+      "wind": 3,
+      "humidity": 72
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Kagi a ajouté un paramètre pour supprimer les liens payants des résultats de recherche",
-        "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
-        "url": "https://kagi.com/changelog#11296",
-        "source": "kagi.com",
-        "score": 735,
-        "comments": 265,
-        "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-        "date": "il y a 4 h"
-      },
-      {
         "title": "Kobo peut exécuter des applications maintenant",
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 102,
-        "comments": 36,
+        "score": 156,
+        "comments": 63,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
         "date": "il y a 2 h"
+      },
+      {
+        "title": "Kagi a ajouté un paramètre pour supprimer les liens payants des résultats de recherche",
+        "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
+        "url": "https://kagi.com/changelog#11296",
+        "source": "kagi.com",
+        "score": 788,
+        "comments": 278,
+        "hnUrl": "https://news.ycombinator.com/item?id=49388154",
+        "date": "il y a 5 h"
       },
       {
         "title": "Banc du crime",
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 153,
-        "comments": 64,
+        "score": 190,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
         "date": "il y a 3 h"
       },
       {
-        "title": "DeepSeek-v4-flash-vision-exp",
-        "titleOriginal": "DeepSeek-v4-flash-vision-exp",
-        "url": "https://api-docs.deepseek.com/guides/vision/",
-        "source": "api-docs.deepseek.com",
-        "score": 386,
-        "comments": 126,
-        "hnUrl": "https://news.ycombinator.com/item?id=49386163",
-        "date": "il y a 7 h"
+        "title": "J'ai accidentellement enregistré des centaines de milliers d'appels téléphoniques vers des bases militaires",
+        "titleOriginal": "I accidentally logged hundreds of thousands of phone calls to military bases",
+        "url": "https://lina.sh/blog/hijacking-e164-arpa",
+        "source": "lina.sh",
+        "score": 267,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49387570",
+        "date": "il y a 5 h"
       }
     ]
   },
