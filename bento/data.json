@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T16:33:10.577Z",
+  "updatedAt": "2026-08-21T17:22:23.189Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
-      "code": 2,
-      "wind": 10,
-      "humidity": 61
+      "temp": 19,
+      "feelsLike": 18,
+      "code": 1,
+      "wind": 11,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
         "url": "https://kagi.com/changelog#11296",
         "source": "kagi.com",
-        "score": 502,
-        "comments": 184,
+        "score": 613,
+        "comments": 218,
         "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Les entreprises d'IA détruisent les livres physiques – analysons les livres rares avant qu'il ne soit trop tard",
         "titleOriginal": "AI companies destroy physical books – let's scan rare books before it's too late",
         "url": "https://annas-archive.pk/blog/physical-destruction.html",
         "source": "annas-archive.pk",
-        "score": 605,
-        "comments": 371,
+        "score": 687,
+        "comments": 402,
         "hnUrl": "https://news.ycombinator.com/item?id=49385994",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Lancement de la Fondation Omacom avec 8 M $",
-        "titleOriginal": "Omacom Foundation Launches with $8M",
-        "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-        "source": "omarchy.org",
-        "score": 34,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49390132",
-        "date": "il y a 29 min"
-      },
-      {
-        "title": "c100",
-        "titleOriginal": "c100",
-        "url": "https://caligra.com/c100/",
-        "source": "caligra.com",
-        "score": 72,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=49389392",
+        "title": "L'IA a augmenté les scores aux devoirs de 18 % – puis les scores aux examens ont chuté de 20 %, selon une étude",
+        "titleOriginal": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+        "url": "https://canews24.online/?p=71",
+        "source": "canews24.online",
+        "score": 123,
+        "comments": 82,
+        "hnUrl": "https://news.ycombinator.com/item?id=49389565",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "titleOriginal": "DeepSeek-v4-flash-vision-exp",
+        "url": "https://api-docs.deepseek.com/guides/vision/",
+        "source": "api-docs.deepseek.com",
+        "score": 363,
+        "comments": 119,
+        "hnUrl": "https://news.ycombinator.com/item?id=49386163",
+        "date": "il y a 6 h"
       }
     ]
   },
