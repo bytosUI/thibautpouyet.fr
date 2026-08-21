@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T15:04:12.860Z",
+  "updatedAt": "2026-08-21T15:57:10.921Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
       "feelsLike": 22,
-      "code": 2,
-      "wind": 8,
-      "humidity": 60
+      "code": 3,
+      "wind": 9,
+      "humidity": 51
     },
     "forecast": [
       {
@@ -25,13 +25,13 @@
       {
         "date": "2026-08-23",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 12
       },
       {
         "date": "2026-08-24",
-        "code": 3,
-        "tmax": 27,
+        "code": 80,
+        "tmax": 26,
         "tmin": 13
       }
     ]
@@ -42,7 +42,7 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "AKIBA LOST",
-        "viewers": 142,
+        "viewers": 106,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -186,40 +186,40 @@
         "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
         "url": "https://kagi.com/changelog#11296",
         "source": "kagi.com",
-        "score": 222,
-        "comments": 99,
+        "score": 399,
+        "comments": 145,
         "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Les entreprises d'IA détruisent les livres physiques – analysons les livres rares avant qu'il ne soit trop tard",
         "titleOriginal": "AI companies destroy physical books – let's scan rare books before it's too late",
         "url": "https://annas-archive.pk/blog/physical-destruction.html",
         "source": "annas-archive.pk",
-        "score": 415,
-        "comments": 300,
+        "score": 530,
+        "comments": 349,
         "hnUrl": "https://news.ycombinator.com/item?id=49385994",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "c100",
+        "titleOriginal": "c100",
+        "url": "https://caligra.com/c100/",
+        "source": "caligra.com",
+        "score": 33,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49389392",
+        "date": "il y a 43 min"
       },
       {
         "title": "DeepSeek-v4-flash-vision-exp",
         "titleOriginal": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "source": "api-docs.deepseek.com",
-        "score": 297,
-        "comments": 92,
+        "score": 315,
+        "comments": 105,
         "hnUrl": "https://news.ycombinator.com/item?id=49386163",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Que se passe-t-il lorsque le coût du renseignement baisse de 100 fois",
-        "titleOriginal": "What Happens When the Cost of Intelligence Drops 100x",
-        "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
-        "source": "catalystneuro.com",
-        "score": 43,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49387735",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       }
     ]
   },
