@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-21T14:28:34.710Z",
+  "updatedAt": "2026-08-21T15:04:12.860Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 23,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 2,
-      "wind": 3,
-      "humidity": 68
+      "wind": 8,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "origatwitch",
         "displayName": "OrigaTwitch",
         "game": "AKIBA LOST",
-        "viewers": 139,
+        "viewers": 142,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
         "url": "https://twitch.tv/origatwitch"
       }
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL A ÉTÉ VÉGÉTARIEN 9 MOIS...SES ANALYSES SANGUINES L'ONT OBLIGÉ À REMANGER DE LA VIANDE",
+        "title": "POURQUOI IL FAUT MANGER LES ABATS ? SONT-ILS MEILLEURS POUR LA SANTÉ ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "DDsH1jo7lUc",
-        "thumbnail": "https://i.ytimg.com/vi/DDsH1jo7lUc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DDsH1jo7lUc",
-        "publishedAt": "2026-08-21T12:00:12+00:00"
+        "videoId": "PLMupX5E3GI",
+        "thumbnail": "https://i.ytimg.com/vi/PLMupX5E3GI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PLMupX5E3GI",
+        "publishedAt": "2026-08-21T15:00:39+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -186,39 +186,39 @@
         "titleOriginal": "Kagi added a setting for removing paywalled links from search results",
         "url": "https://kagi.com/changelog#11296",
         "source": "kagi.com",
-        "score": 95,
-        "comments": 33,
+        "score": 222,
+        "comments": 99,
         "hnUrl": "https://news.ycombinator.com/item?id=49388154",
-        "date": "il y a 31 min"
-      },
-      {
-        "title": "DeepSeek-v4-flash-vision-exp",
-        "titleOriginal": "DeepSeek-v4-flash-vision-exp",
-        "url": "https://api-docs.deepseek.com/guides/vision/",
-        "source": "api-docs.deepseek.com",
-        "score": 271,
-        "comments": 75,
-        "hnUrl": "https://news.ycombinator.com/item?id=49386163",
-        "date": "il y a 3 h"
+        "date": "il y a 1 h"
       },
       {
         "title": "Les entreprises d'IA détruisent les livres physiques – analysons les livres rares avant qu'il ne soit trop tard",
         "titleOriginal": "AI companies destroy physical books – let's scan rare books before it's too late",
         "url": "https://annas-archive.pk/blog/physical-destruction.html",
         "source": "annas-archive.pk",
-        "score": 338,
-        "comments": 256,
+        "score": 415,
+        "comments": 300,
         "hnUrl": "https://news.ycombinator.com/item?id=49385994",
         "date": "il y a 4 h"
       },
       {
-        "title": "Le grand jury refuse d'inculper l'homme de l'Ohio accusé d'avoir détruit la caméra de Flock",
-        "titleOriginal": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
-        "url": "https://san.com/cc/grand-jury-declines-to-indict-ohio-man-charged-with-destroying-flock-camera/",
-        "source": "san.com",
-        "score": 175,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=49387497",
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "titleOriginal": "DeepSeek-v4-flash-vision-exp",
+        "url": "https://api-docs.deepseek.com/guides/vision/",
+        "source": "api-docs.deepseek.com",
+        "score": 297,
+        "comments": 92,
+        "hnUrl": "https://news.ycombinator.com/item?id=49386163",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Que se passe-t-il lorsque le coût du renseignement baisse de 100 fois",
+        "titleOriginal": "What Happens When the Cost of Intelligence Drops 100x",
+        "url": "https://catalystneuro.com/blog/cost-of-intelligence-drops-100x/",
+        "source": "catalystneuro.com",
+        "score": 43,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49387735",
         "date": "il y a 1 h"
       }
     ]
