@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T14:45:37.433Z",
+  "updatedAt": "2026-08-22T15:14:26.974Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
+      "temp": 21,
       "feelsLike": 20,
       "code": 80,
-      "wind": 6,
-      "humidity": 40
+      "wind": 8,
+      "humidity": 42
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA TRUITE N’EST PAS ROSE ? CE QUE L’INDUSTRIE AJOUTE DANS VOTRE POISSON",
+        "title": "UN FRANÇAIS SUR DEUX ÂGÉ DE PLUS DE 50 ANS EST ATTEINT D’UNE MALADIE CHRONIQUE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "HAVl4xmzWJc",
-        "thumbnail": "https://i.ytimg.com/vi/HAVl4xmzWJc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HAVl4xmzWJc",
-        "publishedAt": "2026-08-22T14:00:21+00:00"
+        "videoId": "r_uZjxLNRjQ",
+        "thumbnail": "https://i.ytimg.com/vi/r_uZjxLNRjQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r_uZjxLNRjQ",
+        "publishedAt": "2026-08-22T15:00:31+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -174,12 +174,22 @@
   "hackernews": {
     "items": [
       {
+        "title": "La nouvelle feuille de route MCP",
+        "titleOriginal": "The New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "source": "blog.modelcontextprotocol.io",
+        "score": 36,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49399591",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Une critique kantienne de « Sorry » par Justin Bieber",
         "titleOriginal": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "source": "decodingvibes.com",
-        "score": 66,
-        "comments": 11,
+        "score": 80,
+        "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=49399524",
         "date": "il y a 1 h"
       },
@@ -188,30 +198,20 @@
         "titleOriginal": "Munder Difflin – Agent harness to run an office of your clones",
         "url": "https://munderdiffl.in/",
         "source": "munderdiffl.in",
-        "score": 131,
-        "comments": 46,
+        "score": 150,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=49398152",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "La nouvelle feuille de route MCP",
-        "titleOriginal": "The New MCP Roadmap",
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "source": "blog.modelcontextprotocol.io",
-        "score": 20,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49399591",
+        "title": "Une introduction conviviale à la raquette",
+        "titleOriginal": "A Friendly Introduction to Racket",
+        "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
+        "source": "geometridae.bearblog.dev",
+        "score": 17,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49399898",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Z80 – Le microprocesseur des années 1970 toujours en vie (2021)",
-        "titleOriginal": "Z80 – The 1970s Microprocessor Still Alive (2021)",
-        "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-        "source": "computer.org",
-        "score": 62,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49398158",
-        "date": "il y a 4 h"
       }
     ]
   },
