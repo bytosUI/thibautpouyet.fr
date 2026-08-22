@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-22T13:50:35.342Z",
+  "updatedAt": "2026-08-22T14:14:52.664Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 20,
       "code": 2,
-      "wind": 10,
+      "wind": 9,
       "humidity": 34
     },
     "forecast": [
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FAIRE DU SPORT UNE FOIS PAR SEMAINE AUGMENTE VOTRE ESPÉRANCE DE VIE DE 5 ANS",
+        "title": "LA TRUITE N’EST PAS ROSE ? CE QUE L’INDUSTRIE AJOUTE DANS VOTRE POISSON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "uxv5Bw07akE",
-        "thumbnail": "https://i.ytimg.com/vi/uxv5Bw07akE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uxv5Bw07akE",
-        "publishedAt": "2026-08-22T13:00:10+00:00"
+        "videoId": "HAVl4xmzWJc",
+        "thumbnail": "https://i.ytimg.com/vi/HAVl4xmzWJc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HAVl4xmzWJc",
+        "publishedAt": "2026-08-22T14:00:21+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,18 +178,18 @@
         "titleOriginal": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "source": "decodingvibes.com",
-        "score": 13,
-        "comments": 1,
+        "score": 33,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=49399524",
-        "date": "il y a 26 min"
+        "date": "il y a 50 min"
       },
       {
         "title": "Munder Difflin – Harnais d'agent pour gérer un bureau de vos clones",
         "titleOriginal": "Munder Difflin – Agent harness to run an office of your clones",
         "url": "https://munderdiffl.in/",
         "source": "munderdiffl.in",
-        "score": 99,
-        "comments": 30,
+        "score": 120,
+        "comments": 36,
         "hnUrl": "https://news.ycombinator.com/item?id=49398152",
         "date": "il y a 4 h"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "Z80–The 1970s Microprocessor Still Alive",
         "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "source": "computer.org",
-        "score": 50,
-        "comments": 23,
+        "score": 54,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=49398158",
         "date": "il y a 4 h"
       },
       {
-        "title": "Le Canada suspend les négociations commerciales avec les États-Unis et égalise les droits de douane dollar pour dollar",
-        "titleOriginal": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
-        "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-        "source": "pm.gc.ca",
-        "score": 469,
-        "comments": 370,
-        "hnUrl": "https://news.ycombinator.com/item?id=49398304",
-        "date": "il y a 3 h"
+        "title": "Accrochez, tenez, récoltez et cachez : la stratégie présumée de Meta exposée au cours de la première semaine",
+        "titleOriginal": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
+        "source": "theguardian.com",
+        "score": 85,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49398904",
+        "date": "il y a 2 h"
       }
     ]
   },
