@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-22T04:58:11.766Z",
+  "updatedAt": "2026-08-22T05:29:20.560Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
+      "temp": 12,
       "feelsLike": 12,
-      "code": 1,
-      "wind": 6,
+      "code": 0,
+      "wind": 5,
       "humidity": 94
     },
     "forecast": [
@@ -96,40 +96,40 @@
         "titleOriginal": "There's no reason for software to be slow anymore",
         "url": "https://danluu.com/perf-opt/",
         "source": "danluu.com",
-        "score": 193,
-        "comments": 151,
+        "score": 228,
+        "comments": 168,
         "hnUrl": "https://news.ycombinator.com/item?id=49395628",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "4 voyageurs sur 10 visitent des sites touristiques pour capturer du contenu sur les réseaux sociaux",
-        "titleOriginal": "4 in 10 travellers visit tourist sites to capture social media content",
-        "url": "https://www.tuigroup.com/en/newsroom/news/travel-in-the-age-of-scrolling-tui-musement-research-reveals-4-in-10-travellers-visit-tourist-sites-to-capture-social-media-content",
-        "source": "tuigroup.com",
-        "score": 5,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49396620",
-        "date": "il y a 15 min"
+        "title": "L'objectif initial de notre partenariat avec Motorola est un dispositif ordinaire non pliant",
+        "titleOriginal": "Initial focus for our partnership with Motorola is a regular non-folding device",
+        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
+        "source": "grapheneos.social",
+        "score": 59,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49395605",
+        "date": "il y a 4 h"
       },
       {
         "title": "Banc du crime",
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 594,
-        "comments": 247,
+        "score": 606,
+        "comments": 251,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Glancer antirouille : LSP antirouille utilisant 100 fois moins de RAM",
-        "titleOriginal": "Rust Glancer: Rust LSP using 100x less RAM",
-        "url": "https://rust-glancer.github.io/blog/hello-world/",
-        "source": "rust-glancer.github.io",
-        "score": 88,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49393052",
-        "date": "il y a 9 h"
+        "title": "Kobo peut exécuter des applications maintenant",
+        "titleOriginal": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "source": "bandarlabs.github.io",
+        "score": 477,
+        "comments": 165,
+        "hnUrl": "https://news.ycombinator.com/item?id=49390427",
+        "date": "il y a 13 h"
       }
     ]
   },
