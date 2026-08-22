@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T17:15:16.717Z",
+  "updatedAt": "2026-08-22T17:43:32.215Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
       "feelsLike": 19,
       "code": 3,
-      "wind": 12,
-      "humidity": 43
+      "wind": 13,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
         "source": "quantumi.sh",
-        "score": 89,
-        "comments": 25,
+        "score": 99,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=49400408",
         "date": "il y a 2 h"
       },
@@ -188,30 +188,30 @@
         "titleOriginal": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "source": "decodingvibes.com",
-        "score": 151,
-        "comments": 62,
+        "score": 159,
+        "comments": 73,
         "hnUrl": "https://news.ycombinator.com/item?id=49399524",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Une introduction conviviale à la raquette",
         "titleOriginal": "A Friendly Introduction to Racket",
         "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
         "source": "geometridae.bearblog.dev",
-        "score": 47,
-        "comments": 10,
+        "score": 54,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=49399898",
         "date": "il y a 3 h"
       },
       {
-        "title": "Munder Difflin – Harnais d'agent pour gérer un bureau de vos clones",
-        "titleOriginal": "Munder Difflin – Agent harness to run an office of your clones",
-        "url": "https://munderdiffl.in/",
-        "source": "munderdiffl.in",
-        "score": 181,
-        "comments": 76,
-        "hnUrl": "https://news.ycombinator.com/item?id=49398152",
-        "date": "il y a 7 h"
+        "title": "La nouvelle feuille de route MCP",
+        "titleOriginal": "The New MCP Roadmap",
+        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+        "source": "blog.modelcontextprotocol.io",
+        "score": 118,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=49399591",
+        "date": "il y a 4 h"
       }
     ]
   },
