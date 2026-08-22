@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T17:43:32.215Z",
+  "updatedAt": "2026-08-22T18:20:37.400Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 19,
+      "temp": 20,
+      "feelsLike": 18,
       "code": 3,
-      "wind": 13,
-      "humidity": 45
+      "wind": 14,
+      "humidity": 51
     },
     "forecast": [
       {
@@ -178,18 +178,18 @@
         "titleOriginal": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
         "source": "quantumi.sh",
-        "score": 99,
-        "comments": 37,
+        "score": 120,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=49400408",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Une critique kantienne de « Sorry » par Justin Bieber",
         "titleOriginal": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "source": "decodingvibes.com",
-        "score": 159,
-        "comments": 73,
+        "score": 178,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=49399524",
         "date": "il y a 4 h"
       },
@@ -198,18 +198,18 @@
         "titleOriginal": "A Friendly Introduction to Racket",
         "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
         "source": "geometridae.bearblog.dev",
-        "score": 54,
-        "comments": 12,
+        "score": 70,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49399898",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "La nouvelle feuille de route MCP",
-        "titleOriginal": "The New MCP Roadmap",
+        "title": "Nouvelle feuille de route MCP",
+        "titleOriginal": "New MCP Roadmap",
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
         "source": "blog.modelcontextprotocol.io",
-        "score": 118,
-        "comments": 93,
+        "score": 127,
+        "comments": 95,
         "hnUrl": "https://news.ycombinator.com/item?id=49399591",
         "date": "il y a 4 h"
       }
