@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T20:46:40.390Z",
+  "updatedAt": "2026-08-22T21:15:36.063Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 16,
       "code": 2,
       "wind": 9,
-      "humidity": 64
+      "humidity": 66
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 148,
+        "viewers": 167,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,7 +150,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 5 sem",
+        "time": "il y a 6 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -186,40 +186,40 @@
         "titleOriginal": "hdiutil is deprecated in macOS 27 Golden Gate",
         "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
         "source": "lapcatsoftware.com",
-        "score": 77,
-        "comments": 23,
+        "score": 96,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49402741",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Éliminer",
         "titleOriginal": "Scrap",
         "url": "https://twitter.com/moxie/status/2091218652133732491",
         "source": "twitter.com",
-        "score": 120,
-        "comments": 44,
+        "score": 139,
+        "comments": 52,
         "hnUrl": "https://news.ycombinator.com/item?id=49402189",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "NetBSD et ma vie (2005)",
         "titleOriginal": "NetBSD and My Life (2005)",
         "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
         "source": "mail-index.netbsd.org",
-        "score": 43,
-        "comments": 7,
+        "score": 52,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=49402781",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "titleOriginal": "ElevenLabs, TwelveLabs, ThirteenLabs",
-        "url": "https://quantumi.sh/public/labs.html",
-        "source": "quantumi.sh",
-        "score": 242,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=49400408",
-        "date": "il y a 5 h"
+        "title": "Savoir quand s'arrêter : l'art de faire converger une boucle",
+        "titleOriginal": "Knowing When to Stop: The Art of Making a Loop Converge",
+        "url": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
+        "source": "a16z.com",
+        "score": 14,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49403484",
+        "date": "il y a 54 min"
       }
     ]
   },
