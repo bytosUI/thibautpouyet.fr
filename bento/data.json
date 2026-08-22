@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T06:29:24.199Z",
+  "updatedAt": "2026-08-22T07:10:10.932Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 13,
+      "temp": 14,
+      "feelsLike": 14,
       "code": 0,
-      "wind": 4,
-      "humidity": 90
+      "wind": 5,
+      "humidity": 86
     },
     "forecast": [
       {
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "LE CAFÉ NE DONNE PAS D’ÉNERGIE, IL MASQUE VOTRE FATIGUE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "0HB-GhyL4QI",
+        "thumbnail": "https://i.ytimg.com/vi/0HB-GhyL4QI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0HB-GhyL4QI",
+        "publishedAt": "2026-08-22T07:00:35+00:00"
+      },
+      {
+        "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "5sOrpHSDxMY",
+        "thumbnail": "https://i.ytimg.com/vi/5sOrpHSDxMY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5sOrpHSDxMY",
+        "publishedAt": "2026-08-18T18:00:03+00:00"
+      },
+      {
+        "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "ur-N6-IG1VA",
+        "thumbnail": "https://i.ytimg.com/vi/ur-N6-IG1VA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ur-N6-IG1VA",
+        "publishedAt": "2026-08-18T16:01:59+00:00"
+      },
+      {
+        "title": "J'ai offert un site à un café coréen (gratuitement) ! 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "xQ_eTrcN8_4",
+        "thumbnail": "https://i.ytimg.com/vi/xQ_eTrcN8_4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xQ_eTrcN8_4",
+        "publishedAt": "2026-08-17T19:15:41+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Je détruis enfin la salle de bain #26",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Il n'y a plus de raison pour que le logiciel soit lent",
-        "titleOriginal": "There's no reason for software to be slow anymore",
-        "url": "https://danluu.com/perf-opt/",
-        "source": "danluu.com",
-        "score": 289,
-        "comments": 209,
-        "hnUrl": "https://news.ycombinator.com/item?id=49395628",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "GPT 5.6 Sol 20% réduction de prix",
-        "titleOriginal": "GPT 5.6 Sol 20% price reduction",
-        "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-        "source": "developers.openai.com",
-        "score": 27,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49396590",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "L'objectif initial de notre partenariat avec Motorola est un dispositif ordinaire non pliant",
-        "titleOriginal": "Initial focus for our partnership with Motorola is a regular non-folding device",
-        "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
-        "source": "grapheneos.social",
-        "score": 85,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=49395605",
-        "date": "il y a 5 h"
-      },
-      {
         "title": "Banc du crime",
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 616,
-        "comments": 255,
+        "score": 630,
+        "comments": 258,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
         "date": "il y a 15 h"
+      },
+      {
+        "title": "Kobo peut exécuter des applications maintenant",
+        "titleOriginal": "Kobo can run apps now",
+        "url": "https://bandarlabs.github.io/Cobalt/",
+        "source": "bandarlabs.github.io",
+        "score": 501,
+        "comments": 174,
+        "hnUrl": "https://news.ycombinator.com/item?id=49390427",
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "Glancer antirouille : LSP antirouille utilisant 100 fois moins de RAM",
+        "titleOriginal": "Rust Glancer: Rust LSP using 100x less RAM",
+        "url": "https://rust-glancer.github.io/blog/hello-world/",
+        "source": "rust-glancer.github.io",
+        "score": 120,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49393052",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Il n'y a plus de raison pour que le logiciel soit lent",
+        "titleOriginal": "There's no reason for software to be slow anymore",
+        "url": "https://danluu.com/perf-opt/",
+        "source": "danluu.com",
+        "score": 317,
+        "comments": 228,
+        "hnUrl": "https://news.ycombinator.com/item?id=49395628",
+        "date": "il y a 6 h"
       }
     ]
   },
