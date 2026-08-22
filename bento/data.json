@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T08:21:14.410Z",
+  "updatedAt": "2026-08-22T08:55:12.558Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
+      "temp": 17,
       "feelsLike": 16,
       "code": 1,
-      "wind": 4,
-      "humidity": 75
+      "wind": 6,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -174,42 +174,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "Banc du crime",
-        "titleOriginal": "Felony Bench",
-        "url": "https://www.felonybench.com/",
-        "source": "felonybench.com",
-        "score": 677,
-        "comments": 270,
-        "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 17 h"
-      },
-      {
         "title": "Glancer antirouille : LSP antirouille utilisant 100 fois moins de RAM",
         "titleOriginal": "Rust Glancer: Rust LSP using 100x less RAM",
         "url": "https://rust-glancer.github.io/blog/hello-world/",
         "source": "rust-glancer.github.io",
-        "score": 159,
-        "comments": 34,
+        "score": 181,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=49393052",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "Banc du crime",
+        "titleOriginal": "Felony Bench",
+        "url": "https://www.felonybench.com/",
+        "source": "felonybench.com",
+        "score": 689,
+        "comments": 277,
+        "hnUrl": "https://news.ycombinator.com/item?id=49389430",
+        "date": "il y a 17 h"
       },
       {
         "title": "Kobo peut exécuter des applications maintenant",
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 525,
-        "comments": 186,
+        "score": 535,
+        "comments": 187,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       },
       {
         "title": "Il n'y a plus de raison pour que le logiciel soit lent",
         "titleOriginal": "There's no reason for software to be slow anymore",
         "url": "https://danluu.com/perf-opt/",
         "source": "danluu.com",
-        "score": 361,
-        "comments": 260,
+        "score": 377,
+        "comments": 272,
         "hnUrl": "https://news.ycombinator.com/item?id=49395628",
         "date": "il y a 7 h"
       }
