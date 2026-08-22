@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T09:21:12.143Z",
+  "updatedAt": "2026-08-22T09:49:26.400Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 17,
       "code": 2,
-      "wind": 7,
-      "humidity": 66
+      "wind": 10,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -24,14 +24,14 @@
       },
       {
         "date": "2026-08-24",
-        "code": 3,
-        "tmax": 26,
+        "code": 80,
+        "tmax": 25,
         "tmin": 14
       },
       {
         "date": "2026-08-25",
         "code": 95,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 17
       }
     ]
@@ -178,8 +178,8 @@
         "titleOriginal": "Rust Glancer: Rust LSP using 100x less RAM",
         "url": "https://rust-glancer.github.io/blog/hello-world/",
         "source": "rust-glancer.github.io",
-        "score": 193,
-        "comments": 40,
+        "score": 212,
+        "comments": 46,
         "hnUrl": "https://news.ycombinator.com/item?id=49393052",
         "date": "il y a 13 h"
       },
@@ -188,7 +188,7 @@
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 696,
+        "score": 703,
         "comments": 278,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
         "date": "il y a 18 h"
@@ -198,18 +198,18 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 539,
+        "score": 544,
         "comments": 188,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
-        "date": "il y a 16 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Il n'y a plus de raison pour que le logiciel soit lent",
         "titleOriginal": "There's no reason for software to be slow anymore",
         "url": "https://danluu.com/perf-opt/",
         "source": "danluu.com",
-        "score": 391,
-        "comments": 279,
+        "score": 403,
+        "comments": 292,
         "hnUrl": "https://news.ycombinator.com/item?id=49395628",
         "date": "il y a 8 h"
       }
