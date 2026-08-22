@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T15:43:58.438Z",
+  "updatedAt": "2026-08-22T16:16:18.964Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
       "feelsLike": 19,
       "code": 3,
-      "wind": 10,
-      "humidity": 44
+      "wind": 12,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-08-24",
         "code": 80,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 14
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "UN FRANÇAIS SUR DEUX ÂGÉ DE PLUS DE 50 ANS EST ATTEINT D’UNE MALADIE CHRONIQUE",
+        "title": "IL EST RESTÉ 18 MINUTES IMMERGÉ DANS UN LAC À 0°C",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "r_uZjxLNRjQ",
-        "thumbnail": "https://i.ytimg.com/vi/r_uZjxLNRjQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r_uZjxLNRjQ",
-        "publishedAt": "2026-08-22T15:00:31+00:00"
+        "videoId": "MZHRdcSsA9c",
+        "thumbnail": "https://i.ytimg.com/vi/MZHRdcSsA9c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MZHRdcSsA9c",
+        "publishedAt": "2026-08-22T16:00:39+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,18 +178,28 @@
         "titleOriginal": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "source": "decodingvibes.com",
-        "score": 98,
-        "comments": 37,
+        "score": 117,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=49399524",
         "date": "il y a 2 h"
+      },
+      {
+        "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "titleOriginal": "ElevenLabs, TwelveLabs, ThirteenLabs",
+        "url": "https://quantumi.sh/public/labs.html",
+        "source": "quantumi.sh",
+        "score": 37,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49400408",
+        "date": "il y a 1 h"
       },
       {
         "title": "La nouvelle feuille de route MCP",
         "titleOriginal": "The New MCP Roadmap",
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
         "source": "blog.modelcontextprotocol.io",
-        "score": 62,
-        "comments": 47,
+        "score": 81,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=49399591",
         "date": "il y a 2 h"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "A Friendly Introduction to Racket",
         "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
         "source": "geometridae.bearblog.dev",
-        "score": 23,
-        "comments": 2,
+        "score": 32,
+        "comments": 4,
         "hnUrl": "https://news.ycombinator.com/item?id=49399898",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Munder Difflin – Harnais d'agent pour gérer un bureau de vos clones",
-        "titleOriginal": "Munder Difflin – Agent harness to run an office of your clones",
-        "url": "https://munderdiffl.in/",
-        "source": "munderdiffl.in",
-        "score": 165,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=49398152",
-        "date": "il y a 5 h"
+        "date": "il y a 2 h"
       }
     ]
   },
