@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T07:52:58.518Z",
+  "updatedAt": "2026-08-22T08:21:14.410Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
-      "code": 0,
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 1,
       "wind": 4,
-      "humidity": 79
+      "humidity": 75
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE CAFÉ NE DONNE PAS D’ÉNERGIE, IL MASQUE VOTRE FATIGUE",
+        "title": "ON PEUT MOURIR D’UNE CIRRHOSE AU FOIE SI ON BOIT TROP DE SODA ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "0HB-GhyL4QI",
-        "thumbnail": "https://i.ytimg.com/vi/0HB-GhyL4QI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0HB-GhyL4QI",
-        "publishedAt": "2026-08-22T07:00:35+00:00"
+        "videoId": "GqZoWWBRnhk",
+        "thumbnail": "https://i.ytimg.com/vi/GqZoWWBRnhk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GqZoWWBRnhk",
+        "publishedAt": "2026-08-22T08:00:18+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,17 +178,17 @@
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 665,
-        "comments": 267,
+        "score": 677,
+        "comments": 270,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 16 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Glancer antirouille : LSP antirouille utilisant 100 fois moins de RAM",
         "titleOriginal": "Rust Glancer: Rust LSP using 100x less RAM",
         "url": "https://rust-glancer.github.io/blog/hello-world/",
         "source": "rust-glancer.github.io",
-        "score": 143,
+        "score": 159,
         "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=49393052",
         "date": "il y a 12 h"
@@ -198,8 +198,8 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 518,
-        "comments": 180,
+        "score": 525,
+        "comments": 186,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
         "date": "il y a 15 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "There's no reason for software to be slow anymore",
         "url": "https://danluu.com/perf-opt/",
         "source": "danluu.com",
-        "score": 347,
-        "comments": 249,
+        "score": 361,
+        "comments": 260,
         "hnUrl": "https://news.ycombinator.com/item?id=49395628",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
