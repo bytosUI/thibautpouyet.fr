@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T16:47:56.684Z",
+  "updatedAt": "2026-08-22T17:15:16.717Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
+      "temp": 21,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 11,
-      "humidity": 40
+      "wind": 12,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -178,18 +178,18 @@
         "titleOriginal": "ElevenLabs, TwelveLabs, ThirteenLabs",
         "url": "https://quantumi.sh/public/labs.html",
         "source": "quantumi.sh",
-        "score": 73,
-        "comments": 19,
+        "score": 89,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=49400408",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Une critique kantienne de « Sorry » par Justin Bieber",
         "titleOriginal": "A Kantian Critique of \"Sorry\" by Justin Bieber",
         "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
         "source": "decodingvibes.com",
-        "score": 139,
-        "comments": 55,
+        "score": 151,
+        "comments": 62,
         "hnUrl": "https://news.ycombinator.com/item?id=49399524",
         "date": "il y a 3 h"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "A Friendly Introduction to Racket",
         "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
         "source": "geometridae.bearblog.dev",
-        "score": 42,
-        "comments": 8,
+        "score": 47,
+        "comments": 10,
         "hnUrl": "https://news.ycombinator.com/item?id=49399898",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "La nouvelle feuille de route MCP",
-        "titleOriginal": "The New MCP Roadmap",
-        "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-        "source": "blog.modelcontextprotocol.io",
-        "score": 94,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=49399591",
-        "date": "il y a 3 h"
+        "title": "Munder Difflin – Harnais d'agent pour gérer un bureau de vos clones",
+        "titleOriginal": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "source": "munderdiffl.in",
+        "score": 181,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=49398152",
+        "date": "il y a 7 h"
       }
     ]
   },
