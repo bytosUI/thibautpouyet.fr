@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T05:29:20.560Z",
+  "updatedAt": "2026-08-22T05:54:35.257Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 12,
+      "temp": 13,
+      "feelsLike": 13,
       "code": 0,
-      "wind": 5,
-      "humidity": 94
+      "wind": 4,
+      "humidity": 92
     },
     "forecast": [
       {
@@ -96,8 +96,8 @@
         "titleOriginal": "There's no reason for software to be slow anymore",
         "url": "https://danluu.com/perf-opt/",
         "source": "danluu.com",
-        "score": 228,
-        "comments": 168,
+        "score": 251,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=49395628",
         "date": "il y a 4 h"
       },
@@ -106,8 +106,8 @@
         "titleOriginal": "Initial focus for our partnership with Motorola is a regular non-folding device",
         "url": "https://grapheneos.social/@GrapheneOS/117136278553665985",
         "source": "grapheneos.social",
-        "score": 59,
-        "comments": 22,
+        "score": 69,
+        "comments": 25,
         "hnUrl": "https://news.ycombinator.com/item?id=49395605",
         "date": "il y a 4 h"
       },
@@ -116,8 +116,8 @@
         "titleOriginal": "Felony Bench",
         "url": "https://www.felonybench.com/",
         "source": "felonybench.com",
-        "score": 606,
-        "comments": 251,
+        "score": 609,
+        "comments": 253,
         "hnUrl": "https://news.ycombinator.com/item?id=49389430",
         "date": "il y a 14 h"
       },
@@ -126,7 +126,7 @@
         "titleOriginal": "Kobo can run apps now",
         "url": "https://bandarlabs.github.io/Cobalt/",
         "source": "bandarlabs.github.io",
-        "score": 477,
+        "score": 478,
         "comments": 165,
         "hnUrl": "https://news.ycombinator.com/item?id=49390427",
         "date": "il y a 13 h"
