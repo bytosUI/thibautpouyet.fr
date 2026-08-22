@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-22T11:15:33.381Z",
+  "updatedAt": "2026-08-22T11:43:21.254Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
+      "temp": 21,
       "feelsLike": 20,
       "code": 2,
-      "wind": 7,
-      "humidity": 47
+      "wind": 8,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -178,19 +178,29 @@
         "titleOriginal": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
         "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
         "source": "pm.gc.ca",
-        "score": 85,
-        "comments": 35,
+        "score": 173,
+        "comments": 85,
         "hnUrl": "https://news.ycombinator.com/item?id=49398304",
-        "date": "il y a 49 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Z80 - Le microprocesseur des années 1970 toujours en vie",
         "titleOriginal": "Z80–The 1970s Microprocessor Still Alive",
         "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "source": "computer.org",
-        "score": 12,
-        "comments": 4,
+        "score": 20,
+        "comments": 8,
         "hnUrl": "https://news.ycombinator.com/item?id=49398158",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Munder Difflin – Harnais d'agent pour gérer un bureau de vos clones",
+        "titleOriginal": "Munder Difflin – Agent harness to run an office of your clones",
+        "url": "https://munderdiffl.in/",
+        "source": "munderdiffl.in",
+        "score": 25,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49398152",
         "date": "il y a 1 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "Rust Glancer: Rust LSP using 100x less RAM",
         "url": "https://rust-glancer.github.io/blog/hello-world/",
         "source": "rust-glancer.github.io",
-        "score": 269,
-        "comments": 54,
+        "score": 277,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49393052",
         "date": "il y a 15 h"
-      },
-      {
-        "title": "Banc du crime",
-        "titleOriginal": "Felony Bench",
-        "url": "https://www.felonybench.com/",
-        "source": "felonybench.com",
-        "score": 727,
-        "comments": 279,
-        "hnUrl": "https://news.ycombinator.com/item?id=49389430",
-        "date": "il y a 19 h"
       }
     ]
   },
