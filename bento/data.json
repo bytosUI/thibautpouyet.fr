@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-23T22:14:56.173Z",
+  "updatedAt": "2026-08-23T22:46:07.730Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 14,
-      "code": 3,
-      "wind": 13,
-      "humidity": 52
+      "code": 2,
+      "wind": 11,
+      "humidity": 55
     },
     "forecast": [
       {
         "date": "2026-08-24",
-        "code": 80,
-        "tmax": 27,
+        "code": 3,
+        "tmax": 26,
         "tmin": 15
       },
       {
         "date": "2026-08-25",
         "code": 95,
-        "tmax": 28,
+        "tmax": 27,
         "tmin": 17
       },
       {
@@ -178,18 +178,28 @@
         "titleOriginal": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "lalitm.com",
-        "score": 159,
-        "comments": 60,
+        "score": 185,
+        "comments": 66,
         "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Google Workspace pense que mon domaine est un fournisseur de messagerie (2025)",
+        "titleOriginal": "Google Workspace thinks my domain is an email provider (2025)",
+        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+        "source": "blog.elis.cc",
+        "score": 84,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411717",
+        "date": "il y a 3 h"
       },
       {
         "title": "How Complex Systems Fail (1998)",
         "titleOriginal": "How Complex Systems Fail (1998)",
         "url": "https://how.complexsystems.fail/",
         "source": "how.complexsystems.fail",
-        "score": 198,
-        "comments": 55,
+        "score": 210,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=49409473",
         "date": "il y a 7 h"
       },
@@ -198,20 +208,10 @@
         "titleOriginal": "My agent.md to improve LLM-assisted code quality",
         "url": "https://fabiensanglard.net/agent.md/index.html",
         "source": "fabiensanglard.net",
-        "score": 81,
-        "comments": 29,
+        "score": 98,
+        "comments": 41,
         "hnUrl": "https://news.ycombinator.com/item?id=49410932",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Pourquoi Sal Khan't : Apprendre en faisant mais enseigner en racontant",
-        "titleOriginal": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-        "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-        "source": "punyamishra.com",
-        "score": 106,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=49409862",
-        "date": "il y a 6 h"
       }
     ]
   },
