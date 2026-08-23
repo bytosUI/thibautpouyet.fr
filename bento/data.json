@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-08-23T06:31:03.701Z",
+  "updatedAt": "2026-08-23T07:28:20.107Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 11,
-      "code": 1,
-      "wind": 7,
-      "humidity": 83
+      "temp": 14,
+      "feelsLike": 13,
+      "code": 0,
+      "wind": 9,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-08-23",
         "code": 3,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 11
       },
       {
         "date": "2026-08-24",
-        "code": 80,
-        "tmax": 26,
+        "code": 95,
+        "tmax": 27,
         "tmin": 14
       },
       {
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "La fin d'un Athlon",
+        "titleOriginal": "The End of an Athlon",
+        "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
+        "source": "os2museum.com",
+        "score": 36,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49406333",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Code de compilation JIT en 5 μs",
+        "titleOriginal": "JIT Compiling Code in 5μs",
+        "url": "https://malisper.me/jit-compiling-code-in-5-us/",
+        "source": "malisper.me",
+        "score": 21,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49406387",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "MartyPC est un émulateur multiplateforme des premiers PC écrits en rouille",
         "titleOriginal": "MartyPC is a cross-platform emulator of early PCs written in Rust",
         "url": "https://martypc.net/",
         "source": "martypc.net",
-        "score": 70,
-        "comments": 9,
+        "score": 83,
+        "comments": 21,
         "hnUrl": "https://news.ycombinator.com/item?id=49405816",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "La règle d'or pour devenir un meilleur écrivain",
         "titleOriginal": "The Golden Rule for Becoming a Better Writer",
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "source": "nappertime.com",
-        "score": 45,
-        "comments": 20,
+        "score": 73,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49405870",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "La fin d'un Athlon",
-        "titleOriginal": "The End of an Athlon",
-        "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-        "source": "os2museum.com",
-        "score": 7,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49406333",
-        "date": "il y a 40 min"
-      },
-      {
-        "title": "Je rêve d'une informatique plus silencieuse",
-        "titleOriginal": "I Dream of Quieter Computing",
-        "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
-        "source": "henry.codes",
-        "score": 46,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49405682",
         "date": "il y a 3 h"
       }
     ]
