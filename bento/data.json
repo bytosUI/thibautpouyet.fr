@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T23:14:44.679Z",
+  "updatedAt": "2026-08-23T23:43:14.304Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 14,
-      "code": 2,
+      "code": 3,
       "wind": 11,
-      "humidity": 56
+      "humidity": 57
     },
     "forecast": [
       {
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
-        "titleOriginal": "How I find problems to solve as a staff engineer",
-        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "source": "lalitm.com",
-        "score": 205,
-        "comments": 75,
-        "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Tout ce que je possède, possédais",
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 31,
-        "comments": 5,
+        "score": 75,
+        "comments": 19,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 33 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
+        "titleOriginal": "How I find problems to solve as a staff engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "source": "lalitm.com",
+        "score": 221,
+        "comments": 81,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411643",
+        "date": "il y a 4 h"
       },
       {
         "title": "Google Workspace pense que mon domaine est un fournisseur de messagerie (2025)",
         "titleOriginal": "Google Workspace thinks my domain is an email provider (2025)",
         "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
         "source": "blog.elis.cc",
-        "score": 107,
-        "comments": 26,
+        "score": 123,
+        "comments": 32,
         "hnUrl": "https://news.ycombinator.com/item?id=49411717",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "My agent.md pour améliorer la qualité du code assisté par LLM",
-        "titleOriginal": "My agent.md to improve LLM-assisted code quality",
-        "url": "https://fabiensanglard.net/agent.md/index.html",
-        "source": "fabiensanglard.net",
-        "score": 110,
-        "comments": 50,
-        "hnUrl": "https://news.ycombinator.com/item?id=49410932",
+        "title": "Le meilleur modèle d'IA d'Anthropic a du mal à attirer les utilisateurs alors que les outils moins chers prospèrent",
+        "titleOriginal": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "source": "ft.com",
+        "score": 103,
+        "comments": 92,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411102",
         "date": "il y a 5 h"
       }
     ]
