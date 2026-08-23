@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T17:42:56.815Z",
+  "updatedAt": "2026-08-23T18:20:12.150Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 20,
+      "temp": 22,
+      "feelsLike": 19,
       "code": 1,
       "wind": 13,
-      "humidity": 33
+      "humidity": 37
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GLM-5.3 (poids ouvert) battre les modèles Anthropic/OpenAI – pour 1/5 du coût",
-        "titleOriginal": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
-        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
-        "source": "reinvently.co.uk",
-        "score": 117,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=49410097",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "J'ai dépensé 266 $ et quatre modèles d'IA pour posséder ma tablette. GLM-5.3 l'a terminé en une journée",
         "titleOriginal": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
         "url": "https://ericpardee.github.io/fire-hd-ownership/",
         "source": "ericpardee.github.io",
-        "score": 235,
-        "comments": 86,
+        "score": 306,
+        "comments": 126,
         "hnUrl": "https://news.ycombinator.com/item?id=49409073",
         "date": "il y a 3 h"
+      },
+      {
+        "title": "GLM-5.3 (poids ouvert) battre les modèles Anthropic/OpenAI – pour 1/5 du coût",
+        "titleOriginal": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+        "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+        "source": "reinvently.co.uk",
+        "score": 167,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=49410097",
+        "date": "il y a 1 h"
       },
       {
         "title": "How Complex Systems Fail (1998)",
         "titleOriginal": "How Complex Systems Fail (1998)",
         "url": "https://how.complexsystems.fail/",
         "source": "how.complexsystems.fail",
-        "score": 92,
-        "comments": 15,
+        "score": 110,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49409473",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Un site Web pour les alternatives open source débloquées",
         "titleOriginal": "A website for debloated open source alternatives",
         "url": "https://debloat.dev/",
         "source": "debloat.dev",
-        "score": 22,
-        "comments": 6,
+        "score": 45,
+        "comments": 17,
         "hnUrl": "https://news.ycombinator.com/item?id=49410362",
-        "date": "il y a 48 min"
+        "date": "il y a 1 h"
       }
     ]
   },
