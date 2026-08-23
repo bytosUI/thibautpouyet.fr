@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T09:51:44.732Z",
+  "updatedAt": "2026-08-23T10:16:57.396Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
-      "code": 1,
+      "temp": 20,
+      "feelsLike": 19,
+      "code": 3,
       "wind": 12,
-      "humidity": 55
+      "humidity": 51
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "The End of an Athlon",
         "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
         "source": "os2museum.com",
-        "score": 81,
-        "comments": 21,
+        "score": 87,
+        "comments": 24,
         "hnUrl": "https://news.ycombinator.com/item?id=49406333",
         "date": "il y a 4 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "To become a better writer, read as much as you can",
         "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
         "source": "nappertime.com",
-        "score": 143,
-        "comments": 90,
+        "score": 148,
+        "comments": 99,
         "hnUrl": "https://news.ycombinator.com/item?id=49405870",
         "date": "il y a 6 h"
       },
@@ -198,20 +198,20 @@
         "titleOriginal": "JIT Compiling Code in 5μs",
         "url": "https://malisper.me/jit-compiling-code-in-5-us/",
         "source": "malisper.me",
-        "score": 60,
+        "score": 64,
         "comments": 22,
         "hnUrl": "https://news.ycombinator.com/item?id=49406387",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "MartyPC est un émulateur multiplateforme des premiers PC écrits en rouille",
         "titleOriginal": "MartyPC is a cross-platform emulator of early PCs written in Rust",
         "url": "https://martypc.net/",
         "source": "martypc.net",
-        "score": 113,
-        "comments": 36,
+        "score": 117,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=49405816",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       }
     ]
   },
