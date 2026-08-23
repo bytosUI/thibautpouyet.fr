@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-23T21:43:37.268Z",
+  "updatedAt": "2026-08-23T22:14:56.173Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
+      "temp": 16,
       "feelsLike": 14,
       "code": 3,
       "wind": 13,
-      "humidity": 50
+      "humidity": 52
     },
     "forecast": [
-      {
-        "date": "2026-08-23",
-        "code": 3,
-        "tmax": 24,
-        "tmin": 11
-      },
       {
         "date": "2026-08-24",
         "code": 80,
@@ -33,6 +27,12 @@
         "code": 80,
         "tmax": 27,
         "tmin": 19
+      },
+      {
+        "date": "2026-08-27",
+        "code": 96,
+        "tmax": 27,
+        "tmin": 20
       }
     ]
   },
@@ -178,8 +178,8 @@
         "titleOriginal": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "lalitm.com",
-        "score": 139,
-        "comments": 55,
+        "score": 159,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=49411643",
         "date": "il y a 2 h"
       },
@@ -188,30 +188,30 @@
         "titleOriginal": "How Complex Systems Fail (1998)",
         "url": "https://how.complexsystems.fail/",
         "source": "how.complexsystems.fail",
-        "score": 183,
-        "comments": 52,
+        "score": 198,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49409473",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "La taxe Vibe",
-        "titleOriginal": "The Vibe Tax",
-        "url": "https://insufferable.dev/posts/vibe-tax/",
-        "source": "insufferable.dev",
-        "score": 58,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49411199",
-        "date": "il y a 3 h"
+        "title": "My agent.md pour améliorer la qualité du code assisté par LLM",
+        "titleOriginal": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "source": "fabiensanglard.net",
+        "score": 81,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49410932",
+        "date": "il y a 4 h"
       },
       {
         "title": "Pourquoi Sal Khan't : Apprendre en faisant mais enseigner en racontant",
         "titleOriginal": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
         "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
         "source": "punyamishra.com",
-        "score": 99,
-        "comments": 61,
+        "score": 106,
+        "comments": 67,
         "hnUrl": "https://news.ycombinator.com/item?id=49409862",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       }
     ]
   },
