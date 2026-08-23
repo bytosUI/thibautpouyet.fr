@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-23T19:43:41.249Z",
+  "updatedAt": "2026-08-23T20:15:39.383Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 17,
-      "code": 0,
+      "temp": 18,
+      "feelsLike": 15,
+      "code": 1,
       "wind": 14,
-      "humidity": 45
+      "humidity": 47
     },
     "forecast": [
       {
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "J'ai dépensé 266 $ et quatre modèles d'IA pour posséder ma tablette. GLM-5.3 l'a terminé en une journée",
-        "titleOriginal": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-        "url": "https://ericpardee.github.io/fire-hd-ownership/",
-        "source": "ericpardee.github.io",
-        "score": 469,
-        "comments": 212,
-        "hnUrl": "https://news.ycombinator.com/item?id=49409073",
-        "date": "il y a 5 h"
-      },
-      {
         "title": "Un site Web pour les alternatives open source débloquées",
         "titleOriginal": "A website for debloated open source alternatives",
         "url": "https://debloat.dev/",
         "source": "debloat.dev",
-        "score": 102,
-        "comments": 48,
+        "score": 146,
+        "comments": 60,
         "hnUrl": "https://news.ycombinator.com/item?id=49410362",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Pourquoi Sal Khan't : Apprendre en faisant mais enseigner en racontant",
-        "titleOriginal": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-        "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-        "source": "punyamishra.com",
-        "score": 68,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49409862",
-        "date": "il y a 3 h"
+        "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
+        "titleOriginal": "How I Find Problems to Solve as a Staff Engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "source": "lalitm.com",
+        "score": 31,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411643",
+        "date": "il y a 52 min"
       },
       {
         "title": "How Complex Systems Fail (1998)",
         "titleOriginal": "How Complex Systems Fail (1998)",
         "url": "https://how.complexsystems.fail/",
         "source": "how.complexsystems.fail",
-        "score": 148,
-        "comments": 39,
+        "score": 158,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49409473",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Pourquoi Sal Khan't : Apprendre en faisant mais enseigner en racontant",
+        "titleOriginal": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+        "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
+        "source": "punyamishra.com",
+        "score": 81,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49409862",
         "date": "il y a 4 h"
       }
     ]
