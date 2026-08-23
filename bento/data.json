@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T21:15:17.961Z",
+  "updatedAt": "2026-08-23T21:43:37.268Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 14,
       "code": 3,
       "wind": 13,
-      "humidity": 49
+      "humidity": 50
     },
     "forecast": [
       {
@@ -178,38 +178,38 @@
         "titleOriginal": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "lalitm.com",
-        "score": 110,
-        "comments": 43,
+        "score": 139,
+        "comments": 55,
         "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Un site Web pour les alternatives open source débloquées",
-        "titleOriginal": "A website for debloated open source alternatives",
-        "url": "https://debloat.dev/",
-        "source": "debloat.dev",
-        "score": 186,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=49410362",
-        "date": "il y a 4 h"
+        "title": "How Complex Systems Fail (1998)",
+        "titleOriginal": "How Complex Systems Fail (1998)",
+        "url": "https://how.complexsystems.fail/",
+        "source": "how.complexsystems.fail",
+        "score": 183,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=49409473",
+        "date": "il y a 6 h"
       },
       {
         "title": "La taxe Vibe",
         "titleOriginal": "The Vibe Tax",
         "url": "https://insufferable.dev/posts/vibe-tax/",
         "source": "insufferable.dev",
-        "score": 45,
-        "comments": 26,
+        "score": 58,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49411199",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Pourquoi Sal Khan't : Apprendre en faisant mais enseigner en racontant",
         "titleOriginal": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
         "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
         "source": "punyamishra.com",
-        "score": 91,
-        "comments": 58,
+        "score": 99,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=49409862",
         "date": "il y a 5 h"
       }
