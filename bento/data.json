@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-23T20:15:39.383Z",
+  "updatedAt": "2026-08-23T20:46:50.193Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 15,
       "code": 1,
-      "wind": 14,
+      "wind": 13,
       "humidity": 47
     },
     "forecast": [
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un site Web pour les alternatives open source débloquées",
-        "titleOriginal": "A website for debloated open source alternatives",
-        "url": "https://debloat.dev/",
-        "source": "debloat.dev",
-        "score": 146,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=49410362",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
         "titleOriginal": "How I Find Problems to Solve as a Staff Engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "lalitm.com",
-        "score": 31,
-        "comments": 18,
+        "score": 73,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 52 min"
+        "date": "il y a 1 h"
       },
       {
-        "title": "How Complex Systems Fail (1998)",
-        "titleOriginal": "How Complex Systems Fail (1998)",
-        "url": "https://how.complexsystems.fail/",
-        "source": "how.complexsystems.fail",
-        "score": 158,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49409473",
-        "date": "il y a 5 h"
+        "title": "Un site Web pour les alternatives open source débloquées",
+        "titleOriginal": "A website for debloated open source alternatives",
+        "url": "https://debloat.dev/",
+        "source": "debloat.dev",
+        "score": 164,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49410362",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Pourquoi Sal Khan't : Apprendre en faisant mais enseigner en racontant",
-        "titleOriginal": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-        "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-        "source": "punyamishra.com",
-        "score": 81,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=49409862",
-        "date": "il y a 4 h"
+        "title": "Fable et la fin du déjeuner gratuit",
+        "titleOriginal": "Fable and the End of the Free Lunch",
+        "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
+        "source": "dbreunig.com",
+        "score": 47,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411468",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "La taxe Vibe",
+        "titleOriginal": "The Vibe Tax",
+        "url": "https://insufferable.dev/posts/vibe-tax/",
+        "source": "insufferable.dev",
+        "score": 31,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411199",
+        "date": "il y a 2 h"
       }
     ]
   },
