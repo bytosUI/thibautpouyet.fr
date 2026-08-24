@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-24T02:21:24.822Z",
+  "updatedAt": "2026-08-24T03:29:59.815Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 15,
+      "feelsLike": 13,
       "code": 3,
       "wind": 9,
       "humidity": 56
@@ -178,40 +178,40 @@
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 302,
-        "comments": 90,
+        "score": 376,
+        "comments": 114,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
         "titleOriginal": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "lalitm.com",
-        "score": 278,
-        "comments": 106,
+        "score": 307,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Le meilleur modèle d'IA d'Anthropic a du mal à attirer les utilisateurs alors que les outils moins chers prospèrent",
         "titleOriginal": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "source": "ft.com",
-        "score": 244,
-        "comments": 210,
+        "score": 278,
+        "comments": 244,
         "hnUrl": "https://news.ycombinator.com/item?id=49411102",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Google Workspace pense que mon domaine est un fournisseur de messagerie (2025)",
-        "titleOriginal": "Google Workspace thinks my domain is an email provider (2025)",
-        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-        "source": "blog.elis.cc",
-        "score": 189,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=49411717",
-        "date": "il y a 6 h"
+        "title": "Migration d'un NAS Synology vers un UniFi UNAS Pro 8 avec Robocopy, multicanal PME",
+        "titleOriginal": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
+        "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+        "source": "hanselman.com",
+        "score": 19,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49414338",
+        "date": "il y a 1 h"
       }
     ]
   },
