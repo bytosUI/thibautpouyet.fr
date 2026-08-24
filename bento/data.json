@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T10:31:47.573Z",
+  "updatedAt": "2026-08-24T11:20:58.900Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 17,
-      "code": 3,
-      "wind": 13,
-      "humidity": 48
+      "temp": 20,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 14,
+      "humidity": 46
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "« TOM CRUISE EST UNE MACHINE DE TRAVAIL »",
+        "title": "LES 5 DANGERS D’UNE ARME À BLANC",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "w6FN2-dG66g",
-        "thumbnail": "https://i.ytimg.com/vi/w6FN2-dG66g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w6FN2-dG66g",
-        "publishedAt": "2026-08-24T10:00:38+00:00"
+        "videoId": "7qDbWRl9b58",
+        "thumbnail": "https://i.ytimg.com/vi/7qDbWRl9b58/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7qDbWRl9b58",
+        "publishedAt": "2026-08-24T11:00:11+00:00"
       },
       {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Tout ce que je possède, possédais",
-        "titleOriginal": "Everything I own, owned",
-        "url": "https://schlarp.com/posts/everything-i-own-owned/",
-        "source": "schlarp.com",
-        "score": 950,
-        "comments": 268,
-        "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 11 h"
-      },
-      {
         "title": "J'avais 17 ans, j'apprenais à construire des LLM à partir de zéro",
         "titleOriginal": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "source": "twitter.com",
-        "score": 138,
-        "comments": 220,
+        "score": 180,
+        "comments": 266,
         "hnUrl": "https://news.ycombinator.com/item?id=49412396",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "Tout ce que je possède, possédais",
+        "titleOriginal": "Everything I own, owned",
+        "url": "https://schlarp.com/posts/everything-i-own-owned/",
+        "source": "schlarp.com",
+        "score": 1000,
+        "comments": 278,
+        "hnUrl": "https://news.ycombinator.com/item?id=49413320",
+        "date": "il y a 12 h"
       },
       {
         "title": "La FDA autorise les tests sanguins pour faciliter l'évaluation de la maladie d'Alzheimer",
         "titleOriginal": "FDA clears blood test to aid evaluation for Alzheimer's disease",
         "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "source": "medicine.washu.edu",
-        "score": 51,
-        "comments": 15,
+        "score": 65,
+        "comments": 18,
         "hnUrl": "https://news.ycombinator.com/item?id=49415893",
         "date": "il y a 4 h"
       },
       {
-        "title": "OCR It – extrayez le texte des documents non copiables pour votre LLM",
-        "titleOriginal": "OCR It – pull text out of un-copyable documents for your LLM",
-        "url": "https://github.com/thiagotigaz/ocr-it",
-        "source": "github.com",
-        "score": 42,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49415852",
-        "date": "il y a 4 h"
+        "title": "Le meilleur modèle d'IA d'Anthropic a du mal à attirer les utilisateurs alors que les outils moins chers prospèrent",
+        "titleOriginal": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "source": "ft.com",
+        "score": 558,
+        "comments": 500,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411102",
+        "date": "il y a 17 h"
       }
     ]
   },
