@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-24T12:36:50.835Z",
+  "updatedAt": "2026-08-24T13:44:51.654Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 22,
-      "feelsLike": 20,
+      "feelsLike": 19,
       "code": 2,
-      "wind": 16,
-      "humidity": 43
+      "wind": 18,
+      "humidity": 42
     },
     "forecast": [
       {
         "date": "2026-08-24",
         "code": 61,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 15
       },
       {
         "date": "2026-08-25",
         "code": 61,
-        "tmax": 24,
+        "tmax": 26,
         "tmin": 16
       },
       {
         "date": "2026-08-26",
-        "code": 80,
+        "code": 3,
         "tmax": 26,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-08-27",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "FACE À CES FAUSSES ARMES : JEAN DUJARDIN ÉTAIT TERRORISÉ !",
+        "title": "IL NOUS MONTRE LA PLUS GROSSE ARME UTILISÉE AU CINÉMA",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "3SE2970P7eU",
-        "thumbnail": "https://i.ytimg.com/vi/3SE2970P7eU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3SE2970P7eU",
-        "publishedAt": "2026-08-24T12:00:13+00:00"
+        "videoId": "1OQVLDJFa5c",
+        "thumbnail": "https://i.ytimg.com/vi/1OQVLDJFa5c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1OQVLDJFa5c",
+        "publishedAt": "2026-08-24T13:00:36+00:00"
       },
       {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Comment l'Europe tue les décideurs et les micro-entrepreneurs",
+        "titleOriginal": "How Europe is killing makers and micro-entrepreneurs",
+        "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+        "source": "lectronz.com",
+        "score": 101,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49419237",
+        "date": "il y a 39 min"
+      },
+      {
         "title": "Les épreuves de sécurité SeL4 sont maintenant terminées sur AArch64",
         "titleOriginal": "SeL4 security proofs now complete on AArch64",
         "url": "https://proofcraft.systems/news-2026/#2026-08-21",
         "source": "proofcraft.systems",
-        "score": 30,
-        "comments": 4,
+        "score": 65,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49418255",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "J'avais 17 ans, j'apprenais à construire des LLM à partir de zéro",
         "titleOriginal": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "source": "twitter.com",
-        "score": 232,
-        "comments": 333,
+        "score": 275,
+        "comments": 392,
         "hnUrl": "https://news.ycombinator.com/item?id=49412396",
-        "date": "il y a 15 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "Tout ce que je possède, possédais",
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 1070,
-        "comments": 292,
+        "score": 1130,
+        "comments": 300,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "Le financement de la Fondation Omacom atteint 10 M $",
-        "titleOriginal": "Omacom Foundation funding hits $10M",
-        "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
-        "source": "omarchy.org",
-        "score": 42,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=49418032",
-        "date": "il y a 1 h"
+        "date": "il y a 15 h"
       }
     ]
   },
