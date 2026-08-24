@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-08-24T04:22:57.666Z",
+  "updatedAt": "2026-08-24T05:09:44.008Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 15,
-      "feelsLike": 13,
+      "feelsLike": 12,
       "code": 3,
-      "wind": 8,
+      "wind": 10,
       "humidity": 56
     },
     "forecast": [
       {
         "date": "2026-08-24",
-        "code": 3,
+        "code": 61,
         "tmax": 26,
         "tmin": 15
       },
       {
         "date": "2026-08-25",
-        "code": 96,
-        "tmax": 22,
+        "code": 95,
+        "tmax": 21,
         "tmin": 16
       },
       {
         "date": "2026-08-26",
-        "code": 3,
+        "code": 61,
         "tmax": 27,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-08-27",
@@ -178,28 +178,28 @@
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 443,
-        "comments": 136,
+        "score": 494,
+        "comments": 155,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
         "titleOriginal": "How I find problems to solve as a staff engineer",
         "url": "https://lalitm.com/post/find-problems-staff-engineer/",
         "source": "lalitm.com",
-        "score": 324,
-        "comments": 114,
+        "score": 342,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Le meilleur modèle d'IA d'Anthropic a du mal à attirer les utilisateurs alors que les outils moins chers prospèrent",
         "titleOriginal": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "source": "ft.com",
-        "score": 319,
-        "comments": 272,
+        "score": 349,
+        "comments": 298,
         "hnUrl": "https://news.ycombinator.com/item?id=49411102",
         "date": "il y a 10 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
         "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
         "source": "hanselman.com",
-        "score": 24,
-        "comments": 22,
+        "score": 28,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49414338",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
