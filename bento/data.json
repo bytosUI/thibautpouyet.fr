@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T05:09:44.008Z",
+  "updatedAt": "2026-08-24T06:01:38.313Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 15,
-      "feelsLike": 12,
+      "feelsLike": 13,
       "code": 3,
-      "wind": 10,
+      "wind": 8,
       "humidity": 56
     },
     "forecast": [
@@ -52,33 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "5YI6cRq5-MI",
-        "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
-        "publishedAt": "2026-08-23T16:00:12+00:00"
-      },
-      {
-        "title": "IL TRANSPORTE DES KALACHNIKOVS POUR LE CINÉMA ET SE FAIT ARRÊTER PAR LA POLICE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "18odSv5_QKk",
-        "thumbnail": "https://i.ytimg.com/vi/18odSv5_QKk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=18odSv5_QKk",
-        "publishedAt": "2026-08-23T14:00:37+00:00"
-      },
-      {
-        "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "5sOrpHSDxMY",
-        "thumbnail": "https://i.ytimg.com/vi/5sOrpHSDxMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5sOrpHSDxMY",
-        "publishedAt": "2026-08-18T18:00:03+00:00"
-      },
-      {
         "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -97,15 +70,6 @@
         "publishedAt": "2026-08-10T08:26:03+00:00"
       },
       {
-        "title": "Je détruis enfin la salle de bain #26",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "JhkdfqxG25I",
-        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
-        "publishedAt": "2026-08-09T15:17:07+00:00"
-      },
-      {
         "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -113,24 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
         "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
       }
     ]
   },
@@ -178,40 +124,40 @@
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 494,
-        "comments": 155,
+        "score": 562,
+        "comments": 172,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
-        "titleOriginal": "How I find problems to solve as a staff engineer",
-        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-        "source": "lalitm.com",
-        "score": 342,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=49411643",
-        "date": "il y a 9 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Le meilleur modèle d'IA d'Anthropic a du mal à attirer les utilisateurs alors que les outils moins chers prospèrent",
         "titleOriginal": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
         "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
         "source": "ft.com",
-        "score": 349,
-        "comments": 298,
+        "score": 381,
+        "comments": 337,
         "hnUrl": "https://news.ycombinator.com/item?id=49411102",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Comment je trouve les problèmes à résoudre en tant qu'ingénieur du personnel",
+        "titleOriginal": "How I find problems to solve as a staff engineer",
+        "url": "https://lalitm.com/post/find-problems-staff-engineer/",
+        "source": "lalitm.com",
+        "score": 359,
+        "comments": 120,
+        "hnUrl": "https://news.ycombinator.com/item?id=49411643",
         "date": "il y a 10 h"
       },
       {
-        "title": "Migration d'un NAS Synology vers un UniFi UNAS Pro 8 avec Robocopy, multicanal PME",
-        "titleOriginal": "Migrating a Synology NAS to a UniFi UNAS Pro 8 with Robocopy, SMB Multichannel",
-        "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
-        "source": "hanselman.com",
-        "score": 28,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49414338",
-        "date": "il y a 3 h"
+        "title": "My agent.md pour améliorer la qualité du code assisté par LLM",
+        "titleOriginal": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "source": "fabiensanglard.net",
+        "score": 252,
+        "comments": 101,
+        "hnUrl": "https://news.ycombinator.com/item?id=49410932",
+        "date": "il y a 12 h"
       }
     ]
   },
