@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T11:51:49.356Z",
+  "updatedAt": "2026-08-24T12:36:50.835Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 19,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 2,
-      "wind": 15,
-      "humidity": 45
+      "wind": 16,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES 5 DANGERS D’UNE ARME À BLANC",
+        "title": "FACE À CES FAUSSES ARMES : JEAN DUJARDIN ÉTAIT TERRORISÉ !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "7qDbWRl9b58",
-        "thumbnail": "https://i.ytimg.com/vi/7qDbWRl9b58/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7qDbWRl9b58",
-        "publishedAt": "2026-08-24T11:00:11+00:00"
+        "videoId": "3SE2970P7eU",
+        "thumbnail": "https://i.ytimg.com/vi/3SE2970P7eU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3SE2970P7eU",
+        "publishedAt": "2026-08-24T12:00:13+00:00"
       },
       {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
@@ -174,12 +174,22 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les épreuves de sécurité SeL4 sont maintenant terminées sur AArch64",
+        "titleOriginal": "SeL4 security proofs now complete on AArch64",
+        "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+        "source": "proofcraft.systems",
+        "score": 30,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49418255",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "J'avais 17 ans, j'apprenais à construire des LLM à partir de zéro",
         "titleOriginal": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "source": "twitter.com",
-        "score": 202,
-        "comments": 287,
+        "score": 232,
+        "comments": 333,
         "hnUrl": "https://news.ycombinator.com/item?id=49412396",
         "date": "il y a 15 h"
       },
@@ -188,30 +198,20 @@
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 1030,
-        "comments": 285,
+        "score": 1070,
+        "comments": 292,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
         "date": "il y a 13 h"
       },
       {
-        "title": "La FDA autorise les tests sanguins pour faciliter l'évaluation de la maladie d'Alzheimer",
-        "titleOriginal": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-        "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-        "source": "medicine.washu.edu",
-        "score": 69,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49415893",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "L'exécutable est une base de données SQLite",
-        "titleOriginal": "Executable Is a SQLite Database",
-        "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-        "source": "fzakaria.com",
-        "score": 137,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49415271",
-        "date": "il y a 7 h"
+        "title": "Le financement de la Fondation Omacom atteint 10 M $",
+        "titleOriginal": "Omacom Foundation funding hits $10M",
+        "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+        "source": "omarchy.org",
+        "score": 42,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49418032",
+        "date": "il y a 1 h"
       }
     ]
   },
