@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T07:35:26.893Z",
+  "updatedAt": "2026-08-24T08:40:28.072Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 18,
+      "feelsLike": 15,
       "code": 3,
-      "wind": 13,
-      "humidity": 54
+      "wind": 15,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "SON ANECDOTE INCROYABLE AVEC NATALIE PORTMAN ET LUC BESSON",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "LmoIvLepD2o",
+        "thumbnail": "https://i.ytimg.com/vi/LmoIvLepD2o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LmoIvLepD2o",
+        "publishedAt": "2026-08-24T08:00:20+00:00"
+      },
+      {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
         "publishedAt": "2026-08-23T16:00:12+00:00"
-      },
-      {
-        "title": "IL TRANSPORTE DES KALACHNIKOVS POUR LE CINÉMA ET SE FAIT ARRÊTER PAR LA POLICE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "18odSv5_QKk",
-        "thumbnail": "https://i.ytimg.com/vi/18odSv5_QKk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=18odSv5_QKk",
-        "publishedAt": "2026-08-23T14:00:37+00:00"
       },
       {
         "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
@@ -178,40 +178,40 @@
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 718,
-        "comments": 210,
+        "score": 814,
+        "comments": 239,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "La FDA autorise les tests sanguins pour faciliter l'évaluation de la maladie d'Alzheimer",
         "titleOriginal": "FDA clears blood test to aid evaluation for Alzheimer's disease",
         "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "source": "medicine.washu.edu",
-        "score": 13,
-        "comments": 0,
+        "score": 30,
+        "comments": 6,
         "hnUrl": "https://news.ycombinator.com/item?id=49415893",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "J'avais 17 ans, j'apprenais à construire des LLM à partir de zéro",
         "titleOriginal": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "source": "twitter.com",
-        "score": 38,
-        "comments": 68,
+        "score": 66,
+        "comments": 131,
         "hnUrl": "https://news.ycombinator.com/item?id=49412396",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Pannes de service Anthropic Claude et API",
         "titleOriginal": "Anthropic Claude and API service outages",
         "url": "https://status.claude.com/uptime",
         "source": "status.claude.com",
-        "score": 18,
-        "comments": 9,
+        "score": 41,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=49415907",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
