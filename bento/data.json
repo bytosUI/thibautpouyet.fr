@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T20:22:31.371Z",
+  "updatedAt": "2026-08-24T20:57:04.754Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 18,
       "feelsLike": 18,
       "code": 3,
-      "wind": 10,
-      "humidity": 62
+      "wind": 8,
+      "humidity": 65
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 542,
-        "comments": 361,
+        "score": 581,
+        "comments": 392,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
         "date": "il y a 5 h"
       },
@@ -188,18 +188,18 @@
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 382,
-        "comments": 153,
+        "score": 410,
+        "comments": 159,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Toute la ville de San Francisco en tant que jeu vidéo",
         "titleOriginal": "The entire city of San Francisco as a video game",
         "url": "https://sf.thijs.gg/",
         "source": "sf.thijs.gg",
-        "score": 175,
-        "comments": 60,
+        "score": 207,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=49422784",
         "date": "il y a 3 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "IPFS Maintainers Winding Down",
         "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
         "source": "ipshipyard.com",
-        "score": 251,
-        "comments": 122,
+        "score": 269,
+        "comments": 133,
         "hnUrl": "https://news.ycombinator.com/item?id=49421489",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       }
     ]
   },
