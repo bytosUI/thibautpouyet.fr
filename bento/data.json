@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T17:56:06.924Z",
+  "updatedAt": "2026-08-24T18:34:57.993Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
+      "temp": 20,
       "feelsLike": 19,
       "code": 3,
-      "wind": 15,
-      "humidity": 50
+      "wind": 13,
+      "humidity": 54
     },
     "forecast": [
       {
@@ -178,28 +178,28 @@
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 369,
-        "comments": 216,
+        "score": 425,
+        "comments": 249,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 209,
-        "comments": 90,
+        "score": 264,
+        "comments": 117,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "RÉDUCTION des mainteneurs IPFS",
         "titleOriginal": "IPFS Maintainers Winding Down",
         "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
         "source": "ipshipyard.com",
-        "score": 138,
-        "comments": 50,
+        "score": 176,
+        "comments": 75,
         "hnUrl": "https://news.ycombinator.com/item?id=49421489",
         "date": "il y a 2 h"
       },
@@ -208,10 +208,10 @@
         "titleOriginal": "The entire city of San Francisco as a video game",
         "url": "https://sf.thijs.gg/",
         "source": "sf.thijs.gg",
-        "score": 43,
-        "comments": 9,
+        "score": 73,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49422784",
-        "date": "il y a 50 min"
+        "date": "il y a 1 h"
       }
     ]
   },
