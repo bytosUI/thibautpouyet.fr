@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T17:05:47.314Z",
+  "updatedAt": "2026-08-24T17:56:06.924Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
+      "temp": 21,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 16,
-      "humidity": 46
+      "wind": 15,
+      "humidity": 50
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 290,
-        "comments": 162,
+        "score": 369,
+        "comments": 216,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 145,
-        "comments": 58,
+        "score": 209,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "RÉDUCTION des mainteneurs IPFS",
         "titleOriginal": "IPFS Maintainers Winding Down",
         "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
         "source": "ipshipyard.com",
-        "score": 91,
-        "comments": 34,
+        "score": 138,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=49421489",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "OpenAI : réduction de prix GPT 5,6 sol (jusqu'au 21 novembre au moins)",
-        "titleOriginal": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-        "url": "https://developers.openai.com/api/docs/pricing",
-        "source": "developers.openai.com",
-        "score": 122,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49421074",
-        "date": "il y a 1 h"
+        "title": "Toute la ville de San Francisco en tant que jeu vidéo",
+        "titleOriginal": "The entire city of San Francisco as a video game",
+        "url": "https://sf.thijs.gg/",
+        "source": "sf.thijs.gg",
+        "score": 43,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49422784",
+        "date": "il y a 50 min"
       }
     ]
   },
