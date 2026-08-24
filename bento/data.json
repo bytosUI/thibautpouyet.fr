@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-24T11:20:58.900Z",
+  "updatedAt": "2026-08-24T11:51:49.356Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 18,
+      "temp": 21,
+      "feelsLike": 19,
       "code": 2,
-      "wind": 14,
-      "humidity": 46
+      "wind": 15,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "I were 17, I'd learn how to build LLMs from scratch",
         "url": "https://twitter.com/paulg/status/2091544343589060625",
         "source": "twitter.com",
-        "score": 180,
-        "comments": 266,
+        "score": 202,
+        "comments": 287,
         "hnUrl": "https://news.ycombinator.com/item?id=49412396",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Tout ce que je possède, possédais",
         "titleOriginal": "Everything I own, owned",
         "url": "https://schlarp.com/posts/everything-i-own-owned/",
         "source": "schlarp.com",
-        "score": 1000,
-        "comments": 278,
+        "score": 1030,
+        "comments": 285,
         "hnUrl": "https://news.ycombinator.com/item?id=49413320",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "La FDA autorise les tests sanguins pour faciliter l'évaluation de la maladie d'Alzheimer",
         "titleOriginal": "FDA clears blood test to aid evaluation for Alzheimer's disease",
         "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
         "source": "medicine.washu.edu",
-        "score": 65,
-        "comments": 18,
+        "score": 69,
+        "comments": 20,
         "hnUrl": "https://news.ycombinator.com/item?id=49415893",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Le meilleur modèle d'IA d'Anthropic a du mal à attirer les utilisateurs alors que les outils moins chers prospèrent",
-        "titleOriginal": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "source": "ft.com",
-        "score": 558,
-        "comments": 500,
-        "hnUrl": "https://news.ycombinator.com/item?id=49411102",
-        "date": "il y a 17 h"
+        "title": "L'exécutable est une base de données SQLite",
+        "titleOriginal": "Executable Is a SQLite Database",
+        "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
+        "source": "fzakaria.com",
+        "score": 137,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=49415271",
+        "date": "il y a 7 h"
       }
     ]
   },
