@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T19:54:40.899Z",
+  "updatedAt": "2026-08-25T20:21:17.672Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 20,
-      "feelsLike": 21,
-      "code": 80,
-      "wind": 12,
-      "humidity": 81
+      "feelsLike": 20,
+      "code": 3,
+      "wind": 11,
+      "humidity": 79
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 770,
-        "comments": 660,
+        "score": 790,
+        "comments": 690,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 30,
-        "comments": 5,
+        "score": 48,
+        "comments": 23,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 47 min"
+        "date": "il y a 1 h"
       },
       {
         "title": "Nouveau Mac Studio avec M5 Max et M5 Ultra",
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 616,
-        "comments": 367,
+        "score": 625,
+        "comments": 376,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "La singularité du trou noir est une surface et non un point",
         "titleOriginal": "Black hole singularity is a surface not a point",
         "url": "https://arxiv.org/abs/2608.21590",
         "source": "arxiv.org",
-        "score": 97,
-        "comments": 46,
+        "score": 111,
+        "comments": 58,
         "hnUrl": "https://news.ycombinator.com/item?id=49437210",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
