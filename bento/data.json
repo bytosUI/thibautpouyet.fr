@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T17:54:05.632Z",
+  "updatedAt": "2026-08-25T18:31:31.261Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
+      "temp": 22,
       "feelsLike": 23,
-      "code": 3,
-      "wind": 13,
-      "humidity": 63
+      "code": 61,
+      "wind": 11,
+      "humidity": 71
     },
     "forecast": [
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "\"J'ai compris comment Elon Musk fonctionne en travaillant avec lui !\" - Karim Bousta",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "LcGlqRYfX88",
+        "thumbnail": "https://i.ytimg.com/vi/LcGlqRYfX88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LcGlqRYfX88",
+        "publishedAt": "2026-08-25T18:00:05+00:00"
+      },
+      {
         "title": "LA DIFFÉRENCE ENTRE UNE BALLE RÉELLE ET UNE BALLE À BLANC",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
         "publishedAt": "2026-08-23T16:00:12+00:00"
-      },
-      {
-        "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "5sOrpHSDxMY",
-        "thumbnail": "https://i.ytimg.com/vi/5sOrpHSDxMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5sOrpHSDxMY",
-        "publishedAt": "2026-08-18T18:00:03+00:00"
       },
       {
         "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
@@ -178,40 +178,40 @@
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 618,
-        "comments": 502,
+        "score": 678,
+        "comments": 554,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Nouveau Mac Studio avec M5 Max et M5 Ultra",
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 517,
-        "comments": 319,
+        "score": 555,
+        "comments": 329,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "La pêche à la bombe fait des ravages sur les récifs coralliens indonésiens",
-        "titleOriginal": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-        "source": "e360.yale.edu",
-        "score": 156,
-        "comments": 95,
-        "hnUrl": "https://news.ycombinator.com/item?id=49434820",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "La singularité du trou noir est une surface et non un point",
         "titleOriginal": "Black hole singularity is a surface not a point",
         "url": "https://arxiv.org/abs/2608.21590",
         "source": "arxiv.org",
-        "score": 27,
-        "comments": 11,
+        "score": 45,
+        "comments": 19,
         "hnUrl": "https://news.ycombinator.com/item?id=49437210",
-        "date": "il y a 51 min"
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le projet Nitter a reçu cesser et s'abstenir",
+        "titleOriginal": "Nitter project received cease and desist",
+        "url": "https://github.com/zedeus/nitter/issues/1442",
+        "source": "github.com",
+        "score": 181,
+        "comments": 113,
+        "hnUrl": "https://news.ycombinator.com/item?id=49437283",
+        "date": "il y a 1 h"
       }
     ]
   },
