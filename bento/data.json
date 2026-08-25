@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T06:41:25.624Z",
+  "updatedAt": "2026-08-25T07:38:45.363Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 17,
       "feelsLike": 17,
-      "code": 3,
-      "wind": 6,
-      "humidity": 80
+      "code": 2,
+      "wind": 9,
+      "humidity": 86
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-08-26",
         "code": 3,
-        "tmax": 31,
+        "tmax": 30,
         "tmin": 17
       },
       {
@@ -37,21 +37,13 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 445,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "IL POSSÈDE D’AUTHENTIQUES MITRAILLETTES NAZIES POUR TOURNER DES FILMS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "LVwIcvI2-Gg",
+        "thumbnail": "https://i.ytimg.com/vi/LVwIcvI2-Gg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LVwIcvI2-Gg",
+        "publishedAt": "2026-08-24T16:00:29+00:00"
+      },
+      {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -67,6 +68,69 @@
         "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
         "publishedAt": "2026-08-23T16:00:12+00:00"
+      },
+      {
+        "title": "Ils veulent détrôner l'infrastructure IA américaine. Et personne n'en parle.",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "5sOrpHSDxMY",
+        "thumbnail": "https://i.ytimg.com/vi/5sOrpHSDxMY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5sOrpHSDxMY",
+        "publishedAt": "2026-08-18T18:00:03+00:00"
+      },
+      {
+        "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "ur-N6-IG1VA",
+        "thumbnail": "https://i.ytimg.com/vi/ur-N6-IG1VA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ur-N6-IG1VA",
+        "publishedAt": "2026-08-18T16:01:59+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Je détruis enfin la salle de bain #26",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
       }
     ]
   },
@@ -114,40 +178,40 @@
         "titleOriginal": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "source": "developer.apple.com",
-        "score": 385,
-        "comments": 101,
+        "score": 407,
+        "comments": 107,
         "hnUrl": "https://news.ycombinator.com/item?id=49426564",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Xiaomi : Le nouveau processeur correspond aux cœurs Apple à filetage unique, beaucoup plus rapide à filetage multiple",
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 815,
-        "comments": 573,
+        "score": 835,
+        "comments": 585,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
-        "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-        "source": "xusheng.dev",
-        "score": 657,
-        "comments": 264,
-        "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       },
       {
         "title": "Nostr est un commun de communication inclusif",
         "titleOriginal": "Nostr is an inclusive communication commons",
         "url": "https://nostr.org/",
         "source": "nostr.org",
-        "score": 89,
-        "comments": 30,
+        "score": 105,
+        "comments": 34,
         "hnUrl": "https://news.ycombinator.com/item?id=49399722",
         "date": "il y a 2 j"
+      },
+      {
+        "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
+        "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+        "source": "xusheng.dev",
+        "score": 675,
+        "comments": 272,
+        "hnUrl": "https://news.ycombinator.com/item?id=49421158",
+        "date": "il y a 16 h"
       }
     ]
   },
