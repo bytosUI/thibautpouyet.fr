@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-24T23:44:28.700Z",
+  "updatedAt": "2026-08-25T00:56:23.954Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 17,
       "feelsLike": 17,
       "code": 3,
-      "wind": 7,
+      "wind": 8,
       "humidity": 68
     },
     "forecast": [
@@ -178,40 +178,40 @@
         "titleOriginal": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "source": "developer.apple.com",
-        "score": 128,
-        "comments": 26,
+        "score": 190,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=49426564",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "Xiaomi : Le nouveau processeur correspond aux cœurs Apple à filetage unique, beaucoup plus rapide à filetage multiple",
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 687,
-        "comments": 468,
+        "score": 716,
+        "comments": 477,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Lune (2024)",
         "titleOriginal": "Moon (2024)",
         "url": "https://ciechanow.ski/moon/",
         "source": "ciechanow.ski",
-        "score": 60,
-        "comments": 8,
+        "score": 87,
+        "comments": 14,
         "hnUrl": "https://news.ycombinator.com/item?id=49426466",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
         "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 513,
-        "comments": 213,
+        "score": 548,
+        "comments": 218,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       }
     ]
   },
