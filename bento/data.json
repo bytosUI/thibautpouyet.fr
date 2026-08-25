@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T11:55:22.489Z",
+  "updatedAt": "2026-08-25T12:36:53.807Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 24,
+      "temp": 25,
+      "feelsLike": 25,
       "code": 3,
-      "wind": 8,
-      "humidity": 50
+      "wind": 5,
+      "humidity": 48
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La batterie quantique bouleverse les règles de charge",
-        "titleOriginal": "Quantum battery upends the rules of charging",
-        "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-        "source": "bbc.com",
-        "score": 27,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49431560",
-        "date": "il y a 1 h"
+        "title": "Don' t Wordle",
+        "titleOriginal": "Don't Wordle",
+        "url": "https://dontwordle.com/",
+        "source": "dontwordle.com",
+        "score": 10,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49432319",
+        "date": "il y a 47 min"
+      },
+      {
+        "title": "HelloAssembly La plus petite application Windows complète possible",
+        "titleOriginal": "HelloAssembly The smallest possible complete Windows application",
+        "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+        "source": "github.com",
+        "score": 11,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49432227",
+        "date": "il y a 56 min"
       },
       {
         "title": "iCloud+ Masquer mes adresses e-mail resteront sur icloud.com",
         "titleOriginal": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "source": "developer.apple.com",
-        "score": 502,
-        "comments": 147,
+        "score": 510,
+        "comments": 155,
         "hnUrl": "https://news.ycombinator.com/item?id=49426564",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "Les récompenses par carte de crédit sont devenues un transfert de patrimoine de 9,2 milliards $",
         "titleOriginal": "Credit Card Rewards Became a $9.2B Wealth Transfer",
         "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
         "source": "library.hbs.edu",
-        "score": 4,
-        "comments": 0,
+        "score": 82,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=49432201",
-        "date": "il y a 17 min"
-      },
-      {
-        "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
-        "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-        "source": "xusheng.dev",
-        "score": 743,
-        "comments": 353,
-        "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 20 h"
+        "date": "il y a 59 min"
       }
     ]
   },
