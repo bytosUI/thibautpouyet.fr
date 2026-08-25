@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T05:03:07.194Z",
+  "updatedAt": "2026-08-25T05:56:35.736Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 16,
       "code": 3,
       "wind": 4,
-      "humidity": 74
+      "humidity": 77
     },
     "forecast": [
       {
@@ -37,30 +37,28 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 48,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -106,40 +104,40 @@
         "titleOriginal": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "source": "developer.apple.com",
-        "score": 325,
-        "comments": 81,
+        "score": 354,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=49426564",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Xiaomi : Le nouveau processeur correspond aux cœurs Apple à filetage unique, beaucoup plus rapide à filetage multiple",
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 784,
-        "comments": 530,
+        "score": 798,
+        "comments": 553,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
         "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 620,
-        "comments": 250,
+        "score": 638,
+        "comments": 256,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Comment les universités devraient préparer les fondateurs",
-        "titleOriginal": "How Universities Should Prepare Founders",
-        "url": "https://paulgraham.com/prepare.html",
-        "source": "paulgraham.com",
-        "score": 55,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=49428121",
-        "date": "il y a 3 h"
+        "title": "Nostr est un commun de communication inclusif",
+        "titleOriginal": "Nostr is an inclusive communication commons",
+        "url": "https://nostr.org/",
+        "source": "nostr.org",
+        "score": 72,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=49399722",
+        "date": "il y a 2 j"
       }
     ]
   },
