@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T17:05:57.992Z",
+  "updatedAt": "2026-08-25T17:54:05.632Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
+      "temp": 23,
       "feelsLike": 23,
       "code": 3,
-      "wind": 20,
-      "humidity": 60
+      "wind": 13,
+      "humidity": 63
     },
     "forecast": [
       {
@@ -174,12 +174,12 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apple présente M6 et M5 Ultra pour un grand bond en avant en matière de performances et de calcul de l'IA",
-        "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "title": "Apple présente M6 et M5 Ultra",
+        "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 545,
-        "comments": 432,
+        "score": 618,
+        "comments": 502,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
         "date": "il y a 4 h"
       },
@@ -188,30 +188,30 @@
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 476,
-        "comments": 295,
+        "score": 517,
+        "comments": 319,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Nouveau Mac mini, avec M6 et M5 Pro",
-        "titleOriginal": "New Mac mini, featuring M6 and M5 Pro",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-        "source": "apple.com",
-        "score": 245,
-        "comments": 129,
-        "hnUrl": "https://news.ycombinator.com/item?id=49433450",
-        "date": "il y a 3 h"
       },
       {
         "title": "La pêche à la bombe fait des ravages sur les récifs coralliens indonésiens",
         "titleOriginal": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
         "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
         "source": "e360.yale.edu",
-        "score": 124,
-        "comments": 83,
+        "score": 156,
+        "comments": 95,
         "hnUrl": "https://news.ycombinator.com/item?id=49434820",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "La singularité du trou noir est une surface et non un point",
+        "titleOriginal": "Black hole singularity is a surface not a point",
+        "url": "https://arxiv.org/abs/2608.21590",
+        "source": "arxiv.org",
+        "score": 27,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49437210",
+        "date": "il y a 51 min"
       }
     ]
   },
