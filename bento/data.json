@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T14:38:29.167Z",
+  "updatedAt": "2026-08-25T15:36:15.540Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 27,
+      "temp": 26,
+      "feelsLike": 26,
       "code": 2,
-      "wind": 7,
-      "humidity": 49
+      "wind": 14,
+      "humidity": 54
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE CLUB M'A SAUVÉ DE LA DR*GUE",
+        "title": "LA DIFFÉRENCE ENTRE UNE BALLE RÉELLE ET UNE BALLE À BLANC",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "VgeHsdV4rTk",
-        "thumbnail": "https://i.ytimg.com/vi/VgeHsdV4rTk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VgeHsdV4rTk",
-        "publishedAt": "2026-08-25T08:33:14+00:00"
+        "videoId": "3FAx-Ud-VpI",
+        "thumbnail": "https://i.ytimg.com/vi/3FAx-Ud-VpI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3FAx-Ud-VpI",
+        "publishedAt": "2026-08-25T15:00:17+00:00"
       },
       {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
@@ -178,19 +178,29 @@
         "titleOriginal": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 234,
-        "comments": 134,
+        "score": 361,
+        "comments": 238,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Apple présente M6 et M5 Ultra pour un grand bond en avant en matière de performances et de calcul de l'IA",
-        "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-        "source": "apple.com",
-        "score": 313,
-        "comments": 258,
-        "hnUrl": "https://news.ycombinator.com/item?id=49433292",
+        "title": "Quelle est la part de HN dans l'IA ?",
+        "titleOriginal": "How much of HN is AI?",
+        "url": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
+        "source": "blog.coredump.cx",
+        "score": 42,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49435728",
+        "date": "il y a 12 min"
+      },
+      {
+        "title": "La pêche à la bombe fait trembler le Havoc sur les récifs coralliens indonésiens",
+        "titleOriginal": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+        "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+        "source": "e360.yale.edu",
+        "score": 62,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=49434820",
         "date": "il y a 1 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "Apple's new Mac mini, featuring M6 and M5 Pro",
         "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
         "source": "apple.com",
-        "score": 41,
-        "comments": 24,
+        "score": 140,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=49433450",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "L'agence fiscale française a été piratée (en français)",
-        "titleOriginal": "France's tax agency got hacked (in French)",
-        "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-        "source": "cybernetica.fr",
-        "score": 70,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49433064",
-        "date": "il y a 1 h"
+        "date": "il y a 2 h"
       }
     ]
   },
