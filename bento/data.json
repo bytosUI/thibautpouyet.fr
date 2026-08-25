@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T05:56:35.736Z",
+  "updatedAt": "2026-08-25T06:41:25.624Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
+      "temp": 17,
+      "feelsLike": 17,
       "code": 3,
-      "wind": 4,
-      "humidity": 77
+      "wind": 6,
+      "humidity": 80
     },
     "forecast": [
       {
@@ -42,7 +42,7 @@
         "user": "nowtechteam",
         "displayName": "NowtechTeam",
         "game": "Just Chatting",
-        "viewers": 48,
+        "viewers": 445,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
         "url": "https://twitch.tv/nowtechteam"
       }
@@ -58,7 +58,17 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "5YI6cRq5-MI",
+        "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
+        "publishedAt": "2026-08-23T16:00:12+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -104,38 +114,38 @@
         "titleOriginal": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "source": "developer.apple.com",
-        "score": 354,
-        "comments": 90,
+        "score": 385,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=49426564",
-        "date": "il y a 7 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Xiaomi : Le nouveau processeur correspond aux cœurs Apple à filetage unique, beaucoup plus rapide à filetage multiple",
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 798,
-        "comments": 553,
+        "score": 815,
+        "comments": 573,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 638,
-        "comments": 256,
+        "score": 657,
+        "comments": 264,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Nostr est un commun de communication inclusif",
         "titleOriginal": "Nostr is an inclusive communication commons",
         "url": "https://nostr.org/",
         "source": "nostr.org",
-        "score": 72,
-        "comments": 21,
+        "score": 89,
+        "comments": 30,
         "hnUrl": "https://news.ycombinator.com/item?id=49399722",
         "date": "il y a 2 j"
       }
