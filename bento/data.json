@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-25T04:07:08.778Z",
+  "updatedAt": "2026-08-25T05:03:07.194Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 16,
       "code": 3,
-      "wind": 5,
-      "humidity": 71
+      "wind": 4,
+      "humidity": 74
     },
     "forecast": [
       {
         "date": "2026-08-25",
         "code": 80,
-        "tmax": 28,
+        "tmax": 27,
         "tmin": 16
       },
       {
         "date": "2026-08-26",
         "code": 3,
-        "tmax": 30,
-        "tmin": 18
+        "tmax": 31,
+        "tmin": 17
       },
       {
         "date": "2026-08-27",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL POSSÈDE D’AUTHENTIQUES MITRAILLETTES NAZIES POUR TOURNER DES FILMS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "LVwIcvI2-Gg",
-        "thumbnail": "https://i.ytimg.com/vi/LVwIcvI2-Gg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LVwIcvI2-Gg",
-        "publishedAt": "2026-08-24T16:00:29+00:00"
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
       }
     ]
   },
@@ -106,40 +106,40 @@
         "titleOriginal": "iCloud+ Hide My Email addresses will remain on icloud.com",
         "url": "https://developer.apple.com/news/?id=1ptvdtcm",
         "source": "developer.apple.com",
-        "score": 298,
-        "comments": 74,
+        "score": 325,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=49426564",
-        "date": "il y a 5 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Xiaomi : Le nouveau processeur correspond aux cœurs Apple à filetage unique, beaucoup plus rapide à filetage multiple",
         "titleOriginal": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
         "url": "https://twitter.com/lemire/status/2091894299289874926",
         "source": "twitter.com",
-        "score": 770,
-        "comments": 519,
+        "score": 784,
+        "comments": 530,
         "hnUrl": "https://news.ycombinator.com/item?id=49420873",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "MS Paint et Photos filigranent de manière indissociable même les sorties générées localement avec GUID",
         "titleOriginal": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
         "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
         "source": "xusheng.dev",
-        "score": 605,
-        "comments": 240,
+        "score": 620,
+        "comments": 250,
         "hnUrl": "https://news.ycombinator.com/item?id=49421158",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Comment les universités devraient préparer les fondateurs",
         "titleOriginal": "How Universities Should Prepare Founders",
         "url": "https://paulgraham.com/prepare.html",
         "source": "paulgraham.com",
-        "score": 46,
-        "comments": 46,
+        "score": 55,
+        "comments": 53,
         "hnUrl": "https://news.ycombinator.com/item?id=49428121",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       }
     ]
   },
