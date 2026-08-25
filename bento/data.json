@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T13:43:05.169Z",
+  "updatedAt": "2026-08-25T14:38:29.167Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 27,
-      "feelsLike": 28,
-      "code": 3,
-      "wind": 2,
-      "humidity": 45
+      "feelsLike": 27,
+      "code": 2,
+      "wind": 7,
+      "humidity": 49
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apple présente M6 et M5 Ultra pour un grand bond en avant en matière de performances et de calcul de l'IA",
-        "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-        "source": "apple.com",
-        "score": 166,
-        "comments": 101,
-        "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 41 min"
-      },
-      {
         "title": "Apple présente le nouveau Mac Studio avec M5 Max et M5 Ultra",
         "titleOriginal": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 97,
-        "comments": 60,
+        "score": 234,
+        "comments": 134,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
-        "date": "il y a 39 min"
-      },
-      {
-        "title": "Don' t Wordle",
-        "titleOriginal": "Don't Wordle",
-        "url": "https://dontwordle.com/",
-        "source": "dontwordle.com",
-        "score": 100,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=49432319",
         "date": "il y a 1 h"
       },
       {
-        "title": "Les centres de données américains ont triplé leur consommation annuelle d'eau à 17 milliards de gallons",
-        "titleOriginal": "US data centers tripled annual water consumption to 17B gallons",
-        "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
-        "source": "forgeeks.net",
-        "score": 17,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49433372",
-        "date": "il y a 34 min"
+        "title": "Apple présente M6 et M5 Ultra pour un grand bond en avant en matière de performances et de calcul de l'IA",
+        "titleOriginal": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "source": "apple.com",
+        "score": 313,
+        "comments": 258,
+        "hnUrl": "https://news.ycombinator.com/item?id=49433292",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le nouveau Mac mini d'Apple, avec M6 et M5 Pro",
+        "titleOriginal": "Apple's new Mac mini, featuring M6 and M5 Pro",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
+        "source": "apple.com",
+        "score": 41,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49433450",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "L'agence fiscale française a été piratée (en français)",
+        "titleOriginal": "France's tax agency got hacked (in French)",
+        "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+        "source": "cybernetica.fr",
+        "score": 70,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49433064",
+        "date": "il y a 1 h"
       }
     ]
   },
