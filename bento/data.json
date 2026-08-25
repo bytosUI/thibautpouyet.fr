@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:21:26.792Z",
+  "updatedAt": "2026-08-25T21:51:19.185Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -7,7 +7,7 @@
       "feelsLike": 21,
       "code": 3,
       "wind": 7,
-      "humidity": 85
+      "humidity": 88
     },
     "forecast": [
       {
@@ -178,8 +178,8 @@
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 114,
-        "comments": 71,
+        "score": 136,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
         "date": "il y a 2 h"
       },
@@ -188,8 +188,8 @@
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 831,
-        "comments": 756,
+        "score": 848,
+        "comments": 779,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
         "date": "il y a 8 h"
       },
@@ -198,8 +198,8 @@
         "titleOriginal": "OpenAI Jalapeño: Better than Nvidia Blackwell",
         "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
         "source": "newsletter.semianalysis.com",
-        "score": 185,
-        "comments": 125,
+        "score": 208,
+        "comments": 141,
         "hnUrl": "https://news.ycombinator.com/item?id=49434378",
         "date": "il y a 7 h"
       },
@@ -208,8 +208,8 @@
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 646,
-        "comments": 394,
+        "score": 656,
+        "comments": 401,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
         "date": "il y a 8 h"
       }
