@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-25T20:21:17.672Z",
+  "updatedAt": "2026-08-25T20:58:18.398Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 20,
-      "feelsLike": 20,
+      "feelsLike": 21,
       "code": 3,
-      "wind": 11,
-      "humidity": 79
+      "wind": 9,
+      "humidity": 82
     },
     "forecast": [
       {
@@ -174,32 +174,32 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apple présente M6 et M5 Ultra",
-        "titleOriginal": "Apple introduces M6 and M5 Ultra",
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-        "source": "apple.com",
-        "score": 790,
-        "comments": 690,
-        "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 7 h"
-      },
-      {
         "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 48,
-        "comments": 23,
+        "score": 92,
+        "comments": 49,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Apple présente M6 et M5 Ultra",
+        "titleOriginal": "Apple introduces M6 and M5 Ultra",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+        "source": "apple.com",
+        "score": 817,
+        "comments": 730,
+        "hnUrl": "https://news.ycombinator.com/item?id=49433292",
+        "date": "il y a 7 h"
       },
       {
         "title": "Nouveau Mac Studio avec M5 Max et M5 Ultra",
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 625,
-        "comments": 376,
+        "score": 640,
+        "comments": 385,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
         "date": "il y a 7 h"
       },
@@ -208,8 +208,8 @@
         "titleOriginal": "Black hole singularity is a surface not a point",
         "url": "https://arxiv.org/abs/2608.21590",
         "source": "arxiv.org",
-        "score": 111,
-        "comments": 58,
+        "score": 126,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=49437210",
         "date": "il y a 3 h"
       }
