@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T05:59:45.572Z",
+  "updatedAt": "2026-08-26T06:58:52.624Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 5,
-      "humidity": 89
+      "temp": 19,
+      "feelsLike": 20,
+      "code": 2,
+      "wind": 6,
+      "humidity": 84
     },
     "forecast": [
       {
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -102,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Plus de la moitié des adultes aux États-Unis disent ne pas avoir une compréhension statistique de base",
+        "titleOriginal": "More than half of adults in U.S. say they lack basic statistical understanding",
+        "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
+        "source": "psu.edu",
+        "score": 37,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49444514",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Apple présente M6 et M5 Ultra",
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 1055,
-        "comments": 987,
+        "score": 1078,
+        "comments": 1023,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 16 h"
+        "date": "il y a 17 h"
       },
       {
         "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 340,
-        "comments": 169,
+        "score": 353,
+        "comments": 174,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "OpenAI Jalapeño : Mieux que Nvidia Blackwell",
-        "titleOriginal": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-        "source": "newsletter.semianalysis.com",
-        "score": 408,
-        "comments": 269,
-        "hnUrl": "https://news.ycombinator.com/item?id=49434378",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Exécutables interrogeables",
-        "titleOriginal": "Queryable Executables",
-        "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-        "source": "fzakaria.com",
-        "score": 83,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49442589",
-        "date": "il y a 5 h"
+        "title": "Traquer le pirate rusé : 40 ans plus tard – Cliff Stoll [vidéo]",
+        "titleOriginal": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
+        "url": "https://www.youtube.com/watch?v=656058JxTM0",
+        "source": "youtube.com",
+        "score": 35,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49395802",
+        "date": "il y a 4 j"
       }
     ]
   },
