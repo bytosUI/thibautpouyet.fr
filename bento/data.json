@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T18:12:15.813Z",
+  "updatedAt": "2026-08-26T20:28:37.972Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 28,
-      "code": 3,
-      "wind": 8,
-      "humidity": 40
+      "temp": 24,
+      "feelsLike": 25,
+      "code": 2,
+      "wind": 11,
+      "humidity": 59
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-08-27",
-        "code": 96,
-        "tmax": 27,
-        "tmin": 19
+        "code": 95,
+        "tmax": 25,
+        "tmin": 20
       },
       {
         "date": "2026-08-28",
         "code": 80,
-        "tmax": 23,
-        "tmin": 18
+        "tmax": 24,
+        "tmin": 19
       },
       {
         "date": "2026-08-29",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Tailcat – Comme netcat, mais sur le plan de données de Tailscale",
+        "titleOriginal": "Tailcat – Like netcat, but over Tailscale’s data plane",
+        "url": "https://github.com/tailscale/tailcat",
+        "source": "github.com",
+        "score": 277,
+        "comments": 49,
+        "hnUrl": "https://news.ycombinator.com/item?id=49452990",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "GLM-5.3-Flash",
         "titleOriginal": "GLM-5.3-Flash",
         "url": "https://z.ai/blog/glm-5.3-flash",
         "source": "z.ai",
-        "score": 545,
-        "comments": 250,
+        "score": 714,
+        "comments": 335,
         "hnUrl": "https://news.ycombinator.com/item?id=49449507",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "La start-up de Dallas enrichit l'uranium",
+        "titleOriginal": "Dallas startup enriches Uranium",
+        "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+        "source": "actinideinc.com",
+        "score": 52,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49454419",
+        "date": "il y a 1 h"
       },
       {
         "title": "AWS acquiert DuckLabs",
         "titleOriginal": "AWS Acquires DuckLabs",
         "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
         "source": "ducklabs.com",
-        "score": 764,
-        "comments": 218,
+        "score": 863,
+        "comments": 243,
         "hnUrl": "https://news.ycombinator.com/item?id=49448321",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Une violation de l'AGPL de l'imprimante 3D en cours",
-        "titleOriginal": "An ongoing 3D-printer AGPL violation",
-        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-        "source": "lwn.net",
-        "score": 28,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49452980",
-        "date": "il y a 30 min"
-      },
-      {
-        "title": "La France atteint 94,9% de couverture fibre en 2026",
-        "titleOriginal": "France reaches 94.9% fiber coverage in 2026",
-        "url": "https://cartefibre.arcep.fr",
-        "source": "cartefibre.arcep.fr",
-        "score": 260,
-        "comments": 186,
-        "hnUrl": "https://news.ycombinator.com/item?id=49448872",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       }
     ]
   },
