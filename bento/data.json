@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T12:39:53.319Z",
+  "updatedAt": "2026-08-26T13:49:53.334Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 28,
-      "feelsLike": 30,
-      "code": 2,
-      "wind": 5,
-      "humidity": 50
+      "feelsLike": 28,
+      "code": 3,
+      "wind": 9,
+      "humidity": 42
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-08-27",
-        "code": 96,
-        "tmax": 31,
-        "tmin": 20
+        "code": 95,
+        "tmax": 30,
+        "tmin": 19
       },
       {
         "date": "2026-08-28",
         "code": 80,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 18
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL RENCONTRE UN CANNIBALE EN INDE, LE VISAGE RECOUVERT DE CENDRE HUMAINE, ET RACONTE TOUT",
+        "title": "IL A DEMANDÉ AUX TALIBANS CE QU’ILS FERAIENT S’IL ÉTAIT HOMOSEXUEL, ET LEUR RÉPONSE EST GLAÇANTE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "IEQ34vMd4O0",
-        "thumbnail": "https://i.ytimg.com/vi/IEQ34vMd4O0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IEQ34vMd4O0",
-        "publishedAt": "2026-08-26T12:00:24+00:00"
+        "videoId": "7yjuGADKjUM",
+        "thumbnail": "https://i.ytimg.com/vi/7yjuGADKjUM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7yjuGADKjUM",
+        "publishedAt": "2026-08-26T13:00:25+00:00"
       },
       {
         "title": "J'ai compris comment Elon Musk fonctionne en travaillant avec lui ! - Karim Bousta",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'omarchie est pleine de failles de sécurité",
-        "titleOriginal": "Omarchy is full of security holes",
-        "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
-        "source": "blog.happyfellow.dev",
-        "score": 91,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49447682",
-        "date": "il y a 21 min"
+        "title": "AWS acquiert DuckDB",
+        "titleOriginal": "AWS Acquires DuckDB",
+        "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "source": "ducklabs.com",
+        "score": 233,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=49448321",
+        "date": "il y a 50 min"
+      },
+      {
+        "title": "Qwen3.8-Flash-Next : Une nouvelle architecture, vers une rentabilité ultime",
+        "titleOriginal": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
+        "source": "qwen.ai",
+        "score": 120,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49448210",
+        "date": "il y a 57 min"
       },
       {
         "title": "Le CHIFFON est plus simple que vous ne le pensez",
         "titleOriginal": "RAG Is Simpler Than You Think",
         "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
         "source": "lighthousenewsletter.com",
-        "score": 160,
-        "comments": 77,
+        "score": 220,
+        "comments": 100,
         "hnUrl": "https://news.ycombinator.com/item?id=49445727",
-        "date": "il y a 4 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Oldinsurancemaps.net est maintenant un projet de charte",
-        "titleOriginal": "Oldinsurancemaps.net is now a Charter Project",
-        "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-        "source": "openstreetmap.us",
-        "score": 91,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49445873",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Z.ai confirme qu'Ox Alpha est un nouveau modèle de la série GLM et qu'il libérera ses poids",
-        "titleOriginal": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-        "source": "bloomberg.com",
-        "score": 186,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=49446422",
-        "date": "il y a 2 h"
+        "title": "Un curmudgeon essaie un serveur de langue",
+        "titleOriginal": "A curmudgeon tries a language server",
+        "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
+        "source": "entropicthoughts.com",
+        "score": 21,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49448150",
+        "date": "il y a 1 h"
       }
     ]
   },
