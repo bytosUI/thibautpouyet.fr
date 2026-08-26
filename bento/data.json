@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T04:33:44.251Z",
+  "updatedAt": "2026-08-26T05:28:26.002Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 18,
       "feelsLike": 19,
       "code": 3,
-      "wind": 6,
+      "wind": 5,
       "humidity": 90
     },
     "forecast": [
@@ -96,40 +96,40 @@
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 1027,
-        "comments": 948,
+        "score": 1041,
+        "comments": 965,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       },
       {
         "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 323,
-        "comments": 158,
+        "score": 330,
+        "comments": 161,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "OpenAI Jalapeño : Mieux que Nvidia Blackwell",
         "titleOriginal": "OpenAI Jalapeño: Better than Nvidia Blackwell",
         "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
         "source": "newsletter.semianalysis.com",
-        "score": 386,
-        "comments": 257,
+        "score": 394,
+        "comments": 261,
         "hnUrl": "https://news.ycombinator.com/item?id=49434378",
-        "date": "il y a 14 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Nouveau Mac Studio avec M5 Max et M5 Ultra",
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 725,
-        "comments": 481,
+        "score": 733,
+        "comments": 482,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
-        "date": "il y a 15 h"
+        "date": "il y a 16 h"
       }
     ]
   },
