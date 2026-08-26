@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-25T23:47:03.713Z",
+  "updatedAt": "2026-08-26T00:57:42.888Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 18,
       "feelsLike": 20,
       "code": 3,
-      "wind": 6,
+      "wind": 5,
       "humidity": 90
     },
     "forecast": [
@@ -178,40 +178,40 @@
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 214,
-        "comments": 126,
+        "score": 235,
+        "comments": 137,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Les constantes pré-déclarées de Python sont un peu bizarres",
-        "titleOriginal": "Python's pre-declared constants are kinda weird",
-        "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-        "source": "sebsite.pw",
-        "score": 94,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49441033",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Apple présente M6 et M5 Ultra",
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 912,
-        "comments": 861,
+        "score": 934,
+        "comments": 890,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 10 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "OpenAI Jalapeño : Mieux que Nvidia Blackwell",
         "titleOriginal": "OpenAI Jalapeño: Better than Nvidia Blackwell",
         "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
         "source": "newsletter.semianalysis.com",
-        "score": 278,
-        "comments": 190,
+        "score": 308,
+        "comments": 212,
         "hnUrl": "https://news.ycombinator.com/item?id=49434378",
-        "date": "il y a 9 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Les constantes pré-déclarées de Python sont un peu bizarres",
+        "titleOriginal": "Python's pre-declared constants are kinda weird",
+        "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+        "source": "sebsite.pw",
+        "score": 129,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=49441033",
+        "date": "il y a 3 h"
       }
     ]
   },
