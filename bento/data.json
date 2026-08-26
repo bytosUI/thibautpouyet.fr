@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T11:02:33.741Z",
+  "updatedAt": "2026-08-26T11:54:24.195Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 28,
+      "temp": 27,
+      "feelsLike": 29,
       "code": 2,
-      "wind": 6,
-      "humidity": 57
+      "wind": 5,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL A VISITÉ AVEC LES TALIBANS LA GROTTE SECRÈTE D’OUSSAMA BEN LADEN EN AFGHANISTAN",
+        "title": "IL A CONTACTÉ LES TALIBANS SUR INSTAGRAM… ET S’EST RETROUVÉ EN AFGHANISTAN",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "sWbRSwGsYOc",
-        "thumbnail": "https://i.ytimg.com/vi/sWbRSwGsYOc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sWbRSwGsYOc",
-        "publishedAt": "2026-08-26T10:00:22+00:00"
+        "videoId": "sMF6laT065U",
+        "thumbnail": "https://i.ytimg.com/vi/sMF6laT065U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sMF6laT065U",
+        "publishedAt": "2026-08-26T11:00:35+00:00"
       },
       {
         "title": "\"J'ai compris comment Elon Musk fonctionne en travaillant avec lui !\" - Karim Bousta",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Oldinsurancemaps.net est maintenant un projet de charte",
-        "titleOriginal": "Oldinsurancemaps.net is now a Charter Project",
-        "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-        "source": "openstreetmap.us",
-        "score": 51,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49445873",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Le CHIFFON est plus simple que vous ne le pensez",
         "titleOriginal": "RAG Is Simpler Than You Think",
         "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
         "source": "lighthousenewsletter.com",
-        "score": 64,
-        "comments": 30,
+        "score": 122,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=49445727",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Oldinsurancemaps.net est maintenant un projet de charte",
+        "titleOriginal": "Oldinsurancemaps.net is now a Charter Project",
+        "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+        "source": "openstreetmap.us",
+        "score": 70,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49445873",
         "date": "il y a 2 h"
       },
       {
-        "title": "Show HN : Buslens – où puis-je me rendre en bus ? (Royaume-Uni)",
-        "titleOriginal": "Show HN: Buslens – where can I get to by bus? (UK)",
-        "url": "https://rupertlinacre.com/buslens/",
-        "source": "rupertlinacre.com",
-        "score": 36,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=49445286",
-        "date": "il y a 3 h"
+        "title": "Ce n'est pas la fin de la programmation",
+        "titleOriginal": "It's Not the End of Programming",
+        "url": "https://mathstodon.xyz/@abuseofnotation/117161292083848755",
+        "source": "mathstodon.xyz",
+        "score": 28,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49446597",
+        "date": "il y a 1 h"
       },
       {
         "title": "Z.ai confirme qu'Ox Alpha est un nouveau modèle de la série GLM et qu'il libérera ses poids",
         "titleOriginal": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
         "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
         "source": "bloomberg.com",
-        "score": 55,
-        "comments": 9,
+        "score": 127,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=49446422",
-        "date": "il y a 57 min"
+        "date": "il y a 1 h"
       }
     ]
   },
