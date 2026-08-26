@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T02:24:17.220Z",
+  "updatedAt": "2026-08-26T03:31:53.922Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
@@ -52,33 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"J'ai compris comment Elon Musk fonctionne en travaillant avec lui !\" - Karim Bousta",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "LcGlqRYfX88",
-        "thumbnail": "https://i.ytimg.com/vi/LcGlqRYfX88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LcGlqRYfX88",
-        "publishedAt": "2026-08-25T18:00:05+00:00"
-      },
-      {
-        "title": "LA DIFFÉRENCE ENTRE UNE BALLE RÉELLE ET UNE BALLE À BLANC",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3FAx-Ud-VpI",
-        "thumbnail": "https://i.ytimg.com/vi/3FAx-Ud-VpI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3FAx-Ud-VpI",
-        "publishedAt": "2026-08-25T15:00:17+00:00"
-      },
-      {
-        "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "5YI6cRq5-MI",
-        "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
-        "publishedAt": "2026-08-23T16:00:12+00:00"
-      },
-      {
         "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -88,33 +61,6 @@
         "publishedAt": "2026-08-18T16:01:59+00:00"
       },
       {
-        "title": "Un expat' ne reviendra jamais vivre en France ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "OKEx1QYExAs",
-        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
-        "publishedAt": "2026-08-10T08:26:03+00:00"
-      },
-      {
-        "title": "Je détruis enfin la salle de bain #26",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "JhkdfqxG25I",
-        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
-        "publishedAt": "2026-08-09T15:17:07+00:00"
-      },
-      {
-        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "zZLlX78uq9k",
-        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
-        "publishedAt": "2026-08-04T15:16:19+00:00"
-      },
-      {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -122,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
         "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
       }
     ]
   },
@@ -174,44 +111,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
-        "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "source": "fda.gov",
-        "score": 289,
-        "comments": 148,
-        "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 7 h"
-      },
-      {
         "title": "Apple présente M6 et M5 Ultra",
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 977,
-        "comments": 910,
+        "score": 1003,
+        "comments": 938,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
+        "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "source": "fda.gov",
+        "score": 312,
+        "comments": 153,
+        "hnUrl": "https://news.ycombinator.com/item?id=49439017",
+        "date": "il y a 8 h"
       },
       {
         "title": "OpenAI Jalapeño : Mieux que Nvidia Blackwell",
         "titleOriginal": "OpenAI Jalapeño: Better than Nvidia Blackwell",
         "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
         "source": "newsletter.semianalysis.com",
-        "score": 343,
-        "comments": 239,
+        "score": 364,
+        "comments": 256,
         "hnUrl": "https://news.ycombinator.com/item?id=49434378",
-        "date": "il y a 12 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Nouveau Mac Studio avec M5 Max et M5 Ultra",
         "titleOriginal": "New Mac Studio with M5 Max and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
         "source": "apple.com",
-        "score": 708,
-        "comments": 459,
+        "score": 717,
+        "comments": 475,
         "hnUrl": "https://news.ycombinator.com/item?id=49433316",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       }
     ]
   },
