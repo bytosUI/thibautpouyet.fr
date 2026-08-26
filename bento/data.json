@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-26T20:28:37.972Z",
+  "updatedAt": "2026-08-26T23:58:44.824Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 25,
+      "temp": 22,
+      "feelsLike": 22,
       "code": 2,
-      "wind": 11,
-      "humidity": 59
+      "wind": 9,
+      "humidity": 72
     },
     "forecast": [
-      {
-        "date": "2026-08-26",
-        "code": 3,
-        "tmax": 29,
-        "tmin": 18
-      },
       {
         "date": "2026-08-27",
         "code": 95,
@@ -24,20 +18,35 @@
       },
       {
         "date": "2026-08-28",
-        "code": 80,
-        "tmax": 24,
-        "tmin": 19
+        "code": 95,
+        "tmax": 25,
+        "tmin": 18
       },
       {
         "date": "2026-08-29",
         "code": 61,
-        "tmax": 22,
-        "tmin": 17
+        "tmax": 23,
+        "tmin": 16
+      },
+      {
+        "date": "2026-08-30",
+        "code": 3,
+        "tmax": 25,
+        "tmin": 18
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 204,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,40 +186,40 @@
         "titleOriginal": "Tailcat – Like netcat, but over Tailscale’s data plane",
         "url": "https://github.com/tailscale/tailcat",
         "source": "github.com",
-        "score": 277,
-        "comments": 49,
+        "score": 440,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49452990",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "GLM-5.3-Flash",
         "titleOriginal": "GLM-5.3-Flash",
         "url": "https://z.ai/blog/glm-5.3-flash",
         "source": "z.ai",
-        "score": 714,
-        "comments": 335,
+        "score": 837,
+        "comments": 418,
         "hnUrl": "https://news.ycombinator.com/item?id=49449507",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "La start-up de Dallas enrichit l'uranium",
-        "titleOriginal": "Dallas startup enriches Uranium",
-        "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-        "source": "actinideinc.com",
-        "score": 52,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49454419",
-        "date": "il y a 1 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "AWS acquiert DuckLabs",
         "titleOriginal": "AWS Acquires DuckLabs",
         "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
         "source": "ducklabs.com",
-        "score": 863,
-        "comments": 243,
+        "score": 941,
+        "comments": 279,
         "hnUrl": "https://news.ycombinator.com/item?id=49448321",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Une violation de l'AGPL de l'imprimante 3D en cours",
+        "titleOriginal": "An ongoing 3D-printer AGPL violation",
+        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+        "source": "lwn.net",
+        "score": 282,
+        "comments": 120,
+        "hnUrl": "https://news.ycombinator.com/item?id=49452980",
+        "date": "il y a 6 h"
       }
     ]
   },
