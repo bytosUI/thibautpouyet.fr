@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T08:36:00.833Z",
+  "updatedAt": "2026-08-26T09:34:38.098Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 23,
+      "temp": 23,
+      "feelsLike": 25,
       "code": 2,
-      "wind": 7,
-      "humidity": 76
+      "wind": 9,
+      "humidity": 69
     },
     "forecast": [
       {
@@ -37,19 +37,11 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 196,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -60,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "IL A RENCONTRÉ LES HOMMES LES PLUS DANGEREUX DU MONDE (TALIBANS, GANGS LATINOS, ETC.)",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "-LPYFbpAVrE",
+        "thumbnail": "https://i.ytimg.com/vi/-LPYFbpAVrE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-LPYFbpAVrE",
+        "publishedAt": "2026-08-26T09:00:06+00:00"
+      },
+      {
         "title": "\"J'ai compris comment Elon Musk fonctionne en travaillant avec lui !\" - Karim Bousta",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -67,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/LcGlqRYfX88/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LcGlqRYfX88",
         "publishedAt": "2026-08-25T18:00:05+00:00"
-      },
-      {
-        "title": "LA DIFFÉRENCE ENTRE UNE BALLE RÉELLE ET UNE BALLE À BLANC",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3FAx-Ud-VpI",
-        "thumbnail": "https://i.ytimg.com/vi/3FAx-Ud-VpI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3FAx-Ud-VpI",
-        "publishedAt": "2026-08-25T15:00:17+00:00"
       },
       {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
@@ -186,18 +178,18 @@
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 1118,
-        "comments": 1072,
+        "score": 1137,
+        "comments": 1102,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 19 h"
+        "date": "il y a 20 h"
       },
       {
         "title": "Traquer le pirate rusé : 40 ans plus tard – Cliff Stoll [vidéo]",
         "titleOriginal": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
         "url": "https://www.youtube.com/watch?v=656058JxTM0",
         "source": "youtube.com",
-        "score": 76,
-        "comments": 21,
+        "score": 96,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=49395802",
         "date": "il y a 4 j"
       },
@@ -206,20 +198,20 @@
         "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
         "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
         "source": "fda.gov",
-        "score": 377,
-        "comments": 188,
+        "score": 394,
+        "comments": 194,
         "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 13 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Harvest (IBM 7950) : Supercalculateur pour la cryptanalyse à la NSA pendant la guerre froide",
-        "titleOriginal": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
-        "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-        "source": "spectrum.ieee.org",
-        "score": 31,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49444232",
-        "date": "il y a 3 h"
+        "title": "Show HN : Buslens – où puis-je me rendre en bus ? (Royaume-Uni)",
+        "titleOriginal": "Show HN: Buslens – where can I get to by bus? (UK)",
+        "url": "https://rupertlinacre.com/buslens/",
+        "source": "rupertlinacre.com",
+        "score": 14,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49445286",
+        "date": "il y a 1 h"
       }
     ]
   },
