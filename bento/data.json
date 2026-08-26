@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-08-26T16:12:57.127Z",
+  "updatedAt": "2026-08-26T18:12:15.813Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 28,
       "feelsLike": 28,
       "code": 3,
-      "wind": 10,
+      "wind": 8,
       "humidity": 40
     },
     "forecast": [
@@ -18,8 +18,8 @@
       },
       {
         "date": "2026-08-27",
-        "code": 95,
-        "tmax": 30,
+        "code": 96,
+        "tmax": 27,
         "tmin": 19
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "AWS acquiert DuckDB",
-        "titleOriginal": "AWS Acquires DuckDB",
-        "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-        "source": "ducklabs.com",
-        "score": 600,
-        "comments": 152,
-        "hnUrl": "https://news.ycombinator.com/item?id=49448321",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "GLM-5.3-Flash",
         "titleOriginal": "GLM-5.3-Flash",
         "url": "https://z.ai/blog/glm-5.3-flash",
         "source": "z.ai",
-        "score": 332,
-        "comments": 139,
+        "score": 545,
+        "comments": 250,
         "hnUrl": "https://news.ycombinator.com/item?id=49449507",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Qwen3.8-Flash-Next : Une nouvelle architecture, vers une rentabilité ultime",
-        "titleOriginal": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-        "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-        "source": "qwen.ai",
-        "score": 349,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=49448210",
-        "date": "il y a 3 h"
+        "title": "AWS acquiert DuckLabs",
+        "titleOriginal": "AWS Acquires DuckLabs",
+        "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
+        "source": "ducklabs.com",
+        "score": 764,
+        "comments": 218,
+        "hnUrl": "https://news.ycombinator.com/item?id=49448321",
+        "date": "il y a 5 h"
       },
       {
-        "title": "Nebula Sans",
-        "titleOriginal": "Nebula Sans",
-        "url": "https://www.nebulasans.com",
-        "source": "nebulasans.com",
-        "score": 75,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49450448",
-        "date": "il y a 1 h"
+        "title": "Une violation de l'AGPL de l'imprimante 3D en cours",
+        "titleOriginal": "An ongoing 3D-printer AGPL violation",
+        "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
+        "source": "lwn.net",
+        "score": 28,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49452980",
+        "date": "il y a 30 min"
+      },
+      {
+        "title": "La France atteint 94,9% de couverture fibre en 2026",
+        "titleOriginal": "France reaches 94.9% fiber coverage in 2026",
+        "url": "https://cartefibre.arcep.fr",
+        "source": "cartefibre.arcep.fr",
+        "score": 260,
+        "comments": 186,
+        "hnUrl": "https://news.ycombinator.com/item?id=49448872",
+        "date": "il y a 4 h"
       }
     ]
   },
