@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-26T06:58:52.624Z",
+  "updatedAt": "2026-08-26T07:50:08.895Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 20,
-      "code": 2,
-      "wind": 6,
-      "humidity": 84
+      "temp": 20,
+      "feelsLike": 22,
+      "code": 1,
+      "wind": 7,
+      "humidity": 80
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-08-27",
         "code": 95,
-        "tmax": 28,
+        "tmax": 30,
         "tmin": 20
       },
       {
         "date": "2026-08-28",
         "code": 80,
         "tmax": 23,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-08-29",
@@ -37,11 +37,19 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 41,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -50,7 +58,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "\"J'ai compris comment Elon Musk fonctionne en travaillant avec lui !\" - Karim Bousta",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "LcGlqRYfX88",
+        "thumbnail": "https://i.ytimg.com/vi/LcGlqRYfX88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LcGlqRYfX88",
+        "publishedAt": "2026-08-25T18:00:05+00:00"
+      },
+      {
+        "title": "LA DIFFÉRENCE ENTRE UNE BALLE RÉELLE ET UNE BALLE À BLANC",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "3FAx-Ud-VpI",
+        "thumbnail": "https://i.ytimg.com/vi/3FAx-Ud-VpI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3FAx-Ud-VpI",
+        "publishedAt": "2026-08-25T15:00:17+00:00"
+      },
+      {
+        "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "5YI6cRq5-MI",
+        "thumbnail": "https://i.ytimg.com/vi/5YI6cRq5-MI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5YI6cRq5-MI",
+        "publishedAt": "2026-08-23T16:00:12+00:00"
+      },
+      {
+        "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "ur-N6-IG1VA",
+        "thumbnail": "https://i.ytimg.com/vi/ur-N6-IG1VA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ur-N6-IG1VA",
+        "publishedAt": "2026-08-18T16:01:59+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Je détruis enfin la salle de bain #26",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "JhkdfqxG25I",
+        "thumbnail": "https://i.ytimg.com/vi/JhkdfqxG25I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JhkdfqxG25I",
+        "publishedAt": "2026-08-09T15:17:07+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Plus de la moitié des adultes aux États-Unis disent ne pas avoir une compréhension statistique de base",
-        "titleOriginal": "More than half of adults in U.S. say they lack basic statistical understanding",
-        "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-        "source": "psu.edu",
-        "score": 37,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=49444514",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "Apple présente M6 et M5 Ultra",
         "titleOriginal": "Apple introduces M6 and M5 Ultra",
         "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "source": "apple.com",
-        "score": 1078,
-        "comments": 1023,
+        "score": 1101,
+        "comments": 1050,
         "hnUrl": "https://news.ycombinator.com/item?id=49433292",
-        "date": "il y a 17 h"
-      },
-      {
-        "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
-        "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-        "source": "fda.gov",
-        "score": 353,
-        "comments": 174,
-        "hnUrl": "https://news.ycombinator.com/item?id=49439017",
-        "date": "il y a 11 h"
+        "date": "il y a 18 h"
       },
       {
         "title": "Traquer le pirate rusé : 40 ans plus tard – Cliff Stoll [vidéo]",
         "titleOriginal": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
         "url": "https://www.youtube.com/watch?v=656058JxTM0",
         "source": "youtube.com",
-        "score": 35,
-        "comments": 12,
+        "score": 63,
+        "comments": 19,
         "hnUrl": "https://news.ycombinator.com/item?id=49395802",
         "date": "il y a 4 j"
+      },
+      {
+        "title": "La FDA autorise le premier appareil portable qui surveille les taux de cétone et de sucre dans le sang",
+        "titleOriginal": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+        "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+        "source": "fda.gov",
+        "score": 368,
+        "comments": 183,
+        "hnUrl": "https://news.ycombinator.com/item?id=49439017",
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Harvest (IBM 7950) : Supercalculateur pour la cryptanalyse à la NSA pendant la guerre froide",
+        "titleOriginal": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
+        "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
+        "source": "spectrum.ieee.org",
+        "score": 20,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49444232",
+        "date": "il y a 2 h"
       }
     ]
   },
