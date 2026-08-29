@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-29T07:14:17.223Z",
+  "updatedAt": "2026-08-29T13:16:37.313Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 17,
+      "temp": 23,
+      "feelsLike": 21,
       "code": 3,
-      "wind": 12,
-      "humidity": 82
+      "wind": 19,
+      "humidity": 54
     },
     "forecast": [
       {
         "date": "2026-08-29",
         "code": 61,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 15
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Notre décision sur Cursor suite à son acquisition par SpaceX",
-        "titleOriginal": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-        "source": "openai.com",
-        "score": 422,
-        "comments": 180,
-        "hnUrl": "https://news.ycombinator.com/item?id=49486172",
-        "date": "il y a 5 h"
+        "title": "L'Islande décide de reprendre ou non les pourparlers sur l'adhésion à l'UE",
+        "titleOriginal": "Iceland votes on whether to restart talks on joining EU",
+        "url": "https://www.bbc.com/news/articles/cn45vdxyvvlo",
+        "source": "bbc.com",
+        "score": 125,
+        "comments": 129,
+        "hnUrl": "https://news.ycombinator.com/item?id=49489057",
+        "date": "il y a 1 h"
       },
       {
         "title": "Traitement en mémoire (PIM) de Samsung",
         "titleOriginal": "Samsung's Processing-in-Memory (PIM)",
         "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
         "source": "chipsandcheese.com",
-        "score": 10,
-        "comments": 0,
+        "score": 142,
+        "comments": 47,
         "hnUrl": "https://news.ycombinator.com/item?id=49487341",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Démarrez un iPhone virtuel via Virtualization.framework d'Apple",
-        "titleOriginal": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-        "url": "https://github.com/Lakr233/vphone-cli",
-        "source": "github.com",
-        "score": 230,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=49485267",
-        "date": "il y a 8 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Les interfaces graphiques doivent être entièrement pilotées par clavier",
         "titleOriginal": "GUIs should be fully keyboard-driven",
         "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
         "source": "ckardaris.com",
-        "score": 740,
-        "comments": 369,
+        "score": 881,
+        "comments": 437,
         "hnUrl": "https://news.ycombinator.com/item?id=49479837",
-        "date": "il y a 15 h"
+        "date": "il y a 21 h"
+      },
+      {
+        "title": "Démarrez un iPhone virtuel via Virtualization.framework d'Apple",
+        "titleOriginal": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "source": "github.com",
+        "score": 311,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=49485267",
+        "date": "il y a 14 h"
       }
     ]
   },
