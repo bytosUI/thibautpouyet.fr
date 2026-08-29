@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-29T17:16:22.755Z",
+  "updatedAt": "2026-08-29T19:52:42.310Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 20,
-      "code": 3,
-      "wind": 18,
-      "humidity": 69
+      "temp": 19,
+      "feelsLike": 19,
+      "code": 1,
+      "wind": 17,
+      "humidity": 80
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-08-31",
         "code": 3,
         "tmax": 23,
-        "tmin": 17
+        "tmin": 16
       },
       {
         "date": "2026-09-01",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 106,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Debian vote pour permettre « l'utilisation responsable de l'IA générative »",
-        "titleOriginal": "Debian votes to allow \"responsible use of generative AI\"",
-        "url": "https://lwn.net/Articles/1091231/",
-        "source": "lwn.net",
-        "score": 331,
-        "comments": 254,
-        "hnUrl": "https://news.ycombinator.com/item?id=49489982",
-        "date": "il y a 3 h"
+        "title": "The Internet Is Kind of a Predatory Cesspit Now",
+        "titleOriginal": "The Internet Is Kind of a Predatory Cesspit Now",
+        "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
+        "source": "stephendiehl.com",
+        "score": 183,
+        "comments": 102,
+        "hnUrl": "https://news.ycombinator.com/item?id=49492193",
+        "date": "il y a 1 h"
       },
       {
-        "title": "SQLite en tant que base de données de documents (2020)",
-        "titleOriginal": "SQLite as a Document Database (2020)",
-        "url": "https://dgl.cx/2020/06/sqlite-json-support",
-        "source": "dgl.cx",
-        "score": 60,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49426995",
-        "date": "il y a 4 j"
+        "title": "Warp builds self-improving agents on Claude",
+        "titleOriginal": "Warp builds self-improving agents on Claude",
+        "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+        "source": "claude.com",
+        "score": 23,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49492432",
+        "date": "il y a 42 min"
       },
       {
-        "title": "Tether : iMessage, SMS, etc. sur Linux",
+        "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+        "titleOriginal": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+        "url": "https://tucker.wales/writing/bias-towards-action/",
+        "source": "tucker.wales",
+        "score": 37,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49491714",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Tether: iMessage, SMS, etc. on Linux",
         "titleOriginal": "Tether: iMessage, SMS, etc. on Linux",
         "url": "https://zackbartel.com/blog/2026/08/tether/",
         "source": "zackbartel.com",
-        "score": 58,
-        "comments": 23,
+        "score": 174,
+        "comments": 86,
         "hnUrl": "https://news.ycombinator.com/item?id=49415386",
         "date": "il y a 5 j"
-      },
-      {
-        "title": "Appel indirect de fonctions imbriquées sur GCC sans pile exécutable",
-        "titleOriginal": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-        "url": "https://uecker.codeberg.page/2026-08-29.html",
-        "source": "uecker.codeberg.page",
-        "score": 37,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=49490138",
-        "date": "il y a 2 h"
       }
     ]
   },
