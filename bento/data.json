@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-08-29T19:52:42.310Z",
+  "updatedAt": "2026-08-29T22:11:26.702Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 19,
-      "feelsLike": 19,
-      "code": 1,
+      "feelsLike": 18,
+      "code": 2,
       "wind": 17,
-      "humidity": 80
+      "humidity": 86
     },
     "forecast": [
-      {
-        "date": "2026-08-29",
-        "code": 61,
-        "tmax": 22,
-        "tmin": 15
-      },
       {
         "date": "2026-08-30",
         "code": 3,
@@ -31,8 +25,14 @@
       {
         "date": "2026-09-01",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 14
+      },
+      {
+        "date": "2026-09-02",
+        "code": 3,
+        "tmax": 23,
+        "tmin": 12
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 106,
+        "viewers": 172,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 6 sem",
+        "time": "il y a 7 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 8 sem",
+        "time": "il y a 9 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,42 +182,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "The Internet Is Kind of a Predatory Cesspit Now",
-        "titleOriginal": "The Internet Is Kind of a Predatory Cesspit Now",
-        "url": "https://www.stephendiehl.com/posts/internet_predatory_cesspit/",
-        "source": "stephendiehl.com",
-        "score": 183,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49492193",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Warp builds self-improving agents on Claude",
-        "titleOriginal": "Warp builds self-improving agents on Claude",
-        "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-        "source": "claude.com",
-        "score": 23,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49492432",
-        "date": "il y a 42 min"
-      },
-      {
-        "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-        "titleOriginal": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-        "url": "https://tucker.wales/writing/bias-towards-action/",
-        "source": "tucker.wales",
-        "score": 37,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=49491714",
+        "title": "Tencent Releases et Open-Sources Tencent Hy4 Preview",
+        "titleOriginal": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+        "source": "tencent.com",
+        "score": 90,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49492632",
         "date": "il y a 2 h"
       },
       {
-        "title": "Tether: iMessage, SMS, etc. on Linux",
+        "title": "$ 44M Solar-Powered EV Production Deal Struck",
+        "titleOriginal": "$44M Solar-Powered EV Production Deal Struck",
+        "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
+        "source": "frequal.com",
+        "score": 12,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49493563",
+        "date": "il y a 34 min"
+      },
+      {
+        "title": "Ce que nous voulons, c'est un style de vie de chasseur-cueilleur avec des outils de l'ère spatiale",
+        "titleOriginal": "What we want is a hunter gatherer lifestyle with space age tools",
+        "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
+        "source": "strangeloopcanon.com",
+        "score": 29,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49493244",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Tether : iMessage, SMS, etc. sur Linux",
         "titleOriginal": "Tether: iMessage, SMS, etc. on Linux",
         "url": "https://zackbartel.com/blog/2026/08/tether/",
         "source": "zackbartel.com",
-        "score": 174,
-        "comments": 86,
+        "score": 249,
+        "comments": 113,
         "hnUrl": "https://news.ycombinator.com/item?id=49415386",
         "date": "il y a 5 j"
       }
