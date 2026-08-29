@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-29T00:20:13.348Z",
+  "updatedAt": "2026-08-29T07:14:17.223Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
-      "code": 0,
-      "wind": 9,
-      "humidity": 87
+      "temp": 17,
+      "feelsLike": 17,
+      "code": 3,
+      "wind": 12,
+      "humidity": 82
     },
     "forecast": [
       {
         "date": "2026-08-29",
         "code": 61,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 15
       },
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-08-31",
         "code": 3,
-        "tmax": 24,
+        "tmax": 23,
         "tmin": 17
       },
       {
         "date": "2026-09-01",
         "code": 3,
-        "tmax": 23,
-        "tmin": 11
+        "tmax": 22,
+        "tmin": 12
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les interfaces graphiques doivent être entièrement pilotées par clavier",
-        "titleOriginal": "GUIs should be fully keyboard-driven",
-        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-        "source": "ckardaris.com",
-        "score": 577,
-        "comments": 290,
-        "hnUrl": "https://news.ycombinator.com/item?id=49479837",
-        "date": "il y a 9 h"
+        "title": "Notre décision sur Cursor suite à son acquisition par SpaceX",
+        "titleOriginal": "Our decision on Cursor following its acquisition by SpaceX",
+        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+        "source": "openai.com",
+        "score": 422,
+        "comments": 180,
+        "hnUrl": "https://news.ycombinator.com/item?id=49486172",
+        "date": "il y a 5 h"
       },
       {
-        "title": "La liste des rois sumériens s'aligne-t-elle sur les événements paléoclimatiques ?",
-        "titleOriginal": "Does the Sumerian King List Align with Paleoclimate Events?",
-        "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-        "source": "vectorian.be",
+        "title": "Traitement en mémoire (PIM) de Samsung",
+        "titleOriginal": "Samsung's Processing-in-Memory (PIM)",
+        "url": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+        "source": "chipsandcheese.com",
         "score": 10,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49485532",
-        "date": "il y a 34 min"
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49487341",
+        "date": "il y a 1 h"
       },
       {
         "title": "Démarrez un iPhone virtuel via Virtualization.framework d'Apple",
         "titleOriginal": "Boot a Virtual iPhone via Apple's Virtualization.framework",
         "url": "https://github.com/Lakr233/vphone-cli",
         "source": "github.com",
-        "score": 23,
-        "comments": 7,
+        "score": 230,
+        "comments": 69,
         "hnUrl": "https://news.ycombinator.com/item?id=49485267",
-        "date": "il y a 1 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Htmx 4.0",
-        "titleOriginal": "Htmx 4.0",
-        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "source": "four.htmx.org",
-        "score": 491,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=49478178",
-        "date": "il y a 10 h"
+        "title": "Les interfaces graphiques doivent être entièrement pilotées par clavier",
+        "titleOriginal": "GUIs should be fully keyboard-driven",
+        "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+        "source": "ckardaris.com",
+        "score": 740,
+        "comments": 369,
+        "hnUrl": "https://news.ycombinator.com/item?id=49479837",
+        "date": "il y a 15 h"
       }
     ]
   },
