@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-08-30T05:42:47.470Z",
+  "updatedAt": "2026-08-30T11:04:01.884Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 18,
-      "code": 2,
-      "wind": 11,
-      "humidity": 90
+      "temp": 22,
+      "feelsLike": 21,
+      "code": 3,
+      "wind": 18,
+      "humidity": 55
     },
     "forecast": [
       {
         "date": "2026-08-30",
-        "code": 3,
+        "code": 61,
         "tmax": 24,
         "tmin": 17
       },
       {
         "date": "2026-08-31",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 16
+        "code": 80,
+        "tmax": 22,
+        "tmin": 17
       },
       {
         "date": "2026-09-01",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 13
       },
       {
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "FRANÇOIS FILLON : SES CONFESSIONS INÉDITES SUR SA CHUTE, SES ERREURS ET CEUX QUI L’ONT TRAHI",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "ZmqLMM0T-Dc",
+        "thumbnail": "https://i.ytimg.com/vi/ZmqLMM0T-Dc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZmqLMM0T-Dc",
+        "publishedAt": "2026-08-30T09:00:06+00:00"
+      },
+      {
         "title": "🌶️ SILICON CARNE NOUVELLE SAISON ! Je vous préviens çà va piquer...",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9oCrOkW7lmA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9oCrOkW7lmA",
         "publishedAt": "2026-08-28T18:00:03+00:00"
-      },
-      {
-        "title": "FRANÇOIS FILLON : SES CONFESSIONS INÉDITES SUR SA CHUTE, SES ERREURS ET CEUX QUI L’ONT TRAHI",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ZmqLMM0T-Dc",
-        "thumbnail": "https://i.ytimg.com/vi/ZmqLMM0T-Dc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZmqLMM0T-Dc",
-        "publishedAt": "2026-08-28T09:02:32+00:00"
       },
       {
         "title": "Ma salle de sport à Séoul pour 300€/AN 🇰🇷",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Cécité due aux insectes",
-        "titleOriginal": "Bug Blindness",
-        "url": "https://danluu.com/bug-blind/",
-        "source": "danluu.com",
-        "score": 158,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=49494520",
-        "date": "il y a 5 h"
+        "title": "Les plus longs chemins en ligne droite sur l'eau ou sur la terre ferme (2018)",
+        "titleOriginal": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+        "url": "https://arxiv.org/abs/1804.07389",
+        "source": "arxiv.org",
+        "score": 61,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49496782",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Les litiges algorithmiques sur les prix des loyers se développent en vertu des nouvelles lois nationales et locales",
-        "titleOriginal": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
-        "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-        "source": "morganlewis.com",
-        "score": 52,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=49495127",
-        "date": "il y a 3 h"
+        "title": "Exécution de code arbitraire dans QubesOS via le canal de retour de rapport d'erreur Copy-to-VM",
+        "titleOriginal": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+        "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+        "source": "qubes-os.org",
+        "score": 36,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49496918",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Aperçu Hy4",
-        "titleOriginal": "Hy4 preview",
-        "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-        "source": "tencent.com",
-        "score": 246,
-        "comments": 143,
-        "hnUrl": "https://news.ycombinator.com/item?id=49492632",
-        "date": "il y a 10 h"
+        "title": "Étincelle : étincelles dans votre coquille",
+        "titleOriginal": "Spark: Sparklines in your shell",
+        "url": "https://git.zx2c4.com/spark/about/",
+        "source": "git.zx2c4.com",
+        "score": 14,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49497265",
+        "date": "il y a 1 h"
       },
       {
-        "title": "RISC-V est maintenant officiellement pris en charge par CPython",
-        "titleOriginal": "RISC-V is now officially supported by CPython",
-        "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-        "source": "blog.python.org",
-        "score": 84,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49425252",
-        "date": "il y a 5 j"
+        "title": "Les Britanniques aimeraient bien que leurs messages privés restent privés",
+        "titleOriginal": "Brits would quite like their private messages to stay private",
+        "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+        "source": "theregister.com",
+        "score": 76,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=49497063",
+        "date": "il y a 1 h"
       }
     ]
   },
