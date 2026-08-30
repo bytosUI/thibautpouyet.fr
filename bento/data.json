@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-30T00:30:11.375Z",
+  "updatedAt": "2026-08-30T05:42:47.470Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
+      "temp": 17,
       "feelsLike": 18,
       "code": 2,
-      "wind": 16,
-      "humidity": 87
+      "wind": 11,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-31",
-        "code": 80,
+        "code": 3,
         "tmax": 23,
         "tmin": 16
       },
@@ -26,7 +26,7 @@
         "date": "2026-09-01",
         "code": 3,
         "tmax": 22,
-        "tmin": 14
+        "tmin": 13
       },
       {
         "date": "2026-09-02",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Cécité due aux insectes",
+        "titleOriginal": "Bug Blindness",
+        "url": "https://danluu.com/bug-blind/",
+        "source": "danluu.com",
+        "score": 158,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49494520",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Les litiges algorithmiques sur les prix des loyers se développent en vertu des nouvelles lois nationales et locales",
+        "titleOriginal": "Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws",
+        "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+        "source": "morganlewis.com",
+        "score": 52,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49495127",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Aperçu Hy4",
         "titleOriginal": "Hy4 preview",
         "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
         "source": "tencent.com",
-        "score": 164,
-        "comments": 100,
+        "score": 246,
+        "comments": 143,
         "hnUrl": "https://news.ycombinator.com/item?id=49492632",
-        "date": "il y a 4 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Lancement du télescope spatial romain Nancy Grace ce dimanche",
-        "titleOriginal": "Nancy Grace Roman Space Telescope Launches this Sunday",
-        "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
-        "source": "npr.org",
-        "score": 63,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49482833",
-        "date": "hier"
-      },
-      {
-        "title": "J'ai co-fondé Burning Man. Le festival a perdu son âme",
-        "titleOriginal": "I co-founded Burning Man. The festival has lost its soul",
-        "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
-        "source": "sfstandard.com",
-        "score": 61,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=49494151",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "vLLM v0.28.0",
-        "titleOriginal": "vLLM v0.28.0",
-        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
-        "source": "github.com",
-        "score": 93,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49492067",
-        "date": "il y a 6 h"
+        "title": "RISC-V est maintenant officiellement pris en charge par CPython",
+        "titleOriginal": "RISC-V is now officially supported by CPython",
+        "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+        "source": "blog.python.org",
+        "score": 84,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49425252",
+        "date": "il y a 5 j"
       }
     ]
   },
