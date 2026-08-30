@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-08-29T22:11:26.702Z",
+  "updatedAt": "2026-08-30T00:30:11.375Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
+      "temp": 18,
       "feelsLike": 18,
       "code": 2,
-      "wind": 17,
-      "humidity": 86
+      "wind": 16,
+      "humidity": 87
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-08-31",
-        "code": 3,
+        "code": 80,
         "tmax": 23,
         "tmin": 16
       },
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 172,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Tencent Releases et Open-Sources Tencent Hy4 Preview",
-        "titleOriginal": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+        "title": "Aperçu Hy4",
+        "titleOriginal": "Hy4 preview",
         "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
         "source": "tencent.com",
-        "score": 90,
-        "comments": 37,
+        "score": 164,
+        "comments": 100,
         "hnUrl": "https://news.ycombinator.com/item?id=49492632",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "$ 44M Solar-Powered EV Production Deal Struck",
-        "titleOriginal": "$44M Solar-Powered EV Production Deal Struck",
-        "url": "https://frequal.com/aptera/ProductionDealAug2026.html",
-        "source": "frequal.com",
-        "score": 12,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49493563",
-        "date": "il y a 34 min"
+        "title": "Lancement du télescope spatial romain Nancy Grace ce dimanche",
+        "titleOriginal": "Nancy Grace Roman Space Telescope Launches this Sunday",
+        "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+        "source": "npr.org",
+        "score": 63,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49482833",
+        "date": "hier"
       },
       {
-        "title": "Ce que nous voulons, c'est un style de vie de chasseur-cueilleur avec des outils de l'ère spatiale",
-        "titleOriginal": "What we want is a hunter gatherer lifestyle with space age tools",
-        "url": "https://www.strangeloopcanon.com/p/what-we-want-is-a-hunter-gatherer",
-        "source": "strangeloopcanon.com",
-        "score": 29,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49493244",
+        "title": "J'ai co-fondé Burning Man. Le festival a perdu son âme",
+        "titleOriginal": "I co-founded Burning Man. The festival has lost its soul",
+        "url": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+        "source": "sfstandard.com",
+        "score": 61,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49494151",
         "date": "il y a 1 h"
       },
       {
-        "title": "Tether : iMessage, SMS, etc. sur Linux",
-        "titleOriginal": "Tether: iMessage, SMS, etc. on Linux",
-        "url": "https://zackbartel.com/blog/2026/08/tether/",
-        "source": "zackbartel.com",
-        "score": 249,
-        "comments": 113,
-        "hnUrl": "https://news.ycombinator.com/item?id=49415386",
-        "date": "il y a 5 j"
+        "title": "vLLM v0.28.0",
+        "titleOriginal": "vLLM v0.28.0",
+        "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+        "source": "github.com",
+        "score": 93,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49492067",
+        "date": "il y a 6 h"
       }
     ]
   },
