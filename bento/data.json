@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-08-30T21:48:39.004Z",
+  "updatedAt": "2026-08-31T00:08:56.390Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 20,
+      "temp": 18,
+      "feelsLike": 17,
       "code": 2,
-      "wind": 12,
-      "humidity": 83
+      "wind": 15,
+      "humidity": 87
     },
     "forecast": [
-      {
-        "date": "2026-08-30",
-        "code": 80,
-        "tmax": 25,
-        "tmin": 17
-      },
       {
         "date": "2026-08-31",
         "code": 80,
         "tmax": 23,
-        "tmin": 16
+        "tmin": 17
       },
       {
         "date": "2026-09-01",
@@ -33,6 +27,12 @@
         "code": 3,
         "tmax": 22,
         "tmin": 13
+      },
+      {
+        "date": "2026-09-03",
+        "code": 3,
+        "tmax": 25,
+        "tmin": 14
       }
     ]
   },
@@ -174,23 +174,33 @@
   "hackernews": {
     "items": [
       {
+        "title": "« J'ai juste choisi les mots avec soin »",
+        "titleOriginal": "“I just chose words carefully”",
+        "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+        "source": "unsung.aresluna.org",
+        "score": 126,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49503601",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Creepy Crawlies",
         "titleOriginal": "Creepy Crawlies",
         "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
         "source": "people.kernel.org",
-        "score": 733,
-        "comments": 345,
+        "score": 877,
+        "comments": 402,
         "hnUrl": "https://news.ycombinator.com/item?id=49491791",
         "date": "hier"
       },
       {
-        "title": "Cœurs dans l'espace : le module de mémoire de base d'un ordinateur Spacelab 1980",
-        "titleOriginal": "Cores in space: The core memory module from a 1980 Spacelab computer",
-        "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-        "source": "righto.com",
-        "score": 36,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49502214",
+        "title": "Réflexions sur la Magnifica Humanitas du pape Léon XIV",
+        "titleOriginal": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
+        "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
+        "source": "adropincalm.com",
+        "score": 32,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=49503587",
         "date": "il y a 1 h"
       },
       {
@@ -198,20 +208,10 @@
         "titleOriginal": "Haiku R1/beta6 has been released",
         "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
         "source": "haiku-os.org",
-        "score": 204,
-        "comments": 56,
+        "score": 236,
+        "comments": 71,
         "hnUrl": "https://news.ycombinator.com/item?id=49499867",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Carte de visite NFC Energy-Harvesting PCB avec un MCU",
-        "titleOriginal": "NFC Energy-Harvesting PCB Business Card with an MCU",
-        "url": "https://wilsonharper.net/projects/businesscard/",
-        "source": "wilsonharper.net",
-        "score": 42,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49478426",
-        "date": "il y a 2 j"
+        "date": "il y a 8 h"
       }
     ]
   },
