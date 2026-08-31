@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-08-31T00:08:56.390Z",
+  "updatedAt": "2026-08-31T05:52:13.687Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 17,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 2,
       "wind": 15,
-      "humidity": 87
+      "humidity": 85
     },
     "forecast": [
       {
         "date": "2026-08-31",
-        "code": 80,
+        "code": 3,
         "tmax": 23,
         "tmin": 17
       },
       {
         "date": "2026-09-01",
-        "code": 3,
+        "code": 45,
         "tmax": 23,
         "tmin": 13
       },
       {
         "date": "2026-09-02",
         "code": 3,
-        "tmax": 22,
-        "tmin": 13
+        "tmax": 23,
+        "tmin": 14
       },
       {
         "date": "2026-09-03",
-        "code": 3,
-        "tmax": 25,
+        "code": 2,
+        "tmax": 26,
         "tmin": 14
       }
     ]
@@ -178,40 +178,40 @@
         "titleOriginal": "“I just chose words carefully”",
         "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
         "source": "unsung.aresluna.org",
-        "score": 126,
-        "comments": 26,
+        "score": 516,
+        "comments": 128,
         "hnUrl": "https://news.ycombinator.com/item?id=49503601",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Creepy Crawlies",
-        "titleOriginal": "Creepy Crawlies",
-        "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
-        "source": "people.kernel.org",
-        "score": 877,
-        "comments": 402,
-        "hnUrl": "https://news.ycombinator.com/item?id=49491791",
-        "date": "hier"
-      },
-      {
-        "title": "Réflexions sur la Magnifica Humanitas du pape Léon XIV",
-        "titleOriginal": "Thoughts on Pope Leo XIV's Magnifica Humanitas",
-        "url": "https://adropincalm.com/blog/thoughts-on-magnifica-humanitas/",
-        "source": "adropincalm.com",
-        "score": 32,
+        "title": "P99 0 ms* saisie semi-automatique pour 240 MILLIONS DE noms de domaine",
+        "titleOriginal": "P99 0 ms* autocomplete for 240M domain names",
+        "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+        "source": "ruurtjan.com",
+        "score": 45,
         "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49503587",
-        "date": "il y a 1 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=49505219",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Haiku R1/beta6 a été publié",
-        "titleOriginal": "Haiku R1/beta6 has been released",
-        "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-        "source": "haiku-os.org",
-        "score": 236,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=49499867",
-        "date": "il y a 8 h"
+        "title": "OpenClaw 2.0, accidentellement",
+        "titleOriginal": "OpenClaw 2.0, Accidentally",
+        "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+        "source": "openclaw.ai",
+        "score": 20,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49505310",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Mon hobby de construire des miniatures et de prendre de jolies photos",
+        "titleOriginal": "My hobby of building miniatures and taking pretty pictures",
+        "url": "https://sandyuraz.com/blogs/tiny-cafe/",
+        "source": "sandyuraz.com",
+        "score": 34,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49481141",
+        "date": "il y a 2 j"
       }
     ]
   },
