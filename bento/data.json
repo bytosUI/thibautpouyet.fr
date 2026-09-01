@@ -1,49 +1,57 @@
 {
-  "updatedAt": "2026-09-01T01:56:07.511Z",
+  "updatedAt": "2026-09-01T07:12:38.253Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 12,
-      "code": 3,
-      "wind": 2,
-      "humidity": 94
+      "temp": 14,
+      "feelsLike": 15,
+      "code": 2,
+      "wind": 1,
+      "humidity": 85
     },
     "forecast": [
       {
         "date": "2026-09-01",
         "code": 3,
         "tmax": 23,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-09-02",
         "code": 3,
         "tmax": 23,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-09-03",
         "code": 3,
-        "tmax": 27,
-        "tmin": 15
+        "tmax": 26,
+        "tmin": 13
       },
       {
         "date": "2026-09-04",
-        "code": 3,
+        "code": 2,
         "tmax": 29,
         "tmin": 17
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 429,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Google a supprimé les extensions MV2 du Chrome Web Store, y compris UBO",
-        "titleOriginal": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-        "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
-        "source": "webiterate.dev",
-        "score": 518,
-        "comments": 406,
-        "hnUrl": "https://news.ycombinator.com/item?id=49514878",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Exécuter le logiciel macOS sous Linux",
-        "titleOriginal": "Run macOS Software on Linux",
-        "url": "https://www.darlinghq.org/",
-        "source": "darlinghq.org",
-        "score": 95,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=49515830",
+        "title": "GPU World",
+        "titleOriginal": "GPU World",
+        "url": "https://www.gpuworld.org/",
+        "source": "gpuworld.org",
+        "score": 124,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=49517584",
         "date": "il y a 3 h"
       },
       {
-        "title": "J'ai transformé mes caméras de sécurité en système d'identification automatique des oiseaux",
-        "titleOriginal": "I turned my security cameras into an automatic bird identification system",
-        "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-        "source": "jasontucker.blog",
-        "score": 362,
-        "comments": 94,
-        "hnUrl": "https://news.ycombinator.com/item?id=49511856",
-        "date": "il y a 9 h"
+        "title": "Fastpotify",
+        "titleOriginal": "Fastpotify",
+        "url": "https://fastpotify.rocks/",
+        "source": "fastpotify.rocks",
+        "score": 246,
+        "comments": 107,
+        "hnUrl": "https://news.ycombinator.com/item?id=49517448",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Le « miel fou » qui peut arrêter votre cœur est vendu en ligne",
-        "titleOriginal": "'Mad honey' that can stop your heart is being sold online",
-        "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
-        "source": "phys.org",
-        "score": 137,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=49476239",
-        "date": "il y a 3 j"
+        "title": "Archive des toilettes",
+        "titleOriginal": "Restroom Archive",
+        "url": "https://restroomarchive.com",
+        "source": "restroomarchive.com",
+        "score": 85,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49517624",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Tmp.0ut Volume 5",
+        "titleOriginal": "Tmp.0ut Volume 5",
+        "url": "https://tmpout.sh/5/",
+        "source": "tmpout.sh",
+        "score": 10,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49516059",
+        "date": "il y a 7 h"
       }
     ]
   },
