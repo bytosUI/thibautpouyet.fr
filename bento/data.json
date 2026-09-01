@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-09-01T20:00:53.820Z",
+  "updatedAt": "2026-09-01T22:42:37.192Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
-      "code": 1,
+      "temp": 15,
+      "feelsLike": 15,
+      "code": 0,
       "wind": 3,
-      "humidity": 61
+      "humidity": 78
     },
     "forecast": [
-      {
-        "date": "2026-09-01",
-        "code": 3,
-        "tmax": 24,
-        "tmin": 11
-      },
       {
         "date": "2026-09-02",
         "code": 3,
@@ -25,29 +19,27 @@
       {
         "date": "2026-09-03",
         "code": 3,
-        "tmax": 27,
-        "tmin": 12
+        "tmax": 26,
+        "tmin": 14
       },
       {
         "date": "2026-09-04",
         "code": 3,
-        "tmax": 28,
+        "tmax": 29,
         "tmin": 18
+      },
+      {
+        "date": "2026-09-05",
+        "code": 3,
+        "tmax": 25,
+        "tmin": 19
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Bills Must Be Paid",
-        "viewers": 11449,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -186,19 +178,9 @@
         "titleOriginal": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "source": "anthropic.com",
-        "score": 525,
-        "comments": 476,
+        "score": 782,
+        "comments": 745,
         "hnUrl": "https://news.ycombinator.com/item?id=49525378",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Le Play Store bloque AuroraStore, ce qui nuit aux utilisateurs de GrapheneOS",
-        "titleOriginal": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-        "url": "https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566",
-        "source": "gitlab.com",
-        "score": 365,
-        "comments": 143,
-        "hnUrl": "https://news.ycombinator.com/item?id=49523754",
         "date": "il y a 4 h"
       },
       {
@@ -206,19 +188,29 @@
         "titleOriginal": "How accurate have Ed Zitron's AI skeptic predictions been?",
         "url": "https://danluu.com/zitron/",
         "source": "danluu.com",
-        "score": 53,
-        "comments": 19,
+        "score": 251,
+        "comments": 291,
         "hnUrl": "https://news.ycombinator.com/item?id=49526069",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Lancement HN : Nori Robotics (YC S26) – Un robot humanoïde à faible coût pour le développement",
-        "titleOriginal": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-        "url": "https://www.norirobotics.com/",
-        "source": "norirobotics.com",
-        "score": 66,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49525153",
+        "title": "Show HN : Weedout - Extension Safari qui cache les vidéos étiquetées AI sur YouTube",
+        "titleOriginal": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "url": "https://masteranza.github.io/weedout/",
+        "source": "masteranza.github.io",
+        "score": 18,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49528895",
+        "date": "il y a 35 min"
+      },
+      {
+        "title": "L'application ChatGPT/Codex fournit une copie complète de LibreOffice",
+        "titleOriginal": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+        "source": "simonwillison.net",
+        "score": 171,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=49527396",
         "date": "il y a 2 h"
       }
     ]
