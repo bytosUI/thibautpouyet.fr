@@ -1,57 +1,49 @@
 {
-  "updatedAt": "2026-09-01T07:12:38.253Z",
+  "updatedAt": "2026-09-01T12:39:13.567Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 15,
+      "temp": 23,
+      "feelsLike": 22,
       "code": 2,
-      "wind": 1,
-      "humidity": 85
+      "wind": 12,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-09-01",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 11
       },
       {
         "date": "2026-09-02",
         "code": 3,
-        "tmax": 23,
-        "tmin": 11
+        "tmax": 22,
+        "tmin": 13
       },
       {
         "date": "2026-09-03",
         "code": 3,
         "tmax": 26,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-09-04",
-        "code": 2,
-        "tmax": 29,
-        "tmin": 17
+        "code": 61,
+        "tmax": 28,
+        "tmin": 18
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 429,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI IL A ARRÊTÉ DE PRENDRE LE TRAIN",
+        "title": "IL BUVAIT 1,5 L DE VODKA PAR JOUR...COMMENT EST-IL DEVENU ALCOOLIQUE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "lXkJIkgtCkM",
-        "thumbnail": "https://i.ytimg.com/vi/lXkJIkgtCkM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXkJIkgtCkM",
-        "publishedAt": "2026-08-31T16:00:26+00:00"
+        "videoId": "0t06WDD1JVA",
+        "thumbnail": "https://i.ytimg.com/vi/0t06WDD1JVA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0t06WDD1JVA",
+        "publishedAt": "2026-09-01T12:00:33+00:00"
       },
       {
         "title": "Mistral, est-ce qu'on nous a menti depuis le début ?",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GPU World",
-        "titleOriginal": "GPU World",
-        "url": "https://www.gpuworld.org/",
-        "source": "gpuworld.org",
-        "score": 124,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=49517584",
-        "date": "il y a 3 h"
+        "title": "AnkiDroid : Google Play n'autorise plus le lien de don collectif ouvert",
+        "titleOriginal": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
+        "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+        "source": "github.com",
+        "score": 253,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49520022",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "44 % sur ARC-AGI-1 en 67 cents",
+        "titleOriginal": "44% on ARC-AGI-1 in 67 cents",
+        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+        "source": "mvakde.github.io",
+        "score": 116,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49519939",
+        "date": "il y a 2 h"
       },
       {
         "title": "Fastpotify",
         "titleOriginal": "Fastpotify",
         "url": "https://fastpotify.rocks/",
         "source": "fastpotify.rocks",
-        "score": 246,
-        "comments": 107,
+        "score": 513,
+        "comments": 298,
         "hnUrl": "https://news.ycombinator.com/item?id=49517448",
-        "date": "il y a 4 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Archive des toilettes",
-        "titleOriginal": "Restroom Archive",
-        "url": "https://restroomarchive.com",
-        "source": "restroomarchive.com",
-        "score": 85,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49517624",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Tmp.0ut Volume 5",
-        "titleOriginal": "Tmp.0ut Volume 5",
-        "url": "https://tmpout.sh/5/",
-        "source": "tmpout.sh",
-        "score": 10,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49516059",
-        "date": "il y a 7 h"
+        "title": "Le légendaire mécanicien d'American Airlines s'en va à 100 ans après 80 ans de carrière",
+        "titleOriginal": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+        "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+        "source": "simpleflying.com",
+        "score": 111,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49493468",
+        "date": "il y a 2 j"
       }
     ]
   },
