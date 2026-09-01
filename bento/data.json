@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-31T23:16:04.942Z",
+  "updatedAt": "2026-09-01T01:56:07.511Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 15,
-      "code": 0,
-      "wind": 3,
-      "humidity": 91
+      "temp": 12,
+      "feelsLike": 12,
+      "code": 3,
+      "wind": 2,
+      "humidity": 94
     },
     "forecast": [
       {
         "date": "2026-09-01",
         "code": 3,
         "tmax": 23,
-        "tmin": 13
+        "tmin": 12
       },
       {
         "date": "2026-09-02",
-        "code": 80,
-        "tmax": 24,
-        "tmin": 13
+        "code": 3,
+        "tmax": 23,
+        "tmin": 12
       },
       {
         "date": "2026-09-03",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Bills Must Be Paid",
-        "viewers": 3878,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -186,40 +178,40 @@
         "titleOriginal": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
         "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
         "source": "webiterate.dev",
-        "score": 296,
-        "comments": 215,
+        "score": 518,
+        "comments": 406,
         "hnUrl": "https://news.ycombinator.com/item?id=49514878",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Exécuter le logiciel macOS sous Linux",
+        "titleOriginal": "Run macOS Software on Linux",
+        "url": "https://www.darlinghq.org/",
+        "source": "darlinghq.org",
+        "score": 95,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49515830",
+        "date": "il y a 3 h"
       },
       {
         "title": "J'ai transformé mes caméras de sécurité en système d'identification automatique des oiseaux",
         "titleOriginal": "I turned my security cameras into an automatic bird identification system",
         "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
         "source": "jasontucker.blog",
-        "score": 327,
-        "comments": 88,
+        "score": 362,
+        "comments": 94,
         "hnUrl": "https://news.ycombinator.com/item?id=49511856",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Le « miel fou » qui peut arrêter votre cœur est vendu en ligne",
         "titleOriginal": "'Mad honey' that can stop your heart is being sold online",
         "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
         "source": "phys.org",
-        "score": 88,
-        "comments": 55,
+        "score": 137,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=49476239",
         "date": "il y a 3 j"
-      },
-      {
-        "title": "Téléphone Playa",
-        "titleOriginal": "Playa Phone",
-        "url": "https://playaphone.com/",
-        "source": "playaphone.com",
-        "score": 454,
-        "comments": 175,
-        "hnUrl": "https://news.ycombinator.com/item?id=49510514",
-        "date": "il y a 8 h"
       }
     ]
   },
