@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-01T22:42:37.192Z",
+  "updatedAt": "2026-09-02T00:45:51.773Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
-      "code": 0,
-      "wind": 3,
-      "humidity": 78
+      "temp": 14,
+      "feelsLike": 14,
+      "code": 3,
+      "wind": 4,
+      "humidity": 84
     },
     "forecast": [
       {
@@ -178,9 +178,19 @@
         "titleOriginal": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "source": "anthropic.com",
-        "score": 782,
-        "comments": 745,
+        "score": 893,
+        "comments": 846,
         "hnUrl": "https://news.ycombinator.com/item?id=49525378",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Accrochez-vous à votre Firefox",
+        "titleOriginal": "Hang on to Your Firefox",
+        "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+        "source": "newsonaut.com",
+        "score": 344,
+        "comments": 191,
+        "hnUrl": "https://news.ycombinator.com/item?id=49527748",
         "date": "il y a 4 h"
       },
       {
@@ -188,30 +198,20 @@
         "titleOriginal": "How accurate have Ed Zitron's AI skeptic predictions been?",
         "url": "https://danluu.com/zitron/",
         "source": "danluu.com",
-        "score": 251,
-        "comments": 291,
+        "score": 370,
+        "comments": 452,
         "hnUrl": "https://news.ycombinator.com/item?id=49526069",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Show HN : Weedout - Extension Safari qui cache les vidéos étiquetées AI sur YouTube",
-        "titleOriginal": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-        "url": "https://masteranza.github.io/weedout/",
-        "source": "masteranza.github.io",
-        "score": 18,
+        "title": "La frontière efficace de l'inférence LLM",
+        "titleOriginal": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "source": "baseten.co",
+        "score": 16,
         "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49528895",
-        "date": "il y a 35 min"
-      },
-      {
-        "title": "L'application ChatGPT/Codex fournit une copie complète de LibreOffice",
-        "titleOriginal": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-        "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-        "source": "simonwillison.net",
-        "score": 171,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=49527396",
-        "date": "il y a 2 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=49529898",
+        "date": "il y a 57 min"
       }
     ]
   },
