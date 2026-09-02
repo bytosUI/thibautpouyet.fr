@@ -1,61 +1,46 @@
 {
-  "updatedAt": "2026-09-02T14:00:54.655Z",
+  "updatedAt": "2026-09-02T17:57:58.201Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 23,
       "feelsLike": 22,
-      "code": 3,
-      "wind": 10,
-      "humidity": 41
+      "code": 1,
+      "wind": 8,
+      "humidity": 37
     },
     "forecast": [
       {
         "date": "2026-09-02",
         "code": 3,
-        "tmax": 23,
+        "tmax": 25,
         "tmin": 13
       },
       {
         "date": "2026-09-03",
         "code": 3,
-        "tmax": 25,
+        "tmax": 27,
         "tmin": 13
       },
       {
         "date": "2026-09-04",
         "code": 3,
-        "tmax": 30,
+        "tmax": 29,
         "tmin": 18
       },
       {
         "date": "2026-09-05",
         "code": 61,
         "tmax": 25,
-        "tmin": 17
+        "tmin": 16
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "GeoGuessr",
-        "viewers": 8275,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 291,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -67,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SA SŒUR A ÉTÉ V*OLÉE : IL A RETROUVÉ LE COUPABLE ET LUI A MIS 5 BALLES DANS LA TÊTE",
+        "title": "IL A ÉTÉ L’AMANT DE LA PLUS GRANDE TRAFIQUANTE DE COCA*NE SUD-AMÉRICAINE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "I5bai-vLSR4",
-        "thumbnail": "https://i.ytimg.com/vi/I5bai-vLSR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I5bai-vLSR4",
-        "publishedAt": "2026-09-02T12:12:39+00:00"
+        "videoId": "qqs1Qn8O2Bg",
+        "thumbnail": "https://i.ytimg.com/vi/qqs1Qn8O2Bg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qqs1Qn8O2Bg",
+        "publishedAt": "2026-09-02T16:00:00+00:00"
       },
       {
         "title": "Mistral, est-ce qu'on nous a menti depuis le début ?",
@@ -189,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Gemini 3.8 Flash et 3.8 Flash Cyber",
+        "titleOriginal": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "source": "blog.google",
+        "score": 461,
+        "comments": 267,
+        "hnUrl": "https://news.ycombinator.com/item?id=49537553",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Une note de LWN",
         "titleOriginal": "A Note from LWN",
         "url": "https://lwn.net/Articles/1090585/",
         "source": "lwn.net",
-        "score": 139,
-        "comments": 19,
+        "score": 559,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=49535752",
-        "date": "il y a 43 min"
-      },
-      {
-        "title": "Commodore 64 sorti le 1er septembre 1982",
-        "titleOriginal": "Commodore 64 released September 1, 1982",
-        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-        "source": "dfarq.homeip.net",
-        "score": 195,
-        "comments": 97,
-        "hnUrl": "https://news.ycombinator.com/item?id=49533497",
-        "date": "il y a 5 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Mistral se forme maintenant à la saisie utilisateur par défaut, sauf au niveau de l'entreprise",
         "titleOriginal": "Mistral now trains on user input by default, except on enterprise tier",
         "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
         "source": "help.mistral.ai",
-        "score": 24,
-        "comments": 9,
+        "score": 256,
+        "comments": 118,
         "hnUrl": "https://news.ycombinator.com/item?id=49535284",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Un petit télescope qui m'a surpris",
-        "titleOriginal": "A Small Telescope That Surprised Me",
-        "url": "https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/",
-        "source": "adfr.io",
-        "score": 49,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=49522884",
-        "date": "il y a 23 h"
+        "title": "Le plus grand détecteur de matière noire repère une seule particule étrange",
+        "titleOriginal": "Biggest dark matter detector spots a single weird particle",
+        "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+        "source": "science.org",
+        "score": 157,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49536079",
+        "date": "il y a 4 h"
       }
     ]
   },
