@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-02T17:57:58.201Z",
+  "updatedAt": "2026-09-02T20:40:11.309Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
-      "code": 1,
-      "wind": 8,
-      "humidity": 37
+      "temp": 20,
+      "feelsLike": 20,
+      "code": 3,
+      "wind": 0,
+      "humidity": 57
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-09-03",
         "code": 3,
-        "tmax": 27,
-        "tmin": 13
+        "tmax": 26,
+        "tmin": 14
       },
       {
         "date": "2026-09-04",
-        "code": 3,
-        "tmax": 29,
-        "tmin": 18
+        "code": 2,
+        "tmax": 30,
+        "tmin": 17
       },
       {
         "date": "2026-09-05",
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Stripe rachète OpenRouter : Analyse d'un deal à 50X le revenu !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "-eLckges4bk",
+        "thumbnail": "https://i.ytimg.com/vi/-eLckges4bk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-eLckges4bk",
+        "publishedAt": "2026-09-02T18:00:02+00:00"
+      },
+      {
         "title": "IL A ÉTÉ L’AMANT DE LA PLUS GRANDE TRAFIQUANTE DE COCA*NE SUD-AMÉRICAINE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/qqs1Qn8O2Bg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qqs1Qn8O2Bg",
         "publishedAt": "2026-09-02T16:00:00+00:00"
-      },
-      {
-        "title": "Mistral, est-ce qu'on nous a menti depuis le début ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "g18SEA76yXs",
-        "thumbnail": "https://i.ytimg.com/vi/g18SEA76yXs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g18SEA76yXs",
-        "publishedAt": "2026-09-01T18:00:06+00:00"
       },
       {
         "title": "Une journée en PVT en Corée à 29 ans",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Muse Spark 1.3",
+        "titleOriginal": "Muse Spark 1.3",
+        "url": "https://developer.meta.com/ai/models/muse-spark/",
+        "source": "developer.meta.com",
+        "score": 136,
+        "comments": 62,
+        "hnUrl": "https://news.ycombinator.com/item?id=49541256",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Gemini 3.8 Flash et 3.8 Flash Cyber",
         "titleOriginal": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
         "source": "blog.google",
-        "score": 461,
-        "comments": 267,
+        "score": 666,
+        "comments": 395,
         "hnUrl": "https://news.ycombinator.com/item?id=49537553",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Une note de LWN",
-        "titleOriginal": "A Note from LWN",
-        "url": "https://lwn.net/Articles/1090585/",
-        "source": "lwn.net",
-        "score": 559,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=49535752",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Mistral se forme maintenant à la saisie utilisateur par défaut, sauf au niveau de l'entreprise",
-        "titleOriginal": "Mistral now trains on user input by default, except on enterprise tier",
-        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-        "source": "help.mistral.ai",
-        "score": 256,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=49535284",
         "date": "il y a 5 h"
       },
       {
-        "title": "Le plus grand détecteur de matière noire repère une seule particule étrange",
-        "titleOriginal": "Biggest dark matter detector spots a single weird particle",
-        "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-        "source": "science.org",
-        "score": 157,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49536079",
-        "date": "il y a 4 h"
+        "title": "Google évite une rupture de son activité ad tech",
+        "titleOriginal": "Google avoids a breakup of its ad tech business",
+        "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+        "source": "nytimes.com",
+        "score": 103,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=49537131",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Je veux vivre une vie de PNJ",
+        "titleOriginal": "I wanna live an NPC life",
+        "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+        "source": "signalundefied.bearblog.dev",
+        "score": 26,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49541519",
+        "date": "il y a 47 min"
       }
     ]
   },
