@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-02T05:21:25.674Z",
+  "updatedAt": "2026-09-02T09:47:23.313Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 14,
-      "code": 3,
-      "wind": 2,
-      "humidity": 88
+      "temp": 20,
+      "feelsLike": 20,
+      "code": 2,
+      "wind": 3,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-09-05",
-        "code": 3,
-        "tmax": 26,
-        "tmin": 18
+        "code": 61,
+        "tmax": 25,
+        "tmin": 17
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Mistral, est-ce qu'on nous a menti depuis le début ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "g18SEA76yXs",
+        "thumbnail": "https://i.ytimg.com/vi/g18SEA76yXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g18SEA76yXs",
+        "publishedAt": "2026-09-01T18:00:06+00:00"
+      },
+      {
+        "title": "COMMENT A-T-IL FAIT POUR NE PLUS BOIRE APRÈS 10 ANS D'ALCOOLISME ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "-2SIJKbEN7s",
+        "thumbnail": "https://i.ytimg.com/vi/-2SIJKbEN7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-2SIJKbEN7s",
+        "publishedAt": "2026-09-01T16:00:13+00:00"
+      },
+      {
+        "title": "Une journée en PVT en Corée à 29 ans",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "rDMuIvbgR8k",
+        "thumbnail": "https://i.ytimg.com/vi/rDMuIvbgR8k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rDMuIvbgR8k",
+        "publishedAt": "2026-08-30T16:15:37+00:00"
+      },
+      {
+        "title": "Je n’ai plus d’eau ni de toilettes… #27",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "m32Pngr5-5M",
+        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
+        "publishedAt": "2026-08-30T15:17:13+00:00"
+      },
+      {
+        "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "ur-N6-IG1VA",
+        "thumbnail": "https://i.ytimg.com/vi/ur-N6-IG1VA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ur-N6-IG1VA",
+        "publishedAt": "2026-08-18T16:01:59+00:00"
+      },
+      {
+        "title": "Un expat' ne reviendra jamais vivre en France ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "OKEx1QYExAs",
+        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
+        "publishedAt": "2026-08-10T08:26:03+00:00"
+      },
+      {
+        "title": "Pourquoi le film s'appelle Intouchables ? Éric Toledano et Olivier Nakache répondent !",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zZLlX78uq9k",
+        "thumbnail": "https://i.ytimg.com/vi/zZLlX78uq9k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZLlX78uq9k",
+        "publishedAt": "2026-08-04T15:16:19+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      },
+      {
+        "title": "Impossible de savoir qui va tomber 😧",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "OLcQ-OS8Jws",
+        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
+        "publishedAt": "2026-07-26T13:11:01+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Commodore 64 sorti le 1er septembre 1982",
+        "titleOriginal": "Commodore 64 released September 1, 1982",
+        "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+        "source": "dfarq.homeip.net",
+        "score": 36,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49533497",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Claude Fable 5.1 et Claude Mythos 5.1",
         "titleOriginal": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "source": "anthropic.com",
-        "score": 1057,
-        "comments": 987,
+        "score": 1242,
+        "comments": 1163,
         "hnUrl": "https://news.ycombinator.com/item?id=49525378",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Taux de chômage",
-        "titleOriginal": "True Rate of Unemployment",
-        "url": "https://www.lisep.org/tru",
-        "source": "lisep.org",
-        "score": 90,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49530989",
-        "date": "il y a 3 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "La structure symbolique émergente des réseaux de neurones artificiels",
         "titleOriginal": "The Emergent Symbolic Structure of Artificial Neural Networks",
         "url": "https://arxiv.org/abs/2608.29530",
         "source": "arxiv.org",
-        "score": 26,
-        "comments": 2,
+        "score": 143,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=49531651",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Dans quelle mesure les prédictions sceptiques d'Ed Zitron en matière d'IA ont-elles été précises ?",
         "titleOriginal": "How accurate have Ed Zitron's AI skeptic predictions been?",
         "url": "https://danluu.com/zitron/",
         "source": "danluu.com",
-        "score": 559,
-        "comments": 640,
+        "score": 707,
+        "comments": 765,
         "hnUrl": "https://news.ycombinator.com/item?id=49526069",
-        "date": "il y a 10 h"
+        "date": "il y a 15 h"
       }
     ]
   },
