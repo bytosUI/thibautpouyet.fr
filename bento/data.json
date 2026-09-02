@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-02T09:47:23.313Z",
+  "updatedAt": "2026-09-02T14:00:54.655Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 20,
-      "code": 2,
-      "wind": 3,
-      "humidity": 55
+      "temp": 23,
+      "feelsLike": 22,
+      "code": 3,
+      "wind": 10,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -37,10 +37,25 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "GeoGuessr",
+        "viewers": 8275,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 291,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      }
+    ],
     "offline": [
-      "domingo",
-      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -52,6 +67,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "SA SŒUR A ÉTÉ V*OLÉE : IL A RETROUVÉ LE COUPABLE ET LUI A MIS 5 BALLES DANS LA TÊTE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "I5bai-vLSR4",
+        "thumbnail": "https://i.ytimg.com/vi/I5bai-vLSR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I5bai-vLSR4",
+        "publishedAt": "2026-09-02T12:12:39+00:00"
+      },
+      {
         "title": "Mistral, est-ce qu'on nous a menti depuis le début ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -59,15 +83,6 @@
         "thumbnail": "https://i.ytimg.com/vi/g18SEA76yXs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=g18SEA76yXs",
         "publishedAt": "2026-09-01T18:00:06+00:00"
-      },
-      {
-        "title": "COMMENT A-T-IL FAIT POUR NE PLUS BOIRE APRÈS 10 ANS D'ALCOOLISME ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "-2SIJKbEN7s",
-        "thumbnail": "https://i.ytimg.com/vi/-2SIJKbEN7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-2SIJKbEN7s",
-        "publishedAt": "2026-09-01T16:00:13+00:00"
       },
       {
         "title": "Une journée en PVT en Corée à 29 ans",
@@ -174,44 +189,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Une note de LWN",
+        "titleOriginal": "A Note from LWN",
+        "url": "https://lwn.net/Articles/1090585/",
+        "source": "lwn.net",
+        "score": 139,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49535752",
+        "date": "il y a 43 min"
+      },
+      {
         "title": "Commodore 64 sorti le 1er septembre 1982",
         "titleOriginal": "Commodore 64 released September 1, 1982",
         "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
         "source": "dfarq.homeip.net",
-        "score": 36,
-        "comments": 2,
+        "score": 195,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=49533497",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Claude Fable 5.1 et Claude Mythos 5.1",
-        "titleOriginal": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "source": "anthropic.com",
-        "score": 1242,
-        "comments": 1163,
-        "hnUrl": "https://news.ycombinator.com/item?id=49525378",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "La structure symbolique émergente des réseaux de neurones artificiels",
-        "titleOriginal": "The Emergent Symbolic Structure of Artificial Neural Networks",
-        "url": "https://arxiv.org/abs/2608.29530",
-        "source": "arxiv.org",
-        "score": 143,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=49531651",
         "date": "il y a 5 h"
       },
       {
-        "title": "Dans quelle mesure les prédictions sceptiques d'Ed Zitron en matière d'IA ont-elles été précises ?",
-        "titleOriginal": "How accurate have Ed Zitron's AI skeptic predictions been?",
-        "url": "https://danluu.com/zitron/",
-        "source": "danluu.com",
-        "score": 707,
-        "comments": 765,
-        "hnUrl": "https://news.ycombinator.com/item?id=49526069",
-        "date": "il y a 15 h"
+        "title": "Mistral se forme maintenant à la saisie utilisateur par défaut, sauf au niveau de l'entreprise",
+        "titleOriginal": "Mistral now trains on user input by default, except on enterprise tier",
+        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+        "source": "help.mistral.ai",
+        "score": 24,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49535284",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Un petit télescope qui m'a surpris",
+        "titleOriginal": "A Small Telescope That Surprised Me",
+        "url": "https://adfr.io/thoughts/20260831_a_small_telescope_that_surprised_me/",
+        "source": "adfr.io",
+        "score": 49,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49522884",
+        "date": "il y a 23 h"
       }
     ]
   },
