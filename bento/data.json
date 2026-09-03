@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-03T14:40:07.763Z",
+  "updatedAt": "2026-09-03T18:17:32.686Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
+      "temp": 26,
       "feelsLike": 27,
       "code": 3,
-      "wind": 17,
-      "humidity": 45
+      "wind": 7,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -24,14 +24,14 @@
       },
       {
         "date": "2026-09-05",
-        "code": 3,
-        "tmax": 25,
+        "code": 61,
+        "tmax": 24,
         "tmin": 15
       },
       {
         "date": "2026-09-06",
         "code": 3,
-        "tmax": 30,
+        "tmax": 29,
         "tmin": 12
       }
     ]
@@ -52,6 +52,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "Apprends l'arabe avec Squeezie",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "16Rfuz4Jlg8",
+        "thumbnail": "https://i.ytimg.com/vi/16Rfuz4Jlg8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=16Rfuz4Jlg8",
+        "publishedAt": "2026-09-03T17:32:19+00:00"
+      },
+      {
+        "title": "Elon Musk vs Sam Altman : qui remportera la bataille des agents autonomes ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "34-SSwdGRwQ",
+        "thumbnail": "https://i.ytimg.com/vi/34-SSwdGRwQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=34-SSwdGRwQ",
+        "publishedAt": "2026-09-03T16:00:24+00:00"
+      },
+      {
         "title": "POUR BRAQUAGES ET MEURTRE, IL NE FERA QUE 7 ANS DE PRISON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/lVJBYSHC4pQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lVJBYSHC4pQ",
         "publishedAt": "2026-09-03T14:00:35+00:00"
-      },
-      {
-        "title": "Stripe rachète OpenRouter : Analyse d'un deal à 50X le revenu !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "-eLckges4bk",
-        "thumbnail": "https://i.ytimg.com/vi/-eLckges4bk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-eLckges4bk",
-        "publishedAt": "2026-09-02T18:00:02+00:00"
       },
       {
         "title": "Une journée en PVT en Corée à 29 ans",
@@ -122,15 +131,6 @@
         "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
         "publishedAt": "2026-08-03T07:30:33+00:00"
-      },
-      {
-        "title": "Impossible de savoir qui va tomber 😧",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "OLcQ-OS8Jws",
-        "thumbnail": "https://i.ytimg.com/vi/OLcQ-OS8Jws/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OLcQ-OS8Jws",
-        "publishedAt": "2026-07-26T13:11:01+00:00"
       }
     ]
   },
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
+        "title": ".name Résiliation",
+        "titleOriginal": ".name Termination",
+        "url": "https://neil.fraser.name/news/2026/09/03/",
+        "source": "neil.fraser.name",
+        "score": 677,
+        "comments": 168,
+        "hnUrl": "https://news.ycombinator.com/item?id=49550772",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "K2 Horizon : une flotte connectée de six modèles ouverts",
+        "titleOriginal": "K2 Horizon: A connected fleet of six open models",
+        "url": "https://ifm.ai/blog/k2/",
+        "source": "ifm.ai",
+        "score": 142,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=49551760",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Any Human Ever – Une vie, tirée au hasard de tous ceux qui ont déjà vécu",
+        "titleOriginal": "Any Human Ever – One life, drawn at random from all who have ever lived",
+        "url": "https://anyhumanever.com/",
+        "source": "anyhumanever.com",
+        "score": 214,
+        "comments": 101,
+        "hnUrl": "https://news.ycombinator.com/item?id=49550698",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Audacity 4.0",
         "titleOriginal": "Audacity 4.0",
         "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
         "source": "github.com",
-        "score": 500,
-        "comments": 125,
+        "score": 871,
+        "comments": 195,
         "hnUrl": "https://news.ycombinator.com/item?id=49548395",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Erreurs élevées pour plusieurs modèles",
-        "titleOriginal": "Elevated Errors for Multiple Models",
-        "url": "https://status.claude.com/incidents/461yvfrzpwtt",
-        "source": "status.claude.com",
-        "score": 95,
-        "comments": 62,
-        "hnUrl": "https://news.ycombinator.com/item?id=49549676",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Maman obtient une peine de 6 mois avec sursis pour avoir laissé un enfant de 5 ans marcher jusqu'à l'étang",
-        "titleOriginal": "Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond",
-        "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
-        "source": "reason.com",
-        "score": 87,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49550174",
-        "date": "il y a 27 min"
-      },
-      {
-        "title": "Pré-lancement de Polars 2.0",
-        "titleOriginal": "Pre-Release of Polars 2.0",
-        "url": "https://pola.rs/posts/announcing-polars-2/",
-        "source": "pola.rs",
-        "score": 286,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=49546753",
         "date": "il y a 7 h"
       }
     ]
