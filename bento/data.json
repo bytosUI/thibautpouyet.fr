@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-09-03T10:00:52.171Z",
+  "updatedAt": "2026-09-03T14:40:07.763Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 28,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 16,
-      "humidity": 58
+      "wind": 17,
+      "humidity": 45
     },
     "forecast": [
       {
         "date": "2026-09-03",
         "code": 3,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 13
       },
       {
         "date": "2026-09-04",
         "code": 3,
         "tmax": 29,
-        "tmin": 18
+        "tmin": 17
       },
       {
         "date": "2026-09-05",
         "code": 3,
         "tmax": 25,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-09-06",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "EN PLEIN BRAQUAGE, SON COMPLICE ABAT TOUS LES AUTRES MEMBRES DE LEUR ÉQUIPE",
+        "title": "POUR BRAQUAGES ET MEURTRE, IL NE FERA QUE 7 ANS DE PRISON",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "CXRCExT1amo",
-        "thumbnail": "https://i.ytimg.com/vi/CXRCExT1amo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CXRCExT1amo",
-        "publishedAt": "2026-09-03T09:00:27+00:00"
+        "videoId": "lVJBYSHC4pQ",
+        "thumbnail": "https://i.ytimg.com/vi/lVJBYSHC4pQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lVJBYSHC4pQ",
+        "publishedAt": "2026-09-03T14:00:35+00:00"
       },
       {
         "title": "Stripe rachète OpenRouter : Analyse d'un deal à 50X le revenu !",
@@ -154,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 15 sem",
+        "time": "il y a 16 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 15 sem",
+        "time": "il y a 16 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Audacity 4.0",
+        "titleOriginal": "Audacity 4.0",
+        "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+        "source": "github.com",
+        "score": 500,
+        "comments": 125,
+        "hnUrl": "https://news.ycombinator.com/item?id=49548395",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Erreurs élevées pour plusieurs modèles",
+        "titleOriginal": "Elevated Errors for Multiple Models",
+        "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+        "source": "status.claude.com",
+        "score": 95,
+        "comments": 62,
+        "hnUrl": "https://news.ycombinator.com/item?id=49549676",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Maman obtient une peine de 6 mois avec sursis pour avoir laissé un enfant de 5 ans marcher jusqu'à l'étang",
+        "titleOriginal": "Mom Gets 6-Mo Suspended Sentence for Letting 5-Year-Old Walk to the Pond",
+        "url": "https://reason.com/2026/09/02/virginia-mom-gets-6-month-suspended-jail-sentence-for-letting-5-year-old-walk-to-the-pond/",
+        "source": "reason.com",
+        "score": 87,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49550174",
+        "date": "il y a 27 min"
+      },
+      {
         "title": "Pré-lancement de Polars 2.0",
         "titleOriginal": "Pre-Release of Polars 2.0",
         "url": "https://pola.rs/posts/announcing-polars-2/",
         "source": "pola.rs",
-        "score": 137,
-        "comments": 23,
+        "score": 286,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=49546753",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Le fil principal du navigateur est coûteux",
-        "titleOriginal": "The Browser's Main Thread Is Expensive",
-        "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-        "source": "kciter.so",
-        "score": 50,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49522137",
-        "date": "hier"
-      },
-      {
-        "title": "Muse Spark 1.3",
-        "titleOriginal": "Muse Spark 1.3",
-        "url": "https://developer.meta.com/ai/models/muse-spark/",
-        "source": "developer.meta.com",
-        "score": 583,
-        "comments": 385,
-        "hnUrl": "https://news.ycombinator.com/item?id=49541256",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Gemini 3.8 Flash et 3.8 Flash Cyber",
-        "titleOriginal": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-        "source": "blog.google",
-        "score": 1022,
-        "comments": 574,
-        "hnUrl": "https://news.ycombinator.com/item?id=49537553",
-        "date": "il y a 18 h"
+        "date": "il y a 7 h"
       }
     ]
   },
