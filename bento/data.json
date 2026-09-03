@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-02T22:56:38.821Z",
+  "updatedAt": "2026-09-03T00:56:34.526Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 17,
-      "code": 2,
-      "wind": 3,
-      "humidity": 77
+      "temp": 15,
+      "feelsLike": 15,
+      "code": 1,
+      "wind": 4,
+      "humidity": 86
     },
     "forecast": [
       {
@@ -178,39 +178,39 @@
         "titleOriginal": "Muse Spark 1.3",
         "url": "https://developer.meta.com/ai/models/muse-spark/",
         "source": "developer.meta.com",
-        "score": 293,
-        "comments": 205,
+        "score": 366,
+        "comments": 244,
         "hnUrl": "https://news.ycombinator.com/item?id=49541256",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Gemini 3.8 Flash et 3.8 Flash Cyber",
         "titleOriginal": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
         "source": "blog.google",
-        "score": 757,
-        "comments": 456,
+        "score": 810,
+        "comments": 478,
         "hnUrl": "https://news.ycombinator.com/item?id=49537553",
-        "date": "il y a 7 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Google évite une rupture de son activité ad tech",
         "titleOriginal": "Google avoids a breakup of its ad tech business",
         "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
         "source": "nytimes.com",
-        "score": 191,
-        "comments": 106,
+        "score": 248,
+        "comments": 163,
         "hnUrl": "https://news.ycombinator.com/item?id=49537131",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Ingénierie inverse Formats de fichiers inconnus avec ImHex",
-        "titleOriginal": "Reverse Engineering Unknown File Formats with ImHex",
-        "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-        "source": "werwolv.net",
-        "score": 59,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=49508608",
+        "title": "Vol éclair de Holden",
+        "titleOriginal": "Holden's Lightning Flight",
+        "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+        "source": "en.wikipedia.org",
+        "score": 45,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49508405",
         "date": "il y a 2 j"
       }
     ]
