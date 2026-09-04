@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-04T21:10:16.608Z",
+  "updatedAt": "2026-09-04T23:08:17.168Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 24,
+      "temp": 21,
+      "feelsLike": 22,
       "code": 3,
-      "wind": 9,
-      "humidity": 73
+      "wind": 11,
+      "humidity": 75
     },
     "forecast": [
       {
-        "date": "2026-09-04",
-        "code": 3,
-        "tmax": 30,
-        "tmin": 18
-      },
-      {
         "date": "2026-09-05",
-        "code": 61,
+        "code": 80,
         "tmax": 25,
         "tmin": 15
       },
       {
         "date": "2026-09-06",
-        "code": 3,
-        "tmax": 29,
+        "code": 61,
+        "tmax": 28,
         "tmin": 13
       },
       {
         "date": "2026-09-07",
-        "code": 80,
-        "tmax": 27,
-        "tmin": 21
+        "code": 3,
+        "tmax": 28,
+        "tmin": 20
+      },
+      {
+        "date": "2026-09-08",
+        "code": 61,
+        "tmax": 21,
+        "tmin": 15
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 97949,
+        "viewers": 66931,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       },
@@ -50,7 +50,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 141,
+        "viewers": 119,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -193,9 +193,29 @@
         "titleOriginal": "Formalizing Fermat's Last Theorem",
         "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
         "source": "anthropic.com",
-        "score": 276,
-        "comments": 163,
+        "score": 404,
+        "comments": 263,
         "hnUrl": "https://news.ycombinator.com/item?id=49568506",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "RCE sandbox activement exploité dans toutes les versions de Chromium",
+        "titleOriginal": "Actively exploited sandbox RCE in all Chromium versions",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+        "source": "nvd.nist.gov",
+        "score": 59,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49570669",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Statichost.eu – Hébergement européen de sites statiques",
+        "titleOriginal": "Statichost.eu – European static site hosting",
+        "url": "https://www.statichost.eu/",
+        "source": "statichost.eu",
+        "score": 121,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=49569896",
         "date": "il y a 2 h"
       },
       {
@@ -203,30 +223,10 @@
         "titleOriginal": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
         "source": "collusion.wiki",
-        "score": 1297,
-        "comments": 1054,
+        "score": 1405,
+        "comments": 1127,
         "hnUrl": "https://news.ycombinator.com/item?id=49563355",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "L'IA peut-elle encore concevoir des cartes de circuits imprimés ?",
-        "titleOriginal": "Can AI design circuit boards yet?",
-        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-        "source": "eebench.org",
-        "score": 53,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=49569366",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Fermeture de notre DNS public crypté",
-        "titleOriginal": "Shutting down our public encrypted DNS",
-        "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
-        "source": "mullvad.net",
-        "score": 142,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=49568579",
-        "date": "il y a 2 h"
+        "date": "il y a 11 h"
       }
     ]
   },
