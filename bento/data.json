@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-04T18:45:38.801Z",
+  "updatedAt": "2026-09-04T21:10:16.608Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 25,
+      "temp": 22,
+      "feelsLike": 24,
       "code": 3,
-      "wind": 14,
-      "humidity": 54
+      "wind": 9,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-09-05",
         "code": 61,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 15
       },
       {
@@ -42,9 +42,17 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 82942,
+        "viewers": 97949,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 141,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,12 +61,29 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "2QcaDwpvl7s",
+        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
+        "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Peut-être notre plus belle vidéo ? 🌴",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "-whh09sy-8o",
+        "thumbnail": "https://i.ytimg.com/vi/-whh09sy-8o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-whh09sy-8o",
+        "publishedAt": "2026-09-04T19:54:06+00:00"
+      },
       {
         "title": "ZEVENT 2026 : on compte sur vous ❤️ (on va tout donner)",
         "channel": "Mcfly et Carlito",
@@ -87,15 +112,6 @@
         "publishedAt": "2026-09-04T16:00:20+00:00"
       },
       {
-        "title": "Maxime veut reconquérir la mariée 😱",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "N4MGXeQZvt4",
-        "thumbnail": "https://i.ytimg.com/vi/N4MGXeQZvt4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N4MGXeQZvt4",
-        "publishedAt": "2026-09-04T08:42:23+00:00"
-      },
-      {
         "title": "Une journée en PVT en Corée à 29 ans",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -112,15 +128,6 @@
         "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
         "publishedAt": "2026-08-30T15:17:13+00:00"
-      },
-      {
-        "title": "2 JOURS pour ce DÉFI hors du commun ! 🌴",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "ur-N6-IG1VA",
-        "thumbnail": "https://i.ytimg.com/vi/ur-N6-IG1VA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ur-N6-IG1VA",
-        "publishedAt": "2026-08-18T16:01:59+00:00"
       },
       {
         "title": "Un expat' ne reviendra jamais vivre en France ?",
@@ -182,44 +189,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Formalisation du dernier théorème de Fermat",
+        "titleOriginal": "Formalizing Fermat's Last Theorem",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "source": "anthropic.com",
+        "score": 276,
+        "comments": 163,
+        "hnUrl": "https://news.ycombinator.com/item?id=49568506",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Découverte d'un nouveau tableau de messages d'agent OpenAI",
         "titleOriginal": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
         "source": "collusion.wiki",
-        "score": 1087,
-        "comments": 851,
+        "score": 1297,
+        "comments": 1054,
         "hnUrl": "https://news.ycombinator.com/item?id=49563355",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Show HN : Ordinateur de vélo eInk Open Source",
-        "titleOriginal": "Show HN: Open-Source eInk Bike Computer",
-        "url": "https://opentrailpaper.com",
-        "source": "opentrailpaper.com",
-        "score": 80,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49567437",
+        "title": "L'IA peut-elle encore concevoir des cartes de circuits imprimés ?",
+        "titleOriginal": "Can AI design circuit boards yet?",
+        "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+        "source": "eebench.org",
+        "score": 53,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49569366",
         "date": "il y a 1 h"
       },
       {
-        "title": "Projet HydraFusion : Qualité aux frontières de l'orchestration multi-modèles",
-        "titleOriginal": "Project HydraFusion: Frontier quality via multi-model orchestration",
-        "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-        "source": "github.blog",
-        "score": 34,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49566788",
+        "title": "Fermeture de notre DNS public crypté",
+        "titleOriginal": "Shutting down our public encrypted DNS",
+        "url": "https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead",
+        "source": "mullvad.net",
+        "score": 142,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49568579",
         "date": "il y a 2 h"
-      },
-      {
-        "title": "IBM Bob",
-        "titleOriginal": "IBM Bob",
-        "url": "https://bob.ibm.com/",
-        "source": "bob.ibm.com",
-        "score": 145,
-        "comments": 168,
-        "hnUrl": "https://news.ycombinator.com/item?id=49563851",
-        "date": "il y a 5 h"
       }
     ]
   },
