@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-03T23:23:27.023Z",
+  "updatedAt": "2026-09-04T01:07:56.265Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 22,
-      "code": 1,
-      "wind": 4,
+      "temp": 19,
+      "feelsLike": 21,
+      "code": 0,
+      "wind": 5,
       "humidity": 86
     },
     "forecast": [
@@ -178,38 +178,38 @@
         "titleOriginal": "GPT-6 Astra",
         "url": "https://openai.com/index/gpt-6-astra/",
         "source": "openai.com",
-        "score": 1123,
-        "comments": 854,
+        "score": 1283,
+        "comments": 1001,
         "hnUrl": "https://news.ycombinator.com/item?id=49554643",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Qwen 3.8 27B disponible sur Cerebras à 1500 jetons/s",
-        "titleOriginal": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-        "url": "https://inference-docs.cerebras.ai/models/overview",
-        "source": "inference-docs.cerebras.ai",
-        "score": 399,
-        "comments": 122,
-        "hnUrl": "https://news.ycombinator.com/item?id=49554520",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": ".name Résiliation",
         "titleOriginal": ".name Termination",
         "url": "https://neil.fraser.name/news/2026/09/03/",
         "source": "neil.fraser.name",
-        "score": 1223,
-        "comments": 351,
+        "score": 1320,
+        "comments": 370,
         "hnUrl": "https://news.ycombinator.com/item?id=49550772",
-        "date": "il y a 8 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Qwen 3.8 27B disponible sur Cerebras à 1500 jetons/s",
+        "titleOriginal": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "url": "https://inference-docs.cerebras.ai/models/overview",
+        "source": "inference-docs.cerebras.ai",
+        "score": 442,
+        "comments": 129,
+        "hnUrl": "https://news.ycombinator.com/item?id=49554520",
+        "date": "il y a 6 h"
       },
       {
         "title": "Le plus gros avion électrique vient de voler [vidéo]",
         "titleOriginal": "The largest electric aircraft just flew [video]",
         "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
         "source": "youtube.com",
-        "score": 140,
-        "comments": 89,
+        "score": 181,
+        "comments": 122,
         "hnUrl": "https://news.ycombinator.com/item?id=49526453",
         "date": "il y a 2 j"
       }
