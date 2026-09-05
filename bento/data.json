@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-05T18:30:52.565Z",
+  "updatedAt": "2026-09-05T20:53:44.274Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
+      "temp": 19,
+      "feelsLike": 18,
       "code": 0,
-      "wind": 7,
-      "humidity": 44
+      "wind": 6,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-09-07",
         "code": 3,
         "tmax": 29,
-        "tmin": 18
+        "tmin": 20
       },
       {
         "date": "2026-09-08",
@@ -42,9 +42,17 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 53998,
+        "viewers": 128575,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 119,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,12 +61,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Salut les petits loulous, on prend le temps ensemble 👍👍👍(c’est Baghera, bagherajones sur les réseau)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "0PHUeNOsbKU",
+        "thumbnail": "https://i.ytimg.com/vi/0PHUeNOsbKU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0PHUeNOsbKU",
+        "publishedAt": "2026-09-05T19:55:30+00:00"
+      },
       {
         "title": "IL N’EST PAS LE MIEUX PAYÉ DANS SA PROPRE BOÎTE",
         "channel": "LEGEND",
@@ -67,15 +83,6 @@
         "thumbnail": "https://i.ytimg.com/vi/fbDGFzrKDrU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fbDGFzrKDrU",
         "publishedAt": "2026-09-05T16:00:18+00:00"
-      },
-      {
-        "title": "Tu préfères McFly ou Carlito ? (Au Zevent)(orchestré par @thomasdeseur ) (ft. Un mime et @Joyca )",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "m3_WcBvMaV0",
-        "thumbnail": "https://i.ytimg.com/vi/m3_WcBvMaV0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m3_WcBvMaV0",
-        "publishedAt": "2026-09-05T13:39:58+00:00"
       },
       {
         "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
@@ -150,7 +157,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 7 sem",
+        "time": "il y a 8 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -182,44 +189,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le « $ 60 Gaming PC » – AMD BC-250 (2025)",
-        "titleOriginal": "The \"$60 Gaming PC\" – AMD BC-250 (2025)",
-        "url": "https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/",
-        "source": "devquasar.com",
-        "score": 164,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=49576386",
+        "title": "Les vrais luxes de la vie",
+        "titleOriginal": "The Real Luxuries In Life",
+        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
+        "source": "feld.com",
+        "score": 228,
+        "comments": 84,
+        "hnUrl": "https://news.ycombinator.com/item?id=49578866",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Explosion à temps fini pour une équation de Navier-Stokes tridimensionnelle moyennée",
+        "titleOriginal": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation",
+        "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
+        "source": "terrytao.wordpress.com",
+        "score": 16,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49580329",
+        "date": "il y a 27 min"
+      },
+      {
+        "title": "La fusée privée allemande entre dans l'histoire, atteint son orbite depuis le sol européen",
+        "titleOriginal": "Private German rocket makes history, reaches orbit from European soil",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+        "source": "space.com",
+        "score": 57,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49580369",
+        "date": "il y a 22 min"
+      },
+      {
+        "title": "Apprendre la programmation avec OCaml",
+        "titleOriginal": "Learn Programming with OCaml",
+        "url": "https://usr.lmf.cnrs.fr/lpo/",
+        "source": "usr.lmf.cnrs.fr",
+        "score": 94,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49578280",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Découverte d'un nouveau tableau de messages d'agent OpenAI",
-        "titleOriginal": "Discovery of a new OpenAI agent message board",
-        "url": "https://collusion.wiki/",
-        "source": "collusion.wiki",
-        "score": 1967,
-        "comments": 1469,
-        "hnUrl": "https://news.ycombinator.com/item?id=49563355",
-        "date": "hier"
-      },
-      {
-        "title": "RCE sandbox activement exploité dans toutes les versions de Chromium",
-        "titleOriginal": "Actively exploited sandbox RCE in all Chromium versions",
-        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
-        "source": "nvd.nist.gov",
-        "score": 693,
-        "comments": 396,
-        "hnUrl": "https://news.ycombinator.com/item?id=49570669",
-        "date": "il y a 20 h"
-      },
-      {
-        "title": "Nitter a plus d'instances de travail qu'avant les démantèlements",
-        "titleOriginal": "Nitter has more working instances than before the takedowns",
-        "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
-        "source": "codeberg.org",
-        "score": 503,
-        "comments": 204,
-        "hnUrl": "https://news.ycombinator.com/item?id=49571634",
-        "date": "il y a 18 h"
       }
     ]
   },
