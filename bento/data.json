@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-05T10:48:06.725Z",
+  "updatedAt": "2026-09-05T13:38:31.240Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 21,
-      "code": 2,
-      "wind": 9,
-      "humidity": 52
+      "temp": 24,
+      "feelsLike": 23,
+      "code": 0,
+      "wind": 10,
+      "humidity": 40
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-09-07",
         "code": 3,
         "tmax": 28,
-        "tmin": 19
+        "tmin": 18
       },
       {
         "date": "2026-09-08",
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 124448,
+        "viewers": 53035,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "MULTIMILLIONNAIRE : SES ENFANTS AURONT 0 € D’HÉRITAGE ?",
+        "title": "À 9 ANS, IL SE FAIT UNE PROMESSE QUI VA CHANGER SA VIE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "T03M4ZjHSqI",
-        "thumbnail": "https://i.ytimg.com/vi/T03M4ZjHSqI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T03M4ZjHSqI",
-        "publishedAt": "2026-09-05T10:00:16+00:00"
+        "videoId": "XZBKlcmf-Xo",
+        "thumbnail": "https://i.ytimg.com/vi/XZBKlcmf-Xo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XZBKlcmf-Xo",
+        "publishedAt": "2026-09-05T13:00:05+00:00"
       },
       {
         "title": "JE FILME LE ZEVENT POUR LES ASSOCIATIONS",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'IA gère les incidents, les ingénieurs perdent le contact avec leurs systèmes",
-        "titleOriginal": "AI handles incidents, engineers lose touch with their systems",
-        "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-        "source": "sylvainkalache.com",
-        "score": 135,
-        "comments": 106,
-        "hnUrl": "https://news.ycombinator.com/item?id=49574167",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "RCE sandbox activement exploité dans toutes les versions de Chromium",
         "titleOriginal": "Actively exploited sandbox RCE in all Chromium versions",
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
         "source": "nvd.nist.gov",
-        "score": 515,
-        "comments": 279,
+        "score": 598,
+        "comments": 323,
         "hnUrl": "https://news.ycombinator.com/item?id=49570669",
-        "date": "il y a 12 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Découverte d'un nouveau tableau de messages d'agent OpenAI",
         "titleOriginal": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
         "source": "collusion.wiki",
-        "score": 1739,
-        "comments": 1332,
+        "score": 1820,
+        "comments": 1391,
         "hnUrl": "https://news.ycombinator.com/item?id=49563355",
-        "date": "il y a 22 h"
+        "date": "hier"
+      },
+      {
+        "title": "Nitter a plus d'instances de travail qu'avant les démantèlements",
+        "titleOriginal": "Nitter has more working instances than before the takedowns",
+        "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+        "source": "codeberg.org",
+        "score": 354,
+        "comments": 131,
+        "hnUrl": "https://news.ycombinator.com/item?id=49571634",
+        "date": "il y a 13 h"
       },
       {
         "title": "Formalisation du dernier théorème de Fermat",
         "titleOriginal": "Formalizing Fermat's Last Theorem",
         "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
         "source": "anthropic.com",
-        "score": 624,
-        "comments": 389,
+        "score": 655,
+        "comments": 414,
         "hnUrl": "https://news.ycombinator.com/item?id=49568506",
-        "date": "il y a 16 h"
+        "date": "il y a 18 h"
       }
     ]
   },
