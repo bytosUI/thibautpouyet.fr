@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-05T01:12:12.031Z",
+  "updatedAt": "2026-09-05T06:01:21.277Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 19,
-      "code": 61,
-      "wind": 12,
-      "humidity": 76
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 1,
+      "wind": 6,
+      "humidity": 86
     },
     "forecast": [
       {
         "date": "2026-09-05",
-        "code": 80,
+        "code": 61,
         "tmax": 25,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-09-06",
-        "code": 61,
-        "tmax": 28,
+        "code": 3,
+        "tmax": 29,
         "tmin": 13
       },
       {
         "date": "2026-09-07",
-        "code": 3,
+        "code": 80,
         "tmax": 28,
-        "tmin": 20
+        "tmin": 21
       },
       {
         "date": "2026-09-08",
         "code": 61,
-        "tmax": 21,
-        "tmin": 15
+        "tmax": 22,
+        "tmin": 14
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 34037,
+        "viewers": 30686,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -67,78 +67,6 @@
         "thumbnail": "https://i.ytimg.com/vi/SJoK8bI95z4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SJoK8bI95z4",
         "publishedAt": "2026-09-04T23:19:07+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Peut-être notre plus belle vidéo ? 🌴",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "-whh09sy-8o",
-        "thumbnail": "https://i.ytimg.com/vi/-whh09sy-8o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-whh09sy-8o",
-        "publishedAt": "2026-09-04T19:54:06+00:00"
-      },
-      {
-        "title": "IL A AFFICHÉ LES SALAIRES DE TOUS SES EMPLOYÉS… ET C’ÉTAIT UN FIASCO TOTAL",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "H3jPHvHCnyQ",
-        "thumbnail": "https://i.ytimg.com/vi/H3jPHvHCnyQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H3jPHvHCnyQ",
-        "publishedAt": "2026-09-04T16:00:32+00:00"
-      },
-      {
-        "title": "Le fiasco des serveurs de l'Etat : Analyse d'une faille systémique !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "lXThGydqIss",
-        "thumbnail": "https://i.ytimg.com/vi/lXThGydqIss/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXThGydqIss",
-        "publishedAt": "2026-09-04T16:00:20+00:00"
-      },
-      {
-        "title": "Une journée en PVT en Corée à 29 ans",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "rDMuIvbgR8k",
-        "thumbnail": "https://i.ytimg.com/vi/rDMuIvbgR8k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rDMuIvbgR8k",
-        "publishedAt": "2026-08-30T16:15:37+00:00"
-      },
-      {
-        "title": "Je n’ai plus d’eau ni de toilettes… #27",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "m32Pngr5-5M",
-        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
-        "publishedAt": "2026-08-30T15:17:13+00:00"
-      },
-      {
-        "title": "Un expat' ne reviendra jamais vivre en France ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "OKEx1QYExAs",
-        "thumbnail": "https://i.ytimg.com/vi/OKEx1QYExAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OKEx1QYExAs",
-        "publishedAt": "2026-08-10T08:26:03+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
       }
     ]
   },
@@ -186,40 +114,40 @@
         "titleOriginal": "Actively exploited sandbox RCE in all Chromium versions",
         "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
         "source": "nvd.nist.gov",
-        "score": 199,
-        "comments": 113,
+        "score": 397,
+        "comments": 225,
         "hnUrl": "https://news.ycombinator.com/item?id=49570669",
-        "date": "il y a 3 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Formalisation du dernier théorème de Fermat",
-        "titleOriginal": "Formalizing Fermat's Last Theorem",
-        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
-        "source": "anthropic.com",
-        "score": 471,
-        "comments": 313,
-        "hnUrl": "https://news.ycombinator.com/item?id=49568506",
-        "date": "il y a 6 h"
+        "title": "Pourquoi les pays européens déplacent-ils leur or hors d'Amérique du Nord ?",
+        "titleOriginal": "Why are European countries moving their gold out of North America?",
+        "url": "https://www.bbc.com/news/articles/cvgyn8q8gqxo",
+        "source": "bbc.com",
+        "score": 8,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49573455",
+        "date": "il y a 9 min"
       },
       {
         "title": "Découverte d'un nouveau tableau de messages d'agent OpenAI",
         "titleOriginal": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
         "source": "collusion.wiki",
-        "score": 1462,
-        "comments": 1176,
+        "score": 1600,
+        "comments": 1259,
         "hnUrl": "https://news.ycombinator.com/item?id=49563355",
-        "date": "il y a 13 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Statichost.eu – Hébergement européen de sites statiques",
-        "titleOriginal": "Statichost.eu – European static site hosting",
-        "url": "https://www.statichost.eu/",
-        "source": "statichost.eu",
-        "score": 168,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=49569896",
-        "date": "il y a 4 h"
+        "title": "Formalisation du dernier théorème de Fermat",
+        "titleOriginal": "Formalizing Fermat's Last Theorem",
+        "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+        "source": "anthropic.com",
+        "score": 565,
+        "comments": 351,
+        "hnUrl": "https://news.ycombinator.com/item?id=49568506",
+        "date": "il y a 11 h"
       }
     ]
   },
