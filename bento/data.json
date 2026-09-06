@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-05T22:35:16.367Z",
+  "updatedAt": "2026-09-06T00:30:29.647Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
+      "temp": 15,
+      "feelsLike": 14,
       "code": 0,
       "wind": 2,
-      "humidity": 66
+      "humidity": 73
     },
     "forecast": [
       {
@@ -42,17 +42,9 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 146883,
+        "viewers": 124193,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 133,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -61,7 +53,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -189,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les vrais luxes de la vie",
-        "titleOriginal": "The Real Luxuries In Life",
-        "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
-        "source": "feld.com",
-        "score": 383,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=49578866",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Explosion à temps fini pour une équation de Navier-Stokes tridimensionnelle moyennée (2014)",
-        "titleOriginal": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-        "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-        "source": "terrytao.wordpress.com",
-        "score": 42,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49580329",
-        "date": "il y a 2 h"
+        "title": "Cloud in a Bottle : rendre l'auto-hébergement accessible à tous",
+        "titleOriginal": "Cloud in a Bottle: making self-hosting accessible to everyone",
+        "url": "https://cloudinabottle.org/blog/launch-post",
+        "source": "cloudinabottle.org",
+        "score": 18,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49582000",
+        "date": "il y a 26 min"
       },
       {
         "title": "La fusée privée allemande entre dans l'histoire, atteint son orbite depuis le sol européen",
         "titleOriginal": "Private German rocket makes history, reaches orbit from European soil",
         "url": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
         "source": "space.com",
-        "score": 191,
-        "comments": 80,
+        "score": 324,
+        "comments": 167,
         "hnUrl": "https://news.ycombinator.com/item?id=49580369",
-        "date": "il y a 2 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Lazygit",
-        "titleOriginal": "Lazygit",
-        "url": "https://lazygit.dev/",
-        "source": "lazygit.dev",
-        "score": 20,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49580702",
-        "date": "il y a 1 h"
+        "title": "Apprendre la programmation avec OCaml",
+        "titleOriginal": "Learn Programming with OCaml",
+        "url": "https://usr.lmf.cnrs.fr/lpo/",
+        "source": "usr.lmf.cnrs.fr",
+        "score": 160,
+        "comments": 69,
+        "hnUrl": "https://news.ycombinator.com/item?id=49578280",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "La révolte du lecteur",
+        "titleOriginal": "The revolt of the reader",
+        "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+        "source": "bcantrill.dtrace.org",
+        "score": 37,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49580939",
+        "date": "il y a 2 h"
       }
     ]
   },
