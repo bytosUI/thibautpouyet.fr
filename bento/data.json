@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-06T13:20:44.159Z",
+  "updatedAt": "2026-09-06T16:22:16.859Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
+      "temp": 28,
       "feelsLike": 26,
       "code": 3,
-      "wind": 8,
-      "humidity": 31
+      "wind": 7,
+      "humidity": 24
     },
     "forecast": [
       {
@@ -18,20 +18,20 @@
       },
       {
         "date": "2026-09-07",
-        "code": 3,
+        "code": 80,
         "tmax": 29,
-        "tmin": 17
+        "tmin": 18
       },
       {
         "date": "2026-09-08",
         "code": 61,
-        "tmax": 24,
-        "tmin": 16
+        "tmax": 26,
+        "tmin": 18
       },
       {
         "date": "2026-09-09",
-        "code": 3,
-        "tmax": 21,
+        "code": 61,
+        "tmax": 19,
         "tmin": 12
       }
     ]
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 111257,
+        "viewers": 73979,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -59,6 +59,24 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "On s'est fait virer d'un magasin coréen. Ma faute ? 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "KzgX7e4u0q8",
+        "thumbnail": "https://i.ytimg.com/vi/KzgX7e4u0q8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KzgX7e4u0q8",
+        "publishedAt": "2026-09-06T16:00:25+00:00"
+      },
+      {
+        "title": "Booba clash Mcfly et Carlito anyme HD 1080",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "fLcXT7Y8A6g",
+        "thumbnail": "https://i.ytimg.com/vi/fLcXT7Y8A6g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fLcXT7Y8A6g",
+        "publishedAt": "2026-09-06T14:26:08+00:00"
+      },
       {
         "title": "NOS AVANCÉES SUR LE CHANTIER DEPUIS 1 MOIS !",
         "channel": "Rachel & Emilien - Rénovation",
@@ -78,15 +96,6 @@
         "publishedAt": "2026-09-06T09:00:06+00:00"
       },
       {
-        "title": "Salut les petits loulous, on prend le temps ensemble 👍👍👍(c’est Baghera, bagherajones sur les réseau)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "0PHUeNOsbKU",
-        "thumbnail": "https://i.ytimg.com/vi/0PHUeNOsbKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0PHUeNOsbKU",
-        "publishedAt": "2026-09-05T19:55:30+00:00"
-      },
-      {
         "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
@@ -103,15 +112,6 @@
         "thumbnail": "https://i.ytimg.com/vi/lXThGydqIss/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lXThGydqIss",
         "publishedAt": "2026-09-04T16:00:20+00:00"
-      },
-      {
-        "title": "Une journée en PVT en Corée à 29 ans",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "rDMuIvbgR8k",
-        "thumbnail": "https://i.ytimg.com/vi/rDMuIvbgR8k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rDMuIvbgR8k",
-        "publishedAt": "2026-08-30T16:15:37+00:00"
       },
       {
         "title": "Je n’ai plus d’eau ni de toilettes… #27",
@@ -182,13 +182,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "La mouche intellectuelle est ouverte",
-        "titleOriginal": "Intellectual Fly Is Open",
+        "title": "La mouche intellectuelle est ouverte (2025)",
+        "titleOriginal": "Intellectual Fly Is Open (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "source": "bcantrill.dtrace.org",
-        "score": 87,
-        "comments": 52,
+        "score": 275,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=49585644",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "QBittorrent sort du bac à sable pour commettre des crimes",
+        "titleOriginal": "QBittorrent breaks out of sandbox to commit crimes",
+        "url": "https://beige.party/@intransitivelie/117057396732763183",
+        "source": "beige.party",
+        "score": 278,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=49586171",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "A/I s'arrête – Restez humain",
+        "titleOriginal": "A/I shuts down – Stay human",
+        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+        "source": "keepitfree.ai",
+        "score": 231,
+        "comments": 110,
+        "hnUrl": "https://news.ycombinator.com/item?id=49586898",
         "date": "il y a 1 h"
       },
       {
@@ -196,30 +216,10 @@
         "titleOriginal": "Isar Aerospace reaches orbit and deploys payloads on second flight",
         "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
         "source": "isaraerospace.com",
-        "score": 315,
-        "comments": 82,
+        "score": 407,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49584083",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Doomscrolling Ourselves to Death",
-        "titleOriginal": "Doomscrolling Ourselves to Death",
-        "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-        "source": "edwest.co.uk",
-        "score": 52,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49585627",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "M-DISC – Disques compatibles DVD/Blu-ray pouvant durer jusqu'à 1000 ans",
-        "titleOriginal": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
-        "url": "https://en.wikipedia.org/wiki/M-DISC",
-        "source": "en.wikipedia.org",
-        "score": 64,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=49531619",
-        "date": "il y a 4 j"
+        "date": "il y a 9 h"
       }
     ]
   },
