@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-06T16:22:16.859Z",
+  "updatedAt": "2026-09-06T18:29:13.869Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 26,
+      "temp": 26,
+      "feelsLike": 24,
       "code": 3,
-      "wind": 7,
-      "humidity": 24
+      "wind": 6,
+      "humidity": 29
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-09-07",
-        "code": 80,
-        "tmax": 29,
-        "tmin": 18
+        "code": 3,
+        "tmax": 28,
+        "tmin": 17
       },
       {
         "date": "2026-09-08",
         "code": 61,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 18
       },
       {
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 73979,
+        "viewers": 182769,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La mouche intellectuelle est ouverte (2025)",
-        "titleOriginal": "Intellectual Fly Is Open (2025)",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-        "source": "bcantrill.dtrace.org",
-        "score": 275,
-        "comments": 150,
-        "hnUrl": "https://news.ycombinator.com/item?id=49585644",
-        "date": "il y a 4 h"
+        "title": "Suite à un avis juridique, le projet Nitter se poursuivra",
+        "titleOriginal": "Following legal advice, the Nitter project will continue",
+        "url": "https://github.com/zedeus/nitter",
+        "source": "github.com",
+        "score": 82,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49589003",
+        "date": "il y a 37 min"
       },
       {
         "title": "QBittorrent sort du bac à sable pour commettre des crimes",
         "titleOriginal": "QBittorrent breaks out of sandbox to commit crimes",
         "url": "https://beige.party/@intransitivelie/117057396732763183",
         "source": "beige.party",
-        "score": 278,
-        "comments": 40,
+        "score": 933,
+        "comments": 186,
         "hnUrl": "https://news.ycombinator.com/item?id=49586171",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "A/I s'arrête – Restez humain",
-        "titleOriginal": "A/I shuts down – Stay human",
-        "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-        "source": "keepitfree.ai",
-        "score": 231,
-        "comments": 110,
-        "hnUrl": "https://news.ycombinator.com/item?id=49586898",
-        "date": "il y a 1 h"
+        "title": "Votre mouche intellectuelle est ouverte (2025)",
+        "titleOriginal": "Your intellectual fly is open (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "source": "bcantrill.dtrace.org",
+        "score": 334,
+        "comments": 218,
+        "hnUrl": "https://news.ycombinator.com/item?id=49585644",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Isar Aerospace atteint l'orbite et déploie des charges utiles lors du deuxième vol",
-        "titleOriginal": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-        "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-        "source": "isaraerospace.com",
-        "score": 407,
-        "comments": 115,
-        "hnUrl": "https://news.ycombinator.com/item?id=49584083",
-        "date": "il y a 9 h"
+        "title": "NetBSD 9.5 publié et EOL pour NetBSD-9",
+        "titleOriginal": "NetBSD 9.5 released and EOL for NetBSD-9",
+        "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+        "source": "blog.netbsd.org",
+        "score": 61,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49587636",
+        "date": "il y a 2 h"
       }
     ]
   },
