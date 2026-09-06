@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-06T20:42:35.786Z",
+  "updatedAt": "2026-09-06T22:38:03.937Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
+      "temp": 22,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 4,
-      "humidity": 38
+      "wind": 6,
+      "humidity": 45
     },
     "forecast": [
       {
-        "date": "2026-09-06",
-        "code": 3,
-        "tmax": 28,
-        "tmin": 11
-      },
-      {
         "date": "2026-09-07",
         "code": 3,
-        "tmax": 29,
-        "tmin": 17
-      },
-      {
-        "date": "2026-09-08",
-        "code": 61,
-        "tmax": 24,
+        "tmax": 30,
         "tmin": 18
       },
       {
+        "date": "2026-09-08",
+        "code": 63,
+        "tmax": 26,
+        "tmin": 17
+      },
+      {
         "date": "2026-09-09",
-        "code": 61,
-        "tmax": 19,
+        "code": 3,
+        "tmax": 20,
         "tmin": 12
+      },
+      {
+        "date": "2026-09-10",
+        "code": 45,
+        "tmax": 22,
+        "tmin": 8
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "ZEVENT",
-        "viewers": 274073,
+        "viewers": 175273,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Nitter n'est pas archivé et continuera",
-        "titleOriginal": "Nitter is unarchived and will continue",
-        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-        "source": "github.com",
-        "score": 259,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=49588988",
+        "title": "GrapheneOS a révisé les applications par défaut et le presse-papiers sécurisé",
+        "titleOriginal": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+        "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+        "source": "grapheneos.social",
+        "score": 89,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49590512",
         "date": "il y a 2 h"
       },
       {
-        "title": "L'industrie automobile A/B a testé la vente d'une voiture avec et sans CarPlay",
-        "titleOriginal": "The car industry A/B tested selling a car with and without CarPlay",
-        "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-        "source": "a.wholelottanothing.org",
-        "score": 45,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49590225",
-        "date": "il y a 49 min"
+        "title": "Show HN : Mador – Rendez n'importe quel DOM réactif avec un minuscule tuple d'état proxy de 80 lignes",
+        "titleOriginal": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "url": "https://github.com/marsbos/mador",
+        "source": "github.com",
+        "score": 44,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49590738",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Il a fallu un an pour expédier WebAssembly à Anubis",
+        "titleOriginal": "It took a year to ship WebAssembly in Anubis",
+        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+        "source": "anubis.techaro.lol",
+        "score": 87,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49590611",
+        "date": "il y a 2 h"
       },
       {
         "title": "Votre mouche intellectuelle est ouverte (2025)",
         "titleOriginal": "Your intellectual fly is open (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "source": "bcantrill.dtrace.org",
-        "score": 396,
-        "comments": 263,
+        "score": 455,
+        "comments": 292,
         "hnUrl": "https://news.ycombinator.com/item?id=49585644",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "NetBSD 9.5 publié et EOL pour NetBSD-9",
-        "titleOriginal": "NetBSD 9.5 released and EOL for NetBSD-9",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-        "source": "blog.netbsd.org",
-        "score": 85,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49587636",
-        "date": "il y a 4 h"
+        "date": "il y a 10 h"
       }
     ]
   },
