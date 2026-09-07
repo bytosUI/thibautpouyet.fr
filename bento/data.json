@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-07T11:21:54.589Z",
+  "updatedAt": "2026-09-07T16:35:29.114Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 29,
-      "feelsLike": 29,
-      "code": 2,
-      "wind": 17,
-      "humidity": 45
+      "feelsLike": 28,
+      "code": 1,
+      "wind": 15,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -20,19 +20,19 @@
         "date": "2026-09-08",
         "code": 61,
         "tmax": 27,
-        "tmin": 17
+        "tmin": 18
       },
       {
         "date": "2026-09-09",
-        "code": 3,
+        "code": 61,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 13
       },
       {
         "date": "2026-09-10",
-        "code": 2,
-        "tmax": 22,
-        "tmin": 8
+        "code": 3,
+        "tmax": 21,
+        "tmin": 9
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "L'ÉRECTION MATINALE EXLIQUÉE PAR LA SCIENCE",
+        "title": "ON MANGE 40 TONNES DE NOURRITURE DANS UNE VIE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "cbYvNNWbt94",
-        "thumbnail": "https://i.ytimg.com/vi/cbYvNNWbt94/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cbYvNNWbt94",
-        "publishedAt": "2026-09-07T11:00:00+00:00"
+        "videoId": "w4zAYrWC_6A",
+        "thumbnail": "https://i.ytimg.com/vi/w4zAYrWC_6A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w4zAYrWC_6A",
+        "publishedAt": "2026-09-07T16:00:11+00:00"
+      },
+      {
+        "title": "SaaS Apocalypse : Pourquoi Wall Street s'est planté !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "BN1BVZRT1Ho",
+        "thumbnail": "https://i.ytimg.com/vi/BN1BVZRT1Ho/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BN1BVZRT1Ho",
+        "publishedAt": "2026-09-07T16:00:09+00:00"
       },
       {
         "title": "On s'est fait virer d'un magasin coréen. Ma faute ? 🇰🇷",
@@ -95,15 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
         "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Le fiasco des serveurs de l'Etat : Analyse d'une faille systémique !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "lXThGydqIss",
-        "thumbnail": "https://i.ytimg.com/vi/lXThGydqIss/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lXThGydqIss",
-        "publishedAt": "2026-09-04T16:00:20+00:00"
       },
       {
         "title": "Je n’ai plus d’eau ni de toilettes… #27",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "bzip3",
+        "titleOriginal": "bzip3",
+        "url": "https://github.com/iczelia/bzip3",
+        "source": "github.com",
+        "score": 151,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49598291",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Vacances De-Brainrot",
+        "titleOriginal": "De-Brainrot Vacations",
+        "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+        "source": "devz.cl",
+        "score": 316,
+        "comments": 136,
+        "hnUrl": "https://news.ycombinator.com/item?id=49597907",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Maintenir le fonctionnement de nos serveurs",
         "titleOriginal": "Keep Our Servers Running",
         "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
         "source": "blog.archive.org",
-        "score": 542,
-        "comments": 114,
+        "score": 771,
+        "comments": 196,
         "hnUrl": "https://news.ycombinator.com/item?id=49593563",
-        "date": "il y a 7 h"
+        "date": "il y a 13 h"
       },
       {
         "title": "Caltech Mathathon – premier hackathon jamais consacré aux mathématiques de niveau recherche",
         "titleOriginal": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
         "url": "https://mathathonchallenge.com/index.html",
         "source": "mathathonchallenge.com",
-        "score": 30,
-        "comments": 1,
+        "score": 135,
+        "comments": 29,
         "hnUrl": "https://news.ycombinator.com/item?id=49596055",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Carte en direct des transports publics en Belgique",
-        "titleOriginal": "Live map of public transport in Belgium",
-        "url": "https://openbaarvervoerbelgie.be/",
-        "source": "openbaarvervoerbelgie.be",
-        "score": 49,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49595865",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Décodage spéculatif dans vLLM sur GPU AMD",
-        "titleOriginal": "Speculative Decoding in vLLM on AMD GPUs",
-        "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-        "source": "vllm.ai",
-        "score": 24,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49596054",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       }
     ]
   },
