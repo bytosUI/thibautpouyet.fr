@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-06T22:38:03.937Z",
+  "updatedAt": "2026-09-07T00:37:42.898Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 6,
-      "humidity": 45
+      "wind": 5,
+      "humidity": 54
     },
     "forecast": [
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "ZEVENT",
-        "viewers": 175273,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -186,40 +178,40 @@
         "titleOriginal": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
         "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
         "source": "grapheneos.social",
-        "score": 89,
-        "comments": 26,
+        "score": 165,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49590512",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Show HN : Mador – Rendez n'importe quel DOM réactif avec un minuscule tuple d'état proxy de 80 lignes",
-        "titleOriginal": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-        "url": "https://github.com/marsbos/mador",
-        "source": "github.com",
-        "score": 44,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49590738",
+        "title": "Création d'un interpréteur Python en 1024 octets",
+        "titleOriginal": "Making a Python interpreter in 1024 bytes",
+        "url": "https://austinhenley.com/blog/python1024.html",
+        "source": "austinhenley.com",
+        "score": 46,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49591876",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Il a fallu un an pour expédier WebAssembly à Anubis",
-        "titleOriginal": "It took a year to ship WebAssembly in Anubis",
-        "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-        "source": "anubis.techaro.lol",
-        "score": 87,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=49590611",
-        "date": "il y a 2 h"
       },
       {
         "title": "Votre mouche intellectuelle est ouverte (2025)",
         "titleOriginal": "Your intellectual fly is open (2025)",
         "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
         "source": "bcantrill.dtrace.org",
-        "score": 455,
-        "comments": 292,
+        "score": 501,
+        "comments": 321,
         "hnUrl": "https://news.ycombinator.com/item?id=49585644",
-        "date": "il y a 10 h"
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Show HN : Mador – Rendez n'importe quel DOM réactif avec un minuscule tuple d'état proxy de 80 lignes",
+        "titleOriginal": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+        "url": "https://github.com/marsbos/mador",
+        "source": "github.com",
+        "score": 61,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49590738",
+        "date": "il y a 3 h"
       }
     ]
   },
