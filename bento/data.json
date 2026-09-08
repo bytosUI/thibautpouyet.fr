@@ -1,45 +1,53 @@
 {
-  "updatedAt": "2026-09-08T14:41:35.483Z",
+  "updatedAt": "2026-09-08T18:14:55.266Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 28,
-      "feelsLike": 25,
-      "code": 3,
-      "wind": 20,
-      "humidity": 39
+      "temp": 24,
+      "feelsLike": 21,
+      "code": 61,
+      "wind": 25,
+      "humidity": 52
     },
     "forecast": [
       {
         "date": "2026-09-08",
-        "code": 80,
+        "code": 61,
         "tmax": 28,
         "tmin": 17
       },
       {
         "date": "2026-09-09",
         "code": 3,
-        "tmax": 21,
-        "tmin": 12
+        "tmax": 22,
+        "tmin": 11
       },
       {
         "date": "2026-09-10",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 9
       },
       {
         "date": "2026-09-11",
         "code": 61,
-        "tmax": 21,
-        "tmin": 10
+        "tmax": 22,
+        "tmin": 11
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 22635,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,13 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "SON CAS LE PLUS EXTRÊME...UN ENFANT DE 10 ANS QUI PÈSE 100 KG",
+        "title": "NINO ARIAL, HUMORISTE : 2H DE FOU RIRE POUR SA PREMIÈRE INTERVIEW, SANS ABSOLUMENT AUCUN TABOU",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "7k3f4U7bm1Q",
-        "thumbnail": "https://i.ytimg.com/vi/7k3f4U7bm1Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7k3f4U7bm1Q",
-        "publishedAt": "2026-09-08T13:00:08+00:00"
+        "videoId": "kCtDEpn3zOw",
+        "thumbnail": "https://i.ytimg.com/vi/kCtDEpn3zOw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kCtDEpn3zOw",
+        "publishedAt": "2026-09-08T16:03:37+00:00"
+      },
+      {
+        "title": "On décortique ASTRA : La nouvelle claque d'OpenAl !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "lWNjEwGQWac",
+        "thumbnail": "https://i.ytimg.com/vi/lWNjEwGQWac/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lWNjEwGQWac",
+        "publishedAt": "2026-09-08T16:00:28+00:00"
+      },
+      {
+        "title": "On ouvre des cartes One Piece et Mastu garde tous les hits pour lui",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "luTEU4xa_E8",
+        "thumbnail": "https://i.ytimg.com/vi/luTEU4xa_E8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=luTEU4xa_E8",
+        "publishedAt": "2026-09-08T15:23:19+00:00"
       },
       {
         "title": "CE QU'ON CHANGERAIT EN FRANCE",
@@ -70,15 +96,6 @@
         "publishedAt": "2026-09-08T11:35:55+00:00"
       },
       {
-        "title": "SaaS Apocalypse : Pourquoi Wall Street s'est planté !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "BN1BVZRT1Ho",
-        "thumbnail": "https://i.ytimg.com/vi/BN1BVZRT1Ho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BN1BVZRT1Ho",
-        "publishedAt": "2026-09-07T16:00:09+00:00"
-      },
-      {
         "title": "On s'est fait virer d'un magasin coréen. Ma faute ? 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
@@ -86,15 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/KzgX7e4u0q8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KzgX7e4u0q8",
         "publishedAt": "2026-09-06T16:00:25+00:00"
-      },
-      {
-        "title": "Booba clash Mcfly et Carlito anyme HD 1080",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "fLcXT7Y8A6g",
-        "thumbnail": "https://i.ytimg.com/vi/fLcXT7Y8A6g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fLcXT7Y8A6g",
-        "publishedAt": "2026-09-06T14:26:08+00:00"
       },
       {
         "title": "NOS AVANCÉES SUR LE CHANTIER DEPUIS 1 MOIS !",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Google DeepMind publie AlphaGenome Atlas",
+        "titleOriginal": "Google DeepMind Releases AlphaGenome Atlas",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+        "source": "blog.google",
+        "score": 271,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=49611251",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "DaVinci Resolve 21.1",
         "titleOriginal": "DaVinci Resolve 21.1",
         "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
         "source": "blackmagicdesign.com",
-        "score": 75,
-        "comments": 23,
+        "score": 248,
+        "comments": 102,
         "hnUrl": "https://news.ycombinator.com/item?id=49610181",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Sur le problème du prix du millénaire Navier–Stokes",
+        "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
+        "url": "https://openai.com/index/navier-stokes-solution/",
+        "source": "openai.com",
+        "score": 346,
+        "comments": 220,
+        "hnUrl": "https://news.ycombinator.com/item?id=49613262",
         "date": "il y a 1 h"
       },
       {
-        "title": "Afficher HN : Copperhead – Matériel aussi rapide que le logiciel",
-        "titleOriginal": "Show HN: Copperhead – Hardware as Fast as Software",
-        "url": "https://copperhead.sh/",
-        "source": "copperhead.sh",
-        "score": 59,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=49610059",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "LibreOffice casse les enregistrements de téléchargement après avoir déclaré qu'il n'a pas de fonctionnalités d'IA",
-        "titleOriginal": "LibreOffice breaks download records after declaring it has no AI features",
-        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-        "source": "manualdousuario.net",
-        "score": 121,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49610538",
-        "date": "il y a 35 min"
-      },
-      {
-        "title": "Parmi les entreprises européennes qui utilisent un CDN, près de 9 sur 10 utilisent Cloudflare",
-        "titleOriginal": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-        "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-        "source": "ciphercue.com",
-        "score": 307,
-        "comments": 252,
-        "hnUrl": "https://news.ycombinator.com/item?id=49607443",
-        "date": "il y a 5 h"
+        "title": "Benchmarking Qwen3.8 27B quantifications : 4 bits résistent, 1 bit s'effondre",
+        "titleOriginal": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+        "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
+        "source": "quesma.com",
+        "score": 106,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=49611128",
+        "date": "il y a 3 h"
       }
     ]
   },
