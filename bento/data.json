@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-07T22:57:30.757Z",
+  "updatedAt": "2026-09-08T00:54:21.530Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 21,
-      "code": 0,
-      "wind": 7,
-      "humidity": 74
+      "temp": 19,
+      "feelsLike": 20,
+      "code": 1,
+      "wind": 8,
+      "humidity": 83
     },
     "forecast": [
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Regardez Los Angeles se construire, un bâtiment à la fois (1880–2026)",
+        "title": "TALA Is Open-Source",
+        "titleOriginal": "TALA Is Open-Source",
+        "url": "https://d2lang.com/blog/tala-is-open-source/",
+        "source": "d2lang.com",
+        "score": 38,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49604150",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Show HN : Stuxnet – Un code source reconstruit de l'infâme cyber-arme",
+        "titleOriginal": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+        "url": "https://github.com/Sadpainy/Stuxnet",
+        "source": "github.com",
+        "score": 51,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49603546",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
         "titleOriginal": "Watch Los Angeles get built, one building at a time (1880–2026)",
         "url": "https://lax-skyline.parcelscope.net/",
         "source": "lax-skyline.parcelscope.net",
-        "score": 165,
-        "comments": 70,
+        "score": 203,
+        "comments": 97,
         "hnUrl": "https://news.ycombinator.com/item?id=49601655",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Quitter VMware devient de plus en plus difficile après que Broadcom ait retiré les téléchargements VDDK",
+        "titleOriginal": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+        "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+        "source": "virtualizationhowto.com",
+        "score": 76,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49602699",
         "date": "il y a 4 h"
-      },
-      {
-        "title": "Attaque de confiance contre une distribution Linux entière",
-        "titleOriginal": "Trusting-Trust Attack against an Entire Linux Distribution",
-        "url": "https://arxiv.org/abs/2607.24888",
-        "source": "arxiv.org",
-        "score": 106,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49575515",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "MétéoSuivant 3",
-        "titleOriginal": "WeatherNext 3",
-        "url": "https://deepmind.google/science/weathernext/",
-        "source": "deepmind.google",
-        "score": 176,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=49552299",
-        "date": "il y a 4 j"
-      },
-      {
-        "title": "Scientists observe Einstein's gravity in the quantum world",
-        "titleOriginal": "Scientists observe Einstein's gravity in the quantum world",
-        "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-        "source": "ox.ac.uk",
-        "score": 87,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49569838",
-        "date": "il y a 3 j"
       }
     ]
   },
