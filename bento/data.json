@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-08T10:26:52.298Z",
+  "updatedAt": "2026-09-08T14:41:35.483Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 22,
+      "temp": 28,
+      "feelsLike": 25,
       "code": 3,
-      "wind": 19,
-      "humidity": 57
+      "wind": 20,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-09-09",
         "code": 3,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 12
       },
       {
@@ -37,22 +37,14 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Silver Pines",
-        "viewers": 162,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI IL NE FAUT JAMAIS FORCER UN ENFANT À FINIR SON ASSIETTE ?",
+        "title": "SON CAS LE PLUS EXTRÊME...UN ENFANT DE 10 ANS QUI PÈSE 100 KG",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "MW-DnpzqEaM",
-        "thumbnail": "https://i.ytimg.com/vi/MW-DnpzqEaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MW-DnpzqEaM",
-        "publishedAt": "2026-09-08T08:00:26+00:00"
+        "videoId": "7k3f4U7bm1Q",
+        "thumbnail": "https://i.ytimg.com/vi/7k3f4U7bm1Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7k3f4U7bm1Q",
+        "publishedAt": "2026-09-08T13:00:08+00:00"
       },
       {
-        "title": "On nous donne la France pendant 5 ans : voici ce qu’on fait",
+        "title": "CE QU'ON CHANGERAIT EN FRANCE",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "BabnRE1LY7Y",
-        "thumbnail": "https://i.ytimg.com/vi/BabnRE1LY7Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BabnRE1LY7Y",
-        "publishedAt": "2026-09-07T17:23:44+00:00"
+        "videoId": "emwEXyWusUE",
+        "thumbnail": "https://i.ytimg.com/vi/emwEXyWusUE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=emwEXyWusUE",
+        "publishedAt": "2026-09-08T11:35:55+00:00"
       },
       {
         "title": "SaaS Apocalypse : Pourquoi Wall Street s'est planté !",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "DaVinci Resolve 21.1",
+        "titleOriginal": "DaVinci Resolve 21.1",
+        "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+        "source": "blackmagicdesign.com",
+        "score": 75,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49610181",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Afficher HN : Copperhead – Matériel aussi rapide que le logiciel",
+        "titleOriginal": "Show HN: Copperhead – Hardware as Fast as Software",
+        "url": "https://copperhead.sh/",
+        "source": "copperhead.sh",
+        "score": 59,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=49610059",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "LibreOffice casse les enregistrements de téléchargement après avoir déclaré qu'il n'a pas de fonctionnalités d'IA",
+        "titleOriginal": "LibreOffice breaks download records after declaring it has no AI features",
+        "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+        "source": "manualdousuario.net",
+        "score": 121,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49610538",
+        "date": "il y a 35 min"
+      },
+      {
         "title": "Parmi les entreprises européennes qui utilisent un CDN, près de 9 sur 10 utilisent Cloudflare",
         "titleOriginal": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
         "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
         "source": "ciphercue.com",
-        "score": 87,
-        "comments": 90,
+        "score": 307,
+        "comments": 252,
         "hnUrl": "https://news.ycombinator.com/item?id=49607443",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Pourquoi se salir les mains est bon pour la santé",
-        "titleOriginal": "Why getting your hands dirty is good for you",
-        "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
-        "source": "bbc.com",
-        "score": 11,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49608023",
-        "date": "il y a 38 min"
-      },
-      {
-        "title": "Nous avons construit notre maison pour les fêtes LAN",
-        "titleOriginal": "We built our house for LAN parties",
-        "url": "https://lanparty.house/",
-        "source": "lanparty.house",
-        "score": 103,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49579443",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "J'ai pris en compte les clés RSA d'une autorité de certification des années 90",
-        "titleOriginal": "I've factored the RSA keys of a Certificate Authority from the 90s",
-        "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-        "source": "mcpherrin.ca",
-        "score": 340,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49604637",
-        "date": "il y a 9 h"
+        "date": "il y a 5 h"
       }
     ]
   },
