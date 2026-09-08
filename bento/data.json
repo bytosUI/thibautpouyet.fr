@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-08T18:14:55.266Z",
+  "updatedAt": "2026-09-08T21:18:07.891Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 21,
-      "code": 61,
-      "wind": 25,
-      "humidity": 52
+      "temp": 17,
+      "feelsLike": 15,
+      "code": 3,
+      "wind": 14,
+      "humidity": 71
     },
     "forecast": [
       {
@@ -19,13 +19,13 @@
       {
         "date": "2026-09-09",
         "code": 3,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 11
       },
       {
         "date": "2026-09-10",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 9
       },
       {
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 22635,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Kimi K3 (2,8T) à 1 jeton/s sur un MacBook Pro, en streaming à partir de quatre disques SSD",
+        "titleOriginal": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+        "url": "https://github.com/argonautlabsai/deltafin",
+        "source": "github.com",
+        "score": 81,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=49616257",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Google DeepMind publie AlphaGenome Atlas",
         "titleOriginal": "Google DeepMind Releases AlphaGenome Atlas",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
         "source": "blog.google",
-        "score": 271,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=49611251",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "DaVinci Resolve 21.1",
-        "titleOriginal": "DaVinci Resolve 21.1",
-        "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-        "source": "blackmagicdesign.com",
-        "score": 248,
+        "score": 413,
         "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=49610181",
-        "date": "il y a 4 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=49611251",
+        "date": "il y a 6 h"
       },
       {
         "title": "Sur le problème du prix du millénaire Navier–Stokes",
         "titleOriginal": "On the Navier–Stokes Millennium Prize Problem",
         "url": "https://openai.com/index/navier-stokes-solution/",
         "source": "openai.com",
-        "score": 346,
-        "comments": 220,
+        "score": 873,
+        "comments": 675,
         "hnUrl": "https://news.ycombinator.com/item?id=49613262",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Benchmarking Qwen3.8 27B quantifications : 4 bits résistent, 1 bit s'effondre",
-        "titleOriginal": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-        "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-        "source": "quesma.com",
-        "score": 106,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=49611128",
-        "date": "il y a 3 h"
+        "title": "Mercure 2.5",
+        "titleOriginal": "Mercury 2.5",
+        "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+        "source": "inceptionlabs.ai",
+        "score": 41,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49616354",
+        "date": "il y a 1 h"
       }
     ]
   },
