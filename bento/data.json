@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-09T15:46:19.912Z",
+  "updatedAt": "2026-09-09T19:00:29.334Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 18,
-      "code": 2,
-      "wind": 14,
-      "humidity": 37
+      "temp": 18,
+      "feelsLike": 15,
+      "code": 0,
+      "wind": 11,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-09-10",
-        "code": 1,
+        "code": 2,
         "tmax": 22,
         "tmin": 9
       },
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-09-12",
-        "code": 45,
+        "code": 2,
         "tmax": 25,
         "tmin": 12
       }
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "\"J'AI FAILLI COUCHER AVEC UN HOMME\"",
+        "title": "LES MOCHES ONT MOINS DE CHANCE DANS LA VIE QUE LES GENS BEAUX",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "rKjYY1X8Ez8",
-        "thumbnail": "https://i.ytimg.com/vi/rKjYY1X8Ez8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rKjYY1X8Ez8",
-        "publishedAt": "2026-09-09T14:00:04+00:00"
+        "videoId": "lxbKnj3C5_g",
+        "thumbnail": "https://i.ytimg.com/vi/lxbKnj3C5_g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lxbKnj3C5_g",
+        "publishedAt": "2026-09-09T16:00:20+00:00"
+      },
+      {
+        "title": "Voiture autonome : l’Europe a-t-elle déjà perdu la course ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "kxilOWvJ9ss",
+        "thumbnail": "https://i.ytimg.com/vi/kxilOWvJ9ss/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kxilOWvJ9ss",
+        "publishedAt": "2026-09-09T16:00:17+00:00"
       },
       {
         "title": "CE QU'ON N'OSE PLUS DIRE SUR LA FRANCE",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/oAc7RkTaoIg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oAc7RkTaoIg",
         "publishedAt": "2026-09-09T09:48:45+00:00"
-      },
-      {
-        "title": "On décortique ASTRA : La nouvelle claque d'OpenAl !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "lWNjEwGQWac",
-        "thumbnail": "https://i.ytimg.com/vi/lWNjEwGQWac/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lWNjEwGQWac",
-        "publishedAt": "2026-09-08T16:00:28+00:00"
       },
       {
         "title": "On ouvre des cartes One Piece et Mastu garde tous les hits pour lui",
@@ -178,40 +178,40 @@
         "titleOriginal": "Tailwind Labs is joining Shopify",
         "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
         "source": "tailwindcss.com",
-        "score": 373,
-        "comments": 144,
+        "score": 638,
+        "comments": 266,
         "hnUrl": "https://news.ycombinator.com/item?id=49626190",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Desert Ant Labs : modèles locaux et rapides qui s'exécutent sur l'appareil",
-        "titleOriginal": "Desert Ant Labs: local, fast models that run on device",
-        "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-        "source": "desertant.com",
-        "score": 207,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=49624823",
-        "date": "il y a 4 h"
+        "title": "Que font Visa et Mastercard ? Une introduction aux réseaux de cartes",
+        "titleOriginal": "What do Visa and Mastercard do? An intro to card networks",
+        "url": "https://tautology.town/2026/06/01/card-networks.html",
+        "source": "tautology.town",
+        "score": 93,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49614280",
+        "date": "hier"
       },
       {
-        "title": "Claude, change le bouton \"Ajouter au panier\" en bleu",
-        "titleOriginal": "Claude, change the \"Add to Cart\" button to blue",
-        "url": "https://opusfived.dev/",
-        "source": "opusfived.dev",
-        "score": 484,
-        "comments": 182,
-        "hnUrl": "https://news.ycombinator.com/item?id=49623754",
-        "date": "il y a 6 h"
+        "title": "Apple dévoile iPhone Duo",
+        "titleOriginal": "Apple Unveils iPhone Duo",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+        "source": "apple.com",
+        "score": 184,
+        "comments": 164,
+        "hnUrl": "https://news.ycombinator.com/item?id=49630964",
+        "date": "il y a 43 min"
       },
       {
-        "title": "Investir dans les mères ? L'impact à long terme d'une garde d'enfants universelle",
-        "titleOriginal": "Investing in Mothers? The Long-Run Impact of a Universal Child Care",
-        "url": "https://www.nber.org/papers/w35514",
-        "source": "nber.org",
-        "score": 12,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=49627655",
-        "date": "il y a 50 min"
+        "title": "Qwen 3.8 suit les pré-remplis de raisonnement GPT-5.5 Pro",
+        "titleOriginal": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+        "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+        "source": "gist.github.com",
+        "score": 62,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49630026",
+        "date": "il y a 1 h"
       }
     ]
   },
