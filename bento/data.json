@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-09T19:00:29.334Z",
+  "updatedAt": "2026-09-09T21:47:52.082Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 15,
+      "temp": 14,
+      "feelsLike": 13,
       "code": 0,
-      "wind": 11,
-      "humidity": 45
+      "wind": 4,
+      "humidity": 65
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-09-10",
-        "code": 2,
+        "code": 1,
         "tmax": 22,
         "tmin": 9
       },
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-09-12",
-        "code": 2,
+        "code": 45,
         "tmax": 25,
         "tmin": 12
       }
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Tailwind Labs rejoint Shopify",
-        "titleOriginal": "Tailwind Labs is joining Shopify",
+        "title": "iPhone Duo",
+        "titleOriginal": "iPhone Duo",
+        "url": "https://www.apple.com/iphone-duo/",
+        "source": "apple.com",
+        "score": 637,
+        "comments": 1323,
+        "hnUrl": "https://news.ycombinator.com/item?id=49630931",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "AirPods 5",
+        "titleOriginal": "AirPods 5",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+        "source": "apple.com",
+        "score": 292,
+        "comments": 232,
+        "hnUrl": "https://news.ycombinator.com/item?id=49630253",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Shopify acquiert Tailwind",
+        "titleOriginal": "Shopify acquires Tailwind",
         "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
         "source": "tailwindcss.com",
-        "score": 638,
-        "comments": 266,
+        "score": 788,
+        "comments": 319,
         "hnUrl": "https://news.ycombinator.com/item?id=49626190",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Que font Visa et Mastercard ? Une introduction aux réseaux de cartes",
         "titleOriginal": "What do Visa and Mastercard do? An intro to card networks",
         "url": "https://tautology.town/2026/06/01/card-networks.html",
         "source": "tautology.town",
-        "score": 93,
-        "comments": 29,
+        "score": 246,
+        "comments": 145,
         "hnUrl": "https://news.ycombinator.com/item?id=49614280",
         "date": "hier"
-      },
-      {
-        "title": "Apple dévoile iPhone Duo",
-        "titleOriginal": "Apple Unveils iPhone Duo",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-        "source": "apple.com",
-        "score": 184,
-        "comments": 164,
-        "hnUrl": "https://news.ycombinator.com/item?id=49630964",
-        "date": "il y a 43 min"
-      },
-      {
-        "title": "Qwen 3.8 suit les pré-remplis de raisonnement GPT-5.5 Pro",
-        "titleOriginal": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-        "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-        "source": "gist.github.com",
-        "score": 62,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49630026",
-        "date": "il y a 1 h"
       }
     ]
   },
