@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-08T23:30:16.722Z",
+  "updatedAt": "2026-09-09T01:26:33.214Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 0,
-      "wind": 11,
-      "humidity": 80
+      "temp": 13,
+      "feelsLike": 13,
+      "code": 1,
+      "wind": 7,
+      "humidity": 86
     },
     "forecast": [
       {
         "date": "2026-09-09",
         "code": 3,
-        "tmax": 21,
-        "tmin": 12
+        "tmax": 22,
+        "tmin": 11
       },
       {
         "date": "2026-09-10",
-        "code": 3,
-        "tmax": 23,
+        "code": 2,
+        "tmax": 22,
         "tmin": 9
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Muse – Agent IA personnel de Meta",
+        "titleOriginal": "Muse – Meta’s personal AI agent",
+        "url": "https://ai.meta.com/muse/",
+        "source": "ai.meta.com",
+        "score": 286,
+        "comments": 281,
+        "hnUrl": "https://news.ycombinator.com/item?id=49615537",
+        "date": "il y a 6 h"
+      },
+      {
         "title": "Les grands modèles linguistiques développent de nouveaux biais sociaux grâce à l'exploration adaptative",
         "titleOriginal": "Large language models develop novel social biases through adaptive exploration",
         "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
         "source": "openreview.net",
-        "score": 51,
-        "comments": 19,
+        "score": 88,
+        "comments": 45,
         "hnUrl": "https://news.ycombinator.com/item?id=49617581",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Google DeepMind publie AlphaGenome Atlas",
-        "titleOriginal": "Google DeepMind Releases AlphaGenome Atlas",
+        "title": "AlphaGenome Atlas : une carte haute résolution de l'ADN humain",
+        "titleOriginal": "AlphaGenome Atlas: a high-resolution map of human DNA",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
         "source": "blog.google",
-        "score": 471,
-        "comments": 113,
+        "score": 490,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49611251",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Comment construire une imprimante",
-        "titleOriginal": "How to build a printer",
-        "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-        "source": "nishantjosh.dev",
-        "score": 48,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=49617255",
-        "date": "il y a 2 h"
+        "date": "il y a 10 h"
       },
       {
         "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
         "titleOriginal": "Navier-Stokes – Tristan Buckmaster [pdf]",
         "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
         "source": "cims.nyu.edu",
-        "score": 1108,
-        "comments": 487,
+        "score": 1238,
+        "comments": 540,
         "hnUrl": "https://news.ycombinator.com/item?id=49605915",
-        "date": "il y a 17 h"
+        "date": "il y a 19 h"
       }
     ]
   },
