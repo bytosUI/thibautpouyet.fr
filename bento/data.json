@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-10T07:47:28.472Z",
+  "updatedAt": "2026-09-10T12:37:52.936Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 11,
-      "code": 0,
-      "wind": 2,
-      "humidity": 71
+      "temp": 21,
+      "feelsLike": 21,
+      "code": 1,
+      "wind": 1,
+      "humidity": 34
     },
     "forecast": [
       {
@@ -18,20 +18,20 @@
       },
       {
         "date": "2026-09-11",
-        "code": 61,
+        "code": 3,
         "tmax": 21,
         "tmin": 10
       },
       {
         "date": "2026-09-12",
-        "code": 80,
+        "code": 45,
         "tmax": 25,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-09-13",
-        "code": 3,
-        "tmax": 23,
+        "code": 61,
+        "tmax": 21,
         "tmin": 14
       }
     ]
@@ -39,16 +39,16 @@
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 446,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "viewers": 6893,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "EN PLEIN BURN-OUT, IL DÉCIDE D'ABANDONNER SON POSTE",
+        "title": "À 7 ANS, SA MÈRE L'A INSCRIT AU TANGO",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Ql7zjOpVnBo",
-        "thumbnail": "https://i.ytimg.com/vi/Ql7zjOpVnBo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ql7zjOpVnBo",
-        "publishedAt": "2026-09-10T07:00:01+00:00"
+        "videoId": "XlHe6D2CpS4",
+        "thumbnail": "https://i.ytimg.com/vi/XlHe6D2CpS4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XlHe6D2CpS4",
+        "publishedAt": "2026-09-10T12:00:13+00:00"
       },
       {
         "title": "Voiture autonome : l’Europe a-t-elle déjà perdu la course ?",
@@ -168,7 +168,7 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 16 sem",
+        "time": "il y a 17 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "iPhone Duo",
-        "titleOriginal": "iPhone Duo",
-        "url": "https://www.apple.com/iphone-duo/",
-        "source": "apple.com",
-        "score": 1158,
-        "comments": 2023,
-        "hnUrl": "https://news.ycombinator.com/item?id=49630931",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "« <g id=\"449\">Toutes les grandes personnes ont d’abord été des enfants mais peu d’entre elles s’en souviennent.</g>",
-        "titleOriginal": "All grown-ups were once children, but only few of them remember it",
-        "url": "https://mathstodon.xyz/@tao/117244102901892965",
-        "source": "mathstodon.xyz",
-        "score": 105,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49638280",
+        "title": "Quel algorithme Windows XP a-t-il utilisé pour choisir votre image utilisateur initiale ?",
+        "titleOriginal": "What algorithm did Windows XP use to choose your initial user picture?",
+        "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+        "source": "devblogs.microsoft.com",
+        "score": 141,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49640646",
         "date": "il y a 3 h"
       },
       {
-        "title": "Montrer HN : Et si la vitesse de la lumière était de 5 km/h ?",
-        "titleOriginal": "Show HN: What if the speed of light was 5 km/h?",
-        "url": "https://rivendell.dmitrybrant.com/relativity/",
-        "source": "rivendell.dmitrybrant.com",
-        "score": 254,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=49637385",
-        "date": "il y a 5 h"
+        "title": "Hitachi lance des chauffe-eau à pompe à chaleur CO2 avec des contrôles tarifaires respectueux de l'énergie solaire",
+        "titleOriginal": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+        "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+        "source": "pv-magazine.com",
+        "score": 23,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49627634",
+        "date": "il y a 21 h"
       },
       {
-        "title": "Poulpe rayé du Pacifique plus grand",
-        "titleOriginal": "Larger Pacific Striped Octopus",
-        "url": "https://en.wikipedia.org/wiki/Larger_Pacific_striped_octopus",
-        "source": "en.wikipedia.org",
-        "score": 32,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49621018",
-        "date": "hier"
+        "title": "Show HN : Les mêmes neuf abonnements de streaming coûtent 702 $ / an de plus qu'en 2021",
+        "titleOriginal": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+        "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+        "source": "honestlyranked.com",
+        "score": 162,
+        "comments": 152,
+        "hnUrl": "https://news.ycombinator.com/item?id=49641215",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Stockfish 19",
+        "titleOriginal": "Stockfish 19",
+        "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+        "source": "stockfishchess.org",
+        "score": 104,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49599992",
+        "date": "il y a 2 j"
       }
     ]
   },
