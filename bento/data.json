@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-10T19:26:03.217Z",
+  "updatedAt": "2026-09-10T21:44:19.421Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 15,
-      "code": 0,
-      "wind": 8,
-      "humidity": 52
+      "temp": 14,
+      "feelsLike": 13,
+      "code": 1,
+      "wind": 3,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -32,7 +32,7 @@
         "date": "2026-09-13",
         "code": 3,
         "tmax": 24,
-        "tmin": 14
+        "tmin": 13
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 37,
+        "viewers": 134,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -174,7 +174,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 18 sem",
+        "time": "il y a 19 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       }
     ]
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La rouille est un langage de niveau 1 chez Microsoft",
-        "titleOriginal": "Rust is tier-1 language at Microsoft",
-        "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-        "source": "rustfoundation.org",
-        "score": 447,
-        "comments": 247,
-        "hnUrl": "https://news.ycombinator.com/item?id=49643546",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "J'ai une théorie selon laquelle les logiciels rendent les gens fous",
-        "titleOriginal": "I have a theory that software drives people insane",
-        "url": "https://graybeard.ing/software-drives-people-insane/",
-        "source": "graybeard.ing",
-        "score": 202,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=49646181",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Cognition lance le nouveau modèle SWE-2, Rivaling Fable 5.1 et GPT-Astra",
         "titleOriginal": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
         "url": "https://cognition.com/blog/swe-2",
         "source": "cognition.com",
-        "score": 193,
-        "comments": 97,
+        "score": 300,
+        "comments": 125,
         "hnUrl": "https://news.ycombinator.com/item?id=49645443",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Plus de questions pour savoir si les chercheurs peuvent faire confiance à OpenAI avec des mathématiques non publiées",
         "titleOriginal": "More questions about whether researchers can trust OpenAI with unpublished math",
         "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
         "source": "mathstodon.xyz",
-        "score": 302,
-        "comments": 425,
+        "score": 466,
+        "comments": 509,
         "hnUrl": "https://news.ycombinator.com/item?id=49639408",
-        "date": "il y a 12 h"
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "La partie de Navier-Stokes dont personne ne parle",
+        "titleOriginal": "The part of Navier-Stokes no one is talking about",
+        "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+        "source": "johndcook.com",
+        "score": 17,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49650326",
+        "date": "il y a 21 min"
+      },
+      {
+        "title": "La NASA Color Trick était destinée à Mars. Maintenant, il dévoile l'art rupestre sur Terre",
+        "titleOriginal": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+        "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+        "source": "gizmodo.com",
+        "score": 213,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49645437",
+        "date": "il y a 6 h"
       }
     ]
   },
