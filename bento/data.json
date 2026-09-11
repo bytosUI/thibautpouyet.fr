@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-09-11T07:40:49.126Z",
+  "updatedAt": "2026-09-11T12:30:03.450Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
-      "code": 2,
-      "wind": 5,
-      "humidity": 73
+      "temp": 22,
+      "feelsLike": 20,
+      "code": 3,
+      "wind": 9,
+      "humidity": 44
     },
     "forecast": [
       {
         "date": "2026-09-11",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 10
       },
       {
         "date": "2026-09-12",
-        "code": 2,
-        "tmax": 26,
+        "code": 3,
+        "tmax": 25,
         "tmin": 11
       },
       {
         "date": "2026-09-13",
-        "code": 61,
-        "tmax": 23,
-        "tmin": 12
+        "code": 3,
+        "tmax": 24,
+        "tmin": 11
       },
       {
         "date": "2026-09-14",
         "code": 45,
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 16
       }
     ]
@@ -39,19 +39,19 @@
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
+        "user": "domingo",
+        "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 681,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "viewers": 5061,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,22 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "Sauver des vies ou sauver des emplois ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "8_dkQmzU3JE",
-        "thumbnail": "https://i.ytimg.com/vi/8_dkQmzU3JE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8_dkQmzU3JE",
-        "publishedAt": "2026-09-11T07:01:35+00:00"
-      },
-      {
-        "title": "DERMATOLOGUE : LES 10 ERREURS QU’ON FAIT TOUS AVEC NOTRE PEAU (ET NOS CHEVEUX)",
+        "title": "BRONZER DÉTRUIT VOTRE PEAU ! DÉCOUVREZ POURQUOI",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "56czlNoMQdQ",
-        "thumbnail": "https://i.ytimg.com/vi/56czlNoMQdQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=56czlNoMQdQ",
-        "publishedAt": "2026-09-10T22:18:47+00:00"
+        "videoId": "2ds_2-lJRsM",
+        "thumbnail": "https://i.ytimg.com/vi/2ds_2-lJRsM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2ds_2-lJRsM",
+        "publishedAt": "2026-09-11T12:00:16+00:00"
+      },
+      {
+        "title": "L’IA est trop dangereuse pour être centralisée !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "Q7JWOUFZpxE",
+        "thumbnail": "https://i.ytimg.com/vi/Q7JWOUFZpxE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q7JWOUFZpxE",
+        "publishedAt": "2026-09-11T11:01:43+00:00"
       },
       {
         "title": "On fait une chanson avec Artus devant 40.000 personnes (vloginho à la Défense Arena)",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Astra for Coding : Pourquoi recommençons-nous ?",
-        "titleOriginal": "Astra for Coding: Why Are We Doing This Again?",
-        "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-        "source": "lucumr.pocoo.org",
-        "score": 187,
-        "comments": 96,
-        "hnUrl": "https://news.ycombinator.com/item?id=49654229",
+        "title": "L'effet Waymo : comment l'IA rend discrètement la recherche moins collaborative",
+        "titleOriginal": "The Waymo effect: how AI is quietly making research less collaborative",
+        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+        "source": "researchagenda.news",
+        "score": 81,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=49656496",
         "date": "il y a 1 h"
       },
       {
-        "title": "Shopify passe de React Native à Swift et Kotlin",
-        "titleOriginal": "Shopify is moving from React Native back to Swift and Kotlin",
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "shopify.engineering",
-        "score": 997,
-        "comments": 681,
-        "hnUrl": "https://news.ycombinator.com/item?id=49643982",
-        "date": "il y a 17 h"
+        "title": "RTK rapporte des économies symboliques, mais nos repères de coûts ne sont pas d'accord",
+        "titleOriginal": "RTK reports token savings, but our cost benchmarks disagree",
+        "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+        "source": "quesma.com",
+        "score": 31,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49656471",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Nous avons remplacé MMAP par Io_uring dans notre moteur de requête Rust. Il est devenu plus lent",
-        "titleOriginal": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
-        "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
-        "source": "conviva.ai",
-        "score": 25,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=49653882",
-        "date": "il y a 2 h"
+        "title": "Rayonnement Tcherenkov - voyage plus vite que la lumière",
+        "titleOriginal": "Cherenkov Radiation - traveling faster than light",
+        "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+        "source": "iaea.org",
+        "score": 112,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49655286",
+        "date": "il y a 3 h"
       },
       {
-        "title": "L'application Gemini est maintenant disponible pour Windows",
-        "titleOriginal": "The Gemini app is now available for Windows",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-        "source": "blog.google",
-        "score": 30,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49653699",
-        "date": "il y a 2 h"
+        "title": "Claude n'est plus disponible pour les mineurs",
+        "titleOriginal": "Claude is no longer available for minors",
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "source": "support.claude.com",
+        "score": 123,
+        "comments": 154,
+        "hnUrl": "https://news.ycombinator.com/item?id=49656225",
+        "date": "il y a 1 h"
       }
     ]
   },
