@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-11T12:30:03.450Z",
+  "updatedAt": "2026-09-11T16:42:44.934Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
-      "code": 3,
-      "wind": 9,
-      "humidity": 44
+      "temp": 24,
+      "feelsLike": 22,
+      "code": 2,
+      "wind": 10,
+      "humidity": 36
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-09-12",
         "code": 3,
-        "tmax": 25,
-        "tmin": 11
+        "tmax": 26,
+        "tmin": 12
       },
       {
         "date": "2026-09-13",
         "code": 3,
         "tmax": 24,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-09-14",
-        "code": 45,
-        "tmax": 27,
-        "tmin": 16
+        "code": 3,
+        "tmax": 26,
+        "tmin": 17
       }
     ]
   },
@@ -41,8 +41,8 @@
       {
         "user": "domingo",
         "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 5061,
+        "game": "League of Legends",
+        "viewers": 9752,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,6 +60,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "On rencontre les acteurs d'Un p'tit truc en plus",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "oxktas7T-D8",
+        "thumbnail": "https://i.ytimg.com/vi/oxktas7T-D8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oxktas7T-D8",
+        "publishedAt": "2026-09-11T16:08:53+00:00"
+      },
+      {
+        "title": "Ce qu’on vous cache sur la démission chez Anthropic !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "S9FBeMvAiAM",
+        "thumbnail": "https://i.ytimg.com/vi/S9FBeMvAiAM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S9FBeMvAiAM",
+        "publishedAt": "2026-09-11T15:57:08+00:00"
+      },
+      {
         "title": "BRONZER DÉTRUIT VOTRE PEAU ! DÉCOUVREZ POURQUOI",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -67,24 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2ds_2-lJRsM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2ds_2-lJRsM",
         "publishedAt": "2026-09-11T12:00:16+00:00"
-      },
-      {
-        "title": "L’IA est trop dangereuse pour être centralisée !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Q7JWOUFZpxE",
-        "thumbnail": "https://i.ytimg.com/vi/Q7JWOUFZpxE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q7JWOUFZpxE",
-        "publishedAt": "2026-09-11T11:01:43+00:00"
-      },
-      {
-        "title": "On fait une chanson avec Artus devant 40.000 personnes (vloginho à la Défense Arena)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "x9e8hggcGhM",
-        "thumbnail": "https://i.ytimg.com/vi/x9e8hggcGhM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x9e8hggcGhM",
-        "publishedAt": "2026-09-10T15:22:38+00:00"
       },
       {
         "title": "CE QU'ON N'OSE PLUS DIRE SUR LA FRANCE",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'effet Waymo : comment l'IA rend discrètement la recherche moins collaborative",
-        "titleOriginal": "The Waymo effect: how AI is quietly making research less collaborative",
-        "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-        "source": "researchagenda.news",
-        "score": 81,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=49656496",
-        "date": "il y a 1 h"
+        "title": "Global Glacier Extinction Explorer",
+        "titleOriginal": "Global Glacier Extinction Explorer",
+        "url": "https://glacierextinction.com",
+        "source": "glacierextinction.com",
+        "score": 40,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49660576",
+        "date": "il y a 44 min"
       },
       {
-        "title": "RTK rapporte des économies symboliques, mais nos repères de coûts ne sont pas d'accord",
-        "titleOriginal": "RTK reports token savings, but our cost benchmarks disagree",
-        "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-        "source": "quesma.com",
-        "score": 31,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49656471",
-        "date": "il y a 1 h"
+        "title": "Multiplexeur basé sur Godot et Rust (vitres de terminal et plus)",
+        "titleOriginal": "Godot and Rust based multiplexer (terminal panes and more)",
+        "url": "https://github.com/godot-pty/gpty",
+        "source": "github.com",
+        "score": 19,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49660676",
+        "date": "il y a 39 min"
       },
       {
-        "title": "Rayonnement Tcherenkov - voyage plus vite que la lumière",
-        "titleOriginal": "Cherenkov Radiation - traveling faster than light",
-        "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-        "source": "iaea.org",
-        "score": 112,
-        "comments": 63,
-        "hnUrl": "https://news.ycombinator.com/item?id=49655286",
-        "date": "il y a 3 h"
+        "title": "Langages de programmation",
+        "titleOriginal": "Logo Programming Language",
+        "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
+        "source": "el.media.mit.edu",
+        "score": 106,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49622406",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Claude n'est plus disponible pour les mineurs",
-        "titleOriginal": "Claude is no longer available for minors",
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "source": "support.claude.com",
-        "score": 123,
-        "comments": 154,
-        "hnUrl": "https://news.ycombinator.com/item?id=49656225",
-        "date": "il y a 1 h"
+        "title": "La copie des porte-clés de connexion entre les Mac échoue sur les Mac Secure Enclave avec Tahoe",
+        "titleOriginal": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
+        "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
+        "source": "derflounder.wordpress.com",
+        "score": 24,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49651046",
+        "date": "il y a 18 h"
       }
     ]
   },
