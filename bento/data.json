@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-12T11:54:10.302Z",
+  "updatedAt": "2026-09-12T14:50:50.928Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
-      "code": 3,
+      "temp": 25,
+      "feelsLike": 24,
+      "code": 2,
       "wind": 9,
-      "humidity": 47
+      "humidity": 40
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-09-13",
-        "code": 3,
+        "code": 80,
         "tmax": 25,
-        "tmin": 13
+        "tmin": 14
       },
       {
         "date": "2026-09-14",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT RETIRER UN BOUTON BLANC SUR LA PEAU ?",
+        "title": "ON LE HARCÈLE TOUTE LA JOURNÉE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "CPlzmrhPxXY",
-        "thumbnail": "https://i.ytimg.com/vi/CPlzmrhPxXY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CPlzmrhPxXY",
-        "publishedAt": "2026-09-12T11:00:40+00:00"
+        "videoId": "GxMr6hwhtgw",
+        "thumbnail": "https://i.ytimg.com/vi/GxMr6hwhtgw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GxMr6hwhtgw",
+        "publishedAt": "2026-09-12T14:00:16+00:00"
       },
       {
         "title": "Les deux camps de l’IA sont en fait le même camp",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "IKEA a créé un mod pour Skyrim [vidéo]",
-        "titleOriginal": "IKEA made a mod for Skyrim [video]",
-        "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
-        "source": "youtube.com",
-        "score": 235,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49639647",
-        "date": "il y a 2 j"
+        "title": "Un cadre mathématique pour les circuits de transformateur (2021)",
+        "titleOriginal": "A Mathematical Framework for Transformer Circuits (2021)",
+        "url": "https://transformer-circuits.pub/2021/framework/index.html",
+        "source": "transformer-circuits.pub",
+        "score": 18,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49672365",
+        "date": "il y a 53 min"
       },
       {
-        "title": "Rétroconception rétrospective du moteur neuronal d'Apple",
-        "titleOriginal": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-        "url": "https://eiln.github.io/posts/ane.html",
-        "source": "eiln.github.io",
-        "score": 111,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49670032",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Un désalignement de l'IA en mathématiques",
-        "titleOriginal": "A misalignment of AI in mathematics",
-        "url": "https://mathandai.org/",
-        "source": "mathandai.org",
-        "score": 982,
-        "comments": 933,
-        "hnUrl": "https://news.ycombinator.com/item?id=49662371",
-        "date": "il y a 18 h"
+        "title": "Nous devons repousser les frontières",
+        "titleOriginal": "We Must Pace the Frontier",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "source": "darioamodei.com",
+        "score": 48,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49672510",
+        "date": "il y a 40 min"
       },
       {
         "title": "Putain, fais-le quand même",
         "titleOriginal": "Fuck it, make it anyway",
         "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
         "source": "joelotter.com",
-        "score": 5,
-        "comments": 0,
+        "score": 292,
+        "comments": 230,
         "hnUrl": "https://news.ycombinator.com/item?id=49671329",
-        "date": "il y a 11 min"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "IKEA a créé un mod pour Skyrim [vidéo]",
+        "titleOriginal": "IKEA made a mod for Skyrim [video]",
+        "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+        "source": "youtube.com",
+        "score": 348,
+        "comments": 74,
+        "hnUrl": "https://news.ycombinator.com/item?id=49639647",
+        "date": "il y a 2 j"
       }
     ]
   },
