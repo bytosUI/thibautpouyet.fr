@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-12T07:35:38.062Z",
+  "updatedAt": "2026-09-12T11:54:10.302Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 13,
-      "code": 1,
-      "wind": 0,
-      "humidity": 84
+      "temp": 24,
+      "feelsLike": 23,
+      "code": 3,
+      "wind": 9,
+      "humidity": 47
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-09-13",
         "code": 3,
-        "tmax": 24,
-        "tmin": 14
+        "tmax": 25,
+        "tmin": 13
       },
       {
         "date": "2026-09-14",
@@ -30,8 +30,8 @@
       },
       {
         "date": "2026-09-15",
-        "code": 45,
-        "tmax": 30,
+        "code": 80,
+        "tmax": 31,
         "tmin": 14
       }
     ]
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "« C’est fini »… mais il commande une Tesla",
+        "title": "COMMENT RETIRER UN BOUTON BLANC SUR LA PEAU ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "CPlzmrhPxXY",
+        "thumbnail": "https://i.ytimg.com/vi/CPlzmrhPxXY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CPlzmrhPxXY",
+        "publishedAt": "2026-09-12T11:00:40+00:00"
+      },
+      {
+        "title": "Les deux camps de l’IA sont en fait le même camp",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "1Jn8_J8AVgs",
-        "thumbnail": "https://i.ytimg.com/vi/1Jn8_J8AVgs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1Jn8_J8AVgs",
-        "publishedAt": "2026-09-12T07:01:29+00:00"
+        "videoId": "rYXt3Gv-KOs",
+        "thumbnail": "https://i.ytimg.com/vi/rYXt3Gv-KOs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rYXt3Gv-KOs",
+        "publishedAt": "2026-09-12T09:01:05+00:00"
       },
       {
         "title": "JE SUIS POUR L'IMMIGRATION EN FRANCE ?",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/oxktas7T-D8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oxktas7T-D8",
         "publishedAt": "2026-09-11T16:08:53+00:00"
-      },
-      {
-        "title": "BRONZER DÉTRUIT VOTRE PEAU ! DÉCOUVREZ POURQUOI",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "2ds_2-lJRsM",
-        "thumbnail": "https://i.ytimg.com/vi/2ds_2-lJRsM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2ds_2-lJRsM",
-        "publishedAt": "2026-09-11T12:00:16+00:00"
       },
       {
         "title": "On s'est fait virer d'un magasin coréen. Ma faute ? 🇰🇷",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "google.com/goto : la mise à jour anti-scraping de Google",
-        "titleOriginal": "google.com/goto: Google's anti-scraping update",
-        "url": "https://www.autom.dev/blog/google-search-goto-links",
-        "source": "autom.dev",
-        "score": 337,
-        "comments": 206,
-        "hnUrl": "https://news.ycombinator.com/item?id=49668386",
-        "date": "il y a 4 h"
+        "title": "IKEA a créé un mod pour Skyrim [vidéo]",
+        "titleOriginal": "IKEA made a mod for Skyrim [video]",
+        "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+        "source": "youtube.com",
+        "score": 235,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49639647",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Annonce Navier-Stokes",
-        "titleOriginal": "Navier-Stokes Announcement",
-        "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-        "source": "claymath.org",
-        "score": 100,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=49668706",
-        "date": "il y a 3 h"
+        "title": "Rétroconception rétrospective du moteur neuronal d'Apple",
+        "titleOriginal": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+        "url": "https://eiln.github.io/posts/ane.html",
+        "source": "eiln.github.io",
+        "score": 111,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49670032",
+        "date": "il y a 4 h"
       },
       {
         "title": "Un désalignement de l'IA en mathématiques",
         "titleOriginal": "A misalignment of AI in mathematics",
         "url": "https://mathandai.org/",
         "source": "mathandai.org",
-        "score": 844,
-        "comments": 832,
+        "score": 982,
+        "comments": 933,
         "hnUrl": "https://news.ycombinator.com/item?id=49662371",
-        "date": "il y a 13 h"
+        "date": "il y a 18 h"
       },
       {
-        "title": "Moteur de recherche d'archives Usenet Rewind",
-        "titleOriginal": "Usenet rewind archive search engine",
-        "url": "https://www.usenet-rewind.com/",
-        "source": "usenet-rewind.com",
-        "score": 43,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49668777",
-        "date": "il y a 3 h"
+        "title": "Putain, fais-le quand même",
+        "titleOriginal": "Fuck it, make it anyway",
+        "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+        "source": "joelotter.com",
+        "score": 5,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49671329",
+        "date": "il y a 11 min"
       }
     ]
   },
