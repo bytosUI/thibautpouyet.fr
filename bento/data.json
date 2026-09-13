@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-09-13T20:09:05.484Z",
+  "updatedAt": "2026-09-13T22:31:00.346Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 20,
+      "temp": 17,
+      "feelsLike": 19,
       "code": 2,
-      "wind": 3,
-      "humidity": 88
+      "wind": 2,
+      "humidity": 95
     },
     "forecast": [
-      {
-        "date": "2026-09-13",
-        "code": 61,
-        "tmax": 22,
-        "tmin": 15
-      },
       {
         "date": "2026-09-14",
         "code": 3,
@@ -26,13 +20,19 @@
         "date": "2026-09-15",
         "code": 3,
         "tmax": 31,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-09-16",
-        "code": 80,
-        "tmax": 20,
-        "tmin": 12
+        "code": 3,
+        "tmax": 23,
+        "tmin": 14
+      },
+      {
+        "date": "2026-09-17",
+        "code": 61,
+        "tmax": 21,
+        "tmin": 9
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Claude Fable 5.1 Résout le Cyphral Distich, un chiffre vieux de 370 ans",
+        "titleOriginal": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+        "source": "vals.ai",
+        "score": 173,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=49688695",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Mark Zuckerberg : \"Cambridge Analytica\" (2017)",
+        "titleOriginal": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+        "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+        "source": "twitter.com",
+        "score": 209,
+        "comments": 81,
+        "hnUrl": "https://news.ycombinator.com/item?id=49688157",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Pourquoi Google diffuse-t-il toujours des publicités douteuses ?",
         "titleOriginal": "Why is Google still serving dodgy ads?",
         "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
         "source": "atomic14.com",
-        "score": 253,
-        "comments": 116,
+        "score": 429,
+        "comments": 203,
         "hnUrl": "https://news.ycombinator.com/item?id=49686445",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
-        "title": "La pénurie mondiale a entraîné un rationnement de l'huile moteur chez Costco",
-        "titleOriginal": "Global Shortage Has Led to Motor Oil Rationing at Costco",
-        "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
-        "source": "guessingheadlights.com",
-        "score": 60,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=49686697",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Astra et Fable piratent toujours des variantes simples d'évals d'alignement à partir de 2025",
-        "titleOriginal": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-        "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-        "source": "lesswrong.com",
-        "score": 282,
-        "comments": 125,
-        "hnUrl": "https://news.ycombinator.com/item?id=49684393",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Données collectées par Cars et vendues à des tiers",
-        "titleOriginal": "Data collected by cars and sold to third parties",
-        "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-        "source": "theverge.com",
-        "score": 163,
-        "comments": 97,
-        "hnUrl": "https://news.ycombinator.com/item?id=49683953",
-        "date": "il y a 6 h"
+        "title": "Julia 1.13 Points forts",
+        "titleOriginal": "Julia 1.13 Highlights",
+        "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+        "source": "julialang.org",
+        "score": 99,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49642645",
+        "date": "il y a 3 j"
       }
     ]
   },
