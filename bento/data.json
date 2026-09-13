@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-12T22:26:25.540Z",
+  "updatedAt": "2026-09-13T00:06:52.293Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
+      "temp": 15,
+      "feelsLike": 15,
       "code": 2,
-      "wind": 3,
-      "humidity": 68
+      "wind": 1,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 195,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "Make your first edit to OpenStreetMap",
         "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
         "source": "high5apps.github.io",
-        "score": 239,
-        "comments": 66,
+        "score": 294,
+        "comments": 70,
         "hnUrl": "https://news.ycombinator.com/item?id=49674050",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Nvidia est la banque centrale de l'IA",
         "titleOriginal": "Nvidia is the central bank of AI",
         "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
         "source": "economist.com",
-        "score": 320,
-        "comments": 218,
+        "score": 364,
+        "comments": 251,
         "hnUrl": "https://news.ycombinator.com/item?id=49673098",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Real-SWE : Analyse comparative des modèles d'IA sur des bases de code privées, réelles et d'entreprise",
-        "titleOriginal": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-        "url": "https://withspecific.com/benchmarks/real-swe",
-        "source": "withspecific.com",
-        "score": 38,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49676820",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       },
       {
         "title": "Apple iPod Engraver (2019)",
         "titleOriginal": "Apple iPod Engraver (2019)",
         "url": "https://dunstanorchard.com/apple-ipod-engraver/",
         "source": "dunstanorchard.com",
-        "score": 44,
-        "comments": 4,
+        "score": 90,
+        "comments": 15,
         "hnUrl": "https://news.ycombinator.com/item?id=49619848",
         "date": "il y a 3 j"
+      },
+      {
+        "title": "Récupération de 50 Go/s à partir du Neural Engine d'Apple",
+        "titleOriginal": "Getting 50 GB/S Back from the Apple Neural Engine",
+        "url": "https://eiln.github.io/posts/ane-dma.html",
+        "source": "eiln.github.io",
+        "score": 46,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49636479",
+        "date": "il y a 2 j"
       }
     ]
   },
