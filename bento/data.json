@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-13T00:06:52.293Z",
+  "updatedAt": "2026-09-13T05:06:06.692Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 15,
       "feelsLike": 15,
-      "code": 2,
-      "wind": 1,
-      "humidity": 76
+      "code": 3,
+      "wind": 2,
+      "humidity": 78
     },
     "forecast": [
       {
         "date": "2026-09-13",
         "code": 3,
-        "tmax": 25,
-        "tmin": 13
+        "tmax": 24,
+        "tmin": 15
       },
       {
         "date": "2026-09-14",
@@ -32,7 +32,7 @@
         "date": "2026-09-16",
         "code": 80,
         "tmax": 20,
-        "tmin": 12
+        "tmin": 13
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "IL VIT DANS UNE MAISON AUTONOME À 100 % ET NE PAIE PLUS AUCUNE FACTURE DEPUIS 40 ANS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "6MpHa7vHsTU",
-        "thumbnail": "https://i.ytimg.com/vi/6MpHa7vHsTU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6MpHa7vHsTU",
-        "publishedAt": "2026-09-12T16:33:25+00:00"
-      },
-      {
-        "title": "FIN DES OQTF = PLUS DE PRISONS ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "bqXcpzHOdJg",
-        "thumbnail": "https://i.ytimg.com/vi/bqXcpzHOdJg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bqXcpzHOdJg",
-        "publishedAt": "2026-09-12T16:22:31+00:00"
-      },
-      {
-        "title": "Les deux camps de l’IA sont en fait le même camp",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "rYXt3Gv-KOs",
-        "thumbnail": "https://i.ytimg.com/vi/rYXt3Gv-KOs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rYXt3Gv-KOs",
-        "publishedAt": "2026-09-12T09:01:05+00:00"
-      },
-      {
-        "title": "On rencontre les acteurs d'Un p'tit truc en plus",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "oxktas7T-D8",
-        "thumbnail": "https://i.ytimg.com/vi/oxktas7T-D8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oxktas7T-D8",
-        "publishedAt": "2026-09-11T16:08:53+00:00"
-      },
-      {
-        "title": "On s'est fait virer d'un magasin coréen. Ma faute ? 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "KzgX7e4u0q8",
-        "thumbnail": "https://i.ytimg.com/vi/KzgX7e4u0q8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KzgX7e4u0q8",
-        "publishedAt": "2026-09-06T16:00:25+00:00"
-      },
-      {
-        "title": "NOS AVANCÉES SUR LE CHANTIER DEPUIS 1 MOIS !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "M_0ndrKDfN4",
-        "thumbnail": "https://i.ytimg.com/vi/M_0ndrKDfN4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M_0ndrKDfN4",
-        "publishedAt": "2026-09-06T11:18:53+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Je n’ai plus d’eau ni de toilettes… #27",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "m32Pngr5-5M",
-        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
-        "publishedAt": "2026-08-30T15:17:13+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le musée provisoire de l'informatique",
+        "titleOriginal": "The Interim Computer Museum",
+        "url": "https://icm.museum/",
+        "source": "icm.museum",
+        "score": 49,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49679459",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Effectuez votre première modification sur OpenStreetMap",
         "titleOriginal": "Make your first edit to OpenStreetMap",
         "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
         "source": "high5apps.github.io",
-        "score": 294,
-        "comments": 70,
+        "score": 385,
+        "comments": 89,
         "hnUrl": "https://news.ycombinator.com/item?id=49674050",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Nvidia est la banque centrale de l'IA",
-        "titleOriginal": "Nvidia is the central bank of AI",
-        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-        "source": "economist.com",
-        "score": 364,
-        "comments": 251,
-        "hnUrl": "https://news.ycombinator.com/item?id=49673098",
+        "title": "Real-SWE : Analyse comparative des modèles d'IA sur des bases de code privées, réelles et d'entreprise",
+        "titleOriginal": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "source": "withspecific.com",
+        "score": 174,
+        "comments": 97,
+        "hnUrl": "https://news.ycombinator.com/item?id=49676820",
         "date": "il y a 8 h"
       },
       {
-        "title": "Apple iPod Engraver (2019)",
-        "titleOriginal": "Apple iPod Engraver (2019)",
-        "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-        "source": "dunstanorchard.com",
-        "score": 90,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49619848",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Récupération de 50 Go/s à partir du Neural Engine d'Apple",
-        "titleOriginal": "Getting 50 GB/S Back from the Apple Neural Engine",
-        "url": "https://eiln.github.io/posts/ane-dma.html",
-        "source": "eiln.github.io",
-        "score": 46,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49636479",
-        "date": "il y a 2 j"
+        "title": "La crise de succession qui a déchiré l'Angleterre",
+        "titleOriginal": "The Succession Crisis That Tore England Apart",
+        "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
+        "source": "historytoday.com",
+        "score": 11,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49679647",
+        "date": "il y a 1 h"
       }
     ]
   },
