@@ -1,30 +1,30 @@
 {
-  "updatedAt": "2026-09-13T10:26:08.010Z",
+  "updatedAt": "2026-09-13T14:32:01.338Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
-      "code": 3,
-      "wind": 8,
-      "humidity": 56
+      "temp": 21,
+      "feelsLike": 22,
+      "code": 61,
+      "wind": 10,
+      "humidity": 72
     },
     "forecast": [
       {
         "date": "2026-09-13",
         "code": 61,
-        "tmax": 24,
+        "tmax": 22,
         "tmin": 15
       },
       {
         "date": "2026-09-14",
         "code": 45,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 17
       },
       {
         "date": "2026-09-15",
-        "code": 3,
+        "code": 45,
         "tmax": 32,
         "tmin": 15
       },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "MAISON AUTONOME : IL N'A PAS PAYÉ UNE FACTURE D'ÉLECTRICITÉ DEPUIS 40 ANS ! DÉCOUVREZ COMMENT",
+        "title": "MAISON AUTONOME : IL A TOUT QUITTÉ POUR \"NE PLUS PERDRE SA VIE À LA GAGNER\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "cy_2FncksEY",
-        "thumbnail": "https://i.ytimg.com/vi/cy_2FncksEY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cy_2FncksEY",
-        "publishedAt": "2026-09-13T10:00:40+00:00"
+        "videoId": "GPfNSEa7xhk",
+        "thumbnail": "https://i.ytimg.com/vi/GPfNSEa7xhk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GPfNSEa7xhk",
+        "publishedAt": "2026-09-13T14:00:12+00:00"
       },
       {
         "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Un travailleur de Flock appelle la police sur un journaliste filmant l'installation d'une caméra publique",
+        "titleOriginal": "Flock worker calls police on reporter filming public camera installation",
+        "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+        "source": "investigatetv.com",
+        "score": 86,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49683853",
+        "date": "il y a 56 min"
+      },
+      {
         "title": "JetKVM Mini",
         "titleOriginal": "JetKVM Mini",
         "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
         "source": "jetkvm.com",
-        "score": 107,
-        "comments": 60,
+        "score": 295,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49681152",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Les « empreintes digitales » à l'intérieur du Soleil pourraient révéler s'il avalait une fois une planète",
+        "titleOriginal": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+        "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+        "source": "ras.ac.uk",
+        "score": 31,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49683033",
         "date": "il y a 2 h"
       },
       {
-        "title": "Navigateur Norton Neo",
-        "titleOriginal": "Norton Neo Browser",
-        "url": "https://neobrowser.ai/",
-        "source": "neobrowser.ai",
-        "score": 18,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49681724",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Pourquoi les agents de l'IA mentent-ils, trichent-ils et coordonnent-ils ?",
-        "titleOriginal": "Why are AI agents lying, cheating and coordinating?",
-        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "source": "yoshuabengio.org",
-        "score": 225,
-        "comments": 297,
-        "hnUrl": "https://news.ycombinator.com/item?id=49678969",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Le musée provisoire de l'informatique",
-        "titleOriginal": "The Interim Computer Museum",
-        "url": "https://icm.museum/",
-        "source": "icm.museum",
-        "score": 114,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49679459",
-        "date": "il y a 7 h"
+        "title": "TailTalk : une pile AppleTalk d'espace utilisateur asynchrone moderne avec Rust et Tokio",
+        "titleOriginal": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+        "url": "https://github.com/FeralFirmware/TailTalk/",
+        "source": "github.com",
+        "score": 22,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49678423",
+        "date": "il y a 14 h"
       }
     ]
   },
