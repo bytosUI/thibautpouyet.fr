@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-14T11:31:30.381Z",
+  "updatedAt": "2026-09-14T17:27:24.113Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 25,
-      "feelsLike": 27,
-      "code": 3,
-      "wind": 2,
-      "humidity": 55
+      "temp": 27,
+      "feelsLike": 28,
+      "code": 1,
+      "wind": 1,
+      "humidity": 46
     },
     "forecast": [
       {
         "date": "2026-09-14",
         "code": 45,
-        "tmax": 27,
+        "tmax": 28,
         "tmin": 16
       },
       {
         "date": "2026-09-15",
         "code": 3,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 16
       },
       {
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-09-17",
-        "code": 3,
-        "tmax": 21,
-        "tmin": 11
+        "code": 61,
+        "tmax": 20,
+        "tmin": 10
       }
     ]
   },
@@ -52,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "MAISON AUTONOME : ILS VIVENT AVEC 3 KWH / JOUR",
+        "title": "IL FILTRE SON EAU LUI-MÊME, BIEN MIEUX QUE LES STATIONS D'ÉPURATION !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "kv_-3G0Wkhk",
-        "thumbnail": "https://i.ytimg.com/vi/kv_-3G0Wkhk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kv_-3G0Wkhk",
-        "publishedAt": "2026-09-14T11:00:07+00:00"
+        "videoId": "dPwdCv4F26U",
+        "thumbnail": "https://i.ytimg.com/vi/dPwdCv4F26U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dPwdCv4F26U",
+        "publishedAt": "2026-09-14T17:00:21+00:00"
+      },
+      {
+        "title": "On se baigne dans les bains du Racing 92",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "wxVss0zYgPo",
+        "thumbnail": "https://i.ytimg.com/vi/wxVss0zYgPo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wxVss0zYgPo",
+        "publishedAt": "2026-09-14T16:23:20+00:00"
+      },
+      {
+        "title": "Anthropic, OpenAI, Musk : pourquoi ils annoncent le pire !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "aEKgSrRguA0",
+        "thumbnail": "https://i.ytimg.com/vi/aEKgSrRguA0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aEKgSrRguA0",
+        "publishedAt": "2026-09-14T16:00:06+00:00"
       },
       {
         "title": "UN IMPÔT UNIQUE EN FRANCE ?",
@@ -86,24 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
         "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Les deux camps de l’IA sont en fait le même camp",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "rYXt3Gv-KOs",
-        "thumbnail": "https://i.ytimg.com/vi/rYXt3Gv-KOs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rYXt3Gv-KOs",
-        "publishedAt": "2026-09-12T09:01:05+00:00"
-      },
-      {
-        "title": "On rencontre les acteurs d'Un p'tit truc en plus",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "oxktas7T-D8",
-        "thumbnail": "https://i.ytimg.com/vi/oxktas7T-D8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oxktas7T-D8",
-        "publishedAt": "2026-09-11T16:08:53+00:00"
       },
       {
         "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "EuroBirdPortal – Mouvements d'oiseaux vivants à travers l'Europe",
-        "titleOriginal": "EuroBirdPortal – Live bird movements across Europe",
-        "url": "https://www.eurobirdportal.org/ebp/en/",
-        "source": "eurobirdportal.org",
-        "score": 74,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=49693610",
-        "date": "il y a 3 h"
+        "title": "Systèmes distribués classiques",
+        "titleOriginal": "Distributed Systems Classics",
+        "url": "https://nvartolomei.com/dist-sys-classics/",
+        "source": "nvartolomei.com",
+        "score": 59,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49699158",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Fable 5.1 Résout le Cyphral Distich, un chiffrement vieux de 370 ans",
-        "titleOriginal": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-        "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-        "source": "vals.ai",
-        "score": 998,
-        "comments": 433,
-        "hnUrl": "https://news.ycombinator.com/item?id=49688695",
-        "date": "il y a 14 h"
+        "title": "Pion, un agent conçu pour gérer toute entreprise de manière autonome",
+        "titleOriginal": "Pion, an agent designed to run any company autonomously",
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "source": "andonlabs.com",
+        "score": 9,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49700477",
+        "date": "il y a 11 min"
       },
       {
-        "title": "Un PC 386 pour votre RP2350",
-        "titleOriginal": "A 386 PC for Your RP2350",
-        "url": "https://github.com/rh1tech/frank-386",
-        "source": "github.com",
-        "score": 55,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49693613",
-        "date": "il y a 3 h"
+        "title": "Principes pour les applications Fast Tokio",
+        "titleOriginal": "Principles for Fast Tokio Applications",
+        "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+        "source": "dial9-rs.github.io",
+        "score": 50,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49698607",
+        "date": "il y a 1 h"
       },
       {
-        "title": "OpenArch – Implémentations PyTorch d'architectures LLM modernes",
-        "titleOriginal": "OpenArch – PyTorch implementations of modern LLM architectures",
-        "url": "https://github.com/anuj0456/OpenArch",
-        "source": "github.com",
-        "score": 40,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=49693384",
+        "title": "Notes sur les gotchas lors de la migration des pré-mitaines de 35 Ko de l'Opus vers Ollama auto-hébergé",
+        "titleOriginal": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+        "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+        "source": "patrickmccanna.net",
+        "score": 82,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=49697014",
         "date": "il y a 3 h"
       }
     ]
