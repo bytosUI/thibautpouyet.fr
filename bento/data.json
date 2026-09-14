@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-09-14T21:00:44.556Z",
+  "updatedAt": "2026-09-14T23:55:13.391Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 23,
-      "code": 0,
+      "temp": 18,
+      "feelsLike": 19,
+      "code": 1,
       "wind": 3,
-      "humidity": 76
+      "humidity": 89
     },
     "forecast": [
-      {
-        "date": "2026-09-14",
-        "code": 45,
-        "tmax": 28,
-        "tmin": 16
-      },
       {
         "date": "2026-09-15",
         "code": 3,
         "tmax": 31,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-09-16",
@@ -30,24 +24,22 @@
       },
       {
         "date": "2026-09-17",
+        "code": 3,
+        "tmax": 19,
+        "tmin": 9
+      },
+      {
+        "date": "2026-09-18",
         "code": 61,
-        "tmax": 20,
-        "tmin": 10
+        "tmax": 22,
+        "tmin": 14
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 27627,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Classiques des systèmes distribués (2017)",
-        "titleOriginal": "Distributed Systems Classics (2017)",
-        "url": "https://nvartolomei.com/dist-sys-classics/",
-        "source": "nvartolomei.com",
-        "score": 170,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=49699158",
-        "date": "il y a 4 h"
+        "title": "iOS 27, iPadOS 27 et macOS 27",
+        "titleOriginal": "iOS 27, iPadOS 27, and macOS 27",
+        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+        "source": "apple.com",
+        "score": 306,
+        "comments": 335,
+        "hnUrl": "https://news.ycombinator.com/item?id=49701004",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Un début pour les mathématiques",
-        "titleOriginal": "A Beginning for Mathematics",
-        "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-        "source": "daniellitt.com",
-        "score": 112,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49698699",
-        "date": "il y a 5 h"
+        "title": "Pion, un agent conçu pour gérer toute entreprise de manière autonome",
+        "titleOriginal": "Pion, an agent designed to run any company autonomously",
+        "url": "https://andonlabs.com/blog/why-we-built-pion",
+        "source": "andonlabs.com",
+        "score": 260,
+        "comments": 270,
+        "hnUrl": "https://news.ycombinator.com/item?id=49700477",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Principes pour les applications Fast Tokio",
-        "titleOriginal": "Principles for Fast Tokio Applications",
-        "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-        "source": "dial9-rs.github.io",
-        "score": 128,
-        "comments": 24,
-        "hnUrl": "https://news.ycombinator.com/item?id=49698607",
-        "date": "il y a 5 h"
+        "title": "Afficher HN : Macros avec un Behringer FCB1010 midi Pedalboard dans macOS",
+        "titleOriginal": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+        "url": "https://github.com/JamesRyanATX/fcbnerd",
+        "source": "github.com",
+        "score": 12,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49705442",
+        "date": "il y a 53 min"
       },
       {
-        "title": "Les bots OpenAI connaissaient la vulnérabilité de mise en cache de RubyGems",
-        "titleOriginal": "OpenAI bots knew about the RubyGems caching vulnerability",
-        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-        "source": "tenderlovemaking.com",
-        "score": 279,
-        "comments": 256,
-        "hnUrl": "https://news.ycombinator.com/item?id=49695876",
-        "date": "il y a 8 h"
+        "title": "Graphiques conçus pour le chat",
+        "titleOriginal": "Charts built for Chat",
+        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+        "source": "dbtcharts.com",
+        "score": 52,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49704246",
+        "date": "il y a 2 h"
       }
     ]
   },
