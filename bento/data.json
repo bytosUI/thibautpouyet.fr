@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-15T18:20:01.290Z",
+  "updatedAt": "2026-09-15T21:34:30.598Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 27,
-      "feelsLike": 28,
-      "code": 2,
-      "wind": 5,
-      "humidity": 42
+      "temp": 20,
+      "feelsLike": 19,
+      "code": 0,
+      "wind": 13,
+      "humidity": 69
     },
     "forecast": [
       {
@@ -18,14 +18,14 @@
       },
       {
         "date": "2026-09-16",
-        "code": 80,
-        "tmax": 22,
+        "code": 3,
+        "tmax": 23,
         "tmin": 14
       },
       {
         "date": "2026-09-17",
         "code": 3,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 10
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Présentation des modèles System One et de Jev",
+        "titleOriginal": "Introducing System One Models and Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "source": "typesafe.ai",
+        "score": 374,
+        "comments": 144,
+        "hnUrl": "https://news.ycombinator.com/item?id=49717558",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Show HN : Un cadre e-ink qui entend les oiseaux et les dessine comme des illustrations des années 1800",
         "titleOriginal": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "url": "https://github.com/arnegiacomo/fugleramme",
         "source": "github.com",
-        "score": 809,
-        "comments": 115,
+        "score": 1117,
+        "comments": 154,
         "hnUrl": "https://news.ycombinator.com/item?id=49711544",
-        "date": "il y a 5 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Show HN : Capsule – Applications Web à fichier unique qui enregistrent leurs données dans SQLite",
-        "titleOriginal": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-        "url": "https://withcapsule.app/",
-        "source": "withcapsule.app",
-        "score": 193,
-        "comments": 95,
-        "hnUrl": "https://news.ycombinator.com/item?id=49712278",
-        "date": "il y a 4 h"
+        "title": "Une mise à jour sur Wayback Machine Access",
+        "titleOriginal": "An Update on Wayback Machine Access",
+        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+        "source": "blog.archive.org",
+        "score": 259,
+        "comments": 128,
+        "hnUrl": "https://news.ycombinator.com/item?id=49716176",
+        "date": "il y a 3 h"
       },
       {
-        "title": "GEFS sur OpenBSD : Aperçu anticipé",
-        "titleOriginal": "GEFS on OpenBSD: A Early Preview",
-        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-        "source": "marc.info",
-        "score": 31,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=49715590",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Je ne peux pas m'empêcher de penser à la Papouasie-Nouvelle-Guinée",
-        "titleOriginal": "I can't stop thinking about Papua New Guinea",
-        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-        "source": "notnottalmud.substack.com",
-        "score": 796,
-        "comments": 341,
-        "hnUrl": "https://news.ycombinator.com/item?id=49708431",
-        "date": "il y a 12 h"
+        "title": "Jean-Pierre Serre a 100 ans aujourd'hui",
+        "titleOriginal": "Jean-Pierre Serre is 100 years old today",
+        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
+        "source": "mathshistory.st-andrews.ac.uk",
+        "score": 25,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49718822",
+        "date": "il y a 37 min"
       }
     ]
   },
