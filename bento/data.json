@@ -1,24 +1,24 @@
 {
-  "updatedAt": "2026-09-15T08:32:48.344Z",
+  "updatedAt": "2026-09-15T14:05:34.897Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 22,
-      "code": 2,
-      "wind": 6,
-      "humidity": 68
+      "temp": 31,
+      "feelsLike": 30,
+      "code": 1,
+      "wind": 13,
+      "humidity": 30
     },
     "forecast": [
       {
         "date": "2026-09-15",
         "code": 3,
-        "tmax": 31,
+        "tmax": 32,
         "tmin": 15
       },
       {
         "date": "2026-09-16",
-        "code": 61,
+        "code": 80,
         "tmax": 22,
         "tmin": 14
       },
@@ -26,13 +26,13 @@
         "date": "2026-09-17",
         "code": 61,
         "tmax": 21,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-09-18",
-        "code": 61,
-        "tmax": 21,
-        "tmin": 11
+        "code": 80,
+        "tmax": 22,
+        "tmin": 12
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "La fin du monde par l’IA est-elle du marketing ?",
+        "title": "L’IA n’a causé aucun mort. Les gouvernements, si.",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "6vDuv6jDQOw",
-        "thumbnail": "https://i.ytimg.com/vi/6vDuv6jDQOw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6vDuv6jDQOw",
-        "publishedAt": "2026-09-15T08:30:38+00:00"
+        "videoId": "q0zk2Q1MH8Q",
+        "thumbnail": "https://i.ytimg.com/vi/q0zk2Q1MH8Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q0zk2Q1MH8Q",
+        "publishedAt": "2026-09-15T10:30:48+00:00"
       },
       {
         "title": "NOS RETRAITÉS ONT DE L'EXPÉRIENCE",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "iOS 27, iPadOS 27 et macOS 27",
-        "titleOriginal": "iOS 27, iPadOS 27, and macOS 27",
-        "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-        "source": "apple.com",
-        "score": 582,
-        "comments": 650,
-        "hnUrl": "https://news.ycombinator.com/item?id=49701004",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Linux à partir de zéro",
-        "titleOriginal": "Linux from Scratch",
-        "url": "https://www.linuxfromscratch.org/",
-        "source": "linuxfromscratch.org",
-        "score": 143,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=49707627",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "OpenArm : Un bras humanoïde 7DOF open-source",
-        "titleOriginal": "OpenArm: An open-source 7DOF humanoid arm",
-        "url": "https://github.com/enactic/OpenArm",
+        "title": "Show HN : Un cadre e-ink qui entend les oiseaux et les dessine comme des illustrations des années 1800",
+        "titleOriginal": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+        "url": "https://github.com/arnegiacomo/fugleramme",
         "source": "github.com",
-        "score": 67,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49684289",
-        "date": "hier"
+        "score": 162,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49711544",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Tombeau d'un juge égyptien vieux de 4 400 ans trouvé à Saqqarah avec des couleurs sur les murs",
-        "titleOriginal": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
-        "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-        "source": "arkeonews.net",
-        "score": 122,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=49675817",
-        "date": "il y a 2 j"
+        "title": "Java 27 publié",
+        "titleOriginal": "Java 27 Released",
+        "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+        "source": "mail.openjdk.org",
+        "score": 73,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49712041",
+        "date": "il y a 51 min"
+      },
+      {
+        "title": "Je ne peux pas m'empêcher de penser à la Papouasie-Nouvelle-Guinée",
+        "titleOriginal": "I can't stop thinking about Papua New Guinea",
+        "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+        "source": "notnottalmud.substack.com",
+        "score": 535,
+        "comments": 228,
+        "hnUrl": "https://news.ycombinator.com/item?id=49708431",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Show HN : Piratage d'un point d'accès sans fil 4G à 20 $ dans un appareil de messagerie texte",
+        "titleOriginal": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+        "url": "https://bkovac.github.io/modem-thing/",
+        "source": "bkovac.github.io",
+        "score": 14,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49712102",
+        "date": "il y a 45 min"
       }
     ]
   },
