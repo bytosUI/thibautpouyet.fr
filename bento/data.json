@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-14T23:55:13.391Z",
+  "updatedAt": "2026-09-15T02:59:37.394Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 19,
+      "temp": 16,
+      "feelsLike": 18,
       "code": 1,
-      "wind": 3,
-      "humidity": 89
+      "wind": 2,
+      "humidity": 91
     },
     "forecast": [
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "NOS RETRAITÉS ONT DE L'EXPÉRIENCE",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "c2od12feURI",
-        "thumbnail": "https://i.ytimg.com/vi/c2od12feURI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c2od12feURI",
-        "publishedAt": "2026-09-14T17:40:50+00:00"
-      },
-      {
-        "title": "IL FILTRE SON EAU LUI-MÊME, BIEN MIEUX QUE LES STATIONS D'ÉPURATION !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "dPwdCv4F26U",
-        "thumbnail": "https://i.ytimg.com/vi/dPwdCv4F26U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dPwdCv4F26U",
-        "publishedAt": "2026-09-14T17:00:21+00:00"
-      },
-      {
-        "title": "On se baigne dans les bains du Racing 92",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "wxVss0zYgPo",
-        "thumbnail": "https://i.ytimg.com/vi/wxVss0zYgPo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wxVss0zYgPo",
-        "publishedAt": "2026-09-14T16:23:20+00:00"
-      },
-      {
-        "title": "Anthropic, OpenAI, Musk : pourquoi ils annoncent le pire !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "aEKgSrRguA0",
-        "thumbnail": "https://i.ytimg.com/vi/aEKgSrRguA0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aEKgSrRguA0",
-        "publishedAt": "2026-09-14T16:00:06+00:00"
-      },
-      {
-        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "bdL5LJ1nTiY",
-        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
-        "publishedAt": "2026-09-13T16:00:08+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Je n’ai plus d’eau ni de toilettes… #27",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "m32Pngr5-5M",
-        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
-        "publishedAt": "2026-08-30T15:17:13+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Show HN : Coût irrécupérable – Combien de temps jusqu'à ce qu'une plate-forme LLM locale se paie elle-même ?",
+        "titleOriginal": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
+        "url": "https://sunkcost.ai/",
+        "source": "sunkcost.ai",
+        "score": 33,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=49706656",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "iOS 27, iPadOS 27 et macOS 27",
         "titleOriginal": "iOS 27, iPadOS 27, and macOS 27",
         "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
         "source": "apple.com",
-        "score": 306,
-        "comments": 335,
+        "score": 416,
+        "comments": 477,
         "hnUrl": "https://news.ycombinator.com/item?id=49701004",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Pion, un agent conçu pour gérer toute entreprise de manière autonome",
         "titleOriginal": "Pion, an agent designed to run any company autonomously",
         "url": "https://andonlabs.com/blog/why-we-built-pion",
         "source": "andonlabs.com",
-        "score": 260,
-        "comments": 270,
+        "score": 304,
+        "comments": 340,
         "hnUrl": "https://news.ycombinator.com/item?id=49700477",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Afficher HN : Macros avec un Behringer FCB1010 midi Pedalboard dans macOS",
-        "titleOriginal": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-        "url": "https://github.com/JamesRyanATX/fcbnerd",
-        "source": "github.com",
-        "score": 12,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49705442",
-        "date": "il y a 53 min"
+        "date": "il y a 9 h"
       },
       {
         "title": "Graphiques conçus pour le chat",
         "titleOriginal": "Charts built for Chat",
         "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
         "source": "dbtcharts.com",
-        "score": 52,
-        "comments": 18,
+        "score": 117,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=49704246",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       }
     ]
   },
