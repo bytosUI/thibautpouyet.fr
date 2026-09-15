@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-15T02:59:37.394Z",
+  "updatedAt": "2026-09-15T08:32:48.344Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 18,
-      "code": 1,
-      "wind": 2,
-      "humidity": 91
+      "temp": 21,
+      "feelsLike": 22,
+      "code": 2,
+      "wind": 6,
+      "humidity": 68
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-09-16",
-        "code": 3,
+        "code": 61,
         "tmax": 22,
         "tmin": 14
       },
       {
         "date": "2026-09-17",
-        "code": 3,
-        "tmax": 19,
+        "code": 61,
+        "tmax": 21,
         "tmin": 9
       },
       {
         "date": "2026-09-18",
         "code": 61,
-        "tmax": 22,
-        "tmin": 14
+        "tmax": 21,
+        "tmin": 11
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "La fin du monde par l’IA est-elle du marketing ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "6vDuv6jDQOw",
+        "thumbnail": "https://i.ytimg.com/vi/6vDuv6jDQOw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6vDuv6jDQOw",
+        "publishedAt": "2026-09-15T08:30:38+00:00"
+      },
+      {
+        "title": "NOS RETRAITÉS ONT DE L'EXPÉRIENCE",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "c2od12feURI",
+        "thumbnail": "https://i.ytimg.com/vi/c2od12feURI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c2od12feURI",
+        "publishedAt": "2026-09-14T17:40:50+00:00"
+      },
+      {
+        "title": "IL FILTRE SON EAU LUI-MÊME, BIEN MIEUX QUE LES STATIONS D'ÉPURATION !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "dPwdCv4F26U",
+        "thumbnail": "https://i.ytimg.com/vi/dPwdCv4F26U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dPwdCv4F26U",
+        "publishedAt": "2026-09-14T17:00:21+00:00"
+      },
+      {
+        "title": "On se baigne dans les bains du Racing 92",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "wxVss0zYgPo",
+        "thumbnail": "https://i.ytimg.com/vi/wxVss0zYgPo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wxVss0zYgPo",
+        "publishedAt": "2026-09-14T16:23:20+00:00"
+      },
+      {
+        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "bdL5LJ1nTiY",
+        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
+        "publishedAt": "2026-09-13T16:00:08+00:00"
+      },
+      {
+        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "Hi6VfQpC7TQ",
+        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
+        "publishedAt": "2026-09-13T09:48:43+00:00"
+      },
+      {
+        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "2QcaDwpvl7s",
+        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
+        "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Je n’ai plus d’eau ni de toilettes… #27",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "m32Pngr5-5M",
+        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
+        "publishedAt": "2026-08-30T15:17:13+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Show HN : Coût irrécupérable – Combien de temps jusqu'à ce qu'une plate-forme LLM locale se paie elle-même ?",
-        "titleOriginal": "Show HN: Sunk Cost – How long until a local LLM rig pays for itself?",
-        "url": "https://sunkcost.ai/",
-        "source": "sunkcost.ai",
-        "score": 33,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=49706656",
-        "date": "il y a 1 h"
-      },
-      {
         "title": "iOS 27, iPadOS 27 et macOS 27",
         "titleOriginal": "iOS 27, iPadOS 27, and macOS 27",
         "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
         "source": "apple.com",
-        "score": 416,
-        "comments": 477,
+        "score": 582,
+        "comments": 650,
         "hnUrl": "https://news.ycombinator.com/item?id=49701004",
-        "date": "il y a 9 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Pion, un agent conçu pour gérer toute entreprise de manière autonome",
-        "titleOriginal": "Pion, an agent designed to run any company autonomously",
-        "url": "https://andonlabs.com/blog/why-we-built-pion",
-        "source": "andonlabs.com",
-        "score": 304,
-        "comments": 340,
-        "hnUrl": "https://news.ycombinator.com/item?id=49700477",
-        "date": "il y a 9 h"
+        "title": "Linux à partir de zéro",
+        "titleOriginal": "Linux from Scratch",
+        "url": "https://www.linuxfromscratch.org/",
+        "source": "linuxfromscratch.org",
+        "score": 143,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=49707627",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Graphiques conçus pour le chat",
-        "titleOriginal": "Charts built for Chat",
-        "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-        "source": "dbtcharts.com",
-        "score": 117,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49704246",
-        "date": "il y a 5 h"
+        "title": "OpenArm : Un bras humanoïde 7DOF open-source",
+        "titleOriginal": "OpenArm: An open-source 7DOF humanoid arm",
+        "url": "https://github.com/enactic/OpenArm",
+        "source": "github.com",
+        "score": 67,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49684289",
+        "date": "hier"
+      },
+      {
+        "title": "Tombeau d'un juge égyptien vieux de 4 400 ans trouvé à Saqqarah avec des couleurs sur les murs",
+        "titleOriginal": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+        "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+        "source": "arkeonews.net",
+        "score": 122,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49675817",
+        "date": "il y a 2 j"
       }
     ]
   },
