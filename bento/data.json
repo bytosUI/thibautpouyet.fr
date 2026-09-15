@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-15T21:34:30.598Z",
+  "updatedAt": "2026-09-15T23:53:54.837Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
-      "code": 0,
-      "wind": 13,
-      "humidity": 69
+      "temp": 18,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 11,
+      "humidity": 79
     },
     "forecast": [
       {
-        "date": "2026-09-15",
+        "date": "2026-09-16",
         "code": 3,
-        "tmax": 32,
+        "tmax": 22,
         "tmin": 15
       },
       {
-        "date": "2026-09-16",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 14
-      },
-      {
         "date": "2026-09-17",
-        "code": 3,
+        "code": 61,
         "tmax": 21,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-09-18",
         "code": 61,
         "tmax": 22,
-        "tmin": 14
+        "tmin": 13
+      },
+      {
+        "date": "2026-09-19",
+        "code": 3,
+        "tmax": 25,
+        "tmin": 13
       }
     ]
   },
@@ -178,40 +178,40 @@
         "titleOriginal": "Introducing System One Models and Jev",
         "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
         "source": "typesafe.ai",
-        "score": 374,
-        "comments": 144,
+        "score": 629,
+        "comments": 207,
         "hnUrl": "https://news.ycombinator.com/item?id=49717558",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Show HN : Un cadre e-ink qui entend les oiseaux et les dessine comme des illustrations des années 1800",
         "titleOriginal": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "url": "https://github.com/arnegiacomo/fugleramme",
         "source": "github.com",
-        "score": 1117,
-        "comments": 154,
+        "score": 1233,
+        "comments": 172,
         "hnUrl": "https://news.ycombinator.com/item?id=49711544",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Allemand Rheinmetall open-sources son système d'armes connecté Battlesuite protcol",
+        "titleOriginal": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+        "source": "rheinmetall.github.io",
+        "score": 100,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=49718928",
+        "date": "il y a 2 h"
       },
       {
         "title": "Une mise à jour sur Wayback Machine Access",
         "titleOriginal": "An Update on Wayback Machine Access",
         "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
         "source": "blog.archive.org",
-        "score": 259,
-        "comments": 128,
+        "score": 336,
+        "comments": 183,
         "hnUrl": "https://news.ycombinator.com/item?id=49716176",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Jean-Pierre Serre a 100 ans aujourd'hui",
-        "titleOriginal": "Jean-Pierre Serre is 100 years old today",
-        "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-        "source": "mathshistory.st-andrews.ac.uk",
-        "score": 25,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49718822",
-        "date": "il y a 37 min"
+        "date": "il y a 6 h"
       }
     ]
   },
