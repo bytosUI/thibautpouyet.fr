@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-15T14:05:34.897Z",
+  "updatedAt": "2026-09-15T18:20:01.290Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 31,
-      "feelsLike": 30,
-      "code": 1,
-      "wind": 13,
-      "humidity": 30
+      "temp": 27,
+      "feelsLike": 28,
+      "code": 2,
+      "wind": 5,
+      "humidity": 42
     },
     "forecast": [
       {
@@ -24,15 +24,15 @@
       },
       {
         "date": "2026-09-17",
-        "code": 61,
-        "tmax": 21,
+        "code": 3,
+        "tmax": 22,
         "tmin": 10
       },
       {
         "date": "2026-09-18",
-        "code": 80,
+        "code": 61,
         "tmax": 22,
-        "tmin": 12
+        "tmin": 14
       }
     ]
   },
@@ -52,40 +52,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "L’IA n’a causé aucun mort. Les gouvernements, si.",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "q0zk2Q1MH8Q",
-        "thumbnail": "https://i.ytimg.com/vi/q0zk2Q1MH8Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q0zk2Q1MH8Q",
-        "publishedAt": "2026-09-15T10:30:48+00:00"
-      },
-      {
-        "title": "NOS RETRAITÉS ONT DE L'EXPÉRIENCE",
+        "title": "UN ÉLÈVE COÛTE 2X PLUS CHER QU'EN 1980",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "c2od12feURI",
-        "thumbnail": "https://i.ytimg.com/vi/c2od12feURI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c2od12feURI",
-        "publishedAt": "2026-09-14T17:40:50+00:00"
+        "videoId": "gXGEC1Kylok",
+        "thumbnail": "https://i.ytimg.com/vi/gXGEC1Kylok/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gXGEC1Kylok",
+        "publishedAt": "2026-09-15T16:54:59+00:00"
       },
       {
-        "title": "IL FILTRE SON EAU LUI-MÊME, BIEN MIEUX QUE LES STATIONS D'ÉPURATION !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "dPwdCv4F26U",
-        "thumbnail": "https://i.ytimg.com/vi/dPwdCv4F26U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dPwdCv4F26U",
-        "publishedAt": "2026-09-14T17:00:21+00:00"
-      },
-      {
-        "title": "On se baigne dans les bains du Racing 92",
+        "title": "On lit la lettre très touchante d’une abonnée",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "wxVss0zYgPo",
-        "thumbnail": "https://i.ytimg.com/vi/wxVss0zYgPo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wxVss0zYgPo",
-        "publishedAt": "2026-09-14T16:23:20+00:00"
+        "videoId": "zcueJNsa7jk",
+        "thumbnail": "https://i.ytimg.com/vi/zcueJNsa7jk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zcueJNsa7jk",
+        "publishedAt": "2026-09-15T16:35:07+00:00"
+      },
+      {
+        "title": "On a débunké le mythe de l'eau : l'Amérique est en colère contre les Data Centers !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "TRzcj7H18mY",
+        "thumbnail": "https://i.ytimg.com/vi/TRzcj7H18mY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TRzcj7H18mY",
+        "publishedAt": "2026-09-15T16:15:37+00:00"
+      },
+      {
+        "title": "SURVIVANTE DU TSUNAMI : ELLE RACONTE LE JOUR OÙ LA VAGUE A EMPORTÉ TOUTE SA FAMILLE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "kuAgDcYLZ70",
+        "thumbnail": "https://i.ytimg.com/vi/kuAgDcYLZ70/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kuAgDcYLZ70",
+        "publishedAt": "2026-09-15T15:55:51+00:00"
       },
       {
         "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
@@ -178,40 +178,40 @@
         "titleOriginal": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "url": "https://github.com/arnegiacomo/fugleramme",
         "source": "github.com",
-        "score": 162,
-        "comments": 39,
+        "score": 809,
+        "comments": 115,
         "hnUrl": "https://news.ycombinator.com/item?id=49711544",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Java 27 publié",
-        "titleOriginal": "Java 27 Released",
-        "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-        "source": "mail.openjdk.org",
-        "score": 73,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49712041",
-        "date": "il y a 51 min"
+        "title": "Show HN : Capsule – Applications Web à fichier unique qui enregistrent leurs données dans SQLite",
+        "titleOriginal": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+        "url": "https://withcapsule.app/",
+        "source": "withcapsule.app",
+        "score": 193,
+        "comments": 95,
+        "hnUrl": "https://news.ycombinator.com/item?id=49712278",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "GEFS sur OpenBSD : Aperçu anticipé",
+        "titleOriginal": "GEFS on OpenBSD: A Early Preview",
+        "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+        "source": "marc.info",
+        "score": 31,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49715590",
+        "date": "il y a 1 h"
       },
       {
         "title": "Je ne peux pas m'empêcher de penser à la Papouasie-Nouvelle-Guinée",
         "titleOriginal": "I can't stop thinking about Papua New Guinea",
         "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
         "source": "notnottalmud.substack.com",
-        "score": 535,
-        "comments": 228,
+        "score": 796,
+        "comments": 341,
         "hnUrl": "https://news.ycombinator.com/item?id=49708431",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Show HN : Piratage d'un point d'accès sans fil 4G à 20 $ dans un appareil de messagerie texte",
-        "titleOriginal": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-        "url": "https://bkovac.github.io/modem-thing/",
-        "source": "bkovac.github.io",
-        "score": 14,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49712102",
-        "date": "il y a 45 min"
+        "date": "il y a 12 h"
       }
     ]
   },
