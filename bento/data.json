@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-16T13:37:20.249Z",
+  "updatedAt": "2026-09-16T17:53:49.963Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
+      "temp": 20,
       "feelsLike": 18,
-      "code": 3,
-      "wind": 14,
-      "humidity": 41
+      "code": 2,
+      "wind": 9,
+      "humidity": 45
     },
     "forecast": [
       {
@@ -24,9 +24,9 @@
       },
       {
         "date": "2026-09-18",
-        "code": 3,
-        "tmax": 22,
-        "tmin": 13
+        "code": 61,
+        "tmax": 21,
+        "tmin": 11
       },
       {
         "date": "2026-09-19",
@@ -37,11 +37,19 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 170,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
-      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -52,40 +60,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "SURVIVANTE D'UN TSUNAMI : ELLE N'EST PLUS HEUREUSE DEPUIS LA MORT DE TOUTE SA FAMILLE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "sUUT-uox_4g",
-        "thumbnail": "https://i.ytimg.com/vi/sUUT-uox_4g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sUUT-uox_4g",
-        "publishedAt": "2026-09-16T13:00:27+00:00"
-      },
-      {
-        "title": "La Silicon Valley a-t-elle créé elle-même la révolte contre l’IA ?",
+        "title": "Leur avance est réelle : les robots chinois vs Tesla !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "oHe0LcSuoCU",
-        "thumbnail": "https://i.ytimg.com/vi/oHe0LcSuoCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oHe0LcSuoCU",
-        "publishedAt": "2026-09-16T09:30:51+00:00"
+        "videoId": "ZQZ6AvgKjNA",
+        "thumbnail": "https://i.ytimg.com/vi/ZQZ6AvgKjNA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZQZ6AvgKjNA",
+        "publishedAt": "2026-09-16T16:00:39+00:00"
       },
       {
-        "title": "UN ÉLÈVE COÛTE 2X PLUS CHER QU'EN 1980",
+        "title": "SES PARENTS FAISAIENT-ILS PARTIE DES CADAVRES BRÛLÉS POUR ÉVITER LES MALADIES ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "j5F1EVO4UmQ",
+        "thumbnail": "https://i.ytimg.com/vi/j5F1EVO4UmQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=j5F1EVO4UmQ",
+        "publishedAt": "2026-09-16T16:00:20+00:00"
+      },
+      {
+        "title": "LES PAUVRES DE FRANCE SONT LES PLUS RICHES DU MONDE",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "gXGEC1Kylok",
-        "thumbnail": "https://i.ytimg.com/vi/gXGEC1Kylok/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gXGEC1Kylok",
-        "publishedAt": "2026-09-15T16:54:59+00:00"
+        "videoId": "pbJZm-0nmX8",
+        "thumbnail": "https://i.ytimg.com/vi/pbJZm-0nmX8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pbJZm-0nmX8",
+        "publishedAt": "2026-09-16T16:00:02+00:00"
       },
       {
-        "title": "On lit la lettre très touchante d’une abonnée",
+        "title": "Bigflo répond enfin à son drama sur les siestes",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "zcueJNsa7jk",
-        "thumbnail": "https://i.ytimg.com/vi/zcueJNsa7jk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zcueJNsa7jk",
-        "publishedAt": "2026-09-15T16:35:07+00:00"
+        "videoId": "BdGBqo0BWCk",
+        "thumbnail": "https://i.ytimg.com/vi/BdGBqo0BWCk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BdGBqo0BWCk",
+        "publishedAt": "2026-09-16T15:37:28+00:00"
       },
       {
         "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le processus d'examen de l'application Google Play prend désormais régulièrement plus d'une semaine",
-        "titleOriginal": "The Google Play app review process now regularly takes longer than a week",
-        "url": "https://gultsch.social/@daniel/117280438824908947",
-        "source": "gultsch.social",
-        "score": 122,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=49724927",
-        "date": "il y a 2 h"
+        "title": "Petites astuces de programmation",
+        "titleOriginal": "Small Programming Tricks",
+        "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+        "source": "will-keleher.com",
+        "score": 119,
+        "comments": 74,
+        "hnUrl": "https://news.ycombinator.com/item?id=49729000",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Panne mondiale de Salesforce",
-        "titleOriginal": "Salesforce Global Outage",
-        "url": "https://status.salesforce.com/products/all",
-        "source": "status.salesforce.com",
-        "score": 116,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=49724488",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Le chef de l'UE ouvre la porte au Canada pour devenir « membre associé »",
-        "titleOriginal": "EU chief opens door for Canada to become 'associate member'",
-        "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-        "source": "bbc.com",
-        "score": 542,
-        "comments": 600,
-        "hnUrl": "https://news.ycombinator.com/item?id=49724141",
-        "date": "il y a 3 h"
+        "title": "Dream-RSI : l'auto-amélioration récursive à travers des mondes en évolution",
+        "titleOriginal": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+        "url": "https://arxiv.org/abs/2609.14858",
+        "source": "arxiv.org",
+        "score": 112,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=49726955",
+        "date": "il y a 4 h"
       },
       {
         "title": "Mistral X Mozilla : Navigation IA privée et multilingue",
         "titleOriginal": "Mistral X Mozilla: Private, Multilingual AI Browsing",
         "url": "https://mistral.ai/news/mistral-x-mozilla/",
         "source": "mistral.ai",
-        "score": 199,
-        "comments": 62,
+        "score": 392,
+        "comments": 138,
         "hnUrl": "https://news.ycombinator.com/item?id=49723408",
-        "date": "il y a 5 h"
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "Présentation des modèles System One et de Jev",
+        "titleOriginal": "Introducing System One Models and Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "source": "typesafe.ai",
+        "score": 1726,
+        "comments": 461,
+        "hnUrl": "https://news.ycombinator.com/item?id=49717558",
+        "date": "il y a 22 h"
       }
     ]
   },
