@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-16T02:55:50.427Z",
+  "updatedAt": "2026-09-16T08:13:48.086Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 17,
+      "temp": 16,
+      "feelsLike": 15,
       "code": 3,
-      "wind": 11,
-      "humidity": 80
+      "wind": 14,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-09-17",
-        "code": 61,
+        "code": 3,
         "tmax": 22,
         "tmin": 11
       },
@@ -31,8 +31,8 @@
       {
         "date": "2026-09-19",
         "code": 3,
-        "tmax": 25,
-        "tmin": 13
+        "tmax": 24,
+        "tmin": 14
       }
     ]
   },
@@ -52,6 +52,33 @@
   "youtube": {
     "videos": [
       {
+        "title": "Non, votre mail ChatGPT ne consomme pas une bouteille d’eau",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "jnOCOixiz6U",
+        "thumbnail": "https://i.ytimg.com/vi/jnOCOixiz6U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jnOCOixiz6U",
+        "publishedAt": "2026-09-16T07:33:02+00:00"
+      },
+      {
+        "title": "UN ÉLÈVE COÛTE 2X PLUS CHER QU'EN 1980",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "gXGEC1Kylok",
+        "thumbnail": "https://i.ytimg.com/vi/gXGEC1Kylok/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gXGEC1Kylok",
+        "publishedAt": "2026-09-15T16:54:59+00:00"
+      },
+      {
+        "title": "On lit la lettre très touchante d’une abonnée",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "zcueJNsa7jk",
+        "thumbnail": "https://i.ytimg.com/vi/zcueJNsa7jk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zcueJNsa7jk",
+        "publishedAt": "2026-09-15T16:35:07+00:00"
+      },
+      {
         "title": "SURVIVANTE DU TSUNAMI : ELLE RACONTE LE JOUR OÙ LA VAGUE A EMPORTÉ TOUTE SA FAMILLE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -61,6 +88,24 @@
         "publishedAt": "2026-09-15T15:55:51+00:00"
       },
       {
+        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "bdL5LJ1nTiY",
+        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
+        "publishedAt": "2026-09-13T16:00:08+00:00"
+      },
+      {
+        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "Hi6VfQpC7TQ",
+        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
+        "publishedAt": "2026-09-13T09:48:43+00:00"
+      },
+      {
         "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
@@ -68,6 +113,15 @@
         "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
         "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Je n’ai plus d’eau ni de toilettes… #27",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "m32Pngr5-5M",
+        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
+        "publishedAt": "2026-08-30T15:17:13+00:00"
       },
       {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
@@ -124,40 +178,40 @@
         "titleOriginal": "Introducing System One Models and Jev",
         "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
         "source": "typesafe.ai",
-        "score": 847,
-        "comments": 276,
+        "score": 1277,
+        "comments": 374,
         "hnUrl": "https://news.ycombinator.com/item?id=49717558",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Image de référence Apple : une nouvelle approche pour la photographie vérifiée",
+        "titleOriginal": "Apple Reference Image: A New Approach for Verified Photography",
+        "url": "https://security.apple.com/blog/apple-reference-image/",
+        "source": "security.apple.com",
+        "score": 204,
+        "comments": 130,
+        "hnUrl": "https://news.ycombinator.com/item?id=49721322",
+        "date": "il y a 6 h"
       },
       {
         "title": "Show HN : Un cadre e-ink qui entend les oiseaux et les dessine comme des illustrations des années 1800",
         "titleOriginal": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
         "url": "https://github.com/arnegiacomo/fugleramme",
         "source": "github.com",
-        "score": 1356,
-        "comments": 183,
+        "score": 1595,
+        "comments": 200,
         "hnUrl": "https://news.ycombinator.com/item?id=49711544",
-        "date": "il y a 14 h"
+        "date": "il y a 19 h"
       },
       {
-        "title": "Une mise à jour sur l'accès à Wayback Machine",
-        "titleOriginal": "An update on Wayback Machine access",
-        "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-        "source": "blog.archive.org",
-        "score": 411,
-        "comments": 221,
-        "hnUrl": "https://news.ycombinator.com/item?id=49716176",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Allemand Rheinmetall open-sources son système d'armes connecté Battlesuite protcol",
-        "titleOriginal": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-        "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-        "source": "rheinmetall.github.io",
-        "score": 140,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=49718928",
-        "date": "il y a 5 h"
+        "title": "Show HN : J'ai fait un simulateur de vol, sauf que tu n'es qu'un passager",
+        "titleOriginal": "Show HN: I made a flight simulator, except you're just a passenger",
+        "url": "https://inflightsimulator.com",
+        "source": "inflightsimulator.com",
+        "score": 150,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49693971",
+        "date": "hier"
       }
     ]
   },
