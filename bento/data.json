@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-17T07:02:46.164Z",
+  "updatedAt": "2026-09-17T12:40:24.108Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 3,
-      "wind": 5,
-      "humidity": 83
+      "temp": 21,
+      "feelsLike": 18,
+      "code": 2,
+      "wind": 19,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -25,33 +25,33 @@
       {
         "date": "2026-09-19",
         "code": 3,
-        "tmax": 24,
-        "tmin": 13
+        "tmax": 25,
+        "tmin": 12
       },
       {
         "date": "2026-09-20",
         "code": 3,
-        "tmax": 24,
-        "tmin": 15
+        "tmax": 25,
+        "tmin": 14
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 568,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "VALORANT",
+        "viewers": 5051,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Les États-Unis sont complètement paumés sur les robots",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "qtctGsUWvYY",
-        "thumbnail": "https://i.ytimg.com/vi/qtctGsUWvYY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qtctGsUWvYY",
-        "publishedAt": "2026-09-17T06:01:05+00:00"
-      },
-      {
-        "title": "SES PARENTS FAISAIENT-ILS PARTIE DES CADAVRES BRÛLÉS POUR ÉVITER LES MALADIES ?",
+        "title": "VICTIME D'UN TSUNAMI, ELLE S'EST VUE MOURIR NOYÉE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "j5F1EVO4UmQ",
-        "thumbnail": "https://i.ytimg.com/vi/j5F1EVO4UmQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=j5F1EVO4UmQ",
-        "publishedAt": "2026-09-16T16:00:20+00:00"
+        "videoId": "Z64KWJ5AZ1E",
+        "thumbnail": "https://i.ytimg.com/vi/Z64KWJ5AZ1E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z64KWJ5AZ1E",
+        "publishedAt": "2026-09-17T12:00:32+00:00"
+      },
+      {
+        "title": "L’abondance peut-elle nous rendre moins libres ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "oL5jIOiKHbI",
+        "thumbnail": "https://i.ytimg.com/vi/oL5jIOiKHbI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oL5jIOiKHbI",
+        "publishedAt": "2026-09-17T10:01:35+00:00"
       },
       {
         "title": "LES PAUVRES DE FRANCE SONT LES PLUS RICHES DU MONDE",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "pbJZm-0nmX8",
-        "thumbnail": "https://i.ytimg.com/vi/pbJZm-0nmX8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pbJZm-0nmX8",
-        "publishedAt": "2026-09-16T16:00:02+00:00"
+        "videoId": "DiBOeHcu6qw",
+        "thumbnail": "https://i.ytimg.com/vi/DiBOeHcu6qw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DiBOeHcu6qw",
+        "publishedAt": "2026-09-17T08:37:32+00:00"
       },
       {
         "title": "Bigflo répond enfin à son drama sur les siestes",
@@ -162,13 +162,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 17 sem",
+        "time": "il y a 18 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 17 sem",
+        "time": "il y a 18 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Clés non incluses : récupération des clés de signature pour les codes-barres du permis de conduire américain",
-        "titleOriginal": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-        "url": "https://ryan.science/blog/keys-not-included",
-        "source": "ryan.science",
-        "score": 123,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=49735930",
-        "date": "il y a 3 h"
+        "title": "Un an de développement de servomoteurs sponsorisés",
+        "titleOriginal": "One Year of Sponsored Servo Development",
+        "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+        "source": "servo.org",
+        "score": 163,
+        "comments": 71,
+        "hnUrl": "https://news.ycombinator.com/item?id=49737849",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Neovim a un don Bitcoin d'environ 800 000 $ qui n'a pas été touché depuis 2023",
+        "titleOriginal": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+        "url": "https://news.ycombinator.com/item?id=49738879",
+        "source": "news.ycombinator.com",
+        "score": 151,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49738879",
+        "date": "il y a 1 h"
       },
       {
         "title": "Nvidia annonce la programmation GPU native dans Rust",
         "titleOriginal": "Nvidia announces native GPU programming in Rust",
         "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
         "source": "developer.nvidia.com",
-        "score": 569,
-        "comments": 206,
+        "score": 761,
+        "comments": 307,
         "hnUrl": "https://news.ycombinator.com/item?id=49724881",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Comparaison des algorithmes Malloc()",
-        "titleOriginal": "Comparison of Malloc() Algorithms",
-        "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-        "source": "egbert.net",
-        "score": 37,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49715318",
         "date": "hier"
       },
       {
-        "title": "Formation d'un modèle 4B pour produire des plans de requête 81 % plus rapides que Postgres",
-        "titleOriginal": "Training a 4B model to produce 81% faster query plans than Postgres",
-        "url": "https://rohanbansal.com/qorl",
-        "source": "rohanbansal.com",
-        "score": 503,
-        "comments": 104,
-        "hnUrl": "https://news.ycombinator.com/item?id=49731285",
-        "date": "il y a 12 h"
+        "title": "Meilleure recherche vectorielle pour les documents longs : segmentation à l'intérieur de la recherche Manticore",
+        "titleOriginal": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+        "url": "https://manticoresearch.com/blog/auto-chunking/",
+        "source": "manticoresearch.com",
+        "score": 27,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49738766",
+        "date": "il y a 2 h"
       }
     ]
   },
