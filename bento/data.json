@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-17T12:40:24.108Z",
+  "updatedAt": "2026-09-17T17:24:57.850Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 21,
       "feelsLike": 18,
-      "code": 2,
-      "wind": 19,
-      "humidity": 44
+      "code": 3,
+      "wind": 13,
+      "humidity": 39
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-09-19",
         "code": 3,
         "tmax": 25,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-09-20",
@@ -42,7 +42,7 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "VALORANT",
-        "viewers": 5051,
+        "viewers": 5506,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
       }
@@ -60,40 +60,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "VICTIME D'UN TSUNAMI, ELLE S'EST VUE MOURIR NOYÉE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Z64KWJ5AZ1E",
-        "thumbnail": "https://i.ytimg.com/vi/Z64KWJ5AZ1E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z64KWJ5AZ1E",
-        "publishedAt": "2026-09-17T12:00:32+00:00"
-      },
-      {
-        "title": "L’abondance peut-elle nous rendre moins libres ?",
+        "title": "The Nerd Reich : la Silicon Valley veut-elle remplacer la démocratie ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "oL5jIOiKHbI",
-        "thumbnail": "https://i.ytimg.com/vi/oL5jIOiKHbI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oL5jIOiKHbI",
-        "publishedAt": "2026-09-17T10:01:35+00:00"
+        "videoId": "Yy_Dp4gbdF0",
+        "thumbnail": "https://i.ytimg.com/vi/Yy_Dp4gbdF0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Yy_Dp4gbdF0",
+        "publishedAt": "2026-09-17T16:00:24+00:00"
       },
       {
-        "title": "LES PAUVRES DE FRANCE SONT LES PLUS RICHES DU MONDE",
+        "title": "LA FRANCE SERAIT EN FAILLITE SI C'ÉTAIT UNE ENTREPRISE",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "DiBOeHcu6qw",
-        "thumbnail": "https://i.ytimg.com/vi/DiBOeHcu6qw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DiBOeHcu6qw",
-        "publishedAt": "2026-09-17T08:37:32+00:00"
+        "videoId": "9NQEuZE5s8Y",
+        "thumbnail": "https://i.ytimg.com/vi/9NQEuZE5s8Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9NQEuZE5s8Y",
+        "publishedAt": "2026-09-17T16:00:16+00:00"
       },
       {
-        "title": "Bigflo répond enfin à son drama sur les siestes",
+        "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "BdGBqo0BWCk",
-        "thumbnail": "https://i.ytimg.com/vi/BdGBqo0BWCk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BdGBqo0BWCk",
-        "publishedAt": "2026-09-16T15:37:28+00:00"
+        "videoId": "rJINZv9n9F0",
+        "thumbnail": "https://i.ytimg.com/vi/rJINZv9n9F0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rJINZv9n9F0",
+        "publishedAt": "2026-09-17T15:24:15+00:00"
+      },
+      {
+        "title": "VICTIME D'UN TSUNAMI, ELLE A EU PEUR DE SE FAIRE AMPUTER",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "TvA14E8me4s",
+        "thumbnail": "https://i.ytimg.com/vi/TvA14E8me4s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TvA14E8me4s",
+        "publishedAt": "2026-09-17T14:00:37+00:00"
       },
       {
         "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un an de développement de servomoteurs sponsorisés",
-        "titleOriginal": "One Year of Sponsored Servo Development",
-        "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-        "source": "servo.org",
-        "score": 163,
-        "comments": 71,
-        "hnUrl": "https://news.ycombinator.com/item?id=49737849",
-        "date": "il y a 4 h"
+        "title": "Je n'ai pas signé la lettre des médaillés Fields",
+        "titleOriginal": "I didn't sign the Fields medallists' letter",
+        "url": "https://terrytao.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+        "source": "terrytao.wordpress.com",
+        "score": 24,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49743534",
+        "date": "il y a 26 min"
       },
       {
-        "title": "Neovim a un don Bitcoin d'environ 800 000 $ qui n'a pas été touché depuis 2023",
-        "titleOriginal": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-        "url": "https://news.ycombinator.com/item?id=49738879",
-        "source": "news.ycombinator.com",
-        "score": 151,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=49738879",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Nvidia annonce la programmation GPU native dans Rust",
-        "titleOriginal": "Nvidia announces native GPU programming in Rust",
-        "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-        "source": "developer.nvidia.com",
-        "score": 761,
-        "comments": 307,
-        "hnUrl": "https://news.ycombinator.com/item?id=49724881",
+        "title": "Fujitsu lance la prochaine génération de CPU FUJITSU-MONAKA fabriquée au Japon",
+        "titleOriginal": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+        "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+        "source": "global.fujitsu",
+        "score": 310,
+        "comments": 123,
+        "hnUrl": "https://news.ycombinator.com/item?id=49715813",
         "date": "hier"
       },
       {
-        "title": "Meilleure recherche vectorielle pour les documents longs : segmentation à l'intérieur de la recherche Manticore",
-        "titleOriginal": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-        "url": "https://manticoresearch.com/blog/auto-chunking/",
-        "source": "manticoresearch.com",
-        "score": 27,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49738766",
-        "date": "il y a 2 h"
+        "title": "Whoisinspace.com/",
+        "titleOriginal": "Whoisinspace.com/",
+        "url": "https://whoisinspace.com",
+        "source": "whoisinspace.com",
+        "score": 56,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49742714",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Les limites de taux sur GitLab.com changent",
+        "titleOriginal": "Rate limits on GitLab.com are changing",
+        "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+        "source": "about.gitlab.com",
+        "score": 62,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=49742353",
+        "date": "il y a 1 h"
       }
     ]
   },
