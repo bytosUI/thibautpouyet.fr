@@ -1,56 +1,146 @@
 {
-  "updatedAt": "2026-09-18T06:13:40.923Z",
+  "updatedAt": "2026-09-18T11:34:44.549Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 11,
-      "code": 1,
-      "wind": 3,
-      "humidity": 93
+      "temp": 20,
+      "feelsLike": 18,
+      "code": 3,
+      "wind": 12,
+      "humidity": 45
     },
     "forecast": [
       {
         "date": "2026-09-18",
         "code": 61,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 11
       },
       {
         "date": "2026-09-19",
         "code": 3,
-        "tmax": 25,
-        "tmin": 11
+        "tmax": 24,
+        "tmin": 10
       },
       {
         "date": "2026-09-20",
         "code": 3,
         "tmax": 23,
-        "tmin": 13
+        "tmin": 11
       },
       {
         "date": "2026-09-21",
         "code": 3,
-        "tmax": 23,
+        "tmax": 22,
         "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Just Chatting",
+        "viewers": 730,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "LES SORCIÈRES DU MOYEN-ÂGE ÉTAIENT EN FAIT...DES BRASSEUSES DE BIÈRES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Akir26Q4_gk",
+        "thumbnail": "https://i.ytimg.com/vi/Akir26Q4_gk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Akir26Q4_gk",
+        "publishedAt": "2026-09-18T11:00:17+00:00"
+      },
+      {
+        "title": "Un préfet a-t-il plus de pouvoir qu’un roi ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "ZHABIsEhnMw",
+        "thumbnail": "https://i.ytimg.com/vi/ZHABIsEhnMw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZHABIsEhnMw",
+        "publishedAt": "2026-09-18T10:01:43+00:00"
+      },
+      {
+        "title": "LA FRANCE SERAIT EN FAILLITE SI C'ÉTAIT UNE ENTREPRISE",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "9NQEuZE5s8Y",
+        "thumbnail": "https://i.ytimg.com/vi/9NQEuZE5s8Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9NQEuZE5s8Y",
+        "publishedAt": "2026-09-17T16:00:16+00:00"
+      },
+      {
+        "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "rJINZv9n9F0",
+        "thumbnail": "https://i.ytimg.com/vi/rJINZv9n9F0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rJINZv9n9F0",
+        "publishedAt": "2026-09-17T15:24:15+00:00"
+      },
+      {
+        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "bdL5LJ1nTiY",
+        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
+        "publishedAt": "2026-09-13T16:00:08+00:00"
+      },
+      {
+        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "Hi6VfQpC7TQ",
+        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
+        "publishedAt": "2026-09-13T09:48:43+00:00"
+      },
+      {
+        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "2QcaDwpvl7s",
+        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
+        "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Je n’ai plus d’eau ni de toilettes… #27",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "m32Pngr5-5M",
+        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
+        "publishedAt": "2026-08-30T15:17:13+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Piratage d'OpenAI",
-        "titleOriginal": "Hacking OpenAI",
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "source": "hacktron.ai",
-        "score": 213,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=49749656",
-        "date": "il y a 3 h"
+        "title": "OpenJev",
+        "titleOriginal": "OpenJev",
+        "url": "https://openjev.com/",
+        "source": "openjev.com",
+        "score": 136,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=49752041",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Waymo à Singapour",
-        "titleOriginal": "Waymo in Singapore",
-        "url": "https://waymo.com/waymo-in-singapore/",
-        "source": "waymo.com",
-        "score": 73,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=49749981",
-        "date": "il y a 2 h"
+        "title": "ZCode, l'agent de codage GLM, télécharge silencieusement votre historique Git",
+        "titleOriginal": "ZCode, the GLM coding agent, silently uploads your Git history",
+        "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+        "source": "tokenstead.ai",
+        "score": 28,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49752422",
+        "date": "il y a 59 min"
       },
       {
-        "title": "Astra pour le droit",
-        "titleOriginal": "Astra for Law",
-        "url": "https://openai.com/index/astra-for-law/",
-        "source": "openai.com",
-        "score": 427,
-        "comments": 456,
-        "hnUrl": "https://news.ycombinator.com/item?id=49745940",
-        "date": "il y a 9 h"
+        "title": "L'exécutif de Microsoft a qualifié l'IA de « plus grand vol de main-d' œuvre de l'histoire de l'humanité »",
+        "titleOriginal": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "source": "techcrunch.com",
+        "score": 170,
+        "comments": 105,
+        "hnUrl": "https://news.ycombinator.com/item?id=49752056",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Bonsaï 2 27B : compression presque sans perte dans un encombrement 9x plus petit",
-        "titleOriginal": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-        "url": "https://prismml.com/news/bonsai-2-27b",
-        "source": "prismml.com",
-        "score": 355,
-        "comments": 113,
-        "hnUrl": "https://news.ycombinator.com/item?id=49746618",
-        "date": "il y a 9 h"
+        "title": "Jemalloc 5.4.0",
+        "titleOriginal": "Jemalloc 5.4.0",
+        "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+        "source": "github.com",
+        "score": 175,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=49750152",
+        "date": "il y a 7 h"
       }
     ]
   },
