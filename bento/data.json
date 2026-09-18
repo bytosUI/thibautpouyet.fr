@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-09-18T21:23:08.348Z",
+  "updatedAt": "2026-09-18T23:26:19.333Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
-      "code": 2,
-      "wind": 3,
-      "humidity": 73
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 3,
+      "wind": 4,
+      "humidity": 79
     },
     "forecast": [
-      {
-        "date": "2026-09-18",
-        "code": 61,
-        "tmax": 21,
-        "tmin": 11
-      },
       {
         "date": "2026-09-19",
         "code": 3,
@@ -26,13 +20,19 @@
         "date": "2026-09-20",
         "code": 3,
         "tmax": 24,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-09-21",
         "code": 3,
         "tmax": 22,
         "tmin": 7
+      },
+      {
+        "date": "2026-09-22",
+        "code": 2,
+        "tmax": 25,
+        "tmin": 11
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 150,
+        "viewers": 112,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -103,42 +103,6 @@
         "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
         "publishedAt": "2026-09-13T16:00:08+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Je n’ai plus d’eau ni de toilettes… #27",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "m32Pngr5-5M",
-        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
-        "publishedAt": "2026-08-30T15:17:13+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
       }
     ]
   },
@@ -182,44 +146,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Android 17 est le premier depuis 3.x à ajouter de nouvelles API sans les publier dans l'AOSP",
-        "titleOriginal": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-        "source": "grapheneos.social",
-        "score": 277,
-        "comments": 120,
-        "hnUrl": "https://news.ycombinator.com/item?id=49758736",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Claude Code lit maintenant AGENTS.md s'il n'y a pas Claude.md",
         "titleOriginal": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "url": "https://code.claude.com/docs/en/changelog",
         "source": "code.claude.com",
-        "score": 39,
-        "comments": 14,
+        "score": 368,
+        "comments": 139,
         "hnUrl": "https://news.ycombinator.com/item?id=49760187",
-        "date": "il y a 22 min"
+        "date": "il y a 2 h"
       },
       {
-        "title": "Tunnels rapides Cloudflare",
-        "titleOriginal": "Cloudflare Quick Tunnels",
-        "url": "https://try.cloudflare.com/",
-        "source": "try.cloudflare.com",
-        "score": 459,
-        "comments": 199,
-        "hnUrl": "https://news.ycombinator.com/item?id=49754785",
-        "date": "il y a 7 h"
+        "title": "Android 17 est le premier depuis 3.x à ajouter de nouvelles API sans les publier dans l'AOSP",
+        "titleOriginal": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "source": "grapheneos.social",
+        "score": 409,
+        "comments": 191,
+        "hnUrl": "https://news.ycombinator.com/item?id=49758736",
+        "date": "il y a 4 h"
       },
       {
         "title": "Sauvegarde de 100 To de RAM supplémentaires",
         "titleOriginal": "Saving another 100TB of RAM",
         "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
         "source": "blog.cloudflare.com",
-        "score": 97,
-        "comments": 16,
+        "score": 176,
+        "comments": 35,
         "hnUrl": "https://news.ycombinator.com/item?id=49758580",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Tunnels rapides Cloudflare",
+        "titleOriginal": "Cloudflare Quick Tunnels",
+        "url": "https://try.cloudflare.com/",
+        "source": "try.cloudflare.com",
+        "score": 518,
+        "comments": 223,
+        "hnUrl": "https://news.ycombinator.com/item?id=49754785",
+        "date": "il y a 9 h"
       }
     ]
   },
