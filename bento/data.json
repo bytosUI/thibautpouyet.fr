@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-18T01:07:26.868Z",
+  "updatedAt": "2026-09-18T06:13:40.923Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 16,
-      "code": 3,
-      "wind": 7,
-      "humidity": 79
+      "temp": 11,
+      "feelsLike": 11,
+      "code": 1,
+      "wind": 3,
+      "humidity": 93
     },
     "forecast": [
       {
@@ -20,19 +20,19 @@
         "date": "2026-09-19",
         "code": 3,
         "tmax": 25,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-09-20",
         "code": 3,
-        "tmax": 24,
-        "tmin": 12
+        "tmax": 23,
+        "tmin": 13
       },
       {
         "date": "2026-09-21",
         "code": 3,
-        "tmax": 21,
-        "tmin": 7
+        "tmax": 23,
+        "tmin": 8
       }
     ]
   },
@@ -92,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Piratage d'OpenAI",
+        "titleOriginal": "Hacking OpenAI",
+        "url": "https://www.hacktron.ai/blog/hacking-openai",
+        "source": "hacktron.ai",
+        "score": 213,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=49749656",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Waymo à Singapour",
+        "titleOriginal": "Waymo in Singapore",
+        "url": "https://waymo.com/waymo-in-singapore/",
+        "source": "waymo.com",
+        "score": 73,
+        "comments": 45,
+        "hnUrl": "https://news.ycombinator.com/item?id=49749981",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Astra pour le droit",
         "titleOriginal": "Astra for Law",
         "url": "https://openai.com/index/astra-for-law/",
         "source": "openai.com",
-        "score": 284,
-        "comments": 313,
+        "score": 427,
+        "comments": 456,
         "hnUrl": "https://news.ycombinator.com/item?id=49745940",
-        "date": "il y a 4 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "Bonsaï 2 27B : compression presque sans perte dans un encombrement 9x plus petit",
         "titleOriginal": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
         "url": "https://prismml.com/news/bonsai-2-27b",
         "source": "prismml.com",
-        "score": 189,
-        "comments": 62,
+        "score": 355,
+        "comments": 113,
         "hnUrl": "https://news.ycombinator.com/item?id=49746618",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Bend – Un langage qui bloque les erreurs d'IA via proof, sur le CPU et le GPU",
-        "titleOriginal": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-        "url": "https://bend-lang.com/",
-        "source": "bend-lang.com",
-        "score": 260,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=49746163",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Hister : Un moteur de recherche privé pour les pages que vous visitez et les fichiers que vous conservez",
-        "titleOriginal": "Hister: A private search engine for the pages you visit and the files you keep",
-        "url": "https://github.com/asciimoo/hister",
-        "source": "github.com",
-        "score": 440,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=49743097",
-        "date": "il y a 8 h"
+        "date": "il y a 9 h"
       }
     ]
   },
