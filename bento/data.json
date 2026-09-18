@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-18T15:39:47.298Z",
+  "updatedAt": "2026-09-18T18:48:16.040Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 18,
+      "temp": 17,
+      "feelsLike": 16,
       "code": 2,
-      "wind": 13,
-      "humidity": 40
+      "wind": 4,
+      "humidity": 56
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-09-19",
         "code": 3,
-        "tmax": 25,
+        "tmax": 24,
         "tmin": 10
       },
       {
         "date": "2026-09-20",
         "code": 3,
         "tmax": 23,
-        "tmin": 10
+        "tmin": 12
       },
       {
         "date": "2026-09-21",
         "code": 3,
         "tmax": 22,
-        "tmin": 8
+        "tmin": 7
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "OpenAI vs Mathématiciens : Qui a vraiment résolu Navier-Stokes ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "wP8_2tpKiJc",
+        "thumbnail": "https://i.ytimg.com/vi/wP8_2tpKiJc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wP8_2tpKiJc",
+        "publishedAt": "2026-09-18T16:00:07+00:00"
+      },
+      {
         "title": "PAYER 100€ À UN SALARIÉ, ÇA COÛTE 200€ AU PATRON",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9WftVdauLbM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9WftVdauLbM",
         "publishedAt": "2026-09-18T15:00:18+00:00"
-      },
-      {
-        "title": "Le prochain dictateur aura les outils de la tech",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "fn7d6PYph2w",
-        "thumbnail": "https://i.ytimg.com/vi/fn7d6PYph2w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fn7d6PYph2w",
-        "publishedAt": "2026-09-18T08:01:21+00:00"
       },
       {
         "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
@@ -174,23 +174,23 @@
   "hackernews": {
     "items": [
       {
-        "title": "Une étude empirique de la conception de harnais pour les agents de codage",
-        "titleOriginal": "An Empirical Study of Harness Design for Coding Agents",
-        "url": "https://arxiv.org/abs/2609.20804",
-        "source": "arxiv.org",
-        "score": 116,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49753878",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Tunnels rapides Cloudflare",
         "titleOriginal": "Cloudflare Quick Tunnels",
         "url": "https://try.cloudflare.com/",
         "source": "try.cloudflare.com",
-        "score": 41,
-        "comments": 22,
+        "score": 314,
+        "comments": 153,
         "hnUrl": "https://news.ycombinator.com/item?id=49754785",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "L'injection de défaut laser guidée par émission de photons permet le débogage sécurisé du RP2350",
+        "titleOriginal": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+        "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+        "source": "donjon.ledger.com",
+        "score": 66,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49757050",
         "date": "il y a 1 h"
       },
       {
@@ -198,19 +198,19 @@
         "titleOriginal": "North Korean nuclear test sets off years of earthquakes",
         "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
         "source": "science.org",
-        "score": 25,
-        "comments": 7,
+        "score": 127,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=49755160",
-        "date": "il y a 54 min"
+        "date": "il y a 4 h"
       },
       {
-        "title": "C++26 : Les boucles infinies triviales ne sont plus un comportement indéfini",
-        "titleOriginal": "C++26: Trivial infinite loops are no longer undefined behaviour",
-        "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
-        "source": "sandordargo.com",
-        "score": 27,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49746406",
+        "title": "Show HN : Cactus Needle 3 : les modèles d'automatisation de 8 à 29 Mo peuvent correspondre à DeepSeek V4 Flash",
+        "titleOriginal": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+        "url": "https://cactuscompute.com/needle",
+        "source": "cactuscompute.com",
+        "score": 81,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=49748553",
         "date": "il y a 18 h"
       }
     ]
