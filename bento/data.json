@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-18T18:48:16.040Z",
+  "updatedAt": "2026-09-18T21:23:08.348Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 16,
+      "temp": 14,
+      "feelsLike": 13,
       "code": 2,
-      "wind": 4,
-      "humidity": 56
+      "wind": 3,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-09-19",
         "code": 3,
-        "tmax": 24,
-        "tmin": 10
+        "tmax": 25,
+        "tmin": 12
       },
       {
         "date": "2026-09-20",
         "code": 3,
-        "tmax": 23,
-        "tmin": 12
+        "tmax": 24,
+        "tmin": 11
       },
       {
         "date": "2026-09-21",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 150,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Android 17 est le premier depuis 3.x à ajouter de nouvelles API sans les publier dans l'AOSP",
+        "titleOriginal": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+        "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+        "source": "grapheneos.social",
+        "score": 277,
+        "comments": 120,
+        "hnUrl": "https://news.ycombinator.com/item?id=49758736",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Claude Code lit maintenant AGENTS.md s'il n'y a pas Claude.md",
+        "titleOriginal": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "url": "https://code.claude.com/docs/en/changelog",
+        "source": "code.claude.com",
+        "score": 39,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49760187",
+        "date": "il y a 22 min"
+      },
+      {
         "title": "Tunnels rapides Cloudflare",
         "titleOriginal": "Cloudflare Quick Tunnels",
         "url": "https://try.cloudflare.com/",
         "source": "try.cloudflare.com",
-        "score": 314,
-        "comments": 153,
+        "score": 459,
+        "comments": 199,
         "hnUrl": "https://news.ycombinator.com/item?id=49754785",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "L'injection de défaut laser guidée par émission de photons permet le débogage sécurisé du RP2350",
-        "titleOriginal": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-        "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
-        "source": "donjon.ledger.com",
-        "score": 66,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49757050",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Un essai nucléaire nord-coréen déclenche des années de tremblements de terre",
-        "titleOriginal": "North Korean nuclear test sets off years of earthquakes",
-        "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-        "source": "science.org",
-        "score": 127,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=49755160",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Show HN : Cactus Needle 3 : les modèles d'automatisation de 8 à 29 Mo peuvent correspondre à DeepSeek V4 Flash",
-        "titleOriginal": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-        "url": "https://cactuscompute.com/needle",
-        "source": "cactuscompute.com",
-        "score": 81,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=49748553",
-        "date": "il y a 18 h"
+        "title": "Sauvegarde de 100 To de RAM supplémentaires",
+        "titleOriginal": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "source": "blog.cloudflare.com",
+        "score": 97,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49758580",
+        "date": "il y a 2 h"
       }
     ]
   },
