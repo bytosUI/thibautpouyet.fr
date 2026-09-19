@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-18T23:26:19.333Z",
+  "updatedAt": "2026-09-19T01:23:06.250Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 13,
       "feelsLike": 12,
-      "code": 3,
-      "wind": 4,
-      "humidity": 79
+      "code": 2,
+      "wind": 2,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 112,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,57 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "OpenAI vs Mathématiciens : Qui a vraiment résolu Navier-Stokes ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "wP8_2tpKiJc",
-        "thumbnail": "https://i.ytimg.com/vi/wP8_2tpKiJc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wP8_2tpKiJc",
-        "publishedAt": "2026-09-18T16:00:07+00:00"
-      },
-      {
-        "title": "PAYER 100€ À UN SALARIÉ, ÇA COÛTE 200€ AU PATRON",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "2fBbgQNeJiQ",
-        "thumbnail": "https://i.ytimg.com/vi/2fBbgQNeJiQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2fBbgQNeJiQ",
-        "publishedAt": "2026-09-18T15:33:06+00:00"
-      },
-      {
-        "title": "LA BIÈRE EST PLUS CALORIQUE QU'UN HAMBURGER !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "9WftVdauLbM",
-        "thumbnail": "https://i.ytimg.com/vi/9WftVdauLbM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9WftVdauLbM",
-        "publishedAt": "2026-09-18T15:00:18+00:00"
-      },
-      {
-        "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "rJINZv9n9F0",
-        "thumbnail": "https://i.ytimg.com/vi/rJINZv9n9F0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rJINZv9n9F0",
-        "publishedAt": "2026-09-17T15:24:15+00:00"
-      },
-      {
-        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "bdL5LJ1nTiY",
-        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
-        "publishedAt": "2026-09-13T16:00:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -146,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude Code lit maintenant AGENTS.md s'il n'y a pas Claude.md",
-        "titleOriginal": "Claude Code now reads AGENTS.md if there is no Claude.md",
-        "url": "https://code.claude.com/docs/en/changelog",
-        "source": "code.claude.com",
-        "score": 368,
-        "comments": 139,
-        "hnUrl": "https://news.ycombinator.com/item?id=49760187",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Android 17 est le premier depuis 3.x à ajouter de nouvelles API sans les publier dans l'AOSP",
         "titleOriginal": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "source": "grapheneos.social",
-        "score": 409,
-        "comments": 191,
+        "score": 508,
+        "comments": 246,
         "hnUrl": "https://news.ycombinator.com/item?id=49758736",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Sauvegarde de 100 To de RAM supplémentaires",
-        "titleOriginal": "Saving another 100TB of RAM",
-        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "source": "blog.cloudflare.com",
-        "score": 176,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=49758580",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Tunnels rapides Cloudflare",
         "titleOriginal": "Cloudflare Quick Tunnels",
         "url": "https://try.cloudflare.com/",
         "source": "try.cloudflare.com",
-        "score": 518,
-        "comments": 223,
+        "score": 566,
+        "comments": 247,
         "hnUrl": "https://news.ycombinator.com/item?id=49754785",
-        "date": "il y a 9 h"
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Sauvegarde de 100 To de RAM supplémentaires",
+        "titleOriginal": "Saving another 100TB of RAM",
+        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+        "source": "blog.cloudflare.com",
+        "score": 220,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49758580",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "La lettre de Farnèse",
+        "titleOriginal": "The Farnese letter",
+        "url": "https://simonklee.dk/farnese-letter",
+        "source": "simonklee.dk",
+        "score": 24,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49744036",
+        "date": "hier"
       }
     ]
   },
