@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-19T11:17:39.667Z",
+  "updatedAt": "2026-09-19T14:35:43.386Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
-      "code": 1,
-      "wind": 13,
-      "humidity": 48
+      "temp": 24,
+      "feelsLike": 22,
+      "code": 3,
+      "wind": 14,
+      "humidity": 39
     },
     "forecast": [
       {
         "date": "2026-09-19",
         "code": 3,
         "tmax": 24,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-09-20",
@@ -26,13 +26,13 @@
         "date": "2026-09-21",
         "code": 3,
         "tmax": 22,
-        "tmin": 8
+        "tmin": 7
       },
       {
         "date": "2026-09-22",
-        "code": 1,
+        "code": 2,
         "tmax": 25,
-        "tmin": 9
+        "tmin": 10
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "SON SALAIRE EST VISIBLE PAR SES 200 000 ACTIONNAIRES",
+        "title": "ON LUI ENVOIE UN CV IMPRIMÉ SUR UNE BOUTEILLE DE BIÈRE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Ef3F_wLvz7E",
-        "thumbnail": "https://i.ytimg.com/vi/Ef3F_wLvz7E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ef3F_wLvz7E",
-        "publishedAt": "2026-09-19T11:00:17+00:00"
+        "videoId": "HTq-EwqXeds",
+        "thumbnail": "https://i.ytimg.com/vi/HTq-EwqXeds/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HTq-EwqXeds",
+        "publishedAt": "2026-09-19T13:00:13+00:00"
       },
       {
         "title": "Les chercheurs veulent-ils trouver… ou publier ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le cerveau humain est constitué de deux organes distincts, selon une recherche menée par Stanford Medicine",
-        "titleOriginal": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "source": "med.stanford.edu",
-        "score": 269,
-        "comments": 107,
-        "hnUrl": "https://news.ycombinator.com/item?id=49763697",
-        "date": "il y a 5 h"
+        "title": "Laya la version open source de Jev",
+        "titleOriginal": "Laya the open source version of Jev",
+        "url": "https://laya.convaiinnovations.com/",
+        "source": "laya.convaiinnovations.com",
+        "score": 291,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49765348",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Ce que Zig ressentait, venant de Rust",
+        "titleOriginal": "What Zig felt like, coming from Rust",
+        "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+        "source": "besok.github.io",
+        "score": 17,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49766637",
+        "date": "il y a 40 min"
       },
       {
         "title": "Les affiches générées par l'IA ne doivent pas nécessairement être horribles",
         "titleOriginal": "AI-generated posters don’t have to be horrible",
         "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
         "source": "john.hartnup.uk",
-        "score": 169,
-        "comments": 115,
+        "score": 536,
+        "comments": 334,
         "hnUrl": "https://news.ycombinator.com/item?id=49764791",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Si les mathématiques sont plus que des preuves, nous devons mieux célébrer le reste",
-        "titleOriginal": "If math is more than proof, we need to better celebrate the rest of it",
-        "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-        "source": "terrytao.wordpress.com",
-        "score": 119,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=49763928",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "GPT-6 Astra résout un chiffrement radio allemand de la Première Guerre mondiale",
-        "titleOriginal": "GPT-6 Astra Solves a WWI German Radio Cipher",
-        "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-        "source": "prinzai.com",
-        "score": 136,
-        "comments": 66,
-        "hnUrl": "https://news.ycombinator.com/item?id=49763987",
-        "date": "il y a 4 h"
+        "title": "Le cerveau humain est constitué de deux organes distincts, selon une recherche menée par Stanford Medicine",
+        "titleOriginal": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "source": "med.stanford.edu",
+        "score": 410,
+        "comments": 155,
+        "hnUrl": "https://news.ycombinator.com/item?id=49763697",
+        "date": "il y a 8 h"
       }
     ]
   },
