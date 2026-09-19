@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-19T01:23:06.250Z",
+  "updatedAt": "2026-09-19T06:12:46.041Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
-      "code": 2,
-      "wind": 2,
-      "humidity": 77
+      "temp": 12,
+      "feelsLike": 11,
+      "code": 3,
+      "wind": 5,
+      "humidity": 83
     },
     "forecast": [
       {
         "date": "2026-09-19",
         "code": 3,
-        "tmax": 25,
+        "tmax": 24,
         "tmin": 12
       },
       {
@@ -26,13 +26,13 @@
         "date": "2026-09-21",
         "code": 3,
         "tmax": 22,
-        "tmin": 7
+        "tmin": 8
       },
       {
         "date": "2026-09-22",
         "code": 2,
-        "tmax": 25,
-        "tmin": 11
+        "tmax": 24,
+        "tmin": 9
       }
     ]
   },
@@ -92,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "San Francisco Onion Futures Company",
+        "titleOriginal": "San Francisco Onion Futures Company",
+        "url": "https://onionfutures.com/",
+        "source": "onionfutures.com",
+        "score": 114,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=49763296",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Android 17 est le premier depuis 3.x à ajouter de nouvelles API sans les publier dans l'AOSP",
         "titleOriginal": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
         "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
         "source": "grapheneos.social",
-        "score": 508,
-        "comments": 246,
+        "score": 732,
+        "comments": 357,
         "hnUrl": "https://news.ycombinator.com/item?id=49758736",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Tunnels rapides Cloudflare",
-        "titleOriginal": "Cloudflare Quick Tunnels",
-        "url": "https://try.cloudflare.com/",
-        "source": "try.cloudflare.com",
-        "score": 566,
-        "comments": 247,
-        "hnUrl": "https://news.ycombinator.com/item?id=49754785",
         "date": "il y a 11 h"
       },
       {
-        "title": "Sauvegarde de 100 To de RAM supplémentaires",
-        "titleOriginal": "Saving another 100TB of RAM",
-        "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-        "source": "blog.cloudflare.com",
-        "score": 220,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49758580",
-        "date": "il y a 6 h"
+        "title": "Typesafe : l'utilisation d'un ordinateur conduit un Mac vers un objectif de 1/50e de cent par étape",
+        "titleOriginal": "Typesafe-computer-use drives a Mac toward a goal for 1/50th of a cent per step",
+        "url": "https://github.com/awlevin/typesafe-computer-use",
+        "source": "github.com",
+        "score": 42,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49733647",
+        "date": "il y a 2 j"
       },
       {
-        "title": "La lettre de Farnèse",
-        "titleOriginal": "The Farnese letter",
-        "url": "https://simonklee.dk/farnese-letter",
-        "source": "simonklee.dk",
-        "score": 24,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49744036",
-        "date": "hier"
+        "title": "SDCC – Compilateur C pour petit appareil",
+        "titleOriginal": "SDCC – Small Device C Compiler",
+        "url": "https://sdcc.sourceforge.net/",
+        "source": "sdcc.sourceforge.net",
+        "score": 49,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=49762744",
+        "date": "il y a 3 h"
       }
     ]
   },
