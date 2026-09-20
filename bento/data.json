@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-09-20T19:36:00.897Z",
+  "updatedAt": "2026-09-20T22:07:13.851Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 7,
-      "humidity": 77
+      "temp": 15,
+      "feelsLike": 14,
+      "code": 2,
+      "wind": 8,
+      "humidity": 80
     },
     "forecast": [
-      {
-        "date": "2026-09-20",
-        "code": 45,
-        "tmax": 23,
-        "tmin": 8
-      },
       {
         "date": "2026-09-21",
         "code": 45,
@@ -24,7 +18,7 @@
       },
       {
         "date": "2026-09-22",
-        "code": 0,
+        "code": 1,
         "tmax": 24,
         "tmin": 9
       },
@@ -32,7 +26,13 @@
         "date": "2026-09-23",
         "code": 3,
         "tmax": 24,
-        "tmin": 9
+        "tmin": 8
+      },
+      {
+        "date": "2026-09-24",
+        "code": 3,
+        "tmax": 21,
+        "tmin": 11
       }
     ]
   },
@@ -178,40 +178,40 @@
         "titleOriginal": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
         "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
         "source": "en.sedaily.com",
-        "score": 125,
-        "comments": 84,
+        "score": 243,
+        "comments": 171,
         "hnUrl": "https://news.ycombinator.com/item?id=49778029",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "ChatGPT sait maintenant ce que vous faites sur d'autres sites Web via le collecteur d'annonces",
         "titleOriginal": "ChatGPT now knows what you do on other websites via ad collector",
         "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
         "source": "buchodi.com",
-        "score": 268,
-        "comments": 130,
+        "score": 466,
+        "comments": 253,
         "hnUrl": "https://news.ycombinator.com/item?id=49776729",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Pirate Face sauve les modèles LLM de la suppression",
-        "titleOriginal": "Pirate Face Rescues LLM Models from Deletion",
-        "url": "https://pirateface.co/",
-        "source": "pirateface.co",
-        "score": 284,
-        "comments": 104,
-        "hnUrl": "https://news.ycombinator.com/item?id=49776699",
-        "date": "il y a 4 h"
+        "title": "Personne ne paie pour les logiciels libres, nous pouvons les forcer à",
+        "titleOriginal": "Nobody pays for FOSS, we can force them to",
+        "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+        "source": "seldo.com",
+        "score": 45,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49780064",
+        "date": "il y a 1 h"
       },
       {
         "title": "Image 2.1.",
         "titleOriginal": "Qwen Image 2.1",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "qwen.ai",
-        "score": 344,
-        "comments": 129,
+        "score": 416,
+        "comments": 143,
         "hnUrl": "https://news.ycombinator.com/item?id=49775499",
-        "date": "il y a 6 h"
+        "date": "il y a 8 h"
       }
     ]
   },
