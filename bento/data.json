@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-20T17:14:43.931Z",
+  "updatedAt": "2026-09-20T19:36:00.897Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 22,
+      "temp": 18,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 9,
-      "humidity": 64
+      "wind": 7,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -18,13 +18,13 @@
       },
       {
         "date": "2026-09-21",
-        "code": 3,
+        "code": 45,
         "tmax": 21,
         "tmin": 8
       },
       {
         "date": "2026-09-22",
-        "code": 1,
+        "code": 0,
         "tmax": 24,
         "tmin": 9
       },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Pirate Face sauve les modèles LLM de la suppression",
-        "titleOriginal": "Pirate Face Rescues LLM Models from Deletion",
-        "url": "https://pirateface.co/",
-        "source": "pirateface.co",
-        "score": 122,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49776699",
+        "title": "Samsung devrait plus que doubler la sortie de ses DRAM HBM4 et HBM4E",
+        "titleOriginal": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+        "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+        "source": "en.sedaily.com",
+        "score": 125,
+        "comments": 84,
+        "hnUrl": "https://news.ycombinator.com/item?id=49778029",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Qwen-Image-2.1 : Création d'image compacte, efficace et unifiée",
-        "titleOriginal": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "qwen.ai",
-        "score": 269,
-        "comments": 104,
-        "hnUrl": "https://news.ycombinator.com/item?id=49775499",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Sherline Tools fait faillite",
-        "titleOriginal": "Sherline Tools Is Going Out of Business",
-        "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
-        "source": "toolguyd.com",
-        "score": 84,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=49776627",
-        "date": "il y a 2 h"
       },
       {
         "title": "ChatGPT sait maintenant ce que vous faites sur d'autres sites Web via le collecteur d'annonces",
         "titleOriginal": "ChatGPT now knows what you do on other websites via ad collector",
         "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
         "source": "buchodi.com",
-        "score": 50,
-        "comments": 9,
+        "score": 268,
+        "comments": 130,
         "hnUrl": "https://news.ycombinator.com/item?id=49776729",
-        "date": "il y a 1 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Pirate Face sauve les modèles LLM de la suppression",
+        "titleOriginal": "Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co/",
+        "source": "pirateface.co",
+        "score": 284,
+        "comments": 104,
+        "hnUrl": "https://news.ycombinator.com/item?id=49776699",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Image 2.1.",
+        "titleOriginal": "Qwen Image 2.1",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "qwen.ai",
+        "score": 344,
+        "comments": 129,
+        "hnUrl": "https://news.ycombinator.com/item?id=49775499",
+        "date": "il y a 6 h"
       }
     ]
   },
