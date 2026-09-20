@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-20T13:53:14.054Z",
+  "updatedAt": "2026-09-20T17:14:43.931Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
+      "temp": 21,
       "feelsLike": 22,
       "code": 3,
-      "wind": 14,
-      "humidity": 52
+      "wind": 9,
+      "humidity": 64
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-09-21",
         "code": 3,
         "tmax": 21,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-09-22",
@@ -52,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "CHIRURGIEN : SON PATIENT SE FAISAIT RONGER LA COLONNE VERTÉBRALE PAR DES ASTICOTS",
+        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "XdDdz0vZY8M",
+        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
+        "publishedAt": "2026-09-20T16:00:33+00:00"
+      },
+      {
+        "title": "Impossible de continuer comme prévu #28",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "uevnfKAbWzQ",
+        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
+        "publishedAt": "2026-09-20T15:17:11+00:00"
+      },
+      {
+        "title": "CHIRURGIEN : UN PATIENT EST ANNONCÉ MORT À SA FAMILLE... ALORS QU'IL ÉTAIT ENCORE EN VIE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "-JgjMt7xwA0",
-        "thumbnail": "https://i.ytimg.com/vi/-JgjMt7xwA0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-JgjMt7xwA0",
-        "publishedAt": "2026-09-20T13:00:15+00:00"
+        "videoId": "2WmDGUFJRfs",
+        "thumbnail": "https://i.ytimg.com/vi/2WmDGUFJRfs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2WmDGUFJRfs",
+        "publishedAt": "2026-09-20T14:00:26+00:00"
       },
       {
         "title": "Les chercheurs veulent-ils trouver… ou publier ?",
@@ -88,15 +106,6 @@
         "publishedAt": "2026-09-17T15:24:15+00:00"
       },
       {
-        "title": "Je rejoins Pape San pour ma 1ère Fashion Week à Séoul",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "bdL5LJ1nTiY",
-        "thumbnail": "https://i.ytimg.com/vi/bdL5LJ1nTiY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bdL5LJ1nTiY",
-        "publishedAt": "2026-09-13T16:00:08+00:00"
-      },
-      {
         "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -113,15 +122,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
         "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Je n’ai plus d’eau ni de toilettes… #27",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "m32Pngr5-5M",
-        "thumbnail": "https://i.ytimg.com/vi/m32Pngr5-5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=m32Pngr5-5M",
-        "publishedAt": "2026-08-30T15:17:13+00:00"
       },
       {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Pirate Face sauve les modèles LLM de la suppression",
+        "titleOriginal": "Pirate Face Rescues LLM Models from Deletion",
+        "url": "https://pirateface.co/",
+        "source": "pirateface.co",
+        "score": 122,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49776699",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Qwen-Image-2.1 : Création d'image compacte, efficace et unifiée",
         "titleOriginal": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "qwen.ai",
-        "score": 29,
-        "comments": 4,
+        "score": 269,
+        "comments": 104,
         "hnUrl": "https://news.ycombinator.com/item?id=49775499",
-        "date": "il y a 43 min"
+        "date": "il y a 4 h"
       },
       {
-        "title": "Les modèles grand langage basés sur le chat reproduisent les mécanismes de l'escroquerie d'un médium",
-        "titleOriginal": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-        "url": "https://softwarecrisis.dev/letters/llmentalist/",
-        "source": "softwarecrisis.dev",
-        "score": 36,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49775104",
-        "date": "il y a 1 h"
+        "title": "Sherline Tools fait faillite",
+        "titleOriginal": "Sherline Tools Is Going Out of Business",
+        "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+        "source": "toolguyd.com",
+        "score": 84,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49776627",
+        "date": "il y a 2 h"
       },
       {
-        "title": "L'IA et la destruction des Creative Commons",
-        "titleOriginal": "AI and the Destruction of the Creative Commons",
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-        "source": "chesterwisniewski.com",
-        "score": 169,
-        "comments": 154,
-        "hnUrl": "https://news.ycombinator.com/item?id=49774329",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Les problèmes du millénaire pour la biologie",
-        "titleOriginal": "The Millennium Problems for Biology",
-        "url": "https://millenniumproblems.bio/",
-        "source": "millenniumproblems.bio",
-        "score": 24,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49775082",
+        "title": "ChatGPT sait maintenant ce que vous faites sur d'autres sites Web via le collecteur d'annonces",
+        "titleOriginal": "ChatGPT now knows what you do on other websites via ad collector",
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+        "source": "buchodi.com",
+        "score": 50,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49776729",
         "date": "il y a 1 h"
       }
     ]
