@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-21T05:13:37.999Z",
+  "updatedAt": "2026-09-21T10:55:48.693Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 8,
-      "feelsLike": 7,
-      "code": 45,
-      "wind": 4,
-      "humidity": 96
+      "temp": 18,
+      "feelsLike": 16,
+      "code": 3,
+      "wind": 10,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-09-22",
-        "code": 0,
+        "code": 1,
         "tmax": 23,
         "tmin": 9
       },
@@ -31,8 +31,8 @@
       {
         "date": "2026-09-24",
         "code": 3,
-        "tmax": 23,
-        "tmin": 10
+        "tmax": 20,
+        "tmin": 12
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "IL COINCE SON S*XE DANS DES ANNEAUX DE MUSCULATION",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "FPanmOeW-30",
+        "thumbnail": "https://i.ytimg.com/vi/FPanmOeW-30/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FPanmOeW-30",
+        "publishedAt": "2026-09-21T10:00:19+00:00"
+      },
+      {
+        "title": "Faut-il laisser son épargne en France avant le budget 2027 ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "UxEZOD0SQmA",
+        "thumbnail": "https://i.ytimg.com/vi/UxEZOD0SQmA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UxEZOD0SQmA",
+        "publishedAt": "2026-09-21T09:39:49+00:00"
+      },
+      {
+        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "XdDdz0vZY8M",
+        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
+        "publishedAt": "2026-09-20T16:00:33+00:00"
+      },
+      {
+        "title": "Impossible de continuer comme prévu #28",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "uevnfKAbWzQ",
+        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
+        "publishedAt": "2026-09-20T15:17:11+00:00"
+      },
+      {
+        "title": "Les chercheurs veulent-ils trouver… ou publier ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "sOsQk5Uw0uY",
+        "thumbnail": "https://i.ytimg.com/vi/sOsQk5Uw0uY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sOsQk5Uw0uY",
+        "publishedAt": "2026-09-19T10:02:40+00:00"
+      },
+      {
+        "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "rJINZv9n9F0",
+        "thumbnail": "https://i.ytimg.com/vi/rJINZv9n9F0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rJINZv9n9F0",
+        "publishedAt": "2026-09-17T15:24:15+00:00"
+      },
+      {
+        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "Hi6VfQpC7TQ",
+        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
+        "publishedAt": "2026-09-13T09:48:43+00:00"
+      },
+      {
+        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "2QcaDwpvl7s",
+        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
+        "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "AX – Open Agentic Orchestrator de Google",
-        "titleOriginal": "AX – Google’s Open Agentic Orchestrator",
-        "url": "https://agentexecutor.io",
-        "source": "agentexecutor.io",
-        "score": 342,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=49780797",
-        "date": "il y a 6 h"
+        "title": "Kev : Minuscule famille de modèles de décision de type Jev construits sur Qwen3.5",
+        "titleOriginal": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "url": "https://github.com/jaredpalmer/kev/tree/main",
+        "source": "github.com",
+        "score": 114,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=49783999",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Samsung devrait plus que doubler la sortie de ses DRAM HBM4 et HBM4E",
-        "titleOriginal": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-        "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-        "source": "en.sedaily.com",
-        "score": 402,
-        "comments": 261,
-        "hnUrl": "https://news.ycombinator.com/item?id=49778029",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Image 2.1.",
-        "titleOriginal": "Qwen Image 2.1",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "qwen.ai",
-        "score": 558,
-        "comments": 161,
-        "hnUrl": "https://news.ycombinator.com/item?id=49775499",
-        "date": "il y a 16 h"
-      },
-      {
-        "title": " En gagnant à la loterie",
-        "titleOriginal": "Winning the Visa Lottery",
-        "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-        "source": "aeaweb.org",
-        "score": 11,
+        "title": "ZuckOff Savoir quand une caméra est dans la pièce",
+        "titleOriginal": "ZuckOff Know when a camera is in the room",
+        "url": "https://zuckoff.app/",
+        "source": "zuckoff.app",
+        "score": 7,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49782775",
-        "date": "il y a 1 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=49785429",
+        "date": "il y a 22 min"
+      },
+      {
+        "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "titleOriginal": "Grim Fandango Puzzle Document (1996) [pdf]",
+        "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+        "source": "gameshelf.jmac.org",
+        "score": 203,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49783495",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Jev-Leftpad",
+        "titleOriginal": "Jev-Leftpad",
+        "url": "https://github.com/f/jev-leftpad",
+        "source": "github.com",
+        "score": 60,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49784706",
+        "date": "il y a 2 h"
       }
     ]
   },
