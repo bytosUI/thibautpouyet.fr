@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-20T22:07:13.851Z",
+  "updatedAt": "2026-09-21T00:22:32.556Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 2,
-      "wind": 8,
-      "humidity": 80
+      "temp": 12,
+      "feelsLike": 12,
+      "code": 3,
+      "wind": 4,
+      "humidity": 91
     },
     "forecast": [
       {
@@ -18,8 +18,8 @@
       },
       {
         "date": "2026-09-22",
-        "code": 1,
-        "tmax": 24,
+        "code": 0,
+        "tmax": 23,
         "tmin": 9
       },
       {
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Open Agentic Orchestrator de Google",
+        "titleOriginal": "Google's Open Agentic Orchestrator",
+        "url": "https://agentexecutor.io",
+        "source": "agentexecutor.io",
+        "score": 105,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=49780797",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Samsung devrait plus que doubler la sortie de ses DRAM HBM4 et HBM4E",
         "titleOriginal": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
         "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
         "source": "en.sedaily.com",
-        "score": 243,
-        "comments": 171,
+        "score": 331,
+        "comments": 212,
         "hnUrl": "https://news.ycombinator.com/item?id=49778029",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "ChatGPT sait maintenant ce que vous faites sur d'autres sites Web via le collecteur d'annonces",
-        "titleOriginal": "ChatGPT now knows what you do on other websites via ad collector",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "source": "buchodi.com",
-        "score": 466,
-        "comments": 253,
-        "hnUrl": "https://news.ycombinator.com/item?id=49776729",
-        "date": "il y a 6 h"
+        "title": "Qu'est-il arrivé aux archives Snowden",
+        "titleOriginal": "What Happened to the Snowden Archive",
+        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+        "source": "libroot.org",
+        "score": 87,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=49780820",
+        "date": "il y a 1 h"
       },
       {
         "title": "Personne ne paie pour les logiciels libres, nous pouvons les forcer à",
         "titleOriginal": "Nobody pays for FOSS, we can force them to",
         "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
         "source": "seldo.com",
-        "score": 45,
-        "comments": 18,
+        "score": 117,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=49780064",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Image 2.1.",
-        "titleOriginal": "Qwen Image 2.1",
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "qwen.ai",
-        "score": 416,
-        "comments": 143,
-        "hnUrl": "https://news.ycombinator.com/item?id=49775499",
-        "date": "il y a 8 h"
+        "date": "il y a 3 h"
       }
     ]
   },
