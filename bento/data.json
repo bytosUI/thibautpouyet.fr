@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-21T00:22:32.556Z",
+  "updatedAt": "2026-09-21T05:13:37.999Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 12,
-      "code": 3,
+      "temp": 8,
+      "feelsLike": 7,
+      "code": 45,
       "wind": 4,
-      "humidity": 91
+      "humidity": 96
     },
     "forecast": [
       {
@@ -26,13 +26,13 @@
         "date": "2026-09-23",
         "code": 3,
         "tmax": 24,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-09-24",
         "code": 3,
-        "tmax": 21,
-        "tmin": 11
+        "tmax": 23,
+        "tmin": 10
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Impossible de continuer comme prévu #28",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "uevnfKAbWzQ",
-        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
-        "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "CHIRURGIEN : UN PATIENT EST ANNONCÉ MORT À SA FAMILLE... ALORS QU'IL ÉTAIT ENCORE EN VIE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "2WmDGUFJRfs",
-        "thumbnail": "https://i.ytimg.com/vi/2WmDGUFJRfs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2WmDGUFJRfs",
-        "publishedAt": "2026-09-20T14:00:26+00:00"
-      },
-      {
-        "title": "Les chercheurs veulent-ils trouver… ou publier ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "sOsQk5Uw0uY",
-        "thumbnail": "https://i.ytimg.com/vi/sOsQk5Uw0uY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sOsQk5Uw0uY",
-        "publishedAt": "2026-09-19T10:02:40+00:00"
-      },
-      {
-        "title": "PAYER 100€ À UN SALARIÉ, ÇA COÛTE 200€ AU PATRON",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "2fBbgQNeJiQ",
-        "thumbnail": "https://i.ytimg.com/vi/2fBbgQNeJiQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2fBbgQNeJiQ",
-        "publishedAt": "2026-09-18T15:33:06+00:00"
-      },
-      {
-        "title": "Janco nous parle du projet « Un Commun Accord » que l’on soutient",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "rJINZv9n9F0",
-        "thumbnail": "https://i.ytimg.com/vi/rJINZv9n9F0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rJINZv9n9F0",
-        "publishedAt": "2026-09-17T15:24:15+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Open Agentic Orchestrator de Google",
-        "titleOriginal": "Google's Open Agentic Orchestrator",
+        "title": "AX – Open Agentic Orchestrator de Google",
+        "titleOriginal": "AX – Google’s Open Agentic Orchestrator",
         "url": "https://agentexecutor.io",
         "source": "agentexecutor.io",
-        "score": 105,
-        "comments": 42,
+        "score": 342,
+        "comments": 132,
         "hnUrl": "https://news.ycombinator.com/item?id=49780797",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Samsung devrait plus que doubler la sortie de ses DRAM HBM4 et HBM4E",
         "titleOriginal": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
         "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
         "source": "en.sedaily.com",
-        "score": 331,
-        "comments": 212,
+        "score": 402,
+        "comments": 261,
         "hnUrl": "https://news.ycombinator.com/item?id=49778029",
-        "date": "il y a 6 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Qu'est-il arrivé aux archives Snowden",
-        "titleOriginal": "What Happened to the Snowden Archive",
-        "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-        "source": "libroot.org",
-        "score": 87,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=49780820",
+        "title": "Image 2.1.",
+        "titleOriginal": "Qwen Image 2.1",
+        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+        "source": "qwen.ai",
+        "score": 558,
+        "comments": 161,
+        "hnUrl": "https://news.ycombinator.com/item?id=49775499",
+        "date": "il y a 16 h"
+      },
+      {
+        "title": " En gagnant à la loterie",
+        "titleOriginal": "Winning the Visa Lottery",
+        "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+        "source": "aeaweb.org",
+        "score": 11,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49782775",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Personne ne paie pour les logiciels libres, nous pouvons les forcer à",
-        "titleOriginal": "Nobody pays for FOSS, we can force them to",
-        "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-        "source": "seldo.com",
-        "score": 117,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=49780064",
-        "date": "il y a 3 h"
       }
     ]
   },
