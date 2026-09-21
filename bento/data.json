@@ -1,53 +1,45 @@
 {
-  "updatedAt": "2026-09-21T20:44:35.004Z",
+  "updatedAt": "2026-09-21T23:46:51.900Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
+      "temp": 11,
+      "feelsLike": 10,
       "code": 0,
-      "wind": 4,
-      "humidity": 59
+      "wind": 3,
+      "humidity": 75
     },
     "forecast": [
       {
-        "date": "2026-09-21",
-        "code": 45,
-        "tmax": 21,
-        "tmin": 8
-      },
-      {
         "date": "2026-09-22",
-        "code": 0,
+        "code": 1,
         "tmax": 23,
         "tmin": 8
       },
       {
         "date": "2026-09-23",
         "code": 3,
-        "tmax": 23,
+        "tmax": 24,
         "tmin": 9
       },
       {
         "date": "2026-09-24",
         "code": 3,
         "tmax": 21,
-        "tmin": 12
+        "tmin": 11
+      },
+      {
+        "date": "2026-09-25",
+        "code": 3,
+        "tmax": 26,
+        "tmin": 7
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 23846,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -186,40 +178,40 @@
         "titleOriginal": "Xiaomi MiMo v2.6",
         "url": "https://mimo.xiaomi.com/mimo-v2-6",
         "source": "mimo.xiaomi.com",
-        "score": 93,
-        "comments": 17,
+        "score": 428,
+        "comments": 213,
         "hnUrl": "https://news.ycombinator.com/item?id=49792730",
-        "date": "il y a 32 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "La mission NASA/ESA Mars Sample Return a été annulée",
-        "titleOriginal": "The NASA/ESA Mars Sample Return mission has been canceled",
-        "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-        "source": "science.org",
-        "score": 135,
-        "comments": 78,
-        "hnUrl": "https://news.ycombinator.com/item?id=49791939",
+        "title": "La Commission de protection des données inflige une amende de 403 M € à Google pour le traitement des données de localisation",
+        "titleOriginal": "Data Protection Commission fines Google €403M over processing of location data",
+        "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
+        "source": "dataprotection.ie",
+        "score": 46,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=49794354",
         "date": "il y a 1 h"
       },
       {
-        "title": "Ce que Sun s'est trompé",
-        "titleOriginal": "What Sun got wrong",
-        "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-        "source": "bcantrill.dtrace.org",
-        "score": 411,
-        "comments": 229,
-        "hnUrl": "https://news.ycombinator.com/item?id=49787436",
-        "date": "il y a 6 h"
+        "title": "Suspension de l'exemption administrative de minimis pour les importations de 800 $ ou moins",
+        "titleOriginal": "Suspension of the de minimis administrative exemption for imports $800 or less",
+        "url": "https://www.personalimportation.org/advocacy",
+        "source": "personalimportation.org",
+        "score": 108,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49793322",
+        "date": "il y a 2 h"
       },
       {
-        "title": "L'attention est tout ce que vous avez",
-        "titleOriginal": "Attention is all you have",
-        "url": "https://alicegg.tech/2026/09/21/attention",
-        "source": "alicegg.tech",
-        "score": 434,
-        "comments": 129,
-        "hnUrl": "https://news.ycombinator.com/item?id=49787726",
-        "date": "il y a 6 h"
+        "title": "La mission Mars Sample Return de la NASA est morte",
+        "titleOriginal": "NASA’s Mars Sample Return mission is dead",
+        "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+        "source": "science.org",
+        "score": 267,
+        "comments": 197,
+        "hnUrl": "https://news.ycombinator.com/item?id=49791939",
+        "date": "il y a 4 h"
       }
     ]
   },
