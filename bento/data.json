@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-22T20:46:06.460Z",
+  "updatedAt": "2026-09-22T23:25:33.554Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 14,
+      "temp": 14,
+      "feelsLike": 13,
       "code": 0,
-      "wind": 9,
-      "humidity": 59
+      "wind": 5,
+      "humidity": 70
     },
     "forecast": [
       {
-        "date": "2026-09-22",
-        "code": 1,
-        "tmax": 23,
-        "tmin": 8
-      },
-      {
         "date": "2026-09-23",
         "code": 3,
-        "tmax": 25,
-        "tmin": 9
+        "tmax": 24,
+        "tmin": 10
       },
       {
         "date": "2026-09-24",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 12
       },
       {
         "date": "2026-09-25",
         "code": 3,
-        "tmax": 23,
+        "tmax": 25,
         "tmin": 8
+      },
+      {
+        "date": "2026-09-26",
+        "code": 3,
+        "tmax": 23,
+        "tmin": 5
       }
     ]
   },
@@ -178,29 +178,19 @@
         "titleOriginal": "GPT-6 Sol and Luna",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "source": "openai.com",
-        "score": 767,
-        "comments": 426,
+        "score": 1040,
+        "comments": 547,
         "hnUrl": "https://news.ycombinator.com/item?id=49805509",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Claude Opus 5.5",
         "titleOriginal": "Claude Opus 5.5",
         "url": "https://www.anthropic.com/claude-opus-5-5",
         "source": "anthropic.com",
-        "score": 855,
-        "comments": 645,
+        "score": 1077,
+        "comments": 759,
         "hnUrl": "https://news.ycombinator.com/item?id=49803892",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "OpenAI GPT–6 Astra brise le message Enigma qui résiste à la solution depuis 2005",
-        "titleOriginal": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "source": "cryptocellar.org",
-        "score": 480,
-        "comments": 338,
-        "hnUrl": "https://news.ycombinator.com/item?id=49801324",
         "date": "il y a 6 h"
       },
       {
@@ -208,10 +198,20 @@
         "titleOriginal": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
         "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
         "source": "404media.co",
-        "score": 78,
-        "comments": 39,
+        "score": 290,
+        "comments": 198,
         "hnUrl": "https://news.ycombinator.com/item?id=49805278",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Microsoft a tué FoxPro en 2007. Quoi qu'il en soit, voici FoxPro relancé",
+        "titleOriginal": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+        "url": "https://foxscript.org/",
+        "source": "foxscript.org",
+        "score": 121,
+        "comments": 84,
+        "hnUrl": "https://news.ycombinator.com/item?id=49808023",
+        "date": "il y a 2 h"
       }
     ]
   },
