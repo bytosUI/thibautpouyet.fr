@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-21T23:46:51.900Z",
+  "updatedAt": "2026-09-22T02:55:52.295Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
+      "temp": 9,
+      "feelsLike": 8,
       "code": 0,
       "wind": 3,
-      "humidity": 75
+      "humidity": 83
     },
     "forecast": [
       {
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "LE VRAI PROBLÈME DE LA FISCALITÉ FRANÇAISE",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "bxw4I62_sKs",
-        "thumbnail": "https://i.ytimg.com/vi/bxw4I62_sKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bxw4I62_sKs",
-        "publishedAt": "2026-09-21T17:36:59+00:00"
-      },
-      {
-        "title": "J’ai donné accès à toutes mes données à une IA : qu’est-ce qui s’est passé ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "7n6dgy2xE30",
-        "thumbnail": "https://i.ytimg.com/vi/7n6dgy2xE30/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7n6dgy2xE30",
-        "publishedAt": "2026-09-21T16:00:00+00:00"
-      },
-      {
-        "title": "7% du produit que tu achètes revient à l’agriculteur",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "nLFXRjvLrcw",
-        "thumbnail": "https://i.ytimg.com/vi/nLFXRjvLrcw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nLFXRjvLrcw",
-        "publishedAt": "2026-09-21T15:17:20+00:00"
-      },
-      {
-        "title": "SI ON VOUS ÉCRASE L'INTESTIN, VOUS NE SENTIREZ PAS DE DOULEUR",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "frdszH1D_3I",
-        "thumbnail": "https://i.ytimg.com/vi/frdszH1D_3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=frdszH1D_3I",
-        "publishedAt": "2026-09-21T15:00:22+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Impossible de continuer comme prévu #28",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "uevnfKAbWzQ",
-        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
-        "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,40 +96,40 @@
         "titleOriginal": "Xiaomi MiMo v2.6",
         "url": "https://mimo.xiaomi.com/mimo-v2-6",
         "source": "mimo.xiaomi.com",
-        "score": 428,
-        "comments": 213,
+        "score": 594,
+        "comments": 302,
         "hnUrl": "https://news.ycombinator.com/item?id=49792730",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Spymarks, pas de filigranes",
+        "titleOriginal": "Spymarks, Not Watermarks",
+        "url": "https://brand.io/article/spymarks/",
+        "source": "brand.io",
+        "score": 163,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49794615",
         "date": "il y a 3 h"
       },
       {
-        "title": "La Commission de protection des données inflige une amende de 403 M € à Google pour le traitement des données de localisation",
-        "titleOriginal": "Data Protection Commission fines Google €403M over processing of location data",
-        "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-        "source": "dataprotection.ie",
-        "score": 46,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49794354",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Suspension de l'exemption administrative de minimis pour les importations de 800 $ ou moins",
-        "titleOriginal": "Suspension of the de minimis administrative exemption for imports $800 or less",
-        "url": "https://www.personalimportation.org/advocacy",
-        "source": "personalimportation.org",
-        "score": 108,
-        "comments": 63,
-        "hnUrl": "https://news.ycombinator.com/item?id=49793322",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "La mission Mars Sample Return de la NASA est morte",
-        "titleOriginal": "NASA’s Mars Sample Return mission is dead",
-        "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-        "source": "science.org",
-        "score": 267,
-        "comments": 197,
-        "hnUrl": "https://news.ycombinator.com/item?id=49791939",
+        "title": "Je ne veux pas lire ce que vous n'avez pas écrit",
+        "titleOriginal": "I don't want to read what you didn't write",
+        "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+        "source": "blog.colinbreck.com",
+        "score": 333,
+        "comments": 119,
+        "hnUrl": "https://news.ycombinator.com/item?id=49794330",
         "date": "il y a 4 h"
+      },
+      {
+        "title": "Transformateurs expliqués visuellement",
+        "titleOriginal": "Transformers Explained Visually",
+        "url": "https://poloclub.github.io/transformer-explainer/",
+        "source": "poloclub.github.io",
+        "score": 225,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49792342",
+        "date": "il y a 7 h"
       }
     ]
   },
