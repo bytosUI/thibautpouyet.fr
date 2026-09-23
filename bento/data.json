@@ -1,48 +1,70 @@
 {
-  "updatedAt": "2026-09-23T07:11:11.291Z",
+  "updatedAt": "2026-09-23T12:51:27.834Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
+      "temp": 24,
+      "feelsLike": 23,
       "code": 0,
       "wind": 1,
-      "humidity": 73
+      "humidity": 31
     },
     "forecast": [
       {
         "date": "2026-09-23",
         "code": 3,
-        "tmax": 24,
-        "tmin": 9
+        "tmax": 25,
+        "tmin": 8
       },
       {
         "date": "2026-09-24",
         "code": 3,
-        "tmax": 24,
+        "tmax": 22,
         "tmin": 11
       },
       {
         "date": "2026-09-25",
         "code": 3,
-        "tmax": 26,
-        "tmin": 8
+        "tmax": 25,
+        "tmin": 9
       },
       {
         "date": "2026-09-26",
         "code": 3,
-        "tmax": 26,
+        "tmax": 25,
         "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "GeoGuessr",
+        "viewers": 4592,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 821,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "micode",
+        "displayName": "Micode",
+        "game": "Talk Shows & Podcasts",
+        "viewers": 327,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
+        "url": "https://twitch.tv/micode"
+      }
+    ],
     "offline": [
-      "domingo",
-      "bastiui",
       "hardisk",
-      "micode",
       "nowtechteam",
       "origatwitch",
       "firsteam",
@@ -52,13 +74,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "La prudence, c’est une cause de mort !",
+        "title": "BRAQUEUR : IL RACONTE AVEC PRÉCISION COMMENT IL BRAQUAIT LES FOURGONS BLINDÉS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "-VV860Ny6y4",
+        "thumbnail": "https://i.ytimg.com/vi/-VV860Ny6y4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-VV860Ny6y4",
+        "publishedAt": "2026-09-23T11:00:07+00:00"
+      },
+      {
+        "title": "Méfie-toi des gens très intelligents !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "tEMkb8aHORU",
-        "thumbnail": "https://i.ytimg.com/vi/tEMkb8aHORU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tEMkb8aHORU",
-        "publishedAt": "2026-09-23T06:01:03+00:00"
+        "videoId": "T5BT7XZiRVE",
+        "thumbnail": "https://i.ytimg.com/vi/T5BT7XZiRVE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T5BT7XZiRVE",
+        "publishedAt": "2026-09-23T10:02:36+00:00"
       },
       {
         "title": "ON PEUT SE RUINER EN VOULANT PROTÉGER SON ARGENT",
@@ -68,15 +99,6 @@
         "thumbnail": "https://i.ytimg.com/vi/tuTXfOeuFrY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tuTXfOeuFrY",
         "publishedAt": "2026-09-22T17:23:06+00:00"
-      },
-      {
-        "title": "SCHIZOPHRÈNE : ELLE RESSENT DES INSECTES SUR ELLE ALORS QU’IL N’Y A RIEN",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "NDsnk_uNr00",
-        "thumbnail": "https://i.ytimg.com/vi/NDsnk_uNr00/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NDsnk_uNr00",
-        "publishedAt": "2026-09-22T16:00:01+00:00"
       },
       {
         "title": "Tierlist des lettres de l’alphabet (désolé à tous les H qui nous regardent)",
@@ -174,44 +196,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Claude Code lit AGENTS.md uniquement lorsque la télémétrie est activée",
+        "titleOriginal": "Claude Code reads AGENTS.md only when telemetry is on",
+        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "source": "blog.szypowi.cz",
+        "score": 55,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49814947",
+        "date": "il y a 35 min"
+      },
+      {
+        "title": "Jev en 25 lignes de Python",
+        "titleOriginal": "Jev in 25 Lines of Python",
+        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "source": "nobodywho.ai",
+        "score": 310,
+        "comments": 98,
+        "hnUrl": "https://news.ycombinator.com/item?id=49812769",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Z80 REPL",
+        "titleOriginal": "Z80 REPL",
+        "url": "https://abagames.github.io/z80-repl/index.html",
+        "source": "abagames.github.io",
+        "score": 44,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49814236",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "GPT-6 Sol et Luna",
         "titleOriginal": "GPT-6 Sol and Luna",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "source": "openai.com",
-        "score": 1434,
-        "comments": 693,
+        "score": 1612,
+        "comments": 775,
         "hnUrl": "https://news.ycombinator.com/item?id=49805509",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "Claude Opus 5.5",
-        "titleOriginal": "Claude Opus 5.5",
-        "url": "https://www.anthropic.com/claude-opus-5-5",
-        "source": "anthropic.com",
-        "score": 1447,
-        "comments": 908,
-        "hnUrl": "https://news.ycombinator.com/item?id=49803892",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Récompenses de transport en commun",
-        "titleOriginal": "Transit rewards",
-        "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-        "source": "waymo.com",
-        "score": 107,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=49811065",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Les attaques basées uniquement sur les données sont plus faciles que vous ne le pensez (2024)",
-        "titleOriginal": "Data-only attacks are easier than you think (2024)",
-        "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
-        "source": "usenix.org",
-        "score": 36,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49811429",
-        "date": "il y a 3 h"
+        "date": "il y a 18 h"
       }
     ]
   },
