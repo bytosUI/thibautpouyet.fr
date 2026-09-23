@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-09-23T20:58:22.599Z",
+  "updatedAt": "2026-09-23T23:27:21.737Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 3,
-      "wind": 2,
-      "humidity": 71
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 2,
+      "wind": 3,
+      "humidity": 82
     },
     "forecast": [
-      {
-        "date": "2026-09-23",
-        "code": 3,
-        "tmax": 25,
-        "tmin": 8
-      },
       {
         "date": "2026-09-24",
         "code": 3,
@@ -26,13 +20,19 @@
         "date": "2026-09-25",
         "code": 3,
         "tmax": 25,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-09-26",
         "code": 3,
         "tmax": 26,
-        "tmin": 9
+        "tmin": 8
+      },
+      {
+        "date": "2026-09-27",
+        "code": 45,
+        "tmax": 27,
+        "tmin": 10
       }
     ]
   },
@@ -178,9 +178,29 @@
         "titleOriginal": "Claude discovers a novel enzyme system with CRISPR-like repeats",
         "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
         "source": "anthropic.com",
-        "score": 262,
-        "comments": 258,
+        "score": 414,
+        "comments": 454,
         "hnUrl": "https://news.ycombinator.com/item?id=49820134",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "La prise en charge de Linux arrive dans la série Snapdragon X2",
+        "titleOriginal": "Linux support is coming to Snapdragon X2 Series",
+        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+        "source": "qualcomm.com",
+        "score": 33,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49823582",
+        "date": "il y a 49 min"
+      },
+      {
+        "title": "L'agent SSH de VSCode est la banane (2025)",
+        "titleOriginal": "VSCode's SSH Agent Is Bananas (2025)",
+        "url": "https://fly.io/blog/vscode-ssh-wtf/",
+        "source": "fly.io",
+        "score": 80,
+        "comments": 60,
+        "hnUrl": "https://news.ycombinator.com/item?id=49822555",
         "date": "il y a 2 h"
       },
       {
@@ -188,30 +208,10 @@
         "titleOriginal": "Fixing the Portobello Police Station Clock",
         "url": "https://pointinthecloud.com/2026-04-11-211700.html",
         "source": "pointinthecloud.com",
-        "score": 322,
-        "comments": 71,
+        "score": 364,
+        "comments": 84,
         "hnUrl": "https://news.ycombinator.com/item?id=49817469",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Un bref historique des raccourcis de la barre de défilement Windows",
-        "titleOriginal": "A brief history of Windows scroll bar shortcuts",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-        "source": "devblogs.microsoft.com",
-        "score": 61,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49820065",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Le Parlement italien vote le retour à l'énergie nucléaire",
-        "titleOriginal": "Italian parliament votes for return to nuclear energy",
-        "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
-        "source": "apnews.com",
-        "score": 352,
-        "comments": 201,
-        "hnUrl": "https://news.ycombinator.com/item?id=49819221",
-        "date": "il y a 3 h"
+        "date": "il y a 8 h"
       }
     ]
   },
