@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-23T12:51:27.834Z",
+  "updatedAt": "2026-09-23T17:38:55.374Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
-      "code": 0,
-      "wind": 1,
-      "humidity": 31
+      "temp": 22,
+      "feelsLike": 21,
+      "code": 1,
+      "wind": 6,
+      "humidity": 41
     },
     "forecast": [
       {
@@ -19,52 +19,30 @@
       {
         "date": "2026-09-24",
         "code": 3,
-        "tmax": 22,
+        "tmax": 23,
         "tmin": 11
       },
       {
         "date": "2026-09-25",
         "code": 3,
         "tmax": 25,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-09-26",
         "code": 3,
-        "tmax": 25,
-        "tmin": 8
+        "tmax": 26,
+        "tmin": 9
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "GeoGuessr",
-        "viewers": 4592,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 821,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      },
-      {
-        "user": "micode",
-        "displayName": "Micode",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 327,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
-        "url": "https://twitch.tv/micode"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
+      "bastiui",
       "hardisk",
+      "micode",
       "nowtechteam",
       "origatwitch",
       "firsteam",
@@ -74,40 +52,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "BRAQUEUR : IL RACONTE AVEC PRÉCISION COMMENT IL BRAQUAIT LES FOURGONS BLINDÉS",
+        "title": "IL SE FAIT PASSER POUR VICTIME DE SON PROPRE BRAQUAGE… MAIS SON COMPLICE LE BALANCE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "-VV860Ny6y4",
-        "thumbnail": "https://i.ytimg.com/vi/-VV860Ny6y4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-VV860Ny6y4",
-        "publishedAt": "2026-09-23T11:00:07+00:00"
+        "videoId": "g4kvqyjL0RQ",
+        "thumbnail": "https://i.ytimg.com/vi/g4kvqyjL0RQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g4kvqyjL0RQ",
+        "publishedAt": "2026-09-23T16:30:33+00:00"
       },
       {
-        "title": "Méfie-toi des gens très intelligents !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "T5BT7XZiRVE",
-        "thumbnail": "https://i.ytimg.com/vi/T5BT7XZiRVE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T5BT7XZiRVE",
-        "publishedAt": "2026-09-23T10:02:36+00:00"
-      },
-      {
-        "title": "ON PEUT SE RUINER EN VOULANT PROTÉGER SON ARGENT",
+        "title": "ATTENTION AUX ARNAQUES FINANCIÈRES !",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "tuTXfOeuFrY",
-        "thumbnail": "https://i.ytimg.com/vi/tuTXfOeuFrY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tuTXfOeuFrY",
-        "publishedAt": "2026-09-22T17:23:06+00:00"
+        "videoId": "kuP8kAxA5xw",
+        "thumbnail": "https://i.ytimg.com/vi/kuP8kAxA5xw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kuP8kAxA5xw",
+        "publishedAt": "2026-09-23T16:30:25+00:00"
       },
       {
-        "title": "Tierlist des lettres de l’alphabet (désolé à tous les H qui nous regardent)",
+        "title": "Prix Fnac, Goncourt… L’IA a-t-elle infiltré la littérature ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "aTPTo8teK50",
+        "thumbnail": "https://i.ytimg.com/vi/aTPTo8teK50/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aTPTo8teK50",
+        "publishedAt": "2026-09-23T16:00:15+00:00"
+      },
+      {
+        "title": "Voyage s'écrit Voaillage ?!",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "8BhWoVSBtwc",
-        "thumbnail": "https://i.ytimg.com/vi/8BhWoVSBtwc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8BhWoVSBtwc",
-        "publishedAt": "2026-09-22T15:25:37+00:00"
+        "videoId": "topeddDAPVI",
+        "thumbnail": "https://i.ytimg.com/vi/topeddDAPVI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=topeddDAPVI",
+        "publishedAt": "2026-09-23T15:47:41+00:00"
       },
       {
         "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
@@ -196,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Claude Code lit AGENTS.md uniquement lorsque la télémétrie est activée",
-        "titleOriginal": "Claude Code reads AGENTS.md only when telemetry is on",
-        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-        "source": "blog.szypowi.cz",
-        "score": 55,
+        "title": "Réparation de l'horloge du poste de police de Portobello",
+        "titleOriginal": "Fixing the Portobello Police Station Clock",
+        "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+        "source": "pointinthecloud.com",
+        "score": 177,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=49817469",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Radicle : Divulgation de la vulnérabilité dans le protocole réseau",
+        "titleOriginal": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+        "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+        "source": "radicle.dev",
+        "score": 45,
         "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49814947",
-        "date": "il y a 35 min"
+        "hnUrl": "https://news.ycombinator.com/item?id=49817524",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Jev en 25 lignes de Python",
-        "titleOriginal": "Jev in 25 Lines of Python",
-        "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-        "source": "nobodywho.ai",
-        "score": 310,
-        "comments": 98,
-        "hnUrl": "https://news.ycombinator.com/item?id=49812769",
-        "date": "il y a 5 h"
+        "title": "Texte de synthèse vocale Gemini 3.8",
+        "titleOriginal": "Gemini 3.8 text-to-speech",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+        "source": "blog.google",
+        "score": 97,
+        "comments": 57,
+        "hnUrl": "https://news.ycombinator.com/item?id=49817615",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Z80 REPL",
-        "titleOriginal": "Z80 REPL",
-        "url": "https://abagames.github.io/z80-repl/index.html",
-        "source": "abagames.github.io",
-        "score": 44,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49814236",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "GPT-6 Sol et Luna",
-        "titleOriginal": "GPT-6 Sol and Luna",
-        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-        "source": "openai.com",
-        "score": 1612,
-        "comments": 775,
-        "hnUrl": "https://news.ycombinator.com/item?id=49805509",
-        "date": "il y a 18 h"
+        "title": "Plateforme d'intelligence artificielle Knowledge de Stripe",
+        "titleOriginal": "Stripe's Knowledge AI Platform",
+        "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+        "source": "stripe.dev",
+        "score": 115,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=49815982",
+        "date": "il y a 4 h"
       }
     ]
   },
