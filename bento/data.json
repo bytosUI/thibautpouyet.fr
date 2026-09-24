@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-24T12:48:56.349Z",
+  "updatedAt": "2026-09-24T17:42:14.263Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 21,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 5,
-      "humidity": 56
+      "wind": 7,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -20,34 +20,26 @@
         "date": "2026-09-25",
         "code": 3,
         "tmax": 25,
-        "tmin": 8
+        "tmin": 7
       },
       {
         "date": "2026-09-26",
         "code": 3,
-        "tmax": 25,
-        "tmin": 8
+        "tmax": 24,
+        "tmin": 9
       },
       {
         "date": "2026-09-27",
         "code": 45,
         "tmax": 27,
-        "tmin": 11
+        "tmin": 12
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "OpenFront",
-        "viewers": 4832,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE JOUR OÙ IL A DÉCIDÉ DE DEVENIR BRAQUEUR",
+        "title": "L’IA POURRAIT NOUS DÉTRUIRE DANS 10 ANS… EST-ELLE DEVENUE TROP INTELLIGENTE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "CZyMnEHSgxA",
-        "thumbnail": "https://i.ytimg.com/vi/CZyMnEHSgxA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CZyMnEHSgxA",
-        "publishedAt": "2026-09-24T12:00:08+00:00"
+        "videoId": "xyR-qFpnTb4",
+        "thumbnail": "https://i.ytimg.com/vi/xyR-qFpnTb4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xyR-qFpnTb4",
+        "publishedAt": "2026-09-24T16:08:47+00:00"
       },
       {
-        "title": "Un avatar capable de reproduire Carlos et de présenter Silicon Carne ?",
+        "title": "Le pire scénario de l'IA : feindre l'alignement pour survivre !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "bx9fk2qOHCs",
-        "thumbnail": "https://i.ytimg.com/vi/bx9fk2qOHCs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bx9fk2qOHCs",
-        "publishedAt": "2026-09-24T10:01:41+00:00"
+        "videoId": "zaM-YMgEt8w",
+        "thumbnail": "https://i.ytimg.com/vi/zaM-YMgEt8w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zaM-YMgEt8w",
+        "publishedAt": "2026-09-24T16:00:21+00:00"
       },
       {
-        "title": "ATTENTION AUX ARNAQUES FINANCIÈRES !",
+        "title": "LFI VEUT PLAFONNER L'HÉRITAGE",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "kuP8kAxA5xw",
-        "thumbnail": "https://i.ytimg.com/vi/kuP8kAxA5xw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kuP8kAxA5xw",
-        "publishedAt": "2026-09-23T16:30:25+00:00"
+        "videoId": "b2sM2oVlxZs",
+        "thumbnail": "https://i.ytimg.com/vi/b2sM2oVlxZs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b2sM2oVlxZs",
+        "publishedAt": "2026-09-24T16:00:09+00:00"
       },
       {
         "title": "Voyage s'écrit Voaillage ?!",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Nokia Design Archive (2025)",
-        "titleOriginal": "Nokia Design Archive (2025)",
-        "url": "https://nokiadesignarchive.aalto.fi/index.html",
-        "source": "nokiadesignarchive.aalto.fi",
-        "score": 103,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=49828385",
+        "title": "F-Droid 2.0",
+        "titleOriginal": "F-Droid 2.0",
+        "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+        "source": "f-droid.org",
+        "score": 351,
+        "comments": 94,
+        "hnUrl": "https://news.ycombinator.com/item?id=49831968",
         "date": "il y a 2 h"
       },
       {
-        "title": "Chiffrement à deux niveaux au Royaume-Uni – Appareils Apple identiques, protection différente",
-        "titleOriginal": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+        "title": "Show HN : Whiteboard (YC W26) – Un IDE open-source pour une conception logicielle réfléchie",
+        "titleOriginal": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+        "url": "https://github.com/devdotfast/whiteboard",
+        "source": "github.com",
+        "score": 16,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49833867",
+        "date": "il y a 20 min"
+      },
+      {
+        "title": "Chiffrement à deux niveaux au Royaume-Uni",
+        "titleOriginal": "Two-tier encryption in the UK",
         "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
         "source": "macanorak.com",
-        "score": 41,
-        "comments": 9,
+        "score": 261,
+        "comments": 255,
         "hnUrl": "https://news.ycombinator.com/item?id=49828731",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "La prise en charge de Linux arrive dans la série Snapdragon X2",
-        "titleOriginal": "Linux support is coming to Snapdragon X2 Series",
-        "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-        "source": "qualcomm.com",
-        "score": 474,
-        "comments": 202,
-        "hnUrl": "https://news.ycombinator.com/item?id=49823582",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Claude découvre un nouveau système enzymatique avec des répétitions de type CRISPR",
-        "titleOriginal": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "source": "anthropic.com",
-        "score": 687,
-        "comments": 709,
-        "hnUrl": "https://news.ycombinator.com/item?id=49820134",
-        "date": "il y a 18 h"
+        "title": "Agents.md parle Unix, et vous devriez aussi",
+        "titleOriginal": "Agents.md speaks Unix, and you should too",
+        "url": "https://www.fmind.dev/articles/agents-md-speaks-unix/",
+        "source": "fmind.dev",
+        "score": 10,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49833075",
+        "date": "il y a 1 h"
       }
     ]
   },
