@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-24T17:42:14.263Z",
+  "updatedAt": "2026-09-24T21:02:26.749Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
+      "temp": 14,
+      "feelsLike": 14,
       "code": 3,
-      "wind": 7,
-      "humidity": 53
+      "wind": 3,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-09-25",
         "code": 3,
         "tmax": 25,
-        "tmin": 7
+        "tmin": 8
       },
       {
         "date": "2026-09-26",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 114,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -178,40 +186,40 @@
         "titleOriginal": "F-Droid 2.0",
         "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
         "source": "f-droid.org",
-        "score": 351,
-        "comments": 94,
+        "score": 704,
+        "comments": 200,
         "hnUrl": "https://news.ycombinator.com/item?id=49831968",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Afficher HN : Faire des polices maudites comme Times New Bastard",
+        "titleOriginal": "Show HN: Make cursed fonts like Times New Bastard",
+        "url": "https://bastardica.mitpit.com",
+        "source": "bastardica.mitpit.com",
+        "score": 253,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49823738",
+        "date": "il y a 22 h"
       },
       {
         "title": "Show HN : Whiteboard (YC W26) – Un IDE open-source pour une conception logicielle réfléchie",
         "titleOriginal": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
         "url": "https://github.com/devdotfast/whiteboard",
         "source": "github.com",
-        "score": 16,
-        "comments": 0,
+        "score": 129,
+        "comments": 50,
         "hnUrl": "https://news.ycombinator.com/item?id=49833867",
-        "date": "il y a 20 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Chiffrement à deux niveaux au Royaume-Uni",
-        "titleOriginal": "Two-tier encryption in the UK",
-        "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-        "source": "macanorak.com",
-        "score": 261,
-        "comments": 255,
-        "hnUrl": "https://news.ycombinator.com/item?id=49828731",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Agents.md parle Unix, et vous devriez aussi",
-        "titleOriginal": "Agents.md speaks Unix, and you should too",
-        "url": "https://www.fmind.dev/articles/agents-md-speaks-unix/",
-        "source": "fmind.dev",
-        "score": 10,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49833075",
-        "date": "il y a 1 h"
+        "title": "Fearless SIMD v1.0",
+        "titleOriginal": "Fearless SIMD v1.0",
+        "url": "https://linebender.org/blog/fearless-simd-1-0/",
+        "source": "linebender.org",
+        "score": 111,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=49800085",
+        "date": "il y a 2 j"
       }
     ]
   },
