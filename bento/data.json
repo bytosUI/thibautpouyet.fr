@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T15:34:30.706Z",
+  "updatedAt": "2026-09-26T18:55:14.905Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
-      "code": 1,
-      "wind": 10,
-      "humidity": 45
+      "temp": 18,
+      "feelsLike": 18,
+      "code": 3,
+      "wind": 6,
+      "humidity": 75
     },
     "forecast": [
       {
@@ -19,25 +19,34 @@
       {
         "date": "2026-09-27",
         "code": 45,
-        "tmax": 25,
-        "tmin": 11
+        "tmax": 26,
+        "tmin": 10
       },
       {
         "date": "2026-09-28",
-        "code": 45,
-        "tmax": 28,
+        "code": 3,
+        "tmax": 27,
         "tmin": 14
       },
       {
         "date": "2026-09-29",
         "code": 3,
-        "tmax": 30,
+        "tmax": 27,
         "tmin": 18
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 0,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,12 +54,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "LE NIVEAU D'ÉDUCATION FINANCIÈRE DES FRANÇAIS EST INQUIÉTANT",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "_rHqu6UkMW8",
+        "thumbnail": "https://i.ytimg.com/vi/_rHqu6UkMW8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_rHqu6UkMW8",
+        "publishedAt": "2026-09-26T17:41:21+00:00"
+      },
       {
         "title": "L'HUMAIN N'ACCEPTERA JAMAIS UNE OEUVRE D'ART FAITE PAR L'IA ?",
         "channel": "LEGEND",
@@ -68,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/DrX4lymQw84/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DrX4lymQw84",
         "publishedAt": "2026-09-26T10:01:14+00:00"
-      },
-      {
-        "title": "NOUS SOMMES DANS UN ÉTAT PRÉDATEUR ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "6AfCqBqBT84",
-        "thumbnail": "https://i.ytimg.com/vi/6AfCqBqBT84/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6AfCqBqBT84",
-        "publishedAt": "2026-09-25T16:39:50+00:00"
       },
       {
         "title": "Voyage s'écrit Voaillage ?!",
@@ -174,43 +182,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Rompre avec Google Play : pourquoi les conversations sont maintenant gratuites",
-        "titleOriginal": "Breaking Up with Google Play: Why Conversations Is Now Free",
-        "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-        "source": "gultsch.de",
-        "score": 341,
-        "comments": 132,
-        "hnUrl": "https://news.ycombinator.com/item?id=49855315",
-        "date": "il y a 4 h"
+        "title": "PipePipe : NewPipe hard fork implémentant SponsorBlock",
+        "titleOriginal": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "url": "https://github.com/InfinityLoop1308/PipePipe",
+        "source": "github.com",
+        "score": 154,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=49842764",
+        "date": "hier"
       },
       {
-        "title": "Quinze ans plus tard, l'histoire de l'origine des Apple Cards",
-        "titleOriginal": "Fifteen years later, the Apple Cards origin story",
-        "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-        "source": "lexontech.org",
-        "score": 175,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=49854693",
-        "date": "il y a 6 h"
+        "title": "Show HN : Une compétence Claude Code pour analyser vos parties d'échecs",
+        "titleOriginal": "Show HN: A Claude Code skill to analyze your chess games",
+        "url": "https://github.com/brumar/chess-postmortem-skills",
+        "source": "github.com",
+        "score": 55,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=49857528",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Révéler les détails de la façon dont les agents OpenAI ont piraté Hugging Face",
-        "titleOriginal": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org/",
-        "source": "swarmtraces.org",
-        "score": 589,
-        "comments": 377,
-        "hnUrl": "https://news.ycombinator.com/item?id=49849985",
-        "date": "il y a 18 h"
+        "title": "Drawgent : Agent de codage sur une toile Excalidraw en direct",
+        "titleOriginal": "Drawgent: Coding agent on a live Excalidraw canvas",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "tangled.org",
+        "score": 36,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=49857729",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Présentation de l'objet moderne Pascal pour les programmeurs – Moteur de jeu Castle",
-        "titleOriginal": "Modern Object Pascal Introduction for Programmers – Castle Game Engine",
-        "url": "https://castle-engine.io/modern_pascal",
-        "source": "castle-engine.io",
-        "score": 43,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=49829202",
+        "title": "La mise à jour atomique perdue sur le processeur Loongson",
+        "titleOriginal": "The Lost Atomic Update on Loongson CPU",
+        "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
+        "source": "jia.je",
+        "score": 53,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49827900",
         "date": "il y a 2 j"
       }
     ]
