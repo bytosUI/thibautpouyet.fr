@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-09-26T06:19:36.316Z",
+  "updatedAt": "2026-09-26T11:37:40.489Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 7,
-      "code": 2,
-      "wind": 4,
-      "humidity": 84
+      "temp": 21,
+      "feelsLike": 20,
+      "code": 0,
+      "wind": 9,
+      "humidity": 43
     },
     "forecast": [
       {
         "date": "2026-09-26",
         "code": 3,
-        "tmax": 25,
-        "tmin": 9
+        "tmax": 24,
+        "tmin": 8
       },
       {
         "date": "2026-09-27",
-        "code": 3,
-        "tmax": 26,
+        "code": 45,
+        "tmax": 25,
         "tmin": 10
       },
       {
@@ -31,7 +31,7 @@
       {
         "date": "2026-09-29",
         "code": 3,
-        "tmax": 29,
+        "tmax": 30,
         "tmin": 18
       }
     ]
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "LA CHOSE LA PLUS INTELLIGENTE QUE L'IA PUISSE DIRE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "km7MopUJxsw",
+        "thumbnail": "https://i.ytimg.com/vi/km7MopUJxsw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=km7MopUJxsw",
+        "publishedAt": "2026-09-26T11:00:33+00:00"
+      },
+      {
+        "title": "Arrache-lui les câbles !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "DrX4lymQw84",
+        "thumbnail": "https://i.ytimg.com/vi/DrX4lymQw84/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DrX4lymQw84",
+        "publishedAt": "2026-09-26T10:01:14+00:00"
+      },
+      {
+        "title": "NOUS SOMMES DANS UN ÉTAT PRÉDATEUR ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "6AfCqBqBT84",
+        "thumbnail": "https://i.ytimg.com/vi/6AfCqBqBT84/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6AfCqBqBT84",
+        "publishedAt": "2026-09-25T16:39:50+00:00"
+      },
+      {
+        "title": "Voyage s'écrit Voaillage ?!",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "topeddDAPVI",
+        "thumbnail": "https://i.ytimg.com/vi/topeddDAPVI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=topeddDAPVI",
+        "publishedAt": "2026-09-23T15:47:41+00:00"
+      },
+      {
+        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "XdDdz0vZY8M",
+        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
+        "publishedAt": "2026-09-20T16:00:33+00:00"
+      },
+      {
+        "title": "Impossible de continuer comme prévu #28",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "uevnfKAbWzQ",
+        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
+        "publishedAt": "2026-09-20T15:17:11+00:00"
+      },
+      {
+        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "Hi6VfQpC7TQ",
+        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
+        "publishedAt": "2026-09-13T09:48:43+00:00"
+      },
+      {
+        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "2QcaDwpvl7s",
+        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
+        "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Rompre avec Google Play : pourquoi les conversations sont maintenant gratuites",
+        "titleOriginal": "Breaking Up with Google Play: Why Conversations Is Now Free",
+        "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+        "source": "gultsch.de",
+        "score": 23,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49855315",
+        "date": "il y a 41 min"
+      },
+      {
+        "title": "Quinze ans plus tard, l'histoire de l'origine des Apple Cards",
+        "titleOriginal": "Fifteen years later, the Apple Cards origin story",
+        "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+        "source": "lexontech.org",
+        "score": 71,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=49854693",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Un mois sans IA",
+        "titleOriginal": "One Month Without AI",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "source": "blog.bustikiller.com",
+        "score": 29,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=49855018",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Révéler les détails de la façon dont les agents OpenAI ont piraté Hugging Face",
         "titleOriginal": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "url": "https://swarmtraces.org/",
         "source": "swarmtraces.org",
-        "score": 371,
-        "comments": 220,
+        "score": 514,
+        "comments": 323,
         "hnUrl": "https://news.ycombinator.com/item?id=49849985",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Une enveloppe de type Jev à fonction unique pour les LLM, y compris les modèles de vision",
-        "titleOriginal": "A single function Jev-like wrapper for LLMs, including vision models",
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "source": "allanrbo.blogspot.com",
-        "score": 26,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49853175",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Ollaya – Ollama pour les modèles de décision open source de style Jev",
-        "titleOriginal": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "url": "https://ollaya.dev/",
-        "source": "ollaya.dev",
-        "score": 399,
-        "comments": 108,
-        "hnUrl": "https://news.ycombinator.com/item?id=49848269",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Le mode Plan est mort",
-        "titleOriginal": "Plan mode is dead",
-        "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-        "source": "aymannadeem.com",
-        "score": 225,
-        "comments": 207,
-        "hnUrl": "https://news.ycombinator.com/item?id=49840054",
-        "date": "hier"
+        "date": "il y a 14 h"
       }
     ]
   },
