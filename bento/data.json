@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-26T01:07:07.841Z",
+  "updatedAt": "2026-09-26T06:19:36.316Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 0,
+      "temp": 9,
+      "feelsLike": 7,
+      "code": 2,
       "wind": 4,
-      "humidity": 88
+      "humidity": 84
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-09-27",
-        "code": 45,
+        "code": 3,
         "tmax": 26,
         "tmin": 10
       },
       {
         "date": "2026-09-28",
         "code": 3,
-        "tmax": 29,
-        "tmin": 15
+        "tmax": 28,
+        "tmin": 14
       },
       {
         "date": "2026-09-29",
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "NOUS SOMMES DANS UN ÉTAT PRÉDATEUR ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "6AfCqBqBT84",
-        "thumbnail": "https://i.ytimg.com/vi/6AfCqBqBT84/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6AfCqBqBT84",
-        "publishedAt": "2026-09-25T16:39:50+00:00"
-      },
-      {
-        "title": "OpenAI vs Anthropic : le pied sur le frein ET sur l'accélérateur !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "NyyysM0EPKU",
-        "thumbnail": "https://i.ytimg.com/vi/NyyysM0EPKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NyyysM0EPKU",
-        "publishedAt": "2026-09-25T16:00:21+00:00"
-      },
-      {
-        "title": "DANS COMBIEN DE TEMPS L’IA VA REMPLACER NOS MÉTIERS ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3IpjgzDkt28",
-        "thumbnail": "https://i.ytimg.com/vi/3IpjgzDkt28/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3IpjgzDkt28",
-        "publishedAt": "2026-09-25T14:00:04+00:00"
-      },
-      {
-        "title": "Voyage s'écrit Voaillage ?!",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "topeddDAPVI",
-        "thumbnail": "https://i.ytimg.com/vi/topeddDAPVI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=topeddDAPVI",
-        "publishedAt": "2026-09-23T15:47:41+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Impossible de continuer comme prévu #28",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "uevnfKAbWzQ",
-        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
-        "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "title": "Révéler les détails de la façon dont les agents OpenAI ont piraté Hugging Face",
         "titleOriginal": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "url": "https://swarmtraces.org/",
         "source": "swarmtraces.org",
-        "score": 179,
-        "comments": 110,
+        "score": 371,
+        "comments": 220,
         "hnUrl": "https://news.ycombinator.com/item?id=49849985",
-        "date": "il y a 3 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "title": "Une enveloppe de type Jev à fonction unique pour les LLM, y compris les modèles de vision",
+        "titleOriginal": "A single function Jev-like wrapper for LLMs, including vision models",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "source": "allanrbo.blogspot.com",
+        "score": 26,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49853175",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Ollaya – Ollama pour les modèles de décision open source de style Jev",
         "titleOriginal": "Ollaya – Ollama for open-source, Jev-style decision models",
         "url": "https://ollaya.dev/",
         "source": "ollaya.dev",
-        "score": 327,
-        "comments": 97,
+        "score": 399,
+        "comments": 108,
         "hnUrl": "https://news.ycombinator.com/item?id=49848269",
-        "date": "il y a 6 h"
+        "date": "il y a 11 h"
       },
       {
-        "title": "Show HN: Jev Plays Pokémon Red",
-        "titleOriginal": "Show HN: Jev Plays Pokémon Red",
-        "url": "https://jev-pokemon.vercel.app/",
-        "source": "jev-pokemon.vercel.app",
-        "score": 142,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=49845172",
-        "date": "il y a 10 h"
-      },
-      {
-        "title": "What even is an OS now?",
-        "titleOriginal": "What even is an OS now?",
-        "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-        "source": "sockpuppet.org",
-        "score": 70,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=49850305",
-        "date": "il y a 3 h"
+        "title": "Le mode Plan est mort",
+        "titleOriginal": "Plan mode is dead",
+        "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+        "source": "aymannadeem.com",
+        "score": 225,
+        "comments": 207,
+        "hnUrl": "https://news.ycombinator.com/item?id=49840054",
+        "date": "hier"
       }
     ]
   },
