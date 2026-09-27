@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-27T11:13:27.937Z",
+  "updatedAt": "2026-09-27T15:43:21.691Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 22,
+      "temp": 26,
+      "feelsLike": 26,
       "code": 2,
-      "wind": 8,
-      "humidity": 58
+      "wind": 12,
+      "humidity": 44
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-09-28",
-        "code": 3,
-        "tmax": 28,
-        "tmin": 15
+        "code": 61,
+        "tmax": 27,
+        "tmin": 16
       },
       {
         "date": "2026-09-29",
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "DES ALIENS LUI ONT POSÉ UN IMPLANT SECRET... MAIS DES CHIRURGIENS L'ONT JETÉ",
+        "title": "ANCIEN DIRECTEUR DU CNRS : DES ALIENS LUI ANNONCENT LEUR ARRIVÉE À MADRID",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "z4FFqDBrmOI",
-        "thumbnail": "https://i.ytimg.com/vi/z4FFqDBrmOI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z4FFqDBrmOI",
-        "publishedAt": "2026-09-27T11:00:19+00:00"
+        "videoId": "Qv1h-asPUaY",
+        "thumbnail": "https://i.ytimg.com/vi/Qv1h-asPUaY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Qv1h-asPUaY",
+        "publishedAt": "2026-09-27T15:00:16+00:00"
       },
       {
         "title": "LE NIVEAU D'ÉDUCATION FINANCIÈRE DES FRANÇAIS EST INQUIÉTANT",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "« En tant que modèle linguistique » : le modèle de chat commute la voix auto-référentielle LLM",
-        "titleOriginal": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "arxiv.org",
-        "score": 23,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=49865343",
-        "date": "il y a 46 min"
+        "title": "« Ils n'avaient aucune notion d'un devoir de diligence envers leurs utilisateurs. »",
+        "titleOriginal": "\"They had no concept of a duty of care to their users.\"",
+        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+        "source": "unsung.aresluna.org",
+        "score": 96,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=49867067",
+        "date": "il y a 58 min"
       },
       {
-        "title": "Fluide de retournement sur les points de retournement",
-        "titleOriginal": "Flip Fluid on Flip Dots",
-        "url": "https://mitxela.com/projects/flipflip",
-        "source": "mitxela.com",
-        "score": 109,
-        "comments": 11,
-        "hnUrl": "https://news.ycombinator.com/item?id=49854219",
-        "date": "hier"
+        "title": "Dans une chambre de motel à 80 $ , une découverte pour faire la lumière sur les origines de la vie",
+        "titleOriginal": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+        "source": "nytimes.com",
+        "score": 44,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49866951",
+        "date": "il y a 1 h"
       },
       {
-        "title": "OpenAI craignait « l'optique » de ce qui pourrait apparaître sur Hacker News",
-        "titleOriginal": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "source": "authorsguild.org",
-        "score": 245,
-        "comments": 205,
-        "hnUrl": "https://news.ycombinator.com/item?id=49863864",
-        "date": "il y a 4 h"
+        "title": "Remplacement de l'ancienne batterie sur les lampes de vélo rechargeables",
+        "titleOriginal": "Replacing the old battery on rechargeable bike lights",
+        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+        "source": "jvns.ca",
+        "score": 48,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49866515",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Le géorgisme fonctionne-t-il ? Cinq ans plus tard",
-        "titleOriginal": "Does Georgism work? Five years later",
-        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-        "source": "astralcodexten.com",
-        "score": 355,
-        "comments": 259,
-        "hnUrl": "https://news.ycombinator.com/item?id=49844657",
+        "title": "Rédaction de code C++ efficace",
+        "titleOriginal": "Writing Efficient C++ Code",
+        "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+        "source": "asawicki.info",
+        "score": 14,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49849409",
         "date": "hier"
       }
     ]
