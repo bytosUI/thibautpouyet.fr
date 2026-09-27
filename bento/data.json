@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-09-26T21:44:35.472Z",
+  "updatedAt": "2026-09-27T00:06:57.580Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
-      "code": 1,
-      "wind": 1,
-      "humidity": 89
+      "temp": 12,
+      "feelsLike": 12,
+      "code": 45,
+      "wind": 3,
+      "humidity": 96
     },
     "forecast": [
-      {
-        "date": "2026-09-26",
-        "code": 3,
-        "tmax": 24,
-        "tmin": 8
-      },
       {
         "date": "2026-09-27",
         "code": 45,
         "tmax": 25,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-09-28",
         "code": 3,
-        "tmax": 27,
-        "tmin": 15
+        "tmax": 28,
+        "tmin": 14
       },
       {
         "date": "2026-09-29",
         "code": 3,
         "tmax": 27,
         "tmin": 18
+      },
+      {
+        "date": "2026-09-30",
+        "code": 61,
+        "tmax": 24,
+        "tmin": 19
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 147,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "PipePipe : NewPipe hard fork implémentant SponsorBlock",
-        "titleOriginal": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-        "url": "https://github.com/InfinityLoop1308/PipePipe",
-        "source": "github.com",
-        "score": 258,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=49842764",
-        "date": "hier"
-      },
-      {
         "title": "Calcul élastique DeepSeek (DSec)",
         "titleOriginal": "DeepSeek Elastic Compute (DSec)",
         "url": "https://arxiv.org/abs/2609.22978",
         "source": "arxiv.org",
-        "score": 60,
-        "comments": 13,
+        "score": 133,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=49859112",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Show HN : Reladraw – Un langage de diagramme où vous décidez où placer les choses",
-        "titleOriginal": "Show HN: Reladraw – A diagram language where you decide where to place things",
-        "url": "https://github.com/reladraw/reladraw",
+        "title": "PipePipe : NewPipe hard fork implémentant SponsorBlock",
+        "titleOriginal": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+        "url": "https://github.com/InfinityLoop1308/PipePipe",
         "source": "github.com",
-        "score": 96,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=49858513",
-        "date": "il y a 4 h"
+        "score": 307,
+        "comments": 162,
+        "hnUrl": "https://news.ycombinator.com/item?id=49842764",
+        "date": "hier"
       },
       {
-        "title": "Une bibliothèque consultable de clips de films oubliés du domaine public à partir de 1915",
-        "titleOriginal": "A searchable library of forgotten public-domain film clips from 1915 onward",
-        "url": "https://www.movingimagearchive.com/",
-        "source": "movingimagearchive.com",
-        "score": 70,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=49832768",
-        "date": "il y a 2 j"
+        "title": "Le géorgisme fonctionne-t-il ? Cinq ans plus tard",
+        "titleOriginal": "Does Georgism work? Five years later",
+        "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+        "source": "astralcodexten.com",
+        "score": 19,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49844657",
+        "date": "hier"
+      },
+      {
+        "title": "L'évolution des langages de programmation à l'ère de l'IA",
+        "titleOriginal": "Evolving programming languages in the AI era",
+        "url": "https://dashbit.co/blog/evolving-ai-era",
+        "source": "dashbit.co",
+        "score": 11,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49839567",
+        "date": "hier"
       }
     ]
   },
