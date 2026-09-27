@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-09-27T15:43:21.691Z",
+  "updatedAt": "2026-09-27T19:27:25.303Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 26,
-      "feelsLike": 26,
-      "code": 2,
-      "wind": 12,
-      "humidity": 44
+      "temp": 21,
+      "feelsLike": 21,
+      "code": 3,
+      "wind": 4,
+      "humidity": 65
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-09-28",
-        "code": 61,
+        "code": 3,
         "tmax": 27,
         "tmin": 16
       },
       {
         "date": "2026-09-29",
         "code": 3,
-        "tmax": 26,
+        "tmax": 29,
         "tmin": 16
       },
       {
         "date": "2026-09-30",
-        "code": 61,
-        "tmax": 25,
-        "tmin": 20
+        "code": 80,
+        "tmax": 24,
+        "tmin": 19
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "QUI VA PAYER LE BUDGET 2027 ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "iVbnAPuppjU",
+        "thumbnail": "https://i.ytimg.com/vi/iVbnAPuppjU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iVbnAPuppjU",
+        "publishedAt": "2026-09-27T18:42:59+00:00"
+      },
+      {
         "title": "ANCIEN DIRECTEUR DU CNRS : DES ALIENS LUI ANNONCENT LEUR ARRIVÉE À MADRID",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Qv1h-asPUaY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Qv1h-asPUaY",
         "publishedAt": "2026-09-27T15:00:16+00:00"
-      },
-      {
-        "title": "LE NIVEAU D'ÉDUCATION FINANCIÈRE DES FRANÇAIS EST INQUIÉTANT",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "_rHqu6UkMW8",
-        "thumbnail": "https://i.ytimg.com/vi/_rHqu6UkMW8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_rHqu6UkMW8",
-        "publishedAt": "2026-09-26T17:41:21+00:00"
       },
       {
         "title": "Arrache-lui les câbles !",
@@ -174,42 +174,42 @@
   "hackernews": {
     "items": [
       {
-        "title": "« Ils n'avaient aucune notion d'un devoir de diligence envers leurs utilisateurs. »",
-        "titleOriginal": "\"They had no concept of a duty of care to their users.\"",
-        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
-        "source": "unsung.aresluna.org",
-        "score": 96,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49867067",
-        "date": "il y a 58 min"
-      },
-      {
-        "title": "Dans une chambre de motel à 80 $ , une découverte pour faire la lumière sur les origines de la vie",
-        "titleOriginal": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
-        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-        "source": "nytimes.com",
-        "score": 44,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49866951",
+        "title": "Ember-1",
+        "titleOriginal": "Ember-1",
+        "url": "https://fireworks.ai/blog/ember-1",
+        "source": "fireworks.ai",
+        "score": 126,
+        "comments": 58,
+        "hnUrl": "https://news.ycombinator.com/item?id=49868830",
         "date": "il y a 1 h"
       },
       {
-        "title": "Remplacement de l'ancienne batterie sur les lampes de vélo rechargeables",
-        "titleOriginal": "Replacing the old battery on rechargeable bike lights",
-        "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-        "source": "jvns.ca",
-        "score": 48,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49866515",
-        "date": "il y a 2 h"
+        "title": "Dans une chambre de motel à 80 $ , une découverte pour faire la lumière sur les origines de la vie",
+        "titleOriginal": "In an $80 motel room, a discovery to shed light on the origins of life",
+        "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+        "source": "nytimes.com",
+        "score": 142,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=49866951",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Rédaction de code C++ efficace",
-        "titleOriginal": "Writing Efficient C++ Code",
+        "title": "Show HN : Lofi Cities – Nuits en ville Pixel-art avec lofi généré par navigateur",
+        "titleOriginal": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+        "url": "https://loficities.com/",
+        "source": "loficities.com",
+        "score": 31,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=49869574",
+        "date": "il y a 42 min"
+      },
+      {
+        "title": "Rédaction de code C++ efficace (2013)",
+        "titleOriginal": "Writing Efficient C++ Code (2013)",
         "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
         "source": "asawicki.info",
-        "score": 14,
-        "comments": 1,
+        "score": 111,
+        "comments": 48,
         "hnUrl": "https://news.ycombinator.com/item?id=49849409",
         "date": "hier"
       }
