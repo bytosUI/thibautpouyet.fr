@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-27T22:27:23.740Z",
+  "updatedAt": "2026-09-28T01:01:40.226Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 19,
+      "temp": 16,
+      "feelsLike": 17,
       "code": 3,
-      "wind": 3,
-      "humidity": 81
+      "wind": 1,
+      "humidity": 85
     },
     "forecast": [
       {
         "date": "2026-09-28",
         "code": 3,
         "tmax": 27,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-09-29",
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 133,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "When did Google get so weird?",
         "url": "https://sancho.bearblog.dev/google-weird/",
         "source": "sancho.bearblog.dev",
-        "score": 421,
-        "comments": 202,
+        "score": 721,
+        "comments": 380,
         "hnUrl": "https://news.ycombinator.com/item?id=49870367",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "Ember-1",
         "titleOriginal": "Ember-1",
         "url": "https://fireworks.ai/blog/ember-1",
         "source": "fireworks.ai",
-        "score": 269,
-        "comments": 150,
+        "score": 340,
+        "comments": 179,
         "hnUrl": "https://news.ycombinator.com/item?id=49868830",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Paradoxe du terminateur lunaire",
         "titleOriginal": "Lunar Terminator Paradox",
         "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
         "source": "notes.secretsauce.net",
-        "score": 25,
-        "comments": 6,
+        "score": 41,
+        "comments": 27,
         "hnUrl": "https://news.ycombinator.com/item?id=49870837",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
-        "title": "La réponse d'Alan Kay à « L'ENIAC avait-il un BIOS » ?",
-        "titleOriginal": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-        "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-        "source": "quora.com",
-        "score": 46,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=49870070",
-        "date": "il y a 2 h"
+        "title": "Show HN : Lofi Cities – Nuits en ville Pixel-art avec lofi généré par navigateur",
+        "titleOriginal": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+        "url": "https://loficities.com/",
+        "source": "loficities.com",
+        "score": 153,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=49869574",
+        "date": "il y a 6 h"
       }
     ]
   },
