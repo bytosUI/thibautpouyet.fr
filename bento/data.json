@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-28T01:01:40.226Z",
+  "updatedAt": "2026-09-28T07:14:16.460Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 17,
       "code": 3,
-      "wind": 1,
-      "humidity": 85
+      "wind": 2,
+      "humidity": 78
     },
     "forecast": [
       {
         "date": "2026-09-28",
         "code": 3,
-        "tmax": 27,
-        "tmin": 15
+        "tmax": 26,
+        "tmin": 16
       },
       {
         "date": "2026-09-29",
         "code": 3,
-        "tmax": 29,
-        "tmin": 16
+        "tmax": 27,
+        "tmin": 14
       },
       {
         "date": "2026-09-30",
-        "code": 61,
-        "tmax": 23,
+        "code": 63,
+        "tmax": 22,
         "tmin": 19
       },
       {
         "date": "2026-10-01",
-        "code": 63,
-        "tmax": 19,
-        "tmin": 13
+        "code": 61,
+        "tmax": 21,
+        "tmin": 14
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "ANCIEN DIRECTEUR DU CNRS : IL A REÇU UNE LETTRE DES EXTRATERRESTRES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "UPCLi-qL19s",
+        "thumbnail": "https://i.ytimg.com/vi/UPCLi-qL19s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UPCLi-qL19s",
+        "publishedAt": "2026-09-28T07:00:23+00:00"
+      },
+      {
         "title": "QUI VA PAYER LE BUDGET 2027 ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/iVbnAPuppjU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iVbnAPuppjU",
         "publishedAt": "2026-09-27T18:42:59+00:00"
-      },
-      {
-        "title": "ANCIEN DIRECTEUR DU CNRS : DES ALIENS LUI ANNONCENT LEUR ARRIVÉE À MADRID",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Qv1h-asPUaY",
-        "thumbnail": "https://i.ytimg.com/vi/Qv1h-asPUaY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Qv1h-asPUaY",
-        "publishedAt": "2026-09-27T15:00:16+00:00"
       },
       {
         "title": "Arrache-lui les câbles !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Quand Google est-il devenu si bizarre ?",
-        "titleOriginal": "When did Google get so weird?",
-        "url": "https://sancho.bearblog.dev/google-weird/",
-        "source": "sancho.bearblog.dev",
-        "score": 721,
-        "comments": 380,
-        "hnUrl": "https://news.ycombinator.com/item?id=49870367",
-        "date": "il y a 4 h"
+        "title": "Je devais un milliard de dollars en actions Nvidia",
+        "titleOriginal": "Owed a billion dollars in Nvidia stock",
+        "url": "https://colo.to/nvidia-stock-narrative.html",
+        "source": "colo.to",
+        "score": 485,
+        "comments": 195,
+        "hnUrl": "https://news.ycombinator.com/item?id=49872723",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Penser vite et lentement en IA : le rôle de la métacognition (2021)",
+        "titleOriginal": "Thinking fast and slow in AI: The role of metacognition (2021)",
+        "url": "https://arxiv.org/abs/2110.01834",
+        "source": "arxiv.org",
+        "score": 64,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49873241",
+        "date": "il y a 3 h"
       },
       {
         "title": "Ember-1",
         "titleOriginal": "Ember-1",
         "url": "https://fireworks.ai/blog/ember-1",
         "source": "fireworks.ai",
-        "score": 340,
-        "comments": 179,
+        "score": 433,
+        "comments": 202,
         "hnUrl": "https://news.ycombinator.com/item?id=49868830",
-        "date": "il y a 7 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "Paradoxe du terminateur lunaire",
-        "titleOriginal": "Lunar Terminator Paradox",
-        "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-        "source": "notes.secretsauce.net",
-        "score": 41,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=49870837",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Show HN : Lofi Cities – Nuits en ville Pixel-art avec lofi généré par navigateur",
-        "titleOriginal": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-        "url": "https://loficities.com/",
-        "source": "loficities.com",
-        "score": 153,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=49869574",
-        "date": "il y a 6 h"
+        "title": "Quand Google est-il devenu si bizarre ?",
+        "titleOriginal": "When did Google get so weird?",
+        "url": "https://sancho.bearblog.dev/google-weird/",
+        "source": "sancho.bearblog.dev",
+        "score": 1126,
+        "comments": 600,
+        "hnUrl": "https://news.ycombinator.com/item?id=49870367",
+        "date": "il y a 11 h"
       }
     ]
   },
