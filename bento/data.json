@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-28T07:14:16.460Z",
+  "updatedAt": "2026-09-28T15:42:39.034Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 17,
+      "temp": 26,
+      "feelsLike": 27,
       "code": 3,
-      "wind": 2,
-      "humidity": 78
+      "wind": 5,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-09-28",
-        "code": 3,
+        "code": 61,
         "tmax": 26,
         "tmin": 16
       },
@@ -20,19 +20,19 @@
         "date": "2026-09-29",
         "code": 3,
         "tmax": 27,
-        "tmin": 14
+        "tmin": 16
       },
       {
         "date": "2026-09-30",
-        "code": 63,
-        "tmax": 22,
-        "tmin": 19
+        "code": 61,
+        "tmax": 23,
+        "tmin": 18
       },
       {
         "date": "2026-10-01",
-        "code": 61,
+        "code": 80,
         "tmax": 21,
-        "tmin": 14
+        "tmin": 15
       }
     ]
   },
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "ANCIEN DIRECTEUR DU CNRS : IL A REÇU UNE LETTRE DES EXTRATERRESTRES",
+        "title": "IL CROIT AUX EXTRATERRESTRES ET SE CONSIDÈRE COMME UN HAMSTER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "UPCLi-qL19s",
-        "thumbnail": "https://i.ytimg.com/vi/UPCLi-qL19s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UPCLi-qL19s",
-        "publishedAt": "2026-09-28T07:00:23+00:00"
+        "videoId": "6nHOJ8bp0j0",
+        "thumbnail": "https://i.ytimg.com/vi/6nHOJ8bp0j0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6nHOJ8bp0j0",
+        "publishedAt": "2026-09-28T15:30:09+00:00"
       },
       {
-        "title": "QUI VA PAYER LE BUDGET 2027 ?",
+        "title": "+ 1 000 000  000 € de CA, j'ai encore besoin d'un coach",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "iVbnAPuppjU",
-        "thumbnail": "https://i.ytimg.com/vi/iVbnAPuppjU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iVbnAPuppjU",
-        "publishedAt": "2026-09-27T18:42:59+00:00"
+        "videoId": "JgoqbApZ1Iw",
+        "thumbnail": "https://i.ytimg.com/vi/JgoqbApZ1Iw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JgoqbApZ1Iw",
+        "publishedAt": "2026-09-28T10:00:20+00:00"
       },
       {
         "title": "Arrache-lui les câbles !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Je devais un milliard de dollars en actions Nvidia",
-        "titleOriginal": "Owed a billion dollars in Nvidia stock",
-        "url": "https://colo.to/nvidia-stock-narrative.html",
-        "source": "colo.to",
-        "score": 485,
-        "comments": 195,
-        "hnUrl": "https://news.ycombinator.com/item?id=49872723",
+        "title": "Parley : chat fédéré et décentralisé qui parle clairement IRC",
+        "titleOriginal": "Parley: Federated, decentralised chat that speaks plain IRC",
+        "url": "https://git.mills.io/prologic/parley",
+        "source": "git.mills.io",
+        "score": 199,
+        "comments": 95,
+        "hnUrl": "https://news.ycombinator.com/item?id=49875913",
         "date": "il y a 5 h"
       },
       {
-        "title": "Penser vite et lentement en IA : le rôle de la métacognition (2021)",
-        "titleOriginal": "Thinking fast and slow in AI: The role of metacognition (2021)",
-        "url": "https://arxiv.org/abs/2110.01834",
-        "source": "arxiv.org",
-        "score": 64,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=49873241",
-        "date": "il y a 3 h"
+        "title": "Ce que Heraldry et mon peuvent nous apprendre sur la construction de générateurs d'identité visuelle",
+        "titleOriginal": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
+        "url": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
+        "source": "benovermyer.com",
+        "score": 11,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=49878900",
+        "date": "il y a 53 min"
       },
       {
-        "title": "Ember-1",
-        "titleOriginal": "Ember-1",
-        "url": "https://fireworks.ai/blog/ember-1",
-        "source": "fireworks.ai",
-        "score": 433,
-        "comments": 202,
-        "hnUrl": "https://news.ycombinator.com/item?id=49868830",
-        "date": "il y a 13 h"
+        "title": "Le codage n'est pas résolu",
+        "titleOriginal": "Coding Is Not Solved",
+        "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+        "source": "blog.alexewerlof.com",
+        "score": 175,
+        "comments": 165,
+        "hnUrl": "https://news.ycombinator.com/item?id=49877988",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Quand Google est-il devenu si bizarre ?",
-        "titleOriginal": "When did Google get so weird?",
-        "url": "https://sancho.bearblog.dev/google-weird/",
-        "source": "sancho.bearblog.dev",
-        "score": 1126,
-        "comments": 600,
-        "hnUrl": "https://news.ycombinator.com/item?id=49870367",
-        "date": "il y a 11 h"
+        "title": "Jensen Huang dit que la distillation par IA est une « concurrence ».",
+        "titleOriginal": "Jensen Huang says AI distillation is 'competition.'",
+        "url": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+        "source": "cnbc.com",
+        "score": 50,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=49879032",
+        "date": "il y a 47 min"
       }
     ]
   },
