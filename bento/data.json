@@ -1,49 +1,57 @@
 {
-  "updatedAt": "2026-09-29T01:24:19.881Z",
+  "updatedAt": "2026-09-29T07:10:59.351Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
-      "feelsLike": 18,
+      "feelsLike": 16,
       "code": 3,
-      "wind": 3,
-      "humidity": 87
+      "wind": 8,
+      "humidity": 73
     },
     "forecast": [
       {
         "date": "2026-09-29",
         "code": 3,
-        "tmax": 28,
-        "tmin": 16
+        "tmax": 27,
+        "tmin": 15
       },
       {
         "date": "2026-09-30",
         "code": 61,
-        "tmax": 26,
+        "tmax": 27,
         "tmin": 18
       },
       {
         "date": "2026-10-01",
-        "code": 61,
+        "code": 95,
         "tmax": 21,
         "tmin": 14
       },
       {
         "date": "2026-10-02",
         "code": 3,
-        "tmax": 22,
-        "tmin": 9
+        "tmax": 21,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 370,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -51,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "On est en train d'entraîner nos remplaçants !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "0KPxKGbxeH8",
+        "thumbnail": "https://i.ytimg.com/vi/0KPxKGbxeH8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0KPxKGbxeH8",
+        "publishedAt": "2026-09-29T06:00:53+00:00"
+      },
       {
         "title": "IL A UNE MISSION SUR TERRE : AVERTIR LES GENS DE LA CATASTROPHE QUI ARRIVE !",
         "channel": "LEGEND",
@@ -68,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/tKC0zGb6nC8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tKC0zGb6nC8",
         "publishedAt": "2026-09-28T16:22:20+00:00"
-      },
-      {
-        "title": "Les robots entrent chez nous… mais peut-on leur faire confiance ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "3BQzZgZX-o4",
-        "thumbnail": "https://i.ytimg.com/vi/3BQzZgZX-o4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3BQzZgZX-o4",
-        "publishedAt": "2026-09-28T16:00:08+00:00"
       },
       {
         "title": "Voyage s'écrit Voaillage ?!",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Jeff – Modèles de décision 0,8B compatibles Jev, formés à la maison, ~30 ms",
-        "titleOriginal": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-        "url": "https://github.com/firelex/jeff",
-        "source": "github.com",
-        "score": 248,
-        "comments": 99,
-        "hnUrl": "https://news.ycombinator.com/item?id=49883844",
-        "date": "il y a 5 h"
+        "title": "Phyllotaxis : un affichage LED audio-réactif",
+        "titleOriginal": "Phyllotaxis: An audio-reactive LED display",
+        "url": "https://jagi.studio/posts/phyllotaxis/",
+        "source": "jagi.studio",
+        "score": 88,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49880411",
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "Les systèmes que personne ne testera",
+        "titleOriginal": "The systems that no one will test",
+        "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+        "source": "blog.christianperone.com",
+        "score": 10,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49876052",
+        "date": "il y a 20 h"
       },
       {
         "title": "Pirater les pirates",
         "titleOriginal": "Pirating the Pirates",
         "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
         "source": "mubi.com",
-        "score": 408,
-        "comments": 214,
+        "score": 525,
+        "comments": 259,
         "hnUrl": "https://news.ycombinator.com/item?id=49880036",
-        "date": "il y a 9 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Les sépultures de Göbeklitepe vieilles de 12 000 ans expliquent les os éparpillés",
-        "titleOriginal": "12,000-year-old Göbeklitepe burials explain scattered bones",
-        "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-        "source": "archaeologymag.com",
-        "score": 74,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=49855059",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "MicroLLM Lab – Essayez 7 petites LLM dans le navigateur",
-        "titleOriginal": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-        "url": "https://stateofutopia.com/experiments/microllmlab/",
-        "source": "stateofutopia.com",
-        "score": 121,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=49882781",
-        "date": "il y a 6 h"
+        "title": "Les agriculteurs californiens ont du mal à vendre des raisins alors que la demande de vin baisse",
+        "titleOriginal": "California farmers are struggling to sell grapes as demand for wine drops",
+        "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+        "source": "kqed.org",
+        "score": 182,
+        "comments": 385,
+        "hnUrl": "https://news.ycombinator.com/item?id=49883539",
+        "date": "il y a 11 h"
       }
     ]
   },
