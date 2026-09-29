@@ -1,65 +1,50 @@
 {
-  "updatedAt": "2026-09-29T19:31:13.495Z",
+  "updatedAt": "2026-09-29T23:21:46.883Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 23,
-      "feelsLike": 22,
-      "code": 2,
-      "wind": 10,
-      "humidity": 55
+      "temp": 20,
+      "feelsLike": 18,
+      "code": 3,
+      "wind": 11,
+      "humidity": 52
     },
     "forecast": [
       {
-        "date": "2026-09-29",
-        "code": 3,
-        "tmax": 28,
-        "tmin": 15
-      },
-      {
         "date": "2026-09-30",
         "code": 61,
-        "tmax": 27,
+        "tmax": 26,
         "tmin": 18
       },
       {
         "date": "2026-10-01",
-        "code": 63,
-        "tmax": 21,
+        "code": 61,
+        "tmax": 22,
         "tmin": 13
       },
       {
         "date": "2026-10-02",
         "code": 45,
-        "tmax": 20,
+        "tmax": 21,
+        "tmin": 9
+      },
+      {
+        "date": "2026-10-03",
+        "code": 3,
+        "tmax": 22,
         "tmin": 9
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Minecraft Dungeons II",
-        "viewers": 8819,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Stuntboost",
-        "viewers": 147,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -189,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Livenerf : L'opus 5.5 a-t-il déjà été nerf ?",
+        "titleOriginal": "Livenerf: Has Opus 5.5 been nerfed yet?",
+        "url": "https://github.com/ninjahawk/livenerf",
+        "source": "github.com",
+        "score": 36,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=49901736",
+        "date": "il y a 45 min"
+      },
+      {
+        "title": "Les inspecteurs postaux américains ont fermé le site Web vendant des étiquettes d'affranchissement contrefaites",
+        "titleOriginal": "U.S. postal inspectors shut down website selling counterfeit postage labels",
+        "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+        "source": "postalemployeenetwork.com",
+        "score": 140,
+        "comments": 72,
+        "hnUrl": "https://news.ycombinator.com/item?id=49899090",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "GPT 6.1 sol : Intelligence Near-Astra pour un cinquième du prix",
         "titleOriginal": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
         "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
         "source": "openai.com",
-        "score": 509,
-        "comments": 413,
+        "score": 733,
+        "comments": 669,
         "hnUrl": "https://news.ycombinator.com/item?id=49896586",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Lancement de Tcl/Tk 9.1",
-        "titleOriginal": "Tcl/Tk 9.1 Released",
-        "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-        "source": "tcl-lang.org",
-        "score": 117,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=49896712",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Exploitation de rechute PS5",
         "titleOriginal": "PS5 Relapse Exploit",
         "url": "https://github.com/ntfargo/Relapse-Exploit",
         "source": "github.com",
-        "score": 113,
-        "comments": 55,
+        "score": 210,
+        "comments": 110,
         "hnUrl": "https://news.ycombinator.com/item?id=49895304",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "DraftKings utilise l'IA pour cibler les joueurs chroniques sur le plan comportemental",
-        "titleOriginal": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-        "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-        "source": "eff.org",
-        "score": 338,
-        "comments": 209,
-        "hnUrl": "https://news.ycombinator.com/item?id=49896050",
-        "date": "il y a 3 h"
+        "date": "il y a 7 h"
       }
     ]
   },
