@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-09-29T23:21:46.883Z",
+  "updatedAt": "2026-09-30T02:14:16.962Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 20,
       "feelsLike": 18,
       "code": 3,
-      "wind": 11,
-      "humidity": 52
+      "wind": 10,
+      "humidity": 56
     },
     "forecast": [
       {
         "date": "2026-09-30",
         "code": 61,
         "tmax": 26,
-        "tmin": 18
+        "tmin": 19
       },
       {
         "date": "2026-10-01",
         "code": 61,
-        "tmax": 22,
-        "tmin": 13
+        "tmax": 21,
+        "tmin": 14
       },
       {
         "date": "2026-10-02",
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "IL EST L’HOMME LE PLUS MALCHANCEUX DE FRANCE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ELzt-Jtuj9Y",
-        "thumbnail": "https://i.ytimg.com/vi/ELzt-Jtuj9Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ELzt-Jtuj9Y",
-        "publishedAt": "2026-09-29T18:01:50+00:00"
-      },
-      {
-        "title": "L'ÉTAT PEUT BLOQUER VOTRE ÉPARGNE ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "ZlFxJSHxP6U",
-        "thumbnail": "https://i.ytimg.com/vi/ZlFxJSHxP6U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZlFxJSHxP6U",
-        "publishedAt": "2026-09-29T16:52:17+00:00"
-      },
-      {
-        "title": "Trump–Xi : les accélérationnistes ont gagné !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Qi6DeKJZ-gA",
-        "thumbnail": "https://i.ytimg.com/vi/Qi6DeKJZ-gA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Qi6DeKJZ-gA",
-        "publishedAt": "2026-09-29T16:00:08+00:00"
-      },
-      {
-        "title": "Vous avez 36h pour nous trouver à partir de vendredi (36 000€ à la clé)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "VZYQJ1Taw7k",
-        "thumbnail": "https://i.ytimg.com/vi/VZYQJ1Taw7k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VZYQJ1Taw7k",
-        "publishedAt": "2026-09-29T15:25:57+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Impossible de continuer comme prévu #28",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "uevnfKAbWzQ",
-        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
-        "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,40 +96,40 @@
         "titleOriginal": "Livenerf: Has Opus 5.5 been nerfed yet?",
         "url": "https://github.com/ninjahawk/livenerf",
         "source": "github.com",
-        "score": 36,
-        "comments": 7,
+        "score": 243,
+        "comments": 111,
         "hnUrl": "https://news.ycombinator.com/item?id=49901736",
-        "date": "il y a 45 min"
+        "date": "il y a 3 h"
       },
       {
         "title": "Les inspecteurs postaux américains ont fermé le site Web vendant des étiquettes d'affranchissement contrefaites",
         "titleOriginal": "U.S. postal inspectors shut down website selling counterfeit postage labels",
         "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
         "source": "postalemployeenetwork.com",
-        "score": 140,
-        "comments": 72,
+        "score": 173,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=49899090",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "GPT 6.1 sol : Intelligence Near-Astra pour un cinquième du prix",
-        "titleOriginal": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-        "source": "openai.com",
-        "score": 733,
-        "comments": 669,
-        "hnUrl": "https://news.ycombinator.com/item?id=49896586",
         "date": "il y a 6 h"
       },
       {
-        "title": "Exploitation de rechute PS5",
-        "titleOriginal": "PS5 Relapse Exploit",
-        "url": "https://github.com/ntfargo/Relapse-Exploit",
-        "source": "github.com",
-        "score": 210,
-        "comments": 110,
-        "hnUrl": "https://news.ycombinator.com/item?id=49895304",
+        "title": "Remplacement des centrales électriques du Vermont par des batteries domestiques",
+        "titleOriginal": "Vermont replacing power plants with home batteries",
+        "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+        "source": "bbc.com",
+        "score": 96,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=49897993",
         "date": "il y a 7 h"
+      },
+      {
+        "title": "America.gov",
+        "titleOriginal": "America.gov",
+        "url": "https://america.gov/",
+        "source": "america.gov",
+        "score": 365,
+        "comments": 290,
+        "hnUrl": "https://news.ycombinator.com/item?id=49893509",
+        "date": "il y a 12 h"
       }
     ]
   },
