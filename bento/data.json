@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-01T13:40:26.621Z",
+  "updatedAt": "2026-10-01T19:12:19.312Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 22,
-      "feelsLike": 20,
-      "code": 3,
-      "wind": 12,
-      "humidity": 52
+      "temp": 17,
+      "feelsLike": 16,
+      "code": 0,
+      "wind": 6,
+      "humidity": 66
     },
     "forecast": [
       {
@@ -25,19 +25,28 @@
       {
         "date": "2026-10-03",
         "code": 3,
-        "tmax": 21,
+        "tmax": 20,
         "tmin": 11
       },
       {
         "date": "2026-10-04",
-        "code": 3,
-        "tmax": 22,
-        "tmin": 12
+        "code": 61,
+        "tmax": 19,
+        "tmin": 14
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 59,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,29 +54,37 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
       {
-        "title": "AMPUTÉ DU POUCE : SA PREMIÈRE PENSÉE EST FOLLE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "gdLiLkMIMyE",
-        "thumbnail": "https://i.ytimg.com/vi/gdLiLkMIMyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gdLiLkMIMyE",
-        "publishedAt": "2026-10-01T13:00:20+00:00"
-      },
-      {
-        "title": "Utiliser l’IA, c’est devenu du maccarthysme",
+        "title": "Anthropic vs OpenAI : la guerre des IPO n'aura pas lieu !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "zEXSLCLg9CQ",
-        "thumbnail": "https://i.ytimg.com/vi/zEXSLCLg9CQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zEXSLCLg9CQ",
-        "publishedAt": "2026-10-01T10:01:30+00:00"
+        "videoId": "RsEIUBK7Du8",
+        "thumbnail": "https://i.ytimg.com/vi/RsEIUBK7Du8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RsEIUBK7Du8",
+        "publishedAt": "2026-10-01T16:00:30+00:00"
+      },
+      {
+        "title": "On réfléchit avec vous sur les nouvelles vidéos (il y aura un test de robinets voilà)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "1cl3-uhXvME",
+        "thumbnail": "https://i.ytimg.com/vi/1cl3-uhXvME/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1cl3-uhXvME",
+        "publishedAt": "2026-10-01T15:15:41+00:00"
+      },
+      {
+        "title": "\"ON M'A CASSÉ LE VISAGE À COUPS DE TALON\"",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "39yRuH_eyV8",
+        "thumbnail": "https://i.ytimg.com/vi/39yRuH_eyV8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=39yRuH_eyV8",
+        "publishedAt": "2026-10-01T15:00:31+00:00"
       },
       {
         "title": "Quitter la France pour mieux la défendre ?",
@@ -77,15 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/JxjtRsB2im8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JxjtRsB2im8",
         "publishedAt": "2026-09-30T10:00:21+00:00"
-      },
-      {
-        "title": "Vous avez 36h pour nous trouver à partir de vendredi (36 000€ à la clé)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "VZYQJ1Taw7k",
-        "thumbnail": "https://i.ytimg.com/vi/VZYQJ1Taw7k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VZYQJ1Taw7k",
-        "publishedAt": "2026-09-29T15:25:57+00:00"
       },
       {
         "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Clef : Modèles de décision open source, et nouvelle plateforme de réglage fin RL",
+        "titleOriginal": "Clef: Open-source decision models, and new RL fine-tuning platform",
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "source": "blog.cloudflare.com",
+        "score": 259,
+        "comments": 98,
+        "hnUrl": "https://news.ycombinator.com/item?id=49923692",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "RIP, base de données vectorielle",
+        "titleOriginal": "RIP, vector database",
+        "url": "https://turbopuffer.com/blog/rip-vector-database",
+        "source": "turbopuffer.com",
+        "score": 170,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=49923466",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "StreetComplete sur iOS est maintenant en version bêta publique",
         "titleOriginal": "StreetComplete on iOS is now in public beta",
         "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
         "source": "github.com",
-        "score": 178,
-        "comments": 34,
+        "score": 432,
+        "comments": 100,
         "hnUrl": "https://news.ycombinator.com/item?id=49920160",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Comment accélérer le compilateur Rust en septembre 2026",
-        "titleOriginal": "How to speed up the Rust compiler in September 2026",
-        "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-        "source": "nnethercote.github.io",
-        "score": 22,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=49920896",
-        "date": "il y a 55 min"
-      },
-      {
-        "title": "GPT-Synopsys : Frontier Intelligence pour révolutionner la conception de puces",
-        "titleOriginal": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-        "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-        "source": "news.synopsys.com",
-        "score": 81,
-        "comments": 35,
-        "hnUrl": "https://news.ycombinator.com/item?id=49919910",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "OpenDLSS : une réimplémentation Vulkan du réseau de rendu neuronal DLSS 5 de Nvidia",
-        "titleOriginal": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-        "url": "https://github.com/maanHimself/OpenDLSS-NR",
-        "source": "github.com",
-        "score": 151,
-        "comments": 88,
-        "hnUrl": "https://news.ycombinator.com/item?id=49906100",
-        "date": "hier"
+        "title": "Votez sur les défis de Hacker News pour l'IA qui ont été relevés",
+        "titleOriginal": "Vote on which of Hacker News' challenges for AI have been met",
+        "url": "https://stoppels.ch/goalposts/",
+        "source": "stoppels.ch",
+        "score": 32,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49924618",
+        "date": "il y a 1 h"
       }
     ]
   },
