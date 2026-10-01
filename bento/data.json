@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-01T00:04:11.218Z",
+  "updatedAt": "2026-10-01T06:17:17.757Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 20,
+      "temp": 17,
+      "feelsLike": 18,
       "code": 61,
-      "wind": 8,
-      "humidity": 89
+      "wind": 7,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -19,8 +19,8 @@
       {
         "date": "2026-10-02",
         "code": 45,
-        "tmax": 21,
-        "tmin": 9
+        "tmax": 22,
+        "tmin": 10
       },
       {
         "date": "2026-10-03",
@@ -32,19 +32,19 @@
         "date": "2026-10-04",
         "code": 3,
         "tmax": 21,
-        "tmin": 10
+        "tmin": 11
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 126,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 305,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
       }
     ],
     "offline": [
@@ -52,95 +52,13 @@
       "bastiui",
       "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Zuckerberg vs les autres : la guerre des agents IA est déclarée !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "tMxLf1tgsnQ",
-        "thumbnail": "https://i.ytimg.com/vi/tMxLf1tgsnQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tMxLf1tgsnQ",
-        "publishedAt": "2026-09-30T16:00:24+00:00"
-      },
-      {
-        "title": "L'HOMME LE PLUS MALCHANCEUX DE FRANCE : QUAND IL NE LUI ARRIVE RIEN, IL A PEUR",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "WVch-phulrQ",
-        "thumbnail": "https://i.ytimg.com/vi/WVch-phulrQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WVch-phulrQ",
-        "publishedAt": "2026-09-30T15:00:33+00:00"
-      },
-      {
-        "title": "Quitter la France pour mieux la défendre ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "JxjtRsB2im8",
-        "thumbnail": "https://i.ytimg.com/vi/JxjtRsB2im8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JxjtRsB2im8",
-        "publishedAt": "2026-09-30T10:00:21+00:00"
-      },
-      {
-        "title": "Vous avez 36h pour nous trouver à partir de vendredi (36 000€ à la clé)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "VZYQJ1Taw7k",
-        "thumbnail": "https://i.ytimg.com/vi/VZYQJ1Taw7k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VZYQJ1Taw7k",
-        "publishedAt": "2026-09-29T15:25:57+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Impossible de continuer comme prévu #28",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "uevnfKAbWzQ",
-        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
-        "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -186,40 +104,40 @@
         "titleOriginal": "Gemini 4 Argon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
         "source": "blog.google",
-        "score": 866,
-        "comments": 581,
+        "score": 1241,
+        "comments": 795,
         "hnUrl": "https://news.ycombinator.com/item?id=49913571",
-        "date": "il y a 3 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Les satellites top secrets URSALA, RAQUEL et FARRAH",
-        "titleOriginal": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+        "title": "Les costumes sont une meilleure technologie que les vêtements modernes",
+        "titleOriginal": "Suits Are Better Tech Than Modern Clothes",
+        "url": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/",
+        "source": "devz.cl",
+        "score": 14,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=49918161",
+        "date": "il y a 28 min"
+      },
+      {
+        "title": "Les satellites top secrets URSALA, RAQUEL et FARRAH (2025)",
+        "titleOriginal": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
         "url": "https://www.thespacereview.com/article/4951/1",
         "source": "thespacereview.com",
-        "score": 96,
-        "comments": 21,
+        "score": 188,
+        "comments": 83,
         "hnUrl": "https://news.ycombinator.com/item?id=49915082",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Des ondes étonnamment complexes révèlent le fonctionnement interne du cerveau",
-        "titleOriginal": "Surprisingly complex waves reveal the brain's inner workings",
-        "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-        "source": "quantamagazine.org",
-        "score": 107,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=49912955",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Le compilateur EDG C++ est open source",
-        "titleOriginal": "EDG C++ Compiler is open source",
-        "url": "https://github.com/edgcpp/compiler",
-        "source": "github.com",
-        "score": 15,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49915484",
-        "date": "il y a 1 h"
+        "title": "Pourquoi l'âge du bronze s'est effondré",
+        "titleOriginal": "Why the Bronze Age Collapsed",
+        "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+        "source": "worksinprogress.news",
+        "score": 164,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=49890732",
+        "date": "hier"
       }
     ]
   },
