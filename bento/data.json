@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-02T08:46:16.776Z",
+  "updatedAt": "2026-10-02T15:15:54.416Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
-      "code": 0,
-      "wind": 2,
-      "humidity": 75
+      "temp": 21,
+      "feelsLike": 20,
+      "code": 1,
+      "wind": 10,
+      "humidity": 43
     },
     "forecast": [
       {
@@ -18,37 +18,29 @@
       },
       {
         "date": "2026-10-03",
-        "code": 61,
-        "tmax": 22,
-        "tmin": 10
+        "code": 45,
+        "tmax": 23,
+        "tmin": 9
       },
       {
         "date": "2026-10-04",
-        "code": 61,
+        "code": 95,
         "tmax": 19,
-        "tmin": 14
+        "tmin": 15
       },
       {
         "date": "2026-10-05",
-        "code": 2,
+        "code": 45,
         "tmax": 20,
         "tmin": 11
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 424,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -59,6 +51,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Les plus riches avancent moins vite ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "LvLtARY2Ol0",
+        "thumbnail": "https://i.ytimg.com/vi/LvLtARY2Ol0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LvLtARY2Ol0",
+        "publishedAt": "2026-10-02T10:53:49+00:00"
+      },
       {
         "title": "Anthropic et OpenAI : la bulle de l'IA est-elle en train d'éclater ?",
         "channel": "Silicon Carne 🌶️",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/39yRuH_eyV8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=39yRuH_eyV8",
         "publishedAt": "2026-10-01T15:00:31+00:00"
-      },
-      {
-        "title": "Quitter la France pour mieux la défendre ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "JxjtRsB2im8",
-        "thumbnail": "https://i.ytimg.com/vi/JxjtRsB2im8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JxjtRsB2im8",
-        "publishedAt": "2026-09-30T10:00:21+00:00"
       },
       {
         "title": "LA TRAQUE 2 : On est cachés en France, trouvez-nous !",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "The Legend of von Neumann [pdf]",
+        "titleOriginal": "The Legend of von Neumann [pdf]",
+        "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+        "source": "gwern.net",
+        "score": 68,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=49933235",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Pi 1.0",
         "titleOriginal": "Pi 1.0",
         "url": "https://earendil.com/posts/pi-1-0/",
         "source": "earendil.com",
-        "score": 1230,
-        "comments": 378,
+        "score": 1553,
+        "comments": 516,
         "hnUrl": "https://news.ycombinator.com/item?id=49926069",
-        "date": "il y a 13 h"
+        "date": "il y a 19 h"
       },
       {
-        "title": "Avis sur le musée du vélo de Shimano",
+        "title": "Shimano Bicycle Museum Review",
         "titleOriginal": "Shimano Bicycle Museum Review",
         "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
         "source": "inrng.com",
-        "score": 74,
-        "comments": 10,
+        "score": 226,
+        "comments": 42,
         "hnUrl": "https://news.ycombinator.com/item?id=49930047",
-        "date": "il y a 3 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Comment fonctionne le service de rencontres géré par le gouvernement de Singapour",
-        "titleOriginal": "How Singapore's government-run dating service works",
-        "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-        "source": "singapore-samizdat.com",
-        "score": 135,
-        "comments": 82,
-        "hnUrl": "https://news.ycombinator.com/item?id=49929113",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Plusieurs vulnérabilités ont été découvertes dans le noyau Linux",
+        "title": "Several vulnerabilities have been discovered in the Linux kernel",
         "titleOriginal": "Several vulnerabilities have been discovered in the Linux kernel",
         "url": "https://lwn.net/Articles/1097401/",
         "source": "lwn.net",
-        "score": 270,
-        "comments": 195,
+        "score": 453,
+        "comments": 323,
         "hnUrl": "https://news.ycombinator.com/item?id=49928121",
-        "date": "il y a 9 h"
+        "date": "il y a 16 h"
       }
     ]
   },
