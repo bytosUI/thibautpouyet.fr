@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-02T23:54:39.245Z",
+  "updatedAt": "2026-10-03T03:25:01.797Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 11,
+      "temp": 9,
+      "feelsLike": 9,
       "code": 1,
-      "wind": 4,
-      "humidity": 85
+      "wind": 3,
+      "humidity": 92
     },
     "forecast": [
       {
         "date": "2026-10-03",
-        "code": 45,
+        "code": 61,
         "tmax": 23,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-10-04",
-        "code": 80,
-        "tmax": 21,
+        "code": 61,
+        "tmax": 23,
         "tmin": 16
       },
       {
@@ -52,51 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE GRAND RECAP : Le grand ménage dans la tech !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "faISk4h7QIw",
-        "thumbnail": "https://i.ytimg.com/vi/faISk4h7QIw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=faISk4h7QIw",
-        "publishedAt": "2026-10-02T16:48:09+00:00"
-      },
-      {
-        "title": "Les plus riches avancent moins vite ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "LvLtARY2Ol0",
-        "thumbnail": "https://i.ytimg.com/vi/LvLtARY2Ol0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LvLtARY2Ol0",
-        "publishedAt": "2026-10-02T10:53:49+00:00"
-      },
-      {
-        "title": "\"ON M'A CASSÉ LE VISAGE À COUPS DE TALON\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "39yRuH_eyV8",
-        "thumbnail": "https://i.ytimg.com/vi/39yRuH_eyV8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=39yRuH_eyV8",
-        "publishedAt": "2026-10-01T15:00:31+00:00"
-      },
-      {
-        "title": "LA TRAQUE 2 : On est cachés en France, trouvez-nous !",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ha-UDBTlkAA",
-        "thumbnail": "https://i.ytimg.com/vi/ha-UDBTlkAA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ha-UDBTlkAA",
-        "publishedAt": "2026-09-29T19:12:30+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
         "title": "Impossible de continuer comme prévu #28",
         "channel": "17h17",
         "channelHandle": "17heures17",
@@ -104,33 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
         "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "600m² ISOLÉS EN 5 JOURS ! LE PROJET DÉCOLLE !",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "Hi6VfQpC7TQ",
-        "thumbnail": "https://i.ytimg.com/vi/Hi6VfQpC7TQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hi6VfQpC7TQ",
-        "publishedAt": "2026-09-13T09:48:43+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
       }
     ]
   },
@@ -174,44 +102,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Apple Pass Designer",
-        "titleOriginal": "Apple Pass Designer",
-        "url": "https://developer.apple.com/pass-designer/",
-        "source": "developer.apple.com",
-        "score": 280,
-        "comments": 190,
-        "hnUrl": "https://news.ycombinator.com/item?id=49937276",
-        "date": "il y a 4 h"
+        "title": "Newgrounds.com – Une communauté de jeux, de musique et d'art",
+        "titleOriginal": "Newgrounds.com – A community of games, music, and art",
+        "url": "https://www.newgrounds.com/",
+        "source": "newgrounds.com",
+        "score": 49,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49940394",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "The Forgetful CPU (Linux sur M4)",
+        "titleOriginal": "The Forgetful CPU (Linux on M4)",
+        "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+        "source": "yuka.dev",
+        "score": 136,
+        "comments": 60,
+        "hnUrl": "https://news.ycombinator.com/item?id=49933869",
+        "date": "il y a 13 h"
       },
       {
         "title": "La Cour est d'accord avec l'eff : la loi VPN de l'Utah exige une impossibilité technique",
         "titleOriginal": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
         "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
         "source": "eff.org",
-        "score": 447,
-        "comments": 201,
+        "score": 542,
+        "comments": 235,
         "hnUrl": "https://news.ycombinator.com/item?id=49927754",
         "date": "hier"
       },
       {
-        "title": "Une séquence de 12 ans d'images télescopiques d'une étoile et de quatre planètes en orbite",
-        "titleOriginal": "A 12-year sequence of telescope images of a star and four planets orbiting",
-        "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-        "source": "bsky.app",
-        "score": 164,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=49932147",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Avec la plupart des informations cachées, le jeu Stratego avait déconcerté l'IA jusqu'à présent",
-        "titleOriginal": "With most information hidden, the game Stratego had stumped AI until now",
-        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "source": "arstechnica.com",
-        "score": 151,
-        "comments": 74,
-        "hnUrl": "https://news.ycombinator.com/item?id=49933740",
-        "date": "il y a 9 h"
+        "title": "NTSB Preliminary Report : Prime Air 767 Runway Overrun [pdf]",
+        "titleOriginal": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+        "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+        "source": "ntsb.gov",
+        "score": 21,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=49940467",
+        "date": "il y a 2 h"
       }
     ]
   },
