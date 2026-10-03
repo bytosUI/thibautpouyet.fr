@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-03T14:22:12.410Z",
+  "updatedAt": "2026-10-03T18:05:30.326Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 24,
-      "feelsLike": 23,
-      "code": 0,
-      "wind": 6,
-      "humidity": 44
+      "temp": 20,
+      "feelsLike": 20,
+      "code": 3,
+      "wind": 7,
+      "humidity": 53
     },
     "forecast": [
       {
@@ -20,19 +20,19 @@
         "date": "2026-10-04",
         "code": 3,
         "tmax": 25,
-        "tmin": 16
+        "tmin": 15
       },
       {
         "date": "2026-10-05",
         "code": 45,
         "tmax": 25,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-10-06",
         "code": 3,
         "tmax": 25,
-        "tmin": 10
+        "tmin": 9
       }
     ]
   },
@@ -70,22 +70,22 @@
         "publishedAt": "2026-10-03T10:00:06+00:00"
       },
       {
-        "title": "\"ON M'A CASSÉ LE VISAGE À COUPS DE TALON\"",
+        "title": "MILLIARDAIRES DANGEREUX, MENACES, ESPIONS: ON A VOULU L’EMPÊCHER D’ENQUÊTER SUR L’AUDIOVISUEL PUBLIC",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "39yRuH_eyV8",
-        "thumbnail": "https://i.ytimg.com/vi/39yRuH_eyV8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=39yRuH_eyV8",
-        "publishedAt": "2026-10-01T15:00:31+00:00"
+        "videoId": "6tFC_XNkRXE",
+        "thumbnail": "https://i.ytimg.com/vi/6tFC_XNkRXE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6tFC_XNkRXE",
+        "publishedAt": "2026-10-02T15:11:27+00:00"
       },
       {
-        "title": "LA TRAQUE 2 : On est cachés en France, trouvez-nous !",
+        "title": "On réfléchit avec vous sur les nouvelles vidéos (il y aura un test de robinets voilà)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "ha-UDBTlkAA",
-        "thumbnail": "https://i.ytimg.com/vi/ha-UDBTlkAA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ha-UDBTlkAA",
-        "publishedAt": "2026-09-29T19:12:30+00:00"
+        "videoId": "1cl3-uhXvME",
+        "thumbnail": "https://i.ytimg.com/vi/1cl3-uhXvME/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1cl3-uhXvME",
+        "publishedAt": "2026-10-01T15:15:41+00:00"
       },
       {
         "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'escalade de la guerre en Éthiopie",
-        "titleOriginal": "The Escalation of War in Ethiopia",
-        "url": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
-        "source": "africanistperspective.com",
-        "score": 62,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=49943451",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "C++ Insights – Voyez votre code source avec les yeux d'un compilateur",
-        "titleOriginal": "C++ Insights – See your source code with the eyes of a Compiler",
-        "url": "https://github.com/andreasfertig/cppinsights",
-        "source": "github.com",
-        "score": 38,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=49928361",
-        "date": "hier"
-      },
-      {
-        "title": "Show HN : le nouveau modèle d'IA souverain de l'Allemagne Kolibri",
-        "titleOriginal": "Show HN: Germany's new sovereign AI model Kolibri",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "tej.as",
-        "score": 94,
-        "comments": 69,
-        "hnUrl": "https://news.ycombinator.com/item?id=49943034",
+        "title": "FTL : Un nouveau système d'exploitation pour les clouds",
+        "titleOriginal": "FTL: A new operating system for clouds",
+        "url": "https://ftl-os.org/",
+        "source": "ftl-os.org",
+        "score": 67,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=49944912",
         "date": "il y a 3 h"
       },
       {
-        "title": "Newgrounds.com – Une communauté de jeux, de musique et d'art",
-        "titleOriginal": "Newgrounds.com – A community of games, music, and art",
-        "url": "https://www.newgrounds.com/",
-        "source": "newgrounds.com",
-        "score": 324,
-        "comments": 93,
-        "hnUrl": "https://news.ycombinator.com/item?id=49940394",
-        "date": "il y a 13 h"
+        "title": "Kolibri : un modèle souverain de poids ouvert",
+        "titleOriginal": "Kolibri: A Sovereign Open-Weight Model",
+        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+        "source": "aleph-alpha.com",
+        "score": 256,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=49942706",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Salle de contrôle électrique Woking (2016)",
+        "titleOriginal": "Woking Electrical Control Room (2016)",
+        "url": "http://www.darbiansphotography.com/woking-electrical-control-room-urbex",
+        "source": "darbiansphotography.com",
+        "score": 90,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49938399",
+        "date": "il y a 21 h"
+      },
+      {
+        "title": "Les jeux de construction de ville ont un problème d'âme pt.2",
+        "titleOriginal": "City building games have a Soul Problem pt.2",
+        "url": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+        "source": "radical-elements.com",
+        "score": 78,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=49945323",
+        "date": "il y a 2 h"
       }
     ]
   },
