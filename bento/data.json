@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-10-03T21:36:44.708Z",
+  "updatedAt": "2026-10-04T00:18:32.592Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 16,
       "feelsLike": 16,
       "code": 3,
-      "wind": 6,
-      "humidity": 74
+      "wind": 5,
+      "humidity": 79
     },
     "forecast": [
-      {
-        "date": "2026-10-03",
-        "code": 45,
-        "tmax": 24,
-        "tmin": 8
-      },
       {
         "date": "2026-10-04",
         "code": 3,
         "tmax": 26,
-        "tmin": 15
+        "tmin": 16
       },
       {
         "date": "2026-10-05",
         "code": 45,
         "tmax": 25,
-        "tmin": 11
+        "tmin": 12
       },
       {
         "date": "2026-10-06",
-        "code": 3,
-        "tmax": 25,
-        "tmin": 9
+        "code": 45,
+        "tmax": 24,
+        "tmin": 8
+      },
+      {
+        "date": "2026-10-07",
+        "code": 95,
+        "tmax": 20,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 190,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -156,7 +148,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 13 sem",
+        "time": "il y a 14 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Un juge fédéral qualifie Flock de « surveillance de masse indiscriminée »",
+        "titleOriginal": "Federal judge calls Flock 'indiscriminate mass surveillance'",
+        "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+        "source": "techcrunch.com",
+        "score": 216,
+        "comments": 134,
+        "hnUrl": "https://news.ycombinator.com/item?id=49948254",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Hole Punch : élinguez votre vaisseau spatial autour des champs gravitationnels",
         "titleOriginal": "Hole Punch: Sling your spaceship around gravitational fields",
         "url": "https://notoriousbfg.com/hole-punch/",
         "source": "notoriousbfg.com",
-        "score": 127,
-        "comments": 38,
+        "score": 212,
+        "comments": 54,
         "hnUrl": "https://news.ycombinator.com/item?id=49946393",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Tirer le meilleur parti de l'Opus 5.5 dans Claude et Claude Code",
-        "titleOriginal": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-        "source": "claude.dev",
-        "score": 70,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49946567",
-        "date": "il y a 3 h"
+        "title": "Trahison au Musée Rodin Verdict du scan 3D",
+        "titleOriginal": "Treachery in the Rodin Museum 3D scan verdict",
+        "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+        "source": "cosmowenman.substack.com",
+        "score": 53,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=49946355",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Nous voulons que vous construisiez la prochaine plate-forme Git sur Cloudflare",
-        "titleOriginal": "We want you to build the next Git platform on Cloudflare",
-        "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-        "source": "blog.cloudflare.com",
-        "score": 63,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=49947051",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Célébration du 100e anniversaire du rein qui lui a été donné à l'adolescence",
-        "titleOriginal": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-        "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-        "source": "whec.com",
-        "score": 84,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=49923873",
-        "date": "il y a 2 j"
+        "title": "Le travail de Timur Kristóf de Valve sur l'amélioration des anciens GPU AMD sur Linux",
+        "titleOriginal": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+        "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+        "source": "phoronix.com",
+        "score": 86,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=49946895",
+        "date": "il y a 5 h"
       }
     ]
   },
