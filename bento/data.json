@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-10-04T12:40:47.598Z",
+  "updatedAt": "2026-10-04T17:14:10.675Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 24,
-      "feelsLike": 25,
-      "code": 2,
-      "wind": 3,
+      "feelsLike": 23,
+      "code": 1,
+      "wind": 13,
       "humidity": 55
     },
     "forecast": [
       {
         "date": "2026-10-04",
         "code": 3,
-        "tmax": 25,
+        "tmax": 26,
         "tmin": 15
       },
       {
         "date": "2026-10-05",
         "code": 45,
-        "tmax": 24,
+        "tmax": 25,
         "tmin": 12
       },
       {
         "date": "2026-10-06",
         "code": 45,
-        "tmax": 23,
-        "tmin": 9
+        "tmax": 24,
+        "tmin": 8
       },
       {
         "date": "2026-10-07",
         "code": 95,
-        "tmax": 21,
+        "tmax": 19,
         "tmin": 11
       }
     ]
@@ -52,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "VOUS AVEZ PAYÉ 250 MILLIONS D'EUROS EN 10 ANS POUR \"N'OUBLIEZ PAS LES PAROLES\"",
+        "title": "QUI TROUVERA LE MEILLEUR CONTAINER ? (ft Freddy Gladieux, Mastu, Theodort, Billy)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "bXwWvtrHr3M",
+        "thumbnail": "https://i.ytimg.com/vi/bXwWvtrHr3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bXwWvtrHr3M",
+        "publishedAt": "2026-10-04T16:45:53+00:00"
+      },
+      {
+        "title": "CETTE STAR DE CINÉMA AGRESSE LE DÉPUTÉ CHARLES ALLONCLE DANS UN RESTAURANT !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Paua1_WklTM",
-        "thumbnail": "https://i.ytimg.com/vi/Paua1_WklTM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Paua1_WklTM",
-        "publishedAt": "2026-10-04T12:00:09+00:00"
+        "videoId": "thAonpTgPcA",
+        "thumbnail": "https://i.ytimg.com/vi/thAonpTgPcA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=thAonpTgPcA",
+        "publishedAt": "2026-10-04T16:00:31+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
       },
       {
         "title": "18-MONTH RENOVATION TIMELAPSE - OLD FACTORY → EVENT VENUE",
@@ -104,24 +122,6 @@
         "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
         "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Impossible de continuer comme prévu #28",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "uevnfKAbWzQ",
-        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
-        "publishedAt": "2026-09-20T15:17:11+00:00"
-      },
-      {
-        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "2QcaDwpvl7s",
-        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
-        "publishedAt": "2026-09-04T20:27:43+00:00"
       },
       {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "VGHF Digital Archive passe 5000 magazines. Voici les prochaines étapes",
-        "titleOriginal": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-        "url": "https://gamehistory.org/5k-magazines/",
-        "source": "gamehistory.org",
-        "score": 42,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=49952029",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Dites à HN : Bob Cringely est décédé",
-        "titleOriginal": "Tell HN: Bob Cringely has died",
-        "url": "https://news.ycombinator.com/item?id=49949438",
-        "source": "news.ycombinator.com",
-        "score": 541,
-        "comments": 107,
-        "hnUrl": "https://news.ycombinator.com/item?id=49949438",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Pourquoi plus de développeurs « n'utilisent-ils pas la plateforme » ?",
-        "titleOriginal": "Why don't more developers “use the platform”?",
-        "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-        "source": "nolanlawson.com",
-        "score": 172,
-        "comments": 147,
-        "hnUrl": "https://news.ycombinator.com/item?id=49950554",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "gpuvis : GPU Trace Visualizer",
-        "titleOriginal": "gpuvis: GPU Trace Visualizer",
-        "url": "https://github.com/mikesart/gpuvis",
+        "title": "Exécutez Qwen 3.8 Flash Next (125B) sur du matériel grand public (RTX 4090) à 100T/s",
+        "titleOriginal": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+        "url": "https://github.com/Niko1221/Strata",
         "source": "github.com",
-        "score": 27,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=49935097",
-        "date": "hier"
+        "score": 300,
+        "comments": 155,
+        "hnUrl": "https://news.ycombinator.com/item?id=49953495",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "La voiture est un smartphone sur roues. Voici qui écoute",
+        "titleOriginal": "Car is a smartphone on wheels. Here's who's listening",
+        "url": "https://automatictransmission.khoury.northeastern.edu/",
+        "source": "automatictransmission.khoury.northeastern.edu",
+        "score": 116,
+        "comments": 57,
+        "hnUrl": "https://news.ycombinator.com/item?id=49954882",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Une carte de chaque phare de la planète",
+        "titleOriginal": "A Map of Every Lighthouse on the Planet",
+        "url": "https://mapped.earth/lighthouses/world",
+        "source": "mapped.earth",
+        "score": 32,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49933461",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Glashütte Trash Clock – Horloge pendulaire de 30 minutes fabriquée à partir de déchets",
+        "titleOriginal": "Glashütte Trash Clock – A 30-minute pendulum clock made from trash",
+        "url": "https://niklasroy.com/gtc/",
+        "source": "niklasroy.com",
+        "score": 102,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=49930439",
+        "date": "il y a 2 j"
       }
     ]
   },
