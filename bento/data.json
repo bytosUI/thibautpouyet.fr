@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-04T06:08:25.641Z",
+  "updatedAt": "2026-10-04T12:40:47.598Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 14,
-      "code": 3,
-      "wind": 7,
-      "humidity": 85
+      "temp": 24,
+      "feelsLike": 25,
+      "code": 2,
+      "wind": 3,
+      "humidity": 55
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-10-05",
         "code": 45,
-        "tmax": 25,
-        "tmin": 11
+        "tmax": 24,
+        "tmin": 12
       },
       {
         "date": "2026-10-06",
         "code": 45,
-        "tmax": 24,
-        "tmin": 8
+        "tmax": 23,
+        "tmin": 9
       },
       {
         "date": "2026-10-07",
         "code": 95,
-        "tmax": 22,
-        "tmin": 10
+        "tmax": 21,
+        "tmin": 11
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "VOUS AVEZ PAYÉ 250 MILLIONS D'EUROS EN 10 ANS POUR \"N'OUBLIEZ PAS LES PAROLES\"",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Paua1_WklTM",
+        "thumbnail": "https://i.ytimg.com/vi/Paua1_WklTM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Paua1_WklTM",
+        "publishedAt": "2026-10-04T12:00:09+00:00"
+      },
+      {
+        "title": "18-MONTH RENOVATION TIMELAPSE - OLD FACTORY → EVENT VENUE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "H0mIY7ZNatU",
+        "thumbnail": "https://i.ytimg.com/vi/H0mIY7ZNatU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H0mIY7ZNatU",
+        "publishedAt": "2026-10-04T10:46:34+00:00"
+      },
+      {
+        "title": "Gagner 10 000 € par mois en dormant : une arnaque ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "muObWa4EUYc",
+        "thumbnail": "https://i.ytimg.com/vi/muObWa4EUYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=muObWa4EUYc",
+        "publishedAt": "2026-10-04T10:00:35+00:00"
+      },
+      {
+        "title": "Si l’IA ne rapporte pas de pognon, ça pue",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "XxSrK7us19A",
+        "thumbnail": "https://i.ytimg.com/vi/XxSrK7us19A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XxSrK7us19A",
+        "publishedAt": "2026-10-03T11:00:33+00:00"
+      },
+      {
+        "title": "On réfléchit avec vous sur les nouvelles vidéos (il y aura un test de robinets voilà)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "1cl3-uhXvME",
+        "thumbnail": "https://i.ytimg.com/vi/1cl3-uhXvME/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1cl3-uhXvME",
+        "publishedAt": "2026-10-01T15:15:41+00:00"
+      },
+      {
+        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "XdDdz0vZY8M",
+        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
+        "publishedAt": "2026-09-20T16:00:33+00:00"
+      },
+      {
+        "title": "Impossible de continuer comme prévu #28",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "uevnfKAbWzQ",
+        "thumbnail": "https://i.ytimg.com/vi/uevnfKAbWzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uevnfKAbWzQ",
+        "publishedAt": "2026-09-20T15:17:11+00:00"
+      },
+      {
+        "title": "Essayez de ne pas rire | Séquence inédite (Partie 3/3)",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "2QcaDwpvl7s",
+        "thumbnail": "https://i.ytimg.com/vi/2QcaDwpvl7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2QcaDwpvl7s",
+        "publishedAt": "2026-09-04T20:27:43+00:00"
+      },
+      {
+        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "RJQUEXYOZHM",
+        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
+        "publishedAt": "2026-08-03T07:30:33+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "VGHF Digital Archive passe 5000 magazines. Voici les prochaines étapes",
+        "titleOriginal": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
+        "url": "https://gamehistory.org/5k-magazines/",
+        "source": "gamehistory.org",
+        "score": 42,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=49952029",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Dites à HN : Bob Cringely est décédé",
         "titleOriginal": "Tell HN: Bob Cringely has died",
         "url": "https://news.ycombinator.com/item?id=49949438",
         "source": "news.ycombinator.com",
-        "score": 324,
-        "comments": 61,
+        "score": 541,
+        "comments": 107,
         "hnUrl": "https://news.ycombinator.com/item?id=49949438",
-        "date": "il y a 5 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Pourquoi plus de développeurs « n'utilisent-ils pas la plateforme » ?",
-        "titleOriginal": "Why don't more developers \"use the platform\"?",
+        "titleOriginal": "Why don't more developers “use the platform”?",
         "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
         "source": "nolanlawson.com",
-        "score": 52,
-        "comments": 24,
+        "score": 172,
+        "comments": 147,
         "hnUrl": "https://news.ycombinator.com/item?id=49950554",
-        "date": "il y a 1 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Alors tu penses que tu pourrais être électricien ?",
-        "titleOriginal": "So you think you could be an electrician?",
-        "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-        "source": "asteriskmag.com",
-        "score": 128,
-        "comments": 70,
-        "hnUrl": "https://news.ycombinator.com/item?id=49910462",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "Nous allons avoir besoin de plafonds budgétaires stricts par défaut sur à peu près tout",
-        "titleOriginal": "We're going to need default hard budget caps on pretty much everything",
-        "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-        "source": "simonwillison.net",
-        "score": 340,
-        "comments": 171,
-        "hnUrl": "https://news.ycombinator.com/item?id=49949235",
-        "date": "il y a 5 h"
+        "title": "gpuvis : GPU Trace Visualizer",
+        "titleOriginal": "gpuvis: GPU Trace Visualizer",
+        "url": "https://github.com/mikesart/gpuvis",
+        "source": "github.com",
+        "score": 27,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=49935097",
+        "date": "hier"
       }
     ]
   },
