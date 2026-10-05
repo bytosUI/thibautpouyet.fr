@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-04T23:24:02.459Z",
+  "updatedAt": "2026-10-05T02:13:17.282Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 16,
-      "code": 0,
-      "wind": 3,
-      "humidity": 90
+      "temp": 13,
+      "feelsLike": 13,
+      "code": 2,
+      "wind": 2,
+      "humidity": 93
     },
     "forecast": [
       {
         "date": "2026-10-05",
         "code": 45,
-        "tmax": 25,
+        "tmax": 24,
         "tmin": 11
       },
       {
         "date": "2026-10-06",
-        "code": 45,
-        "tmax": 25,
+        "code": 3,
+        "tmax": 24,
         "tmin": 7
       },
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
         "url": "https://github.com/Niko1221/Strata",
         "source": "github.com",
-        "score": 550,
-        "comments": 269,
+        "score": 624,
+        "comments": 292,
         "hnUrl": "https://news.ycombinator.com/item?id=49953495",
-        "date": "il y a 10 h"
+        "date": "il y a 13 h"
+      },
+      {
+        "title": "ArtCraft Apps – suite compatible Adobe open source écrite en rouille",
+        "titleOriginal": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+        "url": "https://getartcraft.com/apps",
+        "source": "getartcraft.com",
+        "score": 49,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=49958850",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "À la suite de la fermeture, une archive numérique de documents animés apparaît en ligne",
+        "titleOriginal": "In the wake of closure, a digital archive of animated materials appears online",
+        "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+        "source": "filmstories.co.uk",
+        "score": 32,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=49957812",
+        "date": "il y a 5 h"
       },
       {
         "title": "L'infidèle se déchaîne",
         "titleOriginal": "Infidel goes wild",
         "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
         "source": "blog.zarfhome.com",
-        "score": 33,
-        "comments": 1,
+        "score": 80,
+        "comments": 12,
         "hnUrl": "https://news.ycombinator.com/item?id=49943637",
         "date": "hier"
-      },
-      {
-        "title": "Désactivez Apple Intelligence sur macOS 27 et récupérez son espace disque",
-        "titleOriginal": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-        "url": "https://github.com/omlahore/RemoveMacAI",
-        "source": "github.com",
-        "score": 265,
-        "comments": 151,
-        "hnUrl": "https://news.ycombinator.com/item?id=49957116",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Une rédaction incorrecte révèle la consommation d'eau et d'électricité du centre de données Google",
-        "titleOriginal": "Improper redaction reveals Google Data Center water and electricity usage",
-        "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-        "source": "1011now.com",
-        "score": 180,
-        "comments": 260,
-        "hnUrl": "https://news.ycombinator.com/item?id=49957068",
-        "date": "il y a 3 h"
       }
     ]
   },
