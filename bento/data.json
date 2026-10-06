@@ -1,57 +1,57 @@
 {
-  "updatedAt": "2026-10-06T07:05:43.420Z",
+  "updatedAt": "2026-10-06T14:19:38.202Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 8,
-      "feelsLike": 6,
-      "code": 2,
-      "wind": 2,
-      "humidity": 86
+      "temp": 25,
+      "feelsLike": 25,
+      "code": 3,
+      "wind": 5,
+      "humidity": 43
     },
     "forecast": [
       {
         "date": "2026-10-06",
-        "code": 2,
-        "tmax": 24,
+        "code": 3,
+        "tmax": 25,
         "tmin": 7
       },
       {
         "date": "2026-10-07",
-        "code": 80,
+        "code": 95,
         "tmax": 22,
         "tmin": 10
       },
       {
         "date": "2026-10-08",
         "code": 63,
-        "tmax": 16,
+        "tmax": 15,
         "tmin": 10
       },
       {
         "date": "2026-10-09",
         "code": 61,
-        "tmax": 13,
-        "tmin": 6
+        "tmax": 14,
+        "tmin": 5
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 345,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Crusader Kings III",
+        "viewers": 7061,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,22 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "À quoi sert vraiment Jev ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "g7K0jbYqzTo",
-        "thumbnail": "https://i.ytimg.com/vi/g7K0jbYqzTo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g7K0jbYqzTo",
-        "publishedAt": "2026-10-06T06:00:42+00:00"
-      },
-      {
-        "title": "LA DIRECTION DE FRANCE TV DORT DANS DES PALACES À 1500 € LA NUIT",
+        "title": "UNE FEMME ALCOOLIQUE FAIT PIPI DANS SON LIT, IL DEVIENT FOU",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Q4KqkR2uwS0",
-        "thumbnail": "https://i.ytimg.com/vi/Q4KqkR2uwS0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q4KqkR2uwS0",
-        "publishedAt": "2026-10-05T16:00:25+00:00"
+        "videoId": "e1POMrR5kZs",
+        "thumbnail": "https://i.ytimg.com/vi/e1POMrR5kZs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e1POMrR5kZs",
+        "publishedAt": "2026-10-06T14:00:10+00:00"
+      },
+      {
+        "title": "Même nos décisions, on va les donner à l’IA ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "GGyX5pTNJ6k",
+        "thumbnail": "https://i.ytimg.com/vi/GGyX5pTNJ6k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GGyX5pTNJ6k",
+        "publishedAt": "2026-10-06T10:01:24+00:00"
+      },
+      {
+        "title": "Combien de temps pour récupérer vos 10 000 € ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "w7PELdJbYt0",
+        "thumbnail": "https://i.ytimg.com/vi/w7PELdJbYt0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w7PELdJbYt0",
+        "publishedAt": "2026-10-06T10:00:16+00:00"
       },
       {
         "title": "SIUUUU",
@@ -112,15 +121,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
         "publishedAt": "2026-10-04T15:17:21+00:00"
-      },
-      {
-        "title": "Gagner 10 000 € par mois en dormant : une arnaque ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "muObWa4EUYc",
-        "thumbnail": "https://i.ytimg.com/vi/muObWa4EUYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=muObWa4EUYc",
-        "publishedAt": "2026-10-04T10:00:35+00:00"
       },
       {
         "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Poutre : modèle de poids ouvert 501B de Reflection",
-        "titleOriginal": "Beam: Reflection's 501B open-weight model",
-        "url": "https://reflection.ai/blog/introducing-beam",
-        "source": "reflection.ai",
-        "score": 407,
-        "comments": 125,
-        "hnUrl": "https://news.ycombinator.com/item?id=49969183",
-        "date": "il y a 11 h"
+        "title": "Mistral Large 4",
+        "titleOriginal": "Mistral Large 4",
+        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+        "source": "docs.mistral.ai",
+        "score": 389,
+        "comments": 184,
+        "hnUrl": "https://news.ycombinator.com/item?id=49977979",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Example.com vient de lancer la plus grande refonte depuis des décennies",
-        "titleOriginal": "Example.com just launched the biggest redesign in decades",
-        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-        "source": "debugbear.com",
-        "score": 185,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=49971921",
-        "date": "il y a 8 h"
+        "title": "Mistral Large 4 : \"Le Chonk\"",
+        "titleOriginal": "Mistral Large 4: \"Le Chonk\"",
+        "url": "https://mistral.ai/news/mistral-large-4/",
+        "source": "mistral.ai",
+        "score": 141,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=49978116",
+        "date": "il y a 53 min"
       },
       {
-        "title": "Ressusciter l'audioconférence et la vidéoconférence iChat",
-        "titleOriginal": "Resurrecting iChat Audio and Video Conferencing",
-        "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-        "source": "blog.pipetogrep.org",
-        "score": 34,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=49973878",
-        "date": "il y a 3 h"
+        "title": "Sortie de Polars 2.0",
+        "titleOriginal": "Release of Polars 2.0",
+        "url": "https://pola.rs/posts/release-polars-2/",
+        "source": "pola.rs",
+        "score": 127,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=49977177",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Trouvez l'itinéraire le plus plat entre deux points de SF",
-        "titleOriginal": "Find the flattest route between any two points in SF",
-        "url": "https://flattensf.com/",
-        "source": "flattensf.com",
-        "score": 169,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=49971230",
-        "date": "il y a 9 h"
+        "title": "Le prix Nobel de physique est attribué à Francis Halzen",
+        "titleOriginal": "Nobel Prize in Physics goes to Francis Halzen",
+        "url": "https://www.nobelprize.org/prizes/physics/2026/",
+        "source": "nobelprize.org",
+        "score": 257,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=49976265",
+        "date": "il y a 4 h"
       }
     ]
   },
