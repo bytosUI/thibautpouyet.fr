@@ -1,53 +1,45 @@
 {
-  "updatedAt": "2026-10-05T18:41:06.988Z",
+  "updatedAt": "2026-10-06T00:32:10.339Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 19,
-      "feelsLike": 18,
-      "code": 3,
-      "wind": 5,
-      "humidity": 50
+      "temp": 10,
+      "feelsLike": 9,
+      "code": 0,
+      "wind": 2,
+      "humidity": 84
     },
     "forecast": [
       {
-        "date": "2026-10-05",
-        "code": 45,
-        "tmax": 25,
-        "tmin": 10
-      },
-      {
         "date": "2026-10-06",
-        "code": 2,
-        "tmax": 25,
+        "code": 3,
+        "tmax": 24,
         "tmin": 7
       },
       {
         "date": "2026-10-07",
-        "code": 95,
-        "tmax": 23,
-        "tmin": 10
+        "code": 80,
+        "tmax": 24,
+        "tmin": 11
       },
       {
         "date": "2026-10-08",
         "code": 95,
         "tmax": 17,
-        "tmin": 8
+        "tmin": 9
+      },
+      {
+        "date": "2026-10-09",
+        "code": 61,
+        "tmax": 13,
+        "tmin": 7
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 11076,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'avenir de l'indépendance est l'interdépendance",
-        "titleOriginal": "The future of independence is interdependence",
-        "url": "https://onlys.ky/independence-is-interdependence/",
-        "source": "onlys.ky",
-        "score": 73,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=49966163",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Recherche sur Internet",
-        "titleOriginal": "Web Search API",
-        "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-        "source": "developers.cloudflare.com",
-        "score": 349,
-        "comments": 175,
-        "hnUrl": "https://news.ycombinator.com/item?id=49963171",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Les États-Unis surveillent de près le cas d'un travailleur de laboratoire qui est peut-être mort de la peste en Sibérie",
-        "titleOriginal": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
-        "url": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
-        "source": "theguardian.com",
-        "score": 115,
-        "comments": 82,
-        "hnUrl": "https://news.ycombinator.com/item?id=49967444",
+        "title": "ChatGPT ajoute de véritables signatures de dessinateurs à de faux dessins animés du New Yorker",
+        "titleOriginal": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+        "source": "niemanlab.org",
+        "score": 136,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49971846",
         "date": "il y a 1 h"
       },
       {
-        "title": "Faire une demande GTK à Haskell, partie 1",
-        "titleOriginal": "Making a GTK application in Haskell, part 1",
-        "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-        "source": "floreal.tech",
-        "score": 89,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=49965308",
-        "date": "il y a 4 h"
+        "title": "Poutre : modèle de poids ouvert 501B de Reflection",
+        "titleOriginal": "Beam: Reflection's 501B open-weight model",
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "reflection.ai",
+        "score": 289,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=49969183",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Example.com vient de lancer la plus grande refonte depuis des décennies",
+        "titleOriginal": "Example.com Just Launched the Biggest Redesign in Decades",
+        "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+        "source": "debugbear.com",
+        "score": 50,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49971921",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Trouvez l'itinéraire le plus plat entre deux points de SF",
+        "titleOriginal": "Find the flattest route between any two points in SF",
+        "url": "https://flattensf.com/",
+        "source": "flattensf.com",
+        "score": 91,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=49971230",
+        "date": "il y a 2 h"
       }
     ]
   },
