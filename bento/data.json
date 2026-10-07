@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-06T23:30:21.049Z",
+  "updatedAt": "2026-10-07T03:51:24.468Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
+      "temp": 9,
+      "feelsLike": 9,
       "code": 2,
-      "wind": 4,
-      "humidity": 74
+      "wind": 2,
+      "humidity": 89
     },
     "forecast": [
       {
         "date": "2026-10-07",
-        "code": 80,
-        "tmax": 22,
-        "tmin": 10
+        "code": 61,
+        "tmax": 23,
+        "tmin": 8
       },
       {
         "date": "2026-10-08",
-        "code": 80,
-        "tmax": 16,
-        "tmin": 9
+        "code": 95,
+        "tmax": 17,
+        "tmin": 8
       },
       {
         "date": "2026-10-09",
         "code": 61,
-        "tmax": 13,
+        "tmax": 12,
         "tmin": 5
       },
       {
         "date": "2026-10-10",
-        "code": 61,
-        "tmax": 18,
-        "tmin": 12
+        "code": 80,
+        "tmax": 17,
+        "tmin": 11
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Est-ce que les biceps de Carlito vous font un petit effet ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "P7VQMCZzDXY",
-        "thumbnail": "https://i.ytimg.com/vi/P7VQMCZzDXY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P7VQMCZzDXY",
-        "publishedAt": "2026-10-06T16:40:50+00:00"
-      },
-      {
-        "title": "Réinventer l'école : le plan secret de la Silicon Valley !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "tfQUJL988t0",
-        "thumbnail": "https://i.ytimg.com/vi/tfQUJL988t0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tfQUJL988t0",
-        "publishedAt": "2026-10-06T16:00:22+00:00"
-      },
-      {
-        "title": "TOXICOMANE : “J’AI RATÉ MON RÔLE DE PAPA”",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "L9O7eZxKQaw",
-        "thumbnail": "https://i.ytimg.com/vi/L9O7eZxKQaw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=L9O7eZxKQaw",
-        "publishedAt": "2026-10-06T16:00:03+00:00"
-      },
-      {
-        "title": "Combien de temps pour récupérer vos 10 000 € ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "w7PELdJbYt0",
-        "thumbnail": "https://i.ytimg.com/vi/w7PELdJbYt0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w7PELdJbYt0",
-        "publishedAt": "2026-10-06T10:00:16+00:00"
-      },
-      {
-        "title": "18-MONTH RENOVATION TIMELAPSE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "FR-W_GyvkFQ",
-        "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
-        "publishedAt": "2026-10-04T20:17:55+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -175,43 +93,43 @@
     "items": [
       {
         "title": "Partager les progrès de l'IA en mathématiques",
-        "titleOriginal": "Sharing AI Progress in Mathematics",
+        "titleOriginal": "Sharing AI progress in mathematics",
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "source": "openai.com",
-        "score": 179,
-        "comments": 123,
+        "score": 557,
+        "comments": 490,
         "hnUrl": "https://news.ycombinator.com/item?id=49984923",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
         "title": "Mistral Large 4",
         "titleOriginal": "Mistral Large 4",
         "url": "https://mistral.ai/news/mistral-large-4/\\",
         "source": "mistral.ai",
-        "score": 1531,
-        "comments": 942,
+        "score": 1629,
+        "comments": 978,
         "hnUrl": "https://news.ycombinator.com/item?id=49977979",
-        "date": "il y a 10 h"
+        "date": "il y a 14 h"
+      },
+      {
+        "title": "Strands Decider 2B : un petit modèle de décision open source",
+        "titleOriginal": "Strands Decider 2B: a small, open-source, decision model",
+        "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+        "source": "strandsagents.com",
+        "score": 54,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=49987076",
+        "date": "il y a 1 h"
       },
       {
         "title": "L'API Decisions est en version bêta publique",
         "titleOriginal": "Decisions API is in public beta",
         "url": "https://developers.openai.com/api/docs/guides/decisions",
         "source": "developers.openai.com",
-        "score": 78,
-        "comments": 31,
+        "score": 185,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=49984025",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "EmbeddingGemma 2 : un modèle d'intégration multimodal ouvert et léger",
-        "titleOriginal": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-        "source": "blog.google",
-        "score": 184,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=49980487",
-        "date": "il y a 7 h"
+        "date": "il y a 6 h"
       }
     ]
   },
