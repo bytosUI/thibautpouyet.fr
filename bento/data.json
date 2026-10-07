@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-07T10:47:14.152Z",
+  "updatedAt": "2026-10-07T17:38:04.127Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 21,
-      "feelsLike": 20,
+      "temp": 18,
+      "feelsLike": 19,
       "code": 3,
-      "wind": 11,
-      "humidity": 59
+      "wind": 5,
+      "humidity": 86
     },
     "forecast": [
       {
@@ -18,15 +18,15 @@
       },
       {
         "date": "2026-10-08",
-        "code": 95,
+        "code": 80,
         "tmax": 16,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-10-09",
-        "code": 61,
-        "tmax": 13,
-        "tmin": 4
+        "code": 80,
+        "tmax": 12,
+        "tmin": 5
       },
       {
         "date": "2026-10-10",
@@ -52,22 +52,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "LEGEND TOUR BY TRADE REPUBLIC DÉBUTE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "lGatlwWqzeU",
-        "thumbnail": "https://i.ytimg.com/vi/lGatlwWqzeU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lGatlwWqzeU",
-        "publishedAt": "2026-10-07T10:30:13+00:00"
+        "title": "Ma vie d’étudiant en Corée 🇰🇷 : mon premier test",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
       },
       {
-        "title": "Ils entraînent des lycéens à résister au stress",
+        "title": "On a lu les comptes secrets d'Anthropic !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "ClJAv6U3wNI",
-        "thumbnail": "https://i.ytimg.com/vi/ClJAv6U3wNI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ClJAv6U3wNI",
-        "publishedAt": "2026-10-07T10:01:17+00:00"
+        "videoId": "wZ4Fq6lrnbE",
+        "thumbnail": "https://i.ytimg.com/vi/wZ4Fq6lrnbE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wZ4Fq6lrnbE",
+        "publishedAt": "2026-10-07T16:00:07+00:00"
+      },
+      {
+        "title": "ASSASSINÉE PAR DES SNIPERS PUIS RESSUSCITÉE...PSYCHIATRE, SON CAS LE PLUS ÉTRANGE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Tboem6IQgJY",
+        "thumbnail": "https://i.ytimg.com/vi/Tboem6IQgJY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Tboem6IQgJY",
+        "publishedAt": "2026-10-07T14:00:06+00:00"
+      },
+      {
+        "title": "Tout le monde ne peut pas faire comme nous",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "81royubmzGA",
+        "thumbnail": "https://i.ytimg.com/vi/81royubmzGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=81royubmzGA",
+        "publishedAt": "2026-10-07T13:53:36+00:00"
       },
       {
         "title": "Est-ce que les biceps de Carlito vous font un petit effet ?",
@@ -77,15 +95,6 @@
         "thumbnail": "https://i.ytimg.com/vi/P7VQMCZzDXY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=P7VQMCZzDXY",
         "publishedAt": "2026-10-06T16:40:50+00:00"
-      },
-      {
-        "title": "Combien de temps pour récupérer vos 10 000 € ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "w7PELdJbYt0",
-        "thumbnail": "https://i.ytimg.com/vi/w7PELdJbYt0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w7PELdJbYt0",
-        "publishedAt": "2026-10-06T10:00:16+00:00"
       },
       {
         "title": "18-MONTH RENOVATION TIMELAPSE",
@@ -113,15 +122,6 @@
         "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
         "publishedAt": "2026-10-04T15:17:21+00:00"
-      },
-      {
-        "title": "À 29 ans, je retourne à l’université pour apprendre le coréen 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "XdDdz0vZY8M",
-        "thumbnail": "https://i.ytimg.com/vi/XdDdz0vZY8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdDdz0vZY8M",
-        "publishedAt": "2026-09-20T16:00:33+00:00"
       },
       {
         "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Prix Nobel de chimie 2026 à Henri B. Kagan et Kenso Soai",
-        "titleOriginal": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-        "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-        "source": "nobelprize.org",
-        "score": 26,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=49990470",
-        "date": "il y a 55 min"
+        "title": "Visa, Mastercard, les grandes banques confrontées à un nouveau litige sur les frais « anticoncurrentiels »",
+        "titleOriginal": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+        "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+        "source": "classaction.org",
+        "score": 163,
+        "comments": 65,
+        "hnUrl": "https://news.ycombinator.com/item?id=49993914",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Une police recréée à partir de photographies de touches classiques du Commodore 64",
-        "titleOriginal": "A font recreated from photographs of classic Commodore 64 keycaps",
-        "url": "https://github.com/szabadkai/c64-keyboard-font/",
-        "source": "github.com",
-        "score": 48,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=49990224",
+        "title": "Art ASCII animé pour les pages Web",
+        "titleOriginal": "Animated ASCII Art for Web Pages",
+        "url": "https://ascii.rest/",
+        "source": "ascii.rest",
+        "score": 105,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=49993857",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Expédition JPEG XL en chrome",
+        "titleOriginal": "Shipping JPEG XL in Chrome",
+        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+        "source": "developer.chrome.com",
+        "score": 361,
+        "comments": 218,
+        "hnUrl": "https://news.ycombinator.com/item?id=49991227",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Show HN : Bigwords.page – Transforme n'importe quel écran en panneau. L'URL est l'application",
+        "titleOriginal": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+        "url": "https://bigwords.page/",
+        "source": "bigwords.page",
+        "score": 47,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=49994443",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "Partager les progrès de l'IA en mathématiques",
-        "titleOriginal": "Sharing AI progress in mathematics",
-        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-        "source": "openai.com",
-        "score": 946,
-        "comments": 884,
-        "hnUrl": "https://news.ycombinator.com/item?id=49984923",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Strands Decider 2B : un petit modèle de décision open source",
-        "titleOriginal": "Strands Decider 2B: a small, open-source, decision model",
-        "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-        "source": "strandsagents.com",
-        "score": 183,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=49987076",
-        "date": "il y a 8 h"
       }
     ]
   },
