@@ -1,24 +1,18 @@
 {
-  "updatedAt": "2026-10-07T17:38:04.127Z",
+  "updatedAt": "2026-10-07T22:32:41.987Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 19,
-      "code": 3,
-      "wind": 5,
-      "humidity": 86
+      "temp": 16,
+      "feelsLike": 16,
+      "code": 61,
+      "wind": 13,
+      "humidity": 94
     },
     "forecast": [
       {
-        "date": "2026-10-07",
-        "code": 80,
-        "tmax": 21,
-        "tmin": 9
-      },
-      {
         "date": "2026-10-08",
-        "code": 80,
+        "code": 63,
         "tmax": 16,
         "tmin": 9
       },
@@ -26,13 +20,19 @@
         "date": "2026-10-09",
         "code": 80,
         "tmax": 12,
-        "tmin": 5
+        "tmin": 6
       },
       {
         "date": "2026-10-10",
-        "code": 61,
+        "code": 80,
         "tmax": 17,
-        "tmin": 11
+        "tmin": 10
+      },
+      {
+        "date": "2026-10-11",
+        "code": 3,
+        "tmax": 16,
+        "tmin": 8
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Visa, Mastercard, les grandes banques confrontées à un nouveau litige sur les frais « anticoncurrentiels »",
-        "titleOriginal": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-        "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-        "source": "classaction.org",
-        "score": 163,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=49993914",
-        "date": "il y a 2 h"
+        "title": "Claude Haiku 5.5",
+        "titleOriginal": "Claude Haiku 5.5",
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "source": "anthropic.com",
+        "score": 557,
+        "comments": 263,
+        "hnUrl": "https://news.ycombinator.com/item?id=49996437",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Art ASCII animé pour les pages Web",
-        "titleOriginal": "Animated ASCII Art for Web Pages",
-        "url": "https://ascii.rest/",
-        "source": "ascii.rest",
-        "score": 105,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=49993857",
-        "date": "il y a 2 h"
+        "title": "GPT‑6 et interface utilisateur intelligente pour tous",
+        "titleOriginal": "GPT‑6 and Intelligent UI for everyone",
+        "url": "https://openai.com/index/gpt-6-for-everyone/",
+        "source": "openai.com",
+        "score": 400,
+        "comments": 203,
+        "hnUrl": "https://news.ycombinator.com/item?id=49996425",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Expédition JPEG XL en chrome",
-        "titleOriginal": "Shipping JPEG XL in Chrome",
-        "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-        "source": "developer.chrome.com",
-        "score": 361,
-        "comments": 218,
-        "hnUrl": "https://news.ycombinator.com/item?id=49991227",
-        "date": "il y a 6 h"
+        "title": "Agent Docker",
+        "titleOriginal": "Docker Agent",
+        "url": "https://github.com/docker/docker-agent",
+        "source": "github.com",
+        "score": 140,
+        "comments": 57,
+        "hnUrl": "https://news.ycombinator.com/item?id=49996259",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Show HN : Bigwords.page – Transforme n'importe quel écran en panneau. L'URL est l'application",
-        "titleOriginal": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
-        "url": "https://bigwords.page/",
-        "source": "bigwords.page",
-        "score": 47,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=49994443",
-        "date": "il y a 1 h"
+        "title": "Pousser les ifs vers le haut et les fors vers le bas : L'idiome, son algèbre et ses limites",
+        "titleOriginal": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+        "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+        "source": "debasishg.github.io",
+        "score": 65,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=49997073",
+        "date": "il y a 3 h"
       }
     ]
   },
