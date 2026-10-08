@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-08T09:16:35.461Z",
+  "updatedAt": "2026-10-08T16:43:18.833Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 13,
-      "feelsLike": 9,
-      "code": 2,
-      "wind": 22,
-      "humidity": 70
+      "feelsLike": 10,
+      "code": 3,
+      "wind": 14,
+      "humidity": 64
     },
     "forecast": [
       {
         "date": "2026-10-08",
-        "code": 63,
+        "code": 80,
         "tmax": 16,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-10-09",
@@ -26,20 +26,28 @@
         "date": "2026-10-10",
         "code": 80,
         "tmax": 17,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-10-11",
-        "code": 61,
-        "tmax": 15,
-        "tmin": 9
+        "code": 3,
+        "tmax": 14,
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Brawl Stars",
+        "viewers": 5204,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,49 +60,49 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI CERTAINS CRIMINELS SONT INTERNÉS EN CENTRES PSYCHIATRIQUES ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "-eGk4oREIco",
-        "thumbnail": "https://i.ytimg.com/vi/-eGk4oREIco/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-eGk4oREIco",
-        "publishedAt": "2026-10-08T09:00:00+00:00"
-      },
-      {
-        "title": "600 milliards d’engagements… 20 milliards en banque",
+        "title": "Claude a-t-il une âme ? Même le pape s'en mêle !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "EcU_hKa1qgI",
-        "thumbnail": "https://i.ytimg.com/vi/EcU_hKa1qgI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EcU_hKa1qgI",
-        "publishedAt": "2026-10-08T08:00:35+00:00"
+        "videoId": "FQ09ZouTzbY",
+        "thumbnail": "https://i.ytimg.com/vi/FQ09ZouTzbY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FQ09ZouTzbY",
+        "publishedAt": "2026-10-08T16:00:10+00:00"
       },
       {
-        "title": "Ma vie d’étudiant en Corée 🇰🇷 : mon premier test",
+        "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ndo5rHMsBNk",
+        "thumbnail": "https://i.ytimg.com/vi/ndo5rHMsBNk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ndo5rHMsBNk",
+        "publishedAt": "2026-10-08T15:24:23+00:00"
+      },
+      {
+        "title": "POURQUOI SES PATIENTS REFUSENT LEURS MÉDICAMENTS ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "rZfQ_9u6H78",
+        "thumbnail": "https://i.ytimg.com/vi/rZfQ_9u6H78/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rZfQ_9u6H78",
+        "publishedAt": "2026-10-08T15:00:11+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
         "videoId": "2vJ0CjJqPjA",
         "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
         "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "Tout le monde ne peut pas faire comme nous",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "81royubmzGA",
-        "thumbnail": "https://i.ytimg.com/vi/81royubmzGA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=81royubmzGA",
-        "publishedAt": "2026-10-07T13:53:36+00:00"
-      },
-      {
-        "title": "Est-ce que les biceps de Carlito vous font un petit effet ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "P7VQMCZzDXY",
-        "thumbnail": "https://i.ytimg.com/vi/P7VQMCZzDXY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P7VQMCZzDXY",
-        "publishedAt": "2026-10-06T16:40:50+00:00"
       },
       {
         "title": "18-MONTH RENOVATION TIMELAPSE",
@@ -154,13 +162,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 20 sem",
+        "time": "il y a 21 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 20 sem",
+        "time": "il y a 21 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Dites à HN : Je paie pour l'éducation d'un Tanzanien rural depuis 10 ans",
+        "titleOriginal": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+        "url": "https://news.ycombinator.com/item?id=50006366",
+        "source": "news.ycombinator.com",
+        "score": 287,
+        "comments": 62,
+        "hnUrl": "https://news.ycombinator.com/item?id=50006366",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les États-Unis suspendent le programme de visa pour les entreprises technologiques, y compris Microsoft",
+        "titleOriginal": "US Suspends Visa Program for Tech Firms Including Microsoft",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-08/us-suspends-visa-program-for-tech-firms-including-microsoft",
+        "source": "bloomberg.com",
+        "score": 222,
+        "comments": 228,
+        "hnUrl": "https://news.ycombinator.com/item?id=50006832",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Beauté dans les menus DVD",
+        "titleOriginal": "Beauty in DVD Menus",
+        "url": "https://vale.rocks/posts/dvd-menus",
+        "source": "vale.rocks",
+        "score": 136,
+        "comments": 87,
+        "hnUrl": "https://news.ycombinator.com/item?id=50005527",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "« Math 2.0 » devra valoriser le progrès mathématique de manière plus holistique",
         "titleOriginal": "“Math 2.0” will need to value mathematical progress more holistically",
         "url": "https://mathstodon.xyz/@tao/117395269325940185",
         "source": "mathstodon.xyz",
-        "score": 265,
-        "comments": 227,
+        "score": 520,
+        "comments": 525,
         "hnUrl": "https://news.ycombinator.com/item?id=50002008",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Claude Haiku 5.5",
-        "titleOriginal": "Claude Haiku 5.5",
-        "url": "https://www.anthropic.com/claude-haiku-5-5",
-        "source": "anthropic.com",
-        "score": 869,
-        "comments": 417,
-        "hnUrl": "https://news.ycombinator.com/item?id=49996437",
-        "date": "il y a 15 h"
-      },
-      {
-        "title": "Productions classiques de démoscène PC fonctionnant nativement dans le navigateur",
-        "titleOriginal": "Classic PC demoscene productions running natively in the browser",
-        "url": "https://treylorswift.github.io/demoscene-recomp/web/",
-        "source": "treylorswift.github.io",
-        "score": 44,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=50002426",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Vivre hors réseau : Hundred Rabbits",
-        "titleOriginal": "Living off-grid: Hundred Rabbits",
-        "url": "https://100r.ca/site/home.html",
-        "source": "100r.ca",
-        "score": 197,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=49970767",
-        "date": "il y a 2 j"
+        "date": "il y a 11 h"
       }
     ]
   },
