@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-08T02:24:07.260Z",
+  "updatedAt": "2026-10-08T09:16:35.461Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
-      "code": 3,
-      "wind": 24,
-      "humidity": 85
+      "temp": 13,
+      "feelsLike": 9,
+      "code": 2,
+      "wind": 22,
+      "humidity": 70
     },
     "forecast": [
       {
@@ -26,13 +26,13 @@
         "date": "2026-10-10",
         "code": 80,
         "tmax": 17,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-10-11",
-        "code": 3,
-        "tmax": 16,
-        "tmin": 8
+        "code": 61,
+        "tmax": 15,
+        "tmin": 9
       }
     ]
   },
@@ -52,22 +52,58 @@
   "youtube": {
     "videos": [
       {
-        "title": "On a lu les comptes secrets d'Anthropic !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "wZ4Fq6lrnbE",
-        "thumbnail": "https://i.ytimg.com/vi/wZ4Fq6lrnbE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wZ4Fq6lrnbE",
-        "publishedAt": "2026-10-07T16:00:07+00:00"
-      },
-      {
-        "title": "ASSASSINÉE PAR DES SNIPERS PUIS RESSUSCITÉE...PSYCHIATRE, SON CAS LE PLUS ÉTRANGE",
+        "title": "POURQUOI CERTAINS CRIMINELS SONT INTERNÉS EN CENTRES PSYCHIATRIQUES ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Tboem6IQgJY",
-        "thumbnail": "https://i.ytimg.com/vi/Tboem6IQgJY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Tboem6IQgJY",
-        "publishedAt": "2026-10-07T14:00:06+00:00"
+        "videoId": "-eGk4oREIco",
+        "thumbnail": "https://i.ytimg.com/vi/-eGk4oREIco/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-eGk4oREIco",
+        "publishedAt": "2026-10-08T09:00:00+00:00"
+      },
+      {
+        "title": "600 milliards d’engagements… 20 milliards en banque",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "EcU_hKa1qgI",
+        "thumbnail": "https://i.ytimg.com/vi/EcU_hKa1qgI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EcU_hKa1qgI",
+        "publishedAt": "2026-10-08T08:00:35+00:00"
+      },
+      {
+        "title": "Ma vie d’étudiant en Corée 🇰🇷 : mon premier test",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
+        "title": "Tout le monde ne peut pas faire comme nous",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "81royubmzGA",
+        "thumbnail": "https://i.ytimg.com/vi/81royubmzGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=81royubmzGA",
+        "publishedAt": "2026-10-07T13:53:36+00:00"
+      },
+      {
+        "title": "Est-ce que les biceps de Carlito vous font un petit effet ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "P7VQMCZzDXY",
+        "thumbnail": "https://i.ytimg.com/vi/P7VQMCZzDXY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P7VQMCZzDXY",
+        "publishedAt": "2026-10-06T16:40:50+00:00"
+      },
+      {
+        "title": "18-MONTH RENOVATION TIMELAPSE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "FR-W_GyvkFQ",
+        "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
+        "publishedAt": "2026-10-04T20:17:55+00:00"
       },
       {
         "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
@@ -138,81 +174,108 @@
   "hackernews": {
     "items": [
       {
+        "title": "« Math 2.0 » devra valoriser le progrès mathématique de manière plus holistique",
+        "titleOriginal": "“Math 2.0” will need to value mathematical progress more holistically",
+        "url": "https://mathstodon.xyz/@tao/117395269325940185",
+        "source": "mathstodon.xyz",
+        "score": 265,
+        "comments": 227,
+        "hnUrl": "https://news.ycombinator.com/item?id=50002008",
+        "date": "il y a 4 h"
+      },
+      {
         "title": "Claude Haiku 5.5",
         "titleOriginal": "Claude Haiku 5.5",
         "url": "https://www.anthropic.com/claude-haiku-5-5",
         "source": "anthropic.com",
-        "score": 697,
-        "comments": 347,
+        "score": 869,
+        "comments": 417,
         "hnUrl": "https://news.ycombinator.com/item?id=49996437",
-        "date": "il y a 8 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "Margaret Hamilton est décédée",
-        "titleOriginal": "Margaret Hamilton has died",
-        "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-        "source": "news.mit.edu",
-        "score": 791,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=49998895",
-        "date": "il y a 5 h"
+        "title": "Productions classiques de démoscène PC fonctionnant nativement dans le navigateur",
+        "titleOriginal": "Classic PC demoscene productions running natively in the browser",
+        "url": "https://treylorswift.github.io/demoscene-recomp/web/",
+        "source": "treylorswift.github.io",
+        "score": 44,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=50002426",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Comment Rosalind Franklin a-t-elle manqué l'hélice dans son image emblématique de l'ADN ? Elle n'a pas",
-        "titleOriginal": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-        "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
-        "source": "science.org",
-        "score": 72,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=49969073",
+        "title": "Vivre hors réseau : Hundred Rabbits",
+        "titleOriginal": "Living off-grid: Hundred Rabbits",
+        "url": "https://100r.ca/site/home.html",
+        "source": "100r.ca",
+        "score": 197,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=49970767",
         "date": "il y a 2 j"
-      },
-      {
-        "title": "GPT‑6 et interface utilisateur intelligente pour tous",
-        "titleOriginal": "GPT‑6 and Intelligent UI for everyone",
-        "url": "https://openai.com/index/gpt-6-for-everyone/",
-        "source": "openai.com",
-        "score": 512,
-        "comments": 268,
-        "hnUrl": "https://news.ycombinator.com/item?id=49996425",
-        "date": "il y a 8 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": false,
-    "resultsDate": "20261006",
+    "resultsDate": "20261007",
     "results": [
       {
-        "id": "401901820",
-        "date": "2026-10-06T23:00Z",
+        "id": "401914123",
+        "date": "2026-10-07T23:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "30",
-          "abbr": "CHA",
-          "name": "Hornets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-          "score": 90,
-          "record": "0-1",
+          "id": "11",
+          "abbr": "IND",
+          "name": "Pacers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
+          "score": 123,
+          "record": "1-0",
+          "winner": true
+        },
+        "away": {
+          "id": "16",
+          "abbr": "MIN",
+          "name": "Timberwolves",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+          "score": 112,
+          "record": "1-1",
+          "winner": false
+        },
+        "series": null
+      },
+      {
+        "id": "401898391",
+        "date": "2026-10-08T00:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "29",
+          "abbr": "MEM",
+          "name": "Grizzlies",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+          "score": 118,
+          "record": "1-1",
           "winner": false
         },
         "away": {
-          "id": "17",
-          "abbr": "BKN",
-          "name": "Nets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-          "score": 124,
+          "id": "19",
+          "abbr": "ORL",
+          "name": "Magic",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+          "score": 122,
           "record": "1-0",
           "winner": true
         },
         "series": null
       },
       {
-        "id": "401898389",
-        "date": "2026-10-07T00:00Z",
+        "id": "401908620",
+        "date": "2026-10-08T00:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
@@ -222,71 +285,71 @@
           "abbr": "OKC",
           "name": "Thunder",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 110,
-          "record": "0-1",
+          "score": 126,
+          "record": "0-2",
           "winner": false
         },
         "away": {
-          "id": "3",
-          "abbr": "NO",
-          "name": "Pelicans",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-          "score": 116,
+          "id": "15",
+          "abbr": "MIL",
+          "name": "Bucks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+          "score": 128,
+          "record": "1-1",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401908939",
+        "date": "2026-10-08T00:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "4",
+          "abbr": "CHI",
+          "name": "Bulls",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+          "score": 124,
           "record": "1-0",
           "winner": true
         },
-        "series": null
-      },
-      {
-        "id": "401914128",
-        "date": "2026-10-07T01:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "26",
-          "abbr": "UTAH",
-          "name": "Jazz",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-          "score": 106,
-          "record": "1-1",
+        "away": {
+          "id": "21",
+          "abbr": "PHX",
+          "name": "Suns",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
+          "score": 117,
+          "record": "0-2",
           "winner": false
         },
-        "away": {
-          "id": "7",
-          "abbr": "DEN",
-          "name": "Nuggets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-          "score": 117,
-          "record": "1-1",
-          "winner": true
-        },
         "series": null
       },
       {
-        "id": "401898390",
-        "date": "2026-10-07T02:00Z",
+        "id": "401914129",
+        "date": "2026-10-08T02:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
+          "id": "22",
+          "abbr": "POR",
+          "name": "Trail Blazers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+          "score": 123,
+          "record": "1-0",
+          "winner": true
+        },
+        "away": {
           "id": "9",
           "abbr": "GS",
           "name": "Warriors",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-          "score": 124,
-          "record": "1-1",
-          "winner": true
-        },
-        "away": {
-          "id": "13",
-          "abbr": "LAL",
-          "name": "Lakers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-          "score": 98,
-          "record": "1-1",
+          "score": 118,
+          "record": "1-2",
           "winner": false
         },
         "series": null
