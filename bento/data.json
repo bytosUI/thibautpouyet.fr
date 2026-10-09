@@ -1,57 +1,64 @@
 {
-  "updatedAt": "2026-10-09T01:39:37.187Z",
+  "updatedAt": "2026-10-09T08:20:39.082Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 6,
-      "feelsLike": 4,
-      "code": 2,
-      "wind": 4,
-      "humidity": 93
+      "temp": 8,
+      "feelsLike": 5,
+      "code": 61,
+      "wind": 17,
+      "humidity": 79
     },
     "forecast": [
       {
         "date": "2026-10-09",
         "code": 61,
         "tmax": 13,
-        "tmin": 6
+        "tmin": 5
       },
       {
         "date": "2026-10-10",
-        "code": 80,
+        "code": 61,
         "tmax": 17,
-        "tmin": 12
+        "tmin": 11
       },
       {
         "date": "2026-10-11",
-        "code": 61,
-        "tmax": 15,
+        "code": 3,
+        "tmax": 16,
         "tmin": 9
       },
       {
         "date": "2026-10-12",
         "code": 45,
         "tmax": 18,
-        "tmin": 4
+        "tmin": 5
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
         "game": "Just Chatting",
-        "viewers": 195,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 489,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 410,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
+      "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,6 +67,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Anthropic a essayé de convaincre le Vatican",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "Rn5zmYm5BmE",
+        "thumbnail": "https://i.ytimg.com/vi/Rn5zmYm5BmE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rn5zmYm5BmE",
+        "publishedAt": "2026-10-09T08:00:46+00:00"
+      },
+      {
         "title": "L’ENTRÉE DE GUILLAUME À BORDEAUX",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
@@ -67,15 +83,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2eKhwxv6HJI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2eKhwxv6HJI",
         "publishedAt": "2026-10-08T17:18:29+00:00"
-      },
-      {
-        "title": "Claude a-t-il une âme ? Même le pape s'en mêle !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "FQ09ZouTzbY",
-        "thumbnail": "https://i.ytimg.com/vi/FQ09ZouTzbY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FQ09ZouTzbY",
-        "publishedAt": "2026-10-08T16:00:10+00:00"
       },
       {
         "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
@@ -182,182 +189,209 @@
   "hackernews": {
     "items": [
       {
-        "title": "Sifflet : Speech to Text en 16,9 Mo",
-        "titleOriginal": "Whistle: Speech to Text in 16.9 MB",
-        "url": "https://cactuscompute.com/blog/whistle",
-        "source": "cactuscompute.com",
-        "score": 530,
-        "comments": 120,
-        "hnUrl": "https://news.ycombinator.com/item?id=50008427",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Theranos.world",
-        "titleOriginal": "Theranos.world",
-        "url": "https://www.theranos.world/",
-        "source": "theranos.world",
-        "score": 273,
-        "comments": 114,
-        "hnUrl": "https://news.ycombinator.com/item?id=50009295",
-        "date": "il y a 7 h"
+        "title": "OTel-Native by Design – Construire des produits qui s'exportent vers n'importe quelle pile d'observabilité",
+        "titleOriginal": "OTel-Native by Design – Building Products That Export to Any Observability Stack",
+        "url": "https://opentelemetry.io/blog/2026/otel-native-by-design/",
+        "source": "opentelemetry.io",
+        "score": 28,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50016974",
+        "date": "il y a 1 h"
       },
       {
         "title": "Pourquoi l'industrie ne panique-t-elle pas à propos de DeepSeek 4.1 Flash ?",
         "titleOriginal": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
         "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
         "source": "dgt.is",
-        "score": 415,
-        "comments": 350,
+        "score": 690,
+        "comments": 561,
         "hnUrl": "https://news.ycombinator.com/item?id=50000488",
         "date": "hier"
       },
       {
-        "title": "L'homme découvre que la machine à café de ses parents a utilisé 1 To de données en 10 jours",
-        "titleOriginal": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-        "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
-        "source": "dexerto.com",
-        "score": 395,
-        "comments": 248,
-        "hnUrl": "https://news.ycombinator.com/item?id=49995495",
-        "date": "hier"
+        "title": "Sifflet : Speech to Text en 16,9 Mo",
+        "titleOriginal": "Whistle: Speech to Text in 16.9 MB",
+        "url": "https://cactuscompute.com/blog/whistle",
+        "source": "cactuscompute.com",
+        "score": 735,
+        "comments": 146,
+        "hnUrl": "https://news.ycombinator.com/item?id=50008427",
+        "date": "il y a 15 h"
+      },
+      {
+        "title": "Différences de clavier entre Windows et Mac",
+        "titleOriginal": "Keyboard differences between Windows and Macs",
+        "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+        "source": "unsung.aresluna.org",
+        "score": 111,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=50015515",
+        "date": "il y a 5 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": false,
-    "resultsDate": "20261007",
+    "resultsDate": "20261008",
     "results": [
       {
-        "id": "401914123",
-        "date": "2026-10-07T23:00Z",
+        "id": "401898392",
+        "date": "2026-10-08T23:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "11",
-          "abbr": "IND",
-          "name": "Pacers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-          "score": 123,
-          "record": "1-0",
-          "winner": true
-        },
-        "away": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 112,
-          "record": "1-1",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401898391",
-        "date": "2026-10-08T00:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "29",
-          "abbr": "MEM",
-          "name": "Grizzlies",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-          "score": 118,
-          "record": "1-1",
+          "id": "5",
+          "abbr": "CLE",
+          "name": "Cavaliers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
+          "score": 113,
+          "record": "0-1",
           "winner": false
         },
         "away": {
-          "id": "19",
-          "abbr": "ORL",
-          "name": "Magic",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
-          "score": 122,
-          "record": "1-0",
-          "winner": true
-        },
-        "series": null
-      },
-      {
-        "id": "401908620",
-        "date": "2026-10-08T00:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 126,
-          "record": "0-2",
-          "winner": false
-        },
-        "away": {
-          "id": "15",
-          "abbr": "MIL",
-          "name": "Bucks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-          "score": 128,
-          "record": "1-1",
-          "winner": true
-        },
-        "series": null
-      },
-      {
-        "id": "401908939",
-        "date": "2026-10-08T00:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "4",
-          "abbr": "CHI",
-          "name": "Bulls",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+          "id": "2",
+          "abbr": "BOS",
+          "name": "Celtics",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
           "score": 124,
           "record": "1-0",
           "winner": true
         },
-        "away": {
-          "id": "21",
-          "abbr": "PHX",
-          "name": "Suns",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-          "score": 117,
-          "record": "0-2",
-          "winner": false
-        },
         "series": null
       },
       {
-        "id": "401914129",
-        "date": "2026-10-08T02:00Z",
+        "id": "401898393",
+        "date": "2026-10-08T23:30Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "22",
-          "abbr": "POR",
-          "name": "Trail Blazers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
-          "score": 123,
-          "record": "1-0",
+          "id": "14",
+          "abbr": "MIA",
+          "name": "Heat",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+          "score": 128,
+          "record": "2-0",
           "winner": true
         },
         "away": {
-          "id": "9",
-          "abbr": "GS",
-          "name": "Warriors",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+          "id": "3",
+          "abbr": "NO",
+          "name": "Pelicans",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
           "score": 118,
-          "record": "1-2",
+          "record": "1-1",
+          "winner": false
+        },
+        "series": null
+      },
+      {
+        "id": "401901823",
+        "date": "2026-10-08T23:30Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "17",
+          "abbr": "BKN",
+          "name": "Nets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
+          "score": 114,
+          "record": "2-0",
+          "winner": true
+        },
+        "away": {
+          "id": "20",
+          "abbr": "PHI",
+          "name": "76ers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
+          "score": 108,
+          "record": "1-1",
+          "winner": false
+        },
+        "series": null
+      },
+      {
+        "id": "401906508",
+        "date": "2026-10-08T23:30Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 109,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "27",
+          "abbr": "WSH",
+          "name": "Wizards",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+          "score": 111,
+          "record": "1-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401898394",
+        "date": "2026-10-09T00:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 116,
+          "record": "0-1",
+          "winner": false
+        },
+        "away": {
+          "id": "1",
+          "abbr": "ATL",
+          "name": "Hawks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+          "score": 123,
+          "record": "1-1",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401898717",
+        "date": "2026-10-09T02:45Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 114,
+          "record": "2-1",
+          "winner": true
+        },
+        "away": {
+          "id": "23",
+          "abbr": "SAC",
+          "name": "Kings",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+          "score": 110,
+          "record": "0-2",
           "winner": false
         },
         "series": null
