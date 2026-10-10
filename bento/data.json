@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T17:35:27.171Z",
+  "updatedAt": "2026-10-10T21:01:25.301Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
-      "code": 3,
-      "wind": 10,
-      "humidity": 72
+      "temp": 11,
+      "feelsLike": 10,
+      "code": 1,
+      "wind": 9,
+      "humidity": 82
     },
     "forecast": [
       {
@@ -20,12 +20,12 @@
         "date": "2026-10-11",
         "code": 61,
         "tmax": 14,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-10-12",
         "code": 45,
-        "tmax": 17,
+        "tmax": 18,
         "tmin": 5
       },
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 148,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -142,7 +150,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 12 sem",
+        "time": "il y a 13 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Deuil de la perte de détails",
-        "titleOriginal": "Grieving the Loss of Details",
-        "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-        "source": "purplesyringa.moe",
-        "score": 66,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=49980880",
-        "date": "il y a 4 j"
+        "title": "Véhicules 2D",
+        "titleOriginal": "2D Vehicles",
+        "url": "https://patkerr.co.uk/2d-vehicles/",
+        "source": "patkerr.co.uk",
+        "score": 176,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=49991852",
+        "date": "il y a 3 j"
       },
       {
-        "title": "Knuth Reward Check",
-        "titleOriginal": "Knuth Reward Check",
-        "url": "https://www.thomas-huehn.com/knuth-reward-check",
+        "title": "Pourquoi DuckDB 2.0 est plus rapide",
+        "titleOriginal": "Why DuckDB 2.0 is faster",
+        "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+        "source": "motherduck.com",
+        "score": 58,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=50035530",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Chèque de récompense Knuth",
+        "titleOriginal": "Knuth reward check",
+        "url": "https://www.thomas-huehn.com/knuth-reward-check/",
         "source": "thomas-huehn.com",
-        "score": 37,
-        "comments": 13,
+        "score": 106,
+        "comments": 37,
         "hnUrl": "https://news.ycombinator.com/item?id=50034081",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Talorys – Un agent d'IA personnel auto-hébergé sur le niveau gratuit de Cloudflare",
-        "titleOriginal": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "url": "https://github.com/rociiu/talorys",
-        "source": "github.com",
-        "score": 154,
-        "comments": 81,
-        "hnUrl": "https://news.ycombinator.com/item?id=50031614",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Rampart : Radaction PII native du navigateur sur l'appareil",
-        "titleOriginal": "Rampart: Browser native on-device PII radaction",
-        "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-        "source": "ndstudio.gov",
-        "score": 34,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=50024242",
-        "date": "il y a 23 h"
+        "title": "L'ordinateur de l'ampoule",
+        "titleOriginal": "The Lightbulb Computer",
+        "url": "https://lightbulbcomputer.com/",
+        "source": "lightbulbcomputer.com",
+        "score": 70,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50029487",
+        "date": "il y a 16 h"
       }
     ]
   },
