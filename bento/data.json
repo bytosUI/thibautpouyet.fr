@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T12:49:35.555Z",
+  "updatedAt": "2026-10-10T17:35:27.171Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 13,
+      "temp": 14,
+      "feelsLike": 12,
       "code": 3,
-      "wind": 13,
-      "humidity": 54
+      "wind": 10,
+      "humidity": 72
     },
     "forecast": [
       {
@@ -18,8 +18,8 @@
       },
       {
         "date": "2026-10-11",
-        "code": 45,
-        "tmax": 15,
+        "code": 61,
+        "tmax": 14,
         "tmin": 9
       },
       {
@@ -30,9 +30,9 @@
       },
       {
         "date": "2026-10-13",
-        "code": 61,
-        "tmax": 21,
-        "tmin": 14
+        "code": 80,
+        "tmax": 20,
+        "tmin": 13
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "LEGEND TOUR : L'INCROYABLE ÉMOTION QUAND T'ARRIVES SUR SCÈNE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Ud8OLeZfSgU",
+        "thumbnail": "https://i.ytimg.com/vi/Ud8OLeZfSgU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ud8OLeZfSgU",
+        "publishedAt": "2026-10-10T14:08:41+00:00"
+      },
+      {
         "title": "3 ans pour être autonome en eau, énergie et nourriture",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -59,15 +68,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
         "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "LEGEND TOUR : CE N'EST QUE LE DÉBUT !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "jk6RZKnMgQM",
-        "thumbnail": "https://i.ytimg.com/vi/jk6RZKnMgQM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jk6RZKnMgQM",
-        "publishedAt": "2026-10-10T12:00:07+00:00"
       },
       {
         "title": "LE GRAND RECAP : La FrenchTech en crise, Mistral Large 4 le vrai test !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Mot de passe `123456' utilisé dans la violation de données CPR danoise",
-        "titleOriginal": "`123456' password used in Danish CPR data breach",
-        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-        "source": "cphpost.dk",
-        "score": 171,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=50031269",
-        "date": "il y a 2 h"
+        "title": "Deuil de la perte de détails",
+        "titleOriginal": "Grieving the Loss of Details",
+        "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+        "source": "purplesyringa.moe",
+        "score": 66,
+        "comments": 29,
+        "hnUrl": "https://news.ycombinator.com/item?id=49980880",
+        "date": "il y a 4 j"
+      },
+      {
+        "title": "Knuth Reward Check",
+        "titleOriginal": "Knuth Reward Check",
+        "url": "https://www.thomas-huehn.com/knuth-reward-check",
+        "source": "thomas-huehn.com",
+        "score": 37,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=50034081",
+        "date": "il y a 1 h"
       },
       {
         "title": "Talorys – Un agent d'IA personnel auto-hébergé sur le niveau gratuit de Cloudflare",
         "titleOriginal": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
         "url": "https://github.com/rociiu/talorys",
         "source": "github.com",
-        "score": 52,
-        "comments": 21,
+        "score": 154,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=50031614",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Apple/macOS retiré silencieusement du registre officiel d'Unix",
-        "titleOriginal": "Apple/macOS silently removed from official Unix registry",
-        "url": "https://www.opengroup.org//openbrand/register/",
-        "source": "opengroup.org",
-        "score": 51,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=50031653",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "REA Reverse – Engineer Anything",
-        "titleOriginal": "REA Reverse – Engineer Anything",
-        "url": "https://rea.tools/",
-        "source": "rea.tools",
-        "score": 492,
-        "comments": 205,
-        "hnUrl": "https://news.ycombinator.com/item?id=50028275",
-        "date": "il y a 12 h"
+        "title": "Rampart : Radaction PII native du navigateur sur l'appareil",
+        "titleOriginal": "Rampart: Browser native on-device PII radaction",
+        "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
+        "source": "ndstudio.gov",
+        "score": 34,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=50024242",
+        "date": "il y a 23 h"
       }
     ]
   },
