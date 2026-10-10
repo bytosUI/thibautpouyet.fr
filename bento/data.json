@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-10T06:09:23.902Z",
+  "updatedAt": "2026-10-10T12:49:35.555Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 9,
+      "temp": 16,
+      "feelsLike": 13,
       "code": 3,
-      "wind": 10,
-      "humidity": 90
+      "wind": 13,
+      "humidity": 54
     },
     "forecast": [
       {
         "date": "2026-10-10",
         "code": 80,
         "tmax": 16,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-10-11",
-        "code": 61,
-        "tmax": 14,
-        "tmin": 8
+        "code": 45,
+        "tmax": 15,
+        "tmin": 9
       },
       {
         "date": "2026-10-12",
         "code": 45,
         "tmax": 17,
-        "tmin": 4
+        "tmin": 5
       },
       {
         "date": "2026-10-13",
         "code": 61,
-        "tmax": 18,
-        "tmin": 12
+        "tmax": 21,
+        "tmin": 14
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "LEGEND TOUR : CE N'EST QUE LE DÉBUT !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "jk6RZKnMgQM",
+        "thumbnail": "https://i.ytimg.com/vi/jk6RZKnMgQM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jk6RZKnMgQM",
+        "publishedAt": "2026-10-10T12:00:07+00:00"
+      },
+      {
+        "title": "LE GRAND RECAP : La FrenchTech en crise, Mistral Large 4 le vrai test !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "ChOwCioCdyY",
+        "thumbnail": "https://i.ytimg.com/vi/ChOwCioCdyY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ChOwCioCdyY",
+        "publishedAt": "2026-10-09T16:10:37+00:00"
+      },
+      {
+        "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ndo5rHMsBNk",
+        "thumbnail": "https://i.ytimg.com/vi/ndo5rHMsBNk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ndo5rHMsBNk",
+        "publishedAt": "2026-10-08T15:24:23+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
+        "title": "18-MONTH RENOVATION TIMELAPSE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "FR-W_GyvkFQ",
+        "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
+        "publishedAt": "2026-10-04T20:17:55+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Mot de passe `123456' utilisé dans la violation de données CPR danoise",
+        "titleOriginal": "`123456' password used in Danish CPR data breach",
+        "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+        "source": "cphpost.dk",
+        "score": 171,
+        "comments": 105,
+        "hnUrl": "https://news.ycombinator.com/item?id=50031269",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Talorys – Un agent d'IA personnel auto-hébergé sur le niveau gratuit de Cloudflare",
+        "titleOriginal": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+        "url": "https://github.com/rociiu/talorys",
+        "source": "github.com",
+        "score": 52,
+        "comments": 21,
+        "hnUrl": "https://news.ycombinator.com/item?id=50031614",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Apple/macOS retiré silencieusement du registre officiel d'Unix",
+        "titleOriginal": "Apple/macOS silently removed from official Unix registry",
+        "url": "https://www.opengroup.org//openbrand/register/",
+        "source": "opengroup.org",
+        "score": 51,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=50031653",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "REA Reverse – Engineer Anything",
         "titleOriginal": "REA Reverse – Engineer Anything",
         "url": "https://rea.tools/",
         "source": "rea.tools",
-        "score": 262,
-        "comments": 84,
+        "score": 492,
+        "comments": 205,
         "hnUrl": "https://news.ycombinator.com/item?id=50028275",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Cloudflare acquiert Deno",
-        "titleOriginal": "Cloudflare acquires Deno",
-        "url": "https://deno.com/blog/cloudflare",
-        "source": "deno.com",
-        "score": 1150,
-        "comments": 588,
-        "hnUrl": "https://news.ycombinator.com/item?id=50019911",
-        "date": "il y a 17 h"
-      },
-      {
-        "title": "La vulnérabilité de Telegram Desktop a permis de voler le fichier de n'importe quel utilisateur",
-        "titleOriginal": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-        "source": "beaksec.github.io",
-        "score": 49,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=50029123",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Triple-A Démineur",
-        "titleOriginal": "Triple-A Minesweeper",
-        "url": "https://minesweeper.mikelacher.com/",
-        "source": "minesweeper.mikelacher.com",
-        "score": 833,
-        "comments": 161,
-        "hnUrl": "https://news.ycombinator.com/item?id=50022292",
-        "date": "il y a 14 h"
+        "date": "il y a 12 h"
       }
     ]
   },
