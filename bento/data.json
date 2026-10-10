@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-10T00:10:14.744Z",
+  "updatedAt": "2026-10-10T06:09:23.902Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
-      "code": 61,
-      "wind": 22,
-      "humidity": 91
+      "temp": 11,
+      "feelsLike": 9,
+      "code": 3,
+      "wind": 10,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-10-11",
         "code": 61,
-        "tmax": 13,
-        "tmin": 7
+        "tmax": 14,
+        "tmin": 8
       },
       {
         "date": "2026-10-12",
         "code": 45,
         "tmax": 17,
-        "tmin": 6
+        "tmin": 4
       },
       {
         "date": "2026-10-13",
-        "code": 3,
+        "code": 61,
         "tmax": 18,
-        "tmin": 13
+        "tmin": 12
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "GUILLAUME PLEY : « J’AVAIS ENVIE DE VIVRE DES CHOSES AVEC VOUS »",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "4rwggSBV4O0",
-        "thumbnail": "https://i.ytimg.com/vi/4rwggSBV4O0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4rwggSBV4O0",
-        "publishedAt": "2026-10-09T19:55:53+00:00"
-      },
-      {
-        "title": "LE GRAND RECAP : La FrenchTech en crise, Mistral Large 4 le vrai test !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "ChOwCioCdyY",
-        "thumbnail": "https://i.ytimg.com/vi/ChOwCioCdyY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ChOwCioCdyY",
-        "publishedAt": "2026-10-09T16:10:37+00:00"
-      },
-      {
-        "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ndo5rHMsBNk",
-        "thumbnail": "https://i.ytimg.com/vi/ndo5rHMsBNk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ndo5rHMsBNk",
-        "publishedAt": "2026-10-08T15:24:23+00:00"
-      },
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "2vJ0CjJqPjA",
-        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
-        "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "18-MONTH RENOVATION TIMELAPSE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "FR-W_GyvkFQ",
-        "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
-        "publishedAt": "2026-10-04T20:17:55+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      },
-      {
-        "title": "Une table de jardin en béton fibré et bois 🪑 #shorts",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "RJQUEXYOZHM",
-        "thumbnail": "https://i.ytimg.com/vi/RJQUEXYOZHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJQUEXYOZHM",
-        "publishedAt": "2026-08-03T07:30:33+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,210 +92,102 @@
   "hackernews": {
     "items": [
       {
+        "title": "REA Reverse – Engineer Anything",
+        "titleOriginal": "REA Reverse – Engineer Anything",
+        "url": "https://rea.tools/",
+        "source": "rea.tools",
+        "score": 262,
+        "comments": 84,
+        "hnUrl": "https://news.ycombinator.com/item?id=50028275",
+        "date": "il y a 5 h"
+      },
+      {
         "title": "Cloudflare acquiert Deno",
         "titleOriginal": "Cloudflare acquires Deno",
         "url": "https://deno.com/blog/cloudflare",
         "source": "deno.com",
-        "score": 1024,
-        "comments": 532,
+        "score": 1150,
+        "comments": 588,
         "hnUrl": "https://news.ycombinator.com/item?id=50019911",
-        "date": "il y a 11 h"
+        "date": "il y a 17 h"
+      },
+      {
+        "title": "La vulnérabilité de Telegram Desktop a permis de voler le fichier de n'importe quel utilisateur",
+        "titleOriginal": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+        "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+        "source": "beaksec.github.io",
+        "score": 49,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50029123",
+        "date": "il y a 3 h"
       },
       {
         "title": "Triple-A Démineur",
         "titleOriginal": "Triple-A Minesweeper",
         "url": "https://minesweeper.mikelacher.com/",
         "source": "minesweeper.mikelacher.com",
-        "score": 547,
-        "comments": 105,
+        "score": 833,
+        "comments": 161,
         "hnUrl": "https://news.ycombinator.com/item?id=50022292",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Show HN : Carrier-Explode : paramètres de l'opérateur iPhone, Pixel et Galaxy décodés",
-        "titleOriginal": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-        "url": "https://carrierexplode.com/",
-        "source": "carrierexplode.com",
-        "score": 192,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50024499",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Notre $ 445M Série D",
-        "titleOriginal": "Our $445M Series D",
-        "url": "https://oxide.computer/blog/our-445m-series-d",
-        "source": "oxide.computer",
-        "score": 567,
-        "comments": 248,
-        "hnUrl": "https://news.ycombinator.com/item?id=50020014",
-        "date": "il y a 10 h"
+        "date": "il y a 14 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": false,
-    "resultsDate": "20261008",
+    "resultsDate": "20261009",
     "results": [
       {
-        "id": "401898392",
-        "date": "2026-10-08T23:00Z",
+        "id": "401898395",
+        "date": "2026-10-09T12:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 113,
+          "id": "6",
+          "abbr": "DAL",
+          "name": "Mavericks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+          "score": 117,
           "record": "0-1",
           "winner": false
         },
         "away": {
-          "id": "2",
-          "abbr": "BOS",
-          "name": "Celtics",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-          "score": 124,
+          "id": "10",
+          "abbr": "HOU",
+          "name": "Rockets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+          "score": 135,
           "record": "1-0",
           "winner": true
         },
         "series": null
       },
       {
-        "id": "401898393",
-        "date": "2026-10-08T23:30Z",
+        "id": "401908940",
+        "date": "2026-10-10T00:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "14",
-          "abbr": "MIA",
-          "name": "Heat",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-          "score": 128,
-          "record": "2-0",
-          "winner": true
-        },
-        "away": {
-          "id": "3",
-          "abbr": "NO",
-          "name": "Pelicans",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
-          "score": 118,
+          "id": "4",
+          "abbr": "CHI",
+          "name": "Bulls",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+          "score": 100,
           "record": "1-1",
           "winner": false
         },
-        "series": null
-      },
-      {
-        "id": "401901823",
-        "date": "2026-10-08T23:30Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "17",
-          "abbr": "BKN",
-          "name": "Nets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
-          "score": 114,
-          "record": "2-0",
-          "winner": true
-        },
         "away": {
-          "id": "20",
-          "abbr": "PHI",
-          "name": "76ers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-          "score": 108,
-          "record": "1-1",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401906508",
-        "date": "2026-10-08T23:30Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "18",
-          "abbr": "NY",
-          "name": "Knicks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-          "score": 109,
-          "record": "0-2",
-          "winner": false
-        },
-        "away": {
-          "id": "27",
-          "abbr": "WSH",
-          "name": "Wizards",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-          "score": 111,
-          "record": "1-0",
-          "winner": true
-        },
-        "series": null
-      },
-      {
-        "id": "401898394",
-        "date": "2026-10-09T00:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "24",
-          "abbr": "SA",
-          "name": "Spurs",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-          "score": 116,
-          "record": "0-1",
-          "winner": false
-        },
-        "away": {
-          "id": "1",
-          "abbr": "ATL",
-          "name": "Hawks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-          "score": 123,
-          "record": "1-1",
-          "winner": true
-        },
-        "series": null
-      },
-      {
-        "id": "401898717",
-        "date": "2026-10-09T02:45Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "13",
-          "abbr": "LAL",
-          "name": "Lakers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
-          "score": 114,
+          "id": "29",
+          "abbr": "MEM",
+          "name": "Grizzlies",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+          "score": 104,
           "record": "2-1",
           "winner": true
-        },
-        "away": {
-          "id": "23",
-          "abbr": "SAC",
-          "name": "Kings",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
-          "score": 110,
-          "record": "0-2",
-          "winner": false
         },
         "series": null
       }
