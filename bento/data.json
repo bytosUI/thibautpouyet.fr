@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-10-10T21:01:25.301Z",
+  "updatedAt": "2026-10-11T00:17:55.035Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 11,
-      "feelsLike": 10,
-      "code": 1,
-      "wind": 9,
-      "humidity": 82
+      "feelsLike": 8,
+      "code": 80,
+      "wind": 12,
+      "humidity": 84
     },
     "forecast": [
       {
-        "date": "2026-10-10",
+        "date": "2026-10-11",
         "code": 80,
         "tmax": 16,
-        "tmin": 11
-      },
-      {
-        "date": "2026-10-11",
-        "code": 61,
-        "tmax": 14,
         "tmin": 10
       },
       {
         "date": "2026-10-12",
         "code": 45,
         "tmax": 18,
-        "tmin": 5
+        "tmin": 6
       },
       {
         "date": "2026-10-13",
         "code": 80,
+        "tmax": 21,
+        "tmin": 14
+      },
+      {
+        "date": "2026-10-14",
+        "code": 45,
         "tmax": 20,
-        "tmin": 13
+        "tmin": 11
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 148,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,65 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "LEGEND TOUR : L'INCROYABLE ÉMOTION QUAND T'ARRIVES SUR SCÈNE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Ud8OLeZfSgU",
-        "thumbnail": "https://i.ytimg.com/vi/Ud8OLeZfSgU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ud8OLeZfSgU",
-        "publishedAt": "2026-10-10T14:08:41+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "LE GRAND RECAP : La FrenchTech en crise, Mistral Large 4 le vrai test !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "ChOwCioCdyY",
-        "thumbnail": "https://i.ytimg.com/vi/ChOwCioCdyY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ChOwCioCdyY",
-        "publishedAt": "2026-10-09T16:10:37+00:00"
-      },
-      {
-        "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ndo5rHMsBNk",
-        "thumbnail": "https://i.ytimg.com/vi/ndo5rHMsBNk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ndo5rHMsBNk",
-        "publishedAt": "2026-10-08T15:24:23+00:00"
-      },
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "2vJ0CjJqPjA",
-        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
-        "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
       {
         "title": "18-MONTH RENOVATION TIMELAPSE",
         "channel": "Rachel & Emilien - Rénovation",
@@ -121,24 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
         "publishedAt": "2026-10-04T20:17:55+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
       }
     ]
   },
@@ -156,7 +76,7 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 14 sem",
+        "time": "il y a 15 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,44 +102,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Construisez votre propre modèle de décision",
+        "titleOriginal": "Build your own decision model",
+        "url": "https://nishtahir.com/build-your-own-decision-model/",
+        "source": "nishtahir.com",
+        "score": 61,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=50037949",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Véhicules 2D",
         "titleOriginal": "2D Vehicles",
         "url": "https://patkerr.co.uk/2d-vehicles/",
         "source": "patkerr.co.uk",
-        "score": 176,
-        "comments": 41,
+        "score": 333,
+        "comments": 77,
         "hnUrl": "https://news.ycombinator.com/item?id=49991852",
         "date": "il y a 3 j"
       },
       {
-        "title": "Pourquoi DuckDB 2.0 est plus rapide",
-        "titleOriginal": "Why DuckDB 2.0 is faster",
-        "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-        "source": "motherduck.com",
-        "score": 58,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=50035530",
-        "date": "il y a 2 h"
+        "title": "Un jeu de construction de ville dans lequel la ville préférerait que vous ne le fassiez pas",
+        "titleOriginal": "A city-building game in which the city would prefer you didn't",
+        "url": "https://housing.over.pizza/",
+        "source": "housing.over.pizza",
+        "score": 137,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=50036864",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Chèque de récompense Knuth",
-        "titleOriginal": "Knuth reward check",
-        "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-        "source": "thomas-huehn.com",
-        "score": 106,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=50034081",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "L'ordinateur de l'ampoule",
-        "titleOriginal": "The Lightbulb Computer",
-        "url": "https://lightbulbcomputer.com/",
-        "source": "lightbulbcomputer.com",
-        "score": 70,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=50029487",
-        "date": "il y a 16 h"
+        "title": "Nix a écrit la moitié de mon débogueur",
+        "titleOriginal": "Nix wrote half of my debugger",
+        "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+        "source": "fzakaria.com",
+        "score": 107,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50017247",
+        "date": "hier"
       }
     ]
   },
