@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-10-11T18:14:32.750Z",
+  "updatedAt": "2026-10-11T22:13:21.705Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 13,
-      "code": 3,
+      "temp": 10,
+      "feelsLike": 9,
+      "code": 0,
       "wind": 4,
-      "humidity": 80
+      "humidity": 92
     },
     "forecast": [
-      {
-        "date": "2026-10-11",
-        "code": 61,
-        "tmax": 15,
-        "tmin": 11
-      },
       {
         "date": "2026-10-12",
         "code": 45,
@@ -24,15 +18,21 @@
       },
       {
         "date": "2026-10-13",
-        "code": 80,
+        "code": 81,
         "tmax": 21,
-        "tmin": 14
+        "tmin": 13
       },
       {
         "date": "2026-10-14",
         "code": 45,
-        "tmax": 17,
-        "tmin": 8
+        "tmax": 18,
+        "tmin": 9
+      },
+      {
+        "date": "2026-10-15",
+        "code": 45,
+        "tmax": 21,
+        "tmin": 7
       }
     ]
   },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "J'ai payé des gens pour essayer de suivre mon README",
-        "titleOriginal": "I paid people to try and follow my README",
-        "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-        "source": "shkspr.mobi",
-        "score": 296,
-        "comments": 153,
-        "hnUrl": "https://news.ycombinator.com/item?id=50042219",
-        "date": "il y a 6 h"
+        "title": "Annihilation totale, reconstruite pour les ordinateurs modernes",
+        "titleOriginal": "Total Annihilation, rebuilt for modern computers",
+        "url": "https://nanolathe.gg",
+        "source": "nanolathe.gg",
+        "score": 264,
+        "comments": 107,
+        "hnUrl": "https://news.ycombinator.com/item?id=50045984",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Je suis désolé, mais vous devez quand même penser",
-        "titleOriginal": "I'm sorry, but you still have to think",
-        "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
-        "source": "itsallaboutthebit.com",
-        "score": 114,
-        "comments": 38,
-        "hnUrl": "https://news.ycombinator.com/item?id=50043689",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "apsw : Un autre wrapper SQLite Python",
-        "titleOriginal": "apsw: Another Python SQLite Wrapper",
-        "url": "https://github.com/rogerbinns/apsw",
-        "source": "github.com",
-        "score": 11,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=50045273",
+        "title": "Le fossé dans la compréhension partagée de la capacité de LLM se creuse",
+        "titleOriginal": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "twitter.com",
+        "score": 66,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=50047422",
         "date": "il y a 1 h"
       },
       {
-        "title": "Le tilde sur votre CHEMIN n'est peut-être pas votre MAISON",
-        "titleOriginal": "The tilde in your PATH may not be your HOME",
-        "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-        "source": "disconnect3d.pl",
-        "score": 154,
-        "comments": 87,
-        "hnUrl": "https://news.ycombinator.com/item?id=50042425",
-        "date": "il y a 6 h"
+        "title": "Cartographes de Corée du Nord",
+        "titleOriginal": "Cartographers of North Korea",
+        "url": "https://cartographers-nk.wonyoung.so/",
+        "source": "cartographers-nk.wonyoung.so",
+        "score": 94,
+        "comments": 11,
+        "hnUrl": "https://news.ycombinator.com/item?id=50047091",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Avez-vous des problèmes avec les oignons avant 2012 ?",
+        "titleOriginal": "Do You Have Pre-2012 Onion Issues?",
+        "url": "https://theonion.com/archivehunt/",
+        "source": "theonion.com",
+        "score": 177,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=50047055",
+        "date": "il y a 2 h"
       }
     ]
   },
