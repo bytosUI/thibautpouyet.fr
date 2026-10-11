@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-11T06:06:57.439Z",
+  "updatedAt": "2026-10-11T13:13:31.425Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 8,
+      "temp": 15,
+      "feelsLike": 13,
       "code": 3,
-      "wind": 11,
-      "humidity": 86
+      "wind": 13,
+      "humidity": 58
     },
     "forecast": [
       {
         "date": "2026-10-11",
         "code": 61,
         "tmax": 15,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-10-12",
-        "code": 61,
-        "tmax": 17,
+        "code": 45,
+        "tmax": 18,
         "tmin": 7
       },
       {
         "date": "2026-10-13",
         "code": 61,
-        "tmax": 20,
+        "tmax": 21,
         "tmin": 14
       },
       {
         "date": "2026-10-14",
-        "code": 80,
-        "tmax": 22,
-        "tmin": 14
+        "code": 45,
+        "tmax": 17,
+        "tmin": 8
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "ON LUI PROPOSE 100 MILLIONS D'EUROS POUR SA CAVE À VIN...ÉCOUTEZ SA RÉPONSE !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Xn81XOKks2U",
+        "thumbnail": "https://i.ytimg.com/vi/Xn81XOKks2U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xn81XOKks2U",
+        "publishedAt": "2026-10-11T13:00:09+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "LE GRAND RECAP : La FrenchTech en crise, Mistral Large 4 le vrai test !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "ChOwCioCdyY",
+        "thumbnail": "https://i.ytimg.com/vi/ChOwCioCdyY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ChOwCioCdyY",
+        "publishedAt": "2026-10-09T16:10:37+00:00"
+      },
+      {
+        "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ndo5rHMsBNk",
+        "thumbnail": "https://i.ytimg.com/vi/ndo5rHMsBNk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ndo5rHMsBNk",
+        "publishedAt": "2026-10-08T15:24:23+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
+        "title": "18-MONTH RENOVATION TIMELAPSE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "FR-W_GyvkFQ",
+        "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
+        "publishedAt": "2026-10-04T20:17:55+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "WallHop – 12ft.io a disparu, j'ai donc construit un remplacement",
-        "titleOriginal": "WallHop – 12ft.io is gone, so I built a replacement",
-        "url": "https://wallhop.io/",
-        "source": "wallhop.io",
-        "score": 214,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=50038634",
-        "date": "il y a 5 h"
+        "title": "J'ai payé des gens pour essayer de suivre mon README",
+        "titleOriginal": "I paid people to try and follow my README",
+        "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+        "source": "shkspr.mobi",
+        "score": 71,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=50042219",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Construisez votre propre modèle de décision",
-        "titleOriginal": "Build your own decision model",
-        "url": "https://nishtahir.com/build-your-own-decision-model/",
-        "source": "nishtahir.com",
-        "score": 203,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=50037949",
-        "date": "il y a 7 h"
+        "title": "Baisse soudaine du trafic des robots Cloudflare après une grève sur le centre de données Yandex",
+        "titleOriginal": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
+        "source": "radar.cloudflare.com",
+        "score": 290,
+        "comments": 109,
+        "hnUrl": "https://news.ycombinator.com/item?id=50041619",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Véhicules 2D",
-        "titleOriginal": "2D Vehicles",
-        "url": "https://patkerr.co.uk/2d-vehicles/",
-        "source": "patkerr.co.uk",
-        "score": 413,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=49991852",
-        "date": "il y a 3 j"
+        "title": "Ne mettez pas de tilde sur votre chemin",
+        "titleOriginal": "Don't Put Tilde In Your Path",
+        "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+        "source": "disconnect3d.pl",
+        "score": 21,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50042425",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Un jeu de construction de ville dans lequel la ville préférerait que vous ne le fassiez pas",
-        "titleOriginal": "A city-building game in which the city would prefer you didn't",
-        "url": "https://housing.over.pizza/",
-        "source": "housing.over.pizza",
-        "score": 265,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=50036864",
-        "date": "il y a 9 h"
+        "title": "LineageOS 24.0",
+        "titleOriginal": "LineageOS 24.0",
+        "url": "https://lineageos.org/Changelog-32/",
+        "source": "lineageos.org",
+        "score": 198,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=50040276",
+        "date": "il y a 6 h"
       }
     ]
   },
