@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-11T13:13:31.425Z",
+  "updatedAt": "2026-10-11T18:14:32.750Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
+      "temp": 13,
       "feelsLike": 13,
       "code": 3,
-      "wind": 13,
-      "humidity": 58
+      "wind": 4,
+      "humidity": 80
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-10-13",
-        "code": 61,
+        "code": 80,
         "tmax": 21,
         "tmin": 14
       },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "ON LUI PROPOSE 100 MILLIONS D'EUROS POUR SA CAVE À VIN...ÉCOUTEZ SA RÉPONSE !",
+        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "qHStSosXa88",
+        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
+        "publishedAt": "2026-10-11T16:27:17+00:00"
+      },
+      {
+        "title": "À 82 ANS, IL A LA PLUS BELLE CAVE À VIN DU MONDE : QUE DEVIENDRA-T-ELLE APRÈS SA MORT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Xn81XOKks2U",
-        "thumbnail": "https://i.ytimg.com/vi/Xn81XOKks2U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xn81XOKks2U",
-        "publishedAt": "2026-10-11T13:00:09+00:00"
+        "videoId": "PUDMLT7_s-o",
+        "thumbnail": "https://i.ytimg.com/vi/PUDMLT7_s-o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PUDMLT7_s-o",
+        "publishedAt": "2026-10-11T15:00:24+00:00"
       },
       {
         "title": "3 ans pour être autonome en eau, énergie et nourriture",
@@ -104,15 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
         "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "18-MONTH RENOVATION TIMELAPSE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "FR-W_GyvkFQ",
-        "thumbnail": "https://i.ytimg.com/vi/FR-W_GyvkFQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FR-W_GyvkFQ",
-        "publishedAt": "2026-10-04T20:17:55+00:00"
       },
       {
         "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
@@ -178,39 +178,39 @@
         "titleOriginal": "I paid people to try and follow my README",
         "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
         "source": "shkspr.mobi",
-        "score": 71,
-        "comments": 44,
+        "score": 296,
+        "comments": 153,
         "hnUrl": "https://news.ycombinator.com/item?id=50042219",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Je suis désolé, mais vous devez quand même penser",
+        "titleOriginal": "I'm sorry, but you still have to think",
+        "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+        "source": "itsallaboutthebit.com",
+        "score": 114,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=50043689",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "apsw : Un autre wrapper SQLite Python",
+        "titleOriginal": "apsw: Another Python SQLite Wrapper",
+        "url": "https://github.com/rogerbinns/apsw",
+        "source": "github.com",
+        "score": 11,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50045273",
         "date": "il y a 1 h"
       },
       {
-        "title": "Baisse soudaine du trafic des robots Cloudflare après une grève sur le centre de données Yandex",
-        "titleOriginal": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-        "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-        "source": "radar.cloudflare.com",
-        "score": 290,
-        "comments": 109,
-        "hnUrl": "https://news.ycombinator.com/item?id=50041619",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Ne mettez pas de tilde sur votre chemin",
-        "titleOriginal": "Don't Put Tilde In Your Path",
+        "title": "Le tilde sur votre CHEMIN n'est peut-être pas votre MAISON",
+        "titleOriginal": "The tilde in your PATH may not be your HOME",
         "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
         "source": "disconnect3d.pl",
-        "score": 21,
-        "comments": 1,
+        "score": 154,
+        "comments": 87,
         "hnUrl": "https://news.ycombinator.com/item?id=50042425",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "LineageOS 24.0",
-        "titleOriginal": "LineageOS 24.0",
-        "url": "https://lineageos.org/Changelog-32/",
-        "source": "lineageos.org",
-        "score": 198,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=50040276",
         "date": "il y a 6 h"
       }
     ]
