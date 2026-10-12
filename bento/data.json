@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-10-11T22:13:21.705Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 10,
-      "feelsLike": 9,
-      "code": 0,
-      "wind": 4,
-      "humidity": 92
-    },
-    "forecast": [
-      {
-        "date": "2026-10-12",
-        "code": 45,
-        "tmax": 18,
-        "tmin": 7
-      },
-      {
-        "date": "2026-10-13",
-        "code": 81,
-        "tmax": 21,
-        "tmin": 13
-      },
-      {
-        "date": "2026-10-14",
-        "code": 45,
-        "tmax": 18,
-        "tmin": 9
-      },
-      {
-        "date": "2026-10-15",
-        "code": 45,
-        "tmax": 21,
-        "tmin": 7
-      }
-    ]
-  },
+  "updatedAt": "2026-10-12T01:29:31.446Z",
+  "weather": null,
   "twitch": {
     "live": [],
     "offline": [
@@ -50,89 +15,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "qHStSosXa88",
-        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
-        "publishedAt": "2026-10-11T16:27:17+00:00"
-      },
-      {
-        "title": "À 82 ANS, IL A LA PLUS BELLE CAVE À VIN DU MONDE : QUE DEVIENDRA-T-ELLE APRÈS SA MORT ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "PUDMLT7_s-o",
-        "thumbnail": "https://i.ytimg.com/vi/PUDMLT7_s-o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PUDMLT7_s-o",
-        "publishedAt": "2026-10-11T15:00:24+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "LE GRAND RECAP : La FrenchTech en crise, Mistral Large 4 le vrai test !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "ChOwCioCdyY",
-        "thumbnail": "https://i.ytimg.com/vi/ChOwCioCdyY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ChOwCioCdyY",
-        "publishedAt": "2026-10-09T16:10:37+00:00"
-      },
-      {
-        "title": "On découvre Wikimasters (faites monter Mcfly & Carlito en Légendaire svp)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ndo5rHMsBNk",
-        "thumbnail": "https://i.ytimg.com/vi/ndo5rHMsBNk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ndo5rHMsBNk",
-        "publishedAt": "2026-10-08T15:24:23+00:00"
-      },
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "2vJ0CjJqPjA",
-        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
-        "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +57,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Qu'est-il advenu de l'holographie ? (2011)",
+        "titleOriginal": "Whatever became of holography? (2011)",
+        "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+        "source": "americanscientist.org",
+        "score": 53,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=50049411",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Annihilation totale, reconstruite pour les ordinateurs modernes",
         "titleOriginal": "Total Annihilation, rebuilt for modern computers",
         "url": "https://nanolathe.gg",
         "source": "nanolathe.gg",
-        "score": 264,
-        "comments": 107,
+        "score": 359,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=50045984",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Le fossé dans la compréhension partagée de la capacité de LLM se creuse",
-        "titleOriginal": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "source": "twitter.com",
-        "score": 66,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=50047422",
-        "date": "il y a 1 h"
+        "title": "Les empreintes digitales sont les nouveaux cookies",
+        "titleOriginal": "Fingerprints Are the New Cookies",
+        "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+        "source": "royfish.dev",
+        "score": 68,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50048642",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Cartographes de Corée du Nord",
-        "titleOriginal": "Cartographers of North Korea",
+        "title": "Cartographes de Corée du Nord (2019)",
+        "titleOriginal": "Cartographers of North Korea (2019)",
         "url": "https://cartographers-nk.wonyoung.so/",
         "source": "cartographers-nk.wonyoung.so",
-        "score": 94,
-        "comments": 11,
+        "score": 178,
+        "comments": 31,
         "hnUrl": "https://news.ycombinator.com/item?id=50047091",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Avez-vous des problèmes avec les oignons avant 2012 ?",
-        "titleOriginal": "Do You Have Pre-2012 Onion Issues?",
-        "url": "https://theonion.com/archivehunt/",
-        "source": "theonion.com",
-        "score": 177,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=50047055",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       }
     ]
   },
