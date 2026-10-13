@@ -1,109 +1,56 @@
 {
-  "updatedAt": "2026-10-13T19:41:57.887Z",
+  "updatedAt": "2026-10-13T23:33:24.342Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 18,
-      "feelsLike": 18,
-      "code": 3,
-      "wind": 6,
-      "humidity": 86
+      "temp": 13,
+      "feelsLike": 13,
+      "code": 0,
+      "wind": 4,
+      "humidity": 90
     },
     "forecast": [
       {
-        "date": "2026-10-13",
-        "code": 3,
-        "tmax": 22,
-        "tmin": 11
-      },
-      {
         "date": "2026-10-14",
         "code": 45,
-        "tmax": 16,
-        "tmin": 8
+        "tmax": 17,
+        "tmin": 7
       },
       {
         "date": "2026-10-15",
         "code": 45,
         "tmax": 21,
-        "tmin": 9
+        "tmin": 8
       },
       {
         "date": "2026-10-16",
-        "code": 61,
+        "code": 80,
         "tmax": 20,
         "tmin": 11
+      },
+      {
+        "date": "2026-10-17",
+        "code": 61,
+        "tmax": 15,
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "VOID/BREAKER",
-        "viewers": 136,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "Laurent Alexandre vs Samuel Fitoussi : qui a raison sur l'IA ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "rBGLzwvCI-o",
-        "thumbnail": "https://i.ytimg.com/vi/rBGLzwvCI-o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rBGLzwvCI-o",
-        "publishedAt": "2026-10-13T16:00:27+00:00"
-      },
-      {
-        "title": "QUE FAIT LA CAISSE DES DÉPÔTS DE L’ARGENT QUE VOUS AVEZ SUR VOTRE LIVRET A ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "NJxjhyxPj4Q",
-        "thumbnail": "https://i.ytimg.com/vi/NJxjhyxPj4Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NJxjhyxPj4Q",
-        "publishedAt": "2026-10-13T11:00:09+00:00"
-      },
-      {
-        "title": "LA BATTLE DES PAYS : on déguste les spécialités béninoises avec Theodort SHEEEEESH",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "dcSfEaDVMOM",
-        "thumbnail": "https://i.ytimg.com/vi/dcSfEaDVMOM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dcSfEaDVMOM",
-        "publishedAt": "2026-10-12T15:22:36+00:00"
-      },
-      {
-        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "qHStSosXa88",
-        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
-        "publishedAt": "2026-10-11T16:27:17+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
       {
         "title": "Acheter des formations sans les suivre...",
         "channel": "Darons du Biz",
@@ -112,24 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
         "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "2vJ0CjJqPjA",
-        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
-        "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
       },
       {
         "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
@@ -182,44 +111,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Un ingénieur OpenAI arrêté pour mise sur écoute de la salle de conférence exécutive",
+        "titleOriginal": "OpenAI engineer arrested in bugging of executive conference room",
+        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+        "source": "sfstandard.com",
+        "score": 332,
+        "comments": 281,
+        "hnUrl": "https://news.ycombinator.com/item?id=50078141",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Gemini 4 Argon",
         "titleOriginal": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
         "source": "deepmind.google",
-        "score": 613,
-        "comments": 504,
+        "score": 890,
+        "comments": 698,
         "hnUrl": "https://news.ycombinator.com/item?id=50073879",
-        "date": "il y a 3 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Apple HomeView",
-        "titleOriginal": "Apple HomeView",
-        "url": "https://www.apple.com/apple-homeview/",
-        "source": "apple.com",
-        "score": 541,
-        "comments": 661,
-        "hnUrl": "https://news.ycombinator.com/item?id=50071017",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Thunderbird pour iOS",
-        "titleOriginal": "Thunderbird for iOS",
-        "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-        "source": "blog.thunderbird.net",
-        "score": 227,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=50072913",
+        "title": "Show HN : Guitoro, une guitare virtuelle que vous grattez avec votre clavier",
+        "titleOriginal": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+        "url": "https://guitoro.com/",
+        "source": "guitoro.com",
+        "score": 193,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=50077020",
         "date": "il y a 4 h"
       },
       {
-        "title": "Un plaidoyer pour ne pas utiliser uv-build",
-        "titleOriginal": "A plea not to use uv-build",
-        "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
-        "source": "blogs.gentoo.org",
-        "score": 36,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=50076048",
-        "date": "il y a 1 h"
+        "title": "Ledger confirme l'implantation de la puce espion derrière les vols de crypto-monnaie du portefeuille",
+        "titleOriginal": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "source": "bleepingcomputer.com",
+        "score": 357,
+        "comments": 290,
+        "hnUrl": "https://news.ycombinator.com/item?id=50054092",
+        "date": "hier"
       }
     ]
   },
