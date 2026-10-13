@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-13T05:03:49.733Z",
+  "updatedAt": "2026-10-13T12:50:40.519Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 13,
+      "temp": 19,
+      "feelsLike": 20,
       "code": 3,
-      "wind": 6,
-      "humidity": 81
+      "wind": 11,
+      "humidity": 84
     },
     "forecast": [
       {
@@ -19,27 +19,35 @@
       {
         "date": "2026-10-14",
         "code": 45,
-        "tmax": 16,
+        "tmax": 15,
         "tmin": 9
       },
       {
         "date": "2026-10-15",
         "code": 45,
-        "tmax": 21,
-        "tmin": 4
+        "tmax": 22,
+        "tmin": 6
       },
       {
         "date": "2026-10-16",
-        "code": 3,
-        "tmax": 23,
-        "tmin": 7
+        "code": 61,
+        "tmax": 21,
+        "tmin": 9
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 5456,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -50,7 +58,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "QUE FAIT LA CAISSE DES DÉPÔTS DE L’ARGENT QUE VOUS AVEZ SUR VOTRE LIVRET A ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "NJxjhyxPj4Q",
+        "thumbnail": "https://i.ytimg.com/vi/NJxjhyxPj4Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NJxjhyxPj4Q",
+        "publishedAt": "2026-10-13T11:00:09+00:00"
+      },
+      {
+        "title": "Tout le monde n’est pas formable à l’IA !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "CcJFHRRbvvE",
+        "thumbnail": "https://i.ytimg.com/vi/CcJFHRRbvvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CcJFHRRbvvE",
+        "publishedAt": "2026-10-13T10:00:39+00:00"
+      },
+      {
+        "title": "LA BATTLE DES PAYS : on déguste les spécialités béninoises avec Theodort SHEEEEESH",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "dcSfEaDVMOM",
+        "thumbnail": "https://i.ytimg.com/vi/dcSfEaDVMOM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dcSfEaDVMOM",
+        "publishedAt": "2026-10-12T15:22:36+00:00"
+      },
+      {
+        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "qHStSosXa88",
+        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
+        "publishedAt": "2026-10-11T16:27:17+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'intelligence déroutante d'une seule cellule (2024)",
-        "titleOriginal": "The baffling intelligence of a single cell (2024)",
-        "url": "https://jsomers.net/e-coli-chemotaxis/",
-        "source": "jsomers.net",
-        "score": 167,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50041866",
-        "date": "hier"
-      },
-      {
-        "title": "GLM-Légal",
-        "titleOriginal": "GLM-Legal",
-        "url": "https://z.ai/blog/glm-legal",
-        "source": "z.ai",
-        "score": 489,
-        "comments": 286,
-        "hnUrl": "https://news.ycombinator.com/item?id=50058507",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Les modèles d'IA peuvent dissimuler des capacités arbitraires",
-        "titleOriginal": "AI Models Can Provably Hide Arbitrary Capabilities",
-        "url": "https://arxiv.org/abs/2610.13928",
-        "source": "arxiv.org",
-        "score": 46,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=50065692",
+        "title": "Des bugs de mauvaise santé vieux de 11 ans trouvés dans le vérificateur d'emprunt Rust",
+        "titleOriginal": "11 year old unsoundness bugs found in Rust borrow checker",
+        "url": "https://github.com/rust-lang/rust/issues/164250",
+        "source": "github.com",
+        "score": 232,
+        "comments": 104,
+        "hnUrl": "https://news.ycombinator.com/item?id=50069499",
         "date": "il y a 2 h"
       },
       {
-        "title": "Intel D270 GPU AI Accelerator - Jusqu'à 480 Go LPDDR5X",
-        "titleOriginal": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "source": "intel.com",
-        "score": 129,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=50063365",
-        "date": "il y a 7 h"
+        "title": "Une heure d'audio transcrit en environ 13 s sur MacBook Air",
+        "titleOriginal": "An hour of audio transcribed in about 13s on MacBook Air",
+        "url": "https://eg2.haku.sh/",
+        "source": "eg2.haku.sh",
+        "score": 95,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=50069971",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Show HN : Utilisez votre abonnement OpenAI pour créer des livres audio",
+        "titleOriginal": "Show HN: Use your OpenAI subscription to create audiobooks",
+        "url": "https://pdftomp3.com/connect-ai/",
+        "source": "pdftomp3.com",
+        "score": 61,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=50069337",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Archives royales hittites trouvées en Turquie",
+        "titleOriginal": "Hittite royal archive found in Turkey",
+        "url": "https://www.thehistoryblog.com/archives/77107",
+        "source": "thehistoryblog.com",
+        "score": 139,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=50067414",
+        "date": "il y a 6 h"
       }
     ]
   },
