@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-13T23:33:24.342Z",
+  "updatedAt": "2026-10-14T03:10:25.520Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 13,
+      "temp": 10,
+      "feelsLike": 9,
       "code": 0,
-      "wind": 4,
-      "humidity": 90
+      "wind": 2,
+      "humidity": 95
     },
     "forecast": [
       {
         "date": "2026-10-14",
         "code": 45,
-        "tmax": 17,
+        "tmax": 18,
         "tmin": 7
       },
       {
         "date": "2026-10-15",
         "code": 45,
         "tmax": 21,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-10-16",
@@ -50,26 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -111,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un ingénieur OpenAI arrêté pour mise sur écoute de la salle de conférence exécutive",
-        "titleOriginal": "OpenAI engineer arrested in bugging of executive conference room",
-        "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-        "source": "sfstandard.com",
-        "score": 332,
-        "comments": 281,
-        "hnUrl": "https://news.ycombinator.com/item?id=50078141",
-        "date": "il y a 3 h"
-      },
-      {
         "title": "Gemini 4 Argon",
         "titleOriginal": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
         "source": "deepmind.google",
-        "score": 890,
-        "comments": 698,
+        "score": 1065,
+        "comments": 791,
         "hnUrl": "https://news.ycombinator.com/item?id=50073879",
-        "date": "il y a 7 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "Show HN : Guitoro, une guitare virtuelle que vous grattez avec votre clavier",
         "titleOriginal": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
         "url": "https://guitoro.com/",
         "source": "guitoro.com",
-        "score": 193,
-        "comments": 76,
+        "score": 317,
+        "comments": 92,
         "hnUrl": "https://news.ycombinator.com/item?id=50077020",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Ledger confirme l'implantation de la puce espion derrière les vols de crypto-monnaie du portefeuille",
         "titleOriginal": "Ledger confirms spy chip implant behind wallet crypto thefts",
         "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
         "source": "bleepingcomputer.com",
-        "score": 357,
-        "comments": 290,
+        "score": 485,
+        "comments": 361,
         "hnUrl": "https://news.ycombinator.com/item?id=50054092",
         "date": "hier"
+      },
+      {
+        "title": "Refonte du contrôle des sources chez Anthropic",
+        "titleOriginal": "Redesigning source control at Anthropic",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "source": "anthropic.com",
+        "score": 583,
+        "comments": 557,
+        "hnUrl": "https://news.ycombinator.com/item?id=50073633",
+        "date": "il y a 11 h"
       }
     ]
   },
