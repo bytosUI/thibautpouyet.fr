@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T18:49:55.264Z",
+  "updatedAt": "2026-10-15T21:54:06.233Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 16,
-      "feelsLike": 17,
+      "temp": 14,
+      "feelsLike": 14,
       "code": 0,
-      "wind": 4,
-      "humidity": 85
+      "wind": 5,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -30,14 +30,23 @@
       },
       {
         "date": "2026-10-18",
-        "code": 3,
+        "code": 2,
         "tmax": 13,
-        "tmin": 6
+        "tmin": 5
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 113,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -166,7 +174,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 23 sem",
+        "time": "il y a 24 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       }
     ]
@@ -178,9 +186,19 @@
         "titleOriginal": "Muse Spark Open",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "research.meta.ai",
-        "score": 215,
-        "comments": 136,
+        "score": 493,
+        "comments": 288,
         "hnUrl": "https://news.ycombinator.com/item?id=50107379",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "Ce que j'héberge moi-même",
+        "titleOriginal": "What I Self-Host",
+        "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+        "source": "viceconsole.fyi",
+        "score": 57,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50109715",
         "date": "il y a 1 h"
       },
       {
@@ -188,30 +206,20 @@
         "titleOriginal": "Neural networks are clean",
         "url": "https://already-clean.goodfire.com/",
         "source": "already-clean.goodfire.com",
-        "score": 200,
-        "comments": 67,
+        "score": 391,
+        "comments": 137,
         "hnUrl": "https://news.ycombinator.com/item?id=50105647",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Krea 3 – Un modèle d'image conçu pour l'édition à grande échelle",
-        "titleOriginal": "Krea 3 – An image model built for editing at scale",
-        "url": "https://www.krea.ai/krea-3",
-        "source": "krea.ai",
-        "score": 130,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=50105648",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Ordinateur de bureau Wayland pour Linux avec conception skeuomorphique",
-        "titleOriginal": "Wayland desktop for Linux with skeuomorphic design",
-        "url": "https://github.com/fyzugx/DEsk",
-        "source": "github.com",
-        "score": 334,
-        "comments": 138,
-        "hnUrl": "https://news.ycombinator.com/item?id=50103338",
         "date": "il y a 5 h"
+      },
+      {
+        "title": "Les nouveaux utilisateurs Withings doivent payer 99 $ / an pour la synchronisation de la santé Apple",
+        "titleOriginal": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
+        "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+        "source": "support.withings.com",
+        "score": 82,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=50109375",
+        "date": "il y a 1 h"
       }
     ]
   },
