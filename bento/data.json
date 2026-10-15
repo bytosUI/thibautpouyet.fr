@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T04:58:15.924Z",
+  "updatedAt": "2026-10-15T09:39:48.076Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 8,
-      "feelsLike": 6,
+      "temp": 14,
+      "feelsLike": 14,
       "code": 2,
-      "wind": 3,
-      "humidity": 91
+      "wind": 5,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-10-16",
-        "code": 45,
+        "code": 61,
         "tmax": 21,
         "tmin": 9
       },
@@ -32,7 +32,7 @@
         "date": "2026-10-18",
         "code": 61,
         "tmax": 12,
-        "tmin": 6
+        "tmin": 5
       }
     ]
   },
@@ -52,6 +52,33 @@
   "youtube": {
     "videos": [
       {
+        "title": "IL A LE BILLET QUE SERGE GAINSBOURG A BRÛLÉ À LA TÉLÉVISION !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "yasxLY1x-C0",
+        "thumbnail": "https://i.ytimg.com/vi/yasxLY1x-C0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yasxLY1x-C0",
+        "publishedAt": "2026-10-15T09:00:26+00:00"
+      },
+      {
+        "title": "Le SaaS par siège est mort !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "UyoKu5m9UxY",
+        "thumbnail": "https://i.ytimg.com/vi/UyoKu5m9UxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UyoKu5m9UxY",
+        "publishedAt": "2026-10-15T08:00:03+00:00"
+      },
+      {
+        "title": "Le coup de gueule de Marine",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "WViZoBso6HY",
+        "thumbnail": "https://i.ytimg.com/vi/WViZoBso6HY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WViZoBso6HY",
+        "publishedAt": "2026-10-14T16:11:31+00:00"
+      },
+      {
         "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
         "channel": "Rachel & Emilien - Rénovation",
         "channelHandle": "racheletemilien",
@@ -61,6 +88,33 @@
         "publishedAt": "2026-10-11T16:27:17+00:00"
       },
       {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
         "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
         "channel": "SQUEEZIE",
         "channelHandle": "Squeezie",
@@ -68,6 +122,15 @@
         "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
         "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
       }
     ]
   },
@@ -115,40 +178,40 @@
         "titleOriginal": "Things to know when you get cancer",
         "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
         "source": "jjmaxwell4.com",
-        "score": 1016,
-        "comments": 240,
+        "score": 1351,
+        "comments": 332,
         "hnUrl": "https://news.ycombinator.com/item?id=50093568",
-        "date": "il y a 9 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "L'avenir des soins contre le cancer aujourd'hui (FCCT)",
-        "titleOriginal": "Future of Cancer Care Today (FCCT)",
-        "url": "https://sijbrandijfoundation.org/fcct",
-        "source": "sijbrandijfoundation.org",
-        "score": 41,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=50098702",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Une personne sur dix a plus de 65 ans. Trois sur quatre vivent sous un leader qui est",
-        "titleOriginal": "One in ten people are older than 65. Three in four live under a leader who is",
-        "url": "https://hannahritchie.substack.com/p/how-old-are-leaders",
-        "source": "hannahritchie.substack.com",
-        "score": 51,
-        "comments": 22,
-        "hnUrl": "https://news.ycombinator.com/item?id=50098570",
-        "date": "il y a 2 h"
+        "title": "Je voulais télécharger un ISO, j'ai fini par écrire un exploit du noyau",
+        "titleOriginal": "Wanted to download an ISO, ended up writing a kernel exploit",
+        "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+        "source": "blog.dfb.sh",
+        "score": 74,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=50070625",
+        "date": "hier"
       },
       {
         "title": "OpenCode 2.0",
         "titleOriginal": "OpenCode 2.0",
         "url": "https://anoma.ly/notes/opencode-2-0/",
         "source": "anoma.ly",
-        "score": 426,
-        "comments": 176,
+        "score": 608,
+        "comments": 238,
         "hnUrl": "https://news.ycombinator.com/item?id=50094994",
-        "date": "il y a 8 h"
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Création d'un « MCP » Garmin",
+        "titleOriginal": "Creating a Garmin \"MCP\"",
+        "url": "https://jackantico.io/garmin-mcp",
+        "source": "jackantico.io",
+        "score": 34,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=50081045",
+        "date": "hier"
       }
     ]
   },
@@ -322,17 +385,17 @@
         "id": "401918011",
         "date": "2026-10-15T02:30Z",
         "isPlayoff": false,
-        "state": "in",
-        "statusShort": "End of 4th",
-        "completed": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
         "home": {
           "id": "12",
           "abbr": "LAC",
           "name": "Clippers",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
           "score": 122,
-          "record": "1-1",
-          "winner": false
+          "record": "2-1",
+          "winner": true
         },
         "away": {
           "id": "7",
@@ -340,7 +403,7 @@
           "name": "Nuggets",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
           "score": 110,
-          "record": "2-1",
+          "record": "2-2",
           "winner": false
         },
         "series": null
