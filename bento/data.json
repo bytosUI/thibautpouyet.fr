@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-14T22:00:06.743Z",
+  "updatedAt": "2026-10-15T00:24:04.597Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 10,
-      "code": 3,
-      "wind": 2,
-      "humidity": 95
+      "temp": 8,
+      "feelsLike": 7,
+      "code": 45,
+      "wind": 3,
+      "humidity": 97
     },
     "forecast": [
       {
         "date": "2026-10-15",
         "code": 45,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 8
       },
       {
         "date": "2026-10-16",
         "code": 45,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 10
       },
       {
@@ -39,23 +39,16 @@
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 6364,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 53,
+        "viewers": 104,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -94,15 +87,6 @@
         "publishedAt": "2026-10-14T16:00:01+00:00"
       },
       {
-        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "qHStSosXa88",
-        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
-        "publishedAt": "2026-10-11T16:27:17+00:00"
-      },
-      {
         "title": "3 ans pour être autonome en eau, énergie et nourriture",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -128,15 +112,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
         "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
       },
       {
         "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
@@ -193,40 +168,40 @@
         "titleOriginal": "Things to know when you get cancer – 2026 Edition",
         "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
         "source": "jjmaxwell4.com",
-        "score": 440,
-        "comments": 105,
+        "score": 673,
+        "comments": 176,
         "hnUrl": "https://news.ycombinator.com/item?id=50093568",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
       },
       {
         "title": "OpenCode 2.0",
         "titleOriginal": "OpenCode 2.0",
         "url": "https://anoma.ly/notes/opencode-2-0/",
         "source": "anoma.ly",
-        "score": 92,
-        "comments": 25,
+        "score": 245,
+        "comments": 90,
         "hnUrl": "https://news.ycombinator.com/item?id=50094994",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Petit bureau",
+        "titleOriginal": "Tiny Little Office",
+        "url": "https://tinylittleoffice.com/",
+        "source": "tinylittleoffice.com",
+        "score": 89,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=50096142",
+        "date": "il y a 2 h"
       },
       {
         "title": "Nous publions Jev 1.14.0 avec des fonctionnalités expérimentales pour les rêveurs",
         "titleOriginal": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
         "url": "https://typesafe.ai/blog/jev-1-14",
         "source": "typesafe.ai",
-        "score": 53,
-        "comments": 19,
+        "score": 151,
+        "comments": 53,
         "hnUrl": "https://news.ycombinator.com/item?id=50095353",
-        "date": "il y a 49 min"
-      },
-      {
-        "title": "Les clés d'accès ne sont pas un piège",
-        "titleOriginal": "Passkeys are not a trap",
-        "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-        "source": "scotthelme.co.uk",
-        "score": 337,
-        "comments": 531,
-        "hnUrl": "https://news.ycombinator.com/item?id=50088935",
-        "date": "il y a 6 h"
+        "date": "il y a 3 h"
       }
     ]
   },
