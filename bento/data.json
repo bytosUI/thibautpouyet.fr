@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-15T09:39:48.076Z",
+  "updatedAt": "2026-10-15T14:36:56.833Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 14,
+      "temp": 21,
+      "feelsLike": 21,
       "code": 2,
-      "wind": 5,
-      "humidity": 73
+      "wind": 8,
+      "humidity": 61
     },
     "forecast": [
       {
@@ -18,9 +18,9 @@
       },
       {
         "date": "2026-10-16",
-        "code": 61,
+        "code": 45,
         "tmax": 21,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-10-17",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "League of Legends",
+        "viewers": 9550,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "IL A LE BILLET QUE SERGE GAINSBOURG A BRÛLÉ À LA TÉLÉVISION !",
+        "title": "LE VIN PRÉFÉRÉ DE NAPOLÉON !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "yasxLY1x-C0",
-        "thumbnail": "https://i.ytimg.com/vi/yasxLY1x-C0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yasxLY1x-C0",
-        "publishedAt": "2026-10-15T09:00:26+00:00"
+        "videoId": "oOSCST5eEzY",
+        "thumbnail": "https://i.ytimg.com/vi/oOSCST5eEzY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oOSCST5eEzY",
+        "publishedAt": "2026-10-15T14:00:39+00:00"
       },
       {
-        "title": "Le SaaS par siège est mort !",
+        "title": "ChatGPT et Claude vont-ils vider les logiciels ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "UyoKu5m9UxY",
-        "thumbnail": "https://i.ytimg.com/vi/UyoKu5m9UxY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UyoKu5m9UxY",
-        "publishedAt": "2026-10-15T08:00:03+00:00"
+        "videoId": "UKtjky3Tj3U",
+        "thumbnail": "https://i.ytimg.com/vi/UKtjky3Tj3U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UKtjky3Tj3U",
+        "publishedAt": "2026-10-15T10:00:21+00:00"
       },
       {
-        "title": "Le coup de gueule de Marine",
+        "title": "Qui a la meilleure note sur wikiFeet ?",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "WViZoBso6HY",
-        "thumbnail": "https://i.ytimg.com/vi/WViZoBso6HY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WViZoBso6HY",
-        "publishedAt": "2026-10-14T16:11:31+00:00"
+        "videoId": "9y2XbVFd3xU",
+        "thumbnail": "https://i.ytimg.com/vi/9y2XbVFd3xU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9y2XbVFd3xU",
+        "publishedAt": "2026-10-15T09:46:08+00:00"
       },
       {
         "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
@@ -154,13 +162,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 21 sem",
+        "time": "il y a 22 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 21 sem",
+        "time": "il y a 22 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Libreboot 26.10 \"Ominous Olive\" publié avec UEFI, support Chromebook",
+        "titleOriginal": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+        "url": "https://libreboot.org/news/libreboot2610.html",
+        "source": "libreboot.org",
+        "score": 101,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=50102923",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Annonces numériques de l'entreprise israélienne permettant l'installation de logiciels espions « zéro clic »",
+        "titleOriginal": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+        "source": "theguardian.com",
+        "score": 225,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=50103000",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "C++26 Contrats : Introduction aux conditions préalables et aux conditions postérieures",
+        "titleOriginal": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+        "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+        "source": "cppstories.com",
+        "score": 30,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50103164",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Choses à savoir lorsque vous avez un cancer",
         "titleOriginal": "Things to know when you get cancer",
         "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
         "source": "jjmaxwell4.com",
-        "score": 1351,
-        "comments": 332,
+        "score": 1689,
+        "comments": 403,
         "hnUrl": "https://news.ycombinator.com/item?id=50093568",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Je voulais télécharger un ISO, j'ai fini par écrire un exploit du noyau",
-        "titleOriginal": "Wanted to download an ISO, ended up writing a kernel exploit",
-        "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-        "source": "blog.dfb.sh",
-        "score": 74,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=50070625",
-        "date": "hier"
-      },
-      {
-        "title": "OpenCode 2.0",
-        "titleOriginal": "OpenCode 2.0",
-        "url": "https://anoma.ly/notes/opencode-2-0/",
-        "source": "anoma.ly",
-        "score": 608,
-        "comments": 238,
-        "hnUrl": "https://news.ycombinator.com/item?id=50094994",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Création d'un « MCP » Garmin",
-        "titleOriginal": "Creating a Garmin \"MCP\"",
-        "url": "https://jackantico.io/garmin-mcp",
-        "source": "jackantico.io",
-        "score": 34,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=50081045",
-        "date": "hier"
+        "date": "il y a 19 h"
       }
     ]
   },
