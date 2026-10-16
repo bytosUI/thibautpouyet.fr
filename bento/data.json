@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-16T18:14:45.555Z",
+  "updatedAt": "2026-10-16T21:28:05.082Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 17,
-      "feelsLike": 17,
-      "code": 3,
-      "wind": 5,
-      "humidity": 81
+      "temp": 14,
+      "feelsLike": 12,
+      "code": 61,
+      "wind": 15,
+      "humidity": 83
     },
     "forecast": [
       {
@@ -24,9 +24,9 @@
       },
       {
         "date": "2026-10-18",
-        "code": 3,
+        "code": 80,
         "tmax": 13,
-        "tmin": 4
+        "tmin": 5
       },
       {
         "date": "2026-10-19",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 202,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "90 % des heures de travail aux États-Unis sont consacrées à des tâches qui ne sont pas bien couvertes par les repères de l'IA",
-        "titleOriginal": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-        "source": "mercor.com",
-        "score": 91,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=50121179",
-        "date": "il y a 1 h"
+        "title": "Tesla Roaster:",
+        "titleOriginal": "Tesla Roadster",
+        "url": "https://www.tesla.com/roadster",
+        "source": "tesla.com",
+        "score": 911,
+        "comments": 1638,
+        "hnUrl": "https://news.ycombinator.com/item?id=50112657",
+        "date": "il y a 19 h"
       },
       {
-        "title": "Apple ML Research : Muse Spark Open avec MLX sur Mac Studio",
-        "titleOriginal": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-        "source": "machinelearning.apple.com",
-        "score": 175,
-        "comments": 82,
-        "hnUrl": "https://news.ycombinator.com/item?id=50118320",
-        "date": "il y a 4 h"
+        "title": "Claude révèle les origines de la courbe ECDSA",
+        "titleOriginal": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "source": "anthropic.com",
+        "score": 416,
+        "comments": 174,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122800",
+        "date": "il y a 2 h"
       },
       {
-        "title": "J'adore le rendu logiciel",
-        "titleOriginal": "I Love Software Rendering",
-        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-        "source": "jamesfmackenzie.com",
-        "score": 226,
-        "comments": 153,
-        "hnUrl": "https://news.ycombinator.com/item?id=50117746",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "Show HN : Gemini 4 Argon joue à StarCraft",
-        "titleOriginal": "Show HN: Gemini 4 Argon plays StarCraft",
-        "url": "https://starskirmish.com/bench/v0-2/",
-        "source": "starskirmish.com",
+        "title": "Llama.cpp sur une PS5 jailbreakée : exécutez n'importe quel modèle GGUF nativement sur la console",
+        "titleOriginal": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+        "url": "https://github.com/cobanov/PS5LM",
+        "source": "github.com",
         "score": 113,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=50118688",
-        "date": "il y a 3 h"
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122431",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Flux 3 Image Klein : poids ouverts, paramètres 5,6B",
+        "titleOriginal": "Flux 3 Image Klein: open weights, 5.6B parameters",
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "source": "bfl.ai",
+        "score": 39,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=50123580",
+        "date": "il y a 1 h"
       }
     ]
   },
