@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-16T04:47:30.994Z",
+  "updatedAt": "2026-10-16T09:26:21.987Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
-      "code": 45,
-      "wind": 4,
-      "humidity": 97
+      "temp": 15,
+      "feelsLike": 15,
+      "code": 2,
+      "wind": 5,
+      "humidity": 80
     },
     "forecast": [
       {
         "date": "2026-10-16",
         "code": 61,
-        "tmax": 22,
+        "tmax": 21,
         "tmin": 9
       },
       {
@@ -26,7 +26,7 @@
         "date": "2026-10-18",
         "code": 3,
         "tmax": 13,
-        "tmin": 6
+        "tmin": 5
       },
       {
         "date": "2026-10-19",
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "LES NOUVEAUX CRIMINELS 3.0: COMMENT FONT-ILS POUR GAGNER DES MILLIONS ? (KIDNAPPING, CRYPTOMONNAIES)",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "rvdsybS0Lgk",
+        "thumbnail": "https://i.ytimg.com/vi/rvdsybS0Lgk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rvdsybS0Lgk",
+        "publishedAt": "2026-10-16T09:00:07+00:00"
+      },
+      {
+        "title": "L’école comme puits de savoir, c’est fini !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "4u2Rb1RD9YQ",
+        "thumbnail": "https://i.ytimg.com/vi/4u2Rb1RD9YQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4u2Rb1RD9YQ",
+        "publishedAt": "2026-10-16T08:00:33+00:00"
+      },
+      {
+        "title": "Qui a la meilleure note sur wikiFeet ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "9y2XbVFd3xU",
+        "thumbnail": "https://i.ytimg.com/vi/9y2XbVFd3xU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9y2XbVFd3xU",
+        "publishedAt": "2026-10-15T09:46:08+00:00"
+      },
+      {
+        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "qHStSosXa88",
+        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
+        "publishedAt": "2026-10-11T16:27:17+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les nouvelles conditions commerciales de Meta permettront le grattage des sites d'actualités : experts",
+        "titleOriginal": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+        "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+        "source": "niemanlab.org",
+        "score": 280,
+        "comments": 102,
+        "hnUrl": "https://news.ycombinator.com/item?id=50111852",
+        "date": "il y a 9 h"
+      },
+      {
         "title": "Étincelle Muse ouverte",
         "titleOriginal": "Muse Spark Open",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "research.meta.ai",
-        "score": 695,
-        "comments": 374,
+        "score": 805,
+        "comments": 401,
         "hnUrl": "https://news.ycombinator.com/item?id=50107379",
-        "date": "il y a 10 h"
+        "date": "il y a 15 h"
       },
       {
-        "title": "N'importe quelle fenêtre de votre Mac, sur votre iPhone et iPad",
-        "titleOriginal": "Any window from your Mac, on your iPhone and iPad",
-        "url": "https://github.com/Saffsanity/sill",
-        "source": "github.com",
-        "score": 77,
+        "title": "La femme qui a sauvé le corbeau blessé continue de recevoir des « cadeaux de remerciement » de la part des oiseaux [vidéo]",
+        "titleOriginal": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+        "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+        "source": "youtube.com",
+        "score": 276,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=50065859",
+        "date": "il y a 3 j"
+      },
+      {
+        "title": "Le délit d'initié que vous êtes autorisé à commettre",
+        "titleOriginal": "The insider trading you're allowed to do",
+        "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
+        "source": "coached.com",
+        "score": 18,
         "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=50112739",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "RPKI protège désormais 70 % des routes Internet",
-        "titleOriginal": "RPKI now protects 70% of internet routes",
-        "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-        "source": "ipinfo.io",
-        "score": 84,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=50112330",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Les comptes d'entreprise consentiront à ce que Meta récupère leurs sites Web à partir du 30 octobre",
-        "titleOriginal": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-        "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-        "source": "niemanlab.org",
-        "score": 114,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=50111852",
-        "date": "il y a 5 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=50115144",
+        "date": "il y a 2 h"
       }
     ]
   },
