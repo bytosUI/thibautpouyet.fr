@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-16T09:26:21.987Z",
+  "updatedAt": "2026-10-16T14:06:07.919Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 15,
+      "temp": 20,
+      "feelsLike": 19,
       "code": 2,
-      "wind": 5,
-      "humidity": 80
+      "wind": 12,
+      "humidity": 69
     },
     "forecast": [
       {
         "date": "2026-10-16",
-        "code": 61,
+        "code": 45,
         "tmax": 21,
         "tmin": 9
       },
@@ -26,13 +26,13 @@
         "date": "2026-10-18",
         "code": 3,
         "tmax": 13,
-        "tmin": 5
+        "tmin": 4
       },
       {
         "date": "2026-10-19",
         "code": 61,
-        "tmax": 15,
-        "tmin": 7
+        "tmax": 13,
+        "tmin": 8
       }
     ]
   },
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES NOUVEAUX CRIMINELS 3.0: COMMENT FONT-ILS POUR GAGNER DES MILLIONS ? (KIDNAPPING, CRYPTOMONNAIES)",
+        "title": "CRYPTOMONNAIE : IL Y A UNE TENTATIVE D'ENLÈVEMENT TOUS LES TROIS JOURS EN FRANCE",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "rvdsybS0Lgk",
-        "thumbnail": "https://i.ytimg.com/vi/rvdsybS0Lgk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rvdsybS0Lgk",
-        "publishedAt": "2026-10-16T09:00:07+00:00"
+        "videoId": "G5N0t_XzEf8",
+        "thumbnail": "https://i.ytimg.com/vi/G5N0t_XzEf8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G5N0t_XzEf8",
+        "publishedAt": "2026-10-16T12:00:10+00:00"
       },
       {
-        "title": "L’école comme puits de savoir, c’est fini !",
+        "title": "France : IA interdite. Chine : obligatoire dès 6 ans !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "4u2Rb1RD9YQ",
-        "thumbnail": "https://i.ytimg.com/vi/4u2Rb1RD9YQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4u2Rb1RD9YQ",
-        "publishedAt": "2026-10-16T08:00:33+00:00"
+        "videoId": "KTIGAO06ajM",
+        "thumbnail": "https://i.ytimg.com/vi/KTIGAO06ajM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KTIGAO06ajM",
+        "publishedAt": "2026-10-16T10:00:02+00:00"
       },
       {
         "title": "Qui a la meilleure note sur wikiFeet ?",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les nouvelles conditions commerciales de Meta permettront le grattage des sites d'actualités : experts",
-        "titleOriginal": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-        "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-        "source": "niemanlab.org",
-        "score": 280,
-        "comments": 102,
-        "hnUrl": "https://news.ycombinator.com/item?id=50111852",
-        "date": "il y a 9 h"
+        "title": "J'adore le rendu logiciel",
+        "titleOriginal": "I Love Software Rendering",
+        "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+        "source": "jamesfmackenzie.com",
+        "score": 74,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=50117746",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Étincelle Muse ouverte",
-        "titleOriginal": "Muse Spark Open",
-        "url": "https://research.meta.ai/blog/muse-spark-open",
-        "source": "research.meta.ai",
-        "score": 805,
-        "comments": 401,
-        "hnUrl": "https://news.ycombinator.com/item?id=50107379",
-        "date": "il y a 15 h"
+        "title": "Encore une autre façon d'invoquer des fonctions sans parenthèses",
+        "titleOriginal": "Yet another way to invoke functions without parentheses",
+        "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+        "source": "blog.ikaes.de",
+        "score": 157,
+        "comments": 52,
+        "hnUrl": "https://news.ycombinator.com/item?id=50077225",
+        "date": "il y a 2 j"
       },
       {
         "title": "La femme qui a sauvé le corbeau blessé continue de recevoir des « cadeaux de remerciement » de la part des oiseaux [vidéo]",
         "titleOriginal": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
         "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
         "source": "youtube.com",
-        "score": 276,
-        "comments": 78,
+        "score": 576,
+        "comments": 182,
         "hnUrl": "https://news.ycombinator.com/item?id=50065859",
         "date": "il y a 3 j"
       },
       {
-        "title": "Le délit d'initié que vous êtes autorisé à commettre",
-        "titleOriginal": "The insider trading you're allowed to do",
-        "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-        "source": "coached.com",
-        "score": 18,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=50115144",
-        "date": "il y a 2 h"
+        "title": "La complexité économique de l'Empire romain d'Occident",
+        "titleOriginal": "The Economic Complexity of the Western Roman Empire",
+        "url": "https://www.michelecoscia.com/?p=2613",
+        "source": "michelecoscia.com",
+        "score": 83,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=50084790",
+        "date": "il y a 2 j"
       }
     ]
   },
