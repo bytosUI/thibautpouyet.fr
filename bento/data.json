@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-10-16T21:28:05.082Z",
+  "updatedAt": "2026-10-16T23:46:06.435Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 12,
+      "temp": 12,
+      "feelsLike": 11,
       "code": 61,
-      "wind": 15,
-      "humidity": 83
+      "wind": 14,
+      "humidity": 86
     },
     "forecast": [
-      {
-        "date": "2026-10-16",
-        "code": 45,
-        "tmax": 21,
-        "tmin": 9
-      },
       {
         "date": "2026-10-17",
         "code": 61,
@@ -24,29 +18,26 @@
       },
       {
         "date": "2026-10-18",
-        "code": 80,
+        "code": 2,
         "tmax": 13,
-        "tmin": 5
+        "tmin": 4
       },
       {
         "date": "2026-10-19",
         "code": 61,
         "tmax": 13,
-        "tmin": 2
+        "tmin": 1
+      },
+      {
+        "date": "2026-10-20",
+        "code": 61,
+        "tmax": 14,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 202,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,47 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "LES VENTES DU SHOP DE LA TOURNÉE EXPLOSENT !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "VADW4sLyhYc",
-        "thumbnail": "https://i.ytimg.com/vi/VADW4sLyhYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VADW4sLyhYc",
-        "publishedAt": "2026-10-16T16:30:36+00:00"
-      },
-      {
-        "title": "L'AFTER WORK : Le FBI chez OpenAI, des zombies à SF & GPT-6 au drive !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "yp-jsJvogk8",
-        "thumbnail": "https://i.ytimg.com/vi/yp-jsJvogk8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yp-jsJvogk8",
-        "publishedAt": "2026-10-16T16:00:35+00:00"
-      },
-      {
-        "title": "Notre Tier List des défauts (ft @theodortytb)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "_IVxd2PFjaw",
-        "thumbnail": "https://i.ytimg.com/vi/_IVxd2PFjaw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_IVxd2PFjaw",
-        "publishedAt": "2026-10-16T15:52:11+00:00"
-      },
-      {
-        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "qHStSosXa88",
-        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
-        "publishedAt": "2026-10-11T16:27:17+00:00"
-      },
       {
         "title": "3 ans pour être autonome en eau, énergie et nourriture",
         "channel": "Paulygones",
@@ -103,42 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
         "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "2vJ0CjJqPjA",
-        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
-        "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
       }
     ]
   },
@@ -186,40 +106,40 @@
         "titleOriginal": "Tesla Roadster",
         "url": "https://www.tesla.com/roadster",
         "source": "tesla.com",
-        "score": 911,
-        "comments": 1638,
+        "score": 1094,
+        "comments": 1993,
         "hnUrl": "https://news.ycombinator.com/item?id=50112657",
-        "date": "il y a 19 h"
+        "date": "il y a 22 h"
       },
       {
         "title": "Claude révèle les origines de la courbe ECDSA",
         "titleOriginal": "Claude reveals ECDSA curve origins",
         "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
         "source": "anthropic.com",
-        "score": 416,
-        "comments": 174,
+        "score": 579,
+        "comments": 247,
         "hnUrl": "https://news.ycombinator.com/item?id=50122800",
-        "date": "il y a 2 h"
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "FLUX 3 Image Klein",
+        "titleOriginal": "FLUX 3 Image Klein",
+        "url": "https://bfl.ai/blog/flux-3-image-klein",
+        "source": "bfl.ai",
+        "score": 87,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=50123580",
+        "date": "il y a 3 h"
       },
       {
         "title": "Llama.cpp sur une PS5 jailbreakée : exécutez n'importe quel modèle GGUF nativement sur la console",
         "titleOriginal": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "github.com",
-        "score": 113,
-        "comments": 31,
+        "score": 154,
+        "comments": 44,
         "hnUrl": "https://news.ycombinator.com/item?id=50122431",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Flux 3 Image Klein : poids ouverts, paramètres 5,6B",
-        "titleOriginal": "Flux 3 Image Klein: open weights, 5.6B parameters",
-        "url": "https://bfl.ai/blog/flux-3-image-klein",
-        "source": "bfl.ai",
-        "score": 39,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=50123580",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       }
     ]
   },
