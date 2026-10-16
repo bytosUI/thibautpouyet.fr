@@ -1,31 +1,25 @@
 {
-  "updatedAt": "2026-10-15T21:54:06.233Z",
+  "updatedAt": "2026-10-16T00:00:18.622Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 14,
-      "code": 0,
+      "temp": 12,
+      "feelsLike": 12,
+      "code": 1,
       "wind": 5,
-      "humidity": 90
+      "humidity": 92
     },
     "forecast": [
       {
-        "date": "2026-10-15",
-        "code": 45,
-        "tmax": 21,
-        "tmin": 7
-      },
-      {
         "date": "2026-10-16",
         "code": 45,
-        "tmax": 22,
+        "tmax": 20,
         "tmin": 10
       },
       {
         "date": "2026-10-17",
         "code": 61,
-        "tmax": 15,
+        "tmax": 16,
         "tmin": 8
       },
       {
@@ -33,20 +27,17 @@
         "code": 2,
         "tmax": 13,
         "tmin": 5
+      },
+      {
+        "date": "2026-10-19",
+        "code": 45,
+        "tmax": 14,
+        "tmin": 1
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 113,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "Muse Spark Open",
         "url": "https://research.meta.ai/blog/muse-spark-open",
         "source": "research.meta.ai",
-        "score": 493,
-        "comments": 288,
+        "score": 576,
+        "comments": 326,
         "hnUrl": "https://news.ycombinator.com/item?id=50107379",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
         "title": "Ce que j'héberge moi-même",
         "titleOriginal": "What I Self-Host",
         "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
         "source": "viceconsole.fyi",
-        "score": 57,
-        "comments": 26,
+        "score": 194,
+        "comments": 101,
         "hnUrl": "https://news.ycombinator.com/item?id=50109715",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
       },
       {
         "title": "Les réseaux neuronaux sont propres",
         "titleOriginal": "Neural networks are clean",
         "url": "https://already-clean.goodfire.com/",
         "source": "already-clean.goodfire.com",
-        "score": 391,
-        "comments": 137,
+        "score": 466,
+        "comments": 178,
         "hnUrl": "https://news.ycombinator.com/item?id=50105647",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Les nouveaux utilisateurs Withings doivent payer 99 $ / an pour la synchronisation de la santé Apple",
-        "titleOriginal": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-        "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-        "source": "support.withings.com",
-        "score": 82,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=50109375",
-        "date": "il y a 1 h"
+        "title": "Quelqu'un sur les sites Torrent a continué à baiser avec My Sonarr",
+        "titleOriginal": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+        "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+        "source": "thereallo.dev",
+        "score": 186,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=50108872",
+        "date": "il y a 4 h"
       }
     ]
   },
