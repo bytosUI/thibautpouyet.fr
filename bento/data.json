@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-16T14:06:07.919Z",
+  "updatedAt": "2026-10-16T18:14:45.555Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 20,
-      "feelsLike": 19,
-      "code": 2,
-      "wind": 12,
-      "humidity": 69
+      "temp": 17,
+      "feelsLike": 17,
+      "code": 3,
+      "wind": 5,
+      "humidity": 81
     },
     "forecast": [
       {
@@ -32,7 +32,7 @@
         "date": "2026-10-19",
         "code": 61,
         "tmax": 13,
-        "tmin": 8
+        "tmin": 2
       }
     ]
   },
@@ -52,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "CRYPTOMONNAIE : IL Y A UNE TENTATIVE D'ENLÈVEMENT TOUS LES TROIS JOURS EN FRANCE",
+        "title": "LES VENTES DU SHOP DE LA TOURNÉE EXPLOSENT !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "G5N0t_XzEf8",
-        "thumbnail": "https://i.ytimg.com/vi/G5N0t_XzEf8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G5N0t_XzEf8",
-        "publishedAt": "2026-10-16T12:00:10+00:00"
+        "videoId": "VADW4sLyhYc",
+        "thumbnail": "https://i.ytimg.com/vi/VADW4sLyhYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VADW4sLyhYc",
+        "publishedAt": "2026-10-16T16:30:36+00:00"
       },
       {
-        "title": "France : IA interdite. Chine : obligatoire dès 6 ans !",
+        "title": "L'AFTER WORK : Le FBI chez OpenAI, des zombies à SF & GPT-6 au drive !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "KTIGAO06ajM",
-        "thumbnail": "https://i.ytimg.com/vi/KTIGAO06ajM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KTIGAO06ajM",
-        "publishedAt": "2026-10-16T10:00:02+00:00"
+        "videoId": "yp-jsJvogk8",
+        "thumbnail": "https://i.ytimg.com/vi/yp-jsJvogk8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yp-jsJvogk8",
+        "publishedAt": "2026-10-16T16:00:35+00:00"
       },
       {
-        "title": "Qui a la meilleure note sur wikiFeet ?",
+        "title": "Notre Tier List des défauts (ft @theodortytb)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "9y2XbVFd3xU",
-        "thumbnail": "https://i.ytimg.com/vi/9y2XbVFd3xU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9y2XbVFd3xU",
-        "publishedAt": "2026-10-15T09:46:08+00:00"
+        "videoId": "_IVxd2PFjaw",
+        "thumbnail": "https://i.ytimg.com/vi/_IVxd2PFjaw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_IVxd2PFjaw",
+        "publishedAt": "2026-10-16T15:52:11+00:00"
       },
       {
         "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "90 % des heures de travail aux États-Unis sont consacrées à des tâches qui ne sont pas bien couvertes par les repères de l'IA",
+        "titleOriginal": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+        "source": "mercor.com",
+        "score": 91,
+        "comments": 57,
+        "hnUrl": "https://news.ycombinator.com/item?id=50121179",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Apple ML Research : Muse Spark Open avec MLX sur Mac Studio",
+        "titleOriginal": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+        "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+        "source": "machinelearning.apple.com",
+        "score": 175,
+        "comments": 82,
+        "hnUrl": "https://news.ycombinator.com/item?id=50118320",
+        "date": "il y a 4 h"
+      },
+      {
         "title": "J'adore le rendu logiciel",
         "titleOriginal": "I Love Software Rendering",
         "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
         "source": "jamesfmackenzie.com",
-        "score": 74,
-        "comments": 43,
+        "score": 226,
+        "comments": 153,
         "hnUrl": "https://news.ycombinator.com/item?id=50117746",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Encore une autre façon d'invoquer des fonctions sans parenthèses",
-        "titleOriginal": "Yet another way to invoke functions without parentheses",
-        "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-        "source": "blog.ikaes.de",
-        "score": 157,
+        "title": "Show HN : Gemini 4 Argon joue à StarCraft",
+        "titleOriginal": "Show HN: Gemini 4 Argon plays StarCraft",
+        "url": "https://starskirmish.com/bench/v0-2/",
+        "source": "starskirmish.com",
+        "score": 113,
         "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=50077225",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "La femme qui a sauvé le corbeau blessé continue de recevoir des « cadeaux de remerciement » de la part des oiseaux [vidéo]",
-        "titleOriginal": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-        "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-        "source": "youtube.com",
-        "score": 576,
-        "comments": 182,
-        "hnUrl": "https://news.ycombinator.com/item?id=50065859",
-        "date": "il y a 3 j"
-      },
-      {
-        "title": "La complexité économique de l'Empire romain d'Occident",
-        "titleOriginal": "The Economic Complexity of the Western Roman Empire",
-        "url": "https://www.michelecoscia.com/?p=2613",
-        "source": "michelecoscia.com",
-        "score": 83,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=50084790",
-        "date": "il y a 2 j"
+        "hnUrl": "https://news.ycombinator.com/item?id=50118688",
+        "date": "il y a 3 h"
       }
     ]
   },
