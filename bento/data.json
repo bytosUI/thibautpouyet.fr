@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T17:42:08.349Z",
+  "updatedAt": "2026-10-17T19:58:22.936Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 10,
+      "temp": 10,
+      "feelsLike": 8,
       "code": 1,
       "wind": 11,
-      "humidity": 65
+      "humidity": 76
     },
     "forecast": [
       {
@@ -25,8 +25,8 @@
       {
         "date": "2026-10-19",
         "code": 45,
-        "tmax": 15,
-        "tmin": 7
+        "tmax": 16,
+        "tmin": 6
       },
       {
         "date": "2026-10-20",
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 113,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,8 +54,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -174,43 +182,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le GLP-1 peut ralentir le vieillissement biologique",
-        "titleOriginal": "GLP-1 may slow biological aging",
-        "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
-        "source": "universityofcalifornia.edu",
-        "score": 103,
-        "comments": 74,
-        "hnUrl": "https://news.ycombinator.com/item?id=50132328",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Rendre le poulet transparent à l'aide de la poussière de Dorito",
-        "titleOriginal": "Making Chicken Transparent Using Dorito Dust",
-        "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-        "source": "chillphysicsenjoyer.substack.com",
-        "score": 134,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=50131213",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "titleOriginal": "DeepSeek-v4.1-Flash-1017",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "huggingface.co",
-        "score": 438,
-        "comments": 445,
-        "hnUrl": "https://news.ycombinator.com/item?id=50129045",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Furifont, une police japonaise qui montre le furigana",
-        "titleOriginal": "Furifont, a Japanese font that shows furigana",
-        "url": "https://furifont.antfu.me/",
-        "source": "furifont.antfu.me",
-        "score": 43,
+        "title": "Les coraux blanchis prospèrent en quelques jours lorsqu'ils touchent un voisin en bonne santé",
+        "titleOriginal": "Bleached corals thrive within days when touching healthy neighbour",
+        "url": "https://www.nature.com/articles/d41586-026-03266-x",
+        "source": "nature.com",
+        "score": 98,
         "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50100994",
+        "hnUrl": "https://news.ycombinator.com/item?id=50126253",
+        "date": "il y a 20 h"
+      },
+      {
+        "title": "L'or est maintenant la principale exportation américaine",
+        "titleOriginal": "Gold is now the top U.S. export",
+        "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+        "source": "numismaticnews.net",
+        "score": 75,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50132870",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Code source du système de vote en ligne estonien",
+        "titleOriginal": "Source code of the Estonian online voting system",
+        "url": "https://github.com/valimised/ivxv",
+        "source": "github.com",
+        "score": 60,
+        "comments": 22,
+        "hnUrl": "https://news.ycombinator.com/item?id=50127586",
+        "date": "il y a 16 h"
+      },
+      {
+        "title": "Le simulateur matériel Commodore 64 : cassez les puces et les broches, voir les résultats",
+        "titleOriginal": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+        "url": "https://github.com/antirez/c64-hw-simulator",
+        "source": "github.com",
+        "score": 65,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=50100366",
         "date": "il y a 2 j"
       }
     ]
