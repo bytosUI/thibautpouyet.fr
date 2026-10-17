@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-17T14:49:17.699Z",
+  "updatedAt": "2026-10-17T17:42:08.349Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 15,
-      "feelsLike": 11,
+      "temp": 12,
+      "feelsLike": 10,
       "code": 1,
-      "wind": 19,
-      "humidity": 51
+      "wind": 11,
+      "humidity": 65
     },
     "forecast": [
       {
@@ -31,8 +31,8 @@
       {
         "date": "2026-10-20",
         "code": 61,
-        "tmax": 15,
-        "tmin": 7
+        "tmax": 13,
+        "tmin": 10
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LES NÉERLANDAIS SONT-ILS RADINS ?",
+        "title": "KATIA A RENCONTRÉ PHILIPPE BOXHO !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "LicB7tdngcs",
-        "thumbnail": "https://i.ytimg.com/vi/LicB7tdngcs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LicB7tdngcs",
-        "publishedAt": "2026-10-17T14:00:03+00:00"
+        "videoId": "LEQDTnFPmtg",
+        "thumbnail": "https://i.ytimg.com/vi/LEQDTnFPmtg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LEQDTnFPmtg",
+        "publishedAt": "2026-10-17T14:45:27+00:00"
       },
       {
         "title": "L'AFTER WORK : Le FBI chez OpenAI, des zombies à SF & GPT-6 au drive !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "DeepSeek : DeepSeek v4.1 Flash 1017",
-        "titleOriginal": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "source": "openrouter.ai",
-        "score": 408,
-        "comments": 188,
-        "hnUrl": "https://news.ycombinator.com/item?id=50129121",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Solar surpasse l'énergie nucléaire dans le monde pour la première fois – pv magazine Global",
-        "titleOriginal": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-        "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-        "source": "pv-magazine.com",
-        "score": 72,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=50131256",
-        "date": "il y a 48 min"
+        "title": "Le GLP-1 peut ralentir le vieillissement biologique",
+        "titleOriginal": "GLP-1 may slow biological aging",
+        "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+        "source": "universityofcalifornia.edu",
+        "score": 103,
+        "comments": 74,
+        "hnUrl": "https://news.ycombinator.com/item?id=50132328",
+        "date": "il y a 1 h"
       },
       {
         "title": "Rendre le poulet transparent à l'aide de la poussière de Dorito",
         "titleOriginal": "Making Chicken Transparent Using Dorito Dust",
         "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
         "source": "chillphysicsenjoyer.substack.com",
-        "score": 21,
-        "comments": 6,
+        "score": 134,
+        "comments": 43,
         "hnUrl": "https://news.ycombinator.com/item?id=50131213",
-        "date": "il y a 53 min"
+        "date": "il y a 3 h"
       },
       {
-        "title": "Ultramarine 1 Flash",
-        "titleOriginal": "Ultramarine 1 Flash",
-        "url": "https://www.paperinstruments.com/ultramarine",
-        "source": "paperinstruments.com",
-        "score": 315,
-        "comments": 100,
-        "hnUrl": "https://news.ycombinator.com/item?id=50106747",
-        "date": "hier"
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "titleOriginal": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "source": "huggingface.co",
+        "score": 438,
+        "comments": 445,
+        "hnUrl": "https://news.ycombinator.com/item?id=50129045",
+        "date": "il y a 9 h"
+      },
+      {
+        "title": "Furifont, une police japonaise qui montre le furigana",
+        "titleOriginal": "Furifont, a Japanese font that shows furigana",
+        "url": "https://furifont.antfu.me/",
+        "source": "furifont.antfu.me",
+        "score": 43,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=50100994",
+        "date": "il y a 2 j"
       }
     ]
   },
