@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-16T23:46:06.435Z",
+  "updatedAt": "2026-10-17T02:38:10.353Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 11,
-      "code": 61,
+      "temp": 11,
+      "feelsLike": 9,
+      "code": 3,
       "wind": 14,
       "humidity": 86
     },
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-10-18",
-        "code": 2,
+        "code": 80,
         "tmax": 13,
         "tmin": 4
       },
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -106,40 +96,40 @@
         "titleOriginal": "Tesla Roadster",
         "url": "https://www.tesla.com/roadster",
         "source": "tesla.com",
-        "score": 1094,
-        "comments": 1993,
+        "score": 1226,
+        "comments": 2204,
         "hnUrl": "https://news.ycombinator.com/item?id=50112657",
-        "date": "il y a 22 h"
+        "date": "hier"
       },
       {
-        "title": "Claude révèle les origines de la courbe ECDSA",
-        "titleOriginal": "Claude reveals ECDSA curve origins",
-        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-        "source": "anthropic.com",
-        "score": 579,
-        "comments": 247,
-        "hnUrl": "https://news.ycombinator.com/item?id=50122800",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "FLUX 3 Image Klein",
-        "titleOriginal": "FLUX 3 Image Klein",
-        "url": "https://bfl.ai/blog/flux-3-image-klein",
-        "source": "bfl.ai",
-        "score": 87,
-        "comments": 18,
-        "hnUrl": "https://news.ycombinator.com/item?id=50123580",
-        "date": "il y a 3 h"
+        "title": "Djihad butlérien",
+        "titleOriginal": "Butlerian Jihad",
+        "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+        "source": "dune.fandom.com",
+        "score": 26,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=50127274",
+        "date": "il y a 16 min"
       },
       {
         "title": "Llama.cpp sur une PS5 jailbreakée : exécutez n'importe quel modèle GGUF nativement sur la console",
         "titleOriginal": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
         "url": "https://github.com/cobanov/PS5LM",
         "source": "github.com",
-        "score": 154,
-        "comments": 44,
+        "score": 212,
+        "comments": 56,
         "hnUrl": "https://news.ycombinator.com/item?id=50122431",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Claude révèle les origines de la courbe ECDSA",
+        "titleOriginal": "Claude reveals ECDSA curve origins",
+        "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+        "source": "anthropic.com",
+        "score": 706,
+        "comments": 274,
+        "hnUrl": "https://news.ycombinator.com/item?id=50122800",
+        "date": "il y a 7 h"
       }
     ]
   },
