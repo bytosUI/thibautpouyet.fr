@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-18T04:53:23.551Z",
+  "updatedAt": "2026-10-18T09:17:04.585Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 5,
-      "feelsLike": 2,
-      "code": 1,
-      "wind": 9,
-      "humidity": 95
+      "temp": 9,
+      "feelsLike": 6,
+      "code": 2,
+      "wind": 11,
+      "humidity": 77
     },
     "forecast": [
       {
@@ -19,19 +19,19 @@
       {
         "date": "2026-10-19",
         "code": 45,
-        "tmax": 16,
+        "tmax": 15,
         "tmin": 6
       },
       {
         "date": "2026-10-20",
-        "code": 63,
-        "tmax": 13,
-        "tmin": 10
+        "code": 61,
+        "tmax": 14,
+        "tmin": 9
       },
       {
         "date": "2026-10-21",
-        "code": 80,
-        "tmax": 12,
+        "code": 61,
+        "tmax": 15,
         "tmin": 7
       }
     ]
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "THIERRY LHERMITTE : RETROUVAILLES AVEC MIMI-SIKU D’UN INDIEN DANS LA VILLE ET SES FOLLES ANECDOTES",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Zs1pcn3C8gs",
+        "thumbnail": "https://i.ytimg.com/vi/Zs1pcn3C8gs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zs1pcn3C8gs",
+        "publishedAt": "2026-10-18T09:00:10+00:00"
+      },
+      {
+        "title": "L'AFTER WORK : Le FBI chez OpenAI, des zombies à SF & GPT-6 au drive !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "yp-jsJvogk8",
+        "thumbnail": "https://i.ytimg.com/vi/yp-jsJvogk8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yp-jsJvogk8",
+        "publishedAt": "2026-10-16T16:00:35+00:00"
+      },
+      {
+        "title": "Notre Tier List des défauts (ft @theodortytb)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "_IVxd2PFjaw",
+        "thumbnail": "https://i.ytimg.com/vi/_IVxd2PFjaw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_IVxd2PFjaw",
+        "publishedAt": "2026-10-16T15:52:11+00:00"
+      },
+      {
+        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "qHStSosXa88",
+        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
+        "publishedAt": "2026-10-11T16:27:17+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "Acheter des formations sans les suivre...",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "R0UDcFjX2CA",
+        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
+        "publishedAt": "2026-10-08T10:00:06+00:00"
+      },
+      {
+        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "2vJ0CjJqPjA",
+        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
+        "publishedAt": "2026-10-07T16:00:13+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,43 +174,43 @@
   "hackernews": {
     "items": [
       {
+        "title": "Recherche et récupération DeepSeek – 0,75 $ par 1 000 demandes réussies",
+        "titleOriginal": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "source": "api-docs.deepseek.com",
+        "score": 163,
+        "comments": 70,
+        "hnUrl": "https://news.ycombinator.com/item?id=50138531",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Show HN : Sphinx – Un crochet qui vous interroge sur le code de votre IA avant l'expédition",
+        "titleOriginal": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "source": "sphinx-six-theta.vercel.app",
+        "score": 115,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=50137950",
+        "date": "il y a 4 h"
+      },
+      {
+        "title": "En quoi le documentaire d'Elizabeth Holmes « You Can See Everything » est trompeur",
+        "titleOriginal": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "readtheprofile.com",
+        "score": 130,
+        "comments": 125,
+        "hnUrl": "https://news.ycombinator.com/item?id=50137620",
+        "date": "il y a 5 h"
+      },
+      {
         "title": "Les coraux blanchis prospèrent en quelques jours lorsqu'ils touchent un voisin en bonne santé",
         "titleOriginal": "Bleached corals thrive within days when touching healthy neighbour",
         "url": "https://www.nature.com/articles/d41586-026-03266-x",
         "source": "nature.com",
-        "score": 385,
-        "comments": 81,
+        "score": 446,
+        "comments": 99,
         "hnUrl": "https://news.ycombinator.com/item?id=50126253",
-        "date": "hier"
-      },
-      {
-        "title": "Comment le Doc Elizabeth Holmes « Vous pouvez tout voir » vous trompe",
-        "titleOriginal": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-        "source": "readtheprofile.com",
-        "score": 28,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=50137620",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Lean est maintenant livré avec des noyaux vérifiés",
-        "titleOriginal": "Lean now ships with verified kernels",
-        "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-        "source": "leodemoura.github.io",
-        "score": 64,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=50114758",
-        "date": "hier"
-      },
-      {
-        "title": "L'enlèvement des barrages ramène les poissons à travers le nord-est des États-Unis",
-        "titleOriginal": "Dam removals are bringing fish back across the northeastern United States",
-        "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-        "source": "smithsonianmag.com",
-        "score": 241,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=50126312",
         "date": "hier"
       }
     ]
@@ -311,7 +393,7 @@
           "abbr": "MEM",
           "name": "Grizzlies",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-          "score": 117,
+          "score": 116,
           "record": "3-1",
           "winner": true
         },
