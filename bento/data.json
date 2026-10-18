@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-18T00:07:42.068Z",
+  "updatedAt": "2026-10-18T04:53:23.551Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 5,
-      "code": 0,
+      "temp": 5,
+      "feelsLike": 2,
+      "code": 1,
       "wind": 9,
-      "humidity": 90
+      "humidity": 95
     },
     "forecast": [
       {
         "date": "2026-10-18",
         "code": 80,
-        "tmax": 12,
+        "tmax": 13,
         "tmin": 5
       },
       {
         "date": "2026-10-19",
         "code": 45,
         "tmax": 16,
-        "tmin": 7
+        "tmin": 6
       },
       {
         "date": "2026-10-20",
@@ -32,7 +32,7 @@
         "date": "2026-10-21",
         "code": 80,
         "tmax": 12,
-        "tmin": 6
+        "tmin": 7
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "KATIA A RENCONTRÉ PHILIPPE BOXHO !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "LEQDTnFPmtg",
-        "thumbnail": "https://i.ytimg.com/vi/LEQDTnFPmtg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LEQDTnFPmtg",
-        "publishedAt": "2026-10-17T14:45:27+00:00"
-      },
-      {
-        "title": "L'AFTER WORK : Le FBI chez OpenAI, des zombies à SF & GPT-6 au drive !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "yp-jsJvogk8",
-        "thumbnail": "https://i.ytimg.com/vi/yp-jsJvogk8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yp-jsJvogk8",
-        "publishedAt": "2026-10-16T16:00:35+00:00"
-      },
-      {
-        "title": "Notre Tier List des défauts (ft @theodortytb)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "_IVxd2PFjaw",
-        "thumbnail": "https://i.ytimg.com/vi/_IVxd2PFjaw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_IVxd2PFjaw",
-        "publishedAt": "2026-10-16T15:52:11+00:00"
-      },
-      {
-        "title": "ON A REPRODUIT NOTRE ESCALIER COLIMAÇON EN MINIATURE POUR NOTRE FILLE",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "qHStSosXa88",
-        "thumbnail": "https://i.ytimg.com/vi/qHStSosXa88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qHStSosXa88",
-        "publishedAt": "2026-10-11T16:27:17+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
-      },
-      {
-        "title": "Je découvre la vie universitaire en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "2vJ0CjJqPjA",
-        "thumbnail": "https://i.ytimg.com/vi/2vJ0CjJqPjA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2vJ0CjJqPjA",
-        "publishedAt": "2026-10-07T16:00:13+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,9 +96,29 @@
         "titleOriginal": "Bleached corals thrive within days when touching healthy neighbour",
         "url": "https://www.nature.com/articles/d41586-026-03266-x",
         "source": "nature.com",
-        "score": 271,
-        "comments": 57,
+        "score": 385,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=50126253",
+        "date": "hier"
+      },
+      {
+        "title": "Comment le Doc Elizabeth Holmes « Vous pouvez tout voir » vous trompe",
+        "titleOriginal": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "readtheprofile.com",
+        "score": 28,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=50137620",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Lean est maintenant livré avec des noyaux vérifiés",
+        "titleOriginal": "Lean now ships with verified kernels",
+        "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+        "source": "leodemoura.github.io",
+        "score": 64,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=50114758",
         "date": "hier"
       },
       {
@@ -188,30 +126,10 @@
         "titleOriginal": "Dam removals are bringing fish back across the northeastern United States",
         "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
         "source": "smithsonianmag.com",
-        "score": 160,
-        "comments": 45,
+        "score": 241,
+        "comments": 59,
         "hnUrl": "https://news.ycombinator.com/item?id=50126312",
         "date": "hier"
-      },
-      {
-        "title": "Furifont, une police japonaise qui montre le furigana",
-        "titleOriginal": "Furifont, a Japanese font that shows furigana",
-        "url": "https://furifont.antfu.me/",
-        "source": "furifont.antfu.me",
-        "score": 235,
-        "comments": 49,
-        "hnUrl": "https://news.ycombinator.com/item?id=50100994",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "titleOriginal": "DeepSeek-v4.1-Flash-1017",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "huggingface.co",
-        "score": 669,
-        "comments": 562,
-        "hnUrl": "https://news.ycombinator.com/item?id=50129045",
-        "date": "il y a 15 h"
       }
     ]
   },
