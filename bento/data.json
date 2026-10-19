@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-19T08:23:27.910Z",
+  "updatedAt": "2026-10-19T15:46:26.134Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 8,
+      "temp": 15,
+      "feelsLike": 14,
       "code": 3,
-      "wind": 8,
-      "humidity": 91
+      "wind": 10,
+      "humidity": 80
     },
     "forecast": [
       {
@@ -19,36 +19,28 @@
       {
         "date": "2026-10-20",
         "code": 80,
-        "tmax": 13,
+        "tmax": 14,
         "tmin": 11
       },
       {
         "date": "2026-10-21",
         "code": 61,
-        "tmax": 13,
+        "tmax": 12,
         "tmin": 7
       },
       {
         "date": "2026-10-22",
         "code": 61,
-        "tmax": 15,
-        "tmin": 7
+        "tmax": 14,
+        "tmin": 6
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 330,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI LES COMPLOTISTES ONT RAISON ? THIERRY LHERMITTE RÉPOND",
+        "title": "THIERRY LHERMITTE : SA FAUSSE EXCUSE POUR REFUSER DES PHOTOS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "tCXyNTrtpTs",
-        "thumbnail": "https://i.ytimg.com/vi/tCXyNTrtpTs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tCXyNTrtpTs",
-        "publishedAt": "2026-10-19T08:01:10+00:00"
+        "videoId": "trIU5hQo3dw",
+        "thumbnail": "https://i.ytimg.com/vi/trIU5hQo3dw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=trIU5hQo3dw",
+        "publishedAt": "2026-10-19T15:00:19+00:00"
+      },
+      {
+        "title": "Comment il a créé une communauté d'1 million de membres ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "8e-8p9O14Js",
+        "thumbnail": "https://i.ytimg.com/vi/8e-8p9O14Js/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8e-8p9O14Js",
+        "publishedAt": "2026-10-19T12:58:01+00:00"
       },
       {
         "title": "Carlito est plus séduisant que Mcfly ? (ft @AdeleCastilIon)",
@@ -112,15 +113,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
         "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "Acheter des formations sans les suivre...",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "R0UDcFjX2CA",
-        "thumbnail": "https://i.ytimg.com/vi/R0UDcFjX2CA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0UDcFjX2CA",
-        "publishedAt": "2026-10-08T10:00:06+00:00"
       },
       {
         "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Linux 7.3 publié",
-        "titleOriginal": "Linux 7.3 Released",
+        "title": "Vin porté sur OpenBSD",
+        "titleOriginal": "Wine Ported to OpenBSD",
+        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+        "source": "marc.info",
+        "score": 163,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=50152307",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Timestral : Mistral publie des modèles de base de séries chronologiques",
+        "titleOriginal": "Timestral: Mistral release time-series foundation models",
+        "url": "https://mistral.ai/news/timestral/",
+        "source": "mistral.ai",
+        "score": 304,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=50150434",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Linux 7.3",
+        "titleOriginal": "Linux 7.3",
         "url": "https://lwn.net/Articles/1101143/",
         "source": "lwn.net",
-        "score": 57,
-        "comments": 12,
+        "score": 476,
+        "comments": 203,
         "hnUrl": "https://news.ycombinator.com/item?id=50149392",
-        "date": "il y a 59 min"
-      },
-      {
-        "title": "Les lapins étaient un luxe royal médiéval en Angleterre jusqu'à la peste noire",
-        "titleOriginal": "Rabbits were a medieval royal luxury in England until the Black Death",
-        "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-        "source": "phys.org",
-        "score": 69,
-        "comments": 50,
-        "hnUrl": "https://news.ycombinator.com/item?id=50131315",
-        "date": "hier"
-      },
-      {
-        "title": "Agents de raisonnement hybrides : agents de LLM qui pensent dans l'espace latent, agissent par le texte",
-        "titleOriginal": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-        "url": "https://arxiv.org/abs/2610.18861",
-        "source": "arxiv.org",
-        "score": 375,
-        "comments": 179,
-        "hnUrl": "https://news.ycombinator.com/item?id=50145337",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "William Gibson et le dépôt de marque du cyberespace",
-        "titleOriginal": "William Gibson and the trademarking of cyberspace",
-        "url": "https://colo.to/cyberspace.html",
-        "source": "colo.to",
-        "score": 173,
-        "comments": 52,
-        "hnUrl": "https://news.ycombinator.com/item?id=50146625",
         "date": "il y a 8 h"
+      },
+      {
+        "title": "Les alternatives à l'expérimentation animale prennent enfin leur envol",
+        "titleOriginal": "Alternatives to Animal Testing Are Finally Taking Off",
+        "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+        "source": "spectrum.ieee.org",
+        "score": 136,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=50150927",
+        "date": "il y a 4 h"
       }
     ]
   },
