@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T15:14:47.761Z",
+  "updatedAt": "2026-10-20T19:26:55.732Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 11,
-      "code": 61,
-      "wind": 14,
-      "humidity": 85
+      "temp": 11,
+      "feelsLike": 10,
+      "code": 3,
+      "wind": 12,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -26,33 +26,25 @@
         "date": "2026-10-22",
         "code": 3,
         "tmax": 14,
-        "tmin": 6
+        "tmin": 7
       },
       {
         "date": "2026-10-23",
         "code": 80,
-        "tmax": 14,
-        "tmin": 9
+        "tmax": 13,
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Hot Wax",
-        "viewers": 122,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
+      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,40 +52,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "« MA VIE VALAIT 8 MILLIONS D’EUROS »",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "M2AWgvgaDdA",
-        "thumbnail": "https://i.ytimg.com/vi/M2AWgvgaDdA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M2AWgvgaDdA",
-        "publishedAt": "2026-10-20T14:00:02+00:00"
-      },
-      {
-        "title": "« Nous on est nuls, mais leur bulle va leur péter à la gueule »",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "hVAhDs6Msn8",
-        "thumbnail": "https://i.ytimg.com/vi/hVAhDs6Msn8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hVAhDs6Msn8",
-        "publishedAt": "2026-10-20T10:00:24+00:00"
-      },
-      {
-        "title": "L’ego ou l’argent ?",
+        "title": "Pas d'argent pour ses enfants",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "RBGATY75uUg",
-        "thumbnail": "https://i.ytimg.com/vi/RBGATY75uUg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RBGATY75uUg",
-        "publishedAt": "2026-10-19T17:20:50+00:00"
+        "videoId": "oUZV3xJ-E6c",
+        "thumbnail": "https://i.ytimg.com/vi/oUZV3xJ-E6c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oUZV3xJ-E6c",
+        "publishedAt": "2026-10-20T17:19:44+00:00"
       },
       {
-        "title": "Impossible de résister à la petite voix dans sa tête (ft @AdeleCastilIon)",
+        "title": "ELLE AFFRONTE AU PROCÈS CELUI QUI A TENTÉ DE LA T*ER POUR 8 MILLIONS D’EUROS",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "UiaDvRVaiU8",
+        "thumbnail": "https://i.ytimg.com/vi/UiaDvRVaiU8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UiaDvRVaiU8",
+        "publishedAt": "2026-10-20T17:00:35+00:00"
+      },
+      {
+        "title": "Tesla Roadster : un rêve qui s'envole avec SpaceX !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "GeBZO3tTx1c",
+        "thumbnail": "https://i.ytimg.com/vi/GeBZO3tTx1c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GeBZO3tTx1c",
+        "publishedAt": "2026-10-20T16:00:26+00:00"
+      },
+      {
+        "title": "Rire en faisant l'amour : gênant ou pas ? (ft @AdeleCastilIon)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "HbKuf1yGlTc",
-        "thumbnail": "https://i.ytimg.com/vi/HbKuf1yGlTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HbKuf1yGlTc",
-        "publishedAt": "2026-10-19T16:12:45+00:00"
+        "videoId": "7HLBv10bxkM",
+        "thumbnail": "https://i.ytimg.com/vi/7HLBv10bxkM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7HLBv10bxkM",
+        "publishedAt": "2026-10-20T15:31:02+00:00"
       },
       {
         "title": "Je suis venu en Corée pour elle… mais on a rompu.",
@@ -182,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "DeepSeek vient d'ouvrir son moteur d'inférence",
-        "titleOriginal": "DeepSeek just open-sourced its inference engine",
+        "title": "Voxtral 3",
+        "titleOriginal": "Voxtral 3",
+        "url": "https://mistral.ai/news/voxtral-3/",
+        "source": "mistral.ai",
+        "score": 332,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=50168396",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "SimCity, mais avec des permis",
+        "titleOriginal": "SimCity, but with Permits",
+        "url": "https://permit.petercai.com/",
+        "source": "permit.petercai.com",
+        "score": 61,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=50170593",
+        "date": "il y a 57 min"
+      },
+      {
+        "title": "DeepInfer : cadre d'inférence haute performance pour les modèles DeepSeek",
+        "titleOriginal": "DeepInfer: High-performance inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "source": "github.com",
-        "score": 1392,
-        "comments": 482,
+        "score": 1946,
+        "comments": 753,
         "hnUrl": "https://news.ycombinator.com/item?id=50163277",
-        "date": "il y a 6 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Compromis EMudhra Intermediate CA",
-        "titleOriginal": "EMudhra Intermediate CA Compromise",
-        "url": "https://emudhra.we-have-a-problem.com/",
-        "source": "emudhra.we-have-a-problem.com",
-        "score": 71,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=50166579",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Apple a cassé une fonctionnalité de présentation essentielle des iPad",
-        "titleOriginal": "Apple broke an essential presentation feature of iPads",
-        "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-        "source": "teddysvoronos.com",
-        "score": 178,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=50165208",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Publier de fausses statistiques, être cité dans les LLM",
-        "titleOriginal": "Publish fake stats, get cited in LLMs",
-        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-        "source": "peec.ai",
-        "score": 107,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=50165801",
+        "title": "Google open-sources TorchTPU, un back-end PyTorch natif pour les TPU",
+        "titleOriginal": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+        "url": "https://github.com/google-pytorch/torch_tpu",
+        "source": "github.com",
+        "score": 134,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=50169053",
         "date": "il y a 2 h"
       }
     ]
