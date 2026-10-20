@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T10:15:06.376Z",
+  "updatedAt": "2026-10-20T15:14:47.761Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 10,
-      "code": 3,
-      "wind": 16,
-      "humidity": 86
+      "temp": 13,
+      "feelsLike": 11,
+      "code": 61,
+      "wind": 14,
+      "humidity": 85
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-10-21",
         "code": 61,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 7
       },
       {
@@ -37,14 +37,22 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Hot Wax",
+        "viewers": 122,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -52,13 +60,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA LEGEND TOUR THÉRAPIE !",
+        "title": "« MA VIE VALAIT 8 MILLIONS D’EUROS »",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "dCHXLWQNwV4",
-        "thumbnail": "https://i.ytimg.com/vi/dCHXLWQNwV4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dCHXLWQNwV4",
-        "publishedAt": "2026-10-20T10:00:36+00:00"
+        "videoId": "M2AWgvgaDdA",
+        "thumbnail": "https://i.ytimg.com/vi/M2AWgvgaDdA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M2AWgvgaDdA",
+        "publishedAt": "2026-10-20T14:00:02+00:00"
       },
       {
         "title": "« Nous on est nuls, mais leur bulle va leur péter à la gueule »",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les startups de la défense du Royaume-Uni se voient refuser des services bancaires en vertu des règles ESG",
-        "titleOriginal": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
-        "url": "https://foxandlion.pub/analysis/uk-defence-start-ups-are-being-denied-banking-services-under-esg-rules",
-        "source": "foxandlion.pub",
-        "score": 29,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=50163462",
-        "date": "il y a 44 min"
-      },
-      {
         "title": "DeepSeek vient d'ouvrir son moteur d'inférence",
         "titleOriginal": "DeepSeek just open-sourced its inference engine",
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "source": "github.com",
-        "score": 72,
-        "comments": 13,
+        "score": 1392,
+        "comments": 482,
         "hnUrl": "https://news.ycombinator.com/item?id=50163277",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Compromis EMudhra Intermediate CA",
+        "titleOriginal": "EMudhra Intermediate CA Compromise",
+        "url": "https://emudhra.we-have-a-problem.com/",
+        "source": "emudhra.we-have-a-problem.com",
+        "score": 71,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=50166579",
         "date": "il y a 1 h"
       },
       {
-        "title": "Nordwand Mono – Une police monospace pour les codeurs et les aventuriers",
-        "titleOriginal": "Nordwand Mono – A monospace font for coders and adventurers",
-        "url": "https://github.com/tywr/Nordwand-Mono",
-        "source": "github.com",
-        "score": 263,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=50141581",
-        "date": "hier"
+        "title": "Apple a cassé une fonctionnalité de présentation essentielle des iPad",
+        "titleOriginal": "Apple broke an essential presentation feature of iPads",
+        "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+        "source": "teddysvoronos.com",
+        "score": 178,
+        "comments": 91,
+        "hnUrl": "https://news.ycombinator.com/item?id=50165208",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Fuite d'AfD : ce que 421 179 courriels piratés montrent sur l'extrême droite allemande",
-        "titleOriginal": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-        "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-        "source": "heistberlin.com",
-        "score": 117,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=50163502",
-        "date": "il y a 39 min"
+        "title": "Publier de fausses statistiques, être cité dans les LLM",
+        "titleOriginal": "Publish fake stats, get cited in LLMs",
+        "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+        "source": "peec.ai",
+        "score": 107,
+        "comments": 61,
+        "hnUrl": "https://news.ycombinator.com/item?id=50165801",
+        "date": "il y a 2 h"
       }
     ]
   },
