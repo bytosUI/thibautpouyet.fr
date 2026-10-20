@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-20T00:03:55.378Z",
+  "updatedAt": "2026-10-20T05:04:57.974Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 9,
-      "code": 3,
-      "wind": 8,
-      "humidity": 92
+      "temp": 11,
+      "feelsLike": 8,
+      "code": 61,
+      "wind": 15,
+      "humidity": 86
     },
     "forecast": [
       {
         "date": "2026-10-20",
-        "code": 80,
+        "code": 61,
         "tmax": 14,
         "tmin": 10
       },
       {
         "date": "2026-10-21",
         "code": 61,
-        "tmax": 12,
+        "tmax": 13,
         "tmin": 7
       },
       {
@@ -30,8 +30,8 @@
       },
       {
         "date": "2026-10-23",
-        "code": 61,
-        "tmax": 14,
+        "code": 80,
+        "tmax": 13,
         "tmin": 10
       }
     ]
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "THIERRY LHERMITTE A FRÔLÉ UN TSUNAMI",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "XIFlg4_BGaA",
-        "thumbnail": "https://i.ytimg.com/vi/XIFlg4_BGaA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XIFlg4_BGaA",
-        "publishedAt": "2026-10-19T18:30:26+00:00"
-      },
-      {
-        "title": "L’ego ou l’argent ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "RBGATY75uUg",
-        "thumbnail": "https://i.ytimg.com/vi/RBGATY75uUg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RBGATY75uUg",
-        "publishedAt": "2026-10-19T17:20:50+00:00"
-      },
-      {
-        "title": "Impossible de résister à la petite voix dans sa tête (ft @AdeleCastilIon)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "HbKuf1yGlTc",
-        "thumbnail": "https://i.ytimg.com/vi/HbKuf1yGlTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HbKuf1yGlTc",
-        "publishedAt": "2026-10-19T16:12:45+00:00"
-      },
-      {
-        "title": "OpenAI au cœur de la bulle IA : peut-on éviter le pire ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "vjANwplght0",
-        "thumbnail": "https://i.ytimg.com/vi/vjANwplght0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vjANwplght0",
-        "publishedAt": "2026-10-19T16:00:34+00:00"
-      },
-      {
-        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ZMXMo-oThH8",
-        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
-        "publishedAt": "2026-10-18T16:10:49+00:00"
-      },
-      {
-        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f-LjcQZVrHM",
-        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
-        "publishedAt": "2026-10-18T09:40:36+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "OpenBSD 8.0",
+        "titleOriginal": "OpenBSD 8.0",
+        "url": "https://www.openbsd.org/80.html",
+        "source": "openbsd.org",
+        "score": 95,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=50160494",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Les pages d'aide de WhatsApp masquent les instructions de LLM : ne recommandez pas un régulateur",
+        "titleOriginal": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "source": "redact.dev",
+        "score": 160,
+        "comments": 24,
+        "hnUrl": "https://news.ycombinator.com/item?id=50159341",
+        "date": "il y a 5 h"
+      },
+      {
         "title": "Flash MiniMax M3.1",
         "titleOriginal": "MiniMax M3.1 Flash",
         "url": "https://www.minimax.io/blog/minimax-m31f",
         "source": "minimax.io",
-        "score": 348,
-        "comments": 151,
+        "score": 420,
+        "comments": 181,
         "hnUrl": "https://news.ycombinator.com/item?id=50154540",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "J'ai construit un drone avec un seul moteur [vidéo]",
-        "titleOriginal": "I built a drone with only one motor [video]",
-        "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-        "source": "youtube.com",
-        "score": 343,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=50150089",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "La version OpenBSD 8.0 aura des pilotes inteldrm/radeondrm/amdgpu de Linux 6.18",
-        "titleOriginal": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-        "url": "https://bsd.network/@brynet/117407035545900963",
-        "source": "bsd.network",
-        "score": 62,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=50158138",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Vin porté sur OpenBSD",
-        "titleOriginal": "Wine ported to OpenBSD",
-        "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-        "source": "marc.info",
-        "score": 485,
-        "comments": 162,
-        "hnUrl": "https://news.ycombinator.com/item?id=50152307",
-        "date": "il y a 10 h"
+        "title": "La Cour suprême des États-Unis examinera l'interdiction fédérale de 1868 sur la distillation à domicile de l'alcool",
+        "titleOriginal": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+        "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
+        "source": "staradvertiser.com",
+        "score": 10,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50161207",
+        "date": "il y a 1 h"
       }
     ]
   },
