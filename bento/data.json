@@ -1,25 +1,19 @@
 {
-  "updatedAt": "2026-10-19T20:50:19.583Z",
+  "updatedAt": "2026-10-20T00:03:55.378Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 2,
+      "temp": 10,
+      "feelsLike": 9,
+      "code": 3,
       "wind": 8,
-      "humidity": 90
+      "humidity": 92
     },
     "forecast": [
       {
-        "date": "2026-10-19",
-        "code": 45,
-        "tmax": 14,
-        "tmin": 8
-      },
-      {
         "date": "2026-10-20",
         "code": 80,
-        "tmax": 13,
+        "tmax": 14,
         "tmin": 10
       },
       {
@@ -33,21 +27,19 @@
         "code": 61,
         "tmax": 14,
         "tmin": 6
+      },
+      {
+        "date": "2026-10-23",
+        "code": 61,
+        "tmax": 14,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "League of Legends",
-        "viewers": 25675,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -186,29 +178,29 @@
         "titleOriginal": "MiniMax M3.1 Flash",
         "url": "https://www.minimax.io/blog/minimax-m31f",
         "source": "minimax.io",
-        "score": 269,
-        "comments": 103,
+        "score": 348,
+        "comments": 151,
         "hnUrl": "https://news.ycombinator.com/item?id=50154540",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "J'ai construit un drone avec un seul moteur [vidéo]",
         "titleOriginal": "I built a drone with only one motor [video]",
         "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
         "source": "youtube.com",
-        "score": 165,
-        "comments": 27,
+        "score": 343,
+        "comments": 65,
         "hnUrl": "https://news.ycombinator.com/item?id=50150089",
-        "date": "il y a 11 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Les retours continueront jusqu'à ce que le moral s'améliore",
-        "titleOriginal": "The reverts will continue until morale improves",
-        "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-        "source": "peter.eisentraut.org",
-        "score": 78,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=50156206",
+        "title": "La version OpenBSD 8.0 aura des pilotes inteldrm/radeondrm/amdgpu de Linux 6.18",
+        "titleOriginal": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+        "url": "https://bsd.network/@brynet/117407035545900963",
+        "source": "bsd.network",
+        "score": 62,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50158138",
         "date": "il y a 2 h"
       },
       {
@@ -216,10 +208,10 @@
         "titleOriginal": "Wine ported to OpenBSD",
         "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
         "source": "marc.info",
-        "score": 432,
-        "comments": 140,
+        "score": 485,
+        "comments": 162,
         "hnUrl": "https://news.ycombinator.com/item?id=50152307",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
       }
     ]
   },
