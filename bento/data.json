@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-10-21T20:16:03.854Z",
+  "updatedAt": "2026-10-21T23:29:40.665Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 5,
-      "code": 0,
-      "wind": 15,
-      "humidity": 78
+      "temp": 7,
+      "feelsLike": 4,
+      "code": 2,
+      "wind": 14,
+      "humidity": 83
     },
     "forecast": [
-      {
-        "date": "2026-10-21",
-        "code": 80,
-        "tmax": 14,
-        "tmin": 7
-      },
       {
         "date": "2026-10-22",
         "code": 80,
@@ -25,19 +19,34 @@
       {
         "date": "2026-10-23",
         "code": 80,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 9
       },
       {
         "date": "2026-10-24",
-        "code": 61,
-        "tmax": 13,
+        "code": 63,
+        "tmax": 12,
         "tmin": 8
+      },
+      {
+        "date": "2026-10-25",
+        "code": 63,
+        "tmax": 15,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 72,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,39 +54,11 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "La critique de la Pat'Patrouille de Carlito sur Letterboxd est dingue",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "Jlu7jy3NKpc",
-        "thumbnail": "https://i.ytimg.com/vi/Jlu7jy3NKpc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Jlu7jy3NKpc",
-        "publishedAt": "2026-10-21T17:08:24+00:00"
-      },
-      {
-        "title": "Vendre des sandwichs ou faire des études ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "Rf4PwItc7h0",
-        "thumbnail": "https://i.ytimg.com/vi/Rf4PwItc7h0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rf4PwItc7h0",
-        "publishedAt": "2026-10-21T16:45:07+00:00"
-      },
-      {
-        "title": "L'HÉLICOPTÈRE DE COMBAT TIGRE VIENT D'ATTERRIR AU ZÉNITH DE STRASBOURG !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "3HNrx7Vzmuo",
-        "thumbnail": "https://i.ytimg.com/vi/3HNrx7Vzmuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3HNrx7Vzmuo",
-        "publishedAt": "2026-10-21T16:25:25+00:00"
-      },
       {
         "title": "Project Meridian : la tech a-t-elle pris le contrôle de l'armée ?",
         "channel": "Silicon Carne 🌶️",
@@ -88,24 +69,6 @@
         "publishedAt": "2026-10-21T16:00:38+00:00"
       },
       {
-        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ZMXMo-oThH8",
-        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
-        "publishedAt": "2026-10-18T16:10:49+00:00"
-      },
-      {
-        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f-LjcQZVrHM",
-        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
-        "publishedAt": "2026-10-18T09:40:36+00:00"
-      },
-      {
         "title": "3 ans pour être autonome en eau, énergie et nourriture",
         "channel": "Paulygones",
         "channelHandle": "Paulygones",
@@ -113,24 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
         "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
       }
     ]
   },
@@ -174,44 +119,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Mistral Large 4",
-        "titleOriginal": "Mistral Large 4",
-        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-        "source": "docs.mistral.ai",
-        "score": 157,
-        "comments": 30,
-        "hnUrl": "https://news.ycombinator.com/item?id=50186129",
-        "date": "il y a 55 min"
+        "title": "Divulgation de la sécurité ferroviaire",
+        "titleOriginal": "Railway Security Disclosure",
+        "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+        "source": "blog.railway.com",
+        "score": 194,
+        "comments": 78,
+        "hnUrl": "https://news.ycombinator.com/item?id=50188228",
+        "date": "il y a 1 h"
       },
       {
         "title": "La version de sécurité PHP d'aujourd' hui et comment nous renforçons la sécurité",
         "titleOriginal": "Today's PHP security release, and how we're strengthening security",
         "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
         "source": "thephp.foundation",
-        "score": 434,
-        "comments": 208,
+        "score": 629,
+        "comments": 310,
         "hnUrl": "https://news.ycombinator.com/item?id=50182987",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "GitLab Critical Patch Release",
+        "titleOriginal": "GitLab Critical Patch Release",
+        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+        "source": "docs.gitlab.com",
+        "score": 207,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=50185869",
         "date": "il y a 4 h"
       },
       {
-        "title": "Guide de style Google",
-        "titleOriginal": "Google's Rust Style Guide",
-        "url": "https://google.github.io/styleguide/rustguide.html",
-        "source": "google.github.io",
-        "score": 46,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=50186010",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Compromis LiteLLM 1.107.0 sur PyPI installe un voleur d'informations d'identification et une porte dérobée",
-        "titleOriginal": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "source": "safedep.io",
-        "score": 311,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=50181114",
-        "date": "il y a 6 h"
+        "title": "Plus d'icônes dans chaque menu par défaut",
+        "titleOriginal": "No More Icons in Every Menu by Default",
+        "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+        "source": "blog.jim-nielsen.com",
+        "score": 109,
+        "comments": 79,
+        "hnUrl": "https://news.ycombinator.com/item?id=50161346",
+        "date": "hier"
       }
     ]
   },
