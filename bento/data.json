@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-10-21T11:01:14.956Z",
+  "updatedAt": "2026-10-21T16:00:57.853Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 7,
-      "code": 61,
-      "wind": 20,
-      "humidity": 90
+      "temp": 12,
+      "feelsLike": 9,
+      "code": 2,
+      "wind": 13,
+      "humidity": 76
     },
     "forecast": [
       {
         "date": "2026-10-21",
-        "code": 80,
+        "code": 61,
         "tmax": 13,
         "tmin": 7
       },
       {
         "date": "2026-10-22",
-        "code": 80,
-        "tmax": 14,
+        "code": 61,
+        "tmax": 13,
         "tmin": 7
       },
       {
@@ -39,27 +39,27 @@
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 6326,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "viewers": 395,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       },
       {
-        "user": "micode",
-        "displayName": "Micode",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 786,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e10f7afd-6132-4198-8309-5bd6bbb215e2-profile_image-300x300.png",
-        "url": "https://twitch.tv/micode"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Legion Was Here",
+        "viewers": 94,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
-      "bastiui",
+      "domingo",
       "hardisk",
+      "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -67,22 +67,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "La seule chose que l’IA ne pourra jamais faire !",
+        "title": "Project Meridian : la tech a-t-elle pris le contrôle de l'armée ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "CHy9Kn4WpSw",
-        "thumbnail": "https://i.ytimg.com/vi/CHy9Kn4WpSw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CHy9Kn4WpSw",
-        "publishedAt": "2026-10-21T10:00:29+00:00"
+        "videoId": "DmdJ74F-k7U",
+        "thumbnail": "https://i.ytimg.com/vi/DmdJ74F-k7U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DmdJ74F-k7U",
+        "publishedAt": "2026-10-21T16:00:38+00:00"
       },
       {
-        "title": "LES TRAUMATISMES SE TRANSMETTENT GÉNÉTIQUEMENT DE GÉNÉRATION EN GÉNÉRATION !",
+        "title": "EST-CE QU'ÊTRE HEUREUX, ÇA S'APPREND ? EXPERTE EN DÉVELOPPEMENT PERSONNEL, ELLE RÉPOND",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "bcVyfm7Cqyc",
-        "thumbnail": "https://i.ytimg.com/vi/bcVyfm7Cqyc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bcVyfm7Cqyc",
-        "publishedAt": "2026-10-21T10:00:17+00:00"
+        "videoId": "qrxnVTNidss",
+        "thumbnail": "https://i.ytimg.com/vi/qrxnVTNidss/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qrxnVTNidss",
+        "publishedAt": "2026-10-21T15:00:32+00:00"
       },
       {
         "title": "On se fait une petite harmonie avec Benjamin Lavernhe",
@@ -189,44 +189,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Huit bits de confiance ; les clés CA d'eMudhra ont été craquées en quelques millisecondes",
-        "titleOriginal": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-        "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-        "source": "scotthelme.co.uk",
-        "score": 138,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=50177916",
+        "title": "PHP 8.2.35",
+        "titleOriginal": "PHP 8.2.35",
+        "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+        "source": "github.com",
+        "score": 519,
+        "comments": 221,
+        "hnUrl": "https://news.ycombinator.com/item?id=50180873",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "PHP2Shell : l'IA découvre le RCE critique dans PHP",
+        "titleOriginal": "PHP2Shell: AI uncovers critical RCE in PHP",
+        "url": "https://www.wiz.io/blog/php2shell-php-rce",
+        "source": "wiz.io",
+        "score": 305,
+        "comments": 88,
+        "hnUrl": "https://news.ycombinator.com/item?id=50180836",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "DuckDB 2.0.0 LTS \"Cannelle Sarcelle\"",
+        "titleOriginal": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+        "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+        "source": "duckdb.org",
+        "score": 148,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=50181136",
         "date": "il y a 1 h"
       },
       {
-        "title": "L'objectif de 1,5°C de l'Accord de Paris n'est plus viable",
-        "titleOriginal": "The 1.5°C goal of the Paris Agreement is no longer viable",
-        "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
-        "source": "unric.org",
-        "score": 239,
-        "comments": 244,
-        "hnUrl": "https://news.ycombinator.com/item?id=50177911",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "\"L'avenir de la politique",
-        "titleOriginal": "The Future of CSS",
-        "url": "https://www.joshwcomeau.com/css/interop-2027/",
-        "source": "joshwcomeau.com",
-        "score": 396,
-        "comments": 163,
-        "hnUrl": "https://news.ycombinator.com/item?id=50175070",
-        "date": "il y a 9 h"
-      },
-      {
-        "title": "Prochaine version de sécurité PHP critique (CVE-2026-109618 / -109619)",
-        "titleOriginal": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-        "url": "https://news-web.php.net/php.announce/509",
-        "source": "news-web.php.net",
-        "score": 961,
-        "comments": 389,
-        "hnUrl": "https://news.ycombinator.com/item?id=50172041",
-        "date": "il y a 14 h"
+        "title": "Compromis LiteLLM 1.107.0 sur PyPI installe un voleur d'informations d'identification et une porte dérobée",
+        "titleOriginal": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+        "source": "safedep.io",
+        "score": 73,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=50181114",
+        "date": "il y a 2 h"
       }
     ]
   },
