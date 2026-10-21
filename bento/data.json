@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-20T22:29:57.811Z",
+  "updatedAt": "2026-10-21T00:48:46.161Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
+      "temp": 10,
       "feelsLike": 8,
       "code": 3,
-      "wind": 13,
-      "humidity": 89
+      "wind": 10,
+      "humidity": 90
     },
     "forecast": [
       {
@@ -178,40 +178,40 @@
         "titleOriginal": "SimCity, but with Permits",
         "url": "https://permit.petercai.com/",
         "source": "permit.petercai.com",
-        "score": 381,
-        "comments": 211,
+        "score": 521,
+        "comments": 277,
         "hnUrl": "https://news.ycombinator.com/item?id=50170593",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Les fédéraux soupçonnent le négociateur de rançon d'avoir géré le site d'extorsion ShinyHunters",
+        "titleOriginal": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+        "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+        "source": "krebsonsecurity.com",
+        "score": 73,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=50173487",
+        "date": "il y a 2 h"
       },
       {
         "title": "DeepInfer : cadre d'inférence haute performance pour les modèles DeepSeek",
         "titleOriginal": "DeepInfer: High-performance inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "source": "github.com",
-        "score": 2059,
-        "comments": 808,
+        "score": 2115,
+        "comments": 827,
         "hnUrl": "https://news.ycombinator.com/item?id=50163277",
-        "date": "il y a 13 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Voxtral 3",
         "titleOriginal": "Voxtral 3",
         "url": "https://mistral.ai/news/voxtral-3/",
         "source": "mistral.ai",
-        "score": 460,
-        "comments": 127,
+        "score": 511,
+        "comments": 138,
         "hnUrl": "https://news.ycombinator.com/item?id=50168396",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Que dois-je enseigner à mon fils ?",
-        "titleOriginal": "What shall I teach my son?",
-        "url": "https://stevekrouse.com/ends",
-        "source": "stevekrouse.com",
-        "score": 177,
-        "comments": 255,
-        "hnUrl": "https://news.ycombinator.com/item?id=50169707",
-        "date": "il y a 5 h"
+        "date": "il y a 8 h"
       }
     ]
   },
