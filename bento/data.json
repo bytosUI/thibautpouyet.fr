@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-22T17:49:11.738Z",
+  "updatedAt": "2026-10-22T21:06:40.382Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 11,
+      "temp": 12,
+      "feelsLike": 10,
       "code": 3,
-      "wind": 12,
+      "wind": 14,
       "humidity": 82
     },
     "forecast": [
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-10-23",
-        "code": 61,
+        "code": 80,
         "tmax": 13,
         "tmin": 9
       },
@@ -42,9 +42,17 @@
         "user": "domingo",
         "displayName": "Domingo",
         "game": "Just Chatting",
-        "viewers": 5380,
+        "viewers": 8673,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
         "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 124,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
@@ -53,8 +61,7 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -186,19 +193,29 @@
         "titleOriginal": "Quad9 (DNS Resolver) to Exit France",
         "url": "https://quad9.net/news/blog/au-revoir-france/",
         "source": "quad9.net",
-        "score": 396,
-        "comments": 134,
+        "score": 731,
+        "comments": 278,
         "hnUrl": "https://news.ycombinator.com/item?id=50195959",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "OpenShell – Un runtime sécurisé et privé pour les flottes d'agents d'IA autonomes",
+        "titleOriginal": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "source": "github.com",
+        "score": 176,
+        "comments": 94,
+        "hnUrl": "https://news.ycombinator.com/item?id=50198675",
         "date": "il y a 3 h"
       },
       {
-        "title": "eMudhra va quitter le marché mondial des certificats SSL/TLS",
-        "titleOriginal": "eMudhra to exit global SSL/TLS certificate business",
-        "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-        "source": "emudhra.com",
-        "score": 604,
-        "comments": 454,
-        "hnUrl": "https://news.ycombinator.com/item?id=50195110",
+        "title": "Se préparer à exploiter GNU Taler en Allemagne",
+        "titleOriginal": "Getting ready to operate GNU Taler in Germany",
+        "url": "https://www.taler.net/en/news/2026-13.html",
+        "source": "taler.net",
+        "score": 151,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=50197404",
         "date": "il y a 4 h"
       },
       {
@@ -206,20 +223,10 @@
         "titleOriginal": "Show HN: Run full iOS 16.5 firmware on Android Devices",
         "url": "https://github.com/oosexgang/hackios-xnu-kernel",
         "source": "github.com",
-        "score": 115,
-        "comments": 44,
+        "score": 238,
+        "comments": 80,
         "hnUrl": "https://news.ycombinator.com/item?id=50196718",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "What's Getting Pwned",
-        "titleOriginal": "What's Getting Pwned",
-        "url": "https://pwn.watch/",
-        "source": "pwn.watch",
-        "score": 194,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=50195543",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
       }
     ]
   },
