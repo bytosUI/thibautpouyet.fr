@@ -1,57 +1,49 @@
 {
-  "updatedAt": "2026-10-22T06:58:44.446Z",
+  "updatedAt": "2026-10-22T12:51:06.858Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 3,
-      "code": 2,
-      "wind": 17,
-      "humidity": 91
+      "temp": 13,
+      "feelsLike": 10,
+      "code": 80,
+      "wind": 19,
+      "humidity": 78
     },
     "forecast": [
       {
         "date": "2026-10-22",
-        "code": 61,
+        "code": 80,
         "tmax": 14,
         "tmin": 6
       },
       {
         "date": "2026-10-23",
-        "code": 61,
+        "code": 80,
         "tmax": 13,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-10-24",
         "code": 63,
         "tmax": 12,
-        "tmin": 8
+        "tmin": 7
       },
       {
         "date": "2026-10-25",
         "code": 63,
-        "tmax": 15,
-        "tmin": 9
+        "tmax": 16,
+        "tmin": 10
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 525,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,6 +52,33 @@
   "youtube": {
     "videos": [
       {
+        "title": "POURQUOI LES VICTIMES D'ABUS NE SE DÉFENDENT PAS ?",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "DcjcX5rS7TA",
+        "thumbnail": "https://i.ytimg.com/vi/DcjcX5rS7TA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DcjcX5rS7TA",
+        "publishedAt": "2026-10-22T12:00:15+00:00"
+      },
+      {
+        "title": "Qui joue le mieux les émotions ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "vw1Qb8JgECM",
+        "thumbnail": "https://i.ytimg.com/vi/vw1Qb8JgECM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vw1Qb8JgECM",
+        "publishedAt": "2026-10-22T09:10:41+00:00"
+      },
+      {
+        "title": "Vendre des sandwichs ou faire des études ?",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "Rf4PwItc7h0",
+        "thumbnail": "https://i.ytimg.com/vi/Rf4PwItc7h0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rf4PwItc7h0",
+        "publishedAt": "2026-10-21T16:45:07+00:00"
+      },
+      {
         "title": "Project Meridian : la tech a-t-elle pris le contrôle de l'armée ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -67,6 +86,51 @@
         "thumbnail": "https://i.ytimg.com/vi/DmdJ74F-k7U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DmdJ74F-k7U",
         "publishedAt": "2026-10-21T16:00:38+00:00"
+      },
+      {
+        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "ZMXMo-oThH8",
+        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
+        "publishedAt": "2026-10-18T16:10:49+00:00"
+      },
+      {
+        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "f-LjcQZVrHM",
+        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
+        "publishedAt": "2026-10-18T09:40:36+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
       }
     ]
   },
@@ -90,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 22 sem",
+        "time": "il y a 23 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 22 sem",
+        "time": "il y a 23 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -110,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L'algorithme de multiplication d'entiers o(n log n) récemment proposé [pdf]",
-        "titleOriginal": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-        "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-        "source": "web.maths.unsw.edu.au",
-        "score": 145,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=50190455",
+        "title": "CVE-2026-111943 : Autorité de certification intermédiaire compromise",
+        "titleOriginal": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+        "source": "nvd.nist.gov",
+        "score": 215,
+        "comments": 60,
+        "hnUrl": "https://news.ycombinator.com/item?id=50192900",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Jailbreaking de l'interrupteur 2",
+        "titleOriginal": "Jailbreaking the Switch 2",
+        "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+        "source": "pepsipu.com",
+        "score": 181,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=50192536",
         "date": "il y a 4 h"
       },
       {
-        "title": "Il n'y a pas d'exploit facile pour cette vulnérabilité PHP",
-        "titleOriginal": "There isn't an easy exploit for this PHP vulnerability",
-        "url": "https://eliastaylor.com/noexploit/",
-        "source": "eliastaylor.com",
-        "score": 443,
-        "comments": 220,
-        "hnUrl": "https://news.ycombinator.com/item?id=50188948",
-        "date": "il y a 7 h"
+        "title": "Plus rapide que la coupe d'oreille : triangulation de 3,7 MILLIONS de polygones de carte en 489 ms",
+        "titleOriginal": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+        "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+        "source": "globus.software",
+        "score": 82,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=50193170",
+        "date": "il y a 3 h"
       },
       {
-        "title": "WorldTUI : J'ai entraîné un modèle 360M à faire semblant d'être un terminal",
-        "titleOriginal": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-        "source": "simedw.com",
-        "score": 71,
-        "comments": 32,
-        "hnUrl": "https://news.ycombinator.com/item?id=50190363",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "OpenAI CLI",
-        "titleOriginal": "OpenAI CLI",
-        "url": "https://github.com/openai/openai-cli",
-        "source": "github.com",
+        "title": "Qu'est-ce que la Gridifcation",
+        "titleOriginal": "What Is Gridifcation",
+        "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+        "source": "musicalform.substack.com",
         "score": 26,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50191507",
-        "date": "il y a 1 h"
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50150163",
+        "date": "il y a 3 j"
       }
     ]
   },
