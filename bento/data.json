@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-21T23:29:40.665Z",
+  "updatedAt": "2026-10-22T01:43:23.471Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 7,
-      "feelsLike": 4,
-      "code": 2,
-      "wind": 14,
-      "humidity": 83
+      "feelsLike": 3,
+      "code": 0,
+      "wind": 15,
+      "humidity": 85
     },
     "forecast": [
       {
         "date": "2026-10-22",
         "code": 80,
-        "tmax": 14,
+        "tmax": 13,
         "tmin": 7
       },
       {
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 72,
+        "viewers": 80,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -58,26 +58,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Project Meridian : la tech a-t-elle pris le contrôle de l'armée ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "DmdJ74F-k7U",
-        "thumbnail": "https://i.ytimg.com/vi/DmdJ74F-k7U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DmdJ74F-k7U",
-        "publishedAt": "2026-10-21T16:00:38+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -119,44 +100,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "mitmproxy ajoute l'option --emudhra",
+        "titleOriginal": "mitmproxy adds --emudhra option",
+        "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+        "source": "github.com",
+        "score": 166,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=50189232",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "Divulgation de la sécurité ferroviaire",
         "titleOriginal": "Railway Security Disclosure",
         "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
         "source": "blog.railway.com",
-        "score": 194,
-        "comments": 78,
+        "score": 305,
+        "comments": 147,
         "hnUrl": "https://news.ycombinator.com/item?id=50188228",
-        "date": "il y a 1 h"
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Il n'y a pas d'exploit facile pour cette vulnérabilité PHP",
+        "titleOriginal": "There isn't an easy exploit for this PHP vulnerability",
+        "url": "https://eliastaylor.com/noexploit/",
+        "source": "eliastaylor.com",
+        "score": 146,
+        "comments": 64,
+        "hnUrl": "https://news.ycombinator.com/item?id=50188948",
+        "date": "il y a 2 h"
       },
       {
         "title": "La version de sécurité PHP d'aujourd' hui et comment nous renforçons la sécurité",
         "titleOriginal": "Today's PHP security release, and how we're strengthening security",
         "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
         "source": "thephp.foundation",
-        "score": 629,
-        "comments": 310,
+        "score": 678,
+        "comments": 335,
         "hnUrl": "https://news.ycombinator.com/item?id=50182987",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "GitLab Critical Patch Release",
-        "titleOriginal": "GitLab Critical Patch Release",
-        "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-        "source": "docs.gitlab.com",
-        "score": 207,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=50185869",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Plus d'icônes dans chaque menu par défaut",
-        "titleOriginal": "No More Icons in Every Menu by Default",
-        "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-        "source": "blog.jim-nielsen.com",
-        "score": 109,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=50161346",
-        "date": "hier"
+        "date": "il y a 9 h"
       }
     ]
   },
