@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-22T12:51:06.858Z",
+  "updatedAt": "2026-10-22T17:49:11.738Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 13,
-      "feelsLike": 10,
-      "code": 80,
-      "wind": 19,
-      "humidity": 78
+      "feelsLike": 11,
+      "code": 3,
+      "wind": 12,
+      "humidity": 82
     },
     "forecast": [
       {
@@ -18,7 +18,7 @@
       },
       {
         "date": "2026-10-23",
-        "code": 80,
+        "code": 61,
         "tmax": 13,
         "tmin": 9
       },
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 5380,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,40 +60,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "POURQUOI LES VICTIMES D'ABUS NE SE DÉFENDENT PAS ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "DcjcX5rS7TA",
-        "thumbnail": "https://i.ytimg.com/vi/DcjcX5rS7TA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DcjcX5rS7TA",
-        "publishedAt": "2026-10-22T12:00:15+00:00"
-      },
-      {
-        "title": "Qui joue le mieux les émotions ?",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "vw1Qb8JgECM",
-        "thumbnail": "https://i.ytimg.com/vi/vw1Qb8JgECM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vw1Qb8JgECM",
-        "publishedAt": "2026-10-22T09:10:41+00:00"
-      },
-      {
-        "title": "Vendre des sandwichs ou faire des études ?",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "Rf4PwItc7h0",
-        "thumbnail": "https://i.ytimg.com/vi/Rf4PwItc7h0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rf4PwItc7h0",
-        "publishedAt": "2026-10-21T16:45:07+00:00"
-      },
-      {
-        "title": "Project Meridian : la tech a-t-elle pris le contrôle de l'armée ?",
+        "title": "Revenu universel vs travail traditionnel : qui va financer notre avenir ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "DmdJ74F-k7U",
-        "thumbnail": "https://i.ytimg.com/vi/DmdJ74F-k7U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DmdJ74F-k7U",
-        "publishedAt": "2026-10-21T16:00:38+00:00"
+        "videoId": "NnGehPZ7qQU",
+        "thumbnail": "https://i.ytimg.com/vi/NnGehPZ7qQU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NnGehPZ7qQU",
+        "publishedAt": "2026-10-22T16:00:28+00:00"
+      },
+      {
+        "title": "On essaie de faire la voix la plus aiguë possible",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "yVAUmrCmBHk",
+        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
+        "publishedAt": "2026-10-22T15:32:15+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "MERCI À TOUS D’ÊTRE SI NOMBREUX !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "L0t8Azuvqjk",
+        "thumbnail": "https://i.ytimg.com/vi/L0t8Azuvqjk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L0t8Azuvqjk",
+        "publishedAt": "2026-10-22T15:18:21+00:00"
       },
       {
         "title": "Je suis venu en Corée pour elle… mais on a rompu.",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "CVE-2026-111943 : Autorité de certification intermédiaire compromise",
-        "titleOriginal": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-        "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-        "source": "nvd.nist.gov",
-        "score": 215,
-        "comments": 60,
-        "hnUrl": "https://news.ycombinator.com/item?id=50192900",
+        "title": "Quad9 (DNS Resolver) pour quitter la France",
+        "titleOriginal": "Quad9 (DNS Resolver) to Exit France",
+        "url": "https://quad9.net/news/blog/au-revoir-france/",
+        "source": "quad9.net",
+        "score": 396,
+        "comments": 134,
+        "hnUrl": "https://news.ycombinator.com/item?id=50195959",
         "date": "il y a 3 h"
       },
       {
-        "title": "Jailbreaking de l'interrupteur 2",
-        "titleOriginal": "Jailbreaking the Switch 2",
-        "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-        "source": "pepsipu.com",
-        "score": 181,
-        "comments": 56,
-        "hnUrl": "https://news.ycombinator.com/item?id=50192536",
+        "title": "eMudhra va quitter le marché mondial des certificats SSL/TLS",
+        "titleOriginal": "eMudhra to exit global SSL/TLS certificate business",
+        "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+        "source": "emudhra.com",
+        "score": 604,
+        "comments": 454,
+        "hnUrl": "https://news.ycombinator.com/item?id=50195110",
         "date": "il y a 4 h"
       },
       {
-        "title": "Plus rapide que la coupe d'oreille : triangulation de 3,7 MILLIONS de polygones de carte en 489 ms",
-        "titleOriginal": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-        "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-        "source": "globus.software",
-        "score": 82,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50193170",
-        "date": "il y a 3 h"
+        "title": "Afficher HN : Exécuter le micrologiciel iOS 16.5 complet sur les appareils Android",
+        "titleOriginal": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+        "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+        "source": "github.com",
+        "score": 115,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=50196718",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Qu'est-ce que la Gridifcation",
-        "titleOriginal": "What Is Gridifcation",
-        "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-        "source": "musicalform.substack.com",
-        "score": 26,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=50150163",
-        "date": "il y a 3 j"
+        "title": "What's Getting Pwned",
+        "titleOriginal": "What's Getting Pwned",
+        "url": "https://pwn.watch/",
+        "source": "pwn.watch",
+        "score": 194,
+        "comments": 111,
+        "hnUrl": "https://news.ycombinator.com/item?id=50195543",
+        "date": "il y a 3 h"
       }
     ]
   },
