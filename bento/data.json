@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-23T05:08:44.223Z",
+  "updatedAt": "2026-10-23T10:20:37.349Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
+      "temp": 13,
       "feelsLike": 8,
       "code": 61,
-      "wind": 20,
-      "humidity": 80
+      "wind": 33,
+      "humidity": 69
     },
     "forecast": [
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-10-25",
         "code": 63,
-        "tmax": 16,
+        "tmax": 15,
         "tmin": 10
       },
       {
         "date": "2026-10-26",
         "code": 61,
         "tmax": 13,
-        "tmin": 7
+        "tmin": 8
       }
     ]
   },
@@ -51,6 +51,78 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Si le travail disparaît, les États font faillite !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "WiqwNWLI2DE",
+        "thumbnail": "https://i.ytimg.com/vi/WiqwNWLI2DE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WiqwNWLI2DE",
+        "publishedAt": "2026-10-23T10:00:00+00:00"
+      },
+      {
+        "title": "On essaie de faire la voix la plus aiguë possible",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "yVAUmrCmBHk",
+        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
+        "publishedAt": "2026-10-22T15:32:15+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "MERCI À TOUS D’ÊTRE SI NOMBREUX !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "L0t8Azuvqjk",
+        "thumbnail": "https://i.ytimg.com/vi/L0t8Azuvqjk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L0t8Azuvqjk",
+        "publishedAt": "2026-10-22T15:18:21+00:00"
+      },
+      {
+        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "ZMXMo-oThH8",
+        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
+        "publishedAt": "2026-10-18T16:10:49+00:00"
+      },
+      {
+        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "f-LjcQZVrHM",
+        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
+        "publishedAt": "2026-10-18T09:40:36+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
       {
         "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
         "channel": "17h17",
@@ -102,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Wikipédia locale : Wikipédia, mais seulement pour les choses à une demi-heure de marche de vous",
+        "titleOriginal": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+        "url": "https://edjefferson.com/localwiki/",
+        "source": "edjefferson.com",
+        "score": 405,
+        "comments": 106,
+        "hnUrl": "https://news.ycombinator.com/item?id=50202285",
+        "date": "il y a 11 h"
+      },
+      {
         "title": "Docker est bizarre",
         "titleOriginal": "Docker is weird",
         "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
         "source": "codeandcake.dev",
-        "score": 263,
-        "comments": 134,
+        "score": 502,
+        "comments": 224,
         "hnUrl": "https://news.ycombinator.com/item?id=50202681",
-        "date": "il y a 5 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Les LLM rendent possible la vérification formelle des logiciels à une échelle beaucoup plus grande",
-        "titleOriginal": "LLMs are making formal software verification feasible at a much larger scale",
-        "url": "https://www.anthropic.com/research/formal-verification",
-        "source": "anthropic.com",
-        "score": 220,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=50202217",
-        "date": "il y a 6 h"
+        "title": "Comment Fable 5.1 cache-t-il les messages dans les images ?",
+        "titleOriginal": "How does Fable 5.1 hide messages in images?",
+        "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+        "source": "lesswrong.com",
+        "score": 92,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=50201445",
+        "date": "il y a 12 h"
       },
       {
-        "title": "Quad9 (DNS Resolver) pour quitter la France",
-        "titleOriginal": "Quad9 (DNS Resolver) to Exit France",
-        "url": "https://quad9.net/news/blog/au-revoir-france/",
-        "source": "quad9.net",
-        "score": 1076,
-        "comments": 383,
-        "hnUrl": "https://news.ycombinator.com/item?id=50195959",
-        "date": "il y a 14 h"
-      },
-      {
-        "title": "Mortalité chez les personnes atteintes d'un trouble déficitaire de l'attention/hyperactivité",
-        "titleOriginal": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-        "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-        "source": "jamanetwork.com",
-        "score": 63,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=50173516",
-        "date": "il y a 2 j"
+        "title": "L'espace extraterrestre de la science : des directions cohérentes mais cognitivement indisponibles",
+        "titleOriginal": "The alien space of science: Coherent but cognitively unavailable directions",
+        "url": "https://arxiv.org/abs/2603.01092",
+        "source": "arxiv.org",
+        "score": 68,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=50195002",
+        "date": "il y a 20 h"
       }
     ]
   },
