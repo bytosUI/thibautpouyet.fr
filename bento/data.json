@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-23T15:19:12.787Z",
+  "updatedAt": "2026-10-23T19:25:06.219Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 6,
-      "code": 61,
-      "wind": 33,
-      "humidity": 69
+      "temp": 10,
+      "feelsLike": 5,
+      "code": 80,
+      "wind": 25,
+      "humidity": 73
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-10-25",
         "code": 63,
-        "tmax": 15,
+        "tmax": 16,
         "tmin": 10
       },
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 67,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,12 +54,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "L'AFTER : 100 000 abonnés, SpaceX et le futur de la France !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "KX_8Jd9u2uE",
+        "thumbnail": "https://i.ytimg.com/vi/KX_8Jd9u2uE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KX_8Jd9u2uE",
+        "publishedAt": "2026-10-23T18:00:26+00:00"
+      },
       {
         "title": "LE MERVEILLEUX TRAVAIL DES TECHNICIENS PENDANT LA TOURNÉE",
         "channel": "LEGEND",
@@ -59,15 +76,6 @@
         "thumbnail": "https://i.ytimg.com/vi/AxGVxGdc0e0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AxGVxGdc0e0",
         "publishedAt": "2026-10-23T14:04:47+00:00"
-      },
-      {
-        "title": "Si le travail disparaît, les États font faillite !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "WiqwNWLI2DE",
-        "thumbnail": "https://i.ytimg.com/vi/WiqwNWLI2DE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WiqwNWLI2DE",
-        "publishedAt": "2026-10-23T10:00:00+00:00"
       },
       {
         "title": "On essaie de faire la voix la plus aiguë possible",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "OpenSSL 4.1.0",
-        "titleOriginal": "OpenSSL 4.1.0",
-        "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
-        "source": "github.com",
-        "score": 105,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=50208099",
+        "title": "Kimi K3.1 Pro et K3.1 Pro Highspeed",
+        "titleOriginal": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+        "source": "kimi.ai",
+        "score": 389,
+        "comments": 211,
+        "hnUrl": "https://news.ycombinator.com/item?id=50212065",
         "date": "il y a 2 h"
       },
       {
-        "title": "Wikipédia locale : Wikipédia, mais seulement pour les choses à une demi-heure de marche de vous",
-        "titleOriginal": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-        "url": "https://edjefferson.com/localwiki/",
-        "source": "edjefferson.com",
-        "score": 787,
-        "comments": 158,
-        "hnUrl": "https://news.ycombinator.com/item?id=50202285",
-        "date": "il y a 16 h"
-      },
-      {
-        "title": "Pas besoin de retraite quand l'utopie est au coin de la rue",
-        "titleOriginal": "No Need for Retirement When Utopia Is Around the Corner",
-        "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
-        "source": "blog.jim-nielsen.com",
-        "score": 123,
-        "comments": 86,
-        "hnUrl": "https://news.ycombinator.com/item?id=50207050",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Les bureaux du gouvernement suédois interdisent ChatGPT et Claude",
-        "titleOriginal": "Swedish government offices to ban ChatGPT and Claude",
-        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-        "source": "sverigesradio.se",
-        "score": 252,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=50207405",
+        "title": "Aujourd'hui, nous avons piraté ce que nous avions prévu de pirater : l'iPhone",
+        "titleOriginal": "Today, we hacked what we'd set out to hack: the iPhone",
+        "url": "https://blog.calif.io/p/iphone",
+        "source": "blog.calif.io",
+        "score": 485,
+        "comments": 314,
+        "hnUrl": "https://news.ycombinator.com/item?id=50211474",
         "date": "il y a 3 h"
+      },
+      {
+        "title": "Apple Music 404 introuvable",
+        "titleOriginal": "Apple Music 404 Not Found",
+        "url": "https://music.apple.com/this-url-doesnt-exist",
+        "source": "music.apple.com",
+        "score": 151,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=50207910",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "UUIDv7 n'a pas les propriétés que vous pensez qu'il a",
+        "titleOriginal": "UUIDv7 doesn't have the properties you think it does",
+        "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+        "source": "alexsci.com",
+        "score": 60,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=50211746",
+        "date": "il y a 2 h"
       }
     ]
   },
