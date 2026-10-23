@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-10-22T21:06:40.382Z",
+  "updatedAt": "2026-10-23T00:03:12.678Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 12,
-      "feelsLike": 10,
-      "code": 3,
-      "wind": 14,
-      "humidity": 82
+      "feelsLike": 9,
+      "code": 61,
+      "wind": 17,
+      "humidity": 79
     },
     "forecast": [
-      {
-        "date": "2026-10-22",
-        "code": 80,
-        "tmax": 14,
-        "tmin": 6
-      },
       {
         "date": "2026-10-23",
         "code": 80,
@@ -24,8 +18,8 @@
       },
       {
         "date": "2026-10-24",
-        "code": 63,
-        "tmax": 12,
+        "code": 61,
+        "tmax": 11,
         "tmin": 7
       },
       {
@@ -33,121 +27,30 @@
         "code": 63,
         "tmax": 16,
         "tmin": 10
+      },
+      {
+        "date": "2026-10-26",
+        "code": 61,
+        "tmax": 12,
+        "tmin": 9
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 8673,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      },
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 124,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Revenu universel vs travail traditionnel : qui va financer notre avenir ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "NnGehPZ7qQU",
-        "thumbnail": "https://i.ytimg.com/vi/NnGehPZ7qQU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NnGehPZ7qQU",
-        "publishedAt": "2026-10-22T16:00:28+00:00"
-      },
-      {
-        "title": "On essaie de faire la voix la plus aiguë possible",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "yVAUmrCmBHk",
-        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
-        "publishedAt": "2026-10-22T15:32:15+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "MERCI À TOUS D’ÊTRE SI NOMBREUX !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "L0t8Azuvqjk",
-        "thumbnail": "https://i.ytimg.com/vi/L0t8Azuvqjk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=L0t8Azuvqjk",
-        "publishedAt": "2026-10-22T15:18:21+00:00"
-      },
-      {
-        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ZMXMo-oThH8",
-        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
-        "publishedAt": "2026-10-18T16:10:49+00:00"
-      },
-      {
-        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f-LjcQZVrHM",
-        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
-        "publishedAt": "2026-10-18T09:40:36+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -181,7 +84,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 24 sem",
+        "time": "il y a 25 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       }
     ]
@@ -193,40 +96,40 @@
         "titleOriginal": "Quad9 (DNS Resolver) to Exit France",
         "url": "https://quad9.net/news/blog/au-revoir-france/",
         "source": "quad9.net",
-        "score": 731,
-        "comments": 278,
+        "score": 950,
+        "comments": 343,
         "hnUrl": "https://news.ycombinator.com/item?id=50195959",
-        "date": "il y a 6 h"
+        "date": "il y a 9 h"
       },
       {
         "title": "OpenShell – Un runtime sécurisé et privé pour les flottes d'agents d'IA autonomes",
         "titleOriginal": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
         "url": "https://github.com/NVIDIA/OpenShell",
         "source": "github.com",
-        "score": 176,
-        "comments": 94,
+        "score": 277,
+        "comments": 142,
         "hnUrl": "https://news.ycombinator.com/item?id=50198675",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Se préparer à exploiter GNU Taler en Allemagne",
-        "titleOriginal": "Getting ready to operate GNU Taler in Germany",
-        "url": "https://www.taler.net/en/news/2026-13.html",
-        "source": "taler.net",
-        "score": 151,
-        "comments": 50,
-        "hnUrl": "https://news.ycombinator.com/item?id=50197404",
-        "date": "il y a 4 h"
+        "title": "Les LLM rendent possible la vérification formelle des logiciels à une échelle beaucoup plus grande",
+        "titleOriginal": "LLMs are making formal software verification feasible at a much larger scale",
+        "url": "https://www.anthropic.com/research/formal-verification",
+        "source": "anthropic.com",
+        "score": 16,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50202217",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Afficher HN : Exécuter le micrologiciel iOS 16.5 complet sur les appareils Android",
-        "titleOriginal": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-        "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-        "source": "github.com",
-        "score": 238,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=50196718",
-        "date": "il y a 5 h"
+        "title": "Une femme risque six ans de prison pour un compte Cash App qu'elle n'a jamais ouvert",
+        "titleOriginal": "Woman faces six years in prison over Cash App account she never opened",
+        "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+        "source": "techspot.com",
+        "score": 442,
+        "comments": 439,
+        "hnUrl": "https://news.ycombinator.com/item?id=50194833",
+        "date": "il y a 10 h"
       }
     ]
   },
