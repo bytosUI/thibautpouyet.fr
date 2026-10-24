@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-23T22:28:40.461Z",
+  "updatedAt": "2026-10-24T00:57:22.659Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 4,
-      "code": 61,
+      "temp": 8,
+      "feelsLike": 3,
+      "code": 3,
       "wind": 27,
-      "humidity": 75
+      "humidity": 78
     },
     "forecast": [
       {
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 132,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,74 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "L'AFTER : 100 000 abonnés, SpaceX et le futur de la France !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "KX_8Jd9u2uE",
-        "thumbnail": "https://i.ytimg.com/vi/KX_8Jd9u2uE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KX_8Jd9u2uE",
-        "publishedAt": "2026-10-23T18:00:26+00:00"
-      },
-      {
-        "title": "LE MERVEILLEUX TRAVAIL DES TECHNICIENS PENDANT LA TOURNÉE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "AxGVxGdc0e0",
-        "thumbnail": "https://i.ytimg.com/vi/AxGVxGdc0e0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AxGVxGdc0e0",
-        "publishedAt": "2026-10-23T14:04:47+00:00"
-      },
-      {
-        "title": "On essaie de faire la voix la plus aiguë possible",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "yVAUmrCmBHk",
-        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
-        "publishedAt": "2026-10-22T15:32:15+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ZMXMo-oThH8",
-        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
-        "publishedAt": "2026-10-18T16:10:49+00:00"
-      },
-      {
-        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f-LjcQZVrHM",
-        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
-        "publishedAt": "2026-10-18T09:40:36+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
       {
         "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
         "channel": "SQUEEZIE",
@@ -130,15 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
         "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
       }
     ]
   },
@@ -186,40 +106,40 @@
         "titleOriginal": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
         "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
         "source": "kimi.ai",
-        "score": 597,
-        "comments": 363,
+        "score": 698,
+        "comments": 440,
         "hnUrl": "https://news.ycombinator.com/item?id=50212065",
-        "date": "il y a 5 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Apple Music 404 introuvable",
         "titleOriginal": "Apple Music 404 Not Found",
         "url": "https://music.apple.com/this-url-doesnt-exist",
         "source": "music.apple.com",
-        "score": 426,
-        "comments": 156,
+        "score": 557,
+        "comments": 186,
         "hnUrl": "https://news.ycombinator.com/item?id=50207910",
-        "date": "il y a 9 h"
+        "date": "il y a 12 h"
       },
       {
-        "title": "Dessa : le modèle vocal full-duplex le plus authentique jamais construit",
-        "titleOriginal": "Dessa: the most authentic full-duplex speech model ever built",
-        "url": "https://block.xyz/dessa",
-        "source": "block.xyz",
-        "score": 131,
-        "comments": 47,
-        "hnUrl": "https://news.ycombinator.com/item?id=50213925",
+        "title": "Evolving Threat : http2shell est un RCE dans node, Python, et plus encore",
+        "titleOriginal": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+        "source": "nitter.click",
+        "score": 42,
+        "comments": 9,
+        "hnUrl": "https://news.ycombinator.com/item?id=50216791",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "CVE Tracker",
+        "titleOriginal": "CVE Tracker",
+        "url": "https://cve.0xosprey.com/",
+        "source": "cve.0xosprey.com",
+        "score": 90,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=50215530",
         "date": "il y a 3 h"
-      },
-      {
-        "title": "Aujourd'hui, nous avons piraté ce que nous avions prévu de pirater : l'iPhone",
-        "titleOriginal": "Today, we hacked what we'd set out to hack: the iPhone",
-        "url": "https://blog.calif.io/p/iphone",
-        "source": "blog.calif.io",
-        "score": 654,
-        "comments": 432,
-        "hnUrl": "https://news.ycombinator.com/item?id=50211474",
-        "date": "il y a 6 h"
       }
     ]
   },
