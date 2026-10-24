@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T00:57:22.659Z",
+  "updatedAt": "2026-10-24T05:25:47.074Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 8,
       "feelsLike": 3,
-      "code": 3,
-      "wind": 27,
-      "humidity": 78
+      "code": 2,
+      "wind": 20,
+      "humidity": 86
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-10-25",
-        "code": 63,
-        "tmax": 15,
+        "code": 61,
+        "tmax": 16,
         "tmin": 9
       },
       {
         "date": "2026-10-26",
         "code": 61,
         "tmax": 12,
-        "tmin": 7
+        "tmin": 8
       },
       {
         "date": "2026-10-27",
-        "code": 3,
-        "tmax": 18,
-        "tmin": 10
+        "code": 61,
+        "tmax": 19,
+        "tmin": 11
       }
     ]
   },
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -106,98 +96,368 @@
         "titleOriginal": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
         "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
         "source": "kimi.ai",
-        "score": 698,
-        "comments": 440,
+        "score": 811,
+        "comments": 488,
         "hnUrl": "https://news.ycombinator.com/item?id=50212065",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
+      },
+      {
+        "title": "Douze ans de SQLite distribué",
+        "titleOriginal": "Twelve years of distributed SQLite",
+        "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+        "source": "philipotoole.com",
+        "score": 98,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50217500",
+        "date": "il y a 4 h"
       },
       {
         "title": "Apple Music 404 introuvable",
         "titleOriginal": "Apple Music 404 Not Found",
         "url": "https://music.apple.com/this-url-doesnt-exist",
         "source": "music.apple.com",
-        "score": 557,
-        "comments": 186,
+        "score": 678,
+        "comments": 212,
         "hnUrl": "https://news.ycombinator.com/item?id=50207910",
-        "date": "il y a 12 h"
+        "date": "il y a 16 h"
       },
       {
-        "title": "Evolving Threat : http2shell est un RCE dans node, Python, et plus encore",
-        "titleOriginal": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-        "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-        "source": "nitter.click",
-        "score": 42,
-        "comments": 9,
-        "hnUrl": "https://news.ycombinator.com/item?id=50216791",
+        "title": "Dans quelle mesure la programmation fonctionnelle pure peut-elle se rapprocher de C ?",
+        "titleOriginal": "How close can pure functional programming get to C?",
+        "url": "https://rtfeldman.com/fp-vs-c",
+        "source": "rtfeldman.com",
+        "score": 19,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50218195",
         "date": "il y a 1 h"
-      },
-      {
-        "title": "CVE Tracker",
-        "titleOriginal": "CVE Tracker",
-        "url": "https://cve.0xosprey.com/",
-        "source": "cve.0xosprey.com",
-        "score": 90,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=50215530",
-        "date": "il y a 3 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": false,
-    "resultsDate": "20261022",
+    "resultsDate": "20261023",
     "results": [
       {
-        "id": "401909093",
-        "date": "2026-10-22T23:00Z",
+        "id": "401909848",
+        "date": "2026-10-23T20:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "20",
-          "abbr": "PHI",
-          "name": "76ers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phi.png",
-          "score": 114,
-          "record": "2-0",
+          "id": "15",
+          "abbr": "MIL",
+          "name": "Bucks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
+          "score": 125,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "4",
+          "abbr": "CHI",
+          "name": "Bulls",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
+          "score": 132,
+          "record": "1-1",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909095",
+        "date": "2026-10-23T23:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "2",
+          "abbr": "BOS",
+          "name": "Celtics",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
+          "score": 107,
+          "record": "1-1",
           "winner": true
         },
         "away": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 106,
-          "record": "0-1",
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 103,
+          "record": "0-2",
           "winner": false
         },
         "series": null
       },
       {
-        "id": "401909094",
-        "date": "2026-10-23T01:30Z",
+        "id": "401909843",
+        "date": "2026-10-23T23:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 96,
+          "id": "30",
+          "abbr": "CHA",
+          "name": "Hornets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
+          "score": 81,
+          "record": "1-1",
+          "winner": false
+        },
+        "away": {
+          "id": "1",
+          "abbr": "ATL",
+          "name": "Hawks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
+          "score": 128,
+          "record": "2-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909844",
+        "date": "2026-10-23T23:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "11",
+          "abbr": "IND",
+          "name": "Pacers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
+          "score": 105,
+          "record": "1-1",
+          "winner": false
+        },
+        "away": {
+          "id": "6",
+          "abbr": "DAL",
+          "name": "Mavericks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
+          "score": 121,
+          "record": "1-1",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909845",
+        "date": "2026-10-23T23:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "19",
+          "abbr": "ORL",
+          "name": "Magic",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/orl.png",
+          "score": 93,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "16",
+          "abbr": "MIN",
+          "name": "Timberwolves",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
+          "score": 115,
+          "record": "2-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909846",
+        "date": "2026-10-23T23:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "27",
+          "abbr": "WSH",
+          "name": "Wizards",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
+          "score": 102,
+          "record": "1-1",
+          "winner": false
+        },
+        "away": {
+          "id": "28",
+          "abbr": "TOR",
+          "name": "Raptors",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/tor.png",
+          "score": 112,
+          "record": "2-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909847",
+        "date": "2026-10-24T00:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "14",
+          "abbr": "MIA",
+          "name": "Heat",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
+          "score": 111,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 128,
+          "record": "2-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909096",
+        "date": "2026-10-24T01:30Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 110,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "10",
+          "abbr": "HOU",
+          "name": "Rockets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
+          "score": 114,
+          "record": "2-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909849",
+        "date": "2026-10-24T01:30Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "26",
+          "abbr": "UTAH",
+          "name": "Jazz",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
+          "score": 120,
+          "record": "1-1",
+          "winner": true
+        },
+        "away": {
+          "id": "3",
+          "abbr": "NO",
+          "name": "Pelicans",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/no.png",
+          "score": 119,
+          "record": "0-2",
+          "winner": false
+        },
+        "series": null
+      },
+      {
+        "id": "401909850",
+        "date": "2026-10-24T02:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "9",
+          "abbr": "GS",
+          "name": "Warriors",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
+          "score": 108,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "29",
+          "abbr": "MEM",
+          "name": "Grizzlies",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
+          "score": 111,
+          "record": "2-0",
+          "winner": true
+        },
+        "series": null
+      },
+      {
+        "id": "401909851",
+        "date": "2026-10-24T02:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 125,
           "record": "2-0",
           "winner": true
         },
         "away": {
-          "id": "7",
-          "abbr": "DEN",
-          "name": "Nuggets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-          "score": 84,
-          "record": "0-1",
+          "id": "12",
+          "abbr": "LAC",
+          "name": "Clippers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lac.png",
+          "score": 117,
+          "record": "1-1",
           "winner": false
+        },
+        "series": null
+      },
+      {
+        "id": "401909852",
+        "date": "2026-10-24T02:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "23",
+          "abbr": "SAC",
+          "name": "Kings",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+          "score": 120,
+          "record": "0-2",
+          "winner": false
+        },
+        "away": {
+          "id": "22",
+          "abbr": "POR",
+          "name": "Trail Blazers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+          "score": 128,
+          "record": "2-0",
+          "winner": true
         },
         "series": null
       }
