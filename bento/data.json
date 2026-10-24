@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-10-24T19:38:00.868Z",
+  "updatedAt": "2026-10-24T22:11:15.542Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
+      "temp": 11,
       "feelsLike": 6,
       "code": 61,
-      "wind": 26,
+      "wind": 33,
       "humidity": 88
     },
     "forecast": [
       {
-        "date": "2026-10-24",
-        "code": 61,
-        "tmax": 11,
-        "tmin": 7
-      },
-      {
         "date": "2026-10-25",
         "code": 63,
         "tmax": 15,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-10-26",
@@ -30,9 +24,15 @@
       },
       {
         "date": "2026-10-27",
-        "code": 61,
-        "tmax": 18,
+        "code": 80,
+        "tmax": 19,
         "tmin": 10
+      },
+      {
+        "date": "2026-10-28",
+        "code": 3,
+        "tmax": 13,
+        "tmin": 7
       }
     ]
   },
@@ -42,7 +42,7 @@
         "user": "thetangerineclub",
         "displayName": "TheTangerineClub",
         "game": "Music",
-        "viewers": 73,
+        "viewers": 148,
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
         "url": "https://twitch.tv/thetangerineclub"
       }
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 14 sem",
+        "time": "il y a 15 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 16 sem",
+        "time": "il y a 17 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les dépôts de développeurs Roku ont été déplacés de GitHub vers GitLab",
-        "titleOriginal": "Roku developer repositories moved from GitHub to GitLab",
-        "url": "https://blog.roku.com/developer/gitlab-move",
-        "source": "blog.roku.com",
-        "score": 178,
-        "comments": 118,
-        "hnUrl": "https://news.ycombinator.com/item?id=50222622",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Brinno (1)",
-        "titleOriginal": "Dream-1",
-        "url": "https://dreamlabs.ai/research/dream-1/",
-        "source": "dreamlabs.ai",
-        "score": 62,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=50223785",
+        "title": "Afficher HN : Voler mon Bitcoin",
+        "titleOriginal": "Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com/",
+        "source": "stealmybitcoin.com",
+        "score": 185,
+        "comments": 59,
+        "hnUrl": "https://news.ycombinator.com/item?id=50224916",
         "date": "il y a 1 h"
       },
       {
-        "title": "La pièce de 5 pence de Sainte-Hélène montre Jonathan, une tortue d'environ 190 ans",
-        "titleOriginal": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-        "url": "https://de.numista.com/9866",
-        "source": "de.numista.com",
-        "score": 62,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=50222927",
+        "title": "Le langage de programmation Goose",
+        "titleOriginal": "The Goose Programming Language",
+        "url": "https://aardappel.github.io/goose/",
+        "source": "aardappel.github.io",
+        "score": 155,
+        "comments": 54,
+        "hnUrl": "https://news.ycombinator.com/item?id=50224300",
         "date": "il y a 2 h"
       },
       {
-        "title": "FreeDNS",
-        "titleOriginal": "FreeDNS",
-        "url": "https://freedns.afraid.org/",
-        "source": "freedns.afraid.org",
-        "score": 185,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=50222133",
-        "date": "il y a 4 h"
+        "title": "Aucun signe de retombées positives de l'IA en dehors du secteur technologique",
+        "titleOriginal": "No Signs of AI Payoff Outside the Tech Sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "apollo.com",
+        "score": 350,
+        "comments": 317,
+        "hnUrl": "https://news.ycombinator.com/item?id=50224463",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "John Carmack sur le langage de l'oie : plusieurs piles de données et références relatives",
+        "titleOriginal": "John Carmack on the Goose Language: multiple data stacks and relative references",
+        "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+        "source": "twitter.com",
+        "score": 119,
+        "comments": 50,
+        "hnUrl": "https://news.ycombinator.com/item?id=50224100",
+        "date": "il y a 3 h"
       }
     ]
   },
