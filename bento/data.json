@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-24T13:47:29.818Z",
+  "updatedAt": "2026-10-24T17:08:51.127Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 11,
       "feelsLike": 7,
       "code": 61,
-      "wind": 20,
-      "humidity": 76
+      "wind": 21,
+      "humidity": 85
     },
     "forecast": [
       {
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-10-27",
-        "code": 3,
+        "code": 61,
         "tmax": 18,
         "tmin": 10
       }
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Je ne comprends pas la physique quantique (2018)",
-        "titleOriginal": "I Don't Understand Quantum Physics (2018)",
-        "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-        "source": "southampton.ac.uk",
-        "score": 143,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=50219666",
-        "date": "il y a 3 h"
+        "title": "Les dépôts de développeurs Roku ont été déplacés de GitHub vers GitLab",
+        "titleOriginal": "Roku developer repositories moved from GitHub to GitLab",
+        "url": "https://blog.roku.com/developer/gitlab-move",
+        "source": "blog.roku.com",
+        "score": 75,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=50222622",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Studio OBS",
-        "titleOriginal": "OBS Studio 33",
-        "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-        "source": "github.com",
-        "score": 260,
-        "comments": 78,
-        "hnUrl": "https://news.ycombinator.com/item?id=50218430",
-        "date": "il y a 8 h"
+        "title": "FreeDNS",
+        "titleOriginal": "FreeDNS",
+        "url": "https://freedns.afraid.org/",
+        "source": "freedns.afraid.org",
+        "score": 111,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=50222133",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Elon Musk vient de donner à l'Europe une raison de remplacer la technologie américaine",
-        "titleOriginal": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-        "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-        "source": "steveblank.com",
-        "score": 91,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=50220913",
-        "date": "il y a 37 min"
+        "title": "La pièce de 5 pence de Sainte-Hélène montre Jonathan, une tortue d'environ 190 ans",
+        "titleOriginal": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+        "url": "https://de.numista.com/9866",
+        "source": "de.numista.com",
+        "score": 13,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50222927",
+        "date": "il y a 26 min"
       },
       {
-        "title": "Une douzaine d'applications bancaires ont commencé à permettre spécifiquement GrapheneOS",
-        "titleOriginal": "Around a dozen banking apps began specifically permitting GrapheneOS",
-        "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-        "source": "grapheneos.social",
-        "score": 284,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=50217495",
-        "date": "il y a 12 h"
+        "title": "La puce neurale décode les interactions entre les régions du cerveau",
+        "titleOriginal": "Neural chip decodes interactions between brain regions",
+        "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+        "source": "actu.epfl.ch",
+        "score": 26,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=50222525",
+        "date": "il y a 1 h"
       }
     ]
   },
