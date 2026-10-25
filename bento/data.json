@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-24T22:11:15.542Z",
+  "updatedAt": "2026-10-25T00:25:52.191Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 6,
+      "temp": 12,
+      "feelsLike": 8,
       "code": 61,
-      "wind": 33,
-      "humidity": 88
+      "wind": 31,
+      "humidity": 90
     },
     "forecast": [
       {
         "date": "2026-10-25",
-        "code": 63,
+        "code": 61,
         "tmax": 15,
         "tmin": 9
       },
@@ -20,7 +20,7 @@
         "date": "2026-10-26",
         "code": 61,
         "tmax": 12,
-        "tmin": 6
+        "tmin": 7
       },
       {
         "date": "2026-10-27",
@@ -37,16 +37,7 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 148,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,93 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "L'AFTER : 100 000 abonnés, SpaceX et le futur de la France !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "KX_8Jd9u2uE",
-        "thumbnail": "https://i.ytimg.com/vi/KX_8Jd9u2uE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KX_8Jd9u2uE",
-        "publishedAt": "2026-10-23T18:00:26+00:00"
-      },
-      {
-        "title": "LE MERVEILLEUX TRAVAIL DES TECHNICIENS PENDANT LA TOURNÉE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "AxGVxGdc0e0",
-        "thumbnail": "https://i.ytimg.com/vi/AxGVxGdc0e0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AxGVxGdc0e0",
-        "publishedAt": "2026-10-23T14:04:47+00:00"
-      },
-      {
-        "title": "On essaie de faire la voix la plus aiguë possible",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "yVAUmrCmBHk",
-        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
-        "publishedAt": "2026-10-22T15:32:15+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "ZMXMo-oThH8",
-        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
-        "publishedAt": "2026-10-18T16:10:49+00:00"
-      },
-      {
-        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f-LjcQZVrHM",
-        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
-        "publishedAt": "2026-10-18T09:40:36+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      },
-      {
-        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "9N3DhRkzQc0",
-        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
-        "publishedAt": "2026-10-04T15:17:21+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -182,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Afficher HN : Voler mon Bitcoin",
-        "titleOriginal": "Show HN: Steal My Bitcoin",
-        "url": "https://stealmybitcoin.com/",
-        "source": "stealmybitcoin.com",
-        "score": 185,
-        "comments": 59,
-        "hnUrl": "https://news.ycombinator.com/item?id=50224916",
+        "title": "L'Amérique a perdu 200 000 emplois dans les médias, le cinéma et les arts. Combien coûte l'IA ?",
+        "titleOriginal": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "apricitas.io",
+        "score": 54,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=50226419",
         "date": "il y a 1 h"
+      },
+      {
+        "title": "Nous devrions être plus ambitieux avec le logiciel que nous construisons",
+        "titleOriginal": "We should be more ambitious with the software we build",
+        "url": "https://danluu.com/ambitious/",
+        "source": "danluu.com",
+        "score": 109,
+        "comments": 68,
+        "hnUrl": "https://news.ycombinator.com/item?id=50225695",
+        "date": "il y a 2 h"
       },
       {
         "title": "Le langage de programmation Goose",
         "titleOriginal": "The Goose Programming Language",
         "url": "https://aardappel.github.io/goose/",
         "source": "aardappel.github.io",
-        "score": 155,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=50224300",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Aucun signe de retombées positives de l'IA en dehors du secteur technologique",
-        "titleOriginal": "No Signs of AI Payoff Outside the Tech Sector",
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "source": "apollo.com",
-        "score": 350,
-        "comments": 317,
-        "hnUrl": "https://news.ycombinator.com/item?id=50224463",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "John Carmack sur le langage de l'oie : plusieurs piles de données et références relatives",
-        "titleOriginal": "John Carmack on the Goose Language: multiple data stacks and relative references",
-        "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-        "source": "twitter.com",
-        "score": 119,
-        "comments": 50,
+        "score": 199,
+        "comments": 150,
         "hnUrl": "https://news.ycombinator.com/item?id=50224100",
-        "date": "il y a 3 h"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Les dépôts de développeurs Roku ont été déplacés de GitHub vers GitLab",
+        "titleOriginal": "Roku developer repositories moved from GitHub to GitLab",
+        "url": "https://blog.roku.com/developer/gitlab-move",
+        "source": "blog.roku.com",
+        "score": 245,
+        "comments": 164,
+        "hnUrl": "https://news.ycombinator.com/item?id=50222622",
+        "date": "il y a 8 h"
       }
     ]
   },
