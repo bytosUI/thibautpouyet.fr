@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T09:58:44.255Z",
+  "updatedAt": "2026-10-25T14:09:51.161Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
+      "temp": 15,
       "feelsLike": 10,
       "code": 2,
-      "wind": 21,
-      "humidity": 76
+      "wind": 25,
+      "humidity": 60
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-10-26",
         "code": 61,
         "tmax": 12,
-        "tmin": 7
+        "tmin": 8
       },
       {
         "date": "2026-10-27",
@@ -37,9 +37,17 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Special Events",
+        "viewers": 17754,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -51,6 +59,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "IL NOUS DÉVOILE L'HEURE PARFAITE POUR ARRIVER À UN DÎNER",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "87f_NAMk7qY",
+        "thumbnail": "https://i.ytimg.com/vi/87f_NAMk7qY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=87f_NAMk7qY",
+        "publishedAt": "2026-10-25T14:00:13+00:00"
+      },
       {
         "title": "J'ai gravé mon Macbook 😱",
         "channel": "Rachel & Emilien - Rénovation",
@@ -68,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/KX_8Jd9u2uE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KX_8Jd9u2uE",
         "publishedAt": "2026-10-23T18:00:26+00:00"
-      },
-      {
-        "title": "LE MERVEILLEUX TRAVAIL DES TECHNICIENS PENDANT LA TOURNÉE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "AxGVxGdc0e0",
-        "thumbnail": "https://i.ytimg.com/vi/AxGVxGdc0e0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AxGVxGdc0e0",
-        "publishedAt": "2026-10-23T14:04:47+00:00"
       },
       {
         "title": "On essaie de faire la voix la plus aiguë possible",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Meta ignore l'ordonnance du tribunal brésilien pour mettre fin au favoritisme de Bolsonaro",
-        "titleOriginal": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-        "source": "panamericandispatch.org",
+        "title": "Livre d'outils d'un chevalier de Nuremberg de 1505",
+        "titleOriginal": "Tool book of a Nuremberg knight from 1505",
+        "url": "https://loeffelholz-codex.org/en/",
+        "source": "loeffelholz-codex.org",
+        "score": 42,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50230917",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le défi est terminé",
+        "titleOriginal": "Challenge Is Gone",
+        "url": "https://blog.alxgsv.com/challenge-is-gone/",
+        "source": "blog.alxgsv.com",
+        "score": 40,
+        "comments": 35,
+        "hnUrl": "https://news.ycombinator.com/item?id=50230965",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "fheroes2 : Une recréation du moteur de jeu Heroes of Might et Magic II",
+        "titleOriginal": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+        "url": "https://github.com/ihhub/fheroes2",
+        "source": "github.com",
         "score": 82,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=50229587",
-        "date": "il y a 58 min"
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=50230384",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Nous devrions être plus ambitieux avec le logiciel que nous construisons",
-        "titleOriginal": "We should be more ambitious with the software we build",
-        "url": "https://danluu.com/ambitious/",
-        "source": "danluu.com",
-        "score": 434,
-        "comments": 370,
-        "hnUrl": "https://news.ycombinator.com/item?id=50225695",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Cerebras déploie des modèles d'IA à trillion de paramètres",
-        "titleOriginal": "Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "source": "cerebras.ai",
-        "score": 164,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=50227356",
-        "date": "il y a 8 h"
-      },
-      {
-        "title": "Comment est fabriquée la bonite séchée au Japon",
-        "titleOriginal": "How Japanese Dried Bonito Is Made",
-        "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-        "source": "kottke.org",
-        "score": 39,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=50193936",
-        "date": "il y a 2 j"
+        "title": "Afficher HN : Farol – une carte des risques d'une demande de tirage pour la personne qui l'approuve",
+        "titleOriginal": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+        "url": "https://github.com/winnin/farol",
+        "source": "github.com",
+        "score": 7,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50231349",
+        "date": "il y a 41 min"
       }
     ]
   },
