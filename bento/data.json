@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-25T05:03:28.244Z",
+  "updatedAt": "2026-10-25T09:58:44.255Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
+      "temp": 13,
       "feelsLike": 10,
-      "code": 61,
-      "wind": 35,
-      "humidity": 89
+      "code": 2,
+      "wind": 21,
+      "humidity": 76
     },
     "forecast": [
       {
@@ -24,15 +24,15 @@
       },
       {
         "date": "2026-10-27",
-        "code": 80,
+        "code": 61,
         "tmax": 19,
-        "tmin": 10
+        "tmin": 9
       },
       {
         "date": "2026-10-28",
         "code": 45,
         "tmax": 14,
-        "tmin": 7
+        "tmin": 6
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "J'ai gravé mon Macbook 😱",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "b6CCps_IGq4",
+        "thumbnail": "https://i.ytimg.com/vi/b6CCps_IGq4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b6CCps_IGq4",
+        "publishedAt": "2026-10-25T09:27:54+00:00"
+      },
+      {
+        "title": "L'AFTER : 100 000 abonnés, SpaceX et le futur de la France !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "KX_8Jd9u2uE",
+        "thumbnail": "https://i.ytimg.com/vi/KX_8Jd9u2uE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KX_8Jd9u2uE",
+        "publishedAt": "2026-10-23T18:00:26+00:00"
+      },
+      {
+        "title": "LE MERVEILLEUX TRAVAIL DES TECHNICIENS PENDANT LA TOURNÉE",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "AxGVxGdc0e0",
+        "thumbnail": "https://i.ytimg.com/vi/AxGVxGdc0e0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AxGVxGdc0e0",
+        "publishedAt": "2026-10-23T14:04:47+00:00"
+      },
+      {
+        "title": "On essaie de faire la voix la plus aiguë possible",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "yVAUmrCmBHk",
+        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
+        "publishedAt": "2026-10-22T15:32:15+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "Je suis venu en Corée pour elle… mais on a rompu.",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "ZMXMo-oThH8",
+        "thumbnail": "https://i.ytimg.com/vi/ZMXMo-oThH8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZMXMo-oThH8",
+        "publishedAt": "2026-10-18T16:10:49+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      },
+      {
+        "title": "Toujours pas de douche dans ma vieille maison en forêt #29",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "9N3DhRkzQc0",
+        "thumbnail": "https://i.ytimg.com/vi/9N3DhRkzQc0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9N3DhRkzQc0",
+        "publishedAt": "2026-10-04T15:17:21+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Cinq modèles Qwen3.8-27B correspondent à Fable 5 en utilisant le harnais GVS5H",
-        "titleOriginal": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
-        "url": "https://github.com/slee-persis/GVS5H",
-        "source": "github.com",
-        "score": 58,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=50228167",
-        "date": "il y a 1 h"
+        "title": "Meta ignore l'ordonnance du tribunal brésilien pour mettre fin au favoritisme de Bolsonaro",
+        "titleOriginal": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+        "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+        "source": "panamericandispatch.org",
+        "score": 82,
+        "comments": 27,
+        "hnUrl": "https://news.ycombinator.com/item?id=50229587",
+        "date": "il y a 58 min"
       },
       {
         "title": "Nous devrions être plus ambitieux avec le logiciel que nous construisons",
         "titleOriginal": "We should be more ambitious with the software we build",
         "url": "https://danluu.com/ambitious/",
         "source": "danluu.com",
-        "score": 280,
-        "comments": 238,
+        "score": 434,
+        "comments": 370,
         "hnUrl": "https://news.ycombinator.com/item?id=50225695",
-        "date": "il y a 7 h"
+        "date": "il y a 12 h"
       },
       {
         "title": "Cerebras déploie des modèles d'IA à trillion de paramètres",
         "titleOriginal": "Cerebras Deploys Trillion-Parameter AI Models",
         "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
         "source": "cerebras.ai",
-        "score": 57,
-        "comments": 18,
+        "score": 164,
+        "comments": 57,
         "hnUrl": "https://news.ycombinator.com/item?id=50227356",
-        "date": "il y a 3 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "Le langage de programmation Goose",
-        "titleOriginal": "The Goose Programming Language",
-        "url": "https://aardappel.github.io/goose/",
-        "source": "aardappel.github.io",
-        "score": 305,
-        "comments": 188,
-        "hnUrl": "https://news.ycombinator.com/item?id=50224100",
-        "date": "il y a 9 h"
+        "title": "Comment est fabriquée la bonite séchée au Japon",
+        "titleOriginal": "How Japanese Dried Bonito Is Made",
+        "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+        "source": "kottke.org",
+        "score": 39,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=50193936",
+        "date": "il y a 2 j"
       }
     ]
   },
