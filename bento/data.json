@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-26T18:46:00.912Z",
+  "updatedAt": "2026-10-26T22:59:15.546Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
+      "temp": 12,
+      "feelsLike": 11,
       "code": 3,
-      "wind": 11,
-      "humidity": 84
+      "wind": 8,
+      "humidity": 93
     },
     "forecast": [
       {
@@ -20,7 +20,7 @@
         "date": "2026-10-27",
         "code": 80,
         "tmax": 19,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-10-28",
@@ -30,7 +30,7 @@
       },
       {
         "date": "2026-10-29",
-        "code": 45,
+        "code": 2,
         "tmax": 15,
         "tmin": 5
       }
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "GUILLAUME TRÈS ÉMU SUR SCÈNE AU LEGEND TOUR",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "EeVC_ehlHw0",
-        "thumbnail": "https://i.ytimg.com/vi/EeVC_ehlHw0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EeVC_ehlHw0",
-        "publishedAt": "2026-10-26T17:30:16+00:00"
-      },
-      {
-        "title": "Maigrir, booster son cerveau : la folie des peptides !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "HG77j0optFA",
-        "thumbnail": "https://i.ytimg.com/vi/HG77j0optFA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HG77j0optFA",
-        "publishedAt": "2026-10-26T17:00:34+00:00"
-      },
-      {
-        "title": "On se rend compte qu'on devrait être en couple",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ea7fMIzLcT8",
-        "thumbnail": "https://i.ytimg.com/vi/ea7fMIzLcT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ea7fMIzLcT8",
-        "publishedAt": "2026-10-26T15:17:51+00:00"
-      },
-      {
-        "title": "Je réapprends à profiter de la vie en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "e5XLy-D-Z4s",
-        "thumbnail": "https://i.ytimg.com/vi/e5XLy-D-Z4s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e5XLy-D-Z4s",
-        "publishedAt": "2026-10-25T17:00:25+00:00"
-      },
-      {
-        "title": "Ma vieille maison dans les bois devient plus autonome #30",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hSqyq8P1bzc",
-        "thumbnail": "https://i.ytimg.com/vi/hSqyq8P1bzc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hSqyq8P1bzc",
-        "publishedAt": "2026-10-25T16:17:29+00:00"
-      },
-      {
-        "title": "J'ai gravé mon Macbook 😱",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "b6CCps_IGq4",
-        "thumbnail": "https://i.ytimg.com/vi/b6CCps_IGq4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6CCps_IGq4",
-        "publishedAt": "2026-10-25T09:27:54+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les employés de Meta dénoncent l'ingérence dans les élections brésiliennes",
-        "titleOriginal": "Meta Employees Denounce Interference in Brazilian Elections",
-        "url": "https://www.panamericandispatch.org/p/meta-employees-denounce-interference",
-        "source": "panamericandispatch.org",
-        "score": 195,
-        "comments": 57,
-        "hnUrl": "https://news.ycombinator.com/item?id=50248061",
-        "date": "il y a 48 min"
+        "title": "Travailler avec les communautés universitaires pour renforcer la compréhension scientifique",
+        "titleOriginal": "Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+        "source": "openai.com",
+        "score": 171,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=50251344",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Clé de couloir 2.0",
+        "titleOriginal": "CorridorKey 2.0",
+        "url": "https://corridorkey.com/",
+        "source": "corridorkey.com",
+        "score": 99,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=50251127",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Protocole serveur :",
+        "titleOriginal": "Type Server Protocol",
+        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+        "source": "github.com",
+        "score": 170,
+        "comments": 125,
+        "hnUrl": "https://news.ycombinator.com/item?id=50248371",
+        "date": "il y a 4 h"
       },
       {
         "title": "Le cours vidéo de Sebastian Raschka sur la construction de modèles de raisonnement",
         "titleOriginal": "Sebastian Raschka's from-scratch video course on building reasoning models",
         "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
         "source": "magazine.sebastianraschka.com",
-        "score": 323,
-        "comments": 47,
+        "score": 504,
+        "comments": 76,
         "hnUrl": "https://news.ycombinator.com/item?id=50245138",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "CSS-Tricks a un nouveau propriétaire",
-        "titleOriginal": "CSS-Tricks has a new owner",
-        "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-        "source": "css-tricks.com",
-        "score": 203,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=50245831",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Microsoft annonce le protocole Type Server, l'extension du protocole Language Server",
-        "titleOriginal": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
-        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-        "source": "github.com",
-        "score": 15,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50248371",
-        "date": "il y a 31 min"
+        "date": "il y a 7 h"
       }
     ]
   },
