@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-10-25T22:43:03.783Z",
+  "updatedAt": "2026-10-26T00:56:29.571Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 6,
-      "code": 1,
-      "wind": 17,
-      "humidity": 78
+      "temp": 8,
+      "feelsLike": 5,
+      "code": 2,
+      "wind": 16,
+      "humidity": 84
     },
     "forecast": [
-      {
-        "date": "2026-10-25",
-        "code": 63,
-        "tmax": 15,
-        "tmin": 9
-      },
       {
         "date": "2026-10-26",
         "code": 61,
@@ -33,6 +27,12 @@
         "code": 45,
         "tmax": 14,
         "tmin": 6
+      },
+      {
+        "date": "2026-10-29",
+        "code": 45,
+        "tmax": 15,
+        "tmin": 5
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Je réapprends à profiter de la vie en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "e5XLy-D-Z4s",
-        "thumbnail": "https://i.ytimg.com/vi/e5XLy-D-Z4s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e5XLy-D-Z4s",
-        "publishedAt": "2026-10-25T17:00:25+00:00"
-      },
-      {
-        "title": "Ma vieille maison dans les bois devient plus autonome #30",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hSqyq8P1bzc",
-        "thumbnail": "https://i.ytimg.com/vi/hSqyq8P1bzc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hSqyq8P1bzc",
-        "publishedAt": "2026-10-25T16:17:29+00:00"
-      },
-      {
-        "title": "IL NOUS DÉVOILE L'HEURE PARFAITE POUR ARRIVER À UN DÎNER",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "87f_NAMk7qY",
-        "thumbnail": "https://i.ytimg.com/vi/87f_NAMk7qY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=87f_NAMk7qY",
-        "publishedAt": "2026-10-25T14:00:13+00:00"
-      },
-      {
-        "title": "J'ai gravé mon Macbook 😱",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "b6CCps_IGq4",
-        "thumbnail": "https://i.ytimg.com/vi/b6CCps_IGq4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6CCps_IGq4",
-        "publishedAt": "2026-10-25T09:27:54+00:00"
-      },
-      {
-        "title": "L'AFTER : 100 000 abonnés, SpaceX et le futur de la France !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "KX_8Jd9u2uE",
-        "thumbnail": "https://i.ytimg.com/vi/KX_8Jd9u2uE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KX_8Jd9u2uE",
-        "publishedAt": "2026-10-23T18:00:26+00:00"
-      },
-      {
-        "title": "On essaie de faire la voix la plus aiguë possible",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "yVAUmrCmBHk",
-        "thumbnail": "https://i.ytimg.com/vi/yVAUmrCmBHk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yVAUmrCmBHk",
-        "publishedAt": "2026-10-22T15:32:15+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -178,40 +96,40 @@
         "titleOriginal": "Dolly Parton's Imagination Library",
         "url": "https://imaginationlibrary.com/",
         "source": "imaginationlibrary.com",
-        "score": 274,
-        "comments": 50,
+        "score": 359,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=50234474",
-        "date": "il y a 4 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Qu'est-ce qu'il y a à faire dans un film d'animation ?",
-        "titleOriginal": "What goes into making an animated film?",
-        "url": "https://www.disneyanimation.com/process/",
-        "source": "disneyanimation.com",
-        "score": 47,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50235738",
-        "date": "il y a 2 h"
+        "title": "F-Zero X sur Nintendo 3DS",
+        "titleOriginal": "F-Zero X on Nintendo 3DS",
+        "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+        "source": "hypnotize.works",
+        "score": 26,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=50237078",
+        "date": "il y a 1 h"
       },
       {
         "title": "Submergée, lorsque les plantes envahissent vos onglets abandonnés",
         "titleOriginal": "Overgrown, when plants invade your abandoned tabs",
         "url": "https://charliegerard.dev/blog/overgrown-extension/",
         "source": "charliegerard.dev",
-        "score": 54,
-        "comments": 13,
+        "score": 119,
+        "comments": 38,
         "hnUrl": "https://news.ycombinator.com/item?id=50197108",
         "date": "il y a 3 j"
       },
       {
-        "title": "Pourquoi je suis un programmeur",
-        "titleOriginal": "Why I Am a Programmer",
-        "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-        "source": "alfie.wtf",
-        "score": 78,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=50235017",
-        "date": "il y a 3 h"
+        "title": "Lula remporte l'élection après le décompte des votes finaux",
+        "titleOriginal": "Lula wins election after final votes tallied",
+        "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+        "source": "reuters.com",
+        "score": 33,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50237485",
+        "date": "il y a 25 min"
       }
     ]
   },
