@@ -1,31 +1,25 @@
 {
-  "updatedAt": "2026-10-26T22:59:15.546Z",
+  "updatedAt": "2026-10-27T01:55:23.876Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
+      "temp": 13,
       "feelsLike": 11,
       "code": 3,
-      "wind": 8,
-      "humidity": 93
+      "wind": 12,
+      "humidity": 95
     },
     "forecast": [
       {
-        "date": "2026-10-26",
-        "code": 61,
-        "tmax": 13,
-        "tmin": 6
-      },
-      {
         "date": "2026-10-27",
         "code": 80,
-        "tmax": 19,
+        "tmax": 18,
         "tmin": 11
       },
       {
         "date": "2026-10-28",
         "code": 45,
-        "tmax": 14,
+        "tmax": 15,
         "tmin": 6
       },
       {
@@ -33,6 +27,12 @@
         "code": 2,
         "tmax": 15,
         "tmin": 5
+      },
+      {
+        "date": "2026-10-30",
+        "code": 2,
+        "tmax": 15,
+        "tmin": 6
       }
     ]
   },
@@ -92,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Travailler avec les communautés universitaires pour renforcer la compréhension scientifique",
-        "titleOriginal": "Working with academic communities to build scientific understanding",
+        "title": "Annonce de trois nouvelles découvertes en mathématiques, en informatique et en physique",
+        "titleOriginal": "Announcing three new discoveries in mathematics, computer science, and physics",
         "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
         "source": "openai.com",
-        "score": 171,
-        "comments": 44,
+        "score": 461,
+        "comments": 177,
         "hnUrl": "https://news.ycombinator.com/item?id=50251344",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Clé de couloir 2.0",
-        "titleOriginal": "CorridorKey 2.0",
-        "url": "https://corridorkey.com/",
-        "source": "corridorkey.com",
-        "score": 99,
-        "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=50251127",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Protocole serveur :",
-        "titleOriginal": "Type Server Protocol",
-        "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-        "source": "github.com",
-        "score": 170,
-        "comments": 125,
-        "hnUrl": "https://news.ycombinator.com/item?id=50248371",
         "date": "il y a 4 h"
+      },
+      {
+        "title": "L'hypothèse du temps exponentiel est fausse [pdf]",
+        "titleOriginal": "The Exponential Time Hypothesis Is False [pdf]",
+        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+        "source": "github.com",
+        "score": 285,
+        "comments": 112,
+        "hnUrl": "https://news.ycombinator.com/item?id=50251661",
+        "date": "il y a 3 h"
       },
       {
         "title": "Le cours vidéo de Sebastian Raschka sur la construction de modèles de raisonnement",
         "titleOriginal": "Sebastian Raschka's from-scratch video course on building reasoning models",
         "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
         "source": "magazine.sebastianraschka.com",
-        "score": 504,
-        "comments": 76,
+        "score": 559,
+        "comments": 81,
         "hnUrl": "https://news.ycombinator.com/item?id=50245138",
-        "date": "il y a 7 h"
+        "date": "il y a 10 h"
+      },
+      {
+        "title": "Exposition croisée du cache KV dans le modèle GLM-5.3 Workers AI (155 réponses)",
+        "titleOriginal": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+        "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+        "source": "blog.cloudflare.com",
+        "score": 73,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=50252159",
+        "date": "il y a 3 h"
       }
     ]
   },
