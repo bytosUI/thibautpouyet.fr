@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-10-27T07:11:38.591Z",
+  "updatedAt": "2026-10-27T18:50:56.495Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 10,
-      "code": 2,
+      "temp": 14,
+      "feelsLike": 13,
+      "code": 3,
       "wind": 11,
-      "humidity": 97
+      "humidity": 81
     },
     "forecast": [
       {
         "date": "2026-10-27",
-        "code": 80,
-        "tmax": 18,
+        "code": 3,
+        "tmax": 19,
         "tmin": 11
       },
       {
         "date": "2026-10-28",
-        "code": 45,
-        "tmax": 14,
+        "code": 1,
+        "tmax": 15,
         "tmin": 7
       },
       {
         "date": "2026-10-29",
-        "code": 45,
-        "tmax": 14,
-        "tmin": 5
+        "code": 2,
+        "tmax": 15,
+        "tmin": 6
       },
       {
         "date": "2026-10-30",
@@ -39,19 +39,19 @@
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 241,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Layers of Fear",
+        "viewers": 315,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "GUILLAUME TRÈS ÉMU SUR SCÈNE AU LEGEND TOUR",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "EeVC_ehlHw0",
-        "thumbnail": "https://i.ytimg.com/vi/EeVC_ehlHw0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EeVC_ehlHw0",
-        "publishedAt": "2026-10-26T17:30:16+00:00"
-      },
-      {
-        "title": "Maigrir, booster son cerveau : la folie des peptides !",
+        "title": "L’IA a trouvé la faille qui menace 70 % du Web !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "HG77j0optFA",
-        "thumbnail": "https://i.ytimg.com/vi/HG77j0optFA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HG77j0optFA",
-        "publishedAt": "2026-10-26T17:00:34+00:00"
+        "videoId": "S5fSZ1lKb70",
+        "thumbnail": "https://i.ytimg.com/vi/S5fSZ1lKb70/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S5fSZ1lKb70",
+        "publishedAt": "2026-10-27T17:00:31+00:00"
       },
       {
-        "title": "On se rend compte qu'on devrait être en couple",
+        "title": "Mcfly et Carlito, c'est fini...",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "ea7fMIzLcT8",
-        "thumbnail": "https://i.ytimg.com/vi/ea7fMIzLcT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ea7fMIzLcT8",
-        "publishedAt": "2026-10-26T15:17:51+00:00"
+        "videoId": "ItEfsN3TNOE",
+        "thumbnail": "https://i.ytimg.com/vi/ItEfsN3TNOE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ItEfsN3TNOE",
+        "publishedAt": "2026-10-27T16:41:30+00:00"
+      },
+      {
+        "title": "AVEC PHILIPPE BOXHO IL VA FALLOIR ÊTRE PRÊT PSYCHOLOGIQUEMENT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Geo-L119kqs",
+        "thumbnail": "https://i.ytimg.com/vi/Geo-L119kqs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Geo-L119kqs",
+        "publishedAt": "2026-10-27T16:29:12+00:00"
       },
       {
         "title": "Je réapprends à profiter de la vie en Corée 🇰🇷",
@@ -105,15 +105,6 @@
         "publishedAt": "2026-10-25T16:17:29+00:00"
       },
       {
-        "title": "J'ai gravé mon Macbook 😱",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "b6CCps_IGq4",
-        "thumbnail": "https://i.ytimg.com/vi/b6CCps_IGq4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b6CCps_IGq4",
-        "publishedAt": "2026-10-25T09:27:54+00:00"
-      },
-      {
         "title": "Il a ouvert 12 Subway en 8 ans",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
@@ -121,6 +112,15 @@
         "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
         "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "f-LjcQZVrHM",
+        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
+        "publishedAt": "2026-10-18T09:40:36+00:00"
       },
       {
         "title": "3 ans pour être autonome en eau, énergie et nourriture",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Trois nouvelles découvertes en mathématiques, informatique et physique",
-        "titleOriginal": "Three new discoveries in mathematics, computer science, and physics",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-        "source": "openai.com",
-        "score": 771,
-        "comments": 344,
-        "hnUrl": "https://news.ycombinator.com/item?id=50251344",
-        "date": "il y a 9 h"
+        "title": "Génie 4",
+        "titleOriginal": "Genie 4",
+        "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+        "source": "deepmind.google",
+        "score": 359,
+        "comments": 203,
+        "hnUrl": "https://news.ycombinator.com/item?id=50261319",
+        "date": "il y a 2 h"
       },
       {
-        "title": "L'hypothèse du temps exponentiel est fausse [pdf]",
-        "titleOriginal": "The Exponential Time Hypothesis Is False [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-        "source": "github.com",
-        "score": 540,
-        "comments": 196,
-        "hnUrl": "https://news.ycombinator.com/item?id=50251661",
-        "date": "il y a 9 h"
+        "title": "La police utilise l'IA pour arrêter les chauffeurs pour comportement « suspect »",
+        "titleOriginal": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
+        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+        "source": "gizmodo.com",
+        "score": 197,
+        "comments": 115,
+        "hnUrl": "https://news.ycombinator.com/item?id=50261819",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Le cours vidéo de Sebastian Raschka sur la construction de modèles de raisonnement",
-        "titleOriginal": "Sebastian Raschka's from-scratch video course on building reasoning models",
-        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-        "source": "magazine.sebastianraschka.com",
-        "score": 663,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=50245138",
-        "date": "il y a 15 h"
+        "title": "Ghostty 1.4.0",
+        "titleOriginal": "Ghostty 1.4.0",
+        "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+        "source": "ghostty.org",
+        "score": 235,
+        "comments": 84,
+        "hnUrl": "https://news.ycombinator.com/item?id=50261998",
+        "date": "il y a 1 h"
       },
       {
-        "title": "La plus ancienne application d'interface graphique qui fonctionne toujours sous Windows 11",
-        "titleOriginal": "Oldest GUI application that still runs on Windows 11",
-        "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-        "source": "blog.enlyth.com",
-        "score": 377,
-        "comments": 218,
-        "hnUrl": "https://news.ycombinator.com/item?id=50248055",
-        "date": "il y a 13 h"
+        "title": "Classification des groupes simples finis formalisés en Lean",
+        "titleOriginal": "Classification of Finite Simple Groups Formalized in Lean",
+        "url": "https://cfsg.axiommath.ai/",
+        "source": "cfsg.axiommath.ai",
+        "score": 69,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50261647",
+        "date": "il y a 2 h"
       }
     ]
   },
