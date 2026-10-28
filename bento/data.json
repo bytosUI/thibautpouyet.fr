@@ -1,54 +1,46 @@
 {
-  "updatedAt": "2026-10-27T18:50:56.495Z",
+  "updatedAt": "2026-10-28T01:58:49.834Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
-      "code": 3,
-      "wind": 11,
-      "humidity": 81
+      "temp": 9,
+      "feelsLike": 8,
+      "code": 0,
+      "wind": 5,
+      "humidity": 93
     },
     "forecast": [
       {
-        "date": "2026-10-27",
-        "code": 3,
-        "tmax": 19,
-        "tmin": 11
-      },
-      {
         "date": "2026-10-28",
-        "code": 1,
+        "code": 2,
         "tmax": 15,
         "tmin": 7
       },
       {
         "date": "2026-10-29",
-        "code": 2,
+        "code": 3,
         "tmax": 15,
         "tmin": 6
       },
       {
         "date": "2026-10-30",
         "code": 3,
-        "tmax": 15,
+        "tmax": 14,
         "tmin": 5
+      },
+      {
+        "date": "2026-10-31",
+        "code": 3,
+        "tmax": 13,
+        "tmin": 6
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Layers of Fear",
-        "viewers": 315,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
@@ -58,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "L’IA a trouvé la faille qui menace 70 % du Web !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "S5fSZ1lKb70",
-        "thumbnail": "https://i.ytimg.com/vi/S5fSZ1lKb70/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S5fSZ1lKb70",
-        "publishedAt": "2026-10-27T17:00:31+00:00"
-      },
-      {
-        "title": "Mcfly et Carlito, c'est fini...",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "ItEfsN3TNOE",
-        "thumbnail": "https://i.ytimg.com/vi/ItEfsN3TNOE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ItEfsN3TNOE",
-        "publishedAt": "2026-10-27T16:41:30+00:00"
-      },
-      {
-        "title": "AVEC PHILIPPE BOXHO IL VA FALLOIR ÊTRE PRÊT PSYCHOLOGIQUEMENT",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "Geo-L119kqs",
-        "thumbnail": "https://i.ytimg.com/vi/Geo-L119kqs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Geo-L119kqs",
-        "publishedAt": "2026-10-27T16:29:12+00:00"
-      },
-      {
-        "title": "Je réapprends à profiter de la vie en Corée 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "e5XLy-D-Z4s",
-        "thumbnail": "https://i.ytimg.com/vi/e5XLy-D-Z4s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e5XLy-D-Z4s",
-        "publishedAt": "2026-10-25T17:00:25+00:00"
-      },
-      {
-        "title": "Ma vieille maison dans les bois devient plus autonome #30",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hSqyq8P1bzc",
-        "thumbnail": "https://i.ytimg.com/vi/hSqyq8P1bzc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hSqyq8P1bzc",
-        "publishedAt": "2026-10-25T16:17:29+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "f-LjcQZVrHM",
-        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
-        "publishedAt": "2026-10-18T09:40:36+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -186,40 +96,40 @@
         "titleOriginal": "Genie 4",
         "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "source": "deepmind.google",
-        "score": 359,
-        "comments": 203,
+        "score": 740,
+        "comments": 437,
         "hnUrl": "https://news.ycombinator.com/item?id=50261319",
-        "date": "il y a 2 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "La police utilise l'IA pour arrêter les chauffeurs pour comportement « suspect »",
-        "titleOriginal": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-        "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-        "source": "gizmodo.com",
-        "score": 197,
-        "comments": 115,
-        "hnUrl": "https://news.ycombinator.com/item?id=50261819",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Ghostty 1.4.0",
-        "titleOriginal": "Ghostty 1.4.0",
+        "title": "Ghostty 1.4",
+        "titleOriginal": "Ghostty 1.4",
         "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
         "source": "ghostty.org",
-        "score": 235,
-        "comments": 84,
+        "score": 778,
+        "comments": 229,
         "hnUrl": "https://news.ycombinator.com/item?id=50261998",
-        "date": "il y a 1 h"
+        "date": "il y a 9 h"
       },
       {
-        "title": "Classification des groupes simples finis formalisés en Lean",
-        "titleOriginal": "Classification of Finite Simple Groups Formalized in Lean",
-        "url": "https://cfsg.axiommath.ai/",
-        "source": "cfsg.axiommath.ai",
-        "score": 69,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=50261647",
-        "date": "il y a 2 h"
+        "title": "Les gouttelettes d'encre en mouvement accrochent le premier prix du concours Nikon Small World",
+        "titleOriginal": "Ink droplets in motion snag top prize in Nikon Small World contest",
+        "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+        "source": "arstechnica.com",
+        "score": 47,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=50234796",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "Progrès précoces dans l'accélération du développement de médicaments avec Claude",
+        "titleOriginal": "Early progress on accelerating drug development with Claude",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "source": "anthropic.com",
+        "score": 128,
+        "comments": 113,
+        "hnUrl": "https://news.ycombinator.com/item?id=50265609",
+        "date": "il y a 5 h"
       }
     ]
   },
