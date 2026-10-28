@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-28T01:58:49.834Z",
+  "updatedAt": "2026-10-28T08:03:36.935Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 8,
-      "code": 0,
+      "temp": 6,
+      "feelsLike": 4,
+      "code": 45,
       "wind": 5,
-      "humidity": 93
+      "humidity": 98
     },
     "forecast": [
       {
         "date": "2026-10-28",
-        "code": 2,
-        "tmax": 15,
-        "tmin": 7
+        "code": 45,
+        "tmax": 14,
+        "tmin": 5
       },
       {
         "date": "2026-10-29",
-        "code": 3,
-        "tmax": 15,
-        "tmin": 6
+        "code": 45,
+        "tmax": 14,
+        "tmin": 5
       },
       {
         "date": "2026-10-30",
-        "code": 3,
+        "code": 1,
         "tmax": 14,
         "tmin": 5
       },
       {
         "date": "2026-10-31",
-        "code": 3,
+        "code": 2,
         "tmax": 13,
-        "tmin": 6
+        "tmin": 5
       }
     ]
   },
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Le budget de PHP ? À peine de quoi payer 10 développeurs !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "lJIQ8NopoWY",
+        "thumbnail": "https://i.ytimg.com/vi/lJIQ8NopoWY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lJIQ8NopoWY",
+        "publishedAt": "2026-10-28T07:00:27+00:00"
+      },
+      {
+        "title": "L’EAU QUE VOUS BUVEZ EST DANGEREUSE ! TOUT CE QUE VOUS NE SAVIEZ PAS SUR L’EAU !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "G8_0j4re1R0",
+        "thumbnail": "https://i.ytimg.com/vi/G8_0j4re1R0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G8_0j4re1R0",
+        "publishedAt": "2026-10-27T18:11:04+00:00"
+      },
+      {
+        "title": "Mcfly et Carlito, c'est fini...",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ItEfsN3TNOE",
+        "thumbnail": "https://i.ytimg.com/vi/ItEfsN3TNOE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ItEfsN3TNOE",
+        "publishedAt": "2026-10-27T16:41:30+00:00"
+      },
+      {
+        "title": "Je réapprends à profiter de la vie en Corée 🇰🇷",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "e5XLy-D-Z4s",
+        "thumbnail": "https://i.ytimg.com/vi/e5XLy-D-Z4s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e5XLy-D-Z4s",
+        "publishedAt": "2026-10-25T17:00:25+00:00"
+      },
+      {
+        "title": "Ma vieille maison dans les bois devient plus autonome #30",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "hSqyq8P1bzc",
+        "thumbnail": "https://i.ytimg.com/vi/hSqyq8P1bzc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hSqyq8P1bzc",
+        "publishedAt": "2026-10-25T16:17:29+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "VOICI L'AVANCÉE DES TRAVAUX DE CET APPARTEMENT",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "f-LjcQZVrHM",
+        "thumbnail": "https://i.ytimg.com/vi/f-LjcQZVrHM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f-LjcQZVrHM",
+        "publishedAt": "2026-10-18T09:40:36+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      },
+      {
+        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "Xvl0tzKzeLM",
+        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
+        "publishedAt": "2026-10-04T17:36:08+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,290 +174,155 @@
   "hackernews": {
     "items": [
       {
+        "title": "Git pour le code américain",
+        "titleOriginal": "Git for the US Code",
+        "url": "https://lexifina.com/blog/git-for-the-us-code",
+        "source": "lexifina.com",
+        "score": 213,
+        "comments": 110,
+        "hnUrl": "https://news.ycombinator.com/item?id=50268380",
+        "date": "il y a 6 h"
+      },
+      {
         "title": "Génie 4",
         "titleOriginal": "Genie 4",
         "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
         "source": "deepmind.google",
-        "score": 740,
-        "comments": 437,
+        "score": 858,
+        "comments": 502,
         "hnUrl": "https://news.ycombinator.com/item?id=50261319",
-        "date": "il y a 9 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Ghostty 1.4",
         "titleOriginal": "Ghostty 1.4",
         "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
         "source": "ghostty.org",
-        "score": 778,
-        "comments": 229,
+        "score": 963,
+        "comments": 297,
         "hnUrl": "https://news.ycombinator.com/item?id=50261998",
-        "date": "il y a 9 h"
+        "date": "il y a 15 h"
       },
       {
         "title": "Les gouttelettes d'encre en mouvement accrochent le premier prix du concours Nikon Small World",
         "titleOriginal": "Ink droplets in motion snag top prize in Nikon Small World contest",
         "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
         "source": "arstechnica.com",
-        "score": 47,
-        "comments": 6,
+        "score": 197,
+        "comments": 28,
         "hnUrl": "https://news.ycombinator.com/item?id=50234796",
         "date": "il y a 2 j"
-      },
-      {
-        "title": "Progrès précoces dans l'accélération du développement de médicaments avec Claude",
-        "titleOriginal": "Early progress on accelerating drug development with Claude",
-        "url": "https://www.anthropic.com/research/early-progress-drug-development",
-        "source": "anthropic.com",
-        "score": 128,
-        "comments": 113,
-        "hnUrl": "https://news.ycombinator.com/item?id=50265609",
-        "date": "il y a 5 h"
       }
     ]
   },
   "nba": {
     "isPlayoffs": false,
-    "resultsDate": "20261026",
+    "resultsDate": "20261027",
     "results": [
       {
-        "id": "401909868",
-        "date": "2026-10-26T23:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "30",
-          "abbr": "CHA",
-          "name": "Hornets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cha.png",
-          "score": 110,
-          "record": "3-1",
-          "winner": true
-        },
-        "away": {
-          "id": "27",
-          "abbr": "WSH",
-          "name": "Wizards",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/wsh.png",
-          "score": 103,
-          "record": "2-2",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401909869",
-        "date": "2026-10-26T23:00Z",
+        "id": "401909877",
+        "date": "2026-10-27T23:30Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final/OT",
-        "completed": true,
-        "home": {
-          "id": "5",
-          "abbr": "CLE",
-          "name": "Cavaliers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/cle.png",
-          "score": 127,
-          "record": "2-1",
-          "winner": true
-        },
-        "away": {
-          "id": "16",
-          "abbr": "MIN",
-          "name": "Timberwolves",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/min.png",
-          "score": 125,
-          "record": "3-1",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401909870",
-        "date": "2026-10-26T23:30Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
         "completed": true,
         "home": {
           "id": "2",
           "abbr": "BOS",
           "name": "Celtics",
           "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bos.png",
-          "score": 134,
-          "record": "2-1",
+          "score": 125,
+          "record": "3-1",
           "winner": true
         },
         "away": {
-          "id": "4",
-          "abbr": "CHI",
-          "name": "Bulls",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/chi.png",
-          "score": 99,
-          "record": "1-3",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401909871",
-        "date": "2026-10-26T23:30Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "14",
-          "abbr": "MIA",
-          "name": "Heat",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png",
-          "score": 109,
+          "id": "17",
+          "abbr": "BKN",
+          "name": "Nets",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png",
+          "score": 124,
           "record": "0-4",
           "winner": false
         },
-        "away": {
-          "id": "6",
-          "abbr": "DAL",
-          "name": "Mavericks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png",
-          "score": 113,
-          "record": "2-2",
-          "winner": true
-        },
         "series": null
       },
       {
-        "id": "401909872",
-        "date": "2026-10-27T00:00Z",
+        "id": "401909878",
+        "date": "2026-10-28T00:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "15",
-          "abbr": "MIL",
-          "name": "Bucks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mil.png",
-          "score": 110,
+          "id": "18",
+          "abbr": "NY",
+          "name": "Knicks",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+          "score": 111,
           "record": "1-3",
           "winner": true
         },
         "away": {
-          "id": "11",
-          "abbr": "IND",
-          "name": "Pacers",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ind.png",
-          "score": 102,
+          "id": "8",
+          "abbr": "DET",
+          "name": "Pistons",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png",
+          "score": 97,
+          "record": "3-1",
+          "winner": false
+        },
+        "series": null
+      },
+      {
+        "id": "401909879",
+        "date": "2026-10-28T00:00Z",
+        "isPlayoff": false,
+        "state": "post",
+        "statusShort": "Final",
+        "completed": true,
+        "home": {
+          "id": "24",
+          "abbr": "SA",
+          "name": "Spurs",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+          "score": 130,
           "record": "2-2",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401909873",
-        "date": "2026-10-27T00:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "25",
-          "abbr": "OKC",
-          "name": "Thunder",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-          "score": 125,
-          "record": "4-0",
           "winner": true
         },
         "away": {
-          "id": "21",
-          "abbr": "PHX",
-          "name": "Suns",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/phx.png",
-          "score": 114,
-          "record": "1-2",
+          "id": "23",
+          "abbr": "SAC",
+          "name": "Kings",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png",
+          "score": 103,
+          "record": "0-4",
           "winner": false
         },
         "series": null
       },
       {
-        "id": "401909874",
-        "date": "2026-10-27T00:30Z",
+        "id": "401909880",
+        "date": "2026-10-28T03:00Z",
         "isPlayoff": false,
         "state": "post",
         "statusShort": "Final",
         "completed": true,
         "home": {
-          "id": "10",
-          "abbr": "HOU",
-          "name": "Rockets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/hou.png",
-          "score": 120,
-          "record": "4-0",
-          "winner": true
-        },
-        "away": {
-          "id": "1",
-          "abbr": "ATL",
-          "name": "Hawks",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/atl.png",
-          "score": 110,
-          "record": "2-2",
-          "winner": false
-        },
-        "series": null
-      },
-      {
-        "id": "401909875",
-        "date": "2026-10-27T01:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "26",
-          "abbr": "UTAH",
-          "name": "Jazz",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/utah.png",
-          "score": 105,
-          "record": "1-3",
+          "id": "13",
+          "abbr": "LAL",
+          "name": "Lakers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/lal.png",
+          "score": 129,
+          "record": "3-1",
           "winner": false
         },
         "away": {
-          "id": "29",
-          "abbr": "MEM",
-          "name": "Grizzlies",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mem.png",
-          "score": 110,
-          "record": "4-0",
-          "winner": true
-        },
-        "series": null
-      },
-      {
-        "id": "401909876",
-        "date": "2026-10-27T02:00Z",
-        "isPlayoff": false,
-        "state": "post",
-        "statusShort": "Final",
-        "completed": true,
-        "home": {
-          "id": "7",
-          "abbr": "DEN",
-          "name": "Nuggets",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/den.png",
-          "score": 114,
-          "record": "1-2",
-          "winner": false
-        },
-        "away": {
-          "id": "9",
-          "abbr": "GS",
-          "name": "Warriors",
-          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/gs.png",
-          "score": 134,
-          "record": "1-3",
+          "id": "22",
+          "abbr": "POR",
+          "name": "Trail Blazers",
+          "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/por.png",
+          "score": 136,
+          "record": "3-0",
           "winner": true
         },
         "series": null
