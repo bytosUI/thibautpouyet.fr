@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-30T16:08:32.597Z",
+  "updatedAt": "2026-10-30T20:57:16.495Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 11,
+      "temp": 9,
+      "feelsLike": 7,
       "code": 0,
-      "wind": 10,
-      "humidity": 48
+      "wind": 8,
+      "humidity": 78
     },
     "forecast": [
       {
@@ -26,7 +26,7 @@
         "date": "2026-11-01",
         "code": 3,
         "tmax": 13,
-        "tmin": 3
+        "tmin": 4
       },
       {
         "date": "2026-11-02",
@@ -52,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "ON PEUT VOUS VOLER VOTRE MAISON AVEC UN SIMPLE HACK !",
+        "title": "NOTAIRE : DÉCOUVREZ SON PLUS GRAND SECRET… LE TESTAMENT MYSTIQUE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "bZQlWAymGZA",
-        "thumbnail": "https://i.ytimg.com/vi/bZQlWAymGZA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bZQlWAymGZA",
-        "publishedAt": "2026-10-30T15:00:39+00:00"
+        "videoId": "bjXr0I9l9UQ",
+        "thumbnail": "https://i.ytimg.com/vi/bjXr0I9l9UQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bjXr0I9l9UQ",
+        "publishedAt": "2026-10-30T17:00:18+00:00"
       },
       {
-        "title": "Je veux payer la valeur, pas les heures !",
+        "title": "L'AFTER : OpenAI défie les maths, BlaBlaCar passe à l'IA & la French Tech trinque !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "F87n9gJl3i8",
-        "thumbnail": "https://i.ytimg.com/vi/F87n9gJl3i8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F87n9gJl3i8",
-        "publishedAt": "2026-10-30T11:00:22+00:00"
+        "videoId": "PGNRT0Lsy6A",
+        "thumbnail": "https://i.ytimg.com/vi/PGNRT0Lsy6A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PGNRT0Lsy6A",
+        "publishedAt": "2026-10-30T17:00:12+00:00"
       },
       {
         "title": "La petite voix dans la tête de Mcfly est..",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "ICE veut récupérer son masque et a engagé une entreprise pour demander",
-        "titleOriginal": "ICE wants its mask back, and hired a company to ask",
-        "url": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
-        "source": "blog.flokinet.is",
-        "score": 120,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=50305272",
-        "date": "il y a 41 min"
-      },
-      {
-        "title": "elect.horse",
-        "titleOriginal": "elect.horse",
-        "url": "https://elect.horse/",
-        "source": "elect.horse",
-        "score": 491,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=50301462",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Porte dérobée dans Claude Code pour l'extension VS Code sur le Cursor Marketplace",
-        "titleOriginal": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "source": "phorion.io",
-        "score": 286,
-        "comments": 338,
-        "hnUrl": "https://news.ycombinator.com/item?id=50300683",
-        "date": "il y a 8 h"
+        "title": "Mon PowerMac préféré est une Nintendo Wii",
+        "titleOriginal": "My favourite PowerMac is a Nintendo Wii",
+        "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+        "source": "virtuallyfun.com",
+        "score": 152,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=50307190",
+        "date": "il y a 3 h"
       },
       {
         "title": "Rupture de Northflank",
         "titleOriginal": "Northflank Breached",
         "url": "https://status.northflank.com",
         "source": "status.northflank.com",
-        "score": 47,
-        "comments": 20,
+        "score": 275,
+        "comments": 195,
         "hnUrl": "https://news.ycombinator.com/item?id=50305025",
-        "date": "il y a 58 min"
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Incident de sécurité Bunny CDN",
+        "titleOriginal": "Bunny CDN Security Incident",
+        "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+        "source": "status.bunny.net",
+        "score": 57,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50308697",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Porte dérobée dans Claude Code pour l'extension VS Code sur le Cursor Marketplace",
+        "titleOriginal": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "source": "phorion.io",
+        "score": 625,
+        "comments": 415,
+        "hnUrl": "https://news.ycombinator.com/item?id=50300683",
+        "date": "il y a 13 h"
       }
     ]
   },
