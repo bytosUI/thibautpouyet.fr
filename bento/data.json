@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-30T09:27:50.626Z",
+  "updatedAt": "2026-10-30T16:08:32.597Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 6,
-      "code": 2,
-      "wind": 9,
-      "humidity": 78
+      "temp": 14,
+      "feelsLike": 11,
+      "code": 0,
+      "wind": 10,
+      "humidity": 48
     },
     "forecast": [
       {
         "date": "2026-10-30",
-        "code": 2,
-        "tmax": 14,
+        "code": 1,
+        "tmax": 15,
         "tmin": 4
       },
       {
@@ -25,38 +25,23 @@
       {
         "date": "2026-11-01",
         "code": 3,
-        "tmax": 12,
-        "tmin": 5
+        "tmax": 13,
+        "tmin": 3
       },
       {
         "date": "2026-11-02",
-        "code": 3,
+        "code": 61,
         "tmax": 11,
-        "tmin": 4
+        "tmin": 3
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 316,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      },
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 111,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
+      "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -67,22 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "Si tu n’utilises pas l’IA, ta boîte est morte !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "y9MzxN3Gbh8",
-        "thumbnail": "https://i.ytimg.com/vi/y9MzxN3Gbh8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y9MzxN3Gbh8",
-        "publishedAt": "2026-10-30T09:00:10+00:00"
-      },
-      {
-        "title": "COMBIEN GAGNE UN ASTROPHYSICIEN ?",
+        "title": "ON PEUT VOUS VOLER VOTRE MAISON AVEC UN SIMPLE HACK !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "IHNXpEA9SCU",
-        "thumbnail": "https://i.ytimg.com/vi/IHNXpEA9SCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IHNXpEA9SCU",
-        "publishedAt": "2026-10-29T16:15:35+00:00"
+        "videoId": "bZQlWAymGZA",
+        "thumbnail": "https://i.ytimg.com/vi/bZQlWAymGZA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bZQlWAymGZA",
+        "publishedAt": "2026-10-30T15:00:39+00:00"
+      },
+      {
+        "title": "Je veux payer la valeur, pas les heures !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "F87n9gJl3i8",
+        "thumbnail": "https://i.ytimg.com/vi/F87n9gJl3i8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F87n9gJl3i8",
+        "publishedAt": "2026-10-30T11:00:22+00:00"
       },
       {
         "title": "La petite voix dans la tête de Mcfly est..",
@@ -189,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Binance-hacker-1029 – 5,6 milliards de $ volés à Binance",
-        "titleOriginal": "Binance-hacker-1029 – $5.6B stolen from Binance",
-        "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-        "source": "arkm.com",
-        "score": 1313,
-        "comments": 807,
-        "hnUrl": "https://news.ycombinator.com/item?id=50296470",
-        "date": "il y a 11 h"
+        "title": "ICE veut récupérer son masque et a engagé une entreprise pour demander",
+        "titleOriginal": "ICE wants its mask back, and hired a company to ask",
+        "url": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
+        "source": "blog.flokinet.is",
+        "score": 120,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50305272",
+        "date": "il y a 41 min"
       },
       {
-        "title": "J'ai renvoyé mon iPhone Duo",
-        "titleOriginal": "I Returned My iPhone Duo",
-        "url": "https://codakuma.com/i-returned-my-duo/",
-        "source": "codakuma.com",
-        "score": 6,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50301373",
-        "date": "il y a 27 min"
+        "title": "elect.horse",
+        "titleOriginal": "elect.horse",
+        "url": "https://elect.horse/",
+        "source": "elect.horse",
+        "score": 491,
+        "comments": 133,
+        "hnUrl": "https://news.ycombinator.com/item?id=50301462",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Nous relâchons les poids du Mistral Large 4",
-        "titleOriginal": "We're releasing the weights of Mistral Large 4",
-        "url": "https://mistral.ai/news/mistral-large-4-oss/",
-        "source": "mistral.ai",
-        "score": 1454,
-        "comments": 392,
-        "hnUrl": "https://news.ycombinator.com/item?id=50289418",
-        "date": "il y a 19 h"
+        "title": "Porte dérobée dans Claude Code pour l'extension VS Code sur le Cursor Marketplace",
+        "titleOriginal": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+        "source": "phorion.io",
+        "score": 286,
+        "comments": 338,
+        "hnUrl": "https://news.ycombinator.com/item?id=50300683",
+        "date": "il y a 8 h"
       },
       {
-        "title": "Cuis : The Modern Smalltalk-80",
-        "titleOriginal": "Cuis: The Modern Smalltalk-80",
-        "url": "https://cuis.st/",
-        "source": "cuis.st",
-        "score": 104,
-        "comments": 15,
-        "hnUrl": "https://news.ycombinator.com/item?id=50255343",
-        "date": "il y a 3 j"
+        "title": "Rupture de Northflank",
+        "titleOriginal": "Northflank Breached",
+        "url": "https://status.northflank.com",
+        "source": "status.northflank.com",
+        "score": 47,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50305025",
+        "date": "il y a 58 min"
       }
     ]
   },
