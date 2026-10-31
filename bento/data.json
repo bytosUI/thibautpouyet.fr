@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-10-31T17:28:43.812Z",
+  "updatedAt": "2026-10-31T20:36:48.326Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 10,
-      "code": 1,
+      "temp": 9,
+      "feelsLike": 7,
+      "code": 0,
       "wind": 7,
-      "humidity": 64
+      "humidity": 77
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-11-02",
-        "code": 80,
+        "code": 61,
         "tmax": 11,
         "tmin": 5
       },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "LE MILLIONNAIRE « TYPE » EN FRANCE ?",
+        "title": "LEGEND TOUR : UN LIVE UNIQUE DIMANCHE 15 NOVEMBRE À 18H30 ! PRENEZ VOS BILLETS !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "eRpsZvtopLc",
-        "thumbnail": "https://i.ytimg.com/vi/eRpsZvtopLc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eRpsZvtopLc",
-        "publishedAt": "2026-10-31T17:00:01+00:00"
+        "videoId": "SHCJb2wI8Ro",
+        "thumbnail": "https://i.ytimg.com/vi/SHCJb2wI8Ro/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SHCJb2wI8Ro",
+        "publishedAt": "2026-10-31T18:00:17+00:00"
       },
       {
         "title": "L'AFTER : OpenAI défie les maths, BlaBlaCar passe à l'IA & la French Tech trinque !",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les logiciels malveillants utilisent les LLM pour classer les victimes en fonction de leur valeur",
-        "titleOriginal": "Malware uses LLMs to rank victims by how much they're worth",
-        "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-        "source": "blog.talosintelligence.com",
-        "score": 122,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=50316531",
-        "date": "il y a 2 h"
+        "title": "HackerTube : YouTube construit à partir de vidéos recommandées par HN",
+        "titleOriginal": "HackerTube: YouTube built from videos recommended by HN",
+        "url": "https://karpathy.bearblog.dev/hacker-tube/",
+        "source": "karpathy.bearblog.dev",
+        "score": 40,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50319510",
+        "date": "il y a 39 min"
       },
       {
-        "title": "Molly (fourchette de signalisation) n'a pas été mise à jour depuis 3 mois et est vulnérable",
-        "titleOriginal": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-        "url": "https://piefed.world/post/1503394",
-        "source": "piefed.world",
-        "score": 200,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=50314666",
-        "date": "il y a 7 h"
+        "title": "Utilisation après-libre TCP : CVE-2026-98432 / CVSS 9.8",
+        "titleOriginal": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "source": "atlasum.net",
+        "score": 80,
+        "comments": 42,
+        "hnUrl": "https://news.ycombinator.com/item?id=50319143",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Nous avons repris les comptes ChatGPT",
-        "titleOriginal": "We Took over ChatGPT Accounts",
-        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-        "source": "parameter.ai",
-        "score": 218,
-        "comments": 107,
-        "hnUrl": "https://news.ycombinator.com/item?id=50314699",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "A/SIDE – Partage de photos privées et messages cryptés",
-        "titleOriginal": "A/SIDE – Private photo sharing and encrypted messages",
-        "url": "https://a-side.social/",
-        "source": "a-side.social",
-        "score": 12,
+        "title": "Le devoir d'un érudit",
+        "titleOriginal": "The Duty of a Scholar",
+        "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+        "source": "daemonology.net",
+        "score": 43,
         "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50317484",
+        "hnUrl": "https://news.ycombinator.com/item?id=50319061",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "GPT-5.6 Le sol peut battre Factorio en mode pacifique",
+        "titleOriginal": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+        "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+        "source": "ryanmadden.net",
+        "score": 89,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=50318871",
         "date": "il y a 1 h"
       }
     ]
