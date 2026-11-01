@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-10-31T23:54:20.046Z",
+  "updatedAt": "2026-11-01T03:52:32.044Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 4,
-      "code": 0,
-      "wind": 7,
-      "humidity": 82
+      "temp": 4,
+      "feelsLike": 1,
+      "code": 1,
+      "wind": 6,
+      "humidity": 87
     },
     "forecast": [
       {
         "date": "2026-11-01",
         "code": 3,
         "tmax": 13,
-        "tmin": 4
+        "tmin": 3
       },
       {
         "date": "2026-11-02",
-        "code": 80,
+        "code": 61,
         "tmax": 11,
-        "tmin": 5
+        "tmin": 4
       },
       {
         "date": "2026-11-03",
-        "code": 2,
+        "code": 3,
         "tmax": 10,
-        "tmin": 2
+        "tmin": 3
       },
       {
         "date": "2026-11-04",
-        "code": 3,
-        "tmax": 10,
+        "code": 2,
+        "tmax": 11,
         "tmin": 3
       }
     ]
@@ -96,40 +96,40 @@
         "titleOriginal": "HackerTube: YouTube built from videos recommended by HN",
         "url": "https://karpathy.bearblog.dev/hacker-tube/",
         "source": "karpathy.bearblog.dev",
-        "score": 520,
-        "comments": 194,
+        "score": 875,
+        "comments": 277,
         "hnUrl": "https://news.ycombinator.com/item?id=50319510",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Utilisation après-libre TCP : CVE-2026-98432 / CVSS 9.8",
-        "titleOriginal": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-        "source": "atlasum.net",
-        "score": 270,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=50319143",
-        "date": "il y a 4 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Un agriculteur italien a trouvé des graines inconnues dans son grenier et les a plantées",
         "titleOriginal": "An Italian farmer found some unknown seeds in his attic and planted them",
         "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
         "source": "smithsonianmag.com",
-        "score": 45,
-        "comments": 10,
+        "score": 220,
+        "comments": 64,
         "hnUrl": "https://news.ycombinator.com/item?id=50320963",
-        "date": "il y a 1 h"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Quand les voitures électriques étaient pour les femmes",
-        "titleOriginal": "When Electric Cars Were for Women",
-        "url": "https://spectrum.ieee.org/early-electric-vehicles",
-        "source": "spectrum.ieee.org",
-        "score": 12,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=50321130",
-        "date": "il y a 46 min"
+        "title": "Utilisation après-libre TCP : CVE-2026-98432 / CVSS 9.8",
+        "titleOriginal": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+        "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+        "source": "atlasum.net",
+        "score": 388,
+        "comments": 181,
+        "hnUrl": "https://news.ycombinator.com/item?id=50319143",
+        "date": "il y a 8 h"
+      },
+      {
+        "title": "Mémoire : Une équipe de 5 modèles Qwen3.8-27B bat Fable 5 sur LiveCodeBench Hard",
+        "titleOriginal": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "source": "github.com",
+        "score": 120,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=50320995",
+        "date": "il y a 5 h"
       }
     ]
   },
