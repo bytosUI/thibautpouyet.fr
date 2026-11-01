@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-01T10:58:27.393Z",
+  "updatedAt": "2026-11-01T17:01:22.028Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 8,
-      "code": 0,
-      "wind": 11,
-      "humidity": 63
+      "temp": 10,
+      "feelsLike": 7,
+      "code": 1,
+      "wind": 10,
+      "humidity": 62
     },
     "forecast": [
       {
@@ -25,7 +25,7 @@
       {
         "date": "2026-11-03",
         "code": 3,
-        "tmax": 10,
+        "tmax": 11,
         "tmin": 4
       },
       {
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "CHRISTOPHE HONDELATTE NOUS RACONTE LES HISTOIRES CRIMINELLES QUI L’ONT LE PLUS CHOQUÉ !",
+        "title": "C. HONDELATTE : \"J'AI UN SALE CARACTÈRE MAIS SI T'ES UNE COUILLE MOLLE, TU DISPARAIS DU DÉCOR\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "D33uoBY0M14",
-        "thumbnail": "https://i.ytimg.com/vi/D33uoBY0M14/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D33uoBY0M14",
-        "publishedAt": "2026-11-01T10:00:10+00:00"
+        "videoId": "LLrrWvbrWNI",
+        "thumbnail": "https://i.ytimg.com/vi/LLrrWvbrWNI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LLrrWvbrWNI",
+        "publishedAt": "2026-11-01T17:00:27+00:00"
       },
       {
         "title": "L'AFTER : OpenAI défie les maths, BlaBlaCar passe à l'IA & la French Tech trinque !",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Show HN : HackerBooks – HackerTube, mais pour les livres recommandés sur HN",
+        "titleOriginal": "Show HN: HackerBooks – HackerTube, but for books recommended on HN",
+        "url": "https://hackerbooks.org",
+        "source": "hackerbooks.org",
+        "score": 124,
+        "comments": 38,
+        "hnUrl": "https://news.ycombinator.com/item?id=50326821",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Seoul Biosys commence la production de micro LED blanches sans terres rares",
+        "titleOriginal": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+        "url": "https://www.ajupress.com/view/20261028171670308",
+        "source": "ajupress.com",
+        "score": 15,
+        "comments": 0,
+        "hnUrl": "https://news.ycombinator.com/item?id=50327058",
+        "date": "il y a 37 min"
+      },
+      {
         "title": "HackerTube : YouTube construit à partir de vidéos recommandées par HN",
         "titleOriginal": "HackerTube: YouTube built from videos recommended by HN",
         "url": "https://karpathy.bearblog.dev/hacker-tube/",
         "source": "karpathy.bearblog.dev",
-        "score": 1381,
-        "comments": 379,
+        "score": 1780,
+        "comments": 469,
         "hnUrl": "https://news.ycombinator.com/item?id=50319510",
-        "date": "il y a 15 h"
+        "date": "il y a 21 h"
       },
       {
-        "title": "Pas d'IA, 52 min. Build all Linux Files utils in C by Hand [vidéo]",
-        "titleOriginal": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
-        "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
-        "source": "youtube.com",
-        "score": 33,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50290480",
-        "date": "il y a 2 j"
-      },
-      {
-        "title": "Un agriculteur italien a trouvé des graines inconnues dans son grenier et les a plantées",
-        "titleOriginal": "An Italian farmer found some unknown seeds in his attic and planted them",
-        "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-        "source": "smithsonianmag.com",
-        "score": 463,
-        "comments": 136,
-        "hnUrl": "https://news.ycombinator.com/item?id=50320963",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Sanctions judiciaires brésiliennes Avocats pour injection rapide dans le dépôt du tribunal",
-        "titleOriginal": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-        "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-        "source": "jetstream.security",
-        "score": 133,
-        "comments": 54,
-        "hnUrl": "https://news.ycombinator.com/item?id=50322173",
-        "date": "il y a 8 h"
+        "title": "Prouver et améliorer l'hypothèse de représentation platonicienne avec les JEPA",
+        "titleOriginal": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+        "url": "https://arxiv.org/abs/2610.39302",
+        "source": "arxiv.org",
+        "score": 56,
+        "comments": 19,
+        "hnUrl": "https://news.ycombinator.com/item?id=50325454",
+        "date": "il y a 3 h"
       }
     ]
   },
