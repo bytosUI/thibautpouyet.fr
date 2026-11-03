@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-03T13:28:22.211Z",
+  "updatedAt": "2026-11-03T20:13:42.265Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 4,
+      "temp": 6,
+      "feelsLike": 2,
       "code": 3,
-      "wind": 20,
-      "humidity": 50
+      "wind": 14,
+      "humidity": 60
     },
     "forecast": [
       {
         "date": "2026-11-03",
         "code": 3,
-        "tmax": 10,
+        "tmax": 9,
         "tmin": 6
       },
       {
@@ -25,34 +25,34 @@
       {
         "date": "2026-11-05",
         "code": 3,
-        "tmax": 11,
+        "tmax": 12,
         "tmin": 3
       },
       {
         "date": "2026-11-06",
         "code": 45,
         "tmax": 9,
-        "tmin": 3
+        "tmin": 5
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Just Chatting",
-        "viewers": 3875,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "origatwitch",
+        "displayName": "OrigaTwitch",
+        "game": "Acts of Blood",
+        "viewers": 134,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
+        "url": "https://twitch.tv/origatwitch"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "origatwitch",
       "firsteam",
       "thetangerineclub"
     ]
@@ -60,13 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "ELLE OUVRE LE CERCUEIL DE SON FRÈRE ET FAIT UNE TERRIBLE DÉCOUVERTE",
+        "title": "La France invente une taxe sur Internet : vous allez payer !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "z4ZYVjtc3EM",
+        "thumbnail": "https://i.ytimg.com/vi/z4ZYVjtc3EM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z4ZYVjtc3EM",
+        "publishedAt": "2026-11-03T17:00:23+00:00"
+      },
+      {
+        "title": "SON FRÈRE EST MORT, UN INCONNU DÉCROCHE À SA PLACE : « IL DORT »",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "Mjy9fXX-EZo",
-        "thumbnail": "https://i.ytimg.com/vi/Mjy9fXX-EZo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mjy9fXX-EZo",
-        "publishedAt": "2026-11-03T13:00:08+00:00"
+        "videoId": "iLE1n4lu4eA",
+        "thumbnail": "https://i.ytimg.com/vi/iLE1n4lu4eA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iLE1n4lu4eA",
+        "publishedAt": "2026-11-03T17:00:21+00:00"
+      },
+      {
+        "title": "On déguste 7 CROUSTY, soit 11 900 calories mais c’est pour analyser vous comprenez",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "fOkRN9yxMAM",
+        "thumbnail": "https://i.ytimg.com/vi/fOkRN9yxMAM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fOkRN9yxMAM",
+        "publishedAt": "2026-11-03T16:23:41+00:00"
       },
       {
         "title": "La saison 3 se prépare… On fait le point à Séoul 🇰🇷",
@@ -76,24 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/LxC4hwNFlr4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LxC4hwNFlr4",
         "publishedAt": "2026-11-02T17:15:19+00:00"
-      },
-      {
-        "title": "6,3 milliards volés en 20 minutes : comment Binance s’est fait hacker !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "7dDUnLZB0qQ",
-        "thumbnail": "https://i.ytimg.com/vi/7dDUnLZB0qQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7dDUnLZB0qQ",
-        "publishedAt": "2026-11-02T17:00:02+00:00"
-      },
-      {
-        "title": "Carlito découvre Outer Wilds",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "LHCmRmuj9jY",
-        "thumbnail": "https://i.ytimg.com/vi/LHCmRmuj9jY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LHCmRmuj9jY",
-        "publishedAt": "2026-11-02T15:47:25+00:00"
       },
       {
         "title": "J’AI GRAVÉ MON MACBOOK ! 😱",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le post « Astra peut lire et écrire des poids pour améliorer Qwen » est trompeur",
-        "titleOriginal": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-        "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-        "source": "honnibal.dev",
-        "score": 113,
-        "comments": 16,
-        "hnUrl": "https://news.ycombinator.com/item?id=50351111",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Astra peut lire et écrire des poids pour améliorer Qwen",
-        "titleOriginal": "Astra can read and write weights to improve Qwen",
-        "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-        "source": "rikiyat.github.io",
-        "score": 2829,
-        "comments": 856,
-        "hnUrl": "https://news.ycombinator.com/item?id=50341174",
-        "date": "il y a 19 h"
-      },
-      {
-        "title": "Nvidia – auto-ontologie open-source",
-        "titleOriginal": "Nvidia – open-source auto-ontology",
-        "url": "https://github.com/NVIDIA/auto-ontology",
+        "title": "Postman installe automatiquement et silencieusement les plugins d'IA et tente de partager toutes les données de l'API",
+        "titleOriginal": "Postman silently auto-installs AI plugins and attempts to share all API data",
+        "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
         "source": "github.com",
-        "score": 162,
-        "comments": 51,
-        "hnUrl": "https://news.ycombinator.com/item?id=50348962",
-        "date": "il y a 6 h"
+        "score": 670,
+        "comments": 219,
+        "hnUrl": "https://news.ycombinator.com/item?id=50354960",
+        "date": "il y a 2 h"
       },
       {
-        "title": "VIVRE AVEC LE SYNDROME DE DOWN",
-        "titleOriginal": "Life with Down Syndrome",
-        "url": "https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/",
-        "source": "esquire.com",
-        "score": 34,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=50327088",
+        "title": "Qwen 3.8 27B sur mon ordinateur portable peut également interpréter les poids des modèles",
+        "titleOriginal": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "source": "simonwillison.net",
+        "score": 279,
+        "comments": 83,
+        "hnUrl": "https://news.ycombinator.com/item?id=50355251",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Jailbreaker le système de navigation de ma voiture juste pour que je puisse changer l'heure",
+        "titleOriginal": "Jailbreaking my car's navigation system just so I can change the time",
+        "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+        "source": "blog.nns.ee",
+        "score": 394,
+        "comments": 145,
+        "hnUrl": "https://news.ycombinator.com/item?id=50339288",
         "date": "hier"
+      },
+      {
+        "title": "Préparation du Kickstarter Flipper One et pré-commandes d'ouverture",
+        "titleOriginal": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+        "url": "https://flipper.net/pages/flipper-one",
+        "source": "flipper.net",
+        "score": 27,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50356994",
+        "date": "il y a 41 min"
       }
     ]
   },
