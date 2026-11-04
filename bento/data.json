@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-04T00:44:39.945Z",
+  "updatedAt": "2026-11-04T07:10:02.968Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 6,
+      "temp": 7,
       "feelsLike": 3,
       "code": 3,
-      "wind": 11,
-      "humidity": 65
+      "wind": 13,
+      "humidity": 66
     },
     "forecast": [
       {
         "date": "2026-11-04",
         "code": 3,
-        "tmax": 11,
+        "tmax": 10,
         "tmin": 5
       },
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-11-06",
         "code": 61,
-        "tmax": 8,
-        "tmin": 3
+        "tmax": 9,
+        "tmin": 5
       },
       {
         "date": "2026-11-07",
         "code": 45,
-        "tmax": 9,
-        "tmin": 4
+        "tmax": 10,
+        "tmin": 7
       }
     ]
   },
@@ -50,17 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -102,23 +92,33 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le petit livre des fondements de l'IA générative : une introduction mathématique intuitive",
-        "titleOriginal": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-        "url": "https://arxiv.org/abs/2605.29713",
-        "source": "arxiv.org",
-        "score": 184,
-        "comments": 31,
-        "hnUrl": "https://news.ycombinator.com/item?id=50358582",
+        "title": "MASQUE EN FEUILLE JELLY.",
+        "titleOriginal": "Jelly Sheet",
+        "url": "https://mrdoob.github.io/codevember-2026/01/",
+        "source": "mrdoob.github.io",
+        "score": 122,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50361268",
         "date": "il y a 3 h"
       },
       {
-        "title": "Safari introduit le mode sombre adaptatif en 27.3",
-        "titleOriginal": "Safari introduces Adaptive Dark Mode in 27.3",
-        "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-        "source": "webkit.org",
-        "score": 254,
-        "comments": 154,
-        "hnUrl": "https://news.ycombinator.com/item?id=50358562",
+        "title": "C++26 Désapprouvé",
+        "titleOriginal": "C++26 Disapproved",
+        "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+        "source": "andreasfertig.com",
+        "score": 230,
+        "comments": 124,
+        "hnUrl": "https://news.ycombinator.com/item?id=50360164",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Différences cellulaires et génétiques distinctes dans le cancer colorectal chez les jeunes patients",
+        "titleOriginal": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+        "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+        "source": "dana-farber.org",
+        "score": 56,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50361154",
         "date": "il y a 3 h"
       },
       {
@@ -126,20 +126,10 @@
         "titleOriginal": "The Internals of PostgreSQL",
         "url": "https://www.interdb.jp/pg/index.html",
         "source": "interdb.jp",
-        "score": 76,
-        "comments": 2,
+        "score": 231,
+        "comments": 13,
         "hnUrl": "https://news.ycombinator.com/item?id=50358702",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Jailbreaker le système de navigation de ma voiture juste pour que je puisse changer l'heure",
-        "titleOriginal": "Jailbreaking my car's navigation system just so I can change the time",
-        "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-        "source": "blog.nns.ee",
-        "score": 588,
-        "comments": 236,
-        "hnUrl": "https://news.ycombinator.com/item?id=50339288",
-        "date": "hier"
+        "date": "il y a 9 h"
       }
     ]
   },
