@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-04T15:37:57.954Z",
+  "updatedAt": "2026-11-04T21:40:40.377Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
+      "temp": 8,
       "feelsLike": 5,
       "code": 3,
-      "wind": 15,
-      "humidity": 64
+      "wind": 9,
+      "humidity": 71
     },
     "forecast": [
       {
@@ -25,21 +25,29 @@
       {
         "date": "2026-11-06",
         "code": 61,
-        "tmax": 9,
+        "tmax": 10,
         "tmin": 6
       },
       {
         "date": "2026-11-07",
         "code": 45,
-        "tmax": 9,
+        "tmax": 8,
         "tmin": 5
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Just Chatting",
+        "viewers": 29608,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,22 +60,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "MÉDIUM : ELLE PARLE AVEC UN MORT QUI A DÉTESTÉ SON PROPRE ENTERREMENT !",
+        "title": "LES MÉDIUMS SONT-ILS DESTINÉS À FINIR À L’HÔPITAL PSYCHIATRIQUE ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "-cCat_pQ7Sc",
-        "thumbnail": "https://i.ytimg.com/vi/-cCat_pQ7Sc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-cCat_pQ7Sc",
-        "publishedAt": "2026-11-04T15:00:21+00:00"
+        "videoId": "T4Ty7X_1Gk8",
+        "thumbnail": "https://i.ytimg.com/vi/T4Ty7X_1Gk8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T4Ty7X_1Gk8",
+        "publishedAt": "2026-11-04T17:00:27+00:00"
       },
       {
-        "title": "La France invente une taxe sur Internet : vous allez payer !",
+        "title": "Anthropic : la plus grosse machine à cash de la Tech ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "z4ZYVjtc3EM",
-        "thumbnail": "https://i.ytimg.com/vi/z4ZYVjtc3EM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z4ZYVjtc3EM",
-        "publishedAt": "2026-11-03T17:00:23+00:00"
+        "videoId": "di3e3dYxcYU",
+        "thumbnail": "https://i.ytimg.com/vi/di3e3dYxcYU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=di3e3dYxcYU",
+        "publishedAt": "2026-11-04T17:00:18+00:00"
       },
       {
         "title": "On déguste 7 CROUSTY, soit 11 900 calories mais c’est pour analyser vous comprenez",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Procurations résidentielles détectées sur le réseau de la Maison Blanche",
+        "titleOriginal": "Residential proxies detected on White House network",
+        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+        "source": "layer3intel.com",
+        "score": 195,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=50371246",
+        "date": "il y a 55 min"
+      },
+      {
+        "title": "Les insectes n'essaiment pas aux lumières LED",
+        "titleOriginal": "Insects don't swarm at LED lights",
+        "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+        "source": "birdsoutsidemywindow.org",
+        "score": 81,
+        "comments": 43,
+        "hnUrl": "https://news.ycombinator.com/item?id=50370610",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Ripple-65B Preview : US Open-Weight SOTA sur le codage authentique",
+        "titleOriginal": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "url": "https://www.ricursive.com/ripple",
+        "source": "ricursive.com",
+        "score": 133,
+        "comments": 49,
+        "hnUrl": "https://news.ycombinator.com/item?id=50369925",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "L'IA nous oblige à rembourser 40 ans de dette technique",
         "titleOriginal": "AI is forcing us to pay off 40 years of technical debt",
         "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
         "source": "spectrum.ieee.org",
-        "score": 438,
-        "comments": 302,
+        "score": 951,
+        "comments": 579,
         "hnUrl": "https://news.ycombinator.com/item?id=50364336",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Voies cyclables de la guérilla : San Francisco rend les infrastructures illicites permanentes",
-        "titleOriginal": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
-        "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-        "source": "99percentinvisible.org",
-        "score": 25,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=50366522",
-        "date": "il y a 36 min"
-      },
-      {
-        "title": "Le micrologiciel chiffré Nvidia RTX Spark ralentit la vitesse d'inférence à 35 % sur Linux",
-        "titleOriginal": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-        "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-        "source": "mindstudio.ai",
-        "score": 350,
-        "comments": 174,
-        "hnUrl": "https://news.ycombinator.com/item?id=50362905",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Un faux entretien d'embauche nord-coréen a conduit à un braquage de 6,3 milliards de $ à Binance",
-        "titleOriginal": "North Korean fake job interview led to $6.3B Binance heist",
-        "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-        "source": "theregister.com",
-        "score": 131,
-        "comments": 77,
-        "hnUrl": "https://news.ycombinator.com/item?id=50365755",
-        "date": "il y a 1 h"
+        "date": "il y a 9 h"
       }
     ]
   },
