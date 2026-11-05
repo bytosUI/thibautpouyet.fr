@@ -1,57 +1,49 @@
 {
-  "updatedAt": "2026-11-05T08:59:20.233Z",
+  "updatedAt": "2026-11-05T17:12:52.956Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 5,
-      "feelsLike": 1,
+      "temp": 9,
+      "feelsLike": 7,
       "code": 1,
-      "wind": 8,
-      "humidity": 81
+      "wind": 6,
+      "humidity": 71
     },
     "forecast": [
       {
         "date": "2026-11-05",
         "code": 3,
-        "tmax": 12,
+        "tmax": 11,
         "tmin": 2
       },
       {
         "date": "2026-11-06",
         "code": 61,
-        "tmax": 8,
-        "tmin": 5
+        "tmax": 10,
+        "tmin": 6
       },
       {
         "date": "2026-11-07",
         "code": 45,
-        "tmax": 9,
+        "tmax": 10,
         "tmin": 4
       },
       {
         "date": "2026-11-08",
         "code": 45,
-        "tmax": 10,
-        "tmin": 4
+        "tmax": 9,
+        "tmin": 2
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 413,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
       "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -60,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "SON FILS DE 4 ANS PEUT VOIR LES MORTS ?",
+        "title": "On parle des TCA avec notre experte Camille et c’est extrêmement intéressant",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "QYGlX62C8nc",
+        "thumbnail": "https://i.ytimg.com/vi/QYGlX62C8nc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QYGlX62C8nc",
+        "publishedAt": "2026-11-05T16:24:08+00:00"
+      },
+      {
+        "title": "EST-CE QUE LES DÉFUNTS NOUS VOIENT QUAND ON EST NUS ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "c7Wugm5uDNk",
-        "thumbnail": "https://i.ytimg.com/vi/c7Wugm5uDNk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c7Wugm5uDNk",
-        "publishedAt": "2026-11-05T08:00:38+00:00"
+        "videoId": "C7JK9gvq_p0",
+        "thumbnail": "https://i.ytimg.com/vi/C7JK9gvq_p0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C7JK9gvq_p0",
+        "publishedAt": "2026-11-05T16:00:37+00:00"
       },
       {
         "title": "Anthropic : la plus grosse machine à cash de la Tech ?",
@@ -76,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/di3e3dYxcYU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=di3e3dYxcYU",
         "publishedAt": "2026-11-04T17:00:18+00:00"
-      },
-      {
-        "title": "On déguste 7 CROUSTY, soit 11 900 calories mais c’est pour analyser vous comprenez",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "fOkRN9yxMAM",
-        "thumbnail": "https://i.ytimg.com/vi/fOkRN9yxMAM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fOkRN9yxMAM",
-        "publishedAt": "2026-11-03T16:23:41+00:00"
       },
       {
         "title": "La saison 3 se prépare… On fait le point à Séoul 🇰🇷",
@@ -162,13 +154,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 24 sem",
+        "time": "il y a 25 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 24 sem",
+        "time": "il y a 25 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Procurations résidentielles détectées sur le réseau de la Maison Blanche",
-        "titleOriginal": "Residential proxies detected on White House network",
-        "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-        "source": "layer3intel.com",
-        "score": 997,
-        "comments": 309,
-        "hnUrl": "https://news.ycombinator.com/item?id=50371246",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Animation CSS Lemmings",
-        "titleOriginal": "Lemmings CSS Animation",
-        "url": "https://markblah.github.io/lemmings/",
-        "source": "markblah.github.io",
-        "score": 140,
-        "comments": 27,
-        "hnUrl": "https://news.ycombinator.com/item?id=50375354",
+        "title": "sshole",
+        "titleOriginal": "sshole",
+        "url": "https://sshhole.com",
+        "source": "sshhole.com",
+        "score": 1298,
+        "comments": 362,
+        "hnUrl": "https://news.ycombinator.com/item?id=50378228",
         "date": "il y a 4 h"
       },
       {
-        "title": "Images 2.6",
-        "titleOriginal": "Images 2.6",
-        "url": "https://openai.com/index/introducing-images-2-6/",
-        "source": "openai.com",
-        "score": 274,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=50372945",
-        "date": "il y a 9 h"
+        "title": "Avis de sécurité Alpine Linux : contournement de l'authentification par mot de passe du serveur OpenSSH",
+        "titleOriginal": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "source": "alpinelinux.org",
+        "score": 210,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50379704",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Vous souhaitez louer une adresse Internet à la Maison Blanche ?",
-        "titleOriginal": "Want to Rent an Internet Address at the White House?",
-        "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-        "source": "krebsonsecurity.com",
-        "score": 33,
-        "comments": 1,
-        "hnUrl": "https://news.ycombinator.com/item?id=50375728",
-        "date": "il y a 3 h"
+        "title": "Motorola Signature 27 avec prise en charge de GrapheneOS",
+        "titleOriginal": "Motorola Signature 27 with GrapheneOS support",
+        "url": "https://motorolanews.com/motorola-signature-27-2/",
+        "source": "motorolanews.com",
+        "score": 84,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=50380810",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Septembre dans Servo&nbsp;:<progress>, rectangles arrondis, et plus encore",
+        "titleOriginal": "September in Servo: <progress>, rounded rectangles, and more",
+        "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+        "source": "servo.org",
+        "score": 79,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=50379576",
+        "date": "il y a 2 h"
       }
     ]
   },
