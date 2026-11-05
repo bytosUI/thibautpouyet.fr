@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-05T17:12:52.956Z",
+  "updatedAt": "2026-11-05T22:44:29.883Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 7,
-      "code": 1,
-      "wind": 6,
-      "humidity": 71
+      "temp": 6,
+      "feelsLike": 4,
+      "code": 2,
+      "wind": 3,
+      "humidity": 83
     },
     "forecast": [
       {
@@ -19,13 +19,13 @@
       {
         "date": "2026-11-06",
         "code": 61,
-        "tmax": 10,
-        "tmin": 6
+        "tmax": 9,
+        "tmin": 4
       },
       {
         "date": "2026-11-07",
         "code": 45,
-        "tmax": 10,
+        "tmax": 8,
         "tmin": 4
       },
       {
@@ -37,7 +37,16 @@
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 124,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,94 +54,11 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "On parle des TCA avec notre experte Camille et c’est extrêmement intéressant",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "QYGlX62C8nc",
-        "thumbnail": "https://i.ytimg.com/vi/QYGlX62C8nc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QYGlX62C8nc",
-        "publishedAt": "2026-11-05T16:24:08+00:00"
-      },
-      {
-        "title": "EST-CE QUE LES DÉFUNTS NOUS VOIENT QUAND ON EST NUS ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "C7JK9gvq_p0",
-        "thumbnail": "https://i.ytimg.com/vi/C7JK9gvq_p0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C7JK9gvq_p0",
-        "publishedAt": "2026-11-05T16:00:37+00:00"
-      },
-      {
-        "title": "Anthropic : la plus grosse machine à cash de la Tech ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "di3e3dYxcYU",
-        "thumbnail": "https://i.ytimg.com/vi/di3e3dYxcYU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=di3e3dYxcYU",
-        "publishedAt": "2026-11-04T17:00:18+00:00"
-      },
-      {
-        "title": "La saison 3 se prépare… On fait le point à Séoul 🇰🇷",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "LxC4hwNFlr4",
-        "thumbnail": "https://i.ytimg.com/vi/LxC4hwNFlr4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LxC4hwNFlr4",
-        "publishedAt": "2026-11-02T17:15:19+00:00"
-      },
-      {
-        "title": "J’AI GRAVÉ MON MACBOOK ! 😱",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "I5vm0KRQV3Y",
-        "thumbnail": "https://i.ytimg.com/vi/I5vm0KRQV3Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I5vm0KRQV3Y",
-        "publishedAt": "2026-10-28T09:29:51+00:00"
-      },
-      {
-        "title": "Ma vieille maison dans les bois devient plus autonome #30",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "hSqyq8P1bzc",
-        "thumbnail": "https://i.ytimg.com/vi/hSqyq8P1bzc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hSqyq8P1bzc",
-        "publishedAt": "2026-10-25T16:17:29+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -166,7 +92,7 @@
       {
         "repo": "bytosUI/thibautpouyet.fr",
         "message": "Optimize NBA hub: cache-buster, memoization, dedup",
-        "time": "il y a 26 sem",
+        "time": "il y a 27 sem",
         "url": "https://github.com/bytosUI/thibautpouyet.fr/commit/7240e8bd5d20d76c4bb736967d0c1298f3edebcc"
       }
     ]
@@ -174,44 +100,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Kagi Rechercher pour tout le monde",
+        "titleOriginal": "Kagi Search for Everyone",
+        "url": "https://kagi.com/changelog",
+        "source": "kagi.com",
+        "score": 283,
+        "comments": 145,
+        "hnUrl": "https://news.ycombinator.com/item?id=50383740",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Vulnérabilité liée à l'exécution de code à distance dans MS Paint",
+        "titleOriginal": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "source": "cve.org",
+        "score": 157,
+        "comments": 44,
+        "hnUrl": "https://news.ycombinator.com/item?id=50384233",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "sshole",
         "titleOriginal": "sshole",
         "url": "https://sshhole.com",
         "source": "sshhole.com",
-        "score": 1298,
-        "comments": 362,
+        "score": 2162,
+        "comments": 543,
         "hnUrl": "https://news.ycombinator.com/item?id=50378228",
-        "date": "il y a 4 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Avis de sécurité Alpine Linux : contournement de l'authentification par mot de passe du serveur OpenSSH",
-        "titleOriginal": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
-        "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-        "source": "alpinelinux.org",
-        "score": 210,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=50379704",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Motorola Signature 27 avec prise en charge de GrapheneOS",
-        "titleOriginal": "Motorola Signature 27 with GrapheneOS support",
-        "url": "https://motorolanews.com/motorola-signature-27-2/",
-        "source": "motorolanews.com",
-        "score": 84,
-        "comments": 23,
-        "hnUrl": "https://news.ycombinator.com/item?id=50380810",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Septembre dans Servo&nbsp;:<progress>, rectangles arrondis, et plus encore",
-        "titleOriginal": "September in Servo: <progress>, rounded rectangles, and more",
-        "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-        "source": "servo.org",
-        "score": 79,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=50379576",
-        "date": "il y a 2 h"
+        "title": "Claude Code envoie votre adresse e-mail aux sites Web",
+        "titleOriginal": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "source": "github.com",
+        "score": 30,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50385272",
+        "date": "il y a 27 min"
       }
     ]
   },
