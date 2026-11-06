@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-06T11:16:22.883Z",
+  "updatedAt": "2026-11-06T18:10:50.216Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 8,
-      "feelsLike": 6,
+      "feelsLike": 7,
       "code": 3,
       "wind": 3,
-      "humidity": 89
+      "humidity": 90
     },
     "forecast": [
       {
@@ -18,21 +18,21 @@
       },
       {
         "date": "2026-11-07",
-        "code": 80,
+        "code": 45,
         "tmax": 11,
-        "tmin": 7
+        "tmin": 3
       },
       {
         "date": "2026-11-08",
         "code": 45,
-        "tmax": 11,
-        "tmin": 4
+        "tmax": 8,
+        "tmin": 2
       },
       {
         "date": "2026-11-09",
-        "code": 3,
+        "code": 45,
         "tmax": 11,
-        "tmin": 3
+        "tmin": 1
       }
     ]
   },
@@ -52,13 +52,13 @@
   "youtube": {
     "videos": [
       {
-        "title": "OVNI : le plus grand secret technologique des États-Unis ?",
+        "title": "L’AFTER : Trump humilié, la Big Tech en panique, l’IA hors de prix !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "brYPXjsVFf0",
-        "thumbnail": "https://i.ytimg.com/vi/brYPXjsVFf0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=brYPXjsVFf0",
-        "publishedAt": "2026-11-05T17:00:16+00:00"
+        "videoId": "YSsFUKocQq4",
+        "thumbnail": "https://i.ytimg.com/vi/YSsFUKocQq4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YSsFUKocQq4",
+        "publishedAt": "2026-11-06T17:00:27+00:00"
       },
       {
         "title": "On parle des TCA avec notre experte Camille et c’est extrêmement intéressant",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Interface utilisateur et durée d'exécution de Blender : beaucoup plus rapide que l'interface graphique",
-        "titleOriginal": "Blender's UI and Runtime: Much Faster Than GPUI",
-        "url": "https://github.com/ppmpreetham/BUI",
-        "source": "github.com",
-        "score": 221,
-        "comments": 92,
-        "hnUrl": "https://news.ycombinator.com/item?id=50389333",
-        "date": "il y a 3 h"
+        "title": "La FAA américaine dit qu'elle éliminera progressivement les disquettes du contrôle de la circulation aérienne d'ici 2028",
+        "titleOriginal": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+        "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+        "source": "reuters.com",
+        "score": 62,
+        "comments": 79,
+        "hnUrl": "https://news.ycombinator.com/item?id=50388001",
+        "date": "il y a 14 h"
       },
       {
-        "title": "La banque « idéaliste » néerlandaise ASN bloque Android non-Google, y compris GrapheneOS",
-        "titleOriginal": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-        "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-        "source": "github.com",
-        "score": 71,
-        "comments": 43,
-        "hnUrl": "https://news.ycombinator.com/item?id=50390124",
+        "title": "Tesla va mettre fin à la production de Cybertruck",
+        "titleOriginal": "Tesla to wind down Cybertruck production",
+        "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+        "source": "nbcnews.com",
+        "score": 342,
+        "comments": 951,
+        "hnUrl": "https://news.ycombinator.com/item?id=50391456",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Premiers pas dans la programmation bare-metal à l'aide de l'UEFI",
+        "titleOriginal": "First steps in bare-metal programming using UEFI",
+        "url": "https://kevinboone.me/efitest_index.html",
+        "source": "kevinboone.me",
+        "score": 51,
+        "comments": 2,
+        "hnUrl": "https://news.ycombinator.com/item?id=50394855",
         "date": "il y a 1 h"
       },
       {
-        "title": "Claude Code envoie votre adresse e-mail aux sites Web",
-        "titleOriginal": "Claude Code sends your email address to websites",
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "title": "Rune : un cadre d'interface utilisateur Rust rendu par GPU natif pour macOS, Windows, Linux et Web",
+        "titleOriginal": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+        "url": "https://github.com/anomalyco/rune",
         "source": "github.com",
-        "score": 1192,
-        "comments": 379,
-        "hnUrl": "https://news.ycombinator.com/item?id=50385272",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Vivre au-delà des limites de la survie : les fourmis des bois piégées dans un piège gigantesque (2016)",
-        "titleOriginal": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-        "url": "https://jhr.pensoft.net/articles.php?id=9096",
-        "source": "jhr.pensoft.net",
-        "score": 27,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=50390525",
-        "date": "il y a 55 min"
+        "score": 40,
+        "comments": 14,
+        "hnUrl": "https://news.ycombinator.com/item?id=50394569",
+        "date": "il y a 1 h"
       }
     ]
   },
