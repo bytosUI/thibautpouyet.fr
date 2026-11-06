@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-11-05T22:44:29.883Z",
+  "updatedAt": "2026-11-06T03:02:51.475Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 6,
-      "feelsLike": 4,
-      "code": 2,
+      "temp": 5,
+      "feelsLike": 2,
+      "code": 3,
       "wind": 3,
-      "humidity": 83
+      "humidity": 91
     },
     "forecast": [
-      {
-        "date": "2026-11-05",
-        "code": 3,
-        "tmax": 11,
-        "tmin": 2
-      },
       {
         "date": "2026-11-06",
         "code": 61,
@@ -24,7 +18,7 @@
       },
       {
         "date": "2026-11-07",
-        "code": 45,
+        "code": 61,
         "tmax": 8,
         "tmin": 4
       },
@@ -33,20 +27,17 @@
         "code": 45,
         "tmax": 9,
         "tmin": 2
+      },
+      {
+        "date": "2026-11-09",
+        "code": 61,
+        "tmax": 12,
+        "tmin": 4
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 124,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -100,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Kagi Rechercher pour tout le monde",
-        "titleOriginal": "Kagi Search for Everyone",
-        "url": "https://kagi.com/changelog",
-        "source": "kagi.com",
-        "score": 283,
-        "comments": 145,
-        "hnUrl": "https://news.ycombinator.com/item?id=50383740",
-        "date": "il y a 2 h"
+        "title": "Claude Code envoie votre adresse e-mail aux sites Web",
+        "titleOriginal": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "source": "github.com",
+        "score": 609,
+        "comments": 207,
+        "hnUrl": "https://news.ycombinator.com/item?id=50385272",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Vulnérabilité liée à l'exécution de code à distance dans MS Paint",
-        "titleOriginal": "MS Paint Remote Code Execution Vulnerability",
-        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-        "source": "cve.org",
-        "score": 157,
-        "comments": 44,
-        "hnUrl": "https://news.ycombinator.com/item?id=50384233",
-        "date": "il y a 2 h"
+        "title": "Rechercher tout le monde",
+        "titleOriginal": "Search for everyone",
+        "url": "https://kagi.com/changelog#11820",
+        "source": "kagi.com",
+        "score": 567,
+        "comments": 269,
+        "hnUrl": "https://news.ycombinator.com/item?id=50383740",
+        "date": "il y a 6 h"
       },
       {
         "title": "sshole",
         "titleOriginal": "sshole",
         "url": "https://sshhole.com",
         "source": "sshhole.com",
-        "score": 2162,
-        "comments": 543,
+        "score": 2382,
+        "comments": 585,
         "hnUrl": "https://news.ycombinator.com/item?id=50378228",
-        "date": "il y a 10 h"
+        "date": "il y a 14 h"
       },
       {
-        "title": "Claude Code envoie votre adresse e-mail aux sites Web",
-        "titleOriginal": "Claude Code sends your email address to websites",
-        "url": "https://github.com/anthropics/claude-code/issues/107757",
-        "source": "github.com",
-        "score": 30,
-        "comments": 5,
-        "hnUrl": "https://news.ycombinator.com/item?id=50385272",
-        "date": "il y a 27 min"
+        "title": "Vulnérabilité liée à l'exécution de code à distance dans MS Paint",
+        "titleOriginal": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "source": "cve.org",
+        "score": 345,
+        "comments": 128,
+        "hnUrl": "https://news.ycombinator.com/item?id=50384233",
+        "date": "il y a 6 h"
       }
     ]
   },
