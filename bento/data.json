@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-08T17:09:28.727Z",
+  "updatedAt": "2026-11-08T21:16:19.141Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 7,
-      "code": 3,
-      "wind": 2,
-      "humidity": 85
+      "temp": 6,
+      "feelsLike": 5,
+      "code": 2,
+      "wind": 3,
+      "humidity": 94
     },
     "forecast": [
       {
@@ -24,7 +24,7 @@
       },
       {
         "date": "2026-11-10",
-        "code": 61,
+        "code": 80,
         "tmax": 13,
         "tmin": 8
       },
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Llama-modchip : 284B DeepSeek sur 64Go de RAM, sans GPU",
-        "titleOriginal": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "url": "https://github.com/synchopate/llama-modchip",
-        "source": "github.com",
-        "score": 181,
-        "comments": 58,
-        "hnUrl": "https://news.ycombinator.com/item?id=50411961",
-        "date": "il y a 6 h"
+        "title": "Goldman Sachs retire le code Claude de ses banquiers et traders",
+        "titleOriginal": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "source": "thestateofai.com",
+        "score": 378,
+        "comments": 232,
+        "hnUrl": "https://news.ycombinator.com/item?id=50415628",
+        "date": "il y a 3 h"
       },
       {
-        "title": "La reconstruction des documents déchirés",
-        "titleOriginal": "The Reconstruction of Torn Documents",
-        "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-        "source": "bundesarchiv.de",
-        "score": 27,
-        "comments": 3,
-        "hnUrl": "https://news.ycombinator.com/item?id=50389923",
-        "date": "il y a 2 j"
+        "title": "How I Fight AI Brain Fry",
+        "titleOriginal": "How I Fight AI Brain Fry",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "source": "sergeykuhne.com",
+        "score": 67,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=50416363",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Je ne suis pas fan du modèle de sécurité de Deno (2024)",
-        "titleOriginal": "I'm not a fan of Deno's security model (2024)",
-        "url": "https://goldstein.lol/posts/deno-security/",
-        "source": "goldstein.lol",
-        "score": 25,
-        "comments": 7,
-        "hnUrl": "https://news.ycombinator.com/item?id=50413769",
+        "title": "Dux : shell de bureau Wayland gratuit et open source avec gestionnaire de fichiers et thématisation",
+        "titleOriginal": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+        "url": "https://duxlabs.dev/",
+        "source": "duxlabs.dev",
+        "score": 67,
+        "comments": 25,
+        "hnUrl": "https://news.ycombinator.com/item?id=50416053",
         "date": "il y a 2 h"
       },
       {
-        "title": "L'écriture comme outil de réflexion",
-        "titleOriginal": "Writing as a thinking tool",
-        "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-        "source": "muratbuffalo.blogspot.com",
-        "score": 96,
-        "comments": 19,
-        "hnUrl": "https://news.ycombinator.com/item?id=50412067",
-        "date": "il y a 6 h"
+        "title": "RAM Altman : le script Linux envoie quotidiennement des e-mails à Sam Altman sur la quantité de RAM inutilisée sur votre PC",
+        "titleOriginal": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
+        "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+        "source": "respawnfirst.com",
+        "score": 113,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=50415172",
+        "date": "il y a 3 h"
       }
     ]
   },
