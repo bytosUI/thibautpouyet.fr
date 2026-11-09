@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-11-08T21:16:19.141Z",
+  "updatedAt": "2026-11-09T01:04:31.092Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 6,
-      "feelsLike": 5,
-      "code": 2,
+      "temp": 3,
+      "feelsLike": 1,
+      "code": 0,
       "wind": 3,
       "humidity": 94
     },
     "forecast": [
       {
-        "date": "2026-11-08",
-        "code": 80,
-        "tmax": 10,
-        "tmin": 5
-      },
-      {
         "date": "2026-11-09",
         "code": 61,
         "tmax": 9,
-        "tmin": 3
+        "tmin": 2
       },
       {
         "date": "2026-11-10",
@@ -31,8 +25,14 @@
       {
         "date": "2026-11-11",
         "code": 80,
-        "tmax": 15,
-        "tmin": 12
+        "tmax": 16,
+        "tmin": 13
+      },
+      {
+        "date": "2026-11-12",
+        "code": 3,
+        "tmax": 14,
+        "tmin": 7
       }
     ]
   },
@@ -50,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "u0g5MyR2LfU",
-        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
-        "publishedAt": "2026-11-08T17:00:25+00:00"
-      },
-      {
-        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "UMV8vKl8JUw",
-        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
-        "publishedAt": "2026-11-08T16:17:19+00:00"
-      },
-      {
-        "title": "PERSUADÉE D’ÊTRE AMIE AVEC SLIMANE, DADJU ET KENDJI… ELLE LEUR ENVOIE TOUTES SES ÉCONOMIES !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "F3elFRPoCrM",
-        "thumbnail": "https://i.ytimg.com/vi/F3elFRPoCrM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F3elFRPoCrM",
-        "publishedAt": "2026-11-08T15:00:31+00:00"
-      },
-      {
-        "title": "On a fait estimer le bien en l'état à 50% des travaux ! (on ne s'y attendait pas)",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "meDf1MTPRLg",
-        "thumbnail": "https://i.ytimg.com/vi/meDf1MTPRLg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=meDf1MTPRLg",
-        "publishedAt": "2026-11-08T12:06:32+00:00"
-      },
-      {
-        "title": "L’AFTER : Trump humilié, la Big Tech en panique, l’IA hors de prix !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "YSsFUKocQq4",
-        "thumbnail": "https://i.ytimg.com/vi/YSsFUKocQq4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YSsFUKocQq4",
-        "publishedAt": "2026-11-06T17:00:27+00:00"
-      },
-      {
-        "title": "On parle des TCA avec notre experte Camille et c’est extrêmement intéressant",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "QYGlX62C8nc",
-        "thumbnail": "https://i.ytimg.com/vi/QYGlX62C8nc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QYGlX62C8nc",
-        "publishedAt": "2026-11-05T16:24:08+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -174,43 +92,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Goldman Sachs retire le code Claude de ses banquiers et traders",
-        "titleOriginal": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "source": "thestateofai.com",
-        "score": 378,
-        "comments": 232,
-        "hnUrl": "https://news.ycombinator.com/item?id=50415628",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "How I Fight AI Brain Fry",
-        "titleOriginal": "How I Fight AI Brain Fry",
-        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-        "source": "sergeykuhne.com",
-        "score": 67,
-        "comments": 46,
-        "hnUrl": "https://news.ycombinator.com/item?id=50416363",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Dux : shell de bureau Wayland gratuit et open source avec gestionnaire de fichiers et thématisation",
-        "titleOriginal": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-        "url": "https://duxlabs.dev/",
-        "source": "duxlabs.dev",
-        "score": 67,
+        "title": "KetchUp – Alternative Open-source SketchUp construite avec Rust et WebGPU",
+        "titleOriginal": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+        "url": "https://ketchup3d.github.io/app/",
+        "source": "ketchup3d.github.io",
+        "score": 148,
         "comments": 25,
-        "hnUrl": "https://news.ycombinator.com/item?id=50416053",
+        "hnUrl": "https://news.ycombinator.com/item?id=50418176",
         "date": "il y a 2 h"
       },
       {
-        "title": "RAM Altman : le script Linux envoie quotidiennement des e-mails à Sam Altman sur la quantité de RAM inutilisée sur votre PC",
-        "titleOriginal": "RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC",
-        "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
-        "source": "respawnfirst.com",
-        "score": 113,
-        "comments": 39,
-        "hnUrl": "https://news.ycombinator.com/item?id=50415172",
+        "title": "Herb Sutter : Quand le créateur d'une langue et ses propriétaires sont fortement en désaccord [pdf]",
+        "titleOriginal": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+        "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+        "source": "isocpp.org",
+        "score": 42,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50418818",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Synthétiseur vocal Chimera",
+        "titleOriginal": "Chimera Vocal Synth",
+        "url": "https://chimera-vocal-synth.vercel.app/",
+        "source": "chimera-vocal-synth.vercel.app",
+        "score": 72,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50418182",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Demandez à HN : Sur quoi travaillez-vous ? (Novembre 2026)",
+        "titleOriginal": "Ask HN: What are you working on? (November 2026)",
+        "url": "https://news.ycombinator.com/item?id=50417407",
+        "source": "news.ycombinator.com",
+        "score": 107,
+        "comments": 418,
+        "hnUrl": "https://news.ycombinator.com/item?id=50417407",
         "date": "il y a 3 h"
       }
     ]
