@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-10T17:11:01.945Z",
+  "updatedAt": "2026-11-10T22:26:52.115Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 11,
-      "feelsLike": 9,
-      "code": 80,
-      "wind": 9,
-      "humidity": 96
+      "temp": 12,
+      "feelsLike": 11,
+      "code": 61,
+      "wind": 7,
+      "humidity": 98
     },
     "forecast": [
       {
@@ -19,14 +19,14 @@
       {
         "date": "2026-11-11",
         "code": 80,
-        "tmax": 15,
-        "tmin": 8
+        "tmax": 16,
+        "tmin": 9
       },
       {
         "date": "2026-11-12",
         "code": 45,
-        "tmax": 12,
-        "tmin": 5
+        "tmax": 11,
+        "tmin": 4
       },
       {
         "date": "2026-11-13",
@@ -37,17 +37,9 @@
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Antivirus Survivors 2003 Professional",
-        "viewers": 6432,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -69,13 +61,13 @@
         "publishedAt": "2026-11-10T17:00:17+00:00"
       },
       {
-        "title": "CETTE PROSTITUÉE AVEC UNE PERSONNE DE PETITE TAILLE",
+        "title": "BEAUCOUP D'HOMMES MARIÉS VONT AU BOIS DE BOULOGNE EN RENTRANT DU TRAVAIL",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "9wPqH1V0EyQ",
-        "thumbnail": "https://i.ytimg.com/vi/9wPqH1V0EyQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9wPqH1V0EyQ",
-        "publishedAt": "2026-11-10T16:00:27+00:00"
+        "videoId": "qR-3q8qEUDg",
+        "thumbnail": "https://i.ytimg.com/vi/qR-3q8qEUDg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qR-3q8qEUDg",
+        "publishedAt": "2026-11-10T17:00:13+00:00"
       },
       {
         "title": "La Tour Eiffel est-elle plus grande que le Taj Mahal ? (Devine la taille)",
@@ -182,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Blender 5.3 publié avec support Gaussian Splat",
-        "titleOriginal": "Blender 5.3 released with Gaussian Splat support",
-        "url": "https://www.blender.org/download/releases/5-3/",
-        "source": "blender.org",
-        "score": 135,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50442426",
-        "date": "il y a 55 min"
-      },
-      {
         "title": ".name Grandfathered",
         "titleOriginal": ".name Grandfathered",
         "url": "https://neil.fraser.name/news/2026/11/10/",
         "source": "neil.fraser.name",
-        "score": 80,
-        "comments": 7,
+        "score": 583,
+        "comments": 125,
         "hnUrl": "https://news.ycombinator.com/item?id=50442736",
-        "date": "il y a 33 min"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Code AlphaProof",
-        "titleOriginal": "AlphaProof Code",
-        "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-        "source": "deepmind.google",
-        "score": 427,
-        "comments": 140,
-        "hnUrl": "https://news.ycombinator.com/item?id=50439193",
-        "date": "il y a 4 h"
+        "title": "La marque Toyota Scion est de retour et elle va vendre un camion kei en Amérique",
+        "titleOriginal": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+        "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+        "source": "theautopian.com",
+        "score": 125,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=50445401",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Gemini 4 Carbon est maintenant disponible",
-        "titleOriginal": "Gemini 4 Carbon is now available",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
-        "source": "blog.google",
-        "score": 152,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=50442303",
+        "title": "Les appareils domestiques intelligents devraient fonctionner sans Internet",
+        "titleOriginal": "Smart home devices should work without the internet",
+        "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+        "source": "docodethatmatters.com",
+        "score": 581,
+        "comments": 204,
+        "hnUrl": "https://news.ycombinator.com/item?id=50441707",
+        "date": "il y a 7 h"
+      },
+      {
+        "title": "Six Essentials Mathématiques par Terence Tao",
+        "titleOriginal": "Six Math Essentials by Terence Tao",
+        "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+        "source": "teorth.github.io",
+        "score": 52,
+        "comments": 5,
+        "hnUrl": "https://news.ycombinator.com/item?id=50446246",
         "date": "il y a 1 h"
       }
     ]
