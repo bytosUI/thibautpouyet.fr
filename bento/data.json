@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-11-09T18:58:46.686Z",
+  "updatedAt": "2026-11-10T01:55:04.312Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 8,
-      "feelsLike": 6,
-      "code": 3,
-      "wind": 8,
-      "humidity": 89
+      "feelsLike": 7,
+      "code": 45,
+      "wind": 3,
+      "humidity": 97
     },
     "forecast": [
-      {
-        "date": "2026-11-09",
-        "code": 61,
-        "tmax": 10,
-        "tmin": 1
-      },
       {
         "date": "2026-11-10",
         "code": 61,
@@ -24,30 +18,28 @@
       },
       {
         "date": "2026-11-11",
-        "code": 80,
+        "code": 61,
         "tmax": 16,
-        "tmin": 11
+        "tmin": 9
       },
       {
         "date": "2026-11-12",
         "code": 61,
         "tmax": 15,
         "tmin": 8
+      },
+      {
+        "date": "2026-11-13",
+        "code": 61,
+        "tmax": 9,
+        "tmin": 3
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "League of Legends",
-        "viewers": 7286,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -58,89 +50,7 @@
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "Anthropic et OpenAI deviennent consultants, les Big Four tremblent !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "iuVxYHTJrhU",
-        "thumbnail": "https://i.ytimg.com/vi/iuVxYHTJrhU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iuVxYHTJrhU",
-        "publishedAt": "2026-11-09T17:00:17+00:00"
-      },
-      {
-        "title": "La Tour Eiffel est-elle plus grande que le Taj Mahal ? (Devine la taille)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "WHea3Ckhlz0",
-        "thumbnail": "https://i.ytimg.com/vi/WHea3Ckhlz0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WHea3Ckhlz0",
-        "publishedAt": "2026-11-09T16:22:55+00:00"
-      },
-      {
-        "title": "IL RETROUVE UNE CARTOUCHE DANS SA BOÎTE AUX LETTRES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "2-KwWUSaZ-s",
-        "thumbnail": "https://i.ytimg.com/vi/2-KwWUSaZ-s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2-KwWUSaZ-s",
-        "publishedAt": "2026-11-09T16:00:03+00:00"
-      },
-      {
-        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "u0g5MyR2LfU",
-        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
-        "publishedAt": "2026-11-08T17:00:25+00:00"
-      },
-      {
-        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "UMV8vKl8JUw",
-        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
-        "publishedAt": "2026-11-08T16:17:19+00:00"
-      },
-      {
-        "title": "On a fait estimer le bien en l'état à 50% des travaux ! (on ne s'y attendait pas)",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "meDf1MTPRLg",
-        "thumbnail": "https://i.ytimg.com/vi/meDf1MTPRLg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=meDf1MTPRLg",
-        "publishedAt": "2026-11-08T12:06:32+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -182,44 +92,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Trop d'hommes souffrent en silence, selon un rapport national sur la santé (Canada)",
-        "titleOriginal": "Too many men suffering in silence, national health report finds (Canada)",
-        "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-        "source": "westcentralonline.com",
-        "score": 40,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50429475",
-        "date": "il y a 30 min"
+        "title": "USPS propose désormais des polygones de limite de code POSTAL OFFICIELS",
+        "titleOriginal": "USPS now offers official ZIP Code boundary polygons",
+        "url": "https://postalpro.usps.com/zcb",
+        "source": "postalpro.usps.com",
+        "score": 475,
+        "comments": 235,
+        "hnUrl": "https://news.ycombinator.com/item?id=50431058",
+        "date": "il y a 5 h"
       },
       {
-        "title": "Paiements Canada annonce le lancement du système de paiement ferroviaire en temps réel (RTR) du Canada",
-        "titleOriginal": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-        "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-        "source": "payments.ca",
-        "score": 261,
-        "comments": 161,
-        "hnUrl": "https://news.ycombinator.com/item?id=50427362",
+        "title": "TPU 8tx et TPU 8i Max",
+        "titleOriginal": "TPU 8tx and TPU 8i Max",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+        "source": "blog.google",
+        "score": 203,
+        "comments": 48,
+        "hnUrl": "https://news.ycombinator.com/item?id=50432831",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Fable 5.2 one-shot le jeu de rêve de mon neveu",
+        "titleOriginal": "Fable 5.2 one-shotted my nephew's dream game",
+        "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+        "source": "notesbylex.com",
+        "score": 131,
+        "comments": 98,
+        "hnUrl": "https://news.ycombinator.com/item?id=50433659",
         "date": "il y a 2 h"
       },
       {
-        "title": "Notre modèle le plus petit et le plus efficace : Muse Ember",
-        "titleOriginal": "Our Smallest, Most Efficient Model: Muse Ember",
-        "url": "https://research.meta.ai/blog/muse-ember",
-        "source": "research.meta.ai",
-        "score": 45,
-        "comments": 20,
-        "hnUrl": "https://news.ycombinator.com/item?id=50429024",
-        "date": "il y a 59 min"
-      },
-      {
-        "title": "Avions pliables en papier épique",
-        "titleOriginal": "Fold Epic Paper Airplanes",
-        "url": "https://www.foldableflight.com",
-        "source": "foldableflight.com",
-        "score": 607,
-        "comments": 98,
-        "hnUrl": "https://news.ycombinator.com/item?id=50424581",
-        "date": "il y a 6 h"
+        "title": "Google Gemini achemine les fichiers Drive personnels et les e-mails vers des annotateurs humains",
+        "titleOriginal": "Google Gemini routes personal Drive files and emails to human annotators",
+        "url": "https://github.com/thisisme6598/gemini_files/",
+        "source": "github.com",
+        "score": 410,
+        "comments": 103,
+        "hnUrl": "https://news.ycombinator.com/item?id=50429426",
+        "date": "il y a 7 h"
       }
     ]
   },
