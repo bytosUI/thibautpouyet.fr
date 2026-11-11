@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-11-11T17:38:21.854Z",
+  "updatedAt": "2026-11-11T23:57:01.266Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 12,
-      "code": 2,
-      "wind": 7,
-      "humidity": 93
+      "temp": 7,
+      "feelsLike": 6,
+      "code": 45,
+      "wind": 3,
+      "humidity": 100
     },
     "forecast": [
-      {
-        "date": "2026-11-11",
-        "code": 45,
-        "tmax": 15,
-        "tmin": 10
-      },
       {
         "date": "2026-11-12",
         "code": 45,
@@ -24,20 +18,35 @@
       },
       {
         "date": "2026-11-13",
-        "code": 2,
+        "code": 1,
         "tmax": 9,
         "tmin": 1
       },
       {
         "date": "2026-11-14",
-        "code": 45,
+        "code": 3,
         "tmax": 9,
         "tmin": 0
+      },
+      {
+        "date": "2026-11-15",
+        "code": 61,
+        "tmax": 14,
+        "tmin": 3
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 118,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -45,12 +54,20 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "MARDI 17 NOVEMBRE À 18H",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "_H1hAUbFyLQ",
+        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
+        "publishedAt": "2026-11-11T19:50:43+00:00"
+      },
       {
         "title": "Mistral vs OVH : le duel qui divise la tech française !",
         "channel": "Silicon Carne 🌶️",
@@ -122,15 +139,6 @@
         "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
         "publishedAt": "2026-10-10T12:30:39+00:00"
-      },
-      {
-        "title": "THEODORT LUI A RETOURNÉ LE CERVEAU 🤯",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "Xvl0tzKzeLM",
-        "thumbnail": "https://i.ytimg.com/vi/Xvl0tzKzeLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xvl0tzKzeLM",
-        "publishedAt": "2026-10-04T17:36:08+00:00"
       }
     ]
   },
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Une fausse alarme incendie a failli inonder le seul centre de données de Jane Street à New York",
-        "titleOriginal": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-        "source": "michael.bacarella.com",
-        "score": 88,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=50455394",
-        "date": "il y a 59 min"
-      },
-      {
-        "title": "Un ingénieur logiciel de Google utilise 48 agents d’IA sur le lidar de la NASA et découvre une pyramide maya non répertoriée en 72 heures",
-        "titleOriginal": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-        "url": "https://pietromiotti.com/latest/maya-site/?maya",
-        "source": "pietromiotti.com",
-        "score": 730,
-        "comments": 273,
-        "hnUrl": "https://news.ycombinator.com/item?id=50452455",
+        "title": "Émulateur AWS",
+        "titleOriginal": "AWS emulator",
+        "url": "https://github.com/aws/aws-emulator",
+        "source": "github.com",
+        "score": 592,
+        "comments": 200,
+        "hnUrl": "https://news.ycombinator.com/item?id=50456631",
         "date": "il y a 5 h"
       },
       {
-        "title": "Atuin Threads : toutes vos sessions d'agent sur chaque machine",
-        "titleOriginal": "Atuin Threads: All your agent sessions on every machine",
-        "url": "https://blog.atuin.sh/threads-agent-sessions/",
-        "source": "blog.atuin.sh",
-        "score": 102,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=50453637",
-        "date": "il y a 3 h"
+        "title": "United Airlines interdit aux agents d’IA de réserver des vols pour le compte des voyageurs",
+        "titleOriginal": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "source": "cbsnews.com",
+        "score": 272,
+        "comments": 246,
+        "hnUrl": "https://news.ycombinator.com/item?id=50458900",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Sable hyperréaliste avec WebGL2",
-        "titleOriginal": "Hyper-Realistic Sand with WebGL2",
-        "url": "https://av.github.io/safe-sand/",
-        "source": "av.github.io",
-        "score": 139,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=50453288",
-        "date": "il y a 3 h"
+        "title": "Tim Peters est décédé",
+        "titleOriginal": "Tim Peters has died",
+        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+        "source": "discuss.python.org",
+        "score": 786,
+        "comments": 81,
+        "hnUrl": "https://news.ycombinator.com/item?id=50450488",
+        "date": "il y a 16 h"
+      },
+      {
+        "title": "93 % des éclaboussures de peinture sont des programmes Perl valides (2019)",
+        "titleOriginal": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+        "url": "https://www.mcmillen.dev/sigbovik/",
+        "source": "mcmillen.dev",
+        "score": 52,
+        "comments": 10,
+        "hnUrl": "https://news.ycombinator.com/item?id=50459745",
+        "date": "il y a 1 h"
       }
     ]
   },
