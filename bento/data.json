@@ -1,55 +1,47 @@
 {
-  "updatedAt": "2026-11-11T09:40:55.290Z",
+  "updatedAt": "2026-11-11T17:38:21.854Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 13,
-      "code": 3,
-      "wind": 10,
-      "humidity": 91
+      "temp": 13,
+      "feelsLike": 12,
+      "code": 2,
+      "wind": 7,
+      "humidity": 93
     },
     "forecast": [
       {
         "date": "2026-11-11",
         "code": 45,
         "tmax": 15,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-11-12",
-        "code": 80,
+        "code": 45,
         "tmax": 11,
         "tmin": 4
       },
       {
         "date": "2026-11-13",
-        "code": 1,
-        "tmax": 9,
-        "tmin": 2
-      },
-      {
-        "date": "2026-11-14",
         "code": 2,
         "tmax": 9,
         "tmin": 1
+      },
+      {
+        "date": "2026-11-14",
+        "code": 45,
+        "tmax": 9,
+        "tmin": 0
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 263,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -60,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Nvidia en chute libre, le scandale qui fait trembler la Silicon Valley !",
+        "title": "Mistral vs OVH : le duel qui divise la tech française !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "YUvBECrsRho",
-        "thumbnail": "https://i.ytimg.com/vi/YUvBECrsRho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YUvBECrsRho",
-        "publishedAt": "2026-11-10T17:00:17+00:00"
+        "videoId": "1hXx0SVGIHk",
+        "thumbnail": "https://i.ytimg.com/vi/1hXx0SVGIHk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1hXx0SVGIHk",
+        "publishedAt": "2026-11-11T17:00:36+00:00"
       },
       {
-        "title": "BEAUCOUP D'HOMMES MARIÉS VONT AU BOIS DE BOULOGNE EN RENTRANT DU TRAVAIL",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "qR-3q8qEUDg",
-        "thumbnail": "https://i.ytimg.com/vi/qR-3q8qEUDg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qR-3q8qEUDg",
-        "publishedAt": "2026-11-10T17:00:13+00:00"
-      },
-      {
-        "title": "La Tour Eiffel est-elle plus grande que le Taj Mahal ? (Devine la taille)",
+        "title": "David est un bulldog ? Carl est une fourchette ? Découvrez notre portrait chinois",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "WHea3Ckhlz0",
-        "thumbnail": "https://i.ytimg.com/vi/WHea3Ckhlz0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WHea3Ckhlz0",
-        "publishedAt": "2026-11-09T16:22:55+00:00"
+        "videoId": "hMJE42QyGbQ",
+        "thumbnail": "https://i.ytimg.com/vi/hMJE42QyGbQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hMJE42QyGbQ",
+        "publishedAt": "2026-11-11T16:22:13+00:00"
+      },
+      {
+        "title": "FEMME TRANS : ELLE A CHANGÉ DE SEXE POUR PLAIRE À LA SOCIÉTÉ !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "Ie4qckABtes",
+        "thumbnail": "https://i.ytimg.com/vi/Ie4qckABtes/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ie4qckABtes",
+        "publishedAt": "2026-11-11T16:00:35+00:00"
       },
       {
         "title": "Halloween à Séoul : mon costume a fait son effet 👀",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Protéger les clés SSH avec macOS Secure Enclave",
-        "titleOriginal": "Protecting SSH Keys with macOS Secure Enclave",
-        "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-        "source": "gatezh.com",
-        "score": 187,
-        "comments": 66,
-        "hnUrl": "https://news.ycombinator.com/item?id=50449748",
+        "title": "Une fausse alarme incendie a failli inonder le seul centre de données de Jane Street à New York",
+        "titleOriginal": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+        "source": "michael.bacarella.com",
+        "score": 88,
+        "comments": 36,
+        "hnUrl": "https://news.ycombinator.com/item?id=50455394",
+        "date": "il y a 59 min"
+      },
+      {
+        "title": "Un ingénieur logiciel de Google utilise 48 agents d’IA sur le lidar de la NASA et découvre une pyramide maya non répertoriée en 72 heures",
+        "titleOriginal": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya",
+        "source": "pietromiotti.com",
+        "score": 730,
+        "comments": 273,
+        "hnUrl": "https://news.ycombinator.com/item?id=50452455",
         "date": "il y a 5 h"
       },
       {
-        "title": "Projets OSS interdisant les contributions générées par l'IA",
-        "titleOriginal": "OSS projects banning AI-generated contributions",
-        "url": "https://osssaysno.com",
-        "source": "osssaysno.com",
-        "score": 28,
+        "title": "Atuin Threads : toutes vos sessions d'agent sur chaque machine",
+        "titleOriginal": "Atuin Threads: All your agent sessions on every machine",
+        "url": "https://blog.atuin.sh/threads-agent-sessions/",
+        "source": "blog.atuin.sh",
+        "score": 102,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=50453637",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Sable hyperréaliste avec WebGL2",
+        "titleOriginal": "Hyper-Realistic Sand with WebGL2",
+        "url": "https://av.github.io/safe-sand/",
+        "source": "av.github.io",
+        "score": 139,
         "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=50451102",
-        "date": "il y a 49 min"
-      },
-      {
-        "title": "Les appareils domestiques intelligents devraient fonctionner sans Internet",
-        "titleOriginal": "Smart home devices should work without the internet",
-        "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-        "source": "docodethatmatters.com",
-        "score": 929,
-        "comments": 334,
-        "hnUrl": "https://news.ycombinator.com/item?id=50441707",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": ".name Grandfathered",
-        "titleOriginal": ".name Grandfathered",
-        "url": "https://neil.fraser.name/news/2026/11/10/",
-        "source": "neil.fraser.name",
-        "score": 827,
-        "comments": 183,
-        "hnUrl": "https://news.ycombinator.com/item?id=50442736",
-        "date": "il y a 17 h"
+        "hnUrl": "https://news.ycombinator.com/item?id=50453288",
+        "date": "il y a 3 h"
       }
     ]
   },
