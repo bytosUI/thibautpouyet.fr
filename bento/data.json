@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-11-12T05:53:26.073Z",
+  "updatedAt": "2026-11-12T14:29:48.885Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 8,
+      "temp": 10,
+      "feelsLike": 6,
       "code": 3,
-      "wind": 7,
-      "humidity": 100
+      "wind": 19,
+      "humidity": 61
     },
     "forecast": [
       {
         "date": "2026-11-12",
         "code": 45,
-        "tmax": 11,
+        "tmax": 10,
         "tmin": 4
       },
       {
         "date": "2026-11-13",
-        "code": 45,
+        "code": 1,
         "tmax": 10,
-        "tmin": 1
+        "tmin": 2
       },
       {
         "date": "2026-11-14",
@@ -31,15 +31,23 @@
       {
         "date": "2026-11-15",
         "code": 61,
-        "tmax": 13,
-        "tmin": 2
+        "tmax": 14,
+        "tmin": 3
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "ROB RUN",
+        "viewers": 6806,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -50,7 +58,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "\"CHANGER DE S*XE NE DEVRAIT PAS ÊTRE POSSIBLE AVANT 25 ANS\"",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "0FRrp7Ltgcc",
+        "thumbnail": "https://i.ytimg.com/vi/0FRrp7Ltgcc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0FRrp7Ltgcc",
+        "publishedAt": "2026-11-12T14:00:20+00:00"
+      },
+      {
+        "title": "MARDI 17 NOVEMBRE À 18H",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "_H1hAUbFyLQ",
+        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
+        "publishedAt": "2026-11-11T19:50:43+00:00"
+      },
+      {
+        "title": "Mistral vs OVH : le duel qui divise la tech française !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "1hXx0SVGIHk",
+        "thumbnail": "https://i.ytimg.com/vi/1hXx0SVGIHk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1hXx0SVGIHk",
+        "publishedAt": "2026-11-11T17:00:36+00:00"
+      },
+      {
+        "title": "David est un bulldog ? Carl est une fourchette ? Découvrez notre portrait chinois",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "hMJE42QyGbQ",
+        "thumbnail": "https://i.ytimg.com/vi/hMJE42QyGbQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hMJE42QyGbQ",
+        "publishedAt": "2026-11-11T16:22:13+00:00"
+      },
+      {
+        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "u0g5MyR2LfU",
+        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
+        "publishedAt": "2026-11-08T17:00:25+00:00"
+      },
+      {
+        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "UMV8vKl8JUw",
+        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
+        "publishedAt": "2026-11-08T16:17:19+00:00"
+      },
+      {
+        "title": "On a fait estimer le bien en l'état à 50% des travaux ! (on ne s'y attendait pas)",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "meDf1MTPRLg",
+        "thumbnail": "https://i.ytimg.com/vi/meDf1MTPRLg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=meDf1MTPRLg",
+        "publishedAt": "2026-11-08T12:06:32+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -72,13 +162,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 25 sem",
+        "time": "il y a 26 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 25 sem",
+        "time": "il y a 26 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -92,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "93 % des éclaboussures de peinture sont des programmes Perl valides (2019)",
-        "titleOriginal": "93% of paint splatters are valid Perl programs (2019)",
-        "url": "https://www.mcmillen.dev/sigbovik/",
-        "source": "mcmillen.dev",
-        "score": 305,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=50459745",
-        "date": "il y a 7 h"
+        "title": "NVIDIA annonce la transition de son PDG",
+        "titleOriginal": "NVIDIA Announces CEO Transition",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+        "source": "nvidianews.nvidia.com",
+        "score": 458,
+        "comments": 329,
+        "hnUrl": "https://news.ycombinator.com/item?id=50467087",
+        "date": "il y a 37 min"
       },
       {
-        "title": "Tim Peters est décédé",
-        "titleOriginal": "Tim Peters has died",
-        "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-        "source": "discuss.python.org",
-        "score": 1029,
-        "comments": 111,
-        "hnUrl": "https://news.ycombinator.com/item?id=50450488",
-        "date": "il y a 22 h"
+        "title": "Pourquoi il est difficile d'écrire un logiciel correct",
+        "titleOriginal": "Why Writing Correct Software Is Hard",
+        "url": "https://pron.github.io/posts/correctness-and-complexity",
+        "source": "pron.github.io",
+        "score": 173,
+        "comments": 72,
+        "hnUrl": "https://news.ycombinator.com/item?id=50465352",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Émulateur AWS",
-        "titleOriginal": "AWS emulator",
-        "url": "https://github.com/aws/aws-emulator",
+        "title": "Jensen Huang démissionne immédiatement de son poste de PDG de Nvidia",
+        "titleOriginal": "Jensen Huang resigns as Nvidia CEO immediately",
+        "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
+        "source": "reuters.com",
+        "score": 110,
+        "comments": 39,
+        "hnUrl": "https://news.ycombinator.com/item?id=50467132",
+        "date": "il y a 33 min"
+      },
+      {
+        "title": "Jane Street : tuteur socratique",
+        "titleOriginal": "Jane Street: Socratic Tutor",
+        "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
         "source": "github.com",
-        "score": 766,
-        "comments": 227,
-        "hnUrl": "https://news.ycombinator.com/item?id=50456631",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "Vulnérabilité critique d'exécution de code à distance (RCE) dans le serveur HTTP Apache",
-        "titleOriginal": "Critical RCE Vulnerability in Apache HTTP Server",
-        "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-        "source": "wiz.io",
-        "score": 85,
-        "comments": 34,
-        "hnUrl": "https://news.ycombinator.com/item?id=50462177",
-        "date": "il y a 3 h"
+        "score": 449,
+        "comments": 99,
+        "hnUrl": "https://news.ycombinator.com/item?id=50438261",
+        "date": "il y a 2 j"
       }
     ]
   },
