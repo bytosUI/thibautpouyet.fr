@@ -1,60 +1,25 @@
 {
-  "updatedAt": "2026-11-13T17:28:02.213Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 7,
-      "feelsLike": 5,
-      "code": 0,
-      "wind": 5,
-      "humidity": 82
-    },
-    "forecast": [
-      {
-        "date": "2026-11-13",
-        "code": 1,
-        "tmax": 10,
-        "tmin": 1
-      },
-      {
-        "date": "2026-11-14",
-        "code": 3,
-        "tmax": 10,
-        "tmin": 1
-      },
-      {
-        "date": "2026-11-15",
-        "code": 80,
-        "tmax": 14,
-        "tmin": 3
-      },
-      {
-        "date": "2026-11-16",
-        "code": 80,
-        "tmax": 11,
-        "tmin": 6
-      }
-    ]
-  },
+  "updatedAt": "2026-11-13T22:45:51.092Z",
+  "weather": null,
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "ROB RUN",
-        "viewers": 11804,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 181,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
@@ -69,7 +34,7 @@
         "publishedAt": "2026-11-13T17:00:35+00:00"
       },
       {
-        "title": "On devine 26 thés et c’est le retour du Mcfly Prime",
+        "title": "On devine 26 thés avec Maghla et c’est le retour du Mcfly Prime",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
         "videoId": "9sEp5tVHJtA",
@@ -182,44 +147,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Rétroconcevoir mon purificateur d’air Coway pour me passer du cloud",
-        "titleOriginal": "Reverse engineering my Coway air purifier to ditch the cloud",
-        "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-        "source": "scottjg.com",
-        "score": 354,
-        "comments": 91,
-        "hnUrl": "https://news.ycombinator.com/item?id=50474959",
-        "date": "il y a 19 h"
+        "title": "La FAA émet un ordre d'immobilisation au sol à l'échelle nationale",
+        "titleOriginal": "FAA Issues National Ground Stop",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+        "source": "fly.faa.gov",
+        "score": 791,
+        "comments": 448,
+        "hnUrl": "https://news.ycombinator.com/item?id=50489641",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Une vision technique pour l'écosystème Haskell",
-        "titleOriginal": "A technical vision for the Haskell ecosystem",
-        "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-        "source": "discourse.haskell.org",
-        "score": 73,
-        "comments": 28,
-        "hnUrl": "https://news.ycombinator.com/item?id=50484235",
-        "date": "il y a 2 h"
+        "title": "11,4 millions de dollars de matériel Nvidia disparaissent lors de l’expédition de la Californie au Texas",
+        "titleOriginal": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+        "source": "freightwaves.com",
+        "score": 230,
+        "comments": 126,
+        "hnUrl": "https://news.ycombinator.com/item?id=50487864",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Pourquoi choisir Zig plutôt que C pour la programmation système ?",
-        "titleOriginal": "Why Zig over C for Systems Programming",
-        "url": "https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/",
-        "source": "mtsoukalos.eu",
-        "score": 150,
-        "comments": 98,
-        "hnUrl": "https://news.ycombinator.com/item?id=50483611",
+        "title": "Bande aérienne en direct sur toutes les fréquences de KORS. Victoria, en Californie, est également immobilisée au sol.",
+        "titleOriginal": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+        "url": "https://orcasairband.com/",
+        "source": "orcasairband.com",
+        "score": 35,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=50490593",
+        "date": "il y a 41 min"
+      },
+      {
+        "title": "Établi FM-1",
+        "titleOriginal": "FM-1 Workbench",
+        "url": "https://open.m-vave.com/fm1-workbench",
+        "source": "open.m-vave.com",
+        "score": 133,
+        "comments": 84,
+        "hnUrl": "https://news.ycombinator.com/item?id=50488325",
         "date": "il y a 3 h"
-      },
-      {
-        "title": "« LibreOffice fonctionne 365 jours par an. Juste pour dire. »",
-        "titleOriginal": "\"LibreOffice works 365 days a year. Just saying.\"",
-        "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
-        "source": "twitter.com",
-        "score": 49,
-        "comments": 2,
-        "hnUrl": "https://news.ycombinator.com/item?id=50486482",
-        "date": "il y a 17 min"
       }
     ]
   },
