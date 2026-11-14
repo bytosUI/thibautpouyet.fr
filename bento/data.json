@@ -1,41 +1,6 @@
 {
-  "updatedAt": "2026-11-14T09:44:30.897Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 2,
-      "feelsLike": 0,
-      "code": 0,
-      "wind": 3,
-      "humidity": 87
-    },
-    "forecast": [
-      {
-        "date": "2026-11-14",
-        "code": 45,
-        "tmax": 8,
-        "tmin": -3
-      },
-      {
-        "date": "2026-11-15",
-        "code": 80,
-        "tmax": 13,
-        "tmin": 3
-      },
-      {
-        "date": "2026-11-16",
-        "code": 80,
-        "tmax": 11,
-        "tmin": 9
-      },
-      {
-        "date": "2026-11-17",
-        "code": 80,
-        "tmax": 15,
-        "tmin": 11
-      }
-    ]
-  },
+  "updatedAt": "2026-11-14T16:19:03.679Z",
+  "weather": null,
   "twitch": {
     "live": [],
     "offline": [
@@ -52,31 +17,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "LA RÈGLE NUMÉRO 1 DE WARREN BUFFET POUR DEVENIR RICHE EN BOURSE",
+        "title": "LA FAILLITE DE CETTE BANQUE A CAUSÉ LA CRISE DE 2008 !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "cwX_1aOPW9Q",
-        "thumbnail": "https://i.ytimg.com/vi/cwX_1aOPW9Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cwX_1aOPW9Q",
-        "publishedAt": "2026-11-14T09:00:32+00:00"
+        "videoId": "HUKp_GqkPn4",
+        "thumbnail": "https://i.ytimg.com/vi/HUKp_GqkPn4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HUKp_GqkPn4",
+        "publishedAt": "2026-11-14T16:00:05+00:00"
       },
       {
-        "title": "INSIDERS : Ils calculent la probabilité que l'IA nous tue !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "A7qsu4Aasho",
-        "thumbnail": "https://i.ytimg.com/vi/A7qsu4Aasho/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A7qsu4Aasho",
-        "publishedAt": "2026-11-14T09:00:27+00:00"
-      },
-      {
-        "title": "On devine 26 thés avec Maghla et c’est le retour du Mcfly Prime",
+        "title": "Carlito a (presque) un incroyable talent",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "9sEp5tVHJtA",
-        "thumbnail": "https://i.ytimg.com/vi/9sEp5tVHJtA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9sEp5tVHJtA",
-        "publishedAt": "2026-11-13T16:27:04+00:00"
+        "videoId": "73n_yodp3JU",
+        "thumbnail": "https://i.ytimg.com/vi/73n_yodp3JU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=73n_yodp3JU",
+        "publishedAt": "2026-11-14T15:37:46+00:00"
+      },
+      {
+        "title": "INSIDERS - Virés pour l'IA, puis réembauchés !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "f82K7bozl5k",
+        "thumbnail": "https://i.ytimg.com/vi/f82K7bozl5k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f82K7bozl5k",
+        "publishedAt": "2026-11-14T12:00:26+00:00"
       },
       {
         "title": "MARDI 17 NOVEMBRE À 18H",
@@ -174,44 +139,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Les pages de projet repensées de PyPI, avec des indicateurs de sécurité plus clairs, sont désormais en ligne",
+        "titleOriginal": "PyPI's redesigned project pages with clearer security signals are now live",
+        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+        "source": "blog.pypi.org",
+        "score": 19,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50497892",
+        "date": "il y a 38 min"
+      },
+      {
+        "title": "KDE : Le documentaire sur les logiciels libres [vidéo]",
+        "titleOriginal": "KDE: The Documentary on Free Software [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "source": "tube.kockatoo.org",
+        "score": 73,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50496976",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Pourquoi acheter un Pi coûteux alors que j'ai un vieux téléphone ?",
         "titleOriginal": "Why get an expensive Pi when I have an old phone?",
         "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
         "source": "so.long.thanks.fish",
-        "score": 17,
-        "comments": 4,
+        "score": 328,
+        "comments": 196,
         "hnUrl": "https://news.ycombinator.com/item?id=50440709",
-        "date": "il y a 3 j"
+        "date": "il y a 4 j"
       },
       {
-        "title": "Ggml v1.0.0",
-        "titleOriginal": "Ggml v1.0.0",
-        "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-        "source": "github.com",
-        "score": 254,
-        "comments": 41,
-        "hnUrl": "https://news.ycombinator.com/item?id=50493062",
-        "date": "il y a 7 h"
-      },
-      {
-        "title": "Nvidia aurait créé une pénurie en finançant des start-ups d’IA pour qu’elles achètent ses GPU",
-        "titleOriginal": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "techpowerup.com",
-        "score": 548,
-        "comments": 327,
-        "hnUrl": "https://news.ycombinator.com/item?id=50493251",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "Monkey Island : les 13 versions côte à côte",
-        "titleOriginal": "Monkey Island: all 13 versions side by side",
-        "url": "https://monkeyisland.pages.dev/",
-        "source": "monkeyisland.pages.dev",
-        "score": 92,
-        "comments": 14,
-        "hnUrl": "https://news.ycombinator.com/item?id=50493904",
-        "date": "il y a 5 h"
+        "title": "Faire progresser la science et l’ingénierie grâce au travail d’équipe d’Antigravity",
+        "titleOriginal": "Advancing science and engineering with Antigravity's /teamwork",
+        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+        "source": "research.google",
+        "score": 39,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=50496811",
+        "date": "il y a 2 h"
       }
     ]
   },
