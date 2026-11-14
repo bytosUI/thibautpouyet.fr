@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-13T22:45:51.092Z",
+  "updatedAt": "2026-11-14T02:51:59.659Z",
   "weather": null,
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 181,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -19,93 +10,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
-    "videos": [
-      {
-        "title": "L’AFTER : Jensen Huang viré, Anthropic surpuissant, Musk contre Breton !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "99d88_rcjak",
-        "thumbnail": "https://i.ytimg.com/vi/99d88_rcjak/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=99d88_rcjak",
-        "publishedAt": "2026-11-13T17:00:35+00:00"
-      },
-      {
-        "title": "On devine 26 thés avec Maghla et c’est le retour du Mcfly Prime",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "9sEp5tVHJtA",
-        "thumbnail": "https://i.ytimg.com/vi/9sEp5tVHJtA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9sEp5tVHJtA",
-        "publishedAt": "2026-11-13T16:27:04+00:00"
-      },
-      {
-        "title": "IL CONSEILLE À SON BEAU-FRÈRE D’INVESTIR TOUTES SES ÉCONOMIES… IL VA TOUT PERDRE",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "NHcNx8R_2E0",
-        "thumbnail": "https://i.ytimg.com/vi/NHcNx8R_2E0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NHcNx8R_2E0",
-        "publishedAt": "2026-11-13T13:00:33+00:00"
-      },
-      {
-        "title": "MARDI 17 NOVEMBRE À 18H",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "_H1hAUbFyLQ",
-        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
-        "publishedAt": "2026-11-11T19:50:43+00:00"
-      },
-      {
-        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "u0g5MyR2LfU",
-        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
-        "publishedAt": "2026-11-08T17:00:25+00:00"
-      },
-      {
-        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "UMV8vKl8JUw",
-        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
-        "publishedAt": "2026-11-08T16:17:19+00:00"
-      },
-      {
-        "title": "On a fait estimer le bien en l'état à 50% des travaux ! (on ne s'y attendait pas)",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "meDf1MTPRLg",
-        "thumbnail": "https://i.ytimg.com/vi/meDf1MTPRLg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=meDf1MTPRLg",
-        "publishedAt": "2026-11-08T12:06:32+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
-      }
-    ]
+    "videos": []
   },
   "films": {
     "top5": []
@@ -147,44 +57,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "La FAA émet un ordre d'immobilisation au sol à l'échelle nationale",
-        "titleOriginal": "FAA Issues National Ground Stop",
-        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+        "title": "La FAA a levé l’interdiction nationale de décollage à 01 h 19 TU",
+        "titleOriginal": "FAA lifted National Ground Stop at 0119Z",
+        "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
         "source": "fly.faa.gov",
-        "score": 791,
-        "comments": 448,
-        "hnUrl": "https://news.ycombinator.com/item?id=50489641",
+        "score": 146,
+        "comments": 133,
+        "hnUrl": "https://news.ycombinator.com/item?id=50492601",
         "date": "il y a 1 h"
       },
       {
-        "title": "11,4 millions de dollars de matériel Nvidia disparaissent lors de l’expédition de la Californie au Texas",
-        "titleOriginal": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-        "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-        "source": "freightwaves.com",
-        "score": 230,
-        "comments": 126,
-        "hnUrl": "https://news.ycombinator.com/item?id=50487864",
-        "date": "il y a 4 h"
+        "title": "La FAA émet un ordre d’immobilisation au sol national",
+        "titleOriginal": "FAA issues national ground stop",
+        "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+        "source": "nbcnews.com",
+        "score": 1354,
+        "comments": 835,
+        "hnUrl": "https://news.ycombinator.com/item?id=50489641",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Bordures terminales qui ne coûtent pas de cellule",
+        "titleOriginal": "Terminal borders that don't cost a cell",
+        "url": "https://www.joshka.net/cell-borders/",
+        "source": "joshka.net",
+        "score": 93,
+        "comments": 51,
+        "hnUrl": "https://news.ycombinator.com/item?id=50491423",
+        "date": "il y a 3 h"
       },
       {
         "title": "Bande aérienne en direct sur toutes les fréquences de KORS. Victoria, en Californie, est également immobilisée au sol.",
         "titleOriginal": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
         "url": "https://orcasairband.com/",
         "source": "orcasairband.com",
-        "score": 35,
-        "comments": 12,
+        "score": 219,
+        "comments": 51,
         "hnUrl": "https://news.ycombinator.com/item?id=50490593",
-        "date": "il y a 41 min"
-      },
-      {
-        "title": "Établi FM-1",
-        "titleOriginal": "FM-1 Workbench",
-        "url": "https://open.m-vave.com/fm1-workbench",
-        "source": "open.m-vave.com",
-        "score": 133,
-        "comments": 84,
-        "hnUrl": "https://news.ycombinator.com/item?id=50488325",
-        "date": "il y a 3 h"
+        "date": "il y a 4 h"
       }
     ]
   },
