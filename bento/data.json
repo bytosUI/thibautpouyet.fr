@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-11-14T16:19:03.679Z",
+  "updatedAt": "2026-11-14T20:51:01.343Z",
   "weather": null,
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 140,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
+      }
+    ],
     "offline": [
       "domingo",
       "bastiui",
@@ -10,20 +19,28 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
       {
-        "title": "LA FAILLITE DE CETTE BANQUE A CAUSÉ LA CRISE DE 2008 !",
+        "title": "INSIDERS - L'IA n'est qu'un perroquet !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "v_TcwSSuhug",
+        "thumbnail": "https://i.ytimg.com/vi/v_TcwSSuhug/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v_TcwSSuhug",
+        "publishedAt": "2026-11-14T19:00:10+00:00"
+      },
+      {
+        "title": "LES FRANÇAIS ONT HORREUR D’INVESTIR LEUR ARGENT ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "HUKp_GqkPn4",
-        "thumbnail": "https://i.ytimg.com/vi/HUKp_GqkPn4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HUKp_GqkPn4",
-        "publishedAt": "2026-11-14T16:00:05+00:00"
+        "videoId": "HVc3A6e25IU",
+        "thumbnail": "https://i.ytimg.com/vi/HVc3A6e25IU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HVc3A6e25IU",
+        "publishedAt": "2026-11-14T17:00:11+00:00"
       },
       {
         "title": "Carlito a (presque) un incroyable talent",
@@ -33,15 +50,6 @@
         "thumbnail": "https://i.ytimg.com/vi/73n_yodp3JU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=73n_yodp3JU",
         "publishedAt": "2026-11-14T15:37:46+00:00"
-      },
-      {
-        "title": "INSIDERS - Virés pour l'IA, puis réembauchés !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "f82K7bozl5k",
-        "thumbnail": "https://i.ytimg.com/vi/f82K7bozl5k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=f82K7bozl5k",
-        "publishedAt": "2026-11-14T12:00:26+00:00"
       },
       {
         "title": "MARDI 17 NOVEMBRE À 18H",
@@ -139,44 +147,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Des applications populaires divulguent des informations de passeport et plus de 200 000 messages privés",
+        "titleOriginal": "Lovable apps expose passport details and more than 200K private messages",
+        "url": "https://www.crissyfield.de/research/lovable-en/",
+        "source": "crissyfield.de",
+        "score": 381,
+        "comments": 130,
+        "hnUrl": "https://news.ycombinator.com/item?id=50499017",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Les pages de projet repensées de PyPI, avec des indicateurs de sécurité plus clairs, sont désormais en ligne",
         "titleOriginal": "PyPI's redesigned project pages with clearer security signals are now live",
         "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
         "source": "blog.pypi.org",
-        "score": 19,
-        "comments": 1,
+        "score": 158,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=50497892",
-        "date": "il y a 38 min"
+        "date": "il y a 5 h"
       },
       {
-        "title": "KDE : Le documentaire sur les logiciels libres [vidéo]",
-        "titleOriginal": "KDE: The Documentary on Free Software [video]",
+        "title": "Un arbre généalogique des intitulés de poste dans le domaine des logiciels",
+        "titleOriginal": "A Family Tree of Software Job Titles",
+        "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+        "source": "zwischenzugs.com",
+        "score": 88,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=50499038",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "KDE : Le documentaire [vidéo]",
+        "titleOriginal": "KDE: The documentary [video]",
         "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
         "source": "tube.kockatoo.org",
-        "score": 73,
-        "comments": 1,
+        "score": 289,
+        "comments": 61,
         "hnUrl": "https://news.ycombinator.com/item?id=50496976",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Pourquoi acheter un Pi coûteux alors que j'ai un vieux téléphone ?",
-        "titleOriginal": "Why get an expensive Pi when I have an old phone?",
-        "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
-        "source": "so.long.thanks.fish",
-        "score": 328,
-        "comments": 196,
-        "hnUrl": "https://news.ycombinator.com/item?id=50440709",
-        "date": "il y a 4 j"
-      },
-      {
-        "title": "Faire progresser la science et l’ingénierie grâce au travail d’équipe d’Antigravity",
-        "titleOriginal": "Advancing science and engineering with Antigravity's /teamwork",
-        "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-        "source": "research.google",
-        "score": 39,
-        "comments": 12,
-        "hnUrl": "https://news.ycombinator.com/item?id=50496811",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       }
     ]
   },
