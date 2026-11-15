@@ -1,17 +1,43 @@
 {
-  "updatedAt": "2026-11-14T20:51:01.343Z",
-  "weather": null,
-  "twitch": {
-    "live": [
+  "updatedAt": "2026-11-15T00:37:46.956Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 4,
+      "feelsLike": 1,
+      "code": 61,
+      "wind": 8,
+      "humidity": 88
+    },
+    "forecast": [
       {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 140,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
+        "date": "2026-11-15",
+        "code": 80,
+        "tmax": 13,
+        "tmin": 3
+      },
+      {
+        "date": "2026-11-16",
+        "code": 80,
+        "tmax": 12,
+        "tmin": 9
+      },
+      {
+        "date": "2026-11-17",
+        "code": 80,
+        "tmax": 17,
+        "tmin": 10
+      },
+      {
+        "date": "2026-11-18",
+        "code": 80,
+        "tmax": 13,
+        "tmin": 11
       }
-    ],
+    ]
+  },
+  "twitch": {
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -19,29 +45,12 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
     "videos": [
-      {
-        "title": "INSIDERS - L'IA n'est qu'un perroquet !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "v_TcwSSuhug",
-        "thumbnail": "https://i.ytimg.com/vi/v_TcwSSuhug/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v_TcwSSuhug",
-        "publishedAt": "2026-11-14T19:00:10+00:00"
-      },
-      {
-        "title": "LES FRANÇAIS ONT HORREUR D’INVESTIR LEUR ARGENT ?",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "HVc3A6e25IU",
-        "thumbnail": "https://i.ytimg.com/vi/HVc3A6e25IU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HVc3A6e25IU",
-        "publishedAt": "2026-11-14T17:00:11+00:00"
-      },
       {
         "title": "Carlito a (presque) un incroyable talent",
         "channel": "Mcfly et Carlito",
@@ -50,60 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/73n_yodp3JU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=73n_yodp3JU",
         "publishedAt": "2026-11-14T15:37:46+00:00"
-      },
-      {
-        "title": "MARDI 17 NOVEMBRE À 18H",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "_H1hAUbFyLQ",
-        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
-        "publishedAt": "2026-11-11T19:50:43+00:00"
-      },
-      {
-        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "u0g5MyR2LfU",
-        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
-        "publishedAt": "2026-11-08T17:00:25+00:00"
-      },
-      {
-        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "UMV8vKl8JUw",
-        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
-        "publishedAt": "2026-11-08T16:17:19+00:00"
-      },
-      {
-        "title": "On a fait estimer le bien en l'état à 50% des travaux ! (on ne s'y attendait pas)",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "meDf1MTPRLg",
-        "thumbnail": "https://i.ytimg.com/vi/meDf1MTPRLg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=meDf1MTPRLg",
-        "publishedAt": "2026-11-08T12:06:32+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
       }
     ]
   },
@@ -115,13 +70,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 17 sem",
+        "time": "il y a 18 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 19 sem",
+        "time": "il y a 20 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -147,44 +102,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "SpaceX rattrape le Starship pour mettre fin au vol 15",
+        "titleOriginal": "SpaceX catches the Starship to end Flight 15",
+        "url": "https://www.spacex.com/launches/starship-flight-15",
+        "source": "spacex.com",
+        "score": 589,
+        "comments": 380,
+        "hnUrl": "https://news.ycombinator.com/item?id=50500963",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Des applications populaires divulguent des informations de passeport et plus de 200 000 messages privés",
         "titleOriginal": "Lovable apps expose passport details and more than 200K private messages",
         "url": "https://www.crissyfield.de/research/lovable-en/",
         "source": "crissyfield.de",
-        "score": 381,
-        "comments": 130,
+        "score": 603,
+        "comments": 250,
         "hnUrl": "https://news.ycombinator.com/item?id=50499017",
-        "date": "il y a 3 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Les pages de projet repensées de PyPI, avec des indicateurs de sécurité plus clairs, sont désormais en ligne",
-        "titleOriginal": "PyPI's redesigned project pages with clearer security signals are now live",
-        "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-        "source": "blog.pypi.org",
-        "score": 158,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=50497892",
-        "date": "il y a 5 h"
+        "title": "Comment Woz a-t-il écrit le BASIC de l'Apple 1 avant de construire l'ordinateur ?",
+        "titleOriginal": "How did Woz write the Apple 1 BASIC before building the computer?",
+        "url": "https://retrocomputing.stackexchange.com/questions/17957",
+        "source": "retrocomputing.stackexchange.com",
+        "score": 59,
+        "comments": 18,
+        "hnUrl": "https://news.ycombinator.com/item?id=50501594",
+        "date": "il y a 2 h"
       },
       {
         "title": "Un arbre généalogique des intitulés de poste dans le domaine des logiciels",
-        "titleOriginal": "A Family Tree of Software Job Titles",
+        "titleOriginal": "A family tree of software job titles",
         "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
         "source": "zwischenzugs.com",
-        "score": 88,
-        "comments": 34,
+        "score": 187,
+        "comments": 91,
         "hnUrl": "https://news.ycombinator.com/item?id=50499038",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "KDE : Le documentaire [vidéo]",
-        "titleOriginal": "KDE: The documentary [video]",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "source": "tube.kockatoo.org",
-        "score": 289,
-        "comments": 61,
-        "hnUrl": "https://news.ycombinator.com/item?id=50496976",
-        "date": "il y a 7 h"
+        "date": "il y a 6 h"
       }
     ]
   },
