@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-15T14:54:31.885Z",
+  "updatedAt": "2026-11-15T20:05:21.182Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 13,
-      "feelsLike": 10,
-      "code": 61,
-      "wind": 19,
-      "humidity": 80
+      "temp": 12,
+      "feelsLike": 9,
+      "code": 3,
+      "wind": 18,
+      "humidity": 87
     },
     "forecast": [
       {
@@ -19,7 +19,7 @@
       {
         "date": "2026-11-16",
         "code": 80,
-        "tmax": 12,
+        "tmax": 11,
         "tmin": 9
       },
       {
@@ -30,8 +30,8 @@
       },
       {
         "date": "2026-11-18",
-        "code": 80,
-        "tmax": 13,
+        "code": 95,
+        "tmax": 14,
         "tmin": 10
       }
     ]
@@ -52,13 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "ON GAZE LES CLÉMENTINES POUR QU'ELLES SOIENT ORANGE !",
+        "title": "INSIDERS - 25 dollars la tartine, et pas de week-end !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "ti4H18cfVOc",
+        "thumbnail": "https://i.ytimg.com/vi/ti4H18cfVOc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ti4H18cfVOc",
+        "publishedAt": "2026-11-15T20:00:26+00:00"
+      },
+      {
+        "title": "Je teste la cantine d’une université coréenne",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "yDCpVL2Wsoo",
+        "thumbnail": "https://i.ytimg.com/vi/yDCpVL2Wsoo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yDCpVL2Wsoo",
+        "publishedAt": "2026-11-15T17:00:18+00:00"
+      },
+      {
+        "title": "LES PIRES TECHNIQUES DES SUPERMARCHÉS POUR FAIRE PRESSION SUR LES AGRICULTEURS",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "t4SVsEbUsZc",
-        "thumbnail": "https://i.ytimg.com/vi/t4SVsEbUsZc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t4SVsEbUsZc",
-        "publishedAt": "2026-11-15T14:00:30+00:00"
+        "videoId": "-QPQX00u8ls",
+        "thumbnail": "https://i.ytimg.com/vi/-QPQX00u8ls/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-QPQX00u8ls",
+        "publishedAt": "2026-11-15T17:00:12+00:00"
       },
       {
         "title": "IL A RÉVOLUTIONNÉ LA BROSSE À CHIOTTE ! (Vous la verrez bientôt partout)",
@@ -68,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yxvcGNW7qjg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yxvcGNW7qjg",
         "publishedAt": "2026-11-15T11:36:34+00:00"
-      },
-      {
-        "title": "INSIDERS - Dans les années 60, on incendiait déjà les ordinateurs !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "SfhpWZc9iuk",
-        "thumbnail": "https://i.ytimg.com/vi/SfhpWZc9iuk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SfhpWZc9iuk",
-        "publishedAt": "2026-11-15T11:00:06+00:00"
       },
       {
         "title": "Carlito a (presque) un incroyable talent",
@@ -95,15 +104,6 @@
         "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
         "publishedAt": "2026-11-11T19:50:43+00:00"
-      },
-      {
-        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "u0g5MyR2LfU",
-        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
-        "publishedAt": "2026-11-08T17:00:25+00:00"
       },
       {
         "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
@@ -174,43 +174,43 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le problème de MLI OLED du MacBook Pro : quand un écran « meilleur » devient plus difficile à utiliser",
+        "title": "Tout le code généré par l’IA doit être open source",
+        "titleOriginal": "All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "source": "jakub.jankiewicz.org",
+        "score": 876,
+        "comments": 464,
+        "hnUrl": "https://news.ycombinator.com/item?id=50507303",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "Une brève explication du fonctionnement d'El Niño [vidéo]",
+        "titleOriginal": "A short explainer on how El Niño works [video]",
+        "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+        "source": "youtube.com",
+        "score": 51,
+        "comments": 3,
+        "hnUrl": "https://news.ycombinator.com/item?id=50509308",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Le problème de MLI OLED du MacBook Pro : quand un « meilleur » écran devient plus difficile à utiliser",
         "titleOriginal": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
         "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
         "source": "macanorak.com",
-        "score": 83,
-        "comments": 41,
+        "score": 303,
+        "comments": 169,
         "hnUrl": "https://news.ycombinator.com/item?id=50506719",
-        "date": "il y a 1 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "SpaceX rattrape le Starship pour mettre fin au vol 15",
-        "titleOriginal": "SpaceX catches the Starship to end Flight 15",
-        "url": "https://www.spacex.com/launches/starship-flight-15",
-        "source": "spacex.com",
-        "score": 1414,
-        "comments": 938,
-        "hnUrl": "https://news.ycombinator.com/item?id=50500963",
-        "date": "il y a 17 h"
-      },
-      {
-        "title": "Choses plus petites que Turbo Pascal (2011)",
-        "titleOriginal": "Things That Turbo Pascal Is Smaller Than (2011)",
-        "url": "https://prog21.dadgum.com/116.html",
-        "source": "prog21.dadgum.com",
-        "score": 31,
-        "comments": 4,
-        "hnUrl": "https://news.ycombinator.com/item?id=50506894",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Comprendre les embeddings positionnels dans les LLM modernes",
-        "titleOriginal": "Understanding Positional Embeddings in Modern LLMs",
-        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-        "source": "magazine.sebastianraschka.com",
-        "score": 47,
-        "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50506376",
+        "title": "« Tête de linotte » est un terme inapproprié. Les corbeaux prennent des décisions plus rapidement que nous",
+        "titleOriginal": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+        "source": "nytimes.com",
+        "score": 45,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50509023",
         "date": "il y a 2 h"
       }
     ]
