@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-11-15T07:27:10.962Z",
+  "updatedAt": "2026-11-15T14:54:31.885Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 4,
-      "code": 3,
-      "wind": 10,
-      "humidity": 85
+      "temp": 13,
+      "feelsLike": 10,
+      "code": 61,
+      "wind": 19,
+      "humidity": 80
     },
     "forecast": [
       {
         "date": "2026-11-15",
         "code": 80,
-        "tmax": 12,
+        "tmax": 13,
         "tmin": 3
       },
       {
         "date": "2026-11-16",
-        "code": 61,
+        "code": 80,
         "tmax": 12,
         "tmin": 9
       },
       {
         "date": "2026-11-17",
-        "code": 95,
-        "tmax": 16,
+        "code": 80,
+        "tmax": 17,
         "tmin": 11
       },
       {
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "ON GAZE LES CLÉMENTINES POUR QU'ELLES SOIENT ORANGE !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "t4SVsEbUsZc",
+        "thumbnail": "https://i.ytimg.com/vi/t4SVsEbUsZc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t4SVsEbUsZc",
+        "publishedAt": "2026-11-15T14:00:30+00:00"
+      },
+      {
+        "title": "IL A RÉVOLUTIONNÉ LA BROSSE À CHIOTTE ! (Vous la verrez bientôt partout)",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "yxvcGNW7qjg",
+        "thumbnail": "https://i.ytimg.com/vi/yxvcGNW7qjg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yxvcGNW7qjg",
+        "publishedAt": "2026-11-15T11:36:34+00:00"
+      },
+      {
+        "title": "INSIDERS - Dans les années 60, on incendiait déjà les ordinateurs !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "SfhpWZc9iuk",
+        "thumbnail": "https://i.ytimg.com/vi/SfhpWZc9iuk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SfhpWZc9iuk",
+        "publishedAt": "2026-11-15T11:00:06+00:00"
+      },
+      {
+        "title": "Carlito a (presque) un incroyable talent",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "73n_yodp3JU",
+        "thumbnail": "https://i.ytimg.com/vi/73n_yodp3JU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=73n_yodp3JU",
+        "publishedAt": "2026-11-14T15:37:46+00:00"
+      },
+      {
+        "title": "MARDI 17 NOVEMBRE À 18H",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "_H1hAUbFyLQ",
+        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
+        "publishedAt": "2026-11-11T19:50:43+00:00"
+      },
+      {
+        "title": "Halloween à Séoul : mon costume a fait son effet 👀",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "u0g5MyR2LfU",
+        "thumbnail": "https://i.ytimg.com/vi/u0g5MyR2LfU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u0g5MyR2LfU",
+        "publishedAt": "2026-11-08T17:00:25+00:00"
+      },
+      {
+        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "UMV8vKl8JUw",
+        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
+        "publishedAt": "2026-11-08T16:17:19+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le problème de MLI OLED du MacBook Pro : quand un écran « meilleur » devient plus difficile à utiliser",
+        "titleOriginal": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+        "source": "macanorak.com",
+        "score": 83,
+        "comments": 41,
+        "hnUrl": "https://news.ycombinator.com/item?id=50506719",
+        "date": "il y a 1 h"
+      },
+      {
         "title": "SpaceX rattrape le Starship pour mettre fin au vol 15",
         "titleOriginal": "SpaceX catches the Starship to end Flight 15",
         "url": "https://www.spacex.com/launches/starship-flight-15",
         "source": "spacex.com",
-        "score": 1069,
-        "comments": 712,
+        "score": 1414,
+        "comments": 938,
         "hnUrl": "https://news.ycombinator.com/item?id=50500963",
-        "date": "il y a 10 h"
+        "date": "il y a 17 h"
       },
       {
-        "title": "Bugs de sécurité mémoire dans la bibliothèque standard Rust",
-        "titleOriginal": "Memory Safety Bugs in Rust Standard Library",
-        "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
-        "source": "forge-blog.github.io",
-        "score": 70,
-        "comments": 17,
-        "hnUrl": "https://news.ycombinator.com/item?id=50478701",
-        "date": "il y a 2 j"
+        "title": "Choses plus petites que Turbo Pascal (2011)",
+        "titleOriginal": "Things That Turbo Pascal Is Smaller Than (2011)",
+        "url": "https://prog21.dadgum.com/116.html",
+        "source": "prog21.dadgum.com",
+        "score": 31,
+        "comments": 4,
+        "hnUrl": "https://news.ycombinator.com/item?id=50506894",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Des applications populaires divulguent des informations de passeport et plus de 200 000 messages privés",
-        "titleOriginal": "Lovable apps expose passport details and more than 200K private messages",
-        "url": "https://www.crissyfield.de/research/lovable-en/",
-        "source": "crissyfield.de",
-        "score": 765,
-        "comments": 303,
-        "hnUrl": "https://news.ycombinator.com/item?id=50499017",
-        "date": "il y a 13 h"
-      },
-      {
-        "title": "Un aperçu rare du commerce à haut risque et à forte récompense du détroit d'Ormuz",
-        "titleOriginal": "A rare glimpse inside the high-risk, high-reward Hormuz trade",
-        "url": "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
-        "source": "lloydslist.com",
-        "score": 19,
+        "title": "Comprendre les embeddings positionnels dans les LLM modernes",
+        "titleOriginal": "Understanding Positional Embeddings in Modern LLMs",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+        "source": "magazine.sebastianraschka.com",
+        "score": 47,
         "comments": 0,
-        "hnUrl": "https://news.ycombinator.com/item?id=50443331",
-        "date": "il y a 4 j"
+        "hnUrl": "https://news.ycombinator.com/item?id=50506376",
+        "date": "il y a 2 h"
       }
     ]
   },
