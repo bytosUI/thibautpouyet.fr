@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-16T06:59:41.594Z",
+  "updatedAt": "2026-11-16T16:54:18.066Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 10,
-      "feelsLike": 7,
-      "code": 2,
-      "wind": 19,
-      "humidity": 85
+      "temp": 11,
+      "feelsLike": 8,
+      "code": 3,
+      "wind": 15,
+      "humidity": 86
     },
     "forecast": [
       {
@@ -24,13 +24,13 @@
       },
       {
         "date": "2026-11-18",
-        "code": 80,
+        "code": 3,
         "tmax": 14,
-        "tmin": 11
+        "tmin": 10
       },
       {
         "date": "2026-11-19",
-        "code": 80,
+        "code": 95,
         "tmax": 12,
         "tmin": 10
       }
@@ -50,7 +50,89 @@
     ]
   },
   "youtube": {
-    "videos": []
+    "videos": [
+      {
+        "title": "Carlito a restreint @Maghla sur Insta ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "6yI6BuHBzNE",
+        "thumbnail": "https://i.ytimg.com/vi/6yI6BuHBzNE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6yI6BuHBzNE",
+        "publishedAt": "2026-11-16T16:06:29+00:00"
+      },
+      {
+        "title": "LE PAYSAN SUR VOTRE BRIQUE DE LAIT EST PARFOIS UN MANNEQUIN",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "ob-7UlSww34",
+        "thumbnail": "https://i.ytimg.com/vi/ob-7UlSww34/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ob-7UlSww34",
+        "publishedAt": "2026-11-16T16:00:31+00:00"
+      },
+      {
+        "title": "INSIDERS - Après la crypto, le nouveau mot magique !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "Vd81ls23XLc",
+        "thumbnail": "https://i.ytimg.com/vi/Vd81ls23XLc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vd81ls23XLc",
+        "publishedAt": "2026-11-16T07:00:36+00:00"
+      },
+      {
+        "title": "Je teste la cantine d’une université en Corée",
+        "channel": "Ramy",
+        "channelHandle": "SneakyRamy",
+        "videoId": "yDCpVL2Wsoo",
+        "thumbnail": "https://i.ytimg.com/vi/yDCpVL2Wsoo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yDCpVL2Wsoo",
+        "publishedAt": "2026-11-15T17:00:18+00:00"
+      },
+      {
+        "title": "ON DOIT ABSOLUMENT VOUS MONTRER ÇA",
+        "channel": "Rachel & Emilien - Rénovation",
+        "channelHandle": "racheletemilien",
+        "videoId": "yxvcGNW7qjg",
+        "thumbnail": "https://i.ytimg.com/vi/yxvcGNW7qjg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yxvcGNW7qjg",
+        "publishedAt": "2026-11-15T11:36:34+00:00"
+      },
+      {
+        "title": "MARDI 17 NOVEMBRE À 18H",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "_H1hAUbFyLQ",
+        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
+        "publishedAt": "2026-11-11T19:50:43+00:00"
+      },
+      {
+        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
+        "channel": "17h17",
+        "channelHandle": "17heures17",
+        "videoId": "UMV8vKl8JUw",
+        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
+        "publishedAt": "2026-11-08T16:17:19+00:00"
+      },
+      {
+        "title": "Il a ouvert 12 Subway en 8 ans",
+        "channel": "Darons du Biz",
+        "channelHandle": "DaronsduBiz",
+        "videoId": "lUy5yVRBmDI",
+        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
+        "publishedAt": "2026-10-22T15:24:16+00:00"
+      },
+      {
+        "title": "3 ans pour être autonome en eau, énergie et nourriture",
+        "channel": "Paulygones",
+        "channelHandle": "Paulygones",
+        "videoId": "2LSLImtOyO4",
+        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
+        "publishedAt": "2026-10-10T12:30:39+00:00"
+      }
+    ]
   },
   "films": {
     "top5": []
@@ -92,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Le code secret du bouton d’alimentation ThinkPad pour redonner vie aux ordinateurs portables hors d’usage (2007)",
+        "titleOriginal": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+        "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+        "source": "masnick.com",
+        "score": 191,
+        "comments": 79,
+        "hnUrl": "https://news.ycombinator.com/item?id=50516473",
+        "date": "il y a 5 h"
+      },
+      {
+        "title": "De nombreuses « offres » d'Amazon pour le Black Friday et le Cyber Monday n'ont permis aucune économie",
+        "titleOriginal": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+        "source": "groundworkcollaborative.org",
+        "score": 363,
+        "comments": 192,
+        "hnUrl": "https://news.ycombinator.com/item?id=50517488",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Comment fabriquer presque tout",
         "titleOriginal": "How to make almost anything",
         "url": "https://pub.cba.mit.edu/863.26/site/",
         "source": "pub.cba.mit.edu",
-        "score": 63,
-        "comments": 6,
+        "score": 652,
+        "comments": 106,
         "hnUrl": "https://news.ycombinator.com/item?id=50514470",
-        "date": "il y a 1 h"
+        "date": "il y a 11 h"
       },
       {
         "title": "XSS universel dans uBlock Origin à partir du sélecteur d’éléments piloté par le site Web",
         "titleOriginal": "Universal XSS in uBlock Origin from website-driven element picker",
         "url": "https://iter.ca/post/ubo-uxss/",
         "source": "iter.ca",
-        "score": 260,
-        "comments": 67,
+        "score": 537,
+        "comments": 154,
         "hnUrl": "https://news.ycombinator.com/item?id=50513160",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Qwen4-Max",
-        "titleOriginal": "Qwen4-Max",
-        "url": "https://qwen.ai/blog?id=qwen4-max",
-        "source": "qwen.ai",
-        "score": 362,
-        "comments": 121,
-        "hnUrl": "https://news.ycombinator.com/item?id=50513215",
-        "date": "il y a 4 h"
-      },
-      {
-        "title": "Les anciens liens Bitly sont détournés",
-        "titleOriginal": "Old Bitly links are being hijacked",
-        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-        "source": "ransomnews.com",
-        "score": 249,
-        "comments": 133,
-        "hnUrl": "https://news.ycombinator.com/item?id=50511395",
-        "date": "il y a 8 h"
+        "date": "il y a 14 h"
       }
     ]
   },
