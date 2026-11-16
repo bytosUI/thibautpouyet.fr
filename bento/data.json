@@ -1,26 +1,20 @@
 {
-  "updatedAt": "2026-11-15T20:05:21.182Z",
+  "updatedAt": "2026-11-16T00:07:50.372Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 9,
-      "code": 3,
-      "wind": 18,
-      "humidity": 87
+      "temp": 10,
+      "feelsLike": 6,
+      "code": 61,
+      "wind": 22,
+      "humidity": 84
     },
     "forecast": [
       {
-        "date": "2026-11-15",
-        "code": 80,
-        "tmax": 13,
-        "tmin": 3
-      },
-      {
         "date": "2026-11-16",
-        "code": 80,
+        "code": 61,
         "tmax": 11,
-        "tmin": 9
+        "tmin": 10
       },
       {
         "date": "2026-11-17",
@@ -30,8 +24,14 @@
       },
       {
         "date": "2026-11-18",
-        "code": 95,
+        "code": 80,
         "tmax": 14,
+        "tmin": 11
+      },
+      {
+        "date": "2026-11-19",
+        "code": 95,
+        "tmax": 12,
         "tmin": 10
       }
     ]
@@ -52,42 +52,6 @@
   "youtube": {
     "videos": [
       {
-        "title": "INSIDERS - 25 dollars la tartine, et pas de week-end !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "ti4H18cfVOc",
-        "thumbnail": "https://i.ytimg.com/vi/ti4H18cfVOc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ti4H18cfVOc",
-        "publishedAt": "2026-11-15T20:00:26+00:00"
-      },
-      {
-        "title": "Je teste la cantine d’une université coréenne",
-        "channel": "Ramy",
-        "channelHandle": "SneakyRamy",
-        "videoId": "yDCpVL2Wsoo",
-        "thumbnail": "https://i.ytimg.com/vi/yDCpVL2Wsoo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yDCpVL2Wsoo",
-        "publishedAt": "2026-11-15T17:00:18+00:00"
-      },
-      {
-        "title": "LES PIRES TECHNIQUES DES SUPERMARCHÉS POUR FAIRE PRESSION SUR LES AGRICULTEURS",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "-QPQX00u8ls",
-        "thumbnail": "https://i.ytimg.com/vi/-QPQX00u8ls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-QPQX00u8ls",
-        "publishedAt": "2026-11-15T17:00:12+00:00"
-      },
-      {
-        "title": "IL A RÉVOLUTIONNÉ LA BROSSE À CHIOTTE ! (Vous la verrez bientôt partout)",
-        "channel": "Rachel & Emilien - Rénovation",
-        "channelHandle": "racheletemilien",
-        "videoId": "yxvcGNW7qjg",
-        "thumbnail": "https://i.ytimg.com/vi/yxvcGNW7qjg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yxvcGNW7qjg",
-        "publishedAt": "2026-11-15T11:36:34+00:00"
-      },
-      {
         "title": "Carlito a (presque) un incroyable talent",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -95,42 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/73n_yodp3JU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=73n_yodp3JU",
         "publishedAt": "2026-11-14T15:37:46+00:00"
-      },
-      {
-        "title": "MARDI 17 NOVEMBRE À 18H",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "_H1hAUbFyLQ",
-        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
-        "publishedAt": "2026-11-11T19:50:43+00:00"
-      },
-      {
-        "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
-        "channel": "17h17",
-        "channelHandle": "17heures17",
-        "videoId": "UMV8vKl8JUw",
-        "thumbnail": "https://i.ytimg.com/vi/UMV8vKl8JUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UMV8vKl8JUw",
-        "publishedAt": "2026-11-08T16:17:19+00:00"
-      },
-      {
-        "title": "Il a ouvert 12 Subway en 8 ans",
-        "channel": "Darons du Biz",
-        "channelHandle": "DaronsduBiz",
-        "videoId": "lUy5yVRBmDI",
-        "thumbnail": "https://i.ytimg.com/vi/lUy5yVRBmDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lUy5yVRBmDI",
-        "publishedAt": "2026-10-22T15:24:16+00:00"
-      },
-      {
-        "title": "3 ans pour être autonome en eau, énergie et nourriture",
-        "channel": "Paulygones",
-        "channelHandle": "Paulygones",
-        "videoId": "2LSLImtOyO4",
-        "thumbnail": "https://i.ytimg.com/vi/2LSLImtOyO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2LSLImtOyO4",
-        "publishedAt": "2026-10-10T12:30:39+00:00"
       }
     ]
   },
@@ -174,44 +102,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Tout le code généré par l’IA doit être open source",
-        "titleOriginal": "All AI-generated code should be Open Source",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-        "source": "jakub.jankiewicz.org",
-        "score": 876,
-        "comments": 464,
-        "hnUrl": "https://news.ycombinator.com/item?id=50507303",
-        "date": "il y a 5 h"
+        "title": "D'anciens liens Bitly sont détournés",
+        "titleOriginal": "Old Bitly Links Are Being Hijacked",
+        "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+        "source": "ransomnews.com",
+        "score": 108,
+        "comments": 56,
+        "hnUrl": "https://news.ycombinator.com/item?id=50511395",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Préserver 30 ans de journalisme de salon",
+        "titleOriginal": "Preserving 30 Years of Salon Journalism",
+        "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+        "source": "blog.archive.org",
+        "score": 33,
+        "comments": 7,
+        "hnUrl": "https://news.ycombinator.com/item?id=50511806",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Protomaps : l’auto-hébergement de tuiles cartographiques est devenu bon marché et facile",
+        "titleOriginal": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+        "url": "https://bruceroettgers.eu/blog/protomaps/",
+        "source": "bruceroettgers.eu",
+        "score": 117,
+        "comments": 31,
+        "hnUrl": "https://news.ycombinator.com/item?id=50509837",
+        "date": "il y a 4 h"
       },
       {
         "title": "Une brève explication du fonctionnement d'El Niño [vidéo]",
         "titleOriginal": "A short explainer on how El Niño works [video]",
         "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
         "source": "youtube.com",
-        "score": 51,
-        "comments": 3,
+        "score": 152,
+        "comments": 57,
         "hnUrl": "https://news.ycombinator.com/item?id=50509308",
-        "date": "il y a 1 h"
-      },
-      {
-        "title": "Le problème de MLI OLED du MacBook Pro : quand un « meilleur » écran devient plus difficile à utiliser",
-        "titleOriginal": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-        "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-        "source": "macanorak.com",
-        "score": 303,
-        "comments": 169,
-        "hnUrl": "https://news.ycombinator.com/item?id=50506719",
-        "date": "il y a 6 h"
-      },
-      {
-        "title": "« Tête de linotte » est un terme inapproprié. Les corbeaux prennent des décisions plus rapidement que nous",
-        "titleOriginal": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-        "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-        "source": "nytimes.com",
-        "score": 45,
-        "comments": 26,
-        "hnUrl": "https://news.ycombinator.com/item?id=50509023",
-        "date": "il y a 2 h"
+        "date": "il y a 5 h"
       }
     ]
   },
