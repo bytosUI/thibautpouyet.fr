@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-17T08:44:55.221Z",
+  "updatedAt": "2026-11-17T18:03:29.907Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 14,
-      "feelsLike": 11,
-      "code": 80,
+      "feelsLike": 10,
+      "code": 3,
       "wind": 26,
-      "humidity": 89
+      "humidity": 74
     },
     "forecast": [
       {
         "date": "2026-11-17",
-        "code": 80,
+        "code": 81,
         "tmax": 17,
         "tmin": 10
       },
@@ -24,15 +24,15 @@
       },
       {
         "date": "2026-11-19",
-        "code": 61,
+        "code": 80,
         "tmax": 12,
         "tmin": 10
       },
       {
         "date": "2026-11-20",
         "code": 80,
-        "tmax": 11,
-        "tmin": 3
+        "tmax": 12,
+        "tmin": 9
       }
     ]
   },
@@ -52,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "INSIDERS - La Silicon Valley, c'est fini !",
+        "title": "IA : pourquoi la Silicon Valley fonce pendant que la France freine ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "bIwIvPzzkmI",
-        "thumbnail": "https://i.ytimg.com/vi/bIwIvPzzkmI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bIwIvPzzkmI",
-        "publishedAt": "2026-11-17T07:00:05+00:00"
+        "videoId": "dDwd1g7LuU4",
+        "thumbnail": "https://i.ytimg.com/vi/dDwd1g7LuU4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dDwd1g7LuU4",
+        "publishedAt": "2026-11-17T17:00:28+00:00"
       },
       {
-        "title": "LE SURIMI, C'EST LE FOND DU CHALUTIER !",
+        "title": "L'ENFER DE L'HÔPITAL PSY : \"ON EST ENTRE ZOMBIES\"",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "WsWteWtuhlE",
-        "thumbnail": "https://i.ytimg.com/vi/WsWteWtuhlE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WsWteWtuhlE",
-        "publishedAt": "2026-11-16T20:00:06+00:00"
+        "videoId": "vrS5G1ESgEQ",
+        "thumbnail": "https://i.ytimg.com/vi/vrS5G1ESgEQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vrS5G1ESgEQ",
+        "publishedAt": "2026-11-17T17:00:08+00:00"
       },
       {
-        "title": "Carlito a restreint @Maghla sur Insta ?",
+        "title": "YOUTUBE WARRIOR 6 vs Djilsi et Maxime Biaggi",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "6yI6BuHBzNE",
-        "thumbnail": "https://i.ytimg.com/vi/6yI6BuHBzNE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6yI6BuHBzNE",
-        "publishedAt": "2026-11-16T16:06:29+00:00"
+        "videoId": "k1qaKpxGqXQ",
+        "thumbnail": "https://i.ytimg.com/vi/k1qaKpxGqXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k1qaKpxGqXQ",
+        "publishedAt": "2026-11-17T16:24:27+00:00"
       },
       {
         "title": "Je teste la cantine d’une université en Corée",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Carnegie Mellon propose gratuitement des cours d'informatique sur YouTube",
-        "titleOriginal": "Carnegie Mellon is putting computer science courses on YouTube for free",
-        "url": "https://www.cs.cmu.edu/learn/",
-        "source": "cs.cmu.edu",
-        "score": 1407,
-        "comments": 193,
-        "hnUrl": "https://news.ycombinator.com/item?id=50522980",
-        "date": "il y a 12 h"
+        "title": "GPT‑6.2 Astra et Sol",
+        "titleOriginal": "GPT‑6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "source": "openai.com",
+        "score": 165,
+        "comments": 47,
+        "hnUrl": "https://news.ycombinator.com/item?id=50535230",
+        "date": "il y a 16 min"
       },
       {
-        "title": "Windows 11 collecte des données sur les agents de codage et les outils de développement que vous utilisez",
-        "titleOriginal": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-        "source": "xusheng.dev",
-        "score": 573,
-        "comments": 402,
-        "hnUrl": "https://news.ycombinator.com/item?id=50524736",
-        "date": "il y a 9 h"
+        "title": "Quel est le meilleur harnais pour chaque modèle ?",
+        "titleOriginal": "What is the best harness for each model?",
+        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+        "source": "runta.com",
+        "score": 187,
+        "comments": 74,
+        "hnUrl": "https://news.ycombinator.com/item?id=50532191",
+        "date": "il y a 3 h"
       },
       {
-        "title": "Show HN : Zigzag, un navigateur Mac natif pour les personnes qui quittent Arc",
-        "titleOriginal": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-        "url": "https://github.com/ZigaoWang/zigzag",
-        "source": "github.com",
-        "score": 28,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50496787",
-        "date": "il y a 2 j"
+        "title": "Show HN : Alloy CSS, boîtes de dialogue, menus et onglets qui fonctionnent sans JavaScript",
+        "titleOriginal": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+        "url": "https://alloyhtml.com/example.html",
+        "source": "alloyhtml.com",
+        "score": 97,
+        "comments": 13,
+        "hnUrl": "https://news.ycombinator.com/item?id=50532385",
+        "date": "il y a 2 h"
       },
       {
-        "title": "BugMeNot a fermé",
-        "titleOriginal": "BugMeNot has closed",
-        "url": "https://www.bugmenot.com/",
-        "source": "bugmenot.com",
-        "score": 506,
-        "comments": 227,
-        "hnUrl": "https://news.ycombinator.com/item?id=50523601",
-        "date": "il y a 11 h"
+        "title": "De nouvelles preuves montrent que les interdictions de téléphones portables à l'école améliorent progressivement les résultats aux examens",
+        "titleOriginal": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+        "source": "nytimes.com",
+        "score": 862,
+        "comments": 446,
+        "hnUrl": "https://news.ycombinator.com/item?id=50530163",
+        "date": "il y a 6 h"
       }
     ]
   },
