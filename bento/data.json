@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-11-16T16:54:18.066Z",
+  "updatedAt": "2026-11-17T00:37:07.781Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 11,
-      "feelsLike": 8,
-      "code": 3,
-      "wind": 15,
-      "humidity": 86
+      "feelsLike": 9,
+      "code": 61,
+      "wind": 14,
+      "humidity": 95
     },
     "forecast": [
-      {
-        "date": "2026-11-16",
-        "code": 61,
-        "tmax": 12,
-        "tmin": 10
-      },
       {
         "date": "2026-11-17",
         "code": 80,
@@ -24,22 +18,36 @@
       },
       {
         "date": "2026-11-18",
-        "code": 3,
+        "code": 80,
         "tmax": 14,
         "tmin": 10
       },
       {
         "date": "2026-11-19",
-        "code": 95,
+        "code": 80,
         "tmax": 12,
         "tmin": 10
+      },
+      {
+        "date": "2026-11-20",
+        "code": 80,
+        "tmax": 12,
+        "tmin": 8
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "ROB RUN",
+        "viewers": 9222,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,6 +60,24 @@
   "youtube": {
     "videos": [
       {
+        "title": "LE SURIMI, C'EST LE FOND DU CHALUTIER !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "WsWteWtuhlE",
+        "thumbnail": "https://i.ytimg.com/vi/WsWteWtuhlE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WsWteWtuhlE",
+        "publishedAt": "2026-11-16T20:00:06+00:00"
+      },
+      {
+        "title": "OpenAI vs DeepSeek : qui pirate le mieux ?",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "QFuYeRZHYyI",
+        "thumbnail": "https://i.ytimg.com/vi/QFuYeRZHYyI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QFuYeRZHYyI",
+        "publishedAt": "2026-11-16T17:00:11+00:00"
+      },
+      {
         "title": "Carlito a restreint @Maghla sur Insta ?",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
@@ -59,24 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/6yI6BuHBzNE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6yI6BuHBzNE",
         "publishedAt": "2026-11-16T16:06:29+00:00"
-      },
-      {
-        "title": "LE PAYSAN SUR VOTRE BRIQUE DE LAIT EST PARFOIS UN MANNEQUIN",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "ob-7UlSww34",
-        "thumbnail": "https://i.ytimg.com/vi/ob-7UlSww34/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ob-7UlSww34",
-        "publishedAt": "2026-11-16T16:00:31+00:00"
-      },
-      {
-        "title": "INSIDERS - Après la crypto, le nouveau mot magique !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "Vd81ls23XLc",
-        "thumbnail": "https://i.ytimg.com/vi/Vd81ls23XLc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vd81ls23XLc",
-        "publishedAt": "2026-11-16T07:00:36+00:00"
       },
       {
         "title": "Je teste la cantine d’une université en Corée",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le code secret du bouton d’alimentation ThinkPad pour redonner vie aux ordinateurs portables hors d’usage (2007)",
-        "titleOriginal": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-        "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-        "source": "masnick.com",
-        "score": 191,
-        "comments": 79,
-        "hnUrl": "https://news.ycombinator.com/item?id=50516473",
-        "date": "il y a 5 h"
-      },
-      {
-        "title": "De nombreuses « offres » d'Amazon pour le Black Friday et le Cyber Monday n'ont permis aucune économie",
-        "titleOriginal": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
-        "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-        "source": "groundworkcollaborative.org",
-        "score": 363,
-        "comments": 192,
-        "hnUrl": "https://news.ycombinator.com/item?id=50517488",
+        "title": "L'université Carnegie Mellon propose gratuitement des cours d'informatique sur YouTube",
+        "titleOriginal": "Carnegie Mellon is putting computer science courses on YouTube for free",
+        "url": "https://www.cs.cmu.edu/learn/",
+        "source": "cs.cmu.edu",
+        "score": 549,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=50522980",
         "date": "il y a 3 h"
       },
       {
-        "title": "Comment fabriquer presque tout",
-        "titleOriginal": "How to make almost anything",
-        "url": "https://pub.cba.mit.edu/863.26/site/",
-        "source": "pub.cba.mit.edu",
-        "score": 652,
-        "comments": 106,
-        "hnUrl": "https://news.ycombinator.com/item?id=50514470",
-        "date": "il y a 11 h"
+        "title": "Windows 11 collecte des données sur les agents de codage et les outils de développement que vous utilisez",
+        "titleOriginal": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+        "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+        "source": "xusheng.dev",
+        "score": 112,
+        "comments": 49,
+        "hnUrl": "https://news.ycombinator.com/item?id=50524736",
+        "date": "il y a 1 h"
       },
       {
-        "title": "XSS universel dans uBlock Origin à partir du sélecteur d’éléments piloté par le site Web",
-        "titleOriginal": "Universal XSS in uBlock Origin from website-driven element picker",
-        "url": "https://iter.ca/post/ubo-uxss/",
-        "source": "iter.ca",
-        "score": 537,
-        "comments": 154,
-        "hnUrl": "https://news.ycombinator.com/item?id=50513160",
-        "date": "il y a 14 h"
+        "title": "BugMeNot a fermé",
+        "titleOriginal": "BugMeNot has closed",
+        "url": "https://www.bugmenot.com/",
+        "source": "bugmenot.com",
+        "score": 261,
+        "comments": 140,
+        "hnUrl": "https://news.ycombinator.com/item?id=50523601",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Les plus grandes marques du monde infectées par des logiciels malveillants via Optimizely",
+        "titleOriginal": "World's Largest Brands Infected With Malware Via Optimizely",
+        "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+        "source": "blog.report-uri.com",
+        "score": 142,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50523300",
+        "date": "il y a 3 h"
       }
     ]
   },
