@@ -1,20 +1,55 @@
 {
-  "updatedAt": "2026-11-18T08:48:03.719Z",
-  "weather": null,
+  "updatedAt": "2026-11-18T17:44:09.172Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 12,
+      "feelsLike": 9,
+      "code": 2,
+      "wind": 17,
+      "humidity": 70
+    },
+    "forecast": [
+      {
+        "date": "2026-11-18",
+        "code": 3,
+        "tmax": 15,
+        "tmin": 11
+      },
+      {
+        "date": "2026-11-19",
+        "code": 80,
+        "tmax": 13,
+        "tmin": 10
+      },
+      {
+        "date": "2026-11-20",
+        "code": 80,
+        "tmax": 13,
+        "tmin": 10
+      },
+      {
+        "date": "2026-11-21",
+        "code": 3,
+        "tmax": 10,
+        "tmin": 3
+      }
+    ]
+  },
   "twitch": {
     "live": [
       {
-        "user": "hardisk",
-        "displayName": "Hardisk",
+        "user": "bastiui",
+        "displayName": "BastiUi",
         "game": "Just Chatting",
-        "viewers": 25,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "viewers": 218,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
       }
     ],
     "offline": [
       "domingo",
-      "bastiui",
+      "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
@@ -25,13 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "INSIDERS - Sur l'IA, la France est bloquée !",
+        "title": "INSIDERS : On a enquêté au cœur de la Silicon Valley !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "N-N_oKzLIiM",
-        "thumbnail": "https://i.ytimg.com/vi/N-N_oKzLIiM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=N-N_oKzLIiM",
-        "publishedAt": "2026-11-18T07:00:11+00:00"
+        "videoId": "9Lj1GbOhiM4",
+        "thumbnail": "https://i.ytimg.com/vi/9Lj1GbOhiM4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9Lj1GbOhiM4",
+        "publishedAt": "2026-11-18T17:00:07+00:00"
+      },
+      {
+        "title": "Inox se fait avaler par la poubelle 😭",
+        "channel": "SQUEEZIE",
+        "channelHandle": "Squeezie",
+        "videoId": "hXBrih0rVq0",
+        "thumbnail": "https://i.ytimg.com/vi/hXBrih0rVq0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hXBrih0rVq0",
+        "publishedAt": "2026-11-18T16:51:24+00:00"
+      },
+      {
+        "title": "MIGRANT AFGHAN : « IL Y AVAIT DES ATTENTATS TOUS LES JOURS », IL RACONTE L’ENFER DE SON QUOTIDIEN",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "T6BkTYeMRUw",
+        "thumbnail": "https://i.ytimg.com/vi/T6BkTYeMRUw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T6BkTYeMRUw",
+        "publishedAt": "2026-11-18T15:00:31+00:00"
       },
       {
         "title": "Nos \" Hear me out \" (ft @Maghla)",
@@ -43,16 +96,7 @@
         "publishedAt": "2026-11-17T18:38:49+00:00"
       },
       {
-        "title": "L'ENFER DE L'HÔPITAL PSY : \"ON EST ENTRE ZOMBIES\"",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "vrS5G1ESgEQ",
-        "thumbnail": "https://i.ytimg.com/vi/vrS5G1ESgEQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vrS5G1ESgEQ",
-        "publishedAt": "2026-11-17T17:00:08+00:00"
-      },
-      {
-        "title": "Je teste la cantine d’une université en Corée",
+        "title": "La cantine coréenne m’a fait regretter le Crous",
         "channel": "Ramy",
         "channelHandle": "SneakyRamy",
         "videoId": "yDCpVL2Wsoo",
@@ -68,15 +112,6 @@
         "thumbnail": "https://i.ytimg.com/vi/yxvcGNW7qjg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yxvcGNW7qjg",
         "publishedAt": "2026-11-15T11:36:34+00:00"
-      },
-      {
-        "title": "MARDI 17 NOVEMBRE À 18H",
-        "channel": "SQUEEZIE",
-        "channelHandle": "Squeezie",
-        "videoId": "_H1hAUbFyLQ",
-        "thumbnail": "https://i.ytimg.com/vi/_H1hAUbFyLQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_H1hAUbFyLQ",
-        "publishedAt": "2026-11-11T19:50:43+00:00"
       },
       {
         "title": "L’hiver approche et ma vieille maison est loin d’être prête… #31",
@@ -147,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Java4Shell : RCE dans OpenJDK lors du traitement de Base64",
-        "titleOriginal": "Java4Shell: RCE in OpenJDK when processing Base64",
-        "url": "https://calif.io/java4shell/",
-        "source": "calif.io",
-        "score": 899,
-        "comments": 227,
-        "hnUrl": "https://news.ycombinator.com/item?id=50538240",
-        "date": "il y a 11 h"
+        "title": "RCE de pré-authentification dans le traitement HTTP/2 de Nginx",
+        "titleOriginal": "Pre-auth RCE in Nginx HTTP/2 handling",
+        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+        "source": "wiz.io",
+        "score": 343,
+        "comments": 113,
+        "hnUrl": "https://news.ycombinator.com/item?id=50547374",
+        "date": "il y a 2 h"
       },
       {
-        "title": "GPT‑6.2 Astra et Sol",
-        "titleOriginal": "GPT‑6.2 Astra and Sol",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-        "source": "openai.com",
-        "score": 1254,
-        "comments": 775,
-        "hnUrl": "https://news.ycombinator.com/item?id=50535230",
-        "date": "il y a 15 h"
+        "title": "IA Microsoft : sept nouveaux modèles de classe mondiale offrant un rapport prix-performances évolutif",
+        "titleOriginal": "Microsoft AI: Seven new world-class models at scalable price-performance",
+        "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+        "source": "microsoft.ai",
+        "score": 119,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=50548021",
+        "date": "il y a 1 h"
       },
       {
-        "title": "Conditions d'ID.me requises pour la connexion à l'IRS",
-        "titleOriginal": "ID.me terms required for IRS sign-in",
-        "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-        "source": "consumerrights.wiki",
-        "score": 342,
-        "comments": 147,
-        "hnUrl": "https://news.ycombinator.com/item?id=50540437",
-        "date": "il y a 7 h"
+        "title": "Au sein de Deutsche Bank",
+        "titleOriginal": "Inside Deutsche Bank",
+        "url": "https://www.inside-db.com/",
+        "source": "inside-db.com",
+        "score": 231,
+        "comments": 80,
+        "hnUrl": "https://news.ycombinator.com/item?id=50547620",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Le retrait de Quad9 de France : un canari dans la mine de charbon",
-        "titleOriginal": "Quad9's withdrawal from France: A canary in the coal mine",
-        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-        "source": "blog.cloudflare.com",
-        "score": 549,
-        "comments": 170,
-        "hnUrl": "https://news.ycombinator.com/item?id=50538994",
-        "date": "il y a 10 h"
+        "title": "CVE-2026-99312 : Évasion d’un système invité vers un système hôte dans KVM",
+        "titleOriginal": "CVE-2026-99312: KVM Guest-to-Host Escape",
+        "url": "https://www.terra.security/blog/kvm-guest-to-host-escape",
+        "source": "terra.security",
+        "score": 73,
+        "comments": 33,
+        "hnUrl": "https://news.ycombinator.com/item?id=50548004",
+        "date": "il y a 1 h"
       }
     ]
   },
