@@ -1,31 +1,25 @@
 {
-  "updatedAt": "2026-11-17T18:03:29.907Z",
+  "updatedAt": "2026-11-18T01:05:49.189Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 14,
-      "feelsLike": 10,
+      "temp": 11,
+      "feelsLike": 8,
       "code": 3,
-      "wind": 26,
-      "humidity": 74
+      "wind": 21,
+      "humidity": 78
     },
     "forecast": [
       {
-        "date": "2026-11-17",
-        "code": 81,
-        "tmax": 17,
-        "tmin": 10
-      },
-      {
         "date": "2026-11-18",
-        "code": 3,
+        "code": 80,
         "tmax": 14,
         "tmin": 10
       },
       {
         "date": "2026-11-19",
         "code": 80,
-        "tmax": 12,
+        "tmax": 13,
         "tmin": 10
       },
       {
@@ -33,6 +27,12 @@
         "code": 80,
         "tmax": 12,
         "tmin": 9
+      },
+      {
+        "date": "2026-11-21",
+        "code": 80,
+        "tmax": 11,
+        "tmin": 7
       }
     ]
   },
@@ -52,6 +52,15 @@
   "youtube": {
     "videos": [
       {
+        "title": "Nos \" Hear me out \" (ft @Maghla)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "Jy5mEgDrmyc",
+        "thumbnail": "https://i.ytimg.com/vi/Jy5mEgDrmyc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Jy5mEgDrmyc",
+        "publishedAt": "2026-11-17T18:38:49+00:00"
+      },
+      {
         "title": "IA : pourquoi la Silicon Valley fonce pendant que la France freine ?",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
@@ -68,15 +77,6 @@
         "thumbnail": "https://i.ytimg.com/vi/vrS5G1ESgEQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vrS5G1ESgEQ",
         "publishedAt": "2026-11-17T17:00:08+00:00"
-      },
-      {
-        "title": "YOUTUBE WARRIOR 6 vs Djilsi et Maxime Biaggi",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "k1qaKpxGqXQ",
-        "thumbnail": "https://i.ytimg.com/vi/k1qaKpxGqXQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=k1qaKpxGqXQ",
-        "publishedAt": "2026-11-17T16:24:27+00:00"
       },
       {
         "title": "Je teste la cantine d’une université en Corée",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Java4Shell : RCE dans OpenJDK lors du traitement de Base64",
+        "titleOriginal": "Java4Shell: RCE in OpenJDK when processing Base64",
+        "url": "https://calif.io/java4shell/",
+        "source": "calif.io",
+        "score": 477,
+        "comments": 130,
+        "hnUrl": "https://news.ycombinator.com/item?id=50538240",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "GPT‑6.2 Astra et Sol",
         "titleOriginal": "GPT‑6.2 Astra and Sol",
         "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
         "source": "openai.com",
-        "score": 165,
-        "comments": 47,
+        "score": 1066,
+        "comments": 681,
         "hnUrl": "https://news.ycombinator.com/item?id=50535230",
-        "date": "il y a 16 min"
+        "date": "il y a 7 h"
       },
       {
-        "title": "Quel est le meilleur harnais pour chaque modèle ?",
-        "titleOriginal": "What is the best harness for each model?",
-        "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-        "source": "runta.com",
-        "score": 187,
-        "comments": 74,
-        "hnUrl": "https://news.ycombinator.com/item?id=50532191",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Show HN : Alloy CSS, boîtes de dialogue, menus et onglets qui fonctionnent sans JavaScript",
-        "titleOriginal": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-        "url": "https://alloyhtml.com/example.html",
-        "source": "alloyhtml.com",
-        "score": 97,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=50532385",
+        "title": "Le retrait de Quad9 de France : un canari dans la mine de charbon",
+        "titleOriginal": "Quad9's withdrawal from France: A canary in the coal mine",
+        "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+        "source": "blog.cloudflare.com",
+        "score": 239,
+        "comments": 66,
+        "hnUrl": "https://news.ycombinator.com/item?id=50538994",
         "date": "il y a 2 h"
       },
       {
-        "title": "De nouvelles preuves montrent que les interdictions de téléphones portables à l'école améliorent progressivement les résultats aux examens",
-        "titleOriginal": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-        "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-        "source": "nytimes.com",
-        "score": 862,
-        "comments": 446,
-        "hnUrl": "https://news.ycombinator.com/item?id=50530163",
-        "date": "il y a 6 h"
+        "title": "L’équipe d’archivage procède à l’archivage de la communauté d’assistance Apple (fermeture le 20 novembre 2026)",
+        "titleOriginal": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+        "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+        "source": "wiki.archiveteam.org",
+        "score": 53,
+        "comments": 12,
+        "hnUrl": "https://news.ycombinator.com/item?id=50539747",
+        "date": "il y a 1 h"
       }
     ]
   },
