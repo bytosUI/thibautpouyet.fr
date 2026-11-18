@@ -1,64 +1,80 @@
 {
-  "updatedAt": "2026-11-18T17:44:09.172Z",
+  "updatedAt": "2026-11-18T23:47:58.005Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 9,
-      "code": 2,
+      "temp": 11,
+      "feelsLike": 8,
+      "code": 61,
       "wind": 17,
-      "humidity": 70
+      "humidity": 86
     },
     "forecast": [
       {
-        "date": "2026-11-18",
-        "code": 3,
-        "tmax": 15,
-        "tmin": 11
-      },
-      {
         "date": "2026-11-19",
-        "code": 80,
+        "code": 61,
         "tmax": 13,
-        "tmin": 10
+        "tmin": 11
       },
       {
         "date": "2026-11-20",
         "code": 80,
-        "tmax": 13,
-        "tmin": 10
+        "tmax": 12,
+        "tmin": 9
       },
       {
         "date": "2026-11-21",
-        "code": 3,
+        "code": 45,
         "tmax": 10,
-        "tmin": 3
+        "tmin": 1
+      },
+      {
+        "date": "2026-11-22",
+        "code": 61,
+        "tmax": 6,
+        "tmin": 4
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 218,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Grand Theft Auto VI",
+        "viewers": 21850,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      },
+      {
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 149,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "Une battle d’aura légendaire pour commencer ce youtube Warrior 6",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "PZ0cTlEbPhU",
+        "thumbnail": "https://i.ytimg.com/vi/PZ0cTlEbPhU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PZ0cTlEbPhU",
+        "publishedAt": "2026-11-18T17:51:57+00:00"
+      },
       {
         "title": "INSIDERS : On a enquêté au cœur de la Silicon Valley !",
         "channel": "Silicon Carne 🌶️",
@@ -85,15 +101,6 @@
         "thumbnail": "https://i.ytimg.com/vi/T6BkTYeMRUw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=T6BkTYeMRUw",
         "publishedAt": "2026-11-18T15:00:31+00:00"
-      },
-      {
-        "title": "Nos \" Hear me out \" (ft @Maghla)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "Jy5mEgDrmyc",
-        "thumbnail": "https://i.ytimg.com/vi/Jy5mEgDrmyc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Jy5mEgDrmyc",
-        "publishedAt": "2026-11-17T18:38:49+00:00"
       },
       {
         "title": "La cantine coréenne m’a fait regretter le Crous",
@@ -182,44 +189,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "RCE de pré-authentification dans le traitement HTTP/2 de Nginx",
-        "titleOriginal": "Pre-auth RCE in Nginx HTTP/2 handling",
+        "title": "Exécution de code à distance non authentifiée dans Nginx",
+        "titleOriginal": "Unauthenticated remote code execution in Nginx",
         "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
         "source": "wiz.io",
-        "score": 343,
-        "comments": 113,
+        "score": 1042,
+        "comments": 476,
         "hnUrl": "https://news.ycombinator.com/item?id=50547374",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "IA Microsoft : sept nouveaux modèles de classe mondiale offrant un rapport prix-performances évolutif",
-        "titleOriginal": "Microsoft AI: Seven new world-class models at scalable price-performance",
+        "title": "Sept nouveaux modèles avec un rapport prix-performances évolutif",
+        "titleOriginal": "Seven new models at scalable price-performance",
         "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
         "source": "microsoft.ai",
-        "score": 119,
-        "comments": 75,
+        "score": 403,
+        "comments": 283,
         "hnUrl": "https://news.ycombinator.com/item?id=50548021",
-        "date": "il y a 1 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Au sein de Deutsche Bank",
         "titleOriginal": "Inside Deutsche Bank",
         "url": "https://www.inside-db.com/",
         "source": "inside-db.com",
-        "score": 231,
-        "comments": 80,
+        "score": 515,
+        "comments": 182,
         "hnUrl": "https://news.ycombinator.com/item?id=50547620",
-        "date": "il y a 2 h"
+        "date": "il y a 8 h"
       },
       {
-        "title": "CVE-2026-99312 : Évasion d’un système invité vers un système hôte dans KVM",
-        "titleOriginal": "CVE-2026-99312: KVM Guest-to-Host Escape",
-        "url": "https://www.terra.security/blog/kvm-guest-to-host-escape",
-        "source": "terra.security",
-        "score": 73,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=50548004",
-        "date": "il y a 1 h"
+        "title": "DaisyRose-27B : l’apprentissage par renforcement sur 1 200 tâches a fait passer Qwen3.8 de 5,6 % à 12 % sur Terminal-Bench 4.1",
+        "titleOriginal": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+        "url": "https://www.radixark.com/blog/daisyrose-27b",
+        "source": "radixark.com",
+        "score": 110,
+        "comments": 28,
+        "hnUrl": "https://news.ycombinator.com/item?id=50551046",
+        "date": "il y a 4 h"
       }
     ]
   },
