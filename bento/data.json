@@ -1,45 +1,18 @@
 {
-  "updatedAt": "2026-11-19T05:34:14.212Z",
-  "weather": {
-    "city": "Châlons-en-Champagne",
-    "current": {
-      "temp": 11,
-      "feelsLike": 7,
-      "code": 3,
-      "wind": 25,
-      "humidity": 81
-    },
-    "forecast": [
-      {
-        "date": "2026-11-19",
-        "code": 61,
-        "tmax": 13,
-        "tmin": 10
-      },
-      {
-        "date": "2026-11-20",
-        "code": 80,
-        "tmax": 13,
-        "tmin": 10
-      },
-      {
-        "date": "2026-11-21",
-        "code": 3,
-        "tmax": 10,
-        "tmin": 4
-      },
-      {
-        "date": "2026-11-22",
-        "code": 63,
-        "tmax": 9,
-        "tmin": 5
-      }
-    ]
-  },
+  "updatedAt": "2026-11-19T15:04:06.737Z",
+  "weather": null,
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Grand Theft Auto VI",
+        "viewers": 13553,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -51,6 +24,15 @@
   },
   "youtube": {
     "videos": [
+      {
+        "title": "SANS ARGENT, IL MONTE UN SYSTÈME POUR IMMIGRER CLANDESTINEMENT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "xVH5GMUzYuE",
+        "thumbnail": "https://i.ytimg.com/vi/xVH5GMUzYuE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xVH5GMUzYuE",
+        "publishedAt": "2026-11-19T15:00:08+00:00"
+      },
       {
         "title": "Une battle d’aura légendaire pour commencer ce youtube Warrior 6",
         "channel": "Mcfly et Carlito",
@@ -77,15 +59,6 @@
         "thumbnail": "https://i.ytimg.com/vi/hXBrih0rVq0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hXBrih0rVq0",
         "publishedAt": "2026-11-18T16:51:24+00:00"
-      },
-      {
-        "title": "MIGRANT AFGHAN : « IL Y AVAIT DES ATTENTATS TOUS LES JOURS », IL RACONTE L’ENFER DE SON QUOTIDIEN",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "T6BkTYeMRUw",
-        "thumbnail": "https://i.ytimg.com/vi/T6BkTYeMRUw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T6BkTYeMRUw",
-        "publishedAt": "2026-11-18T15:00:31+00:00"
       },
       {
         "title": "La cantine coréenne m’a fait regretter le Crous",
@@ -154,13 +127,13 @@
       {
         "repo": "bytosUI/dailywater",
         "message": "Prénom personnalisable par utilisateur",
-        "time": "il y a 26 sem",
+        "time": "il y a 27 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/2f501c88185f39ac7b819bdf5d887fee9c966789"
       },
       {
         "repo": "bytosUI/dailywater",
         "message": "Initial commit: DailyWater PWA",
-        "time": "il y a 26 sem",
+        "time": "il y a 27 sem",
         "url": "https://github.com/bytosUI/dailywater/commit/5ca4303b31b1cc2faa98b652ef7e94f33cd7b0be"
       },
       {
@@ -174,44 +147,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Gemini 4 Neon",
-        "titleOriginal": "Gemini 4 Neon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "source": "blog.google",
-        "score": 636,
-        "comments": 553,
-        "hnUrl": "https://news.ycombinator.com/item?id=50552424",
-        "date": "il y a 8 h"
+        "title": "Comment la Commission européenne a déployé Matrix auprès de plus de 40 000 collaborateurs",
+        "titleOriginal": "How the European Commission rolled out Matrix to more than 40k staff",
+        "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+        "source": "element.io",
+        "score": 372,
+        "comments": 173,
+        "hnUrl": "https://news.ycombinator.com/item?id=50558533",
+        "date": "il y a 4 h"
       },
       {
-        "title": "Exécution de code à distance non authentifiée dans Nginx",
-        "titleOriginal": "Unauthenticated remote code execution in Nginx",
-        "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-        "source": "wiz.io",
-        "score": 1249,
-        "comments": 541,
-        "hnUrl": "https://news.ycombinator.com/item?id=50547374",
-        "date": "il y a 14 h"
+        "title": "PHP 8.5.13",
+        "titleOriginal": "PHP 8.5.13",
+        "url": "https://www.php.net/ChangeLog-8.php",
+        "source": "php.net",
+        "score": 43,
+        "comments": 15,
+        "hnUrl": "https://news.ycombinator.com/item?id=50560334",
+        "date": "il y a 54 min"
       },
       {
-        "title": "Le Gemini 4 Neon semble être un concurrent de l’Opus 5.5",
-        "titleOriginal": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-        "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-        "source": "micjm.com",
-        "score": 177,
-        "comments": 65,
-        "hnUrl": "https://news.ycombinator.com/item?id=50554374",
-        "date": "il y a 5 h"
+        "title": "Porte de garage",
+        "titleOriginal": "Garage Door Spam",
+        "url": "https://blog.harrison.page/garage-door-spam/",
+        "source": "blog.harrison.page",
+        "score": 266,
+        "comments": 102,
+        "hnUrl": "https://news.ycombinator.com/item?id=50519231",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Vulnérabilités multiples dans la conversion de casse Regexp et String",
-        "titleOriginal": "Multiple vulnerabilities in Regexp and String case conversion",
-        "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
-        "source": "ruby-lang.org",
-        "score": 157,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=50554038",
-        "date": "il y a 5 h"
+        "title": "Créer des zines pliables de 8 pages à partir d'une seule feuille A4 dans le navigateur",
+        "titleOriginal": "Making 8-page foldable zines from a single A4 sheet in the browser",
+        "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+        "source": "krthr.co",
+        "score": 61,
+        "comments": 16,
+        "hnUrl": "https://news.ycombinator.com/item?id=50559719",
+        "date": "il y a 1 h"
       }
     ]
   },
