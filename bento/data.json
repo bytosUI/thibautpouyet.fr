@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-11-20T12:25:09.064Z",
+  "updatedAt": "2026-11-20T20:37:35.661Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 12,
-      "feelsLike": 8,
-      "code": 61,
-      "wind": 27,
-      "humidity": 71
+      "temp": 9,
+      "feelsLike": 6,
+      "code": 3,
+      "wind": 13,
+      "humidity": 87
     },
     "forecast": [
       {
         "date": "2026-11-20",
         "code": 80,
         "tmax": 12,
-        "tmin": 8
+        "tmin": 9
       },
       {
         "date": "2026-11-21",
-        "code": 45,
-        "tmax": 9,
-        "tmin": 4
+        "code": 61,
+        "tmax": 10,
+        "tmin": 6
       },
       {
         "date": "2026-11-22",
         "code": 61,
-        "tmax": 6,
-        "tmin": 2
+        "tmax": 8,
+        "tmin": 3
       },
       {
         "date": "2026-11-23",
         "code": 3,
-        "tmax": 5,
+        "tmax": 4,
         "tmin": 0
       }
     ]
@@ -39,59 +39,52 @@
   "twitch": {
     "live": [
       {
-        "user": "origatwitch",
-        "displayName": "OrigaTwitch",
-        "game": "Talk Shows & Podcasts",
-        "viewers": 659,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/01cbee17-78c4-42ab-9dae-fb05458cef6f-profile_image-300x300.png",
-        "url": "https://twitch.tv/origatwitch"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 239,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 109,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
       "domingo",
+      "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
-      "firsteam",
-      "thetangerineclub"
+      "origatwitch",
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
       {
-        "title": "LES JUS DE FRUITS \"INNOCENT\" APPARTIENNENT EN FAIT À...COCA-COLA !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "1_uOA2MjXbU",
-        "thumbnail": "https://i.ytimg.com/vi/1_uOA2MjXbU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1_uOA2MjXbU",
-        "publishedAt": "2026-11-20T12:00:20+00:00"
-      },
-      {
-        "title": "Comment rattraper le retard qu'on prend à un paddock ? (ft @Maghla)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "_Cbf64zuTWQ",
-        "thumbnail": "https://i.ytimg.com/vi/_Cbf64zuTWQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_Cbf64zuTWQ",
-        "publishedAt": "2026-11-20T09:23:38+00:00"
-      },
-      {
-        "title": "OpenAI, Nvidia, Anthropic : la guerre pour le contrôle de l’IA !",
+        "title": "L’AFTER : GTA 6 affole les compteurs, Anthropic débarque en Bourse, l’IA prend le contrôle !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "EIhbuUn2stc",
-        "thumbnail": "https://i.ytimg.com/vi/EIhbuUn2stc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EIhbuUn2stc",
-        "publishedAt": "2026-11-19T17:00:27+00:00"
+        "videoId": "z-5-8pY7Llg",
+        "thumbnail": "https://i.ytimg.com/vi/z-5-8pY7Llg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z-5-8pY7Llg",
+        "publishedAt": "2026-11-20T17:00:21+00:00"
+      },
+      {
+        "title": "Le chaos organisé, comme on aime 🤵🏻‍♂️",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "XdhFG-ajEvM",
+        "thumbnail": "https://i.ytimg.com/vi/XdhFG-ajEvM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XdhFG-ajEvM",
+        "publishedAt": "2026-11-20T15:02:41+00:00"
+      },
+      {
+        "title": "L'HISTOIRE FOLLE DERRIÈRE LE RACHAT À 19 MILLIARDS DE DOLLARS DE WHATSAPP",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "oOobK3yk-yA",
+        "thumbnail": "https://i.ytimg.com/vi/oOobK3yk-yA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oOobK3yk-yA",
+        "publishedAt": "2026-11-20T14:00:30+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -189,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Frostbite : une nouvelle architecture de processeur découverte, conçue et vérifiée par l’IA",
-        "titleOriginal": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-        "url": "https://architectlabs.com/blog/frostbite",
-        "source": "architectlabs.com",
-        "score": 165,
-        "comments": 105,
-        "hnUrl": "https://news.ycombinator.com/item?id=50572503",
+        "title": "Annonce urgente : Alessandro Masullo GRH",
+        "titleOriginal": "Hurried Announcement: Alessandro Masullo GRH",
+        "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+        "source": "math216.wordpress.com",
+        "score": 742,
+        "comments": 341,
+        "hnUrl": "https://news.ycombinator.com/item?id=50579568",
         "date": "il y a 2 h"
       },
       {
-        "title": "Carnival Cruises émet dix fois plus d’oxyde de soufre que toutes les voitures d’Europe (2019)",
-        "titleOriginal": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars (2019)",
-        "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-        "source": "ecohustler.com",
-        "score": 162,
-        "comments": 80,
-        "hnUrl": "https://news.ycombinator.com/item?id=50572116",
-        "date": "il y a 3 h"
+        "title": "Levent Alpöge affirme avoir la preuve de l'hypothèse de Riemann généralisée [pdf]",
+        "titleOriginal": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "source": "alpo.ge",
+        "score": 2026,
+        "comments": 1375,
+        "hnUrl": "https://news.ycombinator.com/item?id=50574968",
+        "date": "il y a 6 h"
       },
       {
-        "title": "Si vous ne pouvez pas expliquer quelque chose en termes simples, c'est que vous ne le comprenez pas (2017)",
-        "titleOriginal": "If you can't explain something in simple terms, you don't understand it (2017)",
-        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-        "source": "kottke.org",
-        "score": 71,
-        "comments": 42,
-        "hnUrl": "https://news.ycombinator.com/item?id=50572355",
-        "date": "il y a 2 h"
+        "title": "Inkling 2 Mini",
+        "titleOriginal": "Inkling 2 Mini",
+        "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+        "source": "thinkingmachines.ai",
+        "score": 78,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=50581260",
+        "date": "il y a 25 min"
       },
       {
-        "title": "La création d'Oxygène",
-        "titleOriginal": "The Making of Oxygene",
-        "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-        "source": "jeanmicheljarre.com",
-        "score": 34,
-        "comments": 8,
-        "hnUrl": "https://news.ycombinator.com/item?id=50572822",
-        "date": "il y a 1 h"
+        "title": "Les modèles linguistiques peuvent réécrire leurs propres poids",
+        "titleOriginal": "Language Models Can Rewrite Their Own Weights",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "source": "arxiv.org",
+        "score": 253,
+        "comments": 90,
+        "hnUrl": "https://news.ycombinator.com/item?id=50577265",
+        "date": "il y a 4 h"
       }
     ]
   },
