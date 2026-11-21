@@ -1,52 +1,43 @@
 {
-  "updatedAt": "2026-11-20T20:37:35.661Z",
+  "updatedAt": "2026-11-21T01:55:34.232Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 6,
+      "temp": 7,
+      "feelsLike": 5,
       "code": 3,
-      "wind": 13,
-      "humidity": 87
+      "wind": 5,
+      "humidity": 85
     },
     "forecast": [
       {
-        "date": "2026-11-20",
-        "code": 80,
-        "tmax": 12,
-        "tmin": 9
-      },
-      {
         "date": "2026-11-21",
-        "code": 61,
+        "code": 45,
         "tmax": 10,
-        "tmin": 6
+        "tmin": 4
       },
       {
         "date": "2026-11-22",
         "code": 61,
-        "tmax": 8,
-        "tmin": 3
+        "tmax": 7,
+        "tmin": 4
       },
       {
         "date": "2026-11-23",
         "code": 3,
-        "tmax": 4,
+        "tmax": 5,
+        "tmin": 0
+      },
+      {
+        "date": "2026-11-24",
+        "code": 61,
+        "tmax": 5,
         "tmin": 0
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 109,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -186,40 +178,40 @@
         "titleOriginal": "Hurried Announcement: Alessandro Masullo GRH",
         "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
         "source": "math216.wordpress.com",
-        "score": 742,
-        "comments": 341,
+        "score": 1573,
+        "comments": 713,
         "hnUrl": "https://news.ycombinator.com/item?id=50579568",
-        "date": "il y a 2 h"
-      },
-      {
-        "title": "Levent Alpöge affirme avoir la preuve de l'hypothèse de Riemann généralisée [pdf]",
-        "titleOriginal": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
-        "source": "alpo.ge",
-        "score": 2026,
-        "comments": 1375,
-        "hnUrl": "https://news.ycombinator.com/item?id=50574968",
-        "date": "il y a 6 h"
+        "date": "il y a 7 h"
       },
       {
         "title": "Inkling 2 Mini",
         "titleOriginal": "Inkling 2 Mini",
         "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
         "source": "thinkingmachines.ai",
-        "score": 78,
-        "comments": 6,
+        "score": 684,
+        "comments": 109,
         "hnUrl": "https://news.ycombinator.com/item?id=50581260",
-        "date": "il y a 25 min"
+        "date": "il y a 5 h"
       },
       {
-        "title": "Les modèles linguistiques peuvent réécrire leurs propres poids",
-        "titleOriginal": "Language Models Can Rewrite Their Own Weights",
-        "url": "https://arxiv.org/abs/2611.21885",
-        "source": "arxiv.org",
-        "score": 253,
-        "comments": 90,
-        "hnUrl": "https://news.ycombinator.com/item?id=50577265",
-        "date": "il y a 4 h"
+        "title": "Levent Alpöge affirme avoir la preuve de l'hypothèse de Riemann généralisée [pdf]",
+        "titleOriginal": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+        "url": "https://alpo.ge/remark.pdf",
+        "source": "alpo.ge",
+        "score": 2368,
+        "comments": 1601,
+        "hnUrl": "https://news.ycombinator.com/item?id=50574968",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "NINLIVE : Les archives live de Nine Inch Nails",
+        "titleOriginal": "NINLIVE: The Nine Inch Nails live archive",
+        "url": "https://ninlive.com/",
+        "source": "ninlive.com",
+        "score": 121,
+        "comments": 26,
+        "hnUrl": "https://news.ycombinator.com/item?id=50583274",
+        "date": "il y a 3 h"
       }
     ]
   },
