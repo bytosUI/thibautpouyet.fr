@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-21T16:53:02.732Z",
+  "updatedAt": "2026-11-21T21:59:07.052Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 9,
-      "feelsLike": 8,
+      "temp": 7,
+      "feelsLike": 5,
       "code": 3,
-      "wind": 5,
-      "humidity": 80
+      "wind": 9,
+      "humidity": 93
     },
     "forecast": [
       {
@@ -20,53 +20,62 @@
         "date": "2026-11-22",
         "code": 61,
         "tmax": 7,
-        "tmin": 6
+        "tmin": 5
       },
       {
         "date": "2026-11-23",
-        "code": 61,
-        "tmax": 6,
-        "tmin": 1
+        "code": 3,
+        "tmax": 5,
+        "tmin": 0
       },
       {
         "date": "2026-11-24",
         "code": 3,
         "tmax": 4,
-        "tmin": -1
+        "tmin": -2
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Grand Theft Auto VI",
-        "viewers": 13114,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 113,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
       {
-        "title": "COMMENT DEVENIR RICHE AVEC 10 000 € ?",
+        "title": "Carlito passe son examen de cuisine devant le chef Etchebest",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "vynygWNsj80",
+        "thumbnail": "https://i.ytimg.com/vi/vynygWNsj80/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vynygWNsj80",
+        "publishedAt": "2026-11-21T17:19:19+00:00"
+      },
+      {
+        "title": "YAHOO A REFUSÉ DE RACHETER GOOGLE ET LE REGRETTE ENCORE !",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "AWZCMQ83jsg",
-        "thumbnail": "https://i.ytimg.com/vi/AWZCMQ83jsg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AWZCMQ83jsg",
-        "publishedAt": "2026-11-21T16:00:09+00:00"
+        "videoId": "pEPH7nVUzGA",
+        "thumbnail": "https://i.ytimg.com/vi/pEPH7nVUzGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pEPH7nVUzGA",
+        "publishedAt": "2026-11-21T17:00:31+00:00"
       },
       {
         "title": "INSIDERS - Calme en surface, des requins en dessous !",
@@ -76,15 +85,6 @@
         "thumbnail": "https://i.ytimg.com/vi/x1Jw0_AuEKo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=x1Jw0_AuEKo",
         "publishedAt": "2026-11-21T12:00:10+00:00"
-      },
-      {
-        "title": "Le chaos organisé, comme on aime 🤵🏻‍♂️",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "XdhFG-ajEvM",
-        "thumbnail": "https://i.ytimg.com/vi/XdhFG-ajEvM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdhFG-ajEvM",
-        "publishedAt": "2026-11-20T15:02:41+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -150,13 +150,13 @@
       {
         "repo": "bytosUI/geekstack",
         "message": "Séries TMDB en vrai — recherche, biblio unifiée, fiche, ADN cross-média",
-        "time": "il y a 18 sem",
+        "time": "il y a 19 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/b96cf0fcbab91202573df0b96d86292c175828a9"
       },
       {
         "repo": "bytosUI/geekstack",
         "message": "Carte saisonnière (trimestrielle) — format collector Story Insta",
-        "time": "il y a 20 sem",
+        "time": "il y a 21 sem",
         "url": "https://github.com/bytosUI/geekstack/commit/8ed851b341dc43349c5688d0a6e3c5d4bec8444b"
       },
       {
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Derek Lowe : Faire exploser un tas d'azoture de plomb",
-        "titleOriginal": "Derek Lowe: Detonating a Pile of Lead Azide",
-        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "source": "science.org",
-        "score": 257,
-        "comments": 141,
-        "hnUrl": "https://news.ycombinator.com/item?id=50588982",
+        "title": "Un comprimé pour traiter le cancer du pancréas salué comme « la plus grande percée depuis des décennies »",
+        "titleOriginal": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "source": "theguardian.com",
+        "score": 244,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=50582069",
+        "date": "hier"
+      },
+      {
+        "title": "Inkling-2-Mini avec 5,4 Go de mémoire",
+        "titleOriginal": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "source": "github.com",
+        "score": 264,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=50591853",
         "date": "il y a 3 h"
       },
       {
-        "title": "Vérification allégée de l’hypothèse de Riemann - Déclaration conjointe de...",
-        "titleOriginal": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+        "title": "Vérification Lean de l'hypothèse de Riemann",
+        "titleOriginal": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
         "source": "leanprover-community.github.io",
-        "score": 266,
-        "comments": 199,
+        "score": 676,
+        "comments": 543,
         "hnUrl": "https://news.ycombinator.com/item?id=50589618",
-        "date": "il y a 2 h"
+        "date": "il y a 7 h"
       },
       {
-        "title": "L'administration fiscale brésilienne met son calculateur d'impôts en open source sur GitHub sous licence MIT",
-        "titleOriginal": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-        "source": "gov.br",
-        "score": 405,
-        "comments": 134,
-        "hnUrl": "https://news.ycombinator.com/item?id=50532613",
-        "date": "il y a 4 j"
-      },
-      {
-        "title": "Mon écran réduisait ma vitesse de téléchargement de 75 %",
-        "titleOriginal": "My Monitor Was Cutting My Download Speed by 75%",
-        "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-        "source": "blog.tymscar.com",
-        "score": 226,
-        "comments": 95,
-        "hnUrl": "https://news.ycombinator.com/item?id=50587875",
-        "date": "il y a 6 h"
+        "title": "Faire exploser un tas d’azoture de plomb",
+        "titleOriginal": "Detonating a pile of lead azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "source": "science.org",
+        "score": 451,
+        "comments": 299,
+        "hnUrl": "https://news.ycombinator.com/item?id=50588982",
+        "date": "il y a 8 h"
       }
     ]
   },
