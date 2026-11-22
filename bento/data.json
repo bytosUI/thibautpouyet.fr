@@ -1,31 +1,25 @@
 {
-  "updatedAt": "2026-11-21T21:59:07.052Z",
+  "updatedAt": "2026-11-22T01:58:43.695Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 7,
-      "feelsLike": 5,
+      "temp": 6,
+      "feelsLike": 4,
       "code": 3,
-      "wind": 9,
-      "humidity": 93
+      "wind": 11,
+      "humidity": 92
     },
     "forecast": [
       {
-        "date": "2026-11-21",
-        "code": 45,
-        "tmax": 10,
+        "date": "2026-11-22",
+        "code": 3,
+        "tmax": 8,
         "tmin": 4
       },
       {
-        "date": "2026-11-22",
-        "code": 61,
-        "tmax": 7,
-        "tmin": 5
-      },
-      {
         "date": "2026-11-23",
-        "code": 3,
-        "tmax": 5,
+        "code": 61,
+        "tmax": 6,
         "tmin": 0
       },
       {
@@ -33,20 +27,17 @@
         "code": 3,
         "tmax": 4,
         "tmin": -2
+      },
+      {
+        "date": "2026-11-25",
+        "code": 61,
+        "tmax": 2,
+        "tmin": 0
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "thetangerineclub",
-        "displayName": "TheTangerineClub",
-        "game": "Music",
-        "viewers": 113,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
-        "url": "https://twitch.tv/thetangerineclub"
-      }
-    ],
+    "live": [],
     "offline": [
       "domingo",
       "bastiui",
@@ -54,7 +45,8 @@
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam"
+      "firsteam",
+      "thetangerineclub"
     ]
   },
   "youtube": {
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Un comprimé pour traiter le cancer du pancréas salué comme « la plus grande percée depuis des décennies »",
+        "title": "Un comprimé pour traiter le cancer du pancréas salué comme « la plus grande avancée depuis des décennies »",
         "titleOriginal": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
         "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
         "source": "theguardian.com",
-        "score": 244,
-        "comments": 73,
+        "score": 626,
+        "comments": 149,
         "hnUrl": "https://news.ycombinator.com/item?id=50582069",
         "date": "hier"
-      },
-      {
-        "title": "Inkling-2-Mini avec 5,4 Go de mémoire",
-        "titleOriginal": "Inkling-2-Mini in 5.4 GB Memory",
-        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "source": "github.com",
-        "score": 264,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=50591853",
-        "date": "il y a 3 h"
       },
       {
         "title": "Vérification Lean de l'hypothèse de Riemann",
         "titleOriginal": "Lean verification of the Riemann Hypothesis",
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
         "source": "leanprover-community.github.io",
-        "score": 676,
-        "comments": 543,
+        "score": 839,
+        "comments": 694,
         "hnUrl": "https://news.ycombinator.com/item?id=50589618",
+        "date": "il y a 11 h"
+      },
+      {
+        "title": "Inkling-2-Mini avec 5,4 Go de mémoire",
+        "titleOriginal": "Inkling-2-Mini in 5.4 GB Memory",
+        "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+        "source": "github.com",
+        "score": 362,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=50591853",
         "date": "il y a 7 h"
       },
       {
-        "title": "Faire exploser un tas d’azoture de plomb",
-        "titleOriginal": "Detonating a pile of lead azide",
-        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "source": "science.org",
-        "score": 451,
-        "comments": 299,
-        "hnUrl": "https://news.ycombinator.com/item?id=50588982",
-        "date": "il y a 8 h"
+        "title": "L'administration fiscale brésilienne met son calculateur d'impôts en open source sur GitHub sous licence MIT",
+        "titleOriginal": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+        "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+        "source": "gov.br",
+        "score": 755,
+        "comments": 242,
+        "hnUrl": "https://news.ycombinator.com/item?id=50532613",
+        "date": "il y a 4 j"
       }
     ]
   },
