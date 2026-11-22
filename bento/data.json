@@ -1,25 +1,25 @@
 {
-  "updatedAt": "2026-11-22T09:30:21.600Z",
+  "updatedAt": "2026-11-22T17:33:10.020Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
       "temp": 6,
-      "feelsLike": 2,
+      "feelsLike": 3,
       "code": 3,
-      "wind": 13,
+      "wind": 5,
       "humidity": 82
     },
     "forecast": [
       {
         "date": "2026-11-22",
-        "code": 61,
-        "tmax": 8,
-        "tmin": 5
+        "code": 3,
+        "tmax": 7,
+        "tmin": 4
       },
       {
         "date": "2026-11-23",
         "code": 61,
-        "tmax": 7,
+        "tmax": 6,
         "tmin": 0
       },
       {
@@ -31,15 +31,23 @@
       {
         "date": "2026-11-25",
         "code": 61,
-        "tmax": 4,
-        "tmin": 1
+        "tmax": 2,
+        "tmin": 0
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Grand Theft Auto VI",
+        "viewers": 13786,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
+      }
+    ],
     "offline": [
-      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -52,31 +60,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "Carlito passe son examen de cuisine devant le chef Etchebest",
+        "title": "Mcfly prépare une crêpe Suzette pour le Chef Etchebest",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "vynygWNsj80",
-        "thumbnail": "https://i.ytimg.com/vi/vynygWNsj80/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vynygWNsj80",
-        "publishedAt": "2026-11-21T17:19:19+00:00"
+        "videoId": "W9f89hoXA1E",
+        "thumbnail": "https://i.ytimg.com/vi/W9f89hoXA1E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W9f89hoXA1E",
+        "publishedAt": "2026-11-22T17:09:43+00:00"
       },
       {
-        "title": "YAHOO A REFUSÉ DE RACHETER GOOGLE ET LE REGRETTE ENCORE !",
+        "title": "SCIENTOLOGIE : SECTE OU REIGION ?",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "pEPH7nVUzGA",
-        "thumbnail": "https://i.ytimg.com/vi/pEPH7nVUzGA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pEPH7nVUzGA",
-        "publishedAt": "2026-11-21T17:00:31+00:00"
+        "videoId": "Ec9xEWfQbj0",
+        "thumbnail": "https://i.ytimg.com/vi/Ec9xEWfQbj0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ec9xEWfQbj0",
+        "publishedAt": "2026-11-22T11:00:32+00:00"
       },
       {
-        "title": "INSIDERS - Calme en surface, des requins en dessous !",
+        "title": "INSIDERS - Le pays qui invente l'IA en a peur !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "x1Jw0_AuEKo",
-        "thumbnail": "https://i.ytimg.com/vi/x1Jw0_AuEKo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x1Jw0_AuEKo",
-        "publishedAt": "2026-11-21T12:00:10+00:00"
+        "videoId": "DNg4QNwbGKo",
+        "thumbnail": "https://i.ytimg.com/vi/DNg4QNwbGKo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DNg4QNwbGKo",
+        "publishedAt": "2026-11-22T10:30:31+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -174,44 +182,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "Alliance pour un Web social ouvert",
+        "titleOriginal": "Open Social Web Alliance",
+        "url": "https://osw-alliance.net/en/",
+        "source": "osw-alliance.net",
+        "score": 104,
+        "comments": 93,
+        "hnUrl": "https://news.ycombinator.com/item?id=50600511",
+        "date": "il y a 2 h"
+      },
+      {
+        "title": "Show HN : J'ai créé un jeu dans lequel vous êtes un sous-agent d'un LLM",
+        "titleOriginal": "Show HN: I built a game where you are an LLM's subagent",
+        "url": "https://github.com/gulivan/worker755",
+        "source": "github.com",
+        "score": 134,
+        "comments": 34,
+        "hnUrl": "https://news.ycombinator.com/item?id=50599762",
+        "date": "il y a 3 h"
+      },
+      {
         "title": "Toyota, Nissan et Honda vont standardiser leurs pièces pour réduire les coûts",
         "titleOriginal": "Toyota, Nissan, and Honda to standardize parts to lower costs",
         "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
         "source": "caranddriver.com",
-        "score": 444,
-        "comments": 253,
+        "score": 958,
+        "comments": 568,
         "hnUrl": "https://news.ycombinator.com/item?id=50596133",
-        "date": "il y a 5 h"
+        "date": "il y a 13 h"
       },
       {
-        "title": "Un comprimé pour traiter le cancer du pancréas salué comme « la plus grande percée depuis des décennies »",
-        "titleOriginal": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-        "source": "theguardian.com",
-        "score": 965,
-        "comments": 213,
-        "hnUrl": "https://news.ycombinator.com/item?id=50582069",
-        "date": "hier"
-      },
-      {
-        "title": "Vérification Lean de l'hypothèse de Riemann",
-        "titleOriginal": "Lean verification of the Riemann Hypothesis",
-        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "source": "leanprover-community.github.io",
-        "score": 1020,
-        "comments": 834,
-        "hnUrl": "https://news.ycombinator.com/item?id=50589618",
-        "date": "il y a 18 h"
-      },
-      {
-        "title": "Show HN : Le manuel de la démonstration de Riemann",
-        "titleOriginal": "Show HN: The Riemann Proof Handbook",
-        "url": "https://github.com/tamnd/riemann-handbook",
-        "source": "github.com",
-        "score": 42,
-        "comments": 13,
-        "hnUrl": "https://news.ycombinator.com/item?id=50596664",
-        "date": "il y a 3 h"
+        "title": "Perplexité et intelligence",
+        "titleOriginal": "Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence/",
+        "source": "openai.com",
+        "score": 7,
+        "comments": 1,
+        "hnUrl": "https://news.ycombinator.com/item?id=50601525",
+        "date": "il y a 26 min"
       }
     ]
   },
