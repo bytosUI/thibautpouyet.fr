@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-22T23:06:19.291Z",
-  "weather": null,
+  "updatedAt": "2026-11-23T03:52:08.421Z",
+  "weather": {
+    "city": "Châlons-en-Champagne",
+    "current": {
+      "temp": 4,
+      "feelsLike": 0,
+      "code": 3,
+      "wind": 13,
+      "humidity": 83
+    },
+    "forecast": [
+      {
+        "date": "2026-11-23",
+        "code": 61,
+        "tmax": 5,
+        "tmin": 0
+      },
+      {
+        "date": "2026-11-24",
+        "code": 3,
+        "tmax": 4,
+        "tmin": -1
+      },
+      {
+        "date": "2026-11-25",
+        "code": 61,
+        "tmax": 3,
+        "tmin": 1
+      },
+      {
+        "date": "2026-11-26",
+        "code": 3,
+        "tmax": 1,
+        "tmin": -1
+      }
+    ]
+  },
   "twitch": {
     "live": [],
     "offline": [
@@ -139,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Les oiseaux de GTA 6 : un guide de terrain de la faune de Vice City et de Leonida",
-        "titleOriginal": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-        "source": "audubon.org",
-        "score": 261,
-        "comments": 96,
-        "hnUrl": "https://news.ycombinator.com/item?id=50602843",
-        "date": "il y a 3 h"
+        "title": "Réseau de télévision alternatif gratuit créé à partir des vidéos oubliées de l'Internet Archive",
+        "titleOriginal": "Free alternative TV network built from the Internet Archive's forgotten videos",
+        "url": "https://spelunkr.tv",
+        "source": "spelunkr.tv",
+        "score": 183,
+        "comments": 30,
+        "hnUrl": "https://news.ycombinator.com/item?id=50606192",
+        "date": "il y a 2 h"
       },
       {
         "title": "Guide du débutant sur l’IA locale avec Inkling, Qwen et Unsloth",
         "titleOriginal": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
         "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
         "source": "gpupartner.com",
-        "score": 89,
-        "comments": 24,
+        "score": 312,
+        "comments": 132,
         "hnUrl": "https://news.ycombinator.com/item?id=50603845",
-        "date": "il y a 2 h"
+        "date": "il y a 6 h"
       },
       {
-        "title": "Nyx, le plus ancien fournisseur d'accès à Internet",
-        "titleOriginal": "Nyx, the Oldest Internet Service Provider",
-        "url": "https://nyx.net/",
-        "source": "nyx.net",
-        "score": 65,
-        "comments": 6,
-        "hnUrl": "https://news.ycombinator.com/item?id=50603465",
-        "date": "il y a 2 h"
+        "title": "Masullo sur l'hypothèse de Riemann",
+        "titleOriginal": "Masullo on the Riemann Hypothesis",
+        "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+        "source": "johncarlosbaez.wordpress.com",
+        "score": 85,
+        "comments": 20,
+        "hnUrl": "https://news.ycombinator.com/item?id=50598441",
+        "date": "il y a 16 h"
       },
       {
-        "title": "Une San Francisco miniature avec des bus, des avions et des bateaux en mouvement",
-        "titleOriginal": "A miniature San Francisco with live buses, planes and boats",
-        "url": "https://smallsf.com/",
-        "source": "smallsf.com",
-        "score": 79,
-        "comments": 33,
-        "hnUrl": "https://news.ycombinator.com/item?id=50603589",
-        "date": "il y a 2 h"
+        "title": "Les oiseaux de GTA 6 : un guide de terrain de la faune de Vice City et de Leonida",
+        "titleOriginal": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+        "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+        "source": "audubon.org",
+        "score": 394,
+        "comments": 196,
+        "hnUrl": "https://news.ycombinator.com/item?id=50602843",
+        "date": "il y a 8 h"
       }
     ]
   },
