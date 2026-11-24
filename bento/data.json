@@ -1,53 +1,45 @@
 {
-  "updatedAt": "2026-11-23T13:56:38.607Z",
+  "updatedAt": "2026-11-24T01:28:38.759Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 5,
-      "feelsLike": 1,
-      "code": 1,
-      "wind": 12,
-      "humidity": 73
+      "temp": -1,
+      "feelsLike": -4,
+      "code": 3,
+      "wind": 5,
+      "humidity": 87
     },
     "forecast": [
-      {
-        "date": "2026-11-23",
-        "code": 61,
-        "tmax": 5,
-        "tmin": 0
-      },
       {
         "date": "2026-11-24",
         "code": 3,
         "tmax": 6,
-        "tmin": 0
+        "tmin": -1
       },
       {
         "date": "2026-11-25",
-        "code": 61,
+        "code": 80,
         "tmax": 5,
-        "tmin": 1
+        "tmin": 2
       },
       {
         "date": "2026-11-26",
         "code": 3,
-        "tmax": 1,
+        "tmax": 2,
+        "tmin": 0
+      },
+      {
+        "date": "2026-11-27",
+        "code": 3,
+        "tmax": 2,
         "tmin": -1
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Grand Theft Auto VI",
-        "viewers": 12004,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -60,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "DR*GUE, S*XE HORS MARIAGE : CE QUI EST INTERDIT CHEZ LES SCIENTOLOGUES",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "K9r9eEc8mkI",
-        "thumbnail": "https://i.ytimg.com/vi/K9r9eEc8mkI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K9r9eEc8mkI",
-        "publishedAt": "2026-11-23T13:00:36+00:00"
-      },
-      {
-        "title": "INSIDERS - IA, combien gagne un étudiant de Stanford !",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "_g1D1-7Toio",
-        "thumbnail": "https://i.ytimg.com/vi/_g1D1-7Toio/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_g1D1-7Toio",
-        "publishedAt": "2026-11-23T11:00:21+00:00"
-      },
-      {
-        "title": "Mcfly prépare une crêpe Suzette pour le Chef Etchebest",
+        "title": "Outer Wilds, un jeu chill… la plupart du temps",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "W9f89hoXA1E",
-        "thumbnail": "https://i.ytimg.com/vi/W9f89hoXA1E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W9f89hoXA1E",
-        "publishedAt": "2026-11-22T17:09:43+00:00"
+        "videoId": "kw5p_BbwvqY",
+        "thumbnail": "https://i.ytimg.com/vi/kw5p_BbwvqY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kw5p_BbwvqY",
+        "publishedAt": "2026-11-23T17:00:28+00:00"
+      },
+      {
+        "title": "Anthropic : L'OVNI boursier qui défie la logique !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "_xpdNXHWj5o",
+        "thumbnail": "https://i.ytimg.com/vi/_xpdNXHWj5o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_xpdNXHWj5o",
+        "publishedAt": "2026-11-23T17:00:13+00:00"
+      },
+      {
+        "title": "ON LANCE UNE NOUVELLE CHAÎNE YOUTUBE !",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "J5elCJk4woc",
+        "thumbnail": "https://i.ytimg.com/vi/J5elCJk4woc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J5elCJk4woc",
+        "publishedAt": "2026-11-23T16:59:56+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "GLM-5.4 : Vers un codage généralisé avec notre premier transformateur à boucle",
-        "titleOriginal": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-        "url": "https://z.ai/blog/glm-5.4",
-        "source": "z.ai",
-        "score": 389,
-        "comments": 167,
-        "hnUrl": "https://news.ycombinator.com/item?id=50609685",
-        "date": "il y a 3 h"
+        "title": "Nvidia Reinstates Jensen Huang as CEO",
+        "titleOriginal": "Nvidia Reinstates Jensen Huang as CEO",
+        "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+        "source": "cnbc.com",
+        "score": 2075,
+        "comments": 3128,
+        "hnUrl": "https://news.ycombinator.com/item?id=50611576",
+        "date": "il y a 11 h"
       },
       {
-        "title": "Le cercle de la sécurité",
-        "titleOriginal": "The next circle of security hell",
-        "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-        "source": "blogs.gentoo.org",
-        "score": 61,
-        "comments": 29,
-        "hnUrl": "https://news.ycombinator.com/item?id=50610334",
+        "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "titleOriginal": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+        "source": "stalw.art",
+        "score": 182,
+        "comments": 101,
+        "hnUrl": "https://news.ycombinator.com/item?id=50620349",
         "date": "il y a 2 h"
       },
       {
-        "title": "XNU Linux : interface graphique complète d'OS X en espace utilisateur sous Linux",
-        "titleOriginal": "XNU Linux: Full OS X GUI Userspace on Linux",
-        "url": "https://github.com/AFK-surf/xnulinux",
-        "source": "github.com",
-        "score": 444,
-        "comments": 196,
-        "hnUrl": "https://news.ycombinator.com/item?id=50607261",
-        "date": "il y a 10 h"
+        "title": "Ladybird is now in alpha",
+        "titleOriginal": "Ladybird is now in alpha",
+        "url": "https://ladybird.org/posts/alpha/",
+        "source": "ladybird.org",
+        "score": 1414,
+        "comments": 330,
+        "hnUrl": "https://news.ycombinator.com/item?id=50614249",
+        "date": "il y a 9 h"
       },
       {
-        "title": "Réseau de télévision alternatif gratuit créé à partir des vidéos oubliées de l'Internet Archive",
-        "titleOriginal": "Free alternative TV network built from the Internet Archive's forgotten videos",
-        "url": "https://spelunkr.tv",
-        "source": "spelunkr.tv",
-        "score": 660,
-        "comments": 122,
-        "hnUrl": "https://news.ycombinator.com/item?id=50606192",
-        "date": "il y a 12 h"
+        "title": "GPUI is getting its own repository",
+        "titleOriginal": "GPUI is getting its own repository",
+        "url": "https://github.com/zed-industries/gpui",
+        "source": "github.com",
+        "score": 116,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=50619103",
+        "date": "il y a 4 h"
       }
     ]
   },
