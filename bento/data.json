@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-24T11:28:43.069Z",
+  "updatedAt": "2026-11-24T21:27:03.767Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 4,
-      "feelsLike": 0,
+      "temp": 2,
+      "feelsLike": -2,
       "code": 3,
-      "wind": 13,
-      "humidity": 74
+      "wind": 12,
+      "humidity": 84
     },
     "forecast": [
       {
@@ -19,20 +19,20 @@
       {
         "date": "2026-11-25",
         "code": 80,
-        "tmax": 5,
-        "tmin": 1
+        "tmax": 6,
+        "tmin": 2
       },
       {
         "date": "2026-11-26",
         "code": 3,
-        "tmax": 2,
+        "tmax": 3,
         "tmin": -1
       },
       {
         "date": "2026-11-27",
         "code": 3,
         "tmax": 2,
-        "tmin": -2
+        "tmin": -1
       }
     ]
   },
@@ -52,31 +52,31 @@
   "youtube": {
     "videos": [
       {
-        "title": "INSIDERS - Bulle de l'IA : elle va éclater ? Pas grave !",
+        "title": "INSIDERS - Silicon Valley, il vend sa boîte 6 milliards !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "JGYjb4dV1FY",
-        "thumbnail": "https://i.ytimg.com/vi/JGYjb4dV1FY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JGYjb4dV1FY",
-        "publishedAt": "2026-11-24T11:00:01+00:00"
+        "videoId": "lszEP0YW0fw",
+        "thumbnail": "https://i.ytimg.com/vi/lszEP0YW0fw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lszEP0YW0fw",
+        "publishedAt": "2026-11-24T20:00:15+00:00"
       },
       {
-        "title": "L’EX-COMPAGNE D’ALAIN DELON DIT TOUT : VIOLENCES, ARME, JALOUSIE, CÉLÉBRITÉ…",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "JLRyD3ea07A",
-        "thumbnail": "https://i.ytimg.com/vi/JLRyD3ea07A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JLRyD3ea07A",
-        "publishedAt": "2026-11-24T10:00:34+00:00"
-      },
-      {
-        "title": "YouTube Warrior 6 a fait gonfler les yeux de @MaximeBiaggi  et @Djilsi",
+        "title": "On réagit au gage de Djilsi et Maxime Biaggi (Youtube Warrior 6)",
         "channel": "Mcfly et Carlito",
         "channelHandle": "LeFatShow",
-        "videoId": "x7Dym-4P4KY",
-        "thumbnail": "https://i.ytimg.com/vi/x7Dym-4P4KY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x7Dym-4P4KY",
-        "publishedAt": "2026-11-24T09:46:15+00:00"
+        "videoId": "RJP4p77kmYc",
+        "thumbnail": "https://i.ytimg.com/vi/RJP4p77kmYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RJP4p77kmYc",
+        "publishedAt": "2026-11-24T19:11:23+00:00"
+      },
+      {
+        "title": "AMOUREUSE OBSESSIONNELLE : ELLE L’A TRAQUÉ, HARCELÉ ET AGRESSÉ PENDANT 3 ANS, JOUR ET NUIT",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "xY3rxowY2bg",
+        "thumbnail": "https://i.ytimg.com/vi/xY3rxowY2bg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xY3rxowY2bg",
+        "publishedAt": "2026-11-24T16:21:13+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "2035 est arrivé plus tôt que prévu",
-        "titleOriginal": "2035 Came Early",
-        "url": "https://fzakaria.com/2026/11/23/2035-came-early",
-        "source": "fzakaria.com",
-        "score": 316,
-        "comments": 99,
-        "hnUrl": "https://news.ycombinator.com/item?id=50624497",
+        "title": "Bonsaï ternaire 2.5 27B",
+        "titleOriginal": "Ternary Bonsai 2.5 27B",
+        "url": "https://prismml.com/news/bonsai-2-5-27b",
+        "source": "prismml.com",
+        "score": 115,
+        "comments": 32,
+        "hnUrl": "https://news.ycombinator.com/item?id=50633922",
+        "date": "il y a 1 h"
+      },
+      {
+        "title": "Campagne d'intrusion active contre les serveurs de gestion de la sécurité Check Point",
+        "titleOriginal": "Active intrusion campaign against Check Point security management servers",
+        "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+        "source": "greynoise.io",
+        "score": 222,
+        "comments": 89,
+        "hnUrl": "https://news.ycombinator.com/item?id=50630594",
         "date": "il y a 4 h"
       },
       {
-        "title": "Ladybird est maintenant en version alpha",
-        "titleOriginal": "Ladybird is now in alpha",
-        "url": "https://ladybird.org/posts/alpha/",
-        "source": "ladybird.org",
-        "score": 2043,
-        "comments": 482,
-        "hnUrl": "https://news.ycombinator.com/item?id=50614249",
-        "date": "il y a 19 h"
+        "title": "Flacon pulvérisateur",
+        "titleOriginal": "The Spray Bottle",
+        "url": "https://mechanical-pencil.com/products/spray-bottle",
+        "source": "mechanical-pencil.com",
+        "score": 264,
+        "comments": 76,
+        "hnUrl": "https://news.ycombinator.com/item?id=50598555",
+        "date": "il y a 2 j"
       },
       {
-        "title": "Stalwart est désormais un substitut direct à Microsoft Exchange",
-        "titleOriginal": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-        "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
-        "source": "stalw.art",
-        "score": 501,
-        "comments": 263,
-        "hnUrl": "https://news.ycombinator.com/item?id=50620349",
-        "date": "il y a 12 h"
-      },
-      {
-        "title": "Performances AMD EPYC Zen 6 par rapport à Zen 1 : moyenne géométrique 12,1 fois supérieure en moins de 10 ans",
-        "titleOriginal": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
-        "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
-        "source": "phoronix.com",
-        "score": 112,
-        "comments": 48,
-        "hnUrl": "https://news.ycombinator.com/item?id=50624061",
-        "date": "il y a 6 h"
+        "title": "Lancement HN : Versine (YC F26) – MCP pour envoyer et recevoir de l’argent",
+        "titleOriginal": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "source": "news.ycombinator.com",
+        "score": 15,
+        "comments": 6,
+        "hnUrl": "https://news.ycombinator.com/item?id=50634426",
+        "date": "il y a 42 min"
       }
     ]
   },
