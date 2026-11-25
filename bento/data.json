@@ -1,21 +1,15 @@
 {
-  "updatedAt": "2026-11-25T14:48:14.411Z",
+  "updatedAt": "2026-11-25T23:26:51.635Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 6,
-      "feelsLike": 2,
+      "temp": 3,
+      "feelsLike": -1,
       "code": 3,
-      "wind": 14,
-      "humidity": 82
+      "wind": 12,
+      "humidity": 77
     },
     "forecast": [
-      {
-        "date": "2026-11-25",
-        "code": 80,
-        "tmax": 6,
-        "tmin": 2
-      },
       {
         "date": "2026-11-26",
         "code": 61,
@@ -26,39 +20,63 @@
         "date": "2026-11-27",
         "code": 3,
         "tmax": 2,
-        "tmin": -1
+        "tmin": -2
       },
       {
         "date": "2026-11-28",
-        "code": 2,
-        "tmax": 1,
+        "code": 3,
+        "tmax": 2,
         "tmin": -2
+      },
+      {
+        "date": "2026-11-29",
+        "code": 61,
+        "tmax": 4,
+        "tmin": 0
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Grand Theft Auto VI",
-        "viewers": 9080,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
+        "user": "thetangerineclub",
+        "displayName": "TheTangerineClub",
+        "game": "Music",
+        "viewers": 100,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/8d754a14-7a10-443a-a9e3-4e3774d30c71-profile_image-300x300.jpeg",
+        "url": "https://twitch.tv/thetangerineclub"
       }
     ],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
       "nowtechteam",
       "origatwitch",
-      "firsteam",
-      "thetangerineclub"
+      "firsteam"
     ]
   },
   "youtube": {
     "videos": [
+      {
+        "title": "INSIDERS - IA, des levées jamais vues, même chez Tesla !",
+        "channel": "Silicon Carne 🌶️",
+        "channelHandle": "siliconcarnepod",
+        "videoId": "4p5gAEV_23k",
+        "thumbnail": "https://i.ytimg.com/vi/4p5gAEV_23k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4p5gAEV_23k",
+        "publishedAt": "2026-11-25T20:00:07+00:00"
+      },
+      {
+        "title": "Carlito est thalassophobe sur les jeux vidéos",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "yMvB9Ujbjyc",
+        "thumbnail": "https://i.ytimg.com/vi/yMvB9Ujbjyc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yMvB9Ujbjyc",
+        "publishedAt": "2026-11-25T16:59:54+00:00"
+      },
       {
         "title": "Pourquoi les gros investisseurs crypto quittent la France (Darknet, loi MiCA)",
         "channel": "Darons du Biz",
@@ -76,24 +94,6 @@
         "thumbnail": "https://i.ytimg.com/vi/bKRP4z7tqXc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bKRP4z7tqXc",
         "publishedAt": "2026-11-25T14:00:26+00:00"
-      },
-      {
-        "title": "INSIDERS #2 : La bulle de l’IA va-t-elle exploser ?",
-        "channel": "Silicon Carne 🌶️",
-        "channelHandle": "siliconcarnepod",
-        "videoId": "GrUeaIL_D4c",
-        "thumbnail": "https://i.ytimg.com/vi/GrUeaIL_D4c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GrUeaIL_D4c",
-        "publishedAt": "2026-11-25T11:55:38+00:00"
-      },
-      {
-        "title": "On réagit au gage de Djilsi et Maxime Biaggi (Youtube Warrior 6)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "RJP4p77kmYc",
-        "thumbnail": "https://i.ytimg.com/vi/RJP4p77kmYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RJP4p77kmYc",
-        "publishedAt": "2026-11-24T19:11:23+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -182,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Google publie des articles convaincants sur la factorisation des entiers, les logarithmes discrets et plus encore",
-        "titleOriginal": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-        "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+        "title": "Incident de sécurité 1Password",
+        "titleOriginal": "1Password Security Incident",
+        "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "source": "1password.com",
+        "score": 1003,
+        "comments": 423,
+        "hnUrl": "https://news.ycombinator.com/item?id=50644817",
+        "date": "il y a 6 h"
+      },
+      {
+        "title": "Version beaucoup plus courte de la vérification GRH Lean d’Anthropic",
+        "titleOriginal": "Much shorter version of GRH Lean verification from Anthropic",
+        "url": "https://github.com/lsernau/grh-lean",
         "source": "github.com",
-        "score": 103,
-        "comments": 45,
-        "hnUrl": "https://news.ycombinator.com/item?id=50642086",
+        "score": 158,
+        "comments": 63,
+        "hnUrl": "https://news.ycombinator.com/item?id=50648050",
         "date": "il y a 1 h"
       },
       {
-        "title": "Égalisation du volume Windows, rétroconçue et portée sur PipeWire",
-        "titleOriginal": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-        "url": "https://github.com/xoxorwr/pw-loudness-eq",
-        "source": "github.com",
-        "score": 149,
-        "comments": 83,
-        "hnUrl": "https://news.ycombinator.com/item?id=50641171",
-        "date": "il y a 3 h"
+        "title": "Le New York Times demande aux photographes de ne pas utiliser la dernière version de Photoshop",
+        "titleOriginal": "The New York Times tells photographers not to use the latest Photoshop",
+        "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+        "source": "dpreview.com",
+        "score": 99,
+        "comments": 46,
+        "hnUrl": "https://news.ycombinator.com/item?id=50647673",
+        "date": "il y a 2 h"
       },
       {
-        "title": "Sons de boutons : collection de clics et d’appuis sur des boutons enregistrés par des professionnels",
-        "titleOriginal": "Button Sounds – collection of professionally-recorded button clicks and presses",
-        "url": "https://buttons.joshwcomeau.com/",
-        "source": "buttons.joshwcomeau.com",
-        "score": 594,
-        "comments": 95,
-        "hnUrl": "https://news.ycombinator.com/item?id=50638032",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "La multiplication matricielle est Θ(n^2,25) [pdf]",
-        "titleOriginal": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-        "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-        "source": "github.com",
-        "score": 808,
-        "comments": 451,
-        "hnUrl": "https://news.ycombinator.com/item?id=50637220",
-        "date": "il y a 13 h"
+        "title": "GPT-6.2 Astra est le premier modèle à battre les records de code golf des employés de Google",
+        "titleOriginal": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+        "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+        "source": "bjin.github.io",
+        "score": 173,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=50601280",
+        "date": "il y a 3 j"
       }
     ]
   },
