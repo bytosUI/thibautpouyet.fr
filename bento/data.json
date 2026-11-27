@@ -1,71 +1,57 @@
 {
-  "updatedAt": "2026-11-27T08:54:03.584Z",
+  "updatedAt": "2026-11-27T18:38:32.007Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": -2,
-      "feelsLike": -5,
-      "code": 2,
-      "wind": 2,
-      "humidity": 83
+      "temp": 0,
+      "feelsLike": -3,
+      "code": 0,
+      "wind": 8,
+      "humidity": 74
     },
     "forecast": [
       {
         "date": "2026-11-27",
         "code": 3,
-        "tmax": 2,
+        "tmax": 3,
         "tmin": -3
       },
       {
         "date": "2026-11-28",
-        "code": 3,
+        "code": 2,
         "tmax": 3,
         "tmin": -3
       },
       {
         "date": "2026-11-29",
         "code": 61,
-        "tmax": 6,
+        "tmax": 5,
         "tmin": 0
       },
       {
         "date": "2026-11-30",
         "code": 45,
-        "tmax": 4,
-        "tmin": -2
+        "tmax": 3,
+        "tmin": 0
       }
     ]
   },
   "twitch": {
     "live": [
       {
-        "user": "nowtechteam",
-        "displayName": "NowtechTeam",
-        "game": "Just Chatting",
-        "viewers": 561,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
-        "url": "https://twitch.tv/nowtechteam"
-      },
-      {
-        "user": "bastiui",
-        "displayName": "BastiUi",
-        "game": "Just Chatting",
-        "viewers": 187,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
-        "url": "https://twitch.tv/bastiui"
-      },
-      {
-        "user": "hardisk",
-        "displayName": "Hardisk",
-        "game": "Just Chatting",
-        "viewers": 40,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
-        "url": "https://twitch.tv/hardisk"
+        "user": "domingo",
+        "displayName": "Domingo",
+        "game": "Brawl Stars",
+        "viewers": 5706,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
+        "url": "https://twitch.tv/domingo"
       }
     ],
     "offline": [
-      "domingo",
+      "bastiui",
+      "hardisk",
       "micode",
+      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -74,40 +60,40 @@
   "youtube": {
     "videos": [
       {
-        "title": "Il a tout misé sur le bitcoin et fait x19",
+        "title": "Votre adresse est sur le Darknet ?",
         "channel": "Darons du Biz",
         "channelHandle": "DaronsduBiz",
-        "videoId": "WnfIwoBShng",
-        "thumbnail": "https://i.ytimg.com/vi/WnfIwoBShng/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WnfIwoBShng",
-        "publishedAt": "2026-11-26T20:00:28+00:00"
+        "videoId": "7d4ZztMjgO0",
+        "thumbnail": "https://i.ytimg.com/vi/7d4ZztMjgO0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7d4ZztMjgO0",
+        "publishedAt": "2026-11-27T17:25:59+00:00"
       },
       {
-        "title": "@marinedmusique Core",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "a7EYOSgO-xA",
-        "thumbnail": "https://i.ytimg.com/vi/a7EYOSgO-xA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a7EYOSgO-xA",
-        "publishedAt": "2026-11-26T17:16:00+00:00"
-      },
-      {
-        "title": "SA HARCELEUSE AVAIT UN FAUX PASSEPORT À SON NOM DE FAMILLE !",
-        "channel": "LEGEND",
-        "channelHandle": "legendmedia",
-        "videoId": "7gyd9P_S_TU",
-        "thumbnail": "https://i.ytimg.com/vi/7gyd9P_S_TU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7gyd9P_S_TU",
-        "publishedAt": "2026-11-26T17:00:25+00:00"
-      },
-      {
-        "title": "INSIDERS - IA : ils misent tout, au cas où !",
+        "title": "L’AFTER : Trump sauve Nvidia, Anthropic dévisse, l’IA menace l’humanité !",
         "channel": "Silicon Carne 🌶️",
         "channelHandle": "siliconcarnepod",
-        "videoId": "_4TF8JrPdZI",
-        "thumbnail": "https://i.ytimg.com/vi/_4TF8JrPdZI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_4TF8JrPdZI",
-        "publishedAt": "2026-11-26T11:00:04+00:00"
+        "videoId": "YxZzNgalTDc",
+        "thumbnail": "https://i.ytimg.com/vi/YxZzNgalTDc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YxZzNgalTDc",
+        "publishedAt": "2026-11-27T17:00:10+00:00"
+      },
+      {
+        "title": "PAINBALL : si t’es pas honnête, tu souffres #5 (@AnymeTV ne connaissait pas le concept)",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "t7ogo3uobm0",
+        "thumbnail": "https://i.ytimg.com/vi/t7ogo3uobm0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t7ogo3uobm0",
+        "publishedAt": "2026-11-27T16:22:42+00:00"
+      },
+      {
+        "title": "UNE IA LUI GÈRE TOUT SON QUOTIDIEN",
+        "channel": "LEGEND",
+        "channelHandle": "legendmedia",
+        "videoId": "1cUGGU9wKU4",
+        "thumbnail": "https://i.ytimg.com/vi/1cUGGU9wKU4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1cUGGU9wKU4",
+        "publishedAt": "2026-11-27T15:00:28+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -196,44 +182,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Le chat de groupe où votre IA parle dans votre dos",
-        "titleOriginal": "The group chat where your AI talks behind your back",
-        "url": "https://construct22.com/",
-        "source": "construct22.com",
-        "score": 155,
-        "comments": 55,
-        "hnUrl": "https://news.ycombinator.com/item?id=50663595",
+        "title": "Scripts de piratage de cartes de crédit utilisant WebRTC découverts sur des sites d'achat populaires",
+        "titleOriginal": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+        "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+        "source": "infohawk.com",
+        "score": 149,
+        "comments": 86,
+        "hnUrl": "https://news.ycombinator.com/item?id=50668145",
         "date": "il y a 2 h"
       },
       {
-        "title": "L’IA rend à nouveau l’auto-hébergement amusant",
-        "titleOriginal": "AI made self-hosting fun again",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "janlukas.blog",
-        "score": 634,
-        "comments": 327,
-        "hnUrl": "https://news.ycombinator.com/item?id=50660180",
-        "date": "il y a 11 h"
-      },
-      {
-        "title": "La nécessité d’un langage de programmation grand public formellement vérifiable",
-        "titleOriginal": "The need for a formally verifiable mainstream programming language",
-        "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-        "source": "blainehansen.me",
-        "score": 132,
-        "comments": 103,
-        "hnUrl": "https://news.ycombinator.com/item?id=50663089",
+        "title": "Show HN : bouncemarket – un jeu de marché de prédictions en direct pour une balle rebondissante",
+        "titleOriginal": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+        "url": "https://bouncemarket.minhanhday.com/",
+        "source": "bouncemarket.minhanhday.com",
+        "score": 244,
+        "comments": 73,
+        "hnUrl": "https://news.ycombinator.com/item?id=50667726",
         "date": "il y a 3 h"
       },
       {
-        "title": "YouTube Ad Punisher – Recharge automatiquement les pages YouTube lorsqu'une publicité est diffusée",
-        "titleOriginal": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-        "url": "https://github.com/antonpictures/youtube-punisher",
-        "source": "github.com",
-        "score": 380,
-        "comments": 449,
-        "hnUrl": "https://news.ycombinator.com/item?id=50657530",
-        "date": "il y a 15 h"
+        "title": "Épreuves vérifiées par ordinateur erronées",
+        "titleOriginal": "False computer-checked proofs",
+        "url": "https://cr.yp.to/proofs/falseccp.html",
+        "source": "cr.yp.to",
+        "score": 92,
+        "comments": 37,
+        "hnUrl": "https://news.ycombinator.com/item?id=50667989",
+        "date": "il y a 3 h"
+      },
+      {
+        "title": "Premières images de l'impact de l'expérience de déviation d'astéroïde DART",
+        "titleOriginal": "First images of the impact of DART asteroid deflection experiment",
+        "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+        "source": "arstechnica.com",
+        "score": 123,
+        "comments": 40,
+        "hnUrl": "https://news.ycombinator.com/item?id=50657392",
+        "date": "hier"
       }
     ]
   },
