@@ -1,49 +1,71 @@
 {
-  "updatedAt": "2026-11-27T00:14:23.614Z",
+  "updatedAt": "2026-11-27T08:54:03.584Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": -1,
-      "feelsLike": -4,
+      "temp": -2,
+      "feelsLike": -5,
       "code": 2,
-      "wind": 3,
-      "humidity": 84
+      "wind": 2,
+      "humidity": 83
     },
     "forecast": [
       {
         "date": "2026-11-27",
         "code": 3,
-        "tmax": 3,
-        "tmin": -2
+        "tmax": 2,
+        "tmin": -3
       },
       {
         "date": "2026-11-28",
         "code": 3,
         "tmax": 3,
-        "tmin": -2
+        "tmin": -3
       },
       {
         "date": "2026-11-29",
         "code": 61,
-        "tmax": 5,
-        "tmin": 1
+        "tmax": 6,
+        "tmin": 0
       },
       {
         "date": "2026-11-30",
         "code": 45,
-        "tmax": 5,
-        "tmin": 2
+        "tmax": 4,
+        "tmin": -2
       }
     ]
   },
   "twitch": {
-    "live": [],
+    "live": [
+      {
+        "user": "nowtechteam",
+        "displayName": "NowtechTeam",
+        "game": "Just Chatting",
+        "viewers": 561,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/e976d22c-1ecc-4920-995e-fb8355464430-profile_image-300x300.png",
+        "url": "https://twitch.tv/nowtechteam"
+      },
+      {
+        "user": "bastiui",
+        "displayName": "BastiUi",
+        "game": "Just Chatting",
+        "viewers": 187,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/c39caf89-a53b-4671-92c5-d002b6f4a29e-profile_image-300x300.png",
+        "url": "https://twitch.tv/bastiui"
+      },
+      {
+        "user": "hardisk",
+        "displayName": "Hardisk",
+        "game": "Just Chatting",
+        "viewers": 40,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/66bfe8a3-b49e-4c8f-bc96-314c7391e3e6-profile_image-300x300.png",
+        "url": "https://twitch.tv/hardisk"
+      }
+    ],
     "offline": [
       "domingo",
-      "bastiui",
-      "hardisk",
       "micode",
-      "nowtechteam",
       "origatwitch",
       "firsteam",
       "thetangerineclub"
@@ -174,44 +196,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "L’IA remet au goût du jour le plaisir d’accueillir soi-même des voyageurs",
-        "titleOriginal": "AI made self-hosting fun again",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "janlukas.blog",
-        "score": 205,
-        "comments": 114,
-        "hnUrl": "https://news.ycombinator.com/item?id=50660180",
+        "title": "Le chat de groupe où votre IA parle dans votre dos",
+        "titleOriginal": "The group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
+        "source": "construct22.com",
+        "score": 155,
+        "comments": 55,
+        "hnUrl": "https://news.ycombinator.com/item?id=50663595",
         "date": "il y a 2 h"
       },
       {
-        "title": "Kamil Khan Mumtaz : architecte pakistanais, admiré dans son pays, presque invisible à l'étranger",
-        "titleOriginal": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-        "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-        "source": "worksinprogress.co",
-        "score": 203,
-        "comments": 36,
-        "hnUrl": "https://news.ycombinator.com/item?id=50659841",
-        "date": "il y a 3 h"
+        "title": "L’IA rend à nouveau l’auto-hébergement amusant",
+        "titleOriginal": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "source": "janlukas.blog",
+        "score": 634,
+        "comments": 327,
+        "hnUrl": "https://news.ycombinator.com/item?id=50660180",
+        "date": "il y a 11 h"
       },
       {
-        "title": "Fork de llama.cpp spécifique à AMD",
-        "titleOriginal": "AMD-specific fork of llama.cpp",
-        "url": "https://devnull.land/amd-specific-llama-cpp",
-        "source": "devnull.land",
-        "score": 269,
-        "comments": 64,
-        "hnUrl": "https://news.ycombinator.com/item?id=50657265",
-        "date": "il y a 7 h"
+        "title": "La nécessité d’un langage de programmation grand public formellement vérifiable",
+        "titleOriginal": "The need for a formally verifiable mainstream programming language",
+        "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+        "source": "blainehansen.me",
+        "score": 132,
+        "comments": 103,
+        "hnUrl": "https://news.ycombinator.com/item?id=50663089",
+        "date": "il y a 3 h"
       },
       {
         "title": "YouTube Ad Punisher – Recharge automatiquement les pages YouTube lorsqu'une publicité est diffusée",
         "titleOriginal": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
         "url": "https://github.com/antonpictures/youtube-punisher",
         "source": "github.com",
-        "score": 230,
-        "comments": 308,
+        "score": 380,
+        "comments": 449,
         "hnUrl": "https://news.ycombinator.com/item?id=50657530",
-        "date": "il y a 6 h"
+        "date": "il y a 15 h"
       }
     ]
   },
