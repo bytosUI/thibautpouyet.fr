@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-11-28T09:42:23.024Z",
+  "updatedAt": "2026-11-28T17:54:15.430Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": -3,
-      "feelsLike": -6,
-      "code": 0,
-      "wind": 8,
+      "temp": 1,
+      "feelsLike": -3,
+      "code": 2,
+      "wind": 9,
       "humidity": 82
     },
     "forecast": [
       {
         "date": "2026-11-28",
         "code": 3,
-        "tmax": 2,
+        "tmax": 4,
         "tmin": -4
       },
       {
@@ -25,14 +25,14 @@
       {
         "date": "2026-11-30",
         "code": 45,
-        "tmax": 4,
+        "tmax": 5,
         "tmin": 1
       },
       {
         "date": "2026-12-01",
-        "code": 3,
-        "tmax": 7,
-        "tmin": 2
+        "code": 61,
+        "tmax": 8,
+        "tmin": 1
       }
     ]
   },
@@ -52,13 +52,22 @@
   "youtube": {
     "videos": [
       {
-        "title": "CHATGPT OU CLAUDE : \"À 3% PRÈS, C'EST LA MÊME CHOSE\"",
+        "title": "Qui valide le projet de Mcfly ?",
+        "channel": "Mcfly et Carlito",
+        "channelHandle": "LeFatShow",
+        "videoId": "ZwIOsCPH67c",
+        "thumbnail": "https://i.ytimg.com/vi/ZwIOsCPH67c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZwIOsCPH67c",
+        "publishedAt": "2026-11-28T16:44:15+00:00"
+      },
+      {
+        "title": "L'IA EST LA 1ÈRE INVENTION HUMAINE QUI T'APPREND ELLE-MÊME À L'UTILISER",
         "channel": "LEGEND",
         "channelHandle": "legendmedia",
-        "videoId": "QPv7lTW7TYQ",
-        "thumbnail": "https://i.ytimg.com/vi/QPv7lTW7TYQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QPv7lTW7TYQ",
-        "publishedAt": "2026-11-28T09:00:13+00:00"
+        "videoId": "ccrKd3mje38",
+        "thumbnail": "https://i.ytimg.com/vi/ccrKd3mje38/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ccrKd3mje38",
+        "publishedAt": "2026-11-28T16:00:24+00:00"
       },
       {
         "title": "Votre adresse est sur le Darknet ?",
@@ -77,15 +86,6 @@
         "thumbnail": "https://i.ytimg.com/vi/YxZzNgalTDc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YxZzNgalTDc",
         "publishedAt": "2026-11-27T17:00:10+00:00"
-      },
-      {
-        "title": "PAINBALL : si t’es pas honnête, tu souffres #5 (@AnymeTV ne connaissait pas le concept)",
-        "channel": "Mcfly et Carlito",
-        "channelHandle": "LeFatShow",
-        "videoId": "t7ogo3uobm0",
-        "thumbnail": "https://i.ytimg.com/vi/t7ogo3uobm0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t7ogo3uobm0",
-        "publishedAt": "2026-11-27T16:22:42+00:00"
       },
       {
         "title": "Inox se fait avaler par la poubelle 😭",
@@ -174,44 +174,44 @@
   "hackernews": {
     "items": [
       {
-        "title": "Unkernel : véritable noyau Linux, compilé en WebAssembly",
-        "titleOriginal": "Unkernel: Real Linux kernel, compiled to WebAssembly",
-        "url": "https://unkernel.dev",
-        "source": "unkernel.dev",
-        "score": 277,
-        "comments": 67,
-        "hnUrl": "https://news.ycombinator.com/item?id=50674218",
+        "title": "Audible supprime l'option de téléchargement pour les livres audio achetés",
+        "titleOriginal": "Audible removes download option for purchased audiobooks",
+        "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+        "source": "consumerrights.wiki",
+        "score": 536,
+        "comments": 228,
+        "hnUrl": "https://news.ycombinator.com/item?id=50676723",
         "date": "il y a 6 h"
       },
       {
-        "title": "Loom combine de manière transparente le tissage, le tricotage et le tressage",
-        "titleOriginal": "Loom seamlessly combines weaving, knitting and braiding",
-        "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
-        "source": "news.cornell.edu",
-        "score": 109,
-        "comments": 10,
-        "hnUrl": "https://news.ycombinator.com/item?id=50632052",
-        "date": "il y a 3 j"
+        "title": "Sabotage du Code Claude : analyse comparative préliminaire",
+        "titleOriginal": "Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "source": "xinyadu.github.io",
+        "score": 564,
+        "comments": 192,
+        "hnUrl": "https://news.ycombinator.com/item?id=50676390",
+        "date": "il y a 7 h"
       },
       {
-        "title": "DeepCrossAttention de Google atteint une qualité de modèle comparable jusqu’à 3 fois plus rapidement",
-        "titleOriginal": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
-        "source": "research.google",
-        "score": 384,
-        "comments": 149,
-        "hnUrl": "https://news.ycombinator.com/item?id=50672565",
-        "date": "il y a 10 h"
+        "title": "Maladie liée à l’ordinateur",
+        "titleOriginal": "Computer Disease",
+        "url": "https://blog.adafruit.com/2020/01/13/richard-feynman-on-computer-disease/",
+        "source": "blog.adafruit.com",
+        "score": 21,
+        "comments": 8,
+        "hnUrl": "https://news.ycombinator.com/item?id=50679708",
+        "date": "il y a 41 min"
       },
       {
-        "title": "La chronologie de Balatro",
-        "titleOriginal": "The Balatro Timeline",
-        "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
-        "source": "localthunk.com",
-        "score": 356,
-        "comments": 75,
-        "hnUrl": "https://news.ycombinator.com/item?id=50657346",
-        "date": "hier"
+        "title": "Simulateur de percée en physique",
+        "titleOriginal": "Physics Breakthrough Simulator",
+        "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+        "source": "pages.ethanmdavidson.com",
+        "score": 89,
+        "comments": 23,
+        "hnUrl": "https://news.ycombinator.com/item?id=50678273",
+        "date": "il y a 3 h"
       }
     ]
   },
