@@ -1,53 +1,45 @@
 {
-  "updatedAt": "2026-11-27T18:38:32.007Z",
+  "updatedAt": "2026-11-28T01:45:20.344Z",
   "weather": {
     "city": "Châlons-en-Champagne",
     "current": {
-      "temp": 0,
-      "feelsLike": -3,
-      "code": 0,
+      "temp": -3,
+      "feelsLike": -7,
+      "code": 1,
       "wind": 8,
-      "humidity": 74
+      "humidity": 84
     },
     "forecast": [
       {
-        "date": "2026-11-27",
-        "code": 3,
-        "tmax": 3,
-        "tmin": -3
-      },
-      {
         "date": "2026-11-28",
-        "code": 2,
-        "tmax": 3,
-        "tmin": -3
+        "code": 3,
+        "tmax": 2,
+        "tmin": -4
       },
       {
         "date": "2026-11-29",
-        "code": 61,
-        "tmax": 5,
+        "code": 80,
+        "tmax": 3,
         "tmin": 0
       },
       {
         "date": "2026-11-30",
         "code": 45,
-        "tmax": 3,
-        "tmin": 0
+        "tmax": 4,
+        "tmin": 2
+      },
+      {
+        "date": "2026-12-01",
+        "code": 3,
+        "tmax": 4,
+        "tmin": 2
       }
     ]
   },
   "twitch": {
-    "live": [
-      {
-        "user": "domingo",
-        "displayName": "Domingo",
-        "game": "Brawl Stars",
-        "viewers": 5706,
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/3cdae7df-600c-4833-8dfe-8d2abc5a3b25-profile_image-300x300.png",
-        "url": "https://twitch.tv/domingo"
-      }
-    ],
+    "live": [],
     "offline": [
+      "domingo",
       "bastiui",
       "hardisk",
       "micode",
@@ -182,44 +174,44 @@
   "hackernews": {
     "items": [
       {
+        "title": "GPT 6.2 Astra résout un mystère historique",
+        "titleOriginal": "GPT 6.2 Astra Solves a Historical Mystery",
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "source": "generativehistory.substack.com",
+        "score": 315,
+        "comments": 191,
+        "hnUrl": "https://news.ycombinator.com/item?id=50643158",
+        "date": "il y a 2 j"
+      },
+      {
+        "title": "DeepCrossAttention de Google atteint une qualité de modèle comparable jusqu’à 3 fois plus rapidement",
+        "titleOriginal": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "source": "research.google",
+        "score": 79,
+        "comments": 17,
+        "hnUrl": "https://news.ycombinator.com/item?id=50672565",
+        "date": "il y a 2 h"
+      },
+      {
         "title": "Scripts de piratage de cartes de crédit utilisant WebRTC découverts sur des sites d'achat populaires",
         "titleOriginal": "Credit card skimming scripts using WebRTC found on popular shopping sites",
         "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
         "source": "infohawk.com",
-        "score": 149,
-        "comments": 86,
+        "score": 429,
+        "comments": 224,
         "hnUrl": "https://news.ycombinator.com/item?id=50668145",
-        "date": "il y a 2 h"
+        "date": "il y a 10 h"
       },
       {
-        "title": "Show HN : bouncemarket – un jeu de marché de prédictions en direct pour une balle rebondissante",
-        "titleOriginal": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-        "url": "https://bouncemarket.minhanhday.com/",
-        "source": "bouncemarket.minhanhday.com",
-        "score": 244,
-        "comments": 73,
-        "hnUrl": "https://news.ycombinator.com/item?id=50667726",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Épreuves vérifiées par ordinateur erronées",
-        "titleOriginal": "False computer-checked proofs",
-        "url": "https://cr.yp.to/proofs/falseccp.html",
-        "source": "cr.yp.to",
-        "score": 92,
-        "comments": 37,
-        "hnUrl": "https://news.ycombinator.com/item?id=50667989",
-        "date": "il y a 3 h"
-      },
-      {
-        "title": "Premières images de l'impact de l'expérience de déviation d'astéroïde DART",
-        "titleOriginal": "First images of the impact of DART asteroid deflection experiment",
-        "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-        "source": "arstechnica.com",
-        "score": 123,
-        "comments": 40,
-        "hnUrl": "https://news.ycombinator.com/item?id=50657392",
-        "date": "hier"
+        "title": "Les compétences convexes envoient l'idée d'application de l'utilisateur à un serveur distant sans le lui dire",
+        "titleOriginal": "Convex skills send the user's app idea to a remote server without telling them",
+        "url": "https://github.com/convex/convex-backend-skill/issues/64",
+        "source": "github.com",
+        "score": 231,
+        "comments": 75,
+        "hnUrl": "https://news.ycombinator.com/item?id=50669765",
+        "date": "il y a 7 h"
       }
     ]
   },
